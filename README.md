@@ -14,6 +14,8 @@ Immer gut auf anderen Leuts Platten zu bauen, soll doch ein anderer die Bandlauf
 ### Navigation
 [Grundgesetz für die Bundesrepublik Deutschland](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gg/index.md)
 
+[Einkommensteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/e/estg/index.md)
+
 
 #### Fehler in der Software
 
