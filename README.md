@@ -15,4 +15,6 @@ Immer gut auf anderen Leuts Platten zu bauen, soll doch ein anderer die Bandlauf
 [Grundgesetz für die Bundesrepublik Deutschland](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gg/index.md)
 
 
-[bild](https://bild.de)
+#### Fehler in der Software
+
+  *  github.com leckt ....
