@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 122
 
 Zuletzt geändert durch
-:   Art. 4 G v. 24.6.2024 I Nr. 212; I 2025 Nr. 262
+:   Art. 4 G v. 24.6.2024 I Nr. 212
 
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
