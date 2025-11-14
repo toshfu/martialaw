@@ -18,21 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 27.7.2021 I 3146
 
-Diese Verordnung dient der Umsetzung der Richtlinie
-89/392/EWG des Rates vom 14. Juni 1989 zur Angleichung der
-Rechtsvorschriften
-der Mitgliedstaaten für Maschinen (ABl. EG Nr. L 183 S. 9), zuletzt
-geändert
-durch die Richtlinie 91/368/EWG des Rates vom 20. Juni 1991 (ABl. EG
-Nr. L 198
-S. 16).
-Diese Verordnung ist gem. Art. 3 der V v. 12.5.1993 I 704 am 20.5.1993
-in Kraft getreten; sie wurde auf Grund d. § 4 Abs. 1 G v. 24.6.1968 I
-717
-von der Bundesregierung nach Anhörung des Ausschusses für technische
-Arbeitsmittel und der beteiligten Kreise mit Zustimmung des
-Bundesrates
-als Artikel 1 der vorgenannten V erlassen.
+[^bjnr070410993_01_BJNR070410993]:     Diese Verordnung dient der Umsetzung der Richtlinie 89/392/EWG des
+    Rates vom 14. Juni 1989 zur Angleichung der Rechtsvorschriften der
+    Mitgliedstaaten für Maschinen (ABl. EG Nr. L 183 S. 9), zuletzt
+    geändert durch die Richtlinie 91/368/EWG des Rates vom 20. Juni 1991
+    (ABl. EG Nr. L 198 S. 16).
 
 
 ## § 1 Anwendungsbereich
