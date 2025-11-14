@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1346
 
 Zuletzt geändert durch
-:   Art. 8 G v. 23.10.2024 I Nr. 323; I 2025 Nr. 137
+:   Art. 8 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
