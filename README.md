@@ -14,8 +14,8 @@ Immer gut auf anderen Leuts Platten zu bauen, soll doch ein anderer die Bandlauf
 ### Navigation
 Die Reise startet von Punkt a und endet bei b. Soll niemand sagen, es waren nicht ausreichend Informationen vorhanden.
 
-
 [TOC](https://github.com/toshfu/martialaw/blob/main/TXTSCHNIPPSEL/TOC.md)
+
 #### Fehler in der Software
 
   *  github.com leckt ....
