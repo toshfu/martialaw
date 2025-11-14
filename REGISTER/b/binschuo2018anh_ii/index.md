@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1398, 1422
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 15 V v. 5.1.2022 I 2
-
-Änderung durch
-:   Art. 1 Nr. 15 V v. 14.10.2025 I Nr. 242 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 Nr. 15 V v. 14.10.2025 I Nr. 242
 
 
 ## Inhaltsverzeichnis
@@ -2728,9 +2725,5 @@ Maßgaben anzuwenden:
     Verordnung wahrnehmen kann.
 
 
-
-
-
-#### Anlage B (zur Anlage 1 des Anhangs II) (weggefallen)
 
 
