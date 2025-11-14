@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2018, 1398, 1459
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 V v. 22.11.2024 I Nr. 370
-
-Änderung durch
-:   Art. 1 Nr. 16 V v. 14.10.2025 I Nr. 242 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 Nr. 16 V v. 14.10.2025 I Nr. 242
 
 
 ## Inhaltsverzeichnis
