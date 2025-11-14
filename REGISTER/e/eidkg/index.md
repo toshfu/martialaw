@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 846
 
 Zuletzt geändert durch
-:   Art. 6 G v. 23.10.2024 I Nr. 322; I 2025 Nr. 137
+:   Art. 6 G v. 23.10.2024 I Nr. 322
 
 Stand: Mittelbare Änderung gem. Art. 2 G v. 23.10.2024 I Nr. 322 ist berücksichtigt
 
