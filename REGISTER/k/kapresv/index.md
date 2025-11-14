@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 58
 
 Zuletzt geändert durch
-:   Art. 8a G v. 22.12.2023 I Nr. 405
+:   Art. 1 V v. 3.11.2025 I Nr. 264
 
 
 ## Eingangsformel
@@ -43,13 +43,16 @@ Energiewirtschaftsgesetzes.
 
 Im Sinne dieser Verordnung bedeutet
 
-1.  Abruf: Anforderung der Übertragungsnetzbetreiber, die
-    Wirkleistungseinspeisung von in der Kapazitätsreserve gebundenen
-    Erzeugungsanlagen, Speichern und von Anlagen nach § 25 Absatz 3 aus
-    dem Betrieb in Teillast auf die jeweils benötigte Einspeiseleistung
-    anzupassen; bei regelbaren Lasten die Anforderung der
-    Übertragungsnetzbetreiber, den Wirkleistungsbezug aus der Bereitschaft
-    um die jeweils benötigte Leistung anzupassen,
+1.  Abruf: die der Aktivierung nachgelagerte Anforderung der
+    Übertragungsnetzbetreiber, die Wirkleistungseinspeisung von in der
+    Kapazitätsreserve gebundenen Erzeugungsanlagen oder Speichern oder von
+    in den Strommärkten aktiven Anlagen im Sinne des § 25 Absatz 3 auf die
+    jeweils in einer Viertelstunde benötigte Einspeiseleistung anzupassen;
+    bei regelbaren Lasten die Anforderung der Übertragungsnetzbetreiber,
+    den Wirkleistungsbezug um die jeweils in einer Viertelstunde benötigte
+    Leistung anzupassen; mehrere Änderungen der Wirkleistungseinspeisung
+    oder des Wirkleistungsbezugs innerhalb der für die Anlage
+    berücksichtigungsfähigen Höchsterbringungsdauer gelten als ein Abruf,
 
 
 2.  Aktivierung: Anforderung der Übertragungsnetzbetreiber,
@@ -99,7 +102,10 @@ Im Sinne dieser Verordnung bedeutet
     zwischen den Hauptkomponenten verfügt,
 
 
-12. Gebotsmenge: Reserveleistung in Megawatt,
+12. Gebotsmenge: die von einem Bieter in seinem Gebot angegebene
+    Reserveleistung der gebotsgegenständlichen Anlage in Megawatt,
+    multipliziert mit dem in der Anlage zu dieser Verordnung aufgeführten
+    einschlägigen Reduktionsfaktor,
 
 
 13. Gebotstermin: Kalendertag, bis zu dem die Gebote vollständig, in der
@@ -109,6 +115,22 @@ Im Sinne dieser Verordnung bedeutet
 
 14. Gebotswert: jährliche Vergütung für die Gebotsmenge in Euro pro
     Megawatt,
+
+
+14a. Höchsterbringungsdauer: die Zeit in Minuten, die bei mehreren
+    aufeinanderfolgenden Abrufen, die jeweils in einem Abstand von sechs
+    Stunden erfolgen,
+
+    a)  eine Erzeugungsanlage oder ein Speicher höchstens in der Lage ist,
+        Strom im Umfang der Reserveleistung unter voller Last zu erzeugen und
+        in das Netz einzuspeisen,
+
+
+    b)  eine regelbare Last höchstens in der Lage ist, ihren
+        Wirkleistungsbezug um die Reserveleistung zu reduzieren,
+
+
+
 
 
 15. kalter Zustand: bei Erzeugungsanlagen und Speichern der Zustand der
@@ -137,11 +159,19 @@ Im Sinne dieser Verordnung bedeutet
     werden kann,
 
 
-20. Reserveleistung: Wirkleistungseinspeisung einer Erzeugungsanlage oder
-    eines Speichers oder Reduktion des Wirkleistungsbezugs einer
-    regelbaren Last, die den Übertragungsnetzbetreibern am
-    Netzeinspeisepunkt für den Einsatz als Kapazitätsreserve zur Verfügung
-    steht und die technischen Anforderungen nach § 9 erfüllt,
+20. Reserveleistung: die einem Übertragungsnetzbetreiber im Falle einer
+    Zuschlagserteilung am Netzanschlusspunkt für den Einsatz als
+    Kapazitätsreserve zur Verfügung stehende und die technischen
+    Anforderungen nach § 9 erfüllende
+
+    a)  Wirkleistungseinspeisung im Falle einer Erzeugungsanlage oder eines
+        Speichers,
+
+
+    b)  Reduktion des Wirkleistungsbezugs im Fall einer regelbaren Last,
+
+
+
 
 
 21. Strommärkte: Gesamtheit der Märkte und sonstigen Vertriebswege, über
@@ -194,7 +224,7 @@ Erbringungszeitraums in der Kapazitätsreserve bis zur endgültigen
 Stilllegung der Anlage anzuwenden.
 
 (3) Jeder Betreiber regelbarer Lasten muss die elektrische Energie für
-die Erbringung der Reserveleistung jeweils mindestens sechs Monate vor
+die Erbringung der Reserveleistung jeweils mindestens vier Monate vor
 Erbringung über Termingeschäfte mit physischer Erfüllung beschaffen;
 die Beschaffung von elektrischer Energie im vortägigen oder
 untertägigen Handel sowie eine Absicherung mit rein finanziellen
@@ -272,13 +302,12 @@ können. § 12 Absatz 4 des Energiewirtschaftsgesetzes ist entsprechend
 anzuwenden.
 
 
-### § 5 Verhältnis zur Regelenergie, zu abschaltbaren Lasten und zur Netzreserve
+### § 5 Verhältnis zur Regelenergie und zur Netzreserve
 
 (1) Die Übertragungsnetzbetreiber dürfen die vorgehaltene
 Reserveleistung der Kapazitätsreserve nicht anrechnen bei der
 Bestimmung des Umfangs der zu beschaffenden Primärregelleistung,
-Sekundärregelleistung und Minutenreserveleistung sowie bei der
-Beschaffung abschaltbarer Lasten.
+Sekundärregelleistung und Minutenreserveleistung.
 
 (2) Soweit Kapazitätsreserveanlagen auch die Funktion der Netzreserve
 erfüllen können, berücksichtigen die Übertragungsnetzbetreiber sie
@@ -297,25 +326,57 @@ Ausschreibungsverfahren beschaffen. Sie führen die Ausschreibungen
 gemeinsam durch.
 
 
-### § 7 Gegenstand der Beschaffung
+### § 7 Ausschreibungsvolumen
 
-Gegenstand der Beschaffung ist die nach § 13e Absatz 2 und 5 des
-Energiewirtschaftsgesetzes bestimmte Größe der Kapazitätsreserve für
-den jeweiligen Erbringungszeitraum in Megawatt abzüglich der für
-diesen Erbringungszeitraum bereits gebundenen Reserveleistung.
+(1) Das Ausschreibungsvolumen für die Bildung der Kapazitätsreserve
+für den Erbringungszeitraum vom 1. Oktober 2026 bis zum Ablauf des 30.
+September 2028 beträgt 2 Gigawatt.
+
+(2) Das Ausschreibungsvolumen für die Kapazitätsreserve für den
+Erbringungszeitraum vom 1. Oktober 2028 bis zum Ablauf des 30.
+September 2030 wird vom Bundesministerium für Wirtschaft und Energie
+für die deutsch-luxemburgische Gebotszone auf der Grundlage der
+Angemessenheitsabschätzung im Sinne des Artikels 20 der Verordnung
+(EU) 2019/943 festgelegt, die im jeweils jüngsten Bericht zum Stand
+und zur Entwicklung der Versorgungssicherheit im Bereich der
+Versorgung mit Elektrizität (§ 63 Absatz 2 Satz 1 Nummer 2 des
+Energiewirtschaftsgesetzes) sowie dem Bericht zur Abschätzung der
+Angemessenheit der Ressourcen auf europäischer Ebene (Artikel 23 der
+Verordnung (EU) 2019/943) vorgenommen wurde.
+
+(3) Für das Verfahren nach Absatz 2 ermittelt die Bundesnetzagentur
+auf der Grundlage der Zahlen, welche den in Absatz 2 genannten
+Berichten zugrunde liegen, die fehlende Kapazität, die notwendig ist,
+um die in den Berichten identifizierten Angemessenheitsbedenken für
+die Kalenderjahre 2029 und 2030 jeweils zu adressieren. Wird eines der
+beiden Kalenderjahre in diesen Berichten nicht abgebildet, so sind die
+nächstliegenden Kalenderjahre heranzuziehen, um den Umfang an
+fehlender Kapazität für das entsprechende Jahr mittels Interpolation
+abzuleiten. Ermittelt die Bundesnetzagentur anhand der den beiden
+Berichten zugrunde liegenden Zahlen einen unterschiedlich hohen Umfang
+an fehlender Kapazität oder fällt die fehlende Kapazität für die
+Kalenderjahre 2029 und 2030 unterschiedlich hoch aus, so ist der
+niedrigste der ermittelten Werte für die Bestimmung des
+Ausschreibungsvolumens zugrunde zu legen. Die Bundesnetzagentur
+übermittelt dem Bundesministerium für Wirtschaft und Energie den
+ermittelten Wert für die Bestimmung des Ausschreibungsvolumens sowie
+dessen Herleitung aus den Zahlen, welche den in Absatz 2 genannten
+Berichten zugrunde liegen, spätestens am 1. Juni 2027. Das
+Bundesministerium für Wirtschaft und Energie veröffentlicht das
+Ausschreibungsvolumen spätestens am 1. Juli 2027 auf seiner
+Internetseite.
 
 
 ### § 8 Ausschreibungs- und Erbringungszeitraum
 
 (1) Gebotstermin ist
 
-1.  der 1. Dezember 2019 für den Erbringungszeitraum vom 1. Oktober 2020
-    bis zum 30. September 2022,
+1.  der 2. März 2026 für den Erbringungszeitraum vom 1. Oktober 2026 bis
+    zum Ablauf des 30. September 2028 und
 
 
-2.  ab dem Jahr 2021 und dann alle zwei Jahre jeweils der 1. April für den
-    Erbringungszeitraum, der am 1. Oktober des auf den Gebotstermin
-    folgenden Kalenderjahres beginnt und jeweils zwei Jahre beträgt.
+2.  der 1. Dezember 2027 für den Erbringungszeitraum vom 1. Oktober 2028
+    bis zum Ablauf des 30. September 2030.
 
 
 
@@ -329,9 +390,9 @@ und Termine nach Absatz 1 anpassen.
 
 ### § 9 Teilnahmevoraussetzungen
 
-(1) Jede Anlage muss für die Teilnahme am Beschaffungsverfahren –
-vorbehaltlich einer Präzisierung oder Änderung nach Absatz 4 –
-folgende Anforderungen erfüllen:
+(1) Jede Anlage muss für die Teilnahme am Beschaffungsverfahren,
+vorbehaltlich einer Präzisierung oder Änderung nach Absatz 4,
+insbesondere folgende Anforderungen erfüllen:
 
 1.  Anschluss an ein Elektrizitätsversorgungsnetz im Bundesgebiet oder im
     Gebiet des Großherzogtums Luxemburg, das im Normalschaltzustand über
@@ -353,13 +414,16 @@ folgende Anforderungen erfüllen:
 
 4.  bei regelbaren Lasten eine konstante und vorbehaltlich der Regelung in
     § 27 eine unterbrechungsfreie Leistungsaufnahme mindestens in Höhe der
-    Gebotsmenge einschließlich der Fähigkeit, diese Leistungsaufnahme
+    Reserveleistung einschließlich der Fähigkeit, diese Leistungsaufnahme
     anhand von Leistungsnachweisen mit mindestens minutengenauer Auflösung
-    nachzuweisen, sowie
+    nachzuweisen,
 
 
 5.  bei Erzeugungsanlagen und Speichern eine Mindestteillast von maximal
-    50 Prozent der Gebotsmenge nach § 14 Absatz 4 Nummer 1.
+    50 Prozent der Reserveleistung nach § 14 Absatz 4 Nummer 1, sowie
+
+
+6.  eine Höchsterbringungsdauer von mindestens 60 Minuten.
 
 
 
@@ -465,12 +529,16 @@ Internetplattform bekannt machen.
 1.  den Gebotstermin,
 
 
-2.  den Umfang der nach § 7 zu beschaffenden Reserveleistung,
+2.  das Ausschreibungsvolumen,
 
 
 3.  die Teilnahmevoraussetzungen und Festlegungen nach § 9 Absatz 1 Satz 2
     und Absatz 2, einschließlich eines Hinweises auf die Anforderungen
     nach § 9 Absatz 1,
+
+
+3a. die Reduktionsfaktoren nach der Anlage zu dieser Verordnung,
+    aufgeschlüsselt nach der jeweiligen Höchsterbringungsdauer,
 
 
 4.  den Höchstwert nach § 12 Absatz 2,
@@ -505,11 +573,11 @@ Internetplattform bekannt machen.
 (1) In jeder Ausschreibung ist ein Höchstwert vorgegeben. Der
 Gebotswert darf den Höchstwert nicht überschreiten.
 
-(2) Der Höchstwert beträgt 100 000 Euro pro Megawatt pro Jahr. Hat in
-den drei vorangegangenen Ausschreibungen der Gebotswert des jeweils
-letzten zum Zuge gekommenen Gebots den jeweils geltenden Höchstwert
-jeweils um mehr als 10 Prozent unterschritten, reduziert sich der
-Höchstwert für die folgende Ausschreibung um 5 Prozent.
+(2) Der Höchstwert beträgt 100 000 Euro pro Megawatt Gebotsmenge pro
+Jahr. Hat in den drei vorangegangenen Ausschreibungen der Gebotswert
+des jeweils letzten zum Zuge gekommenen Gebots den jeweils geltenden
+Höchstwert jeweils um mehr als 10 Prozent unterschritten, reduziert
+sich der Höchstwert für die folgende Ausschreibung um 5 Prozent.
 
 (3) Die Bundesnetzagentur kann abweichend von Absatz 2 den Höchstwert
 für jede Ausschreibung bis spätestens 15 Monate vor dem Gebotstermin
@@ -538,8 +606,8 @@ folgenden Kalendermonats gebunden.
 ### § 14 Gebote
 
 (1) Für jeden Gebotstermin führen die Übertragungsnetzbetreiber ein
-Ausschreibungsverfahren für die gesamte in diesem Gebotstermin zu
-beschaffende Reserveleistung durch.
+Ausschreibungsverfahren für das gesamte Ausschreibungsvolumen des
+Gebotstermins durch.
 
 (2) Jeder Bieter muss sein Gebot verdeckt abgeben. Gebote dürfen nicht
 bedingt, befristet oder mit einer sonstigen Nebenabrede verbunden
@@ -548,22 +616,33 @@ werden.
 (3) Jeder Bieter darf in einer Ausschreibung mehrere Gebote abgeben.
 Die Gebote dürfen sich nicht auf dieselbe Anlage beziehen.
 
-(4) Jedes Gebot muss zur Durchführung der Ausschreibung die folgenden
-Angaben enthalten:
+(4) Ein Gebot muss, um im Beschaffungsverfahren berücksichtigt werden
+zu können, die folgenden Angaben enthalten:
 
-1.  die Gebotsmenge in Megawatt ohne Nachkommastellen,
-
-
-2.  den Gebotswert mit zwei Nachkommastellen,
+1.  die Gebotsmenge und die dieser zugrunde liegende Reserveleistung in
+    Megawatt ohne Nachkommastellen,
 
 
-3.  Name, Anschrift, Telefonnummer und E-Mail-Adresse des Bieters und
+2.  den Gebotswert in Euro mit zwei Nachkommastellen,
 
 
-4.  die Anlage, mit der die Reserveleistung erbracht werden soll.
+3.  Name, Anschrift, Telefonnummer und E-Mail-Adresse des Bieters,
+
+
+4.  die Bezeichnung der Anlage, mit der die Reserveleistung erbracht
+    werden soll, und
+
+
+5.  die Höchsterbringungsdauer, wobei bei einer den Wert von 2 400 Minuten
+    übersteigenden Höchsterbringungsdauer maximal 2 400 Minuten
+    berücksichtigungsfähig sind.
 
 
 
+Die nach Satz 1 Nummer 1 anzugebende Gebotsmenge ermittelt sich aus
+der Multiplikation der Reserveleistung der Anlage, mit der die
+Reserveleistung erbracht werden soll, und des in der Anlage zu dieser
+Verordnung aufgeführten einschlägigen Reduktionsfaktors.
 
 (5) Handelt es sich bei dem Bieter um eine rechtsfähige
 Personengesellschaft oder um eine juristische Person, muss jedes Gebot
@@ -591,12 +670,12 @@ enthalten:
 
 
 
-(6) Die Gebotsmenge muss jeweils mindestens 5 Megawatt betragen. Sie
+(6) Die Gebotsmenge muss jeweils mindestens 1 Megawatt betragen. Sie
 darf nur aus einer Anlage erbracht werden. Ein Gebot, das sich auf
 mehrere Anlagen bezieht, ist unzulässig. § 15 bleibt unberührt.
 
-(7) Die Gebotsmenge und der Gebotswert sind einheitlich für den
-gesamten Erbringungszeitraum anzugeben.
+(7) Die Gebotsmenge, die Reserveleistung und der Gebotswert sind
+einheitlich für den gesamten Erbringungszeitraum anzugeben.
 
 
 ### § 15 Regeln für die Zusammenlegung
@@ -649,8 +728,8 @@ Dem Gebot sind in geeigneter Form beizufügen:
 
 4.  Angaben zu dem Netzbetreiber, an dessen Netz die Anlage angeschlossen
     ist, dem Anlagentyp und, soweit die Anlage diese Merkmale aufweist, zu
-    dem verwendeten Brennstoff und der Identifikationsnummer der Anlage
-    bei der Bundesnetzagentur,
+    dem verwendeten Brennstoff und der Nummer der Anlage im
+    Marktstammdatenregister,
 
 
 5.  für eine Anlage, die an ein Verteilernetz angeschlossen ist, eine
@@ -749,7 +828,7 @@ bezieht, kein Gebot abgegeben haben.
 
 ### § 18 Zuschlag
 
-(1) Die Übertragungsnetzbetreiber sollen den Zuschlag spätestens 75
+(1) Die Übertragungsnetzbetreiber sollen den Zuschlag spätestens 60
 Tage nach dem jeweiligen Gebotstermin erteilen. Überschreiten die
 Übertragungsnetzbetreiber die Frist nach Satz 1, müssen sie dies
 unverzüglich auf der gemeinsamen Internetplattform unter Angabe der zu
@@ -765,41 +844,40 @@ Zweitsicherheit nach § 10 Absatz 2 fristgerecht und vollständig
 leistet.
 
 (3) Überschreitet die Summe der Gebotsmengen aller zulässigen Gebote
-den Umfang der nach § 7 zu beschaffenden Reserveleistung nicht, müssen
-die Übertragungsnetzbetreiber allen zulässigen Geboten einen Zuschlag
+das Ausschreibungsvolumen nach § 7 nicht, müssen die
+Übertragungsnetzbetreiber allen zulässigen Geboten einen Zuschlag
 erteilen.
 
 (4) Überschreitet die Summe der Gebotsmengen aller zulässigen Gebote
-den Umfang der nach § 7 zu beschaffenden Reserveleistung, müssen die
+das Ausschreibungsvolumen nach § 7, müssen die
 Übertragungsnetzbetreiber den Zuschlag nach dem Verfahren nach den
 Absätzen 5 und 6 erteilen.
 
 (5) Die Übertragungsnetzbetreiber erstellen eine Rangfolge der
 zulässigen Gebote. Der Rang eines Gebots bestimmt sich nach dem
-jeweiligen Gebotswert, hilfsweise nach der jeweiligen Gebotsmenge, im
-Falle von Erzeugungsanlagen äußerst hilfsweise nach dem jeweiligen
+jeweiligen Gebotswert, hilfsweise nach dem jeweiligen auf die
+gebotsgegenständliche Anlage anzuwendenden Reduktionsfaktor, im Falle
+von Erzeugungsanlagen äußerst hilfsweise nach dem jeweiligen
 Wirkungsgrad bei Netto-Nennleistung und im Übrigen nach Los. Bei
 Geboten mit unterschiedlichen Gebotswerten bestimmt sich der Rang nach
 dem jeweiligen Gebotswert in aufsteigender Reihenfolge, beginnend mit
 dem Gebot mit dem niedrigsten Gebotswert. Bei Geboten mit gleichem
-Gebotswert bestimmt sich der Rang nach der jeweiligen Gebotsmenge in
-aufsteigender Reihenfolge, beginnend mit dem Gebot mit der niedrigsten
-Gebotsmenge. Sind Gebotswert und Gebotsmenge gleich, entscheidet im
-Falle der Gleichrangigkeit von Erzeugungsanlagen der höhere
-Nettowirkungsgrad über den Rang, in allen anderen Fällen entscheidet
-das Los über den Rang. Sind Gebotswert, Gebotsmenge und Wirkungsgrad
-von Erzeugungsanlagen gleich, entscheidet das Los über den Rang.
+Gebotswert bestimmt sich der Rang nach dem jeweiligen auf die
+gebotsgegenständliche Anlage anzuwendenden Reduktionsfaktor in
+absteigender Reihenfolge, beginnend mit dem Gebot mit dem höchsten
+Reduktionsfaktor. Sind Gebotswert und Reduktionsfaktor gleich,
+entscheidet im Falle der Gleichrangigkeit von Erzeugungsanlagen der
+höhere Nettowirkungsgrad über den Rang, in allen anderen Fällen
+entscheidet das Los über den Rang. Sind Gebotswert, Reduktionsfaktor
+und Wirkungsgrad von Erzeugungsanlagen gleich, entscheidet das Los
+über den Rang.
 
 (6) Die Übertragungsnetzbetreiber erteilen den zulässigen Geboten in
 der Rangfolge nach Absatz 5 Satz 1 einen Zuschlag im Umfang der
-jeweiligen Gebotsmenge bis die nach § 7 zu beschaffende
-Reserveleistung durch den Zuschlag zu einem Gebot erreicht oder
-erstmals überschritten ist (Zuschlagsgrenze). Geboten oberhalb der
-Zuschlagsgrenze wird kein Zuschlag erteilt. Abweichend von Satz 1
-erteilen die Übertragungsnetzbetreiber keinen weiteren Zuschlag, wenn
-95 Prozent der zu beschaffenden Reserveleistung erreicht sind und mit
-einem weiteren Zuschlag die zu beschaffende Reserveleistung um mehr
-als 5 Prozent überschritten würde.
+jeweiligen Gebotsmenge bis das Ausschreibungsvolumen nach § 7 durch
+den Zuschlag zu einem Gebot erreicht oder erstmals überschritten ist
+(Zuschlagsgrenze). Geboten oberhalb der Zuschlagsgrenze wird kein
+Zuschlag erteilt.
 
 (7) Die Übertragungsnetzbetreiber müssen Bieter, deren Gebote einen
 Zuschlag erhalten haben, unverzüglich über den Vertragsschluss
@@ -813,9 +891,9 @@ nächsten Geboten einen Zuschlag erteilen, bis die Zuschlagsgrenze
 erreicht oder überschritten ist.
 
 (9) Unterschreitet die Summe der Gebotsmengen aller wirksam
-geschlossenen Verträge den Umfang der nach § 7 zu beschaffenden
-Reserveleistung, sollen die Übertragungsnetzbetreiber innerhalb eines
-angemessenen Zeitraums eine Nachbeschaffung nach § 23 durchführen.
+geschlossenen Verträge das Ausschreibungsvolumen nach § 7, können die
+Übertragungsnetzbetreiber innerhalb eines angemessenen Zeitraums eine
+Nachbeschaffung nach § 23 durchführen.
 
 
 ### § 19 Vergütung
@@ -841,7 +919,8 @@ Erbringungszeitraum die nach Absatz 4 zu erstattenden Kosten.
 (3) Die jährliche Vergütung umfasst
 
 1.  bis zu 16 Einsätze in der Kapazitätsreserve pro Vertragsjahr mit einer
-    Dauer des Abrufs von jeweils bis zu 12 Stunden,
+    jeweiligen Dauer des Abrufs bis zu der nach § 14 Absatz 4 Satz 1
+    Nummer 5 berücksichtigungsfähigen Höchsterbringungsdauer,
 
 
 2.  den oder die Funktionstests nach § 28,
@@ -979,36 +1058,34 @@ Vertrag kündigen, wenn
 
 ### § 23 Nachbeschaffung
 
-(1) Die Übertragungsnetzbetreiber sollen die Reserveleistung in
-Abstimmung mit der Bundesnetzagentur in Verfahren zusätzlich zu den
-nach § 8 Absatz 1 vorgesehenen Verfahren beschaffen, wenn
+(1) Die Übertragungsnetzbetreiber können die Kapazitätsreserve in
+Abstimmung mit der Bundesnetzagentur zusätzlich zu den nach § 8 Absatz
+1 vorgesehenen Gebotsterminen auch durch weitere Gebotstermine
+beschaffen (Nachbeschaffung), wenn
 
-1.  nach § 13e Absatz 5 des Energiewirtschaftsgesetzes eine Anpassung der
-    Größe der Kapazitätsreserve erfolgt, die nicht im Verfahren nach § 8
-    umgesetzt werden kann,
-
-
-2.  dies aufgrund von Vertragsbeendigungen nach § 22 für die Erfüllung der
+1.  dies aufgrund von Vertragsbeendigungen nach § 22 für die Erfüllung der
     Reservefunktion erforderlich ist oder
 
 
-3.  im Rahmen von Ausschreibungen nach § 8 nicht die gesamte nach § 7 zu
-    beschaffende Reserveleistung gebunden werden konnte.
+2.  im Rahmen von Ausschreibungen nach § 8 nicht das gesamte
+    Ausschreibungsvolumen nach § 7 gebunden werden konnte.
 
 
 
 
-(2) Für die Nachbeschaffung nach Absatz 1 sind die Vorschriften zum
-Beschaffungsverfahren entsprechend anzuwenden, wobei die vorgesehenen
-Fristen angepasst werden können. Der Erbringungszeitraum für die im
-Wege der Nachbeschaffung gebundene Reserveleistung endet mit dem
-Beginn des jeweils folgenden Erbringungszeitraums nach § 8 Absatz 1.
-Die Übertragungsnetzbetreiber führen die Nachbeschaffung nach Absatz 1
-Nummer 3 erst nach Ablauf der Frist nach § 10 Absatz 2 durch.
+(2) Für die Nachbeschaffung sind die Vorschriften zum
+Beschaffungsverfahren entsprechend mit den Maßgaben anzuwenden, dass
+die vorgesehenen Fristen angepasst werden können und sich der Umfang
+der Nachbeschaffung aus der Subtraktion der bereits bezuschlagten
+Gebotsmenge vom Ausschreibungsvolumen nach § 7 des jeweiligen
+Erbringungszeitraums ergibt. Der Erbringungszeitraum für die
+Nachbeschaffung endet mit dem Beginn des jeweils folgenden
+Erbringungszeitraums nach § 8. Die Übertragungsnetzbetreiber führen
+die Nachbeschaffung nach Absatz 1 Nummer 2 erst nach Ablauf der Frist
+nach § 10 Absatz 2 durch.
 
-(3) Ist die Nachbeschaffung nach Absatz 1 Nummer 3 nicht erfolgreich,
-entscheidet die Bundesnetzagentur über geeignete Maßnahmen zur
-Beschaffung der notwendigen Reserveleistung durch die
+(3) Ist die Nachbeschaffung nach Absatz 1 Nummer 2 nicht erfolgreich,
+entscheidet die Bundesnetzagentur über geeignete Maßnahmen durch die
 Übertragungsnetzbetreiber. Sie kann hierzu Analysen von den
 Übertragungsnetzbetreibern anfordern.
 
@@ -1079,8 +1156,10 @@ wenn:
     Markträumung ausbleibt,
 
 
-2.  bei der Eröffnungsauktion des untertägigen Handels an der Strombörse
-    die Markträumung ausbleibt oder
+2.  an der Strombörse bei der jeweiligen europäischen Intraday-Auktion die
+    Markträumung um 15 Uhr oder 22 Uhr jeweils für den Folgetag oder um 10
+    Uhr für den Zeitraum von 12 Uhr bis 24 Uhr des gleichen Tages
+    ausbleibt, oder
 
 
 3.  im untertägigen, kontinuierlichen Handel an der Strombörse für eine
@@ -1123,13 +1202,15 @@ erforderlich sind, bleiben von Absatz 1 unberührt.
 
 ### § 26 Abruf
 
-(1) Der Abruf erfolgt nachrangig zu Maßnahmen nach § 13 Absatz 1
-Nummer 1 und 2 des Energiewirtschaftsgesetzes. Der Abruf kann im
-Verhältnis zur Regelenergie abweichend von Satz 1 erfolgen, wenn dies
-für einen sicheren und zuverlässigen Betrieb des Übertragungsnetzes
-erforderlich ist.
+(1) Die Auswahlentscheidung für einen Abruf der Kapazitätsreserve oder
+in der Netzreserve bestimmt sich nach § 13 Absatz 1 bis 1c des
+Energiewirtschaftsgesetzes. Der Abruf zum Ausgleich von
+Leistungsbilanzdefiziten kann im Verhältnis zur Regelenergie
+abweichend von Satz 1 erfolgen, wenn dies für einen sicheren und
+zuverlässigen Betrieb des Übertragungsnetzes erforderlich ist.
 
-(2) Die Abrufdauer beträgt jeweils bis zu 12 Stunden. Zwischen
+(2) Die Abrufdauer beträgt jeweils maximal die nach § 14 Absatz 4 Satz
+1 Nummer 5 berücksichtigungsfähige Höchsterbringungsdauer. Zwischen
 einzelnen Abrufen liegen mindestens sechs Stunden. Der
 Anlagenbetreiber darf auf den Zeitraum zwischen zwei Abrufen nach Satz
 2 verzichten, indem er dies dem Anschluss-Übertragungsnetzbetreiber
@@ -1189,11 +1270,14 @@ sind während zulässiger Nichtverfügbarkeiten untersagt.
 (1) Der Anschluss-Übertragungsnetzbetreiber führt für jede
 Kapazitätsreserveanlage einen Funktionstest durch, um zu überprüfen,
 ob die Kapazitätsreserveanlagen die Teilnahmevoraussetzungen nach § 9
-erfüllen. Der Funktionstest umfasst insbesondere die Aktivierung und
-für eine Dauer von bis zu 12 Stunden den Abruf mit der vollständigen
-Reserveleistung. Der Anschluss-Übertragungsnetzbetreiber kann im
-Rahmen des Funktionstests auch die Angaben des Anlagenbetreibers nach
-§ 16 Nummer 7 überprüfen.
+erfüllen und den im Gebot nach § 14 Absatz 4 Satz 1 Nummer 1 und 5
+maßgeblichen Werten entsprechen. Der Funktionstest umfasst
+insbesondere die Aktivierung und den bis zu zweimaligen Abruf mit der
+vollständigen Reserveleistung für die nach § 14 Absatz 4 Satz 1 Nummer
+5 berücksichtigungsfähige Höchsterbringungsdauer, wobei zwischen den
+einzelnen Abrufen mindestens sechs Stunden liegen müssen. Der
+Anschluss-Übertragungsnetzbetreiber kann im Rahmen des Funktionstests
+auch die Angaben des Anlagenbetreibers nach § 16 Nummer 7 überprüfen.
 
 (2) Der Anschluss-Übertragungsnetzbetreiber führt den Funktionstest
 einer Kapazitätsreserveanlage innerhalb der zwei Monate durch, die dem
@@ -1202,11 +1286,12 @@ muss den Zeitpunkt des Funktionstests mit dem Betreiber der Anlage
 abstimmen.
 
 (3) Erfüllt eine Kapazitätsreserveanlage die Teilnahmevoraussetzungen
-nach § 9 in einem Funktionstest nach Absatz 1 nicht, kann der
-Betreiber vom Anschluss-Übertragungsnetzbetreiber die Wiederholung des
-Funktionstests verlangen. Der Anschluss-Übertragungsnetzbetreiber muss
-die Wiederholung des Funktionstests unverzüglich nach Verlangen des
-Betreibers durchführen. Der Funktionstest kann mehrfach wiederholt
+nach § 9 oder die im Gebot nach § 14 Absatz 4 Satz 1 Nummer 1 und 5
+maßgeblichen Werte in einem Funktionstest nach Absatz 1 nicht, kann
+der Betreiber vom Anschluss-Übertragungsnetzbetreiber die Wiederholung
+des Funktionstests verlangen. Der Anschluss-Übertragungsnetzbetreiber
+muss die Wiederholung des Funktionstests unverzüglich nach Verlangen
+des Betreibers durchführen. Der Funktionstest kann mehrfach wiederholt
 werden. Der Anspruch des Betreibers auf Wiederholung erlischt sechs
 Monate nach dem Beginn des Erbringungszeitraums.
 
@@ -1215,14 +1300,15 @@ Monate nach dem Beginn des Erbringungszeitraums.
 
 (1) Der jeweilige Anschluss-Übertragungsnetzbetreiber muss wenigstens
 einmal und darf höchstens zweimal pro Vertragsjahr Probeabrufe der
-Kapazitätsreserveanlage mit der vollständigen Reserveleistung für eine
-Dauer von bis zu 12 Stunden ohne Vorankündigung gegenüber dem
-Betreiber durchführen. Die Übertragungsnetzbetreiber können für die
-Durchführung der Probeabrufe weitere Anforderungen bestimmen.
-Probeabrufe dürfen erst nach einem erfolgreichen Funktionstest nach §
-28 durchgeführt werden. War der Funktionstest hinsichtlich einer
-Teilmenge der Reserveleistung erfolgreich, sind Probeabrufe für diese
-Teilmenge zulässig.
+Kapazitätsreserveanlage mit der vollständigen Reserveleistung für die
+nach § 14 Absatz 4 Satz 1 Nummer 5 berücksichtigungsfähige
+Höchsterbringungsdauer ohne Vorankündigung gegenüber dem Betreiber
+durchführen. Die Übertragungsnetzbetreiber können für die Durchführung
+der Probeabrufe weitere Anforderungen bestimmen. Probeabrufe dürfen
+erst nach einem erfolgreichen Funktionstest nach § 28 durchgeführt
+werden. War der Funktionstest hinsichtlich einer Teilmenge der
+Reserveleistung erfolgreich, sind Probeabrufe für diese Teilmenge
+zulässig.
 
 (2) Die Anzahl der Probeabrufe verringert sich um je einen Probeabruf
 für jeden Abruf im Rahmen der Kapazitätsreserve; es sei denn, die
@@ -1238,9 +1324,12 @@ Durchführung mit dem Anschluss-Übertragungsnetzbetreiber abzustimmen
 und im Falle von im Verteilernetz angeschlossenen Anlagen dem
 Verteilernetzbetreiber schriftlich oder elektronisch mitzuteilen. Der
 Anschluss-Übertragungsnetzbetreiber kann verlangen, dass die Testfahrt
-zu einem anderen Zeitpunkt durchgeführt wird, wenn und soweit dies für
-die Funktionsfähigkeit der Kapazitätsreserve erforderlich und
-technisch möglich ist. Die Dauer einer Testfahrt soll 12 Stunden nicht
+zu einem anderen Zeitpunkt durchgeführt wird, wenn zu erwarten ist,
+dass zum gewünschten Zeitpunkt kein bilanzieller Ausgleich
+gewährleistet werden kann oder sonstige netztechnische Gründe einer
+Einspeisung entgegenstehen. Die Pflicht aus § 27 Absatz 1 bleibt
+hiervon unberührt. Die Dauer einer Testfahrt soll die nach § 14 Absatz
+4 Satz 1 Nummer 5 berücksichtigungsfähige Höchsterbringungsdauer nicht
 überschreiten. Testfahrten verringern nicht die Anzahl der Probeabrufe
 nach Absatz 1.
 
@@ -1288,8 +1377,7 @@ dargelegt und nachgewiesen hat.
 (1) Die Übertragungsnetzbetreiber rechnen Bilanzkreisunterspeisungen
 und Bilanzkreisüberspeisungen für die Fahrplanviertelstunden, in denen
 ein Abruf nach § 26 erfolgt ist, im Rahmen der
-Ausgleichsenergieabrechnung nach § 8 Absatz 2 der
-Stromnetzzugangsverordnung ab.
+Ausgleichsenergieabrechnung ab.
 
 (2) Die Preise für die Ausgleichsenergie, die nach Absatz 1 den
 Bilanzkreisverantwortlichen für Bilanzkreisunterspeisungen in Rechnung
@@ -1327,7 +1415,8 @@ Vertragsstrafen gegenüber der Bundesnetzagentur gesondert aus.
 ### § 34 Zahlungspflichten bei Nichtverfügbarkeit der Anlage
 
 (1) Erfüllt eine Kapazitätsreserveanlage im Rahmen der Funktionstests
-nach § 28 die Anforderungen nach § 9 bis zum Beginn des
+nach § 28 die Anforderungen nach § 9 oder die im Gebot nach § 14
+Absatz 4 Satz 1 Nummer 1 und 5 maßgeblichen Werte bis zum Beginn des
 Erbringungszeitraums nicht, muss der Betreiber eine Vertragsstrafe in
 Höhe von 20 Prozent der für den gesamten Erbringungszeitraum
 vereinbarten Vergütung nach § 19 Absatz 1 Satz 1 an den Anschluss-
@@ -1339,10 +1428,11 @@ durchgeführt wurde; es sei denn der Anschluss-
 (2) Die Vertragsstrafe ist lediglich anteilig zu leisten, wenn die
 Kapazitätsreserveanlage innerhalb von sechs Monaten nach Beginn des
 Erbringungszeitraums im Rahmen eines Funktionstests nach § 28 die
-Anforderungen nach § 9 erfüllt. Die Vertragsstrafe beträgt im Falle
-des Satzes 1 für den ersten angefangenen Monat ein Sechstel und für
-jeden weiteren angefangenen Monat ein Zwölftel des nach Absatz 1
-vorgesehenen Gesamtbetrages.
+Anforderungen nach § 9 und die im Gebot nach § 14 Absatz 4 Satz 1
+Nummer 1 und 5 maßgeblichen Werte erfüllt. Die Vertragsstrafe beträgt
+im Falle des Satzes 1 für den ersten angefangenen Monat ein Sechstel
+und für jeden weiteren angefangenen Monat ein Zwölftel des nach Absatz
+1 vorgesehenen Gesamtbetrages.
 
 (3) In den Fällen der Absätze 1 und 2 erhält der Betreiber bis zum
 erfolgreichen Funktionstest keine Vergütung und der Vergütungsanspruch
@@ -1523,10 +1613,9 @@ gemeinsamen Internetplattform innerhalb angemessener Frist
         werden, und
 
 
-    b)  die Namen der Bieter, die einen Zuschlag erhalten, einschließlich
-        gegebenenfalls der Identifikationsnummer der Anlage bei der
-        Bundesnetzagentur, der Reserveleistung sowie einer eindeutigen
-        Zuschlagsnummer.
+    b)  die Namen der Bieter, die einen Zuschlag erhalten, einschließlich der
+        Nummer der Anlage im Marktstammdatenregister, der Reserveleistung
+        sowie einer eindeutigen Zuschlagsnummer.
 
 
 
@@ -1757,4 +1846,69 @@ Kapazitätsreserve erreicht oder überschritten wird.
 ### § 47 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+(zu § 14 Absatz 4 Satz 2)
+
+### Anlage Reduktionsfaktoren
+
+(Fundstelle: BGBl. 2025 I Nr. 264, S. 5)
+
+Der Reduktionsfaktor beträgt für Anlagen mit einer
+Höchsterbringungsdauer von mindestens
+
+–   60 Minuten aber weniger als 120 Minuten 0,13,
+
+
+–   120 Minuten aber weniger als 180 Minuten 0,23,
+
+
+–   180 Minuten aber weniger als 240 Minuten 0,32,
+
+
+–   240 Minuten aber weniger als 300 Minuten 0,38,
+
+
+–   300 Minuten aber weniger als 360 Minuten 0,44,
+
+
+–   360 Minuten aber weniger als 420 Minuten 0,49,
+
+
+–   420 Minuten aber weniger als 480 Minuten 0,54,
+
+
+–   480 Minuten aber weniger als 540 Minuten 0,58,
+
+
+–   540 Minuten aber weniger als 600 Minuten 0,63,
+
+
+–   600 Minuten aber weniger als 660 Minuten 0,66,
+
+
+–   660 Minuten aber weniger als 720 Minuten 0,70,
+
+
+–   720 Minuten aber weniger als 780 Minuten 0,73,
+
+
+–   780 Minuten aber weniger als 840 Minuten 0,76,
+
+
+–   840 Minuten aber weniger als 1 020 Minuten 0,81,
+
+
+–   1 020 Minuten aber weniger als 1 260 Minuten 0,87,
+
+
+–   1 260 Minuten aber weniger als 1 620 Minuten 0,92,
+
+
+–   1 620 Minuten aber weniger als 2 400 Minuten 0,97,
+
+
+–   2 400 Minuten 1,00.
+
+
+
 

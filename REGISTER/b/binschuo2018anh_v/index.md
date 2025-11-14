@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1398, 1475
 
-Geändert durch
-:   Art. 2 Abs. 6 Nr. 11 V v. 26.11.2021 I 4982, 5204, 2023 I Nr. 144
-
-Änderung durch
-:   Art. 1 Nr. 17 V v. 14.10.2025 I Nr. 242 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 Nr. 17 V v. 14.10.2025 I Nr. 242
 
 
 ## Inhaltsverzeichnis

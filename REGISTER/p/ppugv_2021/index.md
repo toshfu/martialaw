@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2357
 
 Zuletzt geändert durch
-:   Art. 5a G v. 5.12.2024 I Nr. 400
+:   Art. 1 V v. 4.11.2025 I Nr. 267
 
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 
@@ -966,15 +966,15 @@ außer Kraft.
 
 ## Anlage Indikatoren-DRGs
 
-(Fundstelle: BGBl. 2024 I Nr. 345, S. 2 - 44)
+(Fundstelle: BGBl. 2025 I Nr. 267, S. 2 - 44)
 
 Folgende DRGs des ausgegliederten German Diagnosis Related Groups
-Fallpauschalen-Katalogs 2024, der auf der Internetseite des Instituts
+Fallpauschalen-Katalogs 2025, der auf der Internetseite des Instituts
 für das Entgeltsystem im Krankenhaus veröffentlicht ist, gelten als
-Indikatoren für das Vorhandensein eines pflegesensitiven Bereiches in
+Indikatoren für das Vorhandensein eines pflegesensitiven Bereichs in
 Krankenhäusern:
 
-*    *   DRG 2024
+*    *   DRG 2025
 
     *   DRG-Bezeichnung
 
@@ -1075,12 +1075,6 @@ Krankenhäusern:
 
     *   Komplexe oder mehrfache Gefäßeingriffe außer große rekonstruktive
         Eingriffe, ohne äußerst schwere CC
-
-
-*    *   F20Z
-
-    *   Beidseitige Unterbindung und Stripping von Venen mit bestimmter
-        Diagnose oder äußerst schweren oder schweren CC
 
 
 *    *   F27A
@@ -1350,7 +1344,7 @@ Krankenhäusern:
     *   Komplexe Rektumresektion od. and. Rektumres. m. best. Eingr. od.
         kompl. Diagnose od. mehrz. Enterostomaanlage und -rückverlagerung, m.
         kompliz. Konstell. od. plast. Rekonstruktion m. myokut. Lappen od.
-        IntK*                        196 / 368 / - P. od. endorektale
+        IntK*                        196/ 368/ - P. od. endorektale
         Vakuumtherapie
 
 
@@ -1359,7 +1353,7 @@ Krankenhäusern:
     *   Komplexe Rektumresektion od. andere Rektumres. mit best. Eingr. od.
         kompl. Diag. od. mehrz. Enterostomaanlage u. -rückverlagerung, ohne
         kompliz. Konstell. od. plast. Rekonstruktion m. myokut. Lappen od.
-        IntK*                        196 / 368 / - P. ohne endorekt.
+        IntK*                        196/ 368/ - P. ohne endorekt.
         Vakuumtherapie
 
 
@@ -1528,6 +1522,16 @@ Krankenhäusern:
         17 Jahre, ohne komplexe Diagnose, ohne kleinen Eingriff am Rektum
 
 
+*    *   G26M
+
+    *   Hybrid-DRG der DRG G26B
+
+
+*    *   G26N
+
+    *   Hybrid-DRG der DRG G26A
+
+
 *    *   G33Z
 
     *   Mehrzeitige komplexe OR-Prozeduren oder hochaufwendiges Implantat bei
@@ -1590,7 +1594,7 @@ Krankenhäusern:
     *   Eingriffe an Pankreas und Leber und portosystemische Shuntoperationen
         mit großem Eingriff oder Strahlentherapie oder komplexer Eingriff an
         Gallenblase und Gallenwegen, Alter < 14 J., ohne kompl. Eingriff, ohne
-        intensivmed. Komplexbeh.*                        392 / 368 / - P.
+        intensivmed. Komplexbeh. > 392 / 368 / - P.
 
 
 *    *   H02A
@@ -1864,9 +1868,10 @@ Krankenhäusern:
 *    *   K06B
 
     *   Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus
-        ohne IntK*                        392 / 368 / - Punkte, bei BNB oder
-        mit äuß. schw. oder schw. CC oder Eingr. an der Schilddrüse außer kl.
-        Eingr., mit Thyreoidektomie durch Sternotomie oder Alter < 16 Jahre
+        ohne IntK*                        392 /
+        368 / - Punkte,                        bei BNB oder mit äuß. schw.
+        oder schw. CC oder Eingr. an der Schilddrüse außer kl. Eingr., mit
+        Thyreoidektomie durch Sternotomie oder Alter < 16 Jahre
 
 
 *    *   K06C
@@ -2152,8 +2157,8 @@ Krankenhäusern:
 
 *    *   J25Z
 
-    *   Kleine Eingriffe an der Mamma bei bösartiger Neubildung ohne äußerst
-        schwere oder schwere CC
+    *   Kleine Eingriffe an der Mamma und andere Eingriffe bei bösartiger
+        Neubildung ohne äußerst schwere oder schwere CC
 
 
 *    *   J62B
@@ -2279,7 +2284,7 @@ Krankenhäusern:
 
 *    *   N07N
 
-    *   Hybrid-DRG der DRG N07B
+    *   Hybrid-DRG der DRG N07A
 
 
 *    *   N08Z
@@ -3053,23 +3058,23 @@ Krankenhäusern:
 
     *   Andere Eingriffe mit Herz-Lungen-Maschine, Alter < 1 Jahr oder mit
         best. kompliz. Konstellation od. kompl. Operation oder IntK*
-        - / 368 / - P. oder Alter < 18 Jahre mit Reop. Herz od. Perikard oder
+        - / 368 /- P. oder Alter < 18 Jahre mit Reop. Herz od. Perikard oder
         and. kompliz. Konstellation, mit best. kompl. Eingriffen
 
 
 *    *   F07B
 
     *   And. Eingr. mit HLM, Alter < 1 J. od. mit best. kompl. Konst. od.
-        IntK*                        - / 368 / - P., oh. best. kompl. Eingr.
-        od. Alter*                        0 J., IntK < - / 369 / - P., m. and.
-        kompl. Eingr. mit Reop. Herz od. Perik. od. mit best. and. kompliz.
-        Konst. od. mit best. Aortklers.
+        IntK*                        -/368 /- P., oh. best. kompl. Eingr. od.
+        Alter*                        0 J., IntK < -/369/- P., m. and. kompl.
+        Eingr. mit Reop. Herz od. Perik. od. mit best. and. kompliz. Konst.
+        od. mit best. Aortklers.
 
 
 *    *   F07C
 
     *   Andere Eingr. mit HLM, Alter*                        0 J., IntK < - /
-        369 / - P. oder Alter*                        17 J. od. ohne Reop. od.
+        369/- P. oder Alter*                        17 J. od. ohne Reop. od.
         ohne and. kompliz. Konst., ohne and. kompl. Eingriffe od. ohne Reop.
         an Herz od. Perikard od. ohne best. and. kompliz. Konst. od. ohne
         best. Aortklers.
@@ -3181,8 +3186,10 @@ Krankenhäusern:
 *    *   E40C
 
     *   Krankheiten und Störungen der Atmungsorgane mit Beatmung*
-        24 Stunden, mehr als 2 Belegungstage, mit komplexer Prozedur, ohne
-        äußerst schwere CC, außer bei bestimmter Para- / Tetraplegie
+        24 h, mehr als 2 BT, mit kompl. Prozedur, IntK*
+        - / 184 / - und < 197 / 369 /- Punkte bei akuter Exazerb. best.
+        interstit. LungenKh, ohne äußerst schwere CC, außer bei best. Para- /
+        Tetraplegie
 
 
 *    *   E41Z
@@ -3278,23 +3285,23 @@ Krankenhäusern:
 
     *   Neubildungen der Atmungsorgane mit intensivmedizinischer
         Komplexbehandlung*                        196 / 184 / -
-        Aufwandspunkten oder mehr als ein Belegungstag, mit äußerst schweren
-        CC
+        Aufwandspunkten oder mehr als ein Belegungstag mit äußerst schweren CC
 
 
 *    *   E71B
 
     *   Neubildungen der Atmungsorgane, ein Belegungstag oder ohne äußerst
         schwere CC, mit Ösophagusprothese oder endoskopischer Stufenbiopsie
-        oder endoskopischer Biopsie am Respirationstrakt mit Chemotherapie,
-        mit int. Komplexbeh.*                        196 / 184 / - Punkten
+        oder endoskopischer Biopsie am Respirationstrakt mit Chemotherapie
+        ohne int. Komplexbeh.*                        196 / 184 / - Punkten
 
 
 *    *   E71C
 
     *   Neubildungen der Atmungsorgane, ein Belegungstag oder ohne äußerst
-        schwere CC, mit Ösophagusprothese oder endoskopischer Stufenbiopsie
-        oder endoskopischer Biopsie am Respirationstrakt mit Chemotherapie
+        schwere CC, ohne Ösophagusproth., ohne Stufenbiop., ohne Chemotherapie
+        od. ohne endoskop. Biop. am Respir.-Trakt, mit Bronchoskop. mit
+        starrem Instr. oder perkut. Biop. am Respir.-Trakt
 
 
 *    *   E71D
@@ -3677,7 +3684,8 @@ Krankenhäusern:
 
     *   Hypertonie ohne komplizierende Diagnose, ohne äußerst schwere oder
         schwere CC, ohne bestimmte hochaufwendige / mäßig aufwendige /
-        aufwendige Behandlung, Alter*                        17 Jahre
+        aufwendige Behandlung, ohne primäre Überfunktion von Nebenschilddrüse
+        oder Nebenniere, Alter*                        17 Jahre
 
 
 *    *   F69A
@@ -3974,14 +3982,30 @@ Krankenhäusern:
 
 *    *   H41D
 
-    *   Andere aufwendige ERCP oder bestimmter endoskopischer Eingriff oder
-        andere ERCP mit bestimmter BNB oder bestimmter Pankreatitis
+    *   Andere aufwendige ERCP oder bestimmter endoskopischer Eingriff ohne
+        bestimmte BNB
 
 
 *    *   H41E
 
     *   Andere ERCP ohne bestimmte oder andere aufwendige ERCP, Alter*
-        15 Jahre
+        15 Jahre, mit bestimmter BNB oder bestimmter Pankreatitis
+
+
+*    *   H41F
+
+    *   Andere ERCP ohne bestimmte oder andere aufwendige ERCP, Alter*
+        15 Jahre, ohne bestimmte BNB oder bestimmte Pankreatitis
+
+
+*    *   H41M
+
+    *   Hybrid-DRG der DRG H41F
+
+
+*    *   H41N
+
+    *   Hybrid-DRG der DRG H41D
 
 
 *    *   H60Z
@@ -4006,8 +4030,8 @@ Krankenhäusern:
 
 *    *   H61C
 
-    *   Bösartige Neubildung an hepatobiliärem System und Pankreas, Alter*
-        17 Jahre
+    *   Bösartige Neubildung an hepatobiliärem System und Pankreas, Alter > 17
+        Jahre
 
 
 *    *   H62B
@@ -4222,8 +4246,7 @@ Krankenhäusern:
     *   Infektionen der Harnorgane oh. äuß. schwere CC, oh. best. mäßig
         aufwendige / aufwendige / hochaufw. Behandl., oh. Komplexbeh. b.
         isolationspfl. Erregern, oh. best. schw. Infektionen, Alter*
-        2 J. u. < 6 J. od. Alter < 18 J. mit schw. CC od. Alter*
-        89 J.
+        2 J. u. < 6 J. od. Alter < 18 J. mit schw. CC od. Alter > 89 J.
 
 
 *    *   L63E
@@ -4730,7 +4753,7 @@ Krankenhäusern:
 
     *   Andere transluminale Intervention an Herz, Aorta und Lungengefäßen
         ohne äußerst schwere CC oder Ablation über A. renalis oder komplexe
-        koronare Lithoplastie
+        Rekanalisation von Koronargefäßen
 
 
 *    *   F24A
@@ -5032,7 +5055,7 @@ Krankenhäusern:
 
     *   Andere Krankheiten des Kreislaufsystems ohne äußerst schwere CC oder
         ein Belegungstag, Alter*                        9 Jahre und Alter < 16
-        Jahre, ohne schwere CC oder Alter*                        15
+        Jahre, ohne schwere CC oder Alter > 15
 
 
 *    *   F95A
@@ -5087,8 +5110,8 @@ Krankenhäusern:
 
     *   Kardiothorakale oder Gefäßeingriffe bei Neugeborenen, Beatmung*
         180 und < 481 Stunden oder bestimmte Eingriffe bei angeborenen
-        Fehlbildungen, Beatmung*                        180 und < 900 Stunden
-        oder Eingriff bei univentrikulärem Herzen, Beatmung < 481 Stunden
+        Fehlbildungen, Beatmung > 180 und < 900 Stunden oder Eingriff bei
+        univentrikulärem Herzen, Beatmung < 481 Stunden
 
 
 *    *   P02C
@@ -5200,8 +5223,9 @@ Krankenhäusern:
 *    *   P60C
 
     *   Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-
-        Prozedur, nicht zuverlegt, ohne Beatmung*                        24
-        Stunden
+        Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden
+        (Mindestverweildauer 24 Stunden für das Krankenhaus, in dem die Geburt
+        stattfindet)
 
 
 *    *   P61A
@@ -5432,21 +5456,20 @@ Krankenhäusern:
 *    *   B18B
 
     *   Bestimmte Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und
-        Störungen des Nervensystems außer bei bösartiger Neubildung oder
-        Revision eines Ventrikelshuntes oder operative Eingriffe bei nicht
-        akuter Para- / Tetraplegie
+        Störungen des Nervensystems oder Revision eines Ventrikelshuntes oder
+        operative Eingriffe bei nicht akuter Para- / Tetraplegie
 
 
 *    *   B18C
 
     *   Andere Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und
-        Störungen des Nervensystems außer bei bösartiger Neubildung
+        Störungen des Nervensystems
 
 
 *    *   B18D
 
     *   Mäßig komplexe Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten
-        und Störungen des Nervensystems außer bei bösartiger Neubildung
+        und Störungen des Nervensystems
 
 
 *    *   B19A
@@ -5475,8 +5498,9 @@ Krankenhäusern:
 *    *   B20A
 
     *   Kraniotomie oder große Wirbelsäulen-Operation mit bestimmter komplexer
-        Prozedur, Alter < 18 Jahre oder mit komplizierenden Faktoren, Alter <
-        16 Jahre oder mit bestimmter intrakranieller Blutung
+        Prozedur, Alter
+        < 18 Jahre                        oder mit komplizierenden Faktoren,
+        Alter < 16 Jahre oder mit bestimmter intrakranieller Blutung
 
 
 *    *   B20B
@@ -5590,7 +5614,7 @@ Krankenhäusern:
 *    *   **Neurologie**
 
 
-*    *   A07F
+*    *   A07E
 
     *   Beatmung*                        999 Stunden ohne komplexe OR-
         Prozedur, ohne Polytrauma, Alter*                        17 Jahre,
@@ -5614,14 +5638,7 @@ Krankenhäusern:
 
 *    *   B04A
 
-    *   Interventionelle oder beidseitige Eingriffe an den extrakraniellen
-        Gefäßen mit äußerst schweren CC
-
-
-*    *   B04B
-
-    *   Beidseitige Eingriffe an den extrakraniellen Gefäßen ohne äußerst
-        schwere CC oder mehrzeitige Eingriffe an den extrakraniellen Gefäßen
+    *   Beidseitige oder mehrzeitige Eingriffe an den extrakraniellen Gefäßen
         oder äußerst schwere CC
 
 
@@ -6248,7 +6265,8 @@ Krankenhäusern:
 *    *   I09B
 
     *   Bestimmte Eingriffe an der Wirbelsäule mit bestimmten expandierbaren
-        Implantaten oder mehrzeitigen komplexen Eingriffen
+        Implantaten oder bestimmter langstreckigen Spondylodese oder
+        mehrzeitigen komplexen Eingriffen
 
 
 *    *   I09C
@@ -6858,7 +6876,7 @@ Krankenhäusern:
 
 *    *   K60A
 
-    *   Diabetes mellitus und schwere Ernährungsstörungen, Alter < 6 Jahre,
+    *   Diabetes mellitus und schwere Ernährungsstörungen, Alter < 6 Jahre,
         mit multimodaler Komplexbehandlung bei Diabetes mellitus oder
         intensivmedizinischer Komplexbehandlung*                        196 /
         184 / - Aufwandspunkte
@@ -7295,7 +7313,7 @@ Krankenhäusern:
 *    *   I13C
 
     *   Bestimmte Eingriffe an den Extremitäten mit best. Mehrfacheingr. od.
-        kompliz. Diag. od. bei Endopr. der oberen Extrem. od. m. Fix. ext., m.
+        kompliz Diag. od. bei Endopr. der oberen Extrem. od. m. Fix. ext., m.
         kompl. Eingr. od. schw. Weichteilsch., m. best. kompl. Osteot. od. BNB
         od. Alter < 18 J. m. äuß. schw. od. schw. CC
 
@@ -7787,9 +7805,9 @@ Krankenhäusern:
 *    *   L07Z
 
     *   Andere Nieren-, Ureter-, Prostata- und große Harnblaseneingriffe bei
-        Neubildung, Alter < 19 Jahre oder mit äußerst schweren CC oder anderer
-        Kombinationseingriff oder bestimmte Zystektomien, ohne großen Eingriff
-        am Darm oder komplexe Harnblasenplastik
+        Neubildung, Alter < 19 J. od. mit äußerst schw. CC od. anderer
+        Kombinationseingriff od. best. Zystektomien, ohne gr. Eingriff am Darm
+        od. kompl. Harnblasenplastik od. Autotranspl. Niere
 
 
 *    *   L08Z
@@ -7815,21 +7833,21 @@ Krankenhäusern:
 *    *   L13A
 
     *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
-        18 Jahre, ohne Kombinationseingriff, mit bestimmtem Eingriff mit CC
+         18 Jahre, ohne Kombinationseingriff, mit bestimmtem Eingriff mit CC
         oder mit komplexem Eingriff
 
 
 *    *   L13B
 
     *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
-        18 Jahre, ohne Kombinationseingriff, ohne CC, ohne komplexen Eingriff,
-        mit anderem Eingriff
+         18 Jahre, ohne Kombinationseingriff, ohne CC, ohne komplexen
+        Eingriff, mit anderem Eingriff
 
 
 *    *   L13C
 
     *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
-        18 Jahre, ohne Kombinationseingriff, ohne äußerst schwere CC, ohne
+         18 Jahre, ohne Kombinationseingriff, ohne äußerst schwere CC, ohne
         bestimmten Eingriff oder ohne CC, ohne komplexen Eingriff, ohne
         anderen Eingriff
 
@@ -8024,10 +8042,10 @@ Krankenhäusern:
 
 *    *   M03C
 
-    *   Mäßig komplexe Eingriffe am Penis, Alter*                        17
-        Jahre, ohne bestimmte Eingriffe am Penis, ohne aufwendige plastische
-        Rekonstruktion des Penis, ohne totale Amputation des Penis, ohne
-        Amputation des Penis mit bestimmter Lymphadenektomie
+    *   Eingriffe am Penis, Alter*                        17 Jahre oder kleine
+        Eingriffe an Urethra und Penis, Alter < 18 Jahre, ohne aufwendige
+        plastische Rekonstruktion, ohne totale Amputation des Penis, ohne
+        partielle Amputation mit bestimmter Lymphadenektomie
 
 
 *    *   M04A
@@ -8051,6 +8069,16 @@ Krankenhäusern:
         ohne mäßig komplexen Eingriff oder Alter*                        2
         Jahre, ohne schwere CC oder ohne beidseitigen Hodenhochstand oder
         Alter*                        13 Jahre
+
+
+*    *   M04M
+
+    *   Hybrid-DRG der DRG M04D
+
+
+*    *   M05N
+
+    *   Hybrid-DRG der DRG M05Z
 
 
 *    *   M05Z

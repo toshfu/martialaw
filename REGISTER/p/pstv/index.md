@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2263
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.4.2025 I Nr. 112; I 2025 Nr. 262
+:   Art. 1 V v. 11.4.2025 I Nr. 112
 
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
