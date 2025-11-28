@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 144
 
+V aufgeh. durch
+:   § 19 dieser V mWv 14.7.2026
+
 Zuletzt geändert durch
-:   Art. 5 V v. 2.6.2021 I 1362
+:   Art. 9 Abs. 4 V v. 24.11.2025 I Nr. 280
 
 Diese Verordnung ist nach der Richtlinie 83/189/EWG des Rates vom 28.
 März 1983 über ein Informationsverfahren auf dem Gebiet der Normen und
@@ -650,6 +653,11 @@ Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
 Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
 Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
 Fassung weiter anzuwenden. Die Absätze 2 und 3 bleiben unberührt.
+
+
+### § 19 Außerkrafttreten
+
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 (zu § 7 Abs. 1 und 3, § 8 Abs. 2)
 
