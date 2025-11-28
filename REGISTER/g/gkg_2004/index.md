@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 7.4.2025 I Nr. 109
 
+Änderung durch
+:   Art. 2 Abs. 4 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -107,7 +110,7 @@ Zuletzt geändert durch
     Schweizerischer-Polizeivertrag-Umsetzungsgesetz;
 
 
-19. nach dem Kohlendioxid-Speicherungsgesetz;
+19. nach dem Kohlendioxid-Speicherung-und-Transport-Gesetz;
 
 
 20. nach Abschnitt 3 des Internationalen Erbrechtsverfahrensgesetzes vom
@@ -1322,7 +1325,8 @@ Zivilprozessordnung:
 
 2.  über Beschwerden gegen Entscheidungen der Regulierungsbehörde und über
     Rechtsbeschwerden (§§ 75 und 86 des Energiewirtschaftsgesetzes oder §
-    35 Absatz 3 und 4 des Kohlendioxid-Speicherungsgesetzes),
+    35 Absatz 3 und 4 des Kohlendioxid-Speicherung-und-Transport-
+    Gesetzes),
 
 
 3.  über Beschwerden gegen Verfügungen der Bundesanstalt für
@@ -2148,7 +2152,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   Abschnitt 3
 
-    *   Revision, Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpG und §
+    *   Revision, Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35 KSpTG und §
         24 EU-VSchDG
 
 
@@ -2157,7 +2161,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung der
         Revision sowie der Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, § 35
-        KSpG und § 24 EU-VSchDG
+        KSpTG und § 24 EU-VSchDG
 
 
 *    *
@@ -3769,7 +3773,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
         3\. § 113 Abs. 1 WpHG,
         4\. § 75 EnWG,
         5\. § 13 EU-VSchDG,
-        6\. § 35 KSpG und
+        6\. § 35 KSpTG und
         7\. § 11 WRegG
         anzuwenden.
 
@@ -3866,7 +3870,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *   Abschnitt 3
         Revision, Rechtsbeschwerden
-        nach § 77 GWB, § 86 EnWG, § 35 KSpG und § 24 EU-VSchDG ****
+        nach § 77 GWB, § 86 EnWG, § 35 KSpTG und § 24 EU-VSchDG ****
 
 
 *    *   1230
@@ -3942,7 +3946,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 *    *   Abschnitt 4
         Zulassung der Sprungrevision, Beschwerde gegen die Nichtzulassung
         der Revision sowie der Rechtsbeschwerden nach § 77 GWB, § 86 EnWG, §
-        35 KSpG und § 24 EU-VSchDG ****
+        35 KSpTG und § 24 EU-VSchDG ****
 
 
 *    *   1240
