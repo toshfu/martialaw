@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1997, 2768
 
 Neugefasst durch
-:   Bek. v. 3.6.2011 I 1020
+:   Bek. v. 3.6.2011 I 1020;
 
 Zuletzt geändert durch
-:   Art. 398 V v. 31.8.2015 I 1474
+:   Art. 5 V v. 24.11.2025 I Nr. 280
 
 
 ## § 1 Begriffsbestimmungen
