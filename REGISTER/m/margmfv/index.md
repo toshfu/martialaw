@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1989 (2259)
 
 Zuletzt geändert durch
-:   Art. 17 V v. 5.7.2017 I 2272
+:   Art. 6 V v. 24.11.2025 I Nr. 280
 
 
 ## Eingangsformel
