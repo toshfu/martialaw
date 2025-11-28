@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1961, 165
 
 Zuletzt geändert durch
-:   Art. 3 G v. 2.3.2023 I Nr. 56
+:   Art. 1 G v. 25.11.2025 I Nr. 281
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften über den unmittelbaren Zwang
@@ -47,7 +47,7 @@ Wasserwerfer, technische Sperren, Diensthunde, Dienstpferde und
 Dienstfahrzeuge.
 
 (4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen,
-Reizstoffe und Explosivmittel.
+Distanz-Elektroimpulsgeräte, Reizstoffe und Explosivmittel.
 
 
 ### § 3 Einschränkung von Grundrechten
