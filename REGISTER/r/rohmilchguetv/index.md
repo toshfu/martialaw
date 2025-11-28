@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 47
 
+Geändert durch
+:   Art. 2 V v. 24.11.2025 I Nr. 280
+
 Stand: Ersetzt V 7842-1-7 v. 9.7.1980 I 878, 1081 (MilchGüV)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
