@@ -10890,8 +10890,7 @@ Gesetzes über Ordnungswidrigkeiten ist in den Fällen
 
 1.  des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer
     7a, 9 und 24d bis 24q, der Absätze 2a bis 2c und des Absatzes 2d
-    Nummer 1 bis 4 und 5 Buchstabe b und des Absatzes 2d Nummer 1 bis 5
-    Buchstabe b und
+    Nummer 1 bis 4 und 5 Buchstabe b und
 
 
 2.  des Absatzes 2 Nummer 6 Buchstabe b, Nummer 7 Buchstabe c, Nummer 24c
