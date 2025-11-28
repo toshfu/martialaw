@@ -15,11 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1965, Nr 118
 
+V aufgeh. durch
+:   § 32 dieser V idF v. 24.11.2025 mWv 14.7.2026
+
 Neugefasst durch
 :   Bek. v. 14.4.1986 I 412;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 20.10.2021 I 4723
+:   Art. 9 Abs. 3 V v. 24.11.2025 I Nr. 280
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -1411,9 +1414,9 @@ Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
 Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
-### § 32
+### § 32 Außerkrafttreten
 
-(Inkrafttreten)
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 (zu § 7)
 
