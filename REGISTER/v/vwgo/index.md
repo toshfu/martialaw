@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 24.10.2024 I Nr. 328
 
+Änderung durch
+:   Art. 2 Abs. 6 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -904,13 +907,18 @@ sämtliche Streitigkeiten, die betreffen
 
     sowie Grundabtretungsbeschlüsse, jeweils im Zusammenhang mit der
     aufgrund des Kohleverstromungsbeendigungsgesetzes vorgesehenen
-    Einstellung von Braunkohletagebauen, und
+    Einstellung von Braunkohletagebauen,
 
 
 15. Planfeststellungsverfahren nach § 65 Absatz 1 in Verbindung mit Anlage
     1 Nummer 19.7 des Gesetzes über die Umweltverträglichkeitsprüfung für
     die Errichtung und den Betrieb oder die Änderung von Dampf- oder
-    Warmwasserpipelines.
+    Warmwasserpipelines und
+
+
+16. Planfeststellungs- oder Plangenehmigungsverfahren sowie
+    Genehmigungsverfahren nach dem Kohlendioxid-Speicherung-und-Transport-
+    Gesetz.
 
 
 
@@ -931,7 +939,7 @@ Abs. 2 Satz 1 des Vereinsgesetzes erlassenen Verfügungen.
 (3) Abweichend von § 21e Absatz 4 des Gerichtsverfassungsgesetzes soll
 das Präsidium des Oberverwaltungsgerichts anordnen, dass ein
 Spruchkörper, der in einem Verfahren nach Absatz 1 Satz 1 Nummer 3 bis
-15 tätig geworden ist, für dieses nach einer Änderung der
+16 tätig geworden ist, für dieses nach einer Änderung der
 Geschäftsverteilung zuständig bleibt.
 
 
