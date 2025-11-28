@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 5.3.2021 I 346
 
+Änderung durch
+:   Art. 2 Abs. 2 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Verhältnis zu anderen Vorschriften
 
@@ -517,7 +520,7 @@ S. 666) anzuwenden.
 
 
 14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-
-    Speicherungsgesetzes.
+    Speicherung-und-Transport-Gesetzes.
 
 
 
