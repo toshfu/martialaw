@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 11.12.2024 I Nr. 411
 
+Änderung durch
+:   Art. 3 V v. 24.11.2025 I Nr. 280 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
