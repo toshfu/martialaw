@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3122, 3144
 
-Stand: Zuletzt geändert Art. 19 G v. 9.6.2021 I 1614
+Stand: Zuletzt geändert Art. 1 G v. 25.11.2025 I Nr. 284
 
 ## § 1 Erfassung und Dokumentation
 
@@ -58,9 +58,8 @@ zum Fernstraßen-Bundesamt werden die Länder bis zum 1. Januar 2018
 erfassen und dokumentieren. Die Methode und das Format für die
 Erfassung und Dokumentation, einschließlich Abgrenzungs- und
 Bewertungskriterien, sowie die im Rahmen des Satzes 1 zu erfassenden
-Daten bestimmt das Bundesministerium für Verkehr und digitale
-Infrastruktur im Benehmen mit den obersten Straßenbaubehörden der
-Länder durch Erlass.
+Daten bestimmt das Bundesministerium für Verkehr im Benehmen mit den
+obersten Straßenbaubehörden der Länder durch Erlass.
 
 (2) Betrachtungszeitraum im Sinne dieser Vorschrift ist der Zeitraum
 vom 1. Januar 2014 bis zum 31. Dezember 2017. Bei Beamtinnen und
@@ -76,48 +75,46 @@ Gegenstände erfasst und dokumentiert.
 
 (3) Sobald ein Land seine Verpflichtung nach Absatz 1 erfüllt hat,
 teilt dies die jeweilige oberste Straßenbaubehörde dieses Landes dem
-Bundesministerium für Verkehr und digitale Infrastruktur mit. Eine
-ergänzende Mitteilung (Verwendungsvorschlag) muss bis spätestens zum
-1\. Januar 2019 erfolgen und umfasst mindestens eine Auflistung der
-Beschäftigten im Sinne des Absatzes 1 Satz 1 Nummer 1 mit Angaben
-beschäftigungsrelevanter Daten der Beamtinnen und Beamten, der
-Arbeitnehmerinnen und Arbeitnehmer sowie der Auszubildenden und
-umfasst auch Angaben zum Arbeitsplatz und Arbeitsort. Zudem ist
-anzugeben, ob Mitarbeiter wechselbereit sind. Der Bund wird auch die
-von der Neuregelung betroffenen und nicht wechselbereiten
-Beschäftigten der Länder oder der Kommunen im Rahmen der bestehenden
-dienst-, arbeits- und tarifrechtlichen Möglichkeiten, beispielsweise
-Personalgestellungen oder Zuweisung, weiterbeschäftigen. Die Länder
-oder die Kommunen erhalten insoweit eine Erstattung der
-Personalvollkosten. Sofern eine Weiterbeschäftigung beim Land erfolgen
-soll, wird bei Beamten alternativ zur Versetzung eine Zuweisung und
-bei den Arbeitnehmerinnen und Arbeitnehmern und Auszubildenden eine
-Personalgestellung gegen Personalvollkostenerstattung erfolgen. Die
-Mitteilung umfasst ferner eine Auflistung der sächlichen
-Betriebsmittel im Sinne des Absatzes 1 Satz 1 Nummer 2, der
-Grundstücke der Bundesautobahnen sowie der Grundstücke und Gebäude von
-Nebenanlagen im Sinne des § 1 Absatz 4 Nummer 4 des
-Bundesfernstraßengesetzes, der Grundstücke, die ausschließlich oder
-überwiegend den Ausgleichs- und Ersatzmaßnahmen nach § 13 des
-Bundesnaturschutzgesetzes für Eingriffe durch den Bau und die Änderung
-von Bundesautobahnen im Sinne des Absatzes 1 Satz 1 Nummer 3 sowie der
-bestehenden Vertragsverhältnisse im Sinne des Absatzes 1 Satz 1 Nummer
-4\.
+Bundesministerium für Verkehr. Eine ergänzende Mitteilung
+(Verwendungsvorschlag) muss bis spätestens zum 1. Januar 2019 erfolgen
+und umfasst mindestens eine Auflistung der Beschäftigten im Sinne des
+Absatzes 1 Satz 1 Nummer 1 mit Angaben beschäftigungsrelevanter Daten
+der Beamtinnen und Beamten, der Arbeitnehmerinnen und Arbeitnehmer
+sowie der Auszubildenden und umfasst auch Angaben zum Arbeitsplatz und
+Arbeitsort. Zudem ist anzugeben, ob Mitarbeiter wechselbereit sind.
+Der Bund wird auch die von der Neuregelung betroffenen und nicht
+wechselbereiten Beschäftigten der Länder oder der Kommunen im Rahmen
+der bestehenden dienst-, arbeits- und tarifrechtlichen Möglichkeiten,
+beispielsweise Personalgestellungen oder Zuweisung,
+weiterbeschäftigen. Die Länder oder die Kommunen erhalten insoweit
+eine Erstattung der Personalvollkosten. Sofern eine
+Weiterbeschäftigung beim Land erfolgen soll, wird bei Beamten
+alternativ zur Versetzung eine Zuweisung und bei den Arbeitnehmerinnen
+und Arbeitnehmern und Auszubildenden eine Personalgestellung gegen
+Personalvollkostenerstattung erfolgen. Die Mitteilung umfasst ferner
+eine Auflistung der sächlichen Betriebsmittel im Sinne des Absatzes 1
+Satz 1 Nummer 2, der Grundstücke der Bundesautobahnen sowie der
+Grundstücke und Gebäude von Nebenanlagen im Sinne des § 1 Absatz 4
+Nummer 4 des Bundesfernstraßengesetzes, der Grundstücke, die
+ausschließlich oder überwiegend den Ausgleichs- und Ersatzmaßnahmen
+nach § 13 des Bundesnaturschutzgesetzes für Eingriffe durch den Bau
+und die Änderung von Bundesautobahnen im Sinne des Absatzes 1 Satz 1
+Nummer 3 sowie der bestehenden Vertragsverhältnisse im Sinne des
+Absatzes 1 Satz 1 Nummer 4.
 
 (4) Der Bund wird alle vom Übergang betroffenen wechselbereiten
 Beschäftigten (Beamte, Arbeitnehmer und Auszubildende) unter Wahrung
-ihrer Besitzstände übernehmen. Das Bundesministerium für Verkehr und
-digitale Infrastruktur übernimmt bei den Zuordnungen die Vorschläge
-der obersten Straßenbaubehörden der Länder auch hinsichtlich
-Arbeitsplatz und Arbeitsort sowie der Befähigung und dienstlichen
-Erfahrung der Beamtinnen und Beamten, Arbeitnehmerinnen und
-Arbeitnehmer und Auszubildenden. Es bestätigt den obersten
-Straßenbaubehörden auf der Grundlage der Mitteilung nach Absatz 3,
-welche Beamtinnen und Beamten zum Fernstraßen-Bundesamt versetzt
-werden sollen. Es bestätigt den obersten Straßenbaubehörden, welche
-Arbeitnehmerinnen und Arbeitnehmer und Auszubildenden sowie sächlichen
-Betriebsmittel dem Fernstraßen-Bundesamt oder der Gesellschaft
-privaten Rechts im Sinne des
+ihrer Besitzstände übernehmen. Das Bundesministerium für Verkehr
+übernimmt bei den Zuordnungen die Vorschläge der obersten
+Straßenbaubehörden der Länder auch hinsichtlich Arbeitsplatz und
+Arbeitsort sowie der Befähigung und dienstlichen Erfahrung der
+Beamtinnen und Beamten, Arbeitnehmerinnen und Arbeitnehmer und
+Auszubildenden. Es bestätigt den obersten Straßenbaubehörden auf der
+Grundlage der Mitteilung nach Absatz 3, welche Beamtinnen und Beamten
+zum Fernstraßen-Bundesamt versetzt werden sollen. Es bestätigt den
+obersten Straßenbaubehörden, welche Arbeitnehmerinnen und Arbeitnehmer
+und Auszubildenden sowie sächlichen Betriebsmittel dem Fernstraßen-
+Bundesamt oder der Gesellschaft privaten Rechts im Sinne des
 Infrastrukturgesellschaftserrichtungsgesetzes zugeordnet werden
 sollen. Die Länder sind verpflichtet, auf der Grundlage der
 Mitteilungen nach den Sätzen 3 und 4 die notwendigen arbeits- und
@@ -129,23 +126,22 @@ informieren. Entsprechende Leitlinien sind Anlage zu diesem Gesetz.
 
 (5) Das Verfahren nach den Absätzen 1 bis 4 wird von einem beratenden
 Bund-Länder-Gremium begleitet, das sich aus Ländervertretern und
-Bundesvertretern zusammensetzt. Das Bundesministerium für Verkehr und
-digitale Infrastruktur setzt dieses Gremium unverzüglich nach
-Inkrafttreten dieses Gesetzes ein. Die bestehenden
-Personalvertretungen, Gesamt- und Hauptschwerbehindertenvertretungen
-nach § 97 des Sozialgesetzbuches Neuntes Buch und Jugend- und
-Auszubildendenvertretungen werden an der Arbeit dieses Gremiums in
-Bezug auf die Beschäftigten beteiligt.
+Bundesvertretern zusammensetzt. Das Bundesministerium für Verkehr
+setzt dieses Gremium unverzüglich nach Inkrafttreten dieses Gesetzes
+ein. Die bestehenden Personalvertretungen, Gesamt- und
+Hauptschwerbehindertenvertretungen nach § 97 des Sozialgesetzbuches
+Neuntes Buch und Jugend- und Auszubildendenvertretungen werden an der
+Arbeit dieses Gremiums in Bezug auf die Beschäftigten beteiligt.
 
 
 ## § 2 Anordnungskompetenz des Bundes
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur ist
-berechtigt, gegenüber den Ländern die notwendigen Anordnungen durch
-Erlass zu treffen, um eine einheitliche, ordnungsgemäße und
-rechtzeitige Erfassung und Dokumentation im Sinne des § 1 Absatz 1 und
-2 sowie den frist- und formgerechten Angaben im Sinne des § 1 Absatz 3
-durch die obersten Straßenbaubehörden der Länder zu gewährleisten.
+Das Bundesministerium für Verkehr ist berechtigt, gegenüber den
+Ländern die notwendigen Anordnungen durch Erlass zu treffen, um eine
+einheitliche, ordnungsgemäße und rechtzeitige Erfassung und
+Dokumentation im Sinne des § 1 Absatz 1 und 2 sowie den frist- und
+formgerechten Angaben im Sinne des § 1 Absatz 3 durch die obersten
+Straßenbaubehörden der Länder zu gewährleisten.
 
 
 ## § 3 Beamtinnen und Beamte; Verordnungsermächtigung
@@ -184,10 +180,9 @@ Infrastrukturgesellschaftserrichtungsgesetzes ist zur Ausübung des
 Weisungsrechts gegenüber den dieser Gesellschaft zugewiesenen
 Beamtinnen und Beamten befugt, soweit es die Dienstausübung für den
 Betrieb dieser Gesellschaft erfordert. Das Bundesministerium für
-Verkehr und digitale Infrastruktur wird ermächtigt, durch
-Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern,
-für Bau und Heimat zu bestimmen, welche Entscheidungen und Maßnahmen
-der Gesellschaft privaten Rechts im Sinne des
+Verkehr wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit
+dem Bundesministerium des Innern zu bestimmen, welche Entscheidungen
+und Maßnahmen der Gesellschaft privaten Rechts im Sinne des
 Infrastrukturgesellschaftserrichtungsgesetzes nach Maßgabe des Satzes
 1 zur Ausübung des Weisungsrechts gegenüber den dieser Gesellschaft
 zugewiesenen Beamtinnen und Beamten übertragen werden.
@@ -261,19 +256,7 @@ sonstigen Bestimmungen anzuwenden. Für die Beschäftigten bei der
 Gesellschaft privaten Rechts im Sinne des
 Infrastrukturgesellschaftserrichtungsgesetzes sind Tarifverträge
 abzuschließen. Für die Überleitung der Beschäftigten werden
-Überleitungstarifverträge angestrebt. Im Fernstraßen-Bundesamt und in
-der Gesellschaft privaten Rechts im Sinne des
-Infrastrukturgesellschaftserrichtungsgesetzes tätige Arbeitnehmerinnen
-und Arbeitnehmer können mit Zustimmung des Bundesministeriums für
-Verkehr und digitale Infrastruktur, die der im Einvernehmen mit dem
-Bundesministerium der Finanzen zu erteilenden Einwilligung des
-Bundesministeriums des Innern, für Bau und Heimat bedarf, auch
-oberhalb der höchsten tarifvertraglichen Entgeltgruppe in einem
-außertariflichen Arbeitsverhältnis beschäftigt werden, soweit dies für
-die Durchführung der Aufgaben des Fernstraßen-Bundesamtes und der
-Gesellschaft privaten Rechts erforderlich ist. Satz 4 gilt für die
-sonstige Gewährung von über- oder außertariflichen Leistungen
-entsprechend.
+Überleitungstarifverträge angestrebt.
 
 
 ## § 6 Schwerbehinderte Menschen
@@ -282,7 +265,7 @@ Die Tätigkeit bei der Gesellschaft privaten Rechts im Sinne des
 Infrastrukturgesellschaftserrichtungsgesetzes lässt die Rechtsstellung
 von schwerbehinderten Menschen bei der Anwendung des Neunten Buches
 Sozialgesetzbuch im Geschäftsbereich des Bundesministeriums für
-Verkehr und digitale Infrastruktur unberührt.
+Verkehr unberührt.
 
 
 ## § 7 Sächliche Betriebsmittel
@@ -329,11 +312,11 @@ zuständige Personalrat das Übergangsmandat in den Betrieben der
 Tochtergesellschaft wahr.
 
 (3) Mit Zuweisung der ersten Beschäftigten nimmt der Hauptpersonalrat
-beim Bundesministerium für Verkehr und digitale Infrastruktur beim
-Fernstraßen-Bundesamt die Aufgaben der Personalvertretung wahr
-(Übergangspersonalrat). Er hat als Übergangspersonalrat insbesondere
-die Aufgabe, unverzüglich den Wahlvorstand für die Durchführung der
-Personalratswahlen im Fernstraßen-Bundesamt zu bestellen.
+beim Bundesministerium für Verkehr beim Fernstraßen-Bundesamt die
+Aufgaben der Personalvertretung wahr (Übergangspersonalrat). Er hat
+als Übergangspersonalrat insbesondere die Aufgabe, unverzüglich den
+Wahlvorstand für die Durchführung der Personalratswahlen im
+Fernstraßen-Bundesamt zu bestellen.
 
 (4) Das Übergangsmandat endet, sobald in den Betrieben oder
 Betriebsteilen der Gesellschaft privaten Rechts im Sinne des
@@ -365,8 +348,7 @@ Fernstraßen-Bundesamt die Wahl der Gleichstellungsbeauftragten und
 ihrer Stellvertreterin statt. Bis zur Bestellung der
 Gleichstellungsbeauftragten und ihrer Stellvertreterin werden die
 Aufgaben von der Gleichstellungsbeauftragten des Bundesministeriums
-für Verkehr und digitale Infrastruktur und ihrer Stellvertreterin
-wahrgenommen.
+für Verkehr und ihrer Stellvertreterin wahrgenommen.
 
 (9) Die in den Dienststellen bis zum 31. Dezember 2020 geltenden
 Dienstvereinbarungen gelten ab dem Zeitpunkt des Übergangs auf das
