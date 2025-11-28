@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 2 Abs. 1 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
 Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
 Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten
@@ -7042,8 +7045,8 @@ und 2.
 *    *   **19.10**
 
     *   Errichtung und Betrieb einer Kohlendioxidleitung im Sinne des
-        Kohlendioxid-Speicherungsgesetzes, ausgenommen Anlagen, die den
-        Bereich eines Werksgeländes nicht überschreiten, mit
+        Kohlendioxid-Speicherung-und-Transport-Gesetzes, ausgenommen Anlagen,
+        die den Bereich eines Werksgeländes nicht überschreiten, mit
 
     *
     *
