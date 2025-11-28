@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 19.12.2022 I 2479
 
+Änderung durch
+:   Art. 3 G v. 25.11.2025 I Nr. 283 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 23 G v. 21.12.2020 I 3138 ist berücksichtigt
 
@@ -39,10 +42,10 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 ## Art 10 Beihilferechtlicher Vorbehalt
 
 Die Regelungen zur Entschädigung für die Stilllegung von
-Braunkohleanlagen nach den §§ 44 und 45 des
-Kohleverstromungsbeendigungsgesetzes vom 8. August 2020 (BGBl. I S.
-1818), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2022
-(BGBl. I S. 2479) geändert worden ist, sowie die Regelungen zur
+Braunkohleanlagen nach den §§ 44 und 45 des
+Kohleverstromungsbeendigungsgesetzes vom 8. August 2020 (BGBl. I S.
+1818), das zuletzt durch Artikel 2 des Gesetzes vom 25. November 2025
+(BGBl. 2025 I Nr. 283) geändert worden ist, sowie die Regelungen zur
 Vergütung der Zeitlich gestreckten Stilllegung nach § 50 Absatz 1 Satz
 2 des Kohleverstromungsbeendigungsgesetzes dürfen erst angewendet
 werden, wenn und soweit eine beihilferechtliche Genehmigung durch die
