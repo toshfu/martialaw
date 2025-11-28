@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 11.12.2023 I Nr. 354
 
+Änderung durch
+:   Art. 1 V v. 19.11.2025 I Nr. 277 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F771967_01_BJNR056210009]:     Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
     2007/44/EG des Europäischen Parlaments und des Rates vom 5. September
     2007 zur Änderung der Richtlinie 92/49/EWG des Rates sowie der
@@ -101,6 +104,11 @@ Kreditwesengesetzes oder § 17 Absatz 4 Satz 3 des
 Versicherungsaufsichtsgesetzes eine Übersetzung verlangt, gelten diese
 Informationen erst als bei der Bundesanstalt eingegangen, wenn die
 Übersetzung bei der Bundesanstalt eingegangen ist.
+
+(4) Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank sind
+Anzeigen und Unterlagen elektronisch einzureichen. Die Bundesanstalt
+und die Deutsche Bundesbank informieren jeweils auf ihren
+Internetseiten über die elektronischen Einreichungswege.
 
 
 ### § 3 Angaben zum Empfangsbevollmächtigten im Inland
@@ -379,6 +387,16 @@ Den Anzeigen sind folgende Unterlagen und Erklärungen beizufügen:
     die Personen nach Nummer 7 wahrnehmen.
 
 
+10. Für sonstige Anzeigepflichtige bzw. Anzeigepflichtige, die keine
+    natürlichen Personen sind, mit Sitz in der Bundesrepublik Deutschland,
+    entfällt die Verpflichtung, die Kopie eines Dokuments amtlich oder
+    öffentlich beglaubigen zu lassen, wenn das Dokument aus dem von den
+    Landesjustizverwaltungen bestimmten elektronischen Informations- und
+    Kommunikationssystem, über das die Daten aus den Handelsregistern
+    abrufbar sind, zugänglich ist; eine Kopie des Dokuments aus dem
+    Handelsregister ist ausreichend.
+
+
 
 
 
@@ -591,7 +609,7 @@ und 2 können Prüfungen unberücksichtigt bleiben, die vor mehr als
 einem Jahr vor dem Beginn des Jahres, in dem die Anzeige eingereicht
 wird, abgeschlossen worden sind.
 
-(8) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3
+(8) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3
 oder Nummer 7 und natürliche Personen, die als Anteilsinhaber auf den
 Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben
 bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde ein
@@ -599,34 +617,40 @@ Führungszeugnis zur Vorlage bei einer Behörde gemäß § 30 Absatz 5 oder
 § 30b des Bundeszentralregistergesetzes einzureichen. Das
 Führungszeugnis darf zum Zeitpunkt des Einreichens nicht älter als
 drei Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum.
-Personen, die einem Staat angehören oder ihren Wohnsitz in einem Staat
-haben, der keine Dokumente nach Satz 1 ausstellt, haben Dokumente aus
-dem Herkunfts- oder Wohnsitzstaat einzureichen, die den Dokumenten
-nach Satz 1 entsprechen. Werden dort auch derartige Dokumente nicht
-ausgestellt, so ist der Umfang der einzureichenden Ersatzunterlagen
-mit der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde im
-Einzelfall abzustimmen. Personen, die in den letzten zehn Jahren
-Wohnsitze in verschiedenen Staaten hatten, müssen die
-Führungszeugnisse und Unterlagen aus jedem dieser Staaten beibringen.
+Personen, die einem anderen Staat als der Bundesrepublik Deutschland
+angehören oder deren Wohnsitz in einem anderen Staat als der
+Bundesrepublik Deutschland liegt, haben Dokumente aus dem Herkunfts-
+oder Wohnsitzstaat einzureichen, die den Dokumenten nach Satz 1
+entsprechen oder zumindest gleichwertig sind. Satz 4 gilt nicht,
+soweit etwaige Eintragungen in den Strafregistern dieser Staaten
+bereits aus einem Führungszeugnis nach § 30b des
+Bundeszentralregistergesetzes hervorgehen würden. Werden im Herkunfts-
+oder Wohnsitzstaat Dokumente nach Satz 4 nicht ausgestellt, so ist der
+Umfang der einzureichenden Ersatzunterlagen mit der Bundesanstalt oder
+der zuständigen Landesaufsichtsbehörde abzustimmen. Personen, die in
+den letzten zehn Jahren Wohnsitze in verschiedenen Staaten hatten,
+müssen die Führungszeugnisse und Unterlagen aus jedem dieser Staaten
+beibringen. In Fällen des Satzes 7 gilt Satz 5 im Hinblick auf den
+jeweiligen Staat entsprechend.
 
-(9) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3
+(9) Anzeigepflichtige natürliche Personen, Personen nach § 8 Nummer 3
 oder Nummer 7 und natürliche Personen, die als Anteilsinhaber auf den
 Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben,
-wenn sie einen Wohnsitz in Deutschland innehaben oder hatten oder eine
-berufliche Tätigkeit in Deutschland ausüben oder ausgeübt haben, bei
-der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde einen
-Auszug aus dem Gewerbezentralregister gemäß § 150 der Gewerbeordnung
-einzureichen. Der Registerauszug darf zum Zeitpunkt des Einreichens
-nicht älter als drei Monate sein. Maßgeblich hierfür ist das
-Ausstellungsdatum des Dokuments.
+wenn sie in den letzten zehn Jahren in der Bundesrepublik Deutschland
+einen Wohnsitz hatten oder in den letzten zehn Jahren in der
+Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt haben,
+bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde
+einen Auszug aus dem Gewerbezentralregister gemäß § 150 der
+Gewerbeordnung einzureichen. Der Registerauszug darf zum Zeitpunkt des
+Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist
+das Ausstellungsdatum des Dokuments.
 
 
 ### § 10 Lebenslauf
 
 (1) Den Anzeigen sind ein Lebenslauf des Anzeigepflichtigen, sofern
-dieser eine natürliche Person ist, und ein eigenhändig unterzeichneter
-Lebenslauf jeder natürlichen Person nach § 8 Nummer 3 oder Nummer 7
-beizufügen.
+dieser eine natürliche Person ist, und ein Lebenslauf jeder
+natürlichen Person nach § 8 Nummer 3 oder Nummer 7 beizufügen.
 
 (2) Der nach Absatz 1 einzureichende Lebenslauf muss die nachfolgenden
 Angaben enthalten:
@@ -914,10 +938,10 @@ Darstellung nach Absatz 1 folgende Angaben enthalten:
 
 
 (4) Ist der Anzeigepflichtige ein neu gegründetes Unternehmen, so hat
-er statt der in Absatz 2 und Absatz 3 Nummer 3 und 4 genannten
-Unterlagen Planbilanzen sowie Plangewinn- und Planverlustrechnungen
-für die nächsten drei Geschäftsjahre einschließlich der zugrunde
-gelegten Planungsannahmen einzureichen.
+er statt der in Absatz 2 genannten Unterlagen Planbilanzen sowie
+Plangewinn- und Planverlustrechnungen für die nächsten drei
+Geschäftsjahre einschließlich der zugrunde gelegten Planungsannahmen
+einzureichen.
 
 (5) Gehört der Anzeigepflichtige einem Konzern an, muss die
 Darstellung nach Absatz 1 zusätzlich enthalten:
@@ -1109,35 +1133,21 @@ Informationen beinhalten:
 ### § 16 Abweichende Vorlage- und Nachweispflichten
 
 (1) Der Anzeigepflichtige muss Unterlagen und Erklärungen nicht erneut
-einreichen, die er innerhalb der letzten zwei Jahre vor der aktuellen
-Anzeige mit einer Anzeige nach
-
-1.  § 2c Absatz 1 Satz 1, 5, 6 oder 7 des Kreditwesengesetzes oder
-
-
-2.  § 17 Absatz 1 Satz 1 Nummer 1 oder 2, Satz 2 Nummer 1 erster Halbsatz
-    oder Absatz 2 des Versicherungsaufsichtsgesetzes
-
-
-
-eingereicht hat, es sei denn, die in den Unterlagen und Erklärungen
-enthaltenen Angaben treffen nicht mehr zu. Die Bundesanstalt oder die
-zuständige Landesaufsichtsbehörde kann im Einzelfall einen längeren
-Zeitraum zulassen. Der Anzeigepflichtige muss Unterlagen und
-Erklärungen nach Satz 1 ohne zeitliche Einschränkung nicht erneut
-einreichen, sofern durch einen Erwerb lediglich eine bestehende
-indirekte bedeutende Beteiligung zu einer direkten bedeutenden
-Beteiligung würde oder wurde, es sei denn, die in den Unterlagen und
-Erklärungen enthaltenen Angaben treffen nicht mehr zu. Treffen
-sämtliche in den Unterlagen und Erklärungen nach Satz 1 enthaltenen
-Angaben noch zu, hat der Anzeigepflichtige dies in dem Formular nach §
-6 Absatz 1 anzugeben. Ist der Anzeigepflichtige bereits Inhaber einer
-bedeutenden Beteiligung, braucht er seine Identität oder Existenz nach
-§ 8 Nummer 1 nicht erneut nachzuweisen. Die Bundesanstalt oder die
-zuständige Landesaufsichtsbehörde kann die in den Sätzen 1, 3 und 5
-genannten Unterlagen und Erklärungen jedoch im Rahmen des § 2c Absatz
-1a Satz 3 bis 9 des Kreditwesengesetzes oder des § 17 Absatz 4 Satz 3
-bis 9 des Versicherungsaufsichtsgesetzes anfordern.
+einreichen, die er der Bundesanstalt oder der zuständigen
+Landesaufsichtsbehörde in der Vergangenheit bereits eingereicht hat,
+soweit die in den Unterlagen und Erklärungen enthaltenen Angaben noch
+zutreffen, es sei denn, die Unterlagen und Erklärungen liegen bei der
+Bundesanstalt oder der zuständigen Landesaufsichtsbehörde nicht mehr
+vor. Treffen sämtliche in den Unterlagen und Erklärungen nach Satz 1
+enthaltenen Angaben noch zu, hat der Anzeigepflichtige dies in dem
+Formular nach § 6 Absatz 1 zu bestätigen. Die Bundesanstalt oder die
+zuständige Landesaufsichtsbehörde kann die in Satz 1 genannten
+Unterlagen und Erklärungen jedoch im Rahmen des § 2c Absatz 1a Satz 3
+bis 9 des Kreditwesengesetzes oder des § 17 Absatz 4 Satz 3 bis 9 des
+Versicherungsaufsichtsgesetzes anfordern. Erklärungen und Unterlagen
+zur Zuverlässigkeit nach § 9 Absatz 8 und 9, müssen neu eingereicht
+werden, wenn sie seit der Ausstellung älter als zwölf Monate sind oder
+wenn vor Ablauf dieser zwölf Monate Änderungen eingetreten sind.
 
 (2) Ist der Anzeigepflichtige der Bund, die Deutsche Bundesbank, ein
 rechtlich unselbständiges Sondervermögen des Bundes oder eines Landes,
@@ -1146,14 +1156,16 @@ Unterlagen und Erklärungen nach den §§ 8 bis 15 nicht beigefügt
 werden.
 
 (3) Ist der Anzeigepflichtige ein zugelassenes Kreditinstitut,
-Finanzdienstleistungsinstitut, Wertpapierinstitut,
-Versicherungsunternehmen oder ein zugelassener Pensionsfonds, jeweils
-mit Sitz im Inland, oder eine Kapitalverwaltungsgesellschaft, die eine
-Erlaubnis nach den §§ 20 und 21 oder den §§ 20 und 22 des
-Kapitalanlagegesetzbuchs hat, so müssen die Unterlagen und Erklärungen
-nach § 8 Nummer 1 bis 5 und den §§ 9 bis 11, 12 und 13 sowie die
-Darstellung und die Nachweise über das Vorhandensein und die Herkunft
-der Eigen- und Fremdmittel nach § 14 nicht beigefügt werden.
+Finanzdienstleistungsinstitut, Wertpapierinstitut, E-Geld-Institut,
+Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des
+Zahlungsdiensteaufsichtsgesetzes, Versicherungsunternehmen oder ein
+zugelassener Pensionsfonds, jeweils mit Sitz im Inland, oder eine
+Kapitalverwaltungsgesellschaft, die eine Erlaubnis nach den §§ 20 und
+21 oder den §§ 20 und 22 des Kapitalanlagegesetzbuchs hat, so müssen
+die Unterlagen und Erklärungen nach § 8 Nummer 1 bis 5 und den §§ 9
+bis 11, 12 und 13 sowie die Darstellung und die Nachweise über das
+Vorhandensein und die Herkunft der Eigen- und Fremdmittel nach § 14
+nicht beigefügt werden.
 
 (4) Ist der Anzeigepflichtige eine Finanzholding-Gesellschaft oder
 eine gemischte Finanzholding-Gesellschaft nach § 1 Absatz 35 des
@@ -1191,12 +1203,13 @@ werden.
 (7) Ist der Anzeigepflichtige ein in einem Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
 den Europäischen Wirtschaftsraum zugelassenes CRR-Kreditinstitut,
-Wertpapierinstitut, E-Geld-Institut, Versicherungsunternehmen oder
-zugelassener Pensionsfonds, so müssen die Unterlagen und Erklärungen
-nach den §§ 9 und 10 nicht beigefügt werden. Bei den Unterlagen nach
-§ 15 Absatz 1 Satz 4 Nummer 5 sind Angaben zu den konkreten
-Abteilungen innerhalb der Gruppenstruktur, auf die sich die
-Transaktion auswirkt, ausreichend.
+Wertpapierinstitut, E-Geld-Institut, Zahlungsinstitut im Sinne des § 1
+Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes,
+Versicherungsunternehmen oder zugelassener Pensionsfonds, so müssen
+die Unterlagen und Erklärungen nach den §§ 9 und 10 nicht beigefügt
+werden. Bei den Unterlagen nach § 15 Absatz 1 Satz 4 Nummer 5 sind
+Angaben zu den konkreten Abteilungen innerhalb der Gruppenstruktur,
+auf die sich die Transaktion auswirkt, ausreichend.
 
 (8) Wird der Anzeigepflichtige in einem anderen Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
@@ -1226,23 +1239,10 @@ Buchstabe a bis d und nach § 13 Absatz 5 und 7 Satz 2 nicht
 eingereicht werden, soweit der andere konzernangehörige
 Anzeigepflichtige verpflichtet war, diese einzureichen.
 
-(10) Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann
-auf Unterlagen und Erklärungen bei den Anzeigepflichtigen, die
-konzernangehörig sind, ganz oder teilweise verzichten, soweit sie am
-Zielunternehmen nur indirekt beteiligt wären und nicht an der Spitze
-des Konzerns stehen. Die Bundesanstalt oder die zuständige
-Landesaufsichtsbehörde unterrichtet den Anzeigepflichtigen schriftlich
-über diese Entscheidung. Die in Satz 1 genannten Anzeigepflichtigen
-sind unabhängig vom Grad ihrer Beteiligung im Rahmen des § 15 nur zur
-Beifügung von Unterlagen nach § 15 Absatz 3 verpflichtet. Handelt es
-sich um einen Erwerbsvorgang innerhalb eines Konzerns, so muss der
-Anzeigepflichtige Unterlagen und Erklärungen nur einreichen, soweit
-diese Angaben zu Personen und Unternehmen sowie der Gruppenstruktur
-enthalten, die nicht aus früheren Anzeigen nach § 2c Absatz 1 Satz 1,
-5, 6 oder 7 des Kreditwesengesetzes oder § 17 Absatz 1 Satz 1 Nummer 1
-oder 2, Satz 2 Nummer 1 erster Halbsatz oder Absatz 2 des
-Versicherungsaufsichtsgesetzes bekannt sind oder soweit frühere
-Angaben nicht mehr zutreffen.
+(10) Im Fall des Absatzes 9 müssen ferner Unterlagen und Erklärungen
+nach den §§ 8 bis 15 nicht eingereicht werden, soweit das
+anzeigepflichtige Unternehmen nicht an der Spitze des Konzerns steht
+und lediglich indirekte Beteiligungen erwirbt oder erhöht.
 
 (11) Den Anzeigen können statt der Arbeitszeugnisse nach § 10 Absatz 2
 Satz 4 eine Liste von Referenzpersonen mit Angabe der E-Mail-Adresse
@@ -1251,23 +1251,34 @@ ein Unternehmen nach § 1 Nummer 3 bis 5 ist.
 
 (12) Den Anzeigen müssen die Unterlagen nach § 13 Absatz 2, Absatz 3
 Nummer 3 und 4 sowie Absatz 4 und 5 nicht beigefügt werden, wenn das
-Zielunternehmen ein Finanzdienstleistungsinstitut ist. Den Anzeigen
-müssen auch die Unterlagen und Erklärungen nach §§ 13 Absatz 3 Nummer
-1 und 2 sowie 15 Absatz 1 Satz 6 Nummer 1 nicht beigefügt werden, wenn
-das Zielunternehmen ein Finanzdienstleistungsinstitut ist, das
-ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer
-9 und 10 des Kreditwesengesetzes erbringt. Ist das Zielunternehmen ein
-Finanzdienstleistungsinstitut, das ausschließlich
-Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 und 10 des
-Kreditwesengesetzes erbringt, brauchen Anzeigepflichtige, die
-konzernangehörig sind, auch sonstige Unterlagen und Erklärungen nach
-den §§ 8 bis 15 nicht einzureichen, soweit sie am Zielunternehmen nur
-indirekt beteiligt wären und nicht an der Spitze des Konzerns stehen
-oder soweit es sich um einen Erwerbsvorgang innerhalb eines Konzerns
-handelt.
+Zielunternehmen ein Finanzdienstleistungsinstitut ist.
 
-(13) Für die Absätze 2 bis 9, Absatz 10 Satz 3 und 4 und Absatz 12
-gilt Absatz 1 Satz 6 entsprechend.
+(12a) Handelt es sich beim Zielunternehmen um ein
+Finanzdienstleistungsinstitut, das ausschließlich
+Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 und 10 des
+Kreditwesengesetzes erbringt,
+
+1.  müssen auch die Unterlagen und Erklärungen nach § 13 Absatz 3 Nummer 1
+    und 2 sowie nach § 15 Absatz 1 Satz 6 Nummer 1 nicht beigefügt werden;
+
+
+2.  müssen Anzeigepflichtige, die konzernangehörig sind, auch sonstige
+    Unterlagen und Erklärungen nach den §§ 8 bis 15 nicht einreichen,
+    soweit es sich um einen Erwerbsvorgang innerhalb des Konzerns handelt;
+
+
+3.  kann die Bundesanstalt auf die Einreichung von Unterlagen und
+    Erklärungen ganz oder teilweise verzichten, wenn das Zielunternehmen
+    sich in Abwicklung befindet.
+
+
+
+Die Bundesanstalt unterrichtet den Anzeigepflichtigen schriftlich oder
+elektronisch darüber, ob sie auf die Einreichung nach Satz 1 Nummer 3
+verzichtet.
+
+(13) Für die Absätze 2 bis 10, den Absatz 12 sowie den Absatz 12a gilt
+Absatz 1 Satz 3 entsprechend.
 
 
 ## Abschnitt 3 - Weitere Anzeige- und Mitteilungspflichten
@@ -1321,11 +1332,12 @@ so ist die Anzeige nach Absatz 1 entbehrlich.
 
 (3) Ist der Inhaber der bedeutenden Beteiligung ein zugelassenes
 Kreditinstitut, Finanzdienstleistungsinstitut, Wertpapierinstitut,
-Versicherungsunternehmen oder ein zugelassener Pensionsfonds, jeweils
-mit Sitz im Inland, oder eine Kapitalverwaltungsgesellschaft, die eine
-Erlaubnis nach den §§ 20 und 21 oder den §§ 20 und 22 des
-Kapitalanlagegesetzbuchs hat, so ist die Anzeige nach Absatz 1
-entbehrlich.
+E-Geld-Institut, Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1
+Nummer 1 des Zahlungsdiensteaufsichtsgesetzs, Versicherungsunternehmen
+oder ein zugelassener Pensionsfonds, jeweils mit Sitz im Inland, oder
+eine Kapitalverwaltungsgesellschaft, die eine Erlaubnis nach den §§ 20
+und 21 oder den §§ 20 und 22 des Kapitalanlagegesetzbuchs hat, so ist
+die Anzeige nach Absatz 1 entbehrlich.
 
 (4) Ist der Inhaber der bedeutenden Beteiligung eine Finanzholding-
 Gesellschaft oder eine gemischte Finanzholding-Gesellschaft nach § 1
@@ -1353,6 +1365,21 @@ eines anderen Vertragsstaates des Abkommens über den Europäischen
 Wirtschaftsraum oder die Europäische Zentralbank, so ist die Anzeige
 nach Absatz 1 entbehrlich.
 
+(7) Ist der Inhaber der bedeutenden Beteiligung ein konzernangehöriges
+Unternehmen, das lediglich indirekte Beteiligungen am Zielunternehmen
+hält und nicht an der Spitze des Konzerns steht, müssen die Unterlagen
+gemäß den §§ 9 und 10 nur auf Verlangen der Bundesanstalt oder der
+zuständigen Landesaufsichtsbehörde eingereicht werden.
+
+(8) Steht der Inhaber der bedeutenden Beteiligung an der Spitze eines
+Konzerns und wird die direkte, bedeutende Beteiligung am
+Zielunternehmen von einem konzernangehörigen Unternehmen gehalten, so
+kann die Bundesanstalt oder die zuständige Landesaufsichtsbehörde bei
+einer Anzeige nach Absatz 1 auf die Einreichung von Unterlagen gemäß
+den §§ 9 und 10 verzichten. Die Bundesanstalt oder die zuständige
+Landesaufsichtsbehörde unterrichtet den Anzeigepflichtigen schriftlich
+oder elektronisch darüber, ob sie auf die Einreichung verzichtet.
+
 
 ### § 19 Ergänzende Mitteilungen bei nachträglichen Änderungen beim Inhaber einer bedeutenden Beteiligung zur Sicherung der Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum
 
@@ -1366,24 +1393,30 @@ er
 1.  in einem anderen Mitgliedstaat der Europäischen Union oder einem
     anderen Vertragsstaat des Abkommens über den Europäischen
     Wirtschaftsraum als CRR-Kreditinstitut, E-Geld-Institut,
-    Wertpapierinstitut, Erstversicherungsunternehmen oder
-    Rückversicherungsunternehmen zugelassen wird, wobei die
-    Identitätsnummer, unter der der Anzeigepflichtige bei der zuständigen
-    Aufsichtsbehörde geführt wird, anzugeben ist;
+    Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des
+    Zahlungsdiensteaufsichtsgesetzes, Wertpapierinstitut,
+    Erstversicherungsunternehmen oder Rückversicherungsunternehmen
+    zugelassen wird, wobei die Identitätsnummer, unter der der
+    Anzeigepflichtige bei der zuständigen Aufsichtsbehörde geführt wird,
+    anzugeben ist;
 
 
 2.  Mutterunternehmen eines in einem anderen Mitgliedstaat der
     Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
     den Europäischen Wirtschaftsraum zugelassenen CRR-Kreditinstituts,
-    E-Geld-Instituts, Wertpapierinstituts, Erstversicherungsunternehmens
-    oder Rückversicherungsunternehmens wird oder
+    E-Geld-Instituts, Zahlungsinstituts im Sinne des § 1 Absatz 1 Satz 1
+    Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, Wertpapierinstituts,
+    Erstversicherungsunternehmens oder Rückversicherungsunternehmens wird
+    oder
 
 
 3.  die Kontrolle über ein in einem anderen Mitgliedstaat der Europäischen
     Union oder einem anderen Vertragsstaat des Abkommens über den
     Europäischen Wirtschaftsraum zugelassenes CRR-Kreditinstitut, E-Geld-
-    Institut, Wertpapierinstitut, Erstversicherungsunternehmen oder
-    Rückversicherungsunternehmen erlangt.
+    Institut, Zahlungsinstitut im Sinne des § 1 Absatz 1 Satz 1 Nummer 1
+    des Zahlungsdiensteaufsichtsgesetzes, Wertpapierinstitut,
+    Erstversicherungsunternehmen oder Rückversicherungsunternehmen
+    erlangt.
 
 
 
@@ -1399,7 +1432,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 ### Anlage 1 (zu § 6 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2022, 2655 – 2671)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 6 – 21)
 
 
 
@@ -1430,7 +1463,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 ### Anlage 3 (zu § 9 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2022, 2676 – 2682)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 22 – 28)
 
 
 
@@ -1454,7 +1487,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 ### Anlage 5 (zu § 9 Absatz 5)
 
-(Fundstelle: BGBl. I 2022, 2690 – 2694)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 29 – 33)
 
 
 
@@ -1464,7 +1497,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 ### Anlage 6 (zu § 9 Absatz 5)
 
-(Fundstelle: BGBl. I 2022, 2695 – 2710)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 34 – 49)
 
 
 
@@ -1485,7 +1518,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 ### Anlage 7 (zu § 17 Absatz 1)
 
-(Fundstelle: BGBl. I 2022, 2711 – 2722)
+(Fundstelle: BGBl. 2025 I Nr. 277, S. 50 – 61)
 
 
 
