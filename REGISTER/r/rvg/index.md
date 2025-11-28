@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 G v. 7.4.2025 I Nr. 109
 
+Änderung durch
+:   Art. 2 Abs. 5 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -3869,7 +3872,7 @@ des Jugendgerichtsgesetzes, und ähnliche Verfahren
             f)  nach dem EnWG,
 
 
-            g)  nach dem KSpG,
+            g)  nach dem KSpTG,
 
 
             h)  nach dem EU-VSchDG,
