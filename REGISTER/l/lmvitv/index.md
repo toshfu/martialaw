@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 V v. 5.7.2017 I 2272
 
+Änderung durch
+:   Art. 9 Abs. 5 V v. 24.11.2025 I Nr. 280 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -138,6 +141,11 @@ Lebensmittel in den Verkehr bringt.
 bis zum 31. Dezember 2000 nach den bis zum 29. Oktober 1999 geltenden
 Vorschriften gekennzeichnet und auch nach dem 31. Dezember 2000 noch
 bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+
+## § 4 Außerkrafttreten
+
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 
 ## Schlußformel
