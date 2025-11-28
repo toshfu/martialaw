@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 9 Abs. 4 G v. 30.9.2025 I Nr. 233 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 25.11.2025 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G 2129-43 v. 16.3.2005 I 762 (ElektroG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
