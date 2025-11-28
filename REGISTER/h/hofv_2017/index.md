@@ -16,7 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2358
 
-Stand: Die V tritt gem. § 3 Satz 2 dieser V am 1.1.2026 außer Kraft
+V aufgeh. durch
+:   § 3 idF d. Art. 1 V v. 6.11.2025 I Nr. 275 mWv 1.1.2036
+
+Geändert durch
+:   Art. 1 V v. 6.11.2025 I Nr. 275
+
 
 ## Eingangsformel
 
@@ -67,10 +72,9 @@ werden. Sie ist von Amts wegen nachzuholen, wenn in dem jeweiligen
 Grundbuch eine sonstige Eintragung vorgenommen werden soll.
 
 
-## § 3 Inkrafttreten, Außerkrafttreten
+## § 3 Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
-mit Ablauf des 31. Dezember 2025 außer Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2035 außer Kraft.
 
 
 ## Schlussformel
