@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 4 V v. 6.7.2021 I 2514
 
+Änderung durch
+:   Art. 2 Abs. 3 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -101,8 +104,8 @@ Im Sinne dieser Verordnung sind:
     Investitionskosten für eine neue vergleichbare Anlage betragen; der
     Einbau von Ausrüstungen für die Abscheidung des von einer Anlage gemäß
     § 1 Nummer 1 erzeugten Kohlendioxid im Hinblick auf seine geologische
-    Speicherung gemäß des Kohlendioxid-Speicherungsgesetzes gilt nicht als
-    erhebliche Modernisierung;
+    Speicherung gemäß dem Kohlendioxid-Speicherung-und-Transport-Gesetz
+    gilt nicht als erhebliche Modernisierung;
 
 
 8.  „effiziente Fernwärme- oder Fernkälteversorgung“:
@@ -160,8 +163,8 @@ Antragsunterlagen vorzulegen.
 (4) Die Vorlage der in den Absätzen 1 bis 3 genannten Unterlagen
 entfällt bei
 
-1.  Anlagen, die in der Nähe einer nach § 11 des Kohlendioxid-
-    Speicherungsgesetzes zugelassenen geologischen Speicherstätte
+1.  Anlagen, die in der Nähe einer nach § 11 des Kohlendioxid-Speicherung-
+    und-Transport-Gesetzes zugelassenen geologischen Speicherstätte
     angesiedelt werden müssen und
 
 
