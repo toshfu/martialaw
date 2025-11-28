@@ -30,8 +30,7 @@ von Aschaffenburg bis Bamberg sowie beim Ausbau der Donau von Passau
 bis Kelheim, zur Herstellung der planmäßigen Nebenanlagen, Kraftwerke,
 Schaltanlagen, verbindenden Hochspannungsleitungen und Umspannwerke,
 zur Entnahme der für diese Arbeiten erforderlichen Baustoffe sowie zur
-Ablagerung von Baustoffen und Abraum. 7601 § 1: IdF d. Art. 60 Nr. 1 G
-v. 19.9.2006 I 2146 mWv 1.10.2006
+Ablagerung von Baustoffen und Abraum.
 
 
 ## § 2
