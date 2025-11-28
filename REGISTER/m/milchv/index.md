@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 1150
 
+V aufgeh. durch
+:   § 8 dieser V idF v. 24.11.2025 mWv 14.7.2026
+
 Zuletzt geändert durch
-:   Art. 4 V v. 26.4.2023 I Nr. 115
+:   Art. 9 Abs. 2 V v. 24.11.2025 I Nr. 280
 
 
 ## Eingangsformel
@@ -527,9 +530,9 @@ Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
 Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
-## § 8 Inkrafttreten
+## § 8 Außerkrafttreten
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
@@ -1652,8 +1655,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 1a (weggefallen)
 
-- Anlage 1a: Aufgeh. durch Art. 18 Nr. 6 V v. 8.8.2007 I 1816 mWv
-15\.8.2007
 
 (zu § 5 Absatz 1)
 
