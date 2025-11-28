@@ -9200,11 +9200,11 @@ und in einem von ihr bestimmten Format verlangen. Die Bundesanstalt
 kann die nach Satz 1 Verpflichteten laden und vernehmen. Die Sätze 1
 bis 4 gelten auch für die nach den Vorschriften des Handelsgesetzbuchs
 in den Konzernabschluss einzubeziehenden Tochterunternehmen. Die
-Befugnisse den Sätzen 1 und 4 gelten gegenüber jedermann, wenn die
-Voraussetzungen des Absatzes 1 Satz 1 vorliegen. Soweit im Rahmen von
-Auskunfts- oder Vorlageverlangen nach Satz 1, auch in Verbindung mit
-Satz 5 oder Satz 6, oder im Rahmen von Vernehmungen nach Satz 4, auch
-in Verbindung mit Satz 5 oder Satz 6, erforderlich, haben die
+Befugnisse nach den Sätzen 1 und 4 gelten gegenüber jedermann, wenn
+die Voraussetzungen des Absatzes 1 Satz 1 vorliegen. Soweit im Rahmen
+von Auskunfts- oder Vorlageverlangen nach Satz 1, auch in Verbindung
+mit Satz 5 oder Satz 6, oder im Rahmen von Vernehmungen nach Satz 4,
+auch in Verbindung mit Satz 5 oder Satz 6, erforderlich, haben die
 ersuchten Unternehmen oder Personen auch personenbezogene Daten
 gegenüber der Bundesanstalt oder den Personen offenzulegen, derer sich
 die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient. Die
