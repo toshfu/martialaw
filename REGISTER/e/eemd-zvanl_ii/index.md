@@ -17,10 +17,7 @@ Fundstelle
 :   BAnz: AT 27.03.2018 V2
 
 Zuletzt geändert durch
-:   Art. 2 V v. 1.8.2024 I Nr. 258
-
-Änderung durch
-:   Art. 2 V v. 20.10.2025 I Nr. 244 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 20.10.2025 I Nr. 244
 
 
 ## Anlage II (EETS-Zulassungsvertrag)
