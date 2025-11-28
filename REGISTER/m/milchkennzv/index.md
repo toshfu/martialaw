@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 1301
 
+V aufgeh. durch
+:   § 5 dieser V idF v. 24.11.2025 mWv 14.7.2026
+
 Zuletzt geändert durch
-:   Art. 20 V v. 5.7.2017 I 2272
+:   Art. 9 Abs. 1 V v. 24.11.2025 I Nr. 280
 
 
 ## Eingangsformel
@@ -226,21 +229,7 @@ Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
 Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
-## § 5 Inkrafttreten, Übergangsvorschriften
+## § 5 Außerkrafttreten
 
-(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
-(2) Milch, die
-
-1.  nicht den Fettgehaltsstufen für Vollmilch, teilentrahmte (fettarme)
-    Milch oder entrahmte Milch (Magermilch) entspricht, und
-
-
-2.  mit einer anderen Bezeichnung als Trinkmilch gekennzeichnet ist,
-
-
-
-darf noch bis zum 1. Juni 2011 in den Verkehr gebracht werden.
-
-(3) (weggefallen)
+Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
