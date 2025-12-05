@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 1818
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.12.2022 I 2479
-
-Änderung durch
-:   Art. 3 G v. 25.11.2025 I Nr. 283 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 23 G v. 21.12.2020 I 3138 ist berücksichtigt
+:   Art. 3 G v. 25.11.2025 I Nr. 283
 
 
 ## Eingangsformel
