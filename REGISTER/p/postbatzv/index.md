@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2204
 
-Geändert durch
-:   Art. 3 V v. 3.12.2020 I 2877
+Zuletzt geändert durch
+:   Art. 3 V v. 1.12.2025 I Nr. 299
 
 
 ## § 1 Bewilligung von Altersteilzeit
@@ -55,26 +55,18 @@ Bundesbeamtengesetzes bewilligt werden, wenn
 
 
 (2) Das Zeitguthaben der Beamtin oder des Beamten auf dem
-Lebensarbeitszeitkonto (§ 9 der Post-Arbeitszeitverordnung) muss
-
-1.  bei Beginn der Altersteilzeit mindestens 1 000 Stunden betragen und
-
-
-2.  bei einem Beginn der Altersteilzeit ab dem 1. Januar 2026 am 31.
-    Dezember 2025 mindestens 250 Stunden betragen haben.
-
-
-
-Bei einer Teilzeitbeschäftigung werden diese Stundenzahlen im gleichen
-Verhältnis wie die Arbeitszeit gekürzt. Das zum Beginn der
+Lebensarbeitszeitkonto (§ 9 der Post-Arbeitszeitverordnung) muss bei
+Beginn der Altersteilzeit mindestens 1 000 Stunden betragen haben. Bei
+einer Teilzeitbeschäftigung wird die erforderliche Stundenzahl im
+gleichen Verhältnis wie die Arbeitszeit gekürzt. Das bei Beginn der
 Altersteilzeit erforderliche Zeitguthaben verringert sich für jedes
 vor dem 1. Januar 2026 liegende Kalenderjahr um 200 Stunden für
 Beamtinnen und Beamte, die
 
-1.  vor dem Jahr 1961 geboren sind oder
+1.  vor dem Jahr 1961 geboren sind, oder
 
 
-2.  vor dem Jahr 1963 geboren sind und zum Zeitpunkt der Antragstellung
+2.  vor dem Jahr 1963 geboren sind und zum Zeitpunkt der Antragsstellung
     schwerbehindert im Sinne des § 2 Absatz 2 des Neunten Buches
     Sozialgesetzbuch sind.
 
@@ -85,12 +77,9 @@ Interesses beurlaubt sind, müssen kein Zeitguthaben ansparen, wenn
 ihre Beurlaubung längstens einen Monat vor dem Beginn der
 Altersteilzeit endet.
 
-(3) Altersteilzeit nach Absatz 1 ist spätestens sechs Monate vor ihrem
-Beginn zu beantragen, wobei die Antragsausschlussfrist nach Absatz 1
-Nummer 2 gewahrt bleiben muss. Die Altersteilzeit umfasst einen
-Zeitraum von mindestens zwei und höchstens sechs Jahren. Der Antrag
-muss sich auf die gesamte Zeit bis zum Beginn des Ruhestands
-erstrecken.
+(3) Die Altersteilzeit umfasst einen Zeitraum von mindestens zwei und
+höchstens sechs Jahren. Der Antrag muss sich auf die gesamte Zeit bis
+zum Beginn des Ruhestands erstrecken.
 
 (4) Nach Absatz 1 gewährte Altersteilzeit wird auf die Quote nach § 93
 Absatz 4 Satz 1 des Bundesbeamtengesetzes angerechnet. Die
@@ -112,7 +101,7 @@ festgelegten Prozentsatz der Nettobesoldung, die nach der bisherigen
 Arbeitszeit, die für die Bemessung der ermäßigten Arbeitszeit während
 der Altersteilzeit zugrunde gelegt worden ist, den Beamtinnen und
 Beamten mit begrenzter Dienstfähigkeit (§ 45 des
-Bundesbeamtengesetzes) unter Berücksichtigung der Besoldung nach § 72a
+Bundesbeamtengesetzes) unter Berücksichtigung der Besoldung nach § 6a
 des Bundesbesoldungsgesetzes, zustehen würde. Zur Ermittlung dieser
 letztgenannten Nettobesoldung ist die Bruttobesoldung um die
 Lohnsteuer entsprechend der individuellen Steuerklasse (§§ 38a, 38b
