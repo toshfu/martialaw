@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 3475
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.12.2020 I 2877
+:   Art. 1 V v. 1.12.2025 I Nr. 299
 
 
 ## Eingangsformel
@@ -341,7 +341,7 @@ erreicht.
 
 ## § 13 Übergangsregelung
 
-Für die Jahre 2012 bis 2025 wird kein Leistungsentgelt nach § 1
+Für die Jahre 2012 bis 2041 wird kein Leistungsentgelt nach § 1
 gezahlt.
 
 
