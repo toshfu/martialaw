@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378 ,2395
 
 Zuletzt geändert durch
-:   Art. 1 G v. 20.12.2024 I Nr. 441
+:   Art. 1 G v. 25.11.2025 I Nr. 287
 
 
 ## § 1 Öffentliche Aufgabe, Zuständigkeit
