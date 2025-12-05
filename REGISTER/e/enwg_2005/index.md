@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.2.2025 I Nr. 51
+:   Art. 1 G v. 25.11.2025 I Nr. 283
 
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
@@ -11417,48 +11417,270 @@ Bundesnetzagentur der Veräußerung widersprochen hat. Absatz 1 bleibt
 unberührt.
 
 
-### § 35e Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung
+### § 35e Umlage der Kosten des Marktgebietsverantwortlichen bis zum Ablauf des 31. Dezember 2025; Finanzierung
 
 Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen
 Aufgaben zur Sicherstellung der Versorgungssicherheit entstehenden
-Kosten werden diskriminierungsfrei und in einem transparenten
-Verfahren auf die Bilanzkreisverantwortlichen im Marktgebiet umgelegt.
-Ab dem 1. Januar 2025 darf der Marktgebietsverantwortliche die Umlage
-dabei ausschließlich auf die täglich aus einem Bilanzkreis an
-Entnahmestellen mit registrierender Leistungsmessung sowie an
-Entnahmestellen mit standardisierten Lastprofilen physikalisch
-ausgespeisten Mengen erheben. Zur Umlage der Kosten hat der
-Marktgebietsverantwortliche die Kosten und Erlöse, die im Rahmen der
-ergriffenen Maßnahmen nach diesem Teil, insbesondere nach den §§ 35c
-und 35d, entstehen, transparent und für Dritte nachvollziehbar zu
-ermitteln. Die Kosten und Erlöse sind zu saldieren. Der
-Marktgebietsverantwortliche ist berechtigt, von den
+Kosten werden bis zum Ablauf des 31. Dezember 2025
+diskriminierungsfrei und in einem transparenten Verfahren auf die
+Bilanzkreisverantwortlichen im Marktgebiet umgelegt. Die Umlage nach
+Satz 1 darf keine Kosten erfassen, die dem
+Marktgebietsverantwortlichen für etwaige Maßnahmen entstehen oder
+entstanden sind, die von ihm auf der Grundlage dieses Teils ab dem 1.
+August 2025 ergriffen werden und die, unabhängig von dem Ergreifen
+solcher Maßnahmen, ab dem 1. August 2025 über die reinen Sach-,
+Personal-, Beratungs- sowie Finanzierungskosten des
+Marktgebietsverantwortlichen für die von ihm wahrzunehmenden Aufgaben
+nach diesem Teil hinausgehen. Seit dem 1. Januar 2025 darf der
+Marktgebietsverantwortliche die Umlage ausschließlich auf die täglich
+aus einem Bilanzkreis an Entnahmestellen mit registrierender
+Leistungsmessung sowie an Entnahmestellen mit standardisierten
+Lastprofilen physikalisch ausgespeisten Mengen erheben. Zur Umlage der
+Kosten hat der Marktgebietsverantwortliche die Kosten und Erlöse, die
+im Rahmen der ergriffenen Maßnahmen nach diesem Teil, insbesondere für
+Maßnahmen nach den §§ 35c und 35d, entstehen, transparent und für
+Dritte nachvollziehbar zu ermitteln. Die Kosten und Erlöse sind zu
+saldieren. Der Marktgebietsverantwortliche ist berechtigt, von den
 Bilanzkreisverantwortlichen Abschlagszahlungen zur Deckung der
 voraussichtlichen Kosten zu verlangen. Die Einzelheiten genehmigt die
 Bundesnetzagentur im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Klimaschutz und dem Bundesministerium der Finanzen nach
-§ 29 Absatz 1; dem Marktgebietsverantwortlichen ist Gelegenheit zur
-Stellungnahme zu geben.
+Wirtschaft und Energie und dem Bundesministerium der Finanzen nach §
+29 Absatz 1, dabei ist dem Marktgebietsverantwortlichen Gelegenheit
+zur Stellungnahme zu geben.
 
 
-### § 35f Evaluierung
+### § 35f Erstattung der Kosten des Marktgebietsverantwortlichen ab dem 1. Januar 2026 durch Zahlungen der Bundesrepublik Deutschland
 
-Das Bundesministerium für Wirtschaft und Klimaschutz bewertet bis zum
-15\. Dezember 2022 die Umsetzung der Vorschriften dieses Teils und
-evaluiert bis zum 1. April 2023 die Vorschriften dieses Teils und
-deren Auswirkungen. Die Berichte sind unverzüglich dem Deutschen
-Bundestag vorzulegen.
+(1) Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen
+Aufgaben zur Sicherstellung der Versorgungssicherheit nach diesem Teil
+ab dem 1. Januar 2026 entstehenden Kosten werden nach Maßgabe der
+Absätze 2 bis 5 ab dem 1. Januar 2026 von der Bundesrepublik
+Deutschland erstattet, wenn eine Rechtsverordnung nach § 35h nichts
+anderes bestimmt. Dem Marktgebietsverantwortlichen dürfen zu keinem
+Zeitpunkt Gewinne oder Verluste im Zusammenhang mit seinen Tätigkeiten
+nach diesem Teil entstehen.
+
+(2) Der Marktgebietsverantwortliche erstellt erstmals für den Zeitraum
+vom 1. Januar 2026 bis zum Ablauf des 31. März 2026 sowie nachfolgend
+für jedes Gasspeicherjahr für den Zeitraum vom 1. April eines
+Kalenderjahres bis zum Ablauf des 31. März des Folgejahres jeweils
+eine Berechnung von Kosten und Erlösen (Kostenberechnung). Bei der
+Kostenberechnung hat der Marktgebietsverantwortliche die Kosten und
+Erlöse, die im Rahmen der von ihm ergriffenen Maßnahmen nach diesem
+Teil entstanden sind, objektiv und transparent und für Dritte
+nachvollziehbar darzustellen. Die in der Kostenberechnung zu
+berücksichtigenden Kosten und Erlöse sind insbesondere:
+
+1.  die Kosten für Maßnahmen nach § 35c,
 
 
-### § 35g Anwendungsbestimmungen
-
-(1) Der § 35b Absatz 5 Satz 3 ist ab dem 1. April 2024 anzuwenden.
-
-(2) Die §§ 35a bis 35f sind bis zum Ablauf des 31. März 2027
-anzuwenden.
+2.  die Sach-, Personal-, Beratungs- sowie Finanzierungskosten für die
+    Aufgaben nach diesem Teil, die Erlöse aus dem Verkauf von
+    gespeicherten Gasmengen nach § 35c sowie
 
 
-### § 35h Außerbetriebnahme und Stilllegung von Gasspeichern
+3.  sonstige Erlöse aus der Erfüllung der Aufgaben nach § 35c.
+
+
+
+Die Kosten und Erlöse sind zu saldieren. Der
+Marktgebietsverantwortliche hat die erstellte Kostenberechnung durch
+einen von ihm beauftragten Prüfer im Sinne des § 2 Nummer 12 des
+Energiefinanzierungsgesetzes prüfen zu lassen.
+
+(3) Der Marktgebietsverantwortliche hat der Bundesnetzagentur und dem
+Bundesministerium für Wirtschaft und Energie jeweils spätestens bis
+zum Ablauf des 31. Mai eines jeden Kalenderjahres die nach Absatz 2
+für das vorangegangene Gasspeicherjahr erstellte und geprüfte
+Kostenberechnung zu übermitteln. Die Kostenberechnung für den Zeitraum
+vom 1. Januar 2026 bis zum Ablauf des 31. März 2026 ist bis spätestens
+zum Ablauf des 31. Mai 2026 zu übermitteln. Die Bundesnetzagentur
+prüft jede Kostenberechnung auf Plausibilität und teilt ihr
+Prüfergebnis dem Bundesministerium für Wirtschaft und Energie
+innerhalb eines Monats nach Eingang der Kostenberechnung mit.
+Kostenpositionen, die von dem Prüfer gemäß § 2 Nummer 12 des
+Energiefinanzierungsgesetzes bestätigt wurden, gelten widerleglich als
+plausibel. Die Kostenberechnung ist, wenn sie von der
+Bundesnetzagentur für plausibel erachtet wurde, von dem
+Marktgebietsverantwortlichen sowie von der Bundesnetzagentur auf ihrer
+jeweiligen Internetseite zu veröffentlichen.
+
+(4) Soweit die in der Kostenberechnung dargelegten Kosten die
+dargelegten Erlöse übersteigen und die Kostenberechnung von der
+Bundesnetzagentur für plausibel erachtet wurde, hat der
+Marktgebietsverantwortliche gegen die Bundesrepublik Deutschland einen
+Anspruch auf Erstattung dieses negativen Differenzbetrages. Soweit die
+in der Kostenberechnung dargelegten Erlöse die dargelegten Kosten
+übersteigen und die Kostenberechnung von der Bundesnetzagentur für
+plausibel erachtet wurde, hat der Marktgebietsverantwortliche diesen
+positiven Differenzbetrag unverzüglich und kostenmindernd den
+Bilanzierungsumlagekonten zuzuführen. Der Anspruch nach Satz 1 ist am
+31\. Juli des jeweiligen Kalenderjahres, in dem die Kostenberechnung zu
+übermitteln war, frühestens jedoch zwei Wochen nach der
+Plausibilitätserklärung der Bundesnetzagentur, fällig.
+
+(5) Nähere Bestimmungen zu der nach Absatz 4 von der Bundesrepublik
+Deutschland vorzunehmenden Zahlung legen der
+Marktgebietsverantwortliche und die Bundesrepublik Deutschland,
+vertreten durch das Bundesministerium für Wirtschaft und Energie, in
+einem öffentlich-rechtlichen Vertrag fest. Das Bundesministerium für
+Wirtschaft und Energie hat dabei jeweils das Einvernehmen mit dem
+Bundesministerium der Finanzen herzustellen. Der Vertrag kann
+insbesondere Regelungen zu Zahlungsmodalitäten, Abschlagszahlungen,
+Teilbetragszahlungen, Ausgleichszahlungen nach dem Ende der
+Anwendungsbestimmungen des § 35i und zu Aufrechnungsmöglichkeiten
+sowie Nachweisregelungen für Kostenpositionen enthalten.
+
+
+### § 35g Übergangsregelung für die Umstellung des Umlageverfahrens; Einmalzahlung der Bundesrepublik Deutschland; Pflicht zur Weitergabe der Entlastung
+
+(1) Zum Zweck der Umstellung des Umlageverfahrens nach § 35e auf das
+Erstattungsverfahren nach § 35f hat die Bundesrepublik Deutschland den
+auf dem Gasspeicherumlagekonto des Marktgebietsverantwortlichen zum
+31\. Dezember 2025 ausgewiesenen negativen Differenzbetrag nach Maßgabe
+der Absätze 2 bis 6 durch Zahlung an den Marktgebietsverantwortlichen
+zu erstatten. Der Anspruch nach Satz 1 besteht unabhängig von der
+Zahlung nach Absatz 4 bereits zum 31. Dezember 2025.
+
+(2) Der Marktgebietsverantwortliche legt der Bundesnetzagentur und dem
+Bundesministerium für Wirtschaft und Energie bis spätestens zum 30.
+November eine Prognose zur Höhe des zum 31. Dezember 2025 auf dem
+Gasspeicherumlagekonto zu erwartenden negativen Differenzbetrags vor,
+die
+
+1.  vom Marktgebietsverantwortlichen auf der Grundlage der zuletzt nach §
+    35e Satz 7 erteilten Genehmigung erstellt wurde und
+
+
+2.  von einem vom Marktgebietsverantwortlichen beauftragten Prüfer im
+    Sinne des § 2 Nummer 12 des Energiefinanzierungsgesetzes geprüft
+    wurde.
+
+
+
+Die Bundesnetzagentur prüft die Prognose unverzüglich auf
+Plausibilität und teilt das Ergebnis dem Bundesministerium für
+Wirtschaft und Energie mit. Sofern die Prognose von dem Prüfer gemäß
+§ 2 Nummer 12 des Energiefinanzierungsgesetzes bestätigt wurde, gilt
+sie widerleglich als plausibel.
+
+(3) Der zum 31. Dezember 2025 nach Absatz 2 prognostizierte und von
+der Bundesnetzagentur für plausibel erachtete negative Differenzbetrag
+ist dem Marktgebietsverantwortlichen von der Bundesrepublik
+Deutschland zu erstatten. Die Zahlung ist am 31. Dezember 2025 fällig.
+
+(4) Spätestens bis zum Ablauf des 31. Mai 2026 legt der
+Marktgebietsverantwortliche dem Bundesministerium für Wirtschaft und
+Energie eine Schlussrechnung des Gasspeicherumlagekontos zum 31.
+Dezember 2025 vor, die die nach Absatz 3 erfolgte Zahlung
+berücksichtigt. Für die Schlussrechnung ist Absatz 2 Satz 1 Nummer 2
+und Satz 2 entsprechend anzuwenden. Wenn die Schlussrechnung einen
+negativen Differenzbetrag aufweist und dieser von der
+Bundesnetzagentur für plausibel erachtet wurde, hat der
+Marktgebietsverantwortliche gegen die Bundesrepublik Deutschland einen
+Anspruch auf Erstattung dieses negativen Differenzbetrages. Wenn die
+Schlussrechnung einen positiven Differenzbetrag aufweist und dieser
+von der Bundesnetzagentur für plausibel erachtet wurde, hat die
+Bundesrepublik Deutschland gegen den Marktgebietsverantwortlichen
+einen Anspruch auf Erstattung dieses positiven Differenzbetrages. Die
+Ansprüche nach den Sätzen 3 und 4 sind am 31. Juli 2026, frühestens
+jedoch zwei Wochen nach der Plausibilitätserklärung der
+Bundesnetzagentur, fällig.
+
+(5) Nähere Bestimmungen zu den nach den Absätzen 3 und 4 von der
+Bundesrepublik Deutschland sowie von dem Marktgebietsverantwortlichen
+vorzunehmenden Zahlungen können der Marktgebietsverantwortliche und
+die Bundesrepublik Deutschland, vertreten durch das Bundesministerium
+für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium
+der Finanzen, in einem öffentlich-rechtlichen Vertrag regeln. § 35f
+Absatz 5 ist entsprechend anzuwenden.
+
+(6) Die Bundesrepublik Deutschland, die durch das Bundesministerium
+für Wirtschaft und Energie vertreten wird, die Bundesnetzagentur und
+der Marktgebietsverantwortliche stellen ein ordnungsgemäßes,
+objektives und transparentes Verfahren zur technischen Umsetzung der
+in den Absätzen 1 bis 4 getroffenen Regelungen sicher. Das
+Bundesministerium für Wirtschaft und Energie hat dabei jeweils das
+Einvernehmen mit dem Bundesministerium der Finanzen herzustellen.
+
+(7) Jeder bis zum Ablauf des 31. Dezember 2025 gesetzlich oder
+vertraglich von der Gasspeicherumlage belastete
+Bilanzkreisverantwortliche oder Gaslieferant ist verpflichtet,
+gegenüber seinen Kunden den Gaspreis mit Wirkung zum 1. Januar 2026 um
+den Betrag zu verringern, den dieser durch den Wegfall der
+Verpflichtung nach § 35e Satz 1 in der zuletzt für das zweite Halbjahr
+2025 festgelegten Umlagehöhe oder durch den Wegfall der in dieser Höhe
+entsprechend vertraglich geschuldeten Leistung einspart, soweit der
+Bilanzkreisverantwortliche oder der Gaslieferant die Umlage nach § 35e
+Satz 1 oder die auf Grund eines Vertrages umgelegten Kosten auf seine
+Kunden umgelegt hat. Es wird vermutet, dass die Umlage nach § 35e Satz
+1 in die Kalkulation des Gaspreises eingeflossen ist, es sei denn, der
+Bilanzkreisverantwortliche oder der Gaslieferant weist nach, dass dies
+nicht oder nicht vollständig erfolgt ist. In der Gasrechnung ist unter
+Verweis auf die gesetzliche Abschaffung der Gasspeicherumlage
+transparent auszuweisen, ob und um welchen Betrag sich die Gasrechnung
+für den Abrechnungszeitraum, in dem die Entlastung durch den Wegfall
+der Umlage erfolgt, nach Satz 1 mindert. Darüber hinaus ist in der
+Gasrechnung anzugeben, wie viel Prozent der Entlastung weitergegeben
+werden. Dieser Absatz ist nicht anzuwenden auf Verträge, die am
+virtuellen Handelspunkt vollzogen werden.
+
+
+### § 35h Verordnungsermächtigung
+
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
+Finanzen mit Zustimmung des Bundestages und ohne Zustimmung des
+Bundesrates festzulegen, dass die dem Marktgebietsverantwortlichen im
+Zusammenhang mit seinen Aufgaben zur Sicherstellung der
+Versorgungssicherheit entstehenden Kosten abweichend von § 35f
+diskriminierungsfrei und in einem transparenten Verfahren ganz oder
+teilweise auf die Bilanzkreisverantwortlichen umgelegt werden, wenn
+dies zur Aufrechterhaltung der Versorgungssicherheit zwingend
+erforderlich ist. Dabei können in der Rechtsverordnung nähere
+Bestimmungen zu der Höhe, dem Zeitraum sowie dem Verfahren der
+Umlageerhebung getroffen werden.
+
+(2) Wird von der Verordnungsermächtigung Gebrauch gemacht, so ist in
+dieser Rechtsverordnung Folgendes zu bestimmen:
+
+1.  die Dauer der Umlageerhebung nach Absatz 1,
+
+
+2.  dass der Marktgebietsverantwortliche die Umlage ausschließlich auf die
+    täglich aus einem Bilanzkreis an Entnahmestellen mit registrierender
+    Leistungsmessung sowie an Entnahmestellen mit standardisierten
+    Lastprofilen physikalisch ausgespeisten Mengen erheben darf und
+
+
+3.  dass der Marktgebietsverantwortliche die Kosten und Erlöse der nach
+    diesem Teil ergriffenen Maßnahmen zu ermitteln hat.
+
+
+
+Die dem Marktgebietsverantwortlichen vor Inkrafttreten der
+Rechtsverordnung entstandenen Kosten dürfen nicht auf die
+Bilanzkreisverantwortlichen umgelegt werden. Die Verordnung kann
+Regelungen zu Zahlungsmodalitäten, Abschlagszahlungen,
+Teilbetragszahlungen sowie Aufrechnungsmöglichkeiten enthalten.
+
+(3) Die Rechtsverordnung ist vor Verkündung dem Bundestag zuzuleiten.
+Die Rechtsverordnung bedarf der Zustimmung des Bundestages. Der
+Bundestag kann die Rechtsverordnung ändern, ablehnen oder ihr ohne
+Änderungen zustimmen. Der Beschluss des Bundestages wird dem
+Bundesministerium für Wirtschaft und Energie zugeleitet. Das
+Bundesministerium für Wirtschaft und Energie ist bei der Verkündung
+der Rechtsverordnung an den Beschluss des Bundestages gebunden.
+
+
+### § 35i Anwendungsbestimmung
+
+Die §§ 35a bis 35e sowie die §§ 35g und 35h sind bis zum Ablauf des
+31\. März 2027 anzuwenden. § 35f ist bis zum Ablauf des 31. Dezember
+2027 anzuwenden.
+
+
+### § 35j Außerbetriebnahme und Stilllegung von Gasspeichern
 
 (1) Der Betreiber einer Gasspeicheranlage im Sinne des § 35a Absatz 2
 ist verpflichtet, der Bundesnetzagentur eine vorläufige oder
@@ -15616,6 +15838,120 @@ Bundesministeriums für Wirtschaft und Klimaschutz wahr. Die Bestimmung
 der im Sinne des Artikels 7 der Verordnung (EU) 2019/941 wichtigsten
 nationalen Szenarien für Stromversorgungskrisen bedarf der Zustimmung
 des Bundesministeriums für Wirtschaft und Klimaschutz.
+
+
+#### § 54c Zuständigkeiten gemäß der Delegierten Verordnung (EU) 2024/1366; Verordnungsermächtigung
+
+(1) Das Bundesministerium für Wirtschaft und Energie ist zuständige
+Behörde für die Durchführung der in der Delegierten Verordnung (EU)
+2024/1366 festgelegten Maßnahmen.
+
+(2) Folgende in der Delegierten Verordnung (EU) 2024/1366 festgelegte
+Aufgaben werden auf die Bundesnetzagentur übertragen:
+
+1.  die Genehmigung sowie die Änderung der Modalitäten und Methoden nach
+    Artikel 6 Absatz 2 Buchstabe a bis d der Delegierten Verordnung (EU)
+    2024/1366 sowie die Genehmigung und die Änderung der regionalen Pläne
+    nach Artikel 6 Absatz 3, jeweils auch in Verbindung mit Artikel 7
+    Absatz 6 und den Artikeln 8, 9, 30 und 31 der Delegierten Verordnung
+    (EU) 2024/1366; dabei erfolgt die Genehmigung nach Artikel 6 Absatz 2
+    Buchstabe a bis c der Delegierten Verordnung (EU) 2024/1366 im
+    Einvernehmen mit dem Bundesamt für Sicherheit in der
+    Informationstechnik,
+
+
+2.  die Entgegennahme der Benchmarking-Analyse nach Artikel 13 Absatz 5
+    der Delegierten Verordnung (EU) 2024/1366,
+
+
+3.  die Entgegennahme des Berichts über die unionsweite Bewertung des
+    Cybersicherheitsrisikos nach Artikel 19 Absatz 5 der Delegierten
+    Verordnung (EU) 2024/1366, die Bewertung des nationalen
+    Cybersicherheitsrisikos nach Artikel 20 der Delegierten Verordnung
+    (EU) 2024/1366 sowie die Entgegennahme der regionalen Pläne zur
+    Minderung des Cybersicherheitsrisikos nach Artikel 22 Absatz 3 der
+    Delegierten Verordnung (EU) 2024/1366,
+
+
+4.  die Ermittlung von Einrichtungen mit erheblichen oder kritischen
+    Auswirkungen nach Artikel 24, auch in Verbindung mit Artikel 15, der
+    Delegierten Verordnung (EU) 2024/1366, die Einrichtung eines
+    nationalen Überprüfungssystems nach Artikel 25 Absatz 1 der
+    Delegierten Verordnung (EU) 2024/1366 und die Entgegenahme des
+    Berichts nach Artikel 27 der Delegierten Verordnung (EU) 2024/1366,
+
+
+5.  die Vornahme der in Artikel 32 Absatz 3 der Delegierten Verordnung
+    (EU) 2024/1366 vorgesehenen Anregung, für die Sicherheit von Netz- und
+    Informationssystemen relevante europäische oder internationale Normen
+    und Spezifikationen anzuwenden; dabei erfolgt die Anregung gegenüber
+    den nach Artikel 24 der Delegierten Verordnung (EU) 2024/1366
+    ermittelten Einrichtungen mit erheblichen oder kritischen Auswirkungen
+    im Benehmen mit dem Bundesamt für Sicherheit in der
+    Informationstechnik,
+
+
+6.  die Unterstützung von Einrichtungen mit erheblichen oder kritischen
+    Auswirkungen bei der Entwicklung der erforderlichen Maßnahmen für den
+    Umgang mit entdeckten Cyberangriffen nach Artikel 39 Absatz 1 der
+    Delegierten Verordnung (EU) 2024/1366.
+
+
+
+Wird das Einvernehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik nach Satz 1 Nummer 1 nicht innerhalb von sechs
+Monaten nach Eingang eines Vorschlags für Modalitäten oder Methoden
+hergestellt, gilt es als hergestellt.
+
+(3) Folgende in der Delegierten Verordnung (EU) 2024/1366 festgelegte
+Aufgaben werden auf das Bundesamt für Sicherheit in der
+Informationstechnik übertragen:
+
+1.  die Genehmigung sowie die Änderung der Klassifizierungsmethode für
+    Cyberangriffe nach Artikel 6 Absatz 2 Buchstabe e, auch in Verbindung
+    mit Artikel 7 Absatz 6 und den Artikeln 8 und 9, der Delegierten
+    Verordnung (EU) 2024/1366; dabei erfolgt die Genehmigung im
+    Einvernehmen mit der Bundesnetzagentur,
+
+
+2.  die Annahme, Klassifizierung, Anonymisierung und Weiterleitung von
+    Meldungen zu Cyberangriffen nach Artikel 37, auch in Verbindung mit
+    Artikel 38 Absatz 3, 5 und 9, der Delegierten Verordnung (EU)
+    2024/1366,
+
+
+3.  die Mitwirkung am Informationsaustausch und die Koordinierung der
+    Zusammenarbeit nach Artikel 39 Absatz 2 und 3 der Delegierten
+    Verordnung (EU) 2024/1366,
+
+
+4.  die Untersuchung nach Artikel 40 Absatz 4 Satz 2 der Delegierten
+    Verordnung (EU) 2024/1366,
+
+
+5.  der Entwicklung von Cybersicherheits-Frühwarnkapazitäten nach Artikel
+    42 der Delegierten Verordnung (EU) 2024/1366.
+
+
+
+Wird das Einvernehmen mit der Bundesnetzagentur nach Satz 1 Nummer 1
+nicht innerhalb von sechs Monaten nach Eingang eines Vorschlags für
+Modalitäten oder Methoden hergestellt, gilt es als hergestellt.
+
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, zum Zweck der Durchführung der Delegierten Verordnung (EU)
+2024/1366 weitere Aufgaben an die Bundesnetzagentur oder an das
+Bundesamt für Sicherheit in der Informationstechnik zu übertragen. Die
+Übertragung nach Satz 1 an das Bundesamt für Sicherheit in der
+Informationstechnik erfolgt im Einvernehmen mit dem Bundesministerium
+des Innern.
+
+(5) Das Bundesministerium für Wirtschaft und Energie, die
+Bundesnetzagentur und das Bundesamt für Sicherheit in der
+Informationstechnik kooperieren untereinander und tauschen
+Informationen aus, soweit dies für die Durchführung der Delegierten
+Verordnung (EU) 2024/1366 erforderlich ist.
 
 
 #### § 55 Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde
