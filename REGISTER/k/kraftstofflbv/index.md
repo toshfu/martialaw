@@ -3640,12 +3640,10 @@ fahrlässig
             *
             *   (4)
 
-            *
             *   (5)
 
             *   (6)
 
-            *
             *
 
         *            *
@@ -3671,6 +3669,7 @@ fahrlässig
             *
             *
             *
+            *
 
         *            *
             *   Anzahl
@@ -3683,6 +3682,7 @@ fahrlässig
 
             *   PS
 
+            *
             *   Benzin
 
             *   Diesel
