@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 7.4.2025 I Nr. 109
-
-Änderung durch
-:   Art. 2 Abs. 4 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 4 G v. 25.11.2025 I Nr. 282
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
