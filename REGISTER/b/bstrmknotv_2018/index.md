@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: AT 17.08.2018 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 2.10.2024 I Nr. 300
+:   Art. 1 V v. 1.12.2025 I Nr. 298
 
 
 ## Eingangsformel
@@ -43,9 +43,9 @@ aus der Anlage ersichtlich festgelegt.
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
-## Anlage Festlegung der von § 3a Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 BFStrMG abweichenden Knotenpunkte
+## Anlage (zu § 1) Festlegung der von § 3a Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 BFStrMG abweichenden Knotenpunkte
 
-(Fundstelle: BGBl. 2024 I Nr. 300, S. 1 – 64)
+(Fundstelle:BGBl. 2025 I Nr. 298, S. 1 – 70)
 
 
 *    *   lfd. Nr.
@@ -74,17 +74,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   B1
 
-    *   B1 Düsseldorf, Nördlicher Zubringer
-
-    *   51.26094
-
-    *   6.79608
-
-
-*    *   3
-
-    *   B1
-
     *   B1 Düsseldorf, Kennedydamm
 
     *   51.24457
@@ -92,7 +81,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.77198
 
 
-*    *   4
+*    *   3
 
     *   B1
 
@@ -103,7 +92,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.75758
 
 
-*    *   5
+*    *   4
 
     *   B1
 
@@ -114,7 +103,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49455
 
 
-*    *   6
+*    *   5
 
     *   B1
 
@@ -125,7 +114,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.6897
 
 
-*    *   7
+*    *   6
 
     *   B1
 
@@ -136,7 +125,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.90039
 
 
-*    *   8
+*    *   7
 
     *   B1
 
@@ -147,7 +136,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00841
 
 
-*    *   9
+*    *   8
 
     *   B1
 
@@ -158,7 +147,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.07215
 
 
-*    *   10
+*    *   9
 
     *   B1
 
@@ -169,7 +158,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.09574
 
 
-*    *   11
+*    *   10
 
     *   B1
 
@@ -180,7 +169,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.12987
 
 
-*    *   12
+*    *   11
 
     *   B1
 
@@ -191,7 +180,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.12861
 
 
-*    *   13
+*    *   12
 
     *   B1
 
@@ -202,7 +191,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.15411
 
 
-*    *   14
+*    *   13
 
     *   B1
 
@@ -213,7 +202,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.38162
 
 
-*    *   15
+*    *   14
 
     *   B1
 
@@ -224,7 +213,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.38469
 
 
-*    *   16
+*    *   15
 
     *   B1
 
@@ -235,18 +224,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.3892
 
 
-*    *   17
+*    *   16
 
     *   B1
 
     *   B1 Hameln, B
 
-    *   52.10017
+    *   52.1002
 
-    *   9.40966
+    *   9.40945
 
 
-*    *   18
+*    *   17
 
     *   B1
 
@@ -257,7 +246,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.436
 
 
-*    *   19
+*    *   18
 
     *   B1
 
@@ -268,7 +257,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.45502
 
 
-*    *   20
+*    *   19
 
     *   B1
 
@@ -279,7 +268,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.59073
 
 
-*    *   21
+*    *   20
 
     *   B1
 
@@ -290,7 +279,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.6119
 
 
-*    *   22
+*    *   21
 
     *   B1
 
@@ -301,7 +290,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.65936
 
 
-*    *   23
+*    *   22
 
     *   B1
 
@@ -312,7 +301,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.92939
 
 
-*    *   24
+*    *   23
 
     *   B1
 
@@ -323,7 +312,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.20234
 
 
-*    *   25
+*    *   24
 
     *   B1
 
@@ -334,7 +323,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.25433
 
 
-*    *   26
+*    *   25
 
     *   B1
 
@@ -345,7 +334,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.45278
 
 
-*    *   27
+*    *   26
 
     *   B1
 
@@ -356,7 +345,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.71627
 
 
-*    *   28
+*    *   27
 
     *   B1
 
@@ -367,7 +356,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.80292
 
 
-*    *   29
+*    *   28
 
     *   B1
 
@@ -378,7 +367,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.84014
 
 
-*    *   30
+*    *   29
 
     *   B1
 
@@ -389,7 +378,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.19018
 
 
-*    *   31
+*    *   30
 
     *   B1
 
@@ -400,7 +389,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.7866
 
 
-*    *   32
+*    *   31
 
     *   B1
 
@@ -411,7 +400,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.83523
 
 
-*    *   33
+*    *   32
 
     *   B1
 
@@ -422,7 +411,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.84264
 
 
-*    *   34
+*    *   33
 
     *   B1
 
@@ -433,7 +422,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.89361
 
 
-*    *   35
+*    *   34
 
     *   B1
 
@@ -444,7 +433,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.95295
 
 
-*    *   36
+*    *   35
 
     *   B1
 
@@ -455,7 +444,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.96935
 
 
-*    *   37
+*    *   36
 
     *   B1
 
@@ -466,7 +455,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.01521
 
 
-*    *   38
+*    *   37
 
     *   B1
 
@@ -477,7 +466,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.09242
 
 
-*    *   39
+*    *   38
 
     *   B1
 
@@ -486,6 +475,17 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   52.38774
 
     *   12.85048
+
+
+*    *   39
+
+    *   B1
+
+    *   B1 Potsdam, Elisenweg
+
+    *   52.3685
+
+    *   12.99359
 
 
 *    *   40
@@ -547,17 +547,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   B1
 
-    *   B1 Berlin, Tunnel Alexanderplatz
-
-    *   52.51878
-
-    *   13.41147
-
-
-*    *   46
-
-    *   B1
-
     *   B1 Berlin, A
 
     *   52.50897
@@ -565,7 +554,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.5562
 
 
-*    *   47
+*    *   46
 
     *   B1
 
@@ -576,7 +565,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.61018
 
 
-*    *   48
+*    *   47
 
     *   B1
 
@@ -584,10 +573,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   52.50388
 
-    *   13.62389
+    *   13.62388
 
 
-*    *   49
+*    *   48
 
     *   B1
 
@@ -598,7 +587,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.82898
 
 
-*    *   50
+*    *   49
 
     *   B1
 
@@ -609,7 +598,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.01563
 
 
-*    *   51
+*    *   50
 
     *   B1
 
@@ -620,7 +609,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.03162
 
 
-*    *   52
+*    *   51
 
     *   B1
 
@@ -631,7 +620,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.74113
 
 
-*    *   53
+*    *   52
 
     *   B1
 
@@ -642,7 +631,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.54017
 
 
-*    *   54
+*    *   53
 
     *   B2
 
@@ -653,7 +642,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.28204
 
 
-*    *   55
+*    *   54
 
     *   B2
 
@@ -664,7 +653,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.9915
 
 
-*    *   56
+*    *   55
 
     *   B2
 
@@ -675,7 +664,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.47326
 
 
-*    *   57
+*    *   56
 
     *   B2
 
@@ -686,18 +675,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.46782
 
 
-*    *   58
-
-    *   B2
-
-    *   B2 Potsdam, Michendorfer Chaussee, C
-
-    *   52.37628
-
-    *   13.05401
-
-
-*    *   59
+*    *   57
 
     *   B2
 
@@ -708,7 +686,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.0453
 
 
-*    *   60
+*    *   58
 
     *   B2
 
@@ -719,7 +697,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.85336
 
 
-*    *   61
+*    *   59
 
     *   B2
 
@@ -730,7 +708,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.83879
 
 
-*    *   62
+*    *   60
 
     *   B2
 
@@ -741,7 +719,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.69391
 
 
-*    *   63
+*    *   61
 
     *   B2
 
@@ -752,7 +730,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.59999
 
 
-*    *   64
+*    *   62
 
     *   B2
 
@@ -763,7 +741,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.52752
 
 
-*    *   65
+*    *   63
 
     *   B2
 
@@ -774,7 +752,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.45525
 
 
-*    *   66
+*    *   64
 
     *   B2
 
@@ -785,7 +763,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39247
 
 
-*    *   67
+*    *   65
 
     *   B2
 
@@ -796,7 +774,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39253
 
 
-*    *   68
+*    *   66
 
     *   B2
 
@@ -807,18 +785,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39272
 
 
-*    *   69
-
-    *   B2
-
-    *   B2 Böhlen, C
-
-    *   51.22401
-
-    *   12.38056
-
-
-*    *   70
+*    *   67
 
     *   B2
 
@@ -829,7 +796,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.37597
 
 
-*    *   71
+*    *   68
 
     *   B2
 
@@ -840,7 +807,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.3668
 
 
-*    *   72
+*    *   69
 
     *   B2
 
@@ -851,7 +818,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.35524
 
 
-*    *   73
+*    *   70
 
     *   B2
 
@@ -862,7 +829,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.29147
 
 
-*    *   74
+*    *   71
 
     *   B2
 
@@ -873,7 +840,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.80927
 
 
-*    *   75
+*    *   72
 
     *   B2
 
@@ -884,7 +851,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.88853
 
 
-*    *   76
+*    *   73
 
     *   B2
 
@@ -895,7 +862,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.9032
 
 
-*    *   77
+*    *   74
 
     *   B2
 
@@ -906,7 +873,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.91173
 
 
-*    *   78
+*    *   75
 
     *   B2
 
@@ -917,7 +884,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.58271
 
 
-*    *   79
+*    *   76
 
     *   B2
 
@@ -928,7 +895,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.59583
 
 
-*    *   80
+*    *   77
 
     *   B2
 
@@ -939,7 +906,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.61025
 
 
-*    *   81
+*    *   78
 
     *   B2
 
@@ -950,7 +917,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.61158
 
 
-*    *   82
+*    *   79
 
     *   B2
 
@@ -961,7 +928,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.61548
 
 
-*    *   83
+*    *   80
 
     *   B2
 
@@ -972,7 +939,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.61941
 
 
-*    *   84
+*    *   81
 
     *   B2
 
@@ -983,7 +950,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.61943
 
 
-*    *   85
+*    *   82
 
     *   B2
 
@@ -994,7 +961,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.59944
 
 
-*    *   86
+*    *   83
 
     *   B2
 
@@ -1005,7 +972,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.5957
 
 
-*    *   87
+*    *   84
 
     *   B2
 
@@ -1016,7 +983,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.58289
 
 
-*    *   88
+*    *   85
 
     *   B2
 
@@ -1027,7 +994,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.57797
 
 
-*    *   89
+*    *   86
 
     *   B2
 
@@ -1038,7 +1005,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.52768
 
 
-*    *   90
+*    *   87
 
     *   B2
 
@@ -1049,7 +1016,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.52544
 
 
-*    *   91
+*    *   88
 
     *   B2
 
@@ -1060,7 +1027,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.23409
 
 
-*    *   92
+*    *   89
 
     *   B2
 
@@ -1071,7 +1038,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.23001
 
 
-*    *   93
+*    *   90
 
     *   B2
 
@@ -1082,7 +1049,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.16331
 
 
-*    *   94
+*    *   91
 
     *   B2
 
@@ -1093,7 +1060,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.14468
 
 
-*    *   95
+*    *   92
 
     *   B2
 
@@ -1104,7 +1071,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.13415
 
 
-*    *   96
+*    *   93
 
     *   B2
 
@@ -1115,7 +1082,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.03739
 
 
-*    *   97
+*    *   94
 
     *   B2
 
@@ -1126,84 +1093,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.02154
 
 
-*    *   98
+*    *   95
 
     *   B2
 
-    *   B2 Treuchtlingen, C
-
-    *   48.9295
-
-    *   10.91826
-
-
-*    *   99
-
-    *   B2
-
-    *   B2 Treuchtlingen, A
-
-    *   48.92389
-
-    *   10.91649
-
-
-*    *   100
-
-    *   B2
-
-    *   B2 Langenaltheim
-
-    *   48.88657
-
-    *   10.86862
-
-
-*    *   101
-
-    *   B2
-
-    *   B2 Monheim, A
-
-    *   48.8845
-
-    *   10.86331
-
-
-*    *   102
-
-    *   B2
-
-    *   B2 Monheim, C
-
-    *   48.86898
-
-    *   10.85725
-
-
-*    *   103
-
-    *   B2
-
-    *   B2 Monheim, E
-
-    *   48.82297
-
-    *   10.82929
-
-
-*    *   104
-
-    *   B2
-
-    *   B2 Kaisheim
+    *   B2 Kaisheim, Bergstetten
 
     *   48.80127
 
-    *   10.82252
+    *   10.82254
 
 
-*    *   105
+*    *   96
 
     *   B2
 
@@ -1214,7 +1115,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.92043
 
 
-*    *   106
+*    *   97
 
     *   B2
 
@@ -1225,7 +1126,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.90512
 
 
-*    *   107
+*    *   98
 
     *   B2
 
@@ -1236,7 +1137,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.93065
 
 
-*    *   108
+*    *   99
 
     *   B2
 
@@ -1247,7 +1148,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.9533
 
 
-*    *   109
+*    *   100
 
     *   B2
 
@@ -1258,7 +1159,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.96145
 
 
-*    *   110
+*    *   101
 
     *   B2
 
@@ -1269,7 +1170,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.04401
 
 
-*    *   111
+*    *   102
 
     *   B2
 
@@ -1280,18 +1181,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.20094
 
 
-*    *   112
-
-    *   B2
-
-    *   B2 München, Lortzingstraße
-
-    *   48.14892
-
-    *   11.45473
-
-
-*    *   113
+*    *   103
 
     *   B2
 
@@ -1302,7 +1192,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.4655
 
 
-*    *   114
+*    *   104
 
     *   B2
 
@@ -1313,7 +1203,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48258
 
 
-*    *   115
+*    *   105
 
     *   B2
 
@@ -1324,7 +1214,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48394
 
 
-*    *   116
+*    *   106
 
     *   B2
 
@@ -1335,7 +1225,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48748
 
 
-*    *   117
+*    *   107
 
     *   B2
 
@@ -1346,7 +1236,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.49108
 
 
-*    *   118
+*    *   108
 
     *   B2
 
@@ -1357,7 +1247,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.52232
 
 
-*    *   119
+*    *   109
 
     *   B2
 
@@ -1368,7 +1258,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.16496
 
 
-*    *   120
+*    *   110
 
     *   B2
 
@@ -1379,7 +1269,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.1642
 
 
-*    *   121
+*    *   111
 
     *   B2
 
@@ -1390,7 +1280,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.17764
 
 
-*    *   122
+*    *   112
 
     *   B2
 
@@ -1401,7 +1291,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.18292
 
 
-*    *   123
+*    *   113
 
     *   B2
 
@@ -1412,7 +1302,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.19216
 
 
-*    *   124
+*    *   114
 
     *   B2
 
@@ -1423,7 +1313,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.19667
 
 
-*    *   125
+*    *   115
 
     *   B2
 
@@ -1434,7 +1324,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.16117
 
 
-*    *   126
+*    *   116
 
     *   B2
 
@@ -1445,7 +1335,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.10183
 
 
-*    *   127
+*    *   117
 
     *   B2
 
@@ -1456,7 +1346,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.13021
 
 
-*    *   128
+*    *   118
 
     *   B2
 
@@ -1467,7 +1357,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.13309
 
 
-*    *   129
+*    *   119
 
     *   B2
 
@@ -1478,7 +1368,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.15097
 
 
-*    *   130
+*    *   120
 
     *   B2
 
@@ -1489,7 +1379,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.15602
 
 
-*    *   131
+*    *   121
 
     *   B2
 
@@ -1500,7 +1390,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.19896
 
 
-*    *   132
+*    *   122
 
     *   B2
 
@@ -1511,7 +1401,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.21061
 
 
-*    *   133
+*    *   123
 
     *   B2
 
@@ -1522,7 +1412,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.21852
 
 
-*    *   134
+*    *   124
 
     *   B2
 
@@ -1533,7 +1423,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.22252
 
 
-*    *   135
+*    *   125
 
     *   B2
 
@@ -1544,7 +1434,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.23263
 
 
-*    *   136
+*    *   126
 
     *   B2
 
@@ -1555,7 +1445,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.27433
 
 
-*    *   137
+*    *   127
 
     *   B2
 
@@ -1566,7 +1456,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.27392
 
 
-*    *   138
+*    *   128
 
     *   B2
 
@@ -1577,7 +1467,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.26272
 
 
-*    *   139
+*    *   129
 
     *   B3
 
@@ -1588,7 +1478,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.78873
 
 
-*    *   140
+*    *   130
 
     *   B3
 
@@ -1599,7 +1489,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.80761
 
 
-*    *   141
+*    *   131
 
     *   B3
 
@@ -1610,7 +1500,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.80656
 
 
-*    *   142
+*    *   132
 
     *   B3
 
@@ -1621,7 +1511,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88248
 
 
-*    *   143
+*    *   133
 
     *   B3
 
@@ -1632,7 +1522,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88689
 
 
-*    *   144
+*    *   134
 
     *   B3
 
@@ -1643,7 +1533,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76391
 
 
-*    *   145
+*    *   135
 
     *   B3
 
@@ -1654,7 +1544,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.81173
 
 
-*    *   146
+*    *   136
 
     *   B3
 
@@ -1665,7 +1555,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.82308
 
 
-*    *   147
+*    *   137
 
     *   B3
 
@@ -1676,7 +1566,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.84162
 
 
-*    *   148
+*    *   138
 
     *   B3
 
@@ -1687,7 +1577,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.93156
 
 
-*    *   149
+*    *   139
 
     *   B3
 
@@ -1698,7 +1588,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88498
 
 
-*    *   150
+*    *   140
 
     *   B3
 
@@ -1709,7 +1599,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.72378
 
 
-*    *   151
+*    *   141
 
     *   B3
 
@@ -1717,21 +1607,21 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   51.44692
 
-    *   9.69592
+    *   9.69606
 
 
-*    *   152
+*    *   142
 
     *   B3
 
     *   B3 Hann. Münden, B
 
-    *   51.44797
+    *   51.44798
 
-    *   9.66965
+    *   9.66967
 
 
-*    *   153
+*    *   143
 
     *   B3
 
@@ -1742,18 +1632,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.65156
 
 
-*    *   154
+*    *   144
 
     *   B3
 
     *   B3 Hann. Münden, Göttinger Straße, B
 
-    *   51.43258
+    *   51.43259
 
-    *   9.6503
+    *   9.65031
 
 
-*    *   155
+*    *   145
 
     *   B3
 
@@ -1764,7 +1654,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.64801
 
 
-*    *   156
+*    *   146
 
     *   B3
 
@@ -1775,7 +1665,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.57521
 
 
-*    *   157
+*    *   147
 
     *   B3
 
@@ -1786,7 +1676,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88269
 
 
-*    *   158
+*    *   148
 
     *   B3
 
@@ -1797,7 +1687,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.18609
 
 
-*    *   159
+*    *   149
 
     *   B3
 
@@ -1808,7 +1698,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.14779
 
 
-*    *   160
+*    *   150
 
     *   B3
 
@@ -1819,7 +1709,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.0689
 
 
-*    *   161
+*    *   151
 
     *   B3
 
@@ -1830,7 +1720,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04879
 
 
-*    *   162
+*    *   152
 
     *   B3
 
@@ -1841,7 +1731,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04487
 
 
-*    *   163
+*    *   153
 
     *   B3
 
@@ -1852,7 +1742,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.03111
 
 
-*    *   164
+*    *   154
 
     *   B3
 
@@ -1863,7 +1753,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.96491
 
 
-*    *   165
+*    *   155
 
     *   B3
 
@@ -1874,7 +1764,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.83902
 
 
-*    *   166
+*    *   156
 
     *   B3
 
@@ -1885,7 +1775,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.70302
 
 
-*    *   167
+*    *   157
+
+    *   B3
+
+    *   B3 Darmstadt
+
+    *   49.9346
+
+    *   8.6608
+
+
+*    *   158
 
     *   B3
 
@@ -1896,7 +1797,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.60836
 
 
-*    *   168
+*    *   159
 
     *   B3
 
@@ -1907,7 +1808,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.64864
 
 
-*    *   169
+*    *   160
 
     *   B3
 
@@ -1918,7 +1819,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.66143
 
 
-*    *   170
+*    *   161
 
     *   B3
 
@@ -1929,7 +1830,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.4682
 
 
-*    *   171
+*    *   162
 
     *   B3
 
@@ -1940,7 +1841,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.2809
 
 
-*    *   172
+*    *   163
 
     *   B3
 
@@ -1951,7 +1852,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.05517
 
 
-*    *   173
+*    *   164
 
     *   B3
 
@@ -1962,7 +1863,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.99794
 
 
-*    *   174
+*    *   165
 
     *   B3
 
@@ -1973,7 +1874,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.87673
 
 
-*    *   175
+*    *   166
 
     *   B3
 
@@ -1984,7 +1885,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8356
 
 
-*    *   176
+*    *   167
 
     *   B3
 
@@ -1995,7 +1896,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.76036
 
 
-*    *   177
+*    *   168
 
     *   B3
 
@@ -2006,7 +1907,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.83333
 
 
-*    *   178
+*    *   169
 
     *   B3
 
@@ -2017,7 +1918,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8498
 
 
-*    *   179
+*    *   170
 
     *   B3
 
@@ -2028,7 +1929,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.85178
 
 
-*    *   180
+*    *   171
 
     *   B3
 
@@ -2039,7 +1940,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.83182
 
 
-*    *   181
+*    *   172
 
     *   B3
 
@@ -2050,7 +1951,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.57644
 
 
-*    *   182
+*    *   173
 
     *   B3
 
@@ -2061,7 +1962,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.57896
 
 
-*    *   183
+*    *   174
 
     *   B3
 
@@ -2072,7 +1973,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8571
 
 
-*    *   184
+*    *   175
 
     *   B4
 
@@ -2083,7 +1984,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88418
 
 
-*    *   185
+*    *   176
 
     *   B4
 
@@ -2094,7 +1995,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88659
 
 
-*    *   186
+*    *   177
 
     *   B4
 
@@ -2105,7 +2006,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88421
 
 
-*    *   187
+*    *   178
 
     *   B4
 
@@ -2116,7 +2017,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.87675
 
 
-*    *   188
+*    *   179
 
     *   B4
 
@@ -2127,7 +2028,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88394
 
 
-*    *   189
+*    *   180
 
     *   B4
 
@@ -2138,7 +2039,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.90457
 
 
-*    *   190
+*    *   181
 
     *   B4
 
@@ -2149,7 +2050,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.90644
 
 
-*    *   191
+*    *   182
 
     *   B4
 
@@ -2160,7 +2061,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.90721
 
 
-*    *   192
+*    *   183
 
     *   B4
 
@@ -2171,7 +2072,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.9072
 
 
-*    *   193
+*    *   184
 
     *   B4
 
@@ -2182,7 +2083,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.40512
 
 
-*    *   194
+*    *   185
 
     *   B4
 
@@ -2193,7 +2094,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.4321
 
 
-*    *   195
+*    *   186
 
     *   B4
 
@@ -2204,7 +2105,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.46724
 
 
-*    *   196
+*    *   187
 
     *   B4
 
@@ -2215,7 +2116,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.53396
 
 
-*    *   197
+*    *   188
 
     *   B4
 
@@ -2226,7 +2127,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.53903
 
 
-*    *   198
+*    *   189
 
     *   B4
 
@@ -2237,7 +2138,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.49459
 
 
-*    *   199
+*    *   190
 
     *   B4
 
@@ -2248,7 +2149,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.48753
 
 
-*    *   200
+*    *   191
 
     *   B4
 
@@ -2259,7 +2160,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.48711
 
 
-*    *   201
+*    *   192
 
     *   B4
 
@@ -2270,7 +2171,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.48744
 
 
-*    *   202
+*    *   193
 
     *   B4
 
@@ -2281,7 +2182,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.48739
 
 
-*    *   203
+*    *   194
 
     *   B4
 
@@ -2292,7 +2193,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.47271
 
 
-*    *   204
+*    *   195
 
     *   B4
 
@@ -2303,7 +2204,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.4712
 
 
-*    *   205
+*    *   196
 
     *   B4
 
@@ -2314,7 +2215,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.47145
 
 
-*    *   206
+*    *   197
 
     *   B4
 
@@ -2325,7 +2226,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.53302
 
 
-*    *   207
+*    *   198
 
     *   B4
 
@@ -2336,7 +2237,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.40526
 
 
-*    *   208
+*    *   199
 
     *   B4
 
@@ -2347,7 +2248,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.55871
 
 
-*    *   209
+*    *   200
 
     *   B4
 
@@ -2358,7 +2259,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.55743
 
 
-*    *   210
+*    *   201
 
     *   B4
 
@@ -2369,7 +2270,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.55124
 
 
-*    *   211
+*    *   202
 
     *   B4
 
@@ -2380,7 +2281,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.54708
 
 
-*    *   212
+*    *   203
 
     *   B4
 
@@ -2391,7 +2292,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.52866
 
 
-*    *   213
+*    *   204
 
     *   B4
 
@@ -2402,7 +2303,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.52978
 
 
-*    *   214
+*    *   205
 
     *   B4
 
@@ -2413,7 +2314,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.53541
 
 
-*    *   215
+*    *   206
 
     *   B4
 
@@ -2424,7 +2325,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.55145
 
 
-*    *   216
+*    *   207
 
     *   B4
 
@@ -2435,7 +2336,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.54964
 
 
-*    *   217
+*    *   208
 
     *   B4
 
@@ -2446,7 +2347,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.59139
 
 
-*    *   218
+*    *   209
 
     *   B4
 
@@ -2457,7 +2358,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.66148
 
 
-*    *   219
+*    *   210
 
     *   B4
 
@@ -2468,7 +2369,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.66745
 
 
-*    *   220
+*    *   211
 
     *   B4
 
@@ -2479,7 +2380,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.9712
 
 
-*    *   221
+*    *   212
 
     *   B4
 
@@ -2490,7 +2391,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.98847
 
 
-*    *   222
+*    *   213
 
     *   B4
 
@@ -2501,7 +2402,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.79962
 
 
-*    *   223
+*    *   214
 
     *   B4
 
@@ -2512,7 +2413,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.91579
 
 
-*    *   224
+*    *   215
 
     *   B4
 
@@ -2523,7 +2424,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.90811
 
 
-*    *   225
+*    *   216
 
     *   B4
 
@@ -2531,10 +2432,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   50.05936
 
-    *   10.87747
+    *   10.87756
 
 
-*    *   226
+*    *   217
 
     *   B4
 
@@ -2545,7 +2446,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.88198
 
 
-*    *   227
+*    *   218
 
     *   B4
 
@@ -2556,7 +2457,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.00979
 
 
-*    *   228
+*    *   219
 
     *   B4
 
@@ -2567,7 +2468,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.00218
 
 
-*    *   229
+*    *   220
 
     *   B4R
 
@@ -2578,7 +2479,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.11783
 
 
-*    *   230
+*    *   221
 
     *   B4R
 
@@ -2589,7 +2490,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.10535
 
 
-*    *   231
+*    *   222
 
     *   B4R
 
@@ -2600,7 +2501,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.05027
 
 
-*    *   232
+*    *   223
 
     *   B4
 
@@ -2611,7 +2512,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.13346
 
 
-*    *   233
+*    *   224
 
     *   B5
 
@@ -2622,7 +2523,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.88949
 
 
-*    *   234
+*    *   225
 
     *   B5
 
@@ -2633,7 +2534,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.86144
 
 
-*    *   235
+*    *   226
 
     *   B5
 
@@ -2644,7 +2545,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.878
 
 
-*    *   236
+*    *   227
 
     *   B5
 
@@ -2655,7 +2556,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.95735
 
 
-*    *   237
+*    *   228
 
     *   B5
 
@@ -2666,7 +2567,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.95687
 
 
-*    *   238
+*    *   229
 
     *   B5
 
@@ -2677,7 +2578,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.94946
 
 
-*    *   239
+*    *   230
 
     *   B5
 
@@ -2688,7 +2589,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.96343
 
 
-*    *   240
+*    *   231
 
     *   B5
 
@@ -2699,7 +2600,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00022
 
 
-*    *   241
+*    *   232
 
     *   B5
 
@@ -2710,7 +2611,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.07109
 
 
-*    *   242
+*    *   233
 
     *   B5
 
@@ -2721,18 +2622,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.0553
 
 
-*    *   243
+*    *   234
 
     *   B5
 
-    *   B5 Oldenswort, Dithmarscher Straße
+    *   B5 Tönning
 
-    *   54.31987
+    *   54.33181
 
-    *   8.95561
+    *   8.95483
 
 
-*    *   244
+*    *   235
 
     *   B5
 
@@ -2743,7 +2644,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.03686
 
 
-*    *   245
+*    *   236
 
     *   B5
 
@@ -2754,7 +2655,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.06781
 
 
-*    *   246
+*    *   237
 
     *   B5
 
@@ -2765,7 +2666,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00761
 
 
-*    *   247
+*    *   238
 
     *   B5
 
@@ -2776,7 +2677,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00731
 
 
-*    *   248
+*    *   239
 
     *   B5
 
@@ -2787,7 +2688,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00706
 
 
-*    *   249
+*    *   240
 
     *   B5
 
@@ -2798,7 +2699,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00775
 
 
-*    *   250
+*    *   241
 
     *   B5
 
@@ -2809,7 +2710,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.3963
 
 
-*    *   251
+*    *   242
 
     *   B5
 
@@ -2820,7 +2721,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.59559
 
 
-*    *   252
+*    *   243
 
     *   B5
 
@@ -2831,7 +2732,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.67218
 
 
-*    *   253
+*    *   244
 
     *   B5
 
@@ -2842,7 +2743,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.89416
 
 
-*    *   254
+*    *   245
 
     *   B5
 
@@ -2853,7 +2754,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.22998
 
 
-*    *   255
+*    *   246
 
     *   B5
 
@@ -2864,7 +2765,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.2342
 
 
-*    *   256
+*    *   247
 
     *   B5
 
@@ -2875,7 +2776,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.58644
 
 
-*    *   257
+*    *   248
 
     *   B5
 
@@ -2886,7 +2787,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.71203
 
 
-*    *   258
+*    *   249
 
     *   B5
 
@@ -2897,7 +2798,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.74731
 
 
-*    *   259
+*    *   250
 
     *   B5
 
@@ -2908,7 +2809,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.14092
 
 
-*    *   260
+*    *   251
 
     *   B5
 
@@ -2919,7 +2820,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.24098
 
 
-*    *   261
+*    *   252
 
     *   B5
 
@@ -2930,7 +2831,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.46282
 
 
-*    *   262
+*    *   253
 
     *   B5
 
@@ -2941,7 +2842,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.53132
 
 
-*    *   263
+*    *   254
 
     *   B6
 
@@ -2952,7 +2853,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.59779
 
 
-*    *   264
+*    *   255
 
     *   B6
 
@@ -2963,7 +2864,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.78533
 
 
-*    *   265
+*    *   256
 
     *   B6
 
@@ -2974,7 +2875,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.82415
 
 
-*    *   266
+*    *   257
 
     *   B6
 
@@ -2985,7 +2886,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.86485
 
 
-*    *   267
+*    *   258
 
     *   B6
 
@@ -2996,7 +2897,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.08456
 
 
-*    *   268
+*    *   259
 
     *   B6
 
@@ -3007,7 +2908,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.12783
 
 
-*    *   269
+*    *   260
 
     *   B6
 
@@ -3018,7 +2919,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.22932
 
 
-*    *   270
+*    *   261
 
     *   B6
 
@@ -3029,7 +2930,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.99376
 
 
-*    *   271
+*    *   262
 
     *   B6
 
@@ -3040,7 +2941,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.10822
 
 
-*    *   272
+*    *   263
 
     *   B6
 
@@ -3051,7 +2952,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.37183
 
 
-*    *   273
+*    *   264
 
     *   B6
 
@@ -3062,7 +2963,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39529
 
 
-*    *   274
+*    *   265
 
     *   B6
 
@@ -3073,7 +2974,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39848
 
 
-*    *   275
+*    *   266
 
     *   B6
 
@@ -3084,40 +2985,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.70132
 
 
-*    *   276
-
-    *   B6
-
-    *   B6 Wurzen, A
-
-    *   51.36418
-
-    *   12.7525
-
-
-*    *   277
-
-    *   B6
-
-    *   B6 Wurzen, B
-
-    *   51.36319
-
-    *   12.75509
-
-
-*    *   278
-
-    *   B6
-
-    *   B6 Wurzen, C
-
-    *   51.36163
-
-    *   12.75915
-
-
-*    *   279
+*    *   267
 
     *   B6
 
@@ -3128,7 +2996,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.88495
 
 
-*    *   280
+*    *   268
 
     *   B6
 
@@ -3139,7 +3007,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.89897
 
 
-*    *   281
+*    *   269
 
     *   B6
 
@@ -3150,7 +3018,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.13545
 
 
-*    *   282
+*    *   270
 
     *   B6
 
@@ -3161,7 +3029,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.14191
 
 
-*    *   283
+*    *   271
 
     *   B6
 
@@ -3172,7 +3040,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.63793
 
 
-*    *   284
+*    *   272
 
     *   B6
 
@@ -3183,7 +3051,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.63981
 
 
-*    *   285
+*    *   273
 
     *   B6
 
@@ -3194,7 +3062,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.72112
 
 
-*    *   286
+*    *   274
 
     *   B6
 
@@ -3205,7 +3073,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.94935
 
 
-*    *   287
+*    *   275
 
     *   B6
 
@@ -3216,7 +3084,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.95254
 
 
-*    *   288
+*    *   276
 
     *   B6
 
@@ -3227,7 +3095,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.9706
 
 
-*    *   289
+*    *   277
 
     *   B6
 
@@ -3238,7 +3106,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.97966
 
 
-*    *   290
+*    *   278
 
     *   B6
 
@@ -3249,7 +3117,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.99623
 
 
-*    *   291
+*    *   279
 
     *   B6
 
@@ -3260,7 +3128,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.47319
 
 
-*    *   292
+*    *   280
 
     *   B7
 
@@ -3271,7 +3139,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.24939
 
 
-*    *   293
+*    *   281
 
     *   B7
 
@@ -3282,7 +3150,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.21927
 
 
-*    *   294
+*    *   282
 
     *   B7
 
@@ -3293,7 +3161,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.67088
 
 
-*    *   295
+*    *   283
 
     *   B7
 
@@ -3304,7 +3172,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.84033
 
 
-*    *   296
+*    *   284
 
     *   B7
 
@@ -3315,7 +3183,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98542
 
 
-*    *   297
+*    *   285
 
     *   B7
 
@@ -3326,7 +3194,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.05445
 
 
-*    *   298
+*    *   286
 
     *   B7
 
@@ -3337,7 +3205,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.07369
 
 
-*    *   299
+*    *   287
 
     *   B7
 
@@ -3348,7 +3216,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.10553
 
 
-*    *   300
+*    *   288
 
     *   B7
 
@@ -3359,7 +3227,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.16685
 
 
-*    *   301
+*    *   289
 
     *   B7
 
@@ -3370,7 +3238,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.18201
 
 
-*    *   302
+*    *   290
 
     *   B7
 
@@ -3381,7 +3249,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.48346
 
 
-*    *   303
+*    *   291
 
     *   B7
 
@@ -3392,7 +3260,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53546
 
 
-*    *   304
+*    *   292
 
     *   B7
 
@@ -3403,7 +3271,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.54528
 
 
-*    *   305
+*    *   293
 
     *   B7
 
@@ -3414,7 +3282,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.48613
 
 
-*    *   306
+*    *   294
+
+    *   B7
+
+    *   B7 Ringgau, A
+
+    *   51.10341
+
+    *   10.066
+
+
+*    *   295
+
+    *   B7
+
+    *   B7 Ringgau, B
+
+    *   51.09194
+
+    *   10.09978
+
+
+*    *   296
+
+    *   B7
+
+    *   B7 Ringgau, Schalkenberg
+
+    *   51.08678
+
+    *   10.13008
+
+
+*    *   297
 
     *   B7
 
@@ -3425,7 +3326,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.22633
 
 
-*    *   307
+*    *   298
 
     *   B7
 
@@ -3436,7 +3337,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.2284
 
 
-*    *   308
+*    *   299
 
     *   B7
 
@@ -3447,7 +3348,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.28414
 
 
-*    *   309
+*    *   300
 
     *   B7
 
@@ -3458,7 +3359,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.33602
 
 
-*    *   310
+*    *   301
 
     *   B8
 
@@ -3469,7 +3370,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.14109
 
 
-*    *   311
+*    *   302
 
     *   B8
 
@@ -3480,7 +3381,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.14553
 
 
-*    *   312
+*    *   303
 
     *   B8
 
@@ -3491,7 +3392,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.14764
 
 
-*    *   313
+*    *   304
 
     *   B8
 
@@ -3502,7 +3403,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.17492
 
 
-*    *   314
+*    *   305
 
     *   B8
 
@@ -3513,18 +3414,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.18517
 
 
-*    *   315
+*    *   306
 
     *   B8
 
-    *   B8/B506 Köln
+    *   B8 Dinslaken, Bärenstraße
 
-    *   50.96409
+    *   51.54623
 
-    *   7.00613
+    *   6.7304
 
 
-*    *   316
+*    *   307
 
     *   B8
 
@@ -3535,7 +3436,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.01768
 
 
-*    *   317
+*    *   308
 
     *   B8
 
@@ -3546,7 +3447,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.14903
 
 
-*    *   318
+*    *   309
 
     *   B8
 
@@ -3557,7 +3458,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.15582
 
 
-*    *   319
+*    *   310
 
     *   B8
 
@@ -3568,7 +3469,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.3667
 
 
-*    *   320
+*    *   311
 
     *   B8
 
@@ -3579,7 +3480,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.04315
 
 
-*    *   321
+*    *   312
 
     *   B8
 
@@ -3590,7 +3491,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.13234
 
 
-*    *   322
+*    *   313
 
     *   B8
 
@@ -3601,7 +3502,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.13586
 
 
-*    *   323
+*    *   314
 
     *   B8
 
@@ -3612,7 +3513,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.14434
 
 
-*    *   324
+*    *   315
 
     *   B8
 
@@ -3623,7 +3524,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20928
 
 
-*    *   325
+*    *   316
 
     *   B8
 
@@ -3634,7 +3535,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.26971
 
 
-*    *   326
+*    *   317
 
     *   B8
 
@@ -3645,7 +3546,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.443
 
 
-*    *   327
+*    *   318
 
     *   B8
 
@@ -3656,7 +3557,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72947
 
 
-*    *   328
+*    *   319
 
     *   B8
 
@@ -3667,7 +3568,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.73389
 
 
-*    *   329
+*    *   320
 
     *   B8
 
@@ -3678,7 +3579,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.7476
 
 
-*    *   330
+*    *   321
 
     *   B8
 
@@ -3689,7 +3590,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.80553
 
 
-*    *   331
+*    *   322
 
     *   B8
 
@@ -3700,7 +3601,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.75266
 
 
-*    *   332
+*    *   323
 
     *   B8
 
@@ -3711,7 +3612,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.7363
 
 
-*    *   333
+*    *   324
 
     *   B8
 
@@ -3722,7 +3623,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.58224
 
 
-*    *   334
+*    *   325
 
     *   B8
 
@@ -3733,7 +3634,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.61106
 
 
-*    *   335
+*    *   326
 
     *   B8
 
@@ -3744,7 +3645,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.64897
 
 
-*    *   336
+*    *   327
 
     *   B8
 
@@ -3755,7 +3656,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.21346
 
 
-*    *   337
+*    *   328
 
     *   B8
 
@@ -3766,7 +3667,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.35814
 
 
-*    *   338
+*    *   329
 
     *   B8
 
@@ -3777,7 +3678,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.41596
 
 
-*    *   339
+*    *   330
 
     *   B8
 
@@ -3788,7 +3689,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.45609
 
 
-*    *   340
+*    *   331
 
     *   B8
 
@@ -3799,7 +3700,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.49588
 
 
-*    *   341
+*    *   332
 
     *   B8
 
@@ -3810,7 +3711,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.03025
 
 
-*    *   342
+*    *   333
 
     *   B8
 
@@ -3821,7 +3722,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.03322
 
 
-*    *   343
+*    *   334
 
     *   B8
 
@@ -3832,7 +3733,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.03071
 
 
-*    *   344
+*    *   335
 
     *   B8
 
@@ -3843,7 +3744,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.02845
 
 
-*    *   345
+*    *   336
 
     *   B8
 
@@ -3854,7 +3755,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.02593
 
 
-*    *   346
+*    *   337
 
     *   B8
 
@@ -3865,7 +3766,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.27689
 
 
-*    *   347
+*    *   338
 
     *   B8
 
@@ -3876,73 +3777,95 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.28064
 
 
-*    *   348
+*    *   339
 
     *   B8
 
-    *   B8 Pfatter, B
+    *   B8 Pfatter
 
     *   48.96268
 
     *   12.34683
 
 
-*    *   349
+*    *   340
 
     *   B8
 
-    *   B8 Atting, Stefan-Schwarz-Straße
+    *   B8 Pfatter, Biohof
+
+    *   48.9596
+
+    *   12.38821
+
+
+*    *   341
+
+    *   B8
+
+    *   B8 Mötzing
+
+    *   48.90923
+
+    *   12.43906
+
+
+*    *   342
+
+    *   B8
+
+    *   B8 Atting
 
     *   48.88524
 
     *   12.52528
 
 
-*    *   350
+*    *   343
 
     *   B8
 
-    *   B8 Moos, A
+    *   B8 Straßkirchen, Passauer Straße
 
-    *   48.73844
+    *   48.82519
 
-    *   12.95318
+    *   12.73598
 
 
-*    *   351
+*    *   344
 
     *   B8
 
-    *   B8 Moos, B
+    *   B8 Moos
 
     *   48.72809
 
     *   12.97444
 
 
-*    *   352
+*    *   345
 
     *   B8
 
-    *   B8 Vilshofen an der Donau, B
+    *   B8 Osterhofen, Biomethananlage
 
-    *   48.61583
+    *   48.72485
 
-    *   13.22764
+    *   12.98489
 
 
-*    *   353
+*    *   346
 
     *   B8
 
-    *   B8 Passau, Regensburger Straße, E
+    *   B8 Osterhofen
 
-    *   48.5773
+    *   48.69435
 
-    *   13.40494
+    *   13.03197
 
 
-*    *   354
+*    *   347
 
     *   B8
 
@@ -3953,18 +3876,128 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.41881
 
 
-*    *   355
+*    *   348
 
     *   B8
 
     *   B8 Passau, Regensburger Straße, B
 
-    *   48.57348
+    *   48.5735
 
-    *   13.42393
+    *   13.42394
+
+
+*    *   349
+
+    *   B9
+
+    *   B9 Kranenburg, Hoogen
+
+    *   51.78226
+
+    *   6.02517
+
+
+*    *   350
+
+    *   B9
+
+    *   B9 Kleve, Eichenallee
+
+    *   51.80046
+
+    *   6.1079
+
+
+*    *   351
+
+    *   B9
+
+    *   B9 Kleve, Tiergartenstraße, B
+
+    *   51.7977
+
+    *   6.12013
+
+
+*    *   352
+
+    *   B9
+
+    *   B9 Kleve, Galleien
+
+    *   51.77512
+
+    *   6.15106
+
+
+*    *   353
+
+    *   B9
+
+    *   B9 Bedburg-Hau, Gocher Landstraße
+
+    *   51.75276
+
+    *   6.15747
+
+
+*    *   354
+
+    *   B9
+
+    *   B9 Goch, Buschwaldstraße
+
+    *   51.74033
+
+    *   6.1595
+
+
+*    *   355
+
+    *   B9
+
+    *   B9 Goch, Klever Straße, B
+
+    *   51.7301
+
+    *   6.15928
 
 
 *    *   356
+
+    *   B9
+
+    *   B9 Weeze, Höst-Vornicker-Weg
+
+    *   51.65042
+
+    *   6.18495
+
+
+*    *   357
+
+    *   B9
+
+    *   B9 Weeze, Gocher Straße, B
+
+    *   51.6388
+
+    *   6.19185
+
+
+*    *   358
+
+    *   B9
+
+    *   B9 Weeze, Hertefeld
+
+    *   51.62985
+
+    *   6.20436
+
+
+*    *   359
 
     *   B9
 
@@ -3975,7 +4008,227 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.23366
 
 
-*    *   357
+*    *   360
+
+    *   B9
+
+    *   B9 Kevelaer, Gelder Dyck, A
+
+    *   51.54629
+
+    *   6.26761
+
+
+*    *   361
+
+    *   B9
+
+    *   B9 Kevelaer, Gelder Dyck, B
+
+    *   51.54413
+
+    *   6.26872
+
+
+*    *   362
+
+    *   B9
+
+    *   B9 Kevelaer, Klingsweg
+
+    *   51.54277
+
+    *   6.26986
+
+
+*    *   363
+
+    *   B9
+
+    *   B9 Geldern, Heideweg
+
+    *   51.53612
+
+    *   6.27618
+
+
+*    *   364
+
+    *   B9
+
+    *   B9 Geldern, Nuylenweg
+
+    *   51.53408
+
+    *   6.27813
+
+
+*    *   365
+
+    *   B9
+
+    *   B9 Geldern, Am Kaiserbusch
+
+    *   51.53014
+
+    *   6.28208
+
+
+*    *   366
+
+    *   B9
+
+    *   B9 Geldern, Spitsweg
+
+    *   51.52442
+
+    *   6.2868
+
+
+*    *   367
+
+    *   B9
+
+    *   B9 Kerken, Am Berkmansgraben
+
+    *   51.48612
+
+    *   6.33761
+
+
+*    *   368
+
+    *   B9
+
+    *   B9 Kerken, Winternam
+
+    *   51.48352
+
+    *   6.33946
+
+
+*    *   369
+
+    *   B9
+
+    *   B9 Kerken, B
+
+    *   51.48051
+
+    *   6.34252
+
+
+*    *   370
+
+    *   B9
+
+    *   B9 Kerken, Genender Weg
+
+    *   51.47814
+
+    *   6.34515
+
+
+*    *   371
+
+    *   B9
+
+    *   B9 Kerken, Omselsweg
+
+    *   51.47579
+
+    *   6.34774
+
+
+*    *   372
+
+    *   B9
+
+    *   B9 Kerken, Bömannsweg
+
+    *   51.47252
+
+    *   6.35214
+
+
+*    *   373
+
+    *   B9
+
+    *   B9 Kerken, Pegelsweg
+
+    *   51.44958
+
+    *   6.39017
+
+
+*    *   374
+
+    *   B9
+
+    *   B9 Kerken, An den Linden
+
+    *   51.44758
+
+    *   6.39517
+
+
+*    *   375
+
+    *   B9
+
+    *   B9 Kerken, Schietweg
+
+    *   51.44369
+
+    *   6.4057
+
+
+*    *   376
+
+    *   B9
+
+    *   B9 Kerken, Aldekerk
+
+    *   51.44234
+
+    *   6.41619
+
+
+*    *   377
+
+    *   B9
+
+    *   B9 Kerken, Liebfrauenweg
+
+    *   51.43407
+
+    *   6.42857
+
+
+*    *   378
+
+    *   B9
+
+    *   B9 Kerken, Stapperweg
+
+    *   51.41977
+
+    *   6.46422
+
+
+*    *   379
+
+    *   B9
+
+    *   B9 Krefeld, Hinterorbroich
+
+    *   51.39662
+
+    *   6.49644
+
+
+*    *   380
 
     *   B9
 
@@ -3986,29 +4239,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.87045
 
 
-*    *   358
+*    *   381
 
     *   B9
 
-    *   B9 Bad Breisig, Bonner Straße, A
+    *   B9 Remagen, Am Humboldtstein
 
-    *   50.52161
+    *   50.6359
 
-    *   7.28704
+    *   7.20646
 
 
-*    *   359
+*    *   382
 
     *   B9
 
-    *   B9 Spay, An der B9
+    *   B9 Remagen, B
 
-    *   50.2633
+    *   50.59022
 
-    *   7.64409
+    *   7.20948
 
 
-*    *   360
+*    *   383
 
     *   B9
 
@@ -4019,18 +4272,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.64449
 
 
-*    *   361
+*    *   384
 
     *   B9
 
-    *   B9 Bad Breisig, Bonner Straße, B
+    *   B9 Sankt Goar, Campingplatz
 
-    *   50.52012
+    *   50.14232
 
-    *   7.28864
+    *   7.72166
 
 
-*    *   362
+*    *   385
+
+    *   B9
+
+    *   B9 Oberwesel, Fähre Kaub-Engelsburg
+
+    *   50.08251
+
+    *   7.76266
+
+
+*    *   386
+
+    *   B9
+
+    *   B9 Trechtingshausen, Am Reichbach
+
+    *   50.01766
+
+    *   7.83465
+
+
+*    *   387
+
+    *   B9
+
+    *   B9 Weiler bei Bingen
+
+    *   49.97679
+
+    *   7.86407
+
+
+*    *   388
 
     *   B9
 
@@ -4041,7 +4327,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.33832
 
 
-*    *   363
+*    *   389
 
     *   B9
 
@@ -4052,7 +4338,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.35234
 
 
-*    *   364
+*    *   390
 
     *   B9
 
@@ -4063,7 +4349,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.3549
 
 
-*    *   365
+*    *   391
 
     *   B10
 
@@ -4074,7 +4360,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.76981
 
 
-*    *   366
+*    *   392
 
     *   B10
 
@@ -4085,7 +4371,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.78796
 
 
-*    *   367
+*    *   393
 
     *   B10
 
@@ -4096,7 +4382,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.82172
 
 
-*    *   368
+*    *   394
 
     *   B10
 
@@ -4107,7 +4393,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.90826
 
 
-*    *   369
+*    *   395
 
     *   B10
 
@@ -4118,7 +4404,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.97729
 
 
-*    *   370
+*    *   396
 
     *   B10
 
@@ -4129,7 +4415,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.43156
 
 
-*    *   371
+*    *   397
 
     *   B10
 
@@ -4140,7 +4426,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.44024
 
 
-*    *   372
+*    *   398
 
     *   B10
 
@@ -4151,7 +4437,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.43932
 
 
-*    *   373
+*    *   399
 
     *   B10
 
@@ -4162,7 +4448,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.51099
 
 
-*    *   374
+*    *   400
 
     *   B10
 
@@ -4173,7 +4459,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.57153
 
 
-*    *   375
+*    *   401
 
     *   B10
 
@@ -4184,7 +4470,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.608
 
 
-*    *   376
+*    *   402
 
     *   B10
 
@@ -4195,7 +4481,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.655
 
 
-*    *   377
+*    *   403
 
     *   B10
 
@@ -4206,7 +4492,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.7291
 
 
-*    *   378
+*    *   404
 
     *   B10
 
@@ -4217,7 +4503,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.81306
 
 
-*    *   379
+*    *   405
 
     *   B10
 
@@ -4228,7 +4514,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.81614
 
 
-*    *   380
+*    *   406
 
     *   B10
 
@@ -4239,7 +4525,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.85643
 
 
-*    *   381
+*    *   407
 
     *   B10
 
@@ -4250,7 +4536,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.91035
 
 
-*    *   382
+*    *   408
 
     *   B10
 
@@ -4261,7 +4547,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.93149
 
 
-*    *   383
+*    *   409
 
     *   B10
 
@@ -4272,7 +4558,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.93684
 
 
-*    *   384
+*    *   410
 
     *   B10
 
@@ -4283,7 +4569,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.94556
 
 
-*    *   385
+*    *   411
 
     *   B10
 
@@ -4294,40 +4580,95 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.10229
 
 
-*    *   386
+*    *   412
 
     *   B10
 
-    *   B10/B27 Dreieck Stuttgart-Zuffenhausen
+    *   B10 Kuchen
 
-    *   48.83987
+    *   48.64568
 
-    *   9.17229
-
-
-*    *   387
-
-    *   B10
-
-    *   B10 Kuchen, Seewiesenstraße
-
-    *   48.64198
-
-    *   9.79039
+    *   9.78866
 
 
-*    *   388
+*    *   413
 
     *   B10
 
-    *   B10 Lonsee, B
+    *   B10 Geislingen an der Steige, Im Espan
+
+    *   48.63089
+
+    *   9.80819
+
+
+*    *   414
+
+    *   B10
+
+    *   B10 Geislingen an der Steige, Am Karlstollen
+
+    *   48.62976
+
+    *   9.81242
+
+
+*    *   415
+
+    *   B10
+
+    *   B10 Geislingen an der Steige, Weißer Weg
+
+    *   48.60178
+
+    *   9.84211
+
+
+*    *   416
+
+    *   B10
+
+    *   B10 Geislingen an der Steige, Schimmelmühle
+
+    *   48.59425
+
+    *   9.8533
+
+
+*    *   417
+
+    *   B10
+
+    *   B10 Amstetten, Bahnhof
+
+    *   48.58132
+
+    *   9.87281
+
+
+*    *   418
+
+    *   B10
+
+    *   B10 Lonsee, An der Herberge
+
+    *   48.55432
+
+    *   9.89035
+
+
+*    *   419
+
+    *   B10
+
+    *   B10 Lonsee
 
     *   48.53258
 
     *   9.90092
 
 
-*    *   389
+*    *   420
 
     *   B10
 
@@ -4338,29 +4679,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.91983
 
 
-*    *   390
+*    *   421
 
     *   B10
 
-    *   B10 Neu-Ulm, Froschlachweg
+    *   B10 Stuttgart, A
 
-    *   48.41162
+    *   48.8188
 
-    *   10.08806
-
-
-*    *   391
-
-    *   B10
-
-    *   B10 Lonsee, A
-
-    *   48.54019
-
-    *   9.90335
+    *   9.17582
 
 
-*    *   392
+*    *   422
 
     *   B11
 
@@ -4371,7 +4701,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.2812
 
 
-*    *   393
+*    *   423
 
     *   B11
 
@@ -4382,7 +4712,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.29129
 
 
-*    *   394
+*    *   424
 
     *   B11
 
@@ -4393,7 +4723,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.29376
 
 
-*    *   395
+*    *   425
 
     *   B11
 
@@ -4404,7 +4734,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.38306
 
 
-*    *   396
+*    *   426
 
     *   B11
 
@@ -4415,7 +4745,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.43439
 
 
-*    *   397
+*    *   427
 
     *   B11
 
@@ -4426,7 +4756,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.46001
 
 
-*    *   398
+*    *   428
 
     *   B11
 
@@ -4437,7 +4767,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.42847
 
 
-*    *   399
+*    *   429
 
     *   B11
 
@@ -4448,7 +4778,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.42159
 
 
-*    *   400
+*    *   430
 
     *   B11
 
@@ -4459,7 +4789,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.42271
 
 
-*    *   401
+*    *   431
 
     *   B11
 
@@ -4470,7 +4800,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.98058
 
 
-*    *   402
+*    *   432
 
     *   B11
 
@@ -4481,7 +4811,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.18339
 
 
-*    *   403
+*    *   433
 
     *   B11
 
@@ -4492,7 +4822,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.21569
 
 
-*    *   404
+*    *   434
 
     *   B11
 
@@ -4503,7 +4833,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.19979
 
 
-*    *   405
+*    *   435
 
     *   B12
 
@@ -4514,7 +4844,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.07851
 
 
-*    *   406
+*    *   436
+
+    *   B12
+
+    *   B12 Lindau (Bodensee)
+
+    *   47.5477
+
+    *   9.72699
+
+
+*    *   437
 
     *   B12
 
@@ -4525,7 +4866,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.44579
 
 
-*    *   407
+*    *   438
 
     *   B12
 
@@ -4536,7 +4877,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.45308
 
 
-*    *   408
+*    *   439
 
     *   B12
 
@@ -4547,7 +4888,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.55031
 
 
-*    *   409
+*    *   440
 
     *   B12
 
@@ -4558,7 +4899,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.55354
 
 
-*    *   410
+*    *   441
 
     *   B12
 
@@ -4569,7 +4910,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.64489
 
 
-*    *   411
+*    *   442
 
     *   B12
 
@@ -4580,7 +4921,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.69457
 
 
-*    *   412
+*    *   443
 
     *   B12
 
@@ -4591,7 +4932,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.06283
 
 
-*    *   413
+*    *   444
 
     *   B12
 
@@ -4602,7 +4943,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.25069
 
 
-*    *   414
+*    *   445
 
     *   B12
 
@@ -4613,7 +4954,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.30537
 
 
-*    *   415
+*    *   446
 
     *   B12
 
@@ -4624,7 +4965,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.35317
 
 
-*    *   416
+*    *   447
 
     *   B12
 
@@ -4635,7 +4976,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.92858
 
 
-*    *   417
+*    *   448
 
     *   B12
 
@@ -4646,7 +4987,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.9344
 
 
-*    *   418
+*    *   449
 
     *   B12
 
@@ -4657,7 +4998,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.10235
 
 
-*    *   419
+*    *   450
 
     *   B12
 
@@ -4668,18 +5009,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.11676
 
 
-*    *   420
+*    *   451
 
     *   B12
 
-    *   B12 Hinterschmiding, A
+    *   B12 Hinterschmiding
 
     *   48.84367
 
     *   13.61421
 
 
-*    *   421
+*    *   452
 
     *   B12
 
@@ -4687,76 +5028,54 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   48.85698
 
-    *   13.6777
+    *   13.67769
 
 
-*    *   422
-
-    *   B13
-
-    *   B13 Ochsenfurt, A
-
-    *   49.67009
-
-    *   10.0586
-
-
-*    *   423
+*    *   453
 
     *   B13
 
-    *   B13 Ochsenfurt, Uffenheimer Straße, B
+    *   B13 Ochsenfurt, B
 
     *   49.65512
 
     *   10.0731
 
 
-*    *   424
+*    *   454
 
     *   B13
 
-    *   B13 Ergersheim
+    *   B13 Oberickelsheim
 
-    *   49.50872
+    *   49.60427
 
-    *   10.28389
+    *   10.13463
 
 
-*    *   425
+*    *   455
 
     *   B13
 
-    *   B13 Burgbernheim, C
+    *   B13 Burgbernheim, A
+
+    *   49.49541
+
+    *   10.31924
+
+
+*    *   456
+
+    *   B13
+
+    *   B13 Burgbernheim, B
 
     *   49.48063
 
     *   10.34905
 
 
-*    *   426
-
-    *   B13
-
-    *   B13 Marktbergel
-
-    *   49.47495
-
-    *   10.3517
-
-
-*    *   427
-
-    *   B13
-
-    *   B13 Oberdachstetten, D
-
-    *   49.39703
-
-    *   10.44065
-
-
-*    *   428
+*    *   457
 
     *   B13
 
@@ -4767,7 +5086,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.72062
 
 
-*    *   429
+*    *   458
 
     *   B13
 
@@ -4778,7 +5097,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.73371
 
 
-*    *   430
+*    *   459
 
     *   B13
 
@@ -4789,106 +5108,95 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.80781
 
 
-*    *   431
+*    *   460
 
     *   B13
 
-    *   B13 Weißenburg in Bayern, A
-
-    *   49.0153
-
-    *   11.00017
-
-
-*    *   432
-
-    *   B13
-
-    *   B13 Weißenburg in Bayern, D
+    *   B13 Weißenburg in Bayern
 
     *   48.97203
 
     *   11.05612
 
 
-*    *   433
+*    *   461
 
     *   B13
 
-    *   B13 Eichstätt, B
+    *   B13 Schernfeld, Erzweg
 
-    *   48.90373
+    *   48.95708
 
-    *   11.15577
+    *   11.08925
 
 
-*    *   434
+*    *   462
 
     *   B13
 
-    *   B13 Eichstätt, A
+    *   B13 Schernfeld
+
+    *   48.95061
+
+    *   11.10169
+
+
+*    *   463
+
+    *   B13
+
+    *   B13 Eichstätt, Schönblick
 
     *   48.90185
 
     *   11.15779
 
 
-*    *   435
+*    *   464
 
     *   B13
 
-    *   B13 Eichstätt, Anton-Bachschmid-Straße
+    *   B13 Adelschlag, Römerstraße
 
-    *   48.90039
+    *   48.85995
 
-    *   11.16124
-
-
-*    *   436
-
-    *   B13
-
-    *   B13 Adelschlag
-
-    *   48.86668
-
-    *   11.2203
+    *   11.2452
 
 
-*    *   437
+*    *   465
 
     *   B13
 
-    *   B13 Eitensheim, A
-
-    *   48.84426
-
-    *   11.27945
-
-
-*    *   438
-
-    *   B13
-
-    *   B13 Eitensheim, B
+    *   B13 Eitensheim
 
     *   48.8426
 
     *   11.2822
 
 
-*    *   439
+*    *   466
 
     *   B13
 
-    *   B13 Ingolstadt, Friedrichshofer Straße
+    *   B13 Ingolstadt
 
-    *   48.77806
+    *   48.77012
 
-    *   11.37956
+    *   11.39317
 
 
-*    *   440
+*    *   467
+
+    *   B13
+
+    *   B13 Ingolstadt, Münchener Straße, A
+
+    *   48.73465
+
+    *   11.43953
+
+
+*    *   468
 
     *   B13
 
@@ -4899,7 +5207,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48718
 
 
-*    *   441
+*    *   469
 
     *   B13
 
@@ -4910,7 +5218,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48949
 
 
-*    *   442
+*    *   470
 
     *   B13
 
@@ -4921,7 +5229,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.5002
 
 
-*    *   443
+*    *   471
 
     *   B13
 
@@ -4932,7 +5240,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.51387
 
 
-*    *   444
+*    *   472
 
     *   B13
 
@@ -4943,7 +5251,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.5089
 
 
-*    *   445
+*    *   473
 
     *   B13
 
@@ -4954,7 +5262,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.51279
 
 
-*    *   446
+*    *   474
 
     *   B13
 
@@ -4965,7 +5273,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.68938
 
 
-*    *   447
+*    *   475
 
     *   B13
 
@@ -4976,7 +5284,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.65505
 
 
-*    *   448
+*    *   476
 
     *   B13
 
@@ -4987,128 +5295,106 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.63713
 
 
-*    *   449
+*    *   477
 
     *   B13
 
-    *   B13 Gaißach, Lexen
+    *   B13 Gaißach
 
     *   47.72752
 
     *   11.5665
 
 
-*    *   450
-
-    *   B13
-
-    *   B13 Gaißach, A
-
-    *   47.72416
-
-    *   11.56568
-
-
-*    *   451
-
-    *   B13
-
-    *   B13 Gaißach, B
-
-    *   47.71701
-
-    *   11.56341
-
-
-*    *   452
+*    *   478
 
     *   B13
 
     *   B13 Lenggries, A
-
-    *   47.69467
-
-    *   11.56479
-
-
-*    *   453
-
-    *   B13
-
-    *   B13 Lenggries, B
-
-    *   47.68976
-
-    *   11.56793
-
-
-*    *   454
-
-    *   B13
-
-    *   B13 Lenggries, C
-
-    *   47.66793
-
-    *   11.57843
-
-
-*    *   455
-
-    *   B13
-
-    *   B13 Lenggries, D
-
-    *   47.65943
-
-    *   11.58585
-
-
-*    *   456
-
-    *   B13
-
-    *   B13 Lenggries, Hellerschwang, C
-
-    *   47.63964
-
-    *   11.59352
-
-
-*    *   457
-
-    *   B13
-
-    *   B13 Lenggries, E
 
     *   47.62251
 
     *   11.59548
 
 
-*    *   458
+*    *   479
 
     *   B13
 
-    *   B13 Lenggries, G
+    *   B13 Lenggries, B
 
-    *   47.60695
+    *   47.61871
 
-    *   11.5824
+    *   11.59219
 
 
-*    *   459
+*    *   480
 
     *   B14
 
-    *   B14 Tuttlingen
+    *   B14 Stockach, Stuhlweg
 
-    *   47.96519
+    *   47.8785
 
-    *   8.85139
+    *   8.98561
 
 
-*    *   460
+*    *   481
+
+    *   B14
+
+    *   B14 Stockach, Schloßgasse
+
+    *   47.88082
+
+    *   8.9812
+
+
+*    *   482
+
+    *   B14
+
+    *   B14 Stockach, Unterer Wiedenholzerhof
+
+    *   47.8859
+
+    *   8.97564
+
+
+*    *   483
+
+    *   B14
+
+    *   B14 Tuttlingen, Innerer Talhof, B
+
+    *   47.95217
+
+    *   8.86156
+
+
+*    *   484
+
+    *   B14
+
+    *   B14 Tuttlingen, Beim Tierheim
+
+    *   47.96784
+
+    *   8.84966
+
+
+*    *   485
+
+    *   B14
+
+    *   B14 Tuttlingen, Möhringer Straße, A
+
+    *   47.98044
+
+    *   8.8034
+
+
+*    *   486
 
     *   B14
 
@@ -5119,7 +5405,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.7829
 
 
-*    *   461
+*    *   487
 
     *   B14
 
@@ -5130,29 +5416,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.78135
 
 
-*    *   462
+*    *   488
 
     *   B14
 
-    *   B14 Aldingen, B
+    *   B14 Aldingen
 
-    *   48.10748
+    *   48.11318
 
-    *   8.69637
-
-
-*    *   463
-
-    *   B14
-
-    *   B14 Rottweil
-
-    *   48.14979
-
-    *   8.61509
+    *   8.69396
 
 
-*    *   464
+*    *   489
 
     *   B14
 
@@ -5163,18 +5438,73 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.18493
 
 
-*    *   465
+*    *   490
 
     *   B14
 
-    *   B14 Mainhardt, B
+    *   B14 Oppenweiler
 
-    *   49.08224
+    *   48.98742
 
-    *   9.59487
+    *   9.46133
 
 
-*    *   466
+*    *   491
+
+    *   B14
+
+    *   B14 Sulzbach an der Murr, Fischbachweg, B
+
+    *   49.01015
+
+    *   9.50176
+
+
+*    *   492
+
+    *   B14
+
+    *   B14 Sulzbach an der Murr, Berwinkel
+
+    *   49.02801
+
+    *   9.50552
+
+
+*    *   493
+
+    *   B14
+
+    *   B14 Mainhardt, Paradies
+
+    *   49.07528
+
+    *   9.55421
+
+
+*    *   494
+
+    *   B14
+
+    *   B14 Mainhardt, Buchwaldweg
+
+    *   49.07653
+
+    *   9.56699
+
+
+*    *   495
+
+    *   B14
+
+    *   B14 Mainhardt, Riegenhof, B
+
+    *   49.07692
+
+    *   9.57612
+
+
+*    *   496
 
     *   B14
 
@@ -5185,18 +5515,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.64011
 
 
-*    *   467
-
-    *   B14
-
-    *   B14 Michelfeld, A
-
-    *   49.0936
-
-    *   9.64843
-
-
-*    *   468
+*    *   497
 
     *   B14
 
@@ -5207,7 +5526,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.6466
 
 
-*    *   469
+*    *   498
 
     *   B14
 
@@ -5218,7 +5537,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.68811
 
 
-*    *   470
+*    *   499
 
     *   B14
 
@@ -5229,7 +5548,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.12227
 
 
-*    *   471
+*    *   500
 
     *   B14
 
@@ -5240,7 +5559,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.41418
 
 
-*    *   472
+*    *   501
 
     *   B14
 
@@ -5251,7 +5570,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.65871
 
 
-*    *   473
+*    *   502
 
     *   B14
 
@@ -5262,7 +5581,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.68261
 
 
-*    *   474
+*    *   503
 
     *   B14
 
@@ -5273,7 +5592,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.89032
 
 
-*    *   475
+*    *   504
 
     *   B14
 
@@ -5284,7 +5603,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.89398
 
 
-*    *   476
+*    *   505
 
     *   B14
 
@@ -5295,7 +5614,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.03225
 
 
-*    *   477
+*    *   506
 
     *   B15
 
@@ -5306,7 +5625,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.20538
 
 
-*    *   478
+*    *   507
 
     *   B15
 
@@ -5317,7 +5636,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.13053
 
 
-*    *   479
+*    *   508
 
     *   B15
 
@@ -5328,7 +5647,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.13957
 
 
-*    *   480
+*    *   509
 
     *   B15
 
@@ -5339,7 +5658,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.14401
 
 
-*    *   481
+*    *   510
 
     *   B15
 
@@ -5350,7 +5669,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.33799
 
 
-*    *   482
+*    *   511
 
     *   B15
 
@@ -5361,7 +5680,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.32069
 
 
-*    *   483
+*    *   512
 
     *   B15
 
@@ -5372,7 +5691,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.31542
 
 
-*    *   484
+*    *   513
 
     *   B15
 
@@ -5383,7 +5702,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.30507
 
 
-*    *   485
+*    *   514
 
     *   B15
 
@@ -5394,7 +5713,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.29881
 
 
-*    *   486
+*    *   515
 
     *   B15
 
@@ -5405,73 +5724,128 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.91746
 
 
-*    *   487
+*    *   516
 
     *   B16A
 
-    *   B16A Münchsmünster, A
+    *   B16A Großmehring, Am Fluderbuckel
 
-    *   48.76341
+    *   48.76799
 
-    *   11.64373
-
-
-*    *   488
-
-    *   B16
-
-    *   B16 Salgen, Hausen, Mindelheimer Straße
-
-    *   48.10517
-
-    *   10.48294
+    *   11.51034
 
 
-*    *   489
+*    *   517
 
-    *   B16
+    *   B16A
 
-    *   B16 Salgen, A
+    *   B16A Großmehring, Schotterwerk
 
-    *   48.11205
+    *   48.7774
 
-    *   10.47655
-
-
-*    *   490
-
-    *   B16
-
-    *   B16 Pfaffenhausen, C
-
-    *   48.12669
-
-    *   10.44349
+    *   11.56497
 
 
-*    *   491
+*    *   518
+
+    *   B16A
+
+    *   B16A Münchsmünster
+
+    *   48.75518
+
+    *   11.65719
+
+
+*    *   519
 
     *   B16
 
-    *   B16 Deisenhausen, B
+    *   B16 Stötten am Auerberg
+
+    *   47.69779
+
+    *   10.71053
+
+
+*    *   520
+
+    *   B16
+
+    *   B16 Biessenhofen, Füssener Straße
+
+    *   47.83155
+
+    *   10.64239
+
+
+*    *   521
+
+    *   B16
+
+    *   B16 Mindelheim, Nebelhornstraße
+
+    *   48.03638
+
+    *   10.50134
+
+
+*    *   522
+
+    *   B16
+
+    *   B16 Pfaffenhausen, Maierholzweg
+
+    *   48.13662
+
+    *   10.43105
+
+
+*    *   523
+
+    *   B16
+
+    *   B16 Krumbach (Schwaben), Raunauer Straße, C
+
+    *   48.23508
+
+    *   10.37345
+
+
+*    *   524
+
+    *   B16
+
+    *   B16 Deisenhausen
 
     *   48.26407
 
     *   10.34593
 
 
-*    *   492
+*    *   525
 
     *   B16
 
-    *   B16 Krumbach (Schwaben)
+    *   B16 Ellzee
 
-    *   48.26726
+    *   48.34506
 
-    *   10.34428
+    *   10.31881
 
 
-*    *   493
+*    *   526
+
+    *   B16
+
+    *   B16 Gundelfingen an der Donau, A
+
+    *   48.52258
+
+    *   10.34658
+
+
+*    *   527
 
     *   B16
 
@@ -5482,18 +5856,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.65878
 
 
-*    *   494
+*    *   528
 
     *   B16
 
-    *   B16 Donauwörth, Am Donaufeld, A
+    *   B16 Tapfheim
 
-    *   48.70041
+    *   48.68983
 
-    *   10.74454
+    *   10.72654
 
 
-*    *   495
+*    *   529
 
     *   B16
 
@@ -5504,18 +5878,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.13555
 
 
-*    *   496
+*    *   530
 
     *   B16
 
-    *   B16 Manching, C
+    *   B16 Manching
 
-    *   48.7094
+    *   48.72842
 
-    *   11.48949
+    *   11.56098
 
 
-*    *   497
+*    *   531
 
     *   B16
 
@@ -5526,18 +5900,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.6605
 
 
-*    *   498
-
-    *   B16
-
-    *   B16 Abensberg, Rappersdorf
-
-    *   48.80147
-
-    *   11.85122
-
-
-*    *   499
+*    *   532
 
     *   B16
 
@@ -5548,51 +5911,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.91575
 
 
-*    *   500
+*    *   533
 
     *   B16
 
-    *   B16 Bad Abbach, C
+    *   B16 Bad Abbach
 
     *   48.91115
 
     *   11.97201
 
 
-*    *   501
-
-    *   B16
-
-    *   B16 Bad Abbach, B
-
-    *   48.92628
-
-    *   12.01872
-
-
-*    *   502
-
-    *   B16
-
-    *   B16 Pentling, Regensburger Straße, B
-
-    *   48.96042
-
-    *   12.04926
-
-
-*    *   503
-
-    *   B16
-
-    *   B16 Pentling, Regensburger Straße, A
-
-    *   48.96271
-
-    *   12.05429
-
-
-*    *   504
+*    *   534
 
     *   B17
 
@@ -5603,7 +5933,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.79459
 
 
-*    *   505
+*    *   535
 
     *   B17
 
@@ -5614,7 +5944,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.86056
 
 
-*    *   506
+*    *   536
 
     *   B17
 
@@ -5625,7 +5955,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.88544
 
 
-*    *   507
+*    *   537
 
     *   B17
 
@@ -5636,7 +5966,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.89301
 
 
-*    *   508
+*    *   538
 
     *   B17
 
@@ -5647,7 +5977,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.88465
 
 
-*    *   509
+*    *   539
 
     *   B19
 
@@ -5658,7 +5988,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.23085
 
 
-*    *   510
+*    *   540
 
     *   B19
 
@@ -5669,7 +5999,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.25171
 
 
-*    *   511
+*    *   541
 
     *   B19
 
@@ -5680,7 +6010,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.31308
 
 
-*    *   512
+*    *   542
 
     *   B19
 
@@ -5691,7 +6021,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.31288
 
 
-*    *   513
+*    *   543
 
     *   B19
 
@@ -5702,7 +6032,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.32329
 
 
-*    *   514
+*    *   544
 
     *   B19
 
@@ -5713,7 +6043,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.10357
 
 
-*    *   515
+*    *   545
 
     *   B19
 
@@ -5724,7 +6054,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.12561
 
 
-*    *   516
+*    *   546
 
     *   B19
 
@@ -5735,7 +6065,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.06236
 
 
-*    *   517
+*    *   547
 
     *   B19
 
@@ -5746,7 +6076,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.04945
 
 
-*    *   518
+*    *   548
 
     *   B19
 
@@ -5757,7 +6087,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.93818
 
 
-*    *   519
+*    *   549
 
     *   B19
 
@@ -5768,7 +6098,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.92114
 
 
-*    *   520
+*    *   550
 
     *   B19
 
@@ -5779,7 +6109,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.90058
 
 
-*    *   521
+*    *   551
 
     *   B19
 
@@ -5790,7 +6120,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88153
 
 
-*    *   522
+*    *   552
 
     *   B19
 
@@ -5801,7 +6131,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.86777
 
 
-*    *   523
+*    *   553
 
     *   B19
 
@@ -5812,7 +6142,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.86208
 
 
-*    *   524
+*    *   554
 
     *   B19
 
@@ -5823,7 +6153,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.82722
 
 
-*    *   525
+*    *   555
 
     *   B19
 
@@ -5834,7 +6164,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.8239
 
 
-*    *   526
+*    *   556
 
     *   B19
 
@@ -5845,7 +6175,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.78889
 
 
-*    *   527
+*    *   557
 
     *   B19
 
@@ -5856,7 +6186,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.78538
 
 
-*    *   528
+*    *   558
 
     *   B19
 
@@ -5867,7 +6197,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.74372
 
 
-*    *   529
+*    *   559
 
     *   B19
 
@@ -5878,7 +6208,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.73886
 
 
-*    *   530
+*    *   560
 
     *   B19
 
@@ -5889,7 +6219,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.72559
 
 
-*    *   531
+*    *   561
 
     *   B19
 
@@ -5900,7 +6230,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.71971
 
 
-*    *   532
+*    *   562
 
     *   B19
 
@@ -5911,7 +6241,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.83524
 
 
-*    *   533
+*    *   563
 
     *   B19
 
@@ -5922,7 +6252,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.86513
 
 
-*    *   534
+*    *   564
+
+    *   B19
+
+    *   B19 Igersheim, Breiter Weg
+
+    *   49.55506
+
+    *   9.87461
+
+
+*    *   565
 
     *   B19
 
@@ -5933,7 +6274,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.92882
 
 
-*    *   535
+*    *   566
 
     *   B20
 
@@ -5944,7 +6285,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.92721
 
 
-*    *   536
+*    *   567
 
     *   B20
 
@@ -5955,7 +6296,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.87734
 
 
-*    *   537
+*    *   568
 
     *   B20
 
@@ -5966,7 +6307,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.93087
 
 
-*    *   538
+*    *   569
 
     *   B20
 
@@ -5977,7 +6318,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.93627
 
 
-*    *   539
+*    *   570
 
     *   B20
 
@@ -5988,7 +6329,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.77026
 
 
-*    *   540
+*    *   571
 
     *   B20
 
@@ -5999,7 +6340,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.74658
 
 
-*    *   541
+*    *   572
 
     *   B20
 
@@ -6010,7 +6351,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.72482
 
 
-*    *   542
+*    *   573
 
     *   B20
 
@@ -6021,7 +6362,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.72007
 
 
-*    *   543
+*    *   574
 
     *   B20
 
@@ -6032,7 +6373,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.64769
 
 
-*    *   544
+*    *   575
 
     *   B20
 
@@ -6043,7 +6384,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.6405
 
 
-*    *   545
+*    *   576
 
     *   B20
 
@@ -6054,7 +6395,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.64672
 
 
-*    *   546
+*    *   577
 
     *   B20
 
@@ -6065,7 +6406,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.65293
 
 
-*    *   547
+*    *   578
 
     *   B20
 
@@ -6076,7 +6417,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.65586
 
 
-*    *   548
+*    *   579
 
     *   B20
 
@@ -6087,7 +6428,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.71173
 
 
-*    *   549
+*    *   580
 
     *   B20
 
@@ -6098,51 +6439,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.84627
 
 
-*    *   550
+*    *   581
 
     *   B21
 
-    *   B21 Schneizlreuth, D
+    *   B21 Schneizlreuth, Ristfeucht, A
+
+    *   47.67879
+
+    *   12.76932
+
+
+*    *   582
+
+    *   B21
+
+    *   B21 Schneizlreuth, B
 
     *   47.68023
 
     *   12.83321
 
 
-*    *   551
+*    *   583
 
     *   B21
 
-    *   B21 Schneizlreuth, B
+    *   B21 Schneizlreuth, A
 
     *   47.68757
 
     *   12.84517
 
 
-*    *   552
-
-    *   B21
-
-    *   B21 Schneizlreuth, A
-
-    *   47.7006
-
-    *   12.85197
-
-
-*    *   553
-
-    *   B21
-
-    *   B21 Bad Reichenhall
-
-    *   47.73573
-
-    *   12.88085
-
-
-*    *   554
+*    *   584
 
     *   B22
 
@@ -6153,7 +6483,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.32509
 
 
-*    *   555
+*    *   585
 
     *   B22
 
@@ -6164,7 +6494,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.81634
 
 
-*    *   556
+*    *   586
 
     *   B22
 
@@ -6175,7 +6505,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.11485
 
 
-*    *   557
+*    *   587
 
     *   B22
 
@@ -6186,7 +6516,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.30033
 
 
-*    *   558
+*    *   588
 
     *   B22
 
@@ -6197,7 +6527,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.3847
 
 
-*    *   559
+*    *   589
 
     *   B22
 
@@ -6208,7 +6538,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.69137
 
 
-*    *   560
+*    *   590
 
     *   B22
 
@@ -6219,7 +6549,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.80335
 
 
-*    *   561
+*    *   591
 
     *   B22
 
@@ -6230,7 +6560,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.96973
 
 
-*    *   562
+*    *   592
 
     *   B22
 
@@ -6241,7 +6571,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.04929
 
 
-*    *   563
+*    *   593
 
     *   B22
 
@@ -6252,7 +6582,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.09169
 
 
-*    *   564
+*    *   594
 
     *   B22
 
@@ -6263,7 +6593,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.18948
 
 
-*    *   565
+*    *   595
 
     *   B22
 
@@ -6274,7 +6604,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.2616
 
 
-*    *   566
+*    *   596
 
     *   B22
 
@@ -6285,7 +6615,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.27501
 
 
-*    *   567
+*    *   597
 
     *   B22
 
@@ -6296,7 +6626,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.32561
 
 
-*    *   568
+*    *   598
 
     *   B22
 
@@ -6307,7 +6637,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.36329
 
 
-*    *   569
+*    *   599
 
     *   B22
 
@@ -6318,7 +6648,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.4014
 
 
-*    *   570
+*    *   600
 
     *   B22
 
@@ -6329,7 +6659,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.43892
 
 
-*    *   571
+*    *   601
 
     *   B22
 
@@ -6340,7 +6670,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.51161
 
 
-*    *   572
+*    *   602
 
     *   B22
 
@@ -6351,7 +6681,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.63069
 
 
-*    *   573
+*    *   603
 
     *   B22
 
@@ -6362,7 +6692,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.62908
 
 
-*    *   574
+*    *   604
 
     *   B22
 
@@ -6373,7 +6703,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.66346
 
 
-*    *   575
+*    *   605
 
     *   B23
 
@@ -6384,7 +6714,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.0748
 
 
-*    *   576
+*    *   606
 
     *   B23
 
@@ -6395,7 +6725,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.07723
 
 
-*    *   577
+*    *   607
 
     *   B23
 
@@ -6406,7 +6736,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.11856
 
 
-*    *   578
+*    *   608
 
     *   B23
 
@@ -6417,7 +6747,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.12517
 
 
-*    *   579
+*    *   609
 
     *   B23
 
@@ -6428,7 +6758,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.12835
 
 
-*    *   580
+*    *   610
 
     *   B23
 
@@ -6439,7 +6769,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.12989
 
 
-*    *   581
+*    *   611
 
     *   B23
 
@@ -6450,29 +6780,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.13474
 
 
-*    *   582
+*    *   612
 
     *   B23
 
-    *   B23 Oberau, E
-
-    *   47.55253
-
-    *   11.13291
-
-
-*    *   583
-
-    *   B23
-
-    *   B23 Grainau
+    *   B23 Grainau, A
 
     *   47.48193
 
     *   11.02491
 
 
-*    *   584
+*    *   613
 
     *   B23
 
@@ -6483,7 +6802,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.00289
 
 
-*    *   585
+*    *   614
 
     *   B23
 
@@ -6494,7 +6813,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.99862
 
 
-*    *   586
+*    *   615
 
     *   B23
 
@@ -6505,106 +6824,84 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.98891
 
 
-*    *   587
+*    *   616
+
+    *   B25
+
+    *   B25 Feuchtwangen, A
+
+    *   49.16527
+
+    *   10.32676
+
+
+*    *   617
 
     *   B25
 
     *   B25 Feuchtwangen, B
 
-    *   49.20361
+    *   49.16433
 
-    *   10.3117
-
-
-*    *   588
-
-    *   B25
-
-    *   B25 Feuchtwangen, G
-
-    *   49.13848
-
-    *   10.31564
+    *   10.32702
 
 
-*    *   589
+*    *   618
 
     *   B25
 
-    *   B25 Dinkelsbühl, B
+    *   B25 Feuchtwangen, C
+
+    *   49.15939
+
+    *   10.32819
+
+
+*    *   619
+
+    *   B25
+
+    *   B25 Dinkelsbühl, A
 
     *   49.08103
 
     *   10.32147
 
 
-*    *   590
+*    *   620
 
     *   B25
 
-    *   B25 Dinkelsbühl, Alte Neustädtleiner Straße, B
+    *   B25 Wilburgstetten, B
 
-    *   49.06192
+    *   49.00357
 
-    *   10.33612
-
-
-*    *   591
-
-    *   B25
-
-    *   B25 Fremdingen, Hochrain
-
-    *   48.95879
-
-    *   10.44836
+    *   10.41305
 
 
-*    *   592
+*    *   621
 
     *   B25
 
-    *   B25 Möttingen
+    *   B25 Möttingen, Romantische Straße, B
 
-    *   48.81064
+    *   48.80442
 
-    *   10.58723
-
-
-*    *   593
-
-    *   B25
-
-    *   B25 Harburg (Schwaben), A
-
-    *   48.79
-
-    *   10.67197
+    *   10.60186
 
 
-*    *   594
+*    *   622
 
     *   B25
 
-    *   B25 Harburg (Schwaben), C
-
-    *   48.76864
-
-    *   10.70465
-
-
-*    *   595
-
-    *   B25
-
-    *   B25 Harburg (Schwaben), D
+    *   B25 Harburg (Schwaben), B
 
     *   48.75201
 
     *   10.72492
 
 
-*    *   596
+*    *   623
 
     *   B26
 
@@ -6615,7 +6912,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.97636
 
 
-*    *   597
+*    *   624
 
     *   B26
 
@@ -6626,7 +6923,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.97873
 
 
-*    *   598
+*    *   625
 
     *   B26
 
@@ -6637,7 +6934,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98412
 
 
-*    *   599
+*    *   626
 
     *   B26
 
@@ -6648,7 +6945,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.99268
 
 
-*    *   600
+*    *   627
 
     *   B26
 
@@ -6659,7 +6956,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00455
 
 
-*    *   601
+*    *   628
 
     *   B26
 
@@ -6670,7 +6967,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.08334
 
 
-*    *   602
+*    *   629
 
     *   B26
 
@@ -6681,7 +6978,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.23696
 
 
-*    *   603
+*    *   630
 
     *   B26
 
@@ -6692,7 +6989,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.3291
 
 
-*    *   604
+*    *   631
 
     *   B26
 
@@ -6703,7 +7000,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.43422
 
 
-*    *   605
+*    *   632
 
     *   B26
 
@@ -6714,7 +7011,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.4561
 
 
-*    *   606
+*    *   633
 
     *   B26
 
@@ -6725,7 +7022,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53454
 
 
-*    *   607
+*    *   634
 
     *   B26
 
@@ -6736,7 +7033,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.56155
 
 
-*    *   608
+*    *   635
 
     *   B26
 
@@ -6747,7 +7044,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.6482
 
 
-*    *   609
+*    *   636
 
     *   B26
 
@@ -6758,7 +7055,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.67194
 
 
-*    *   610
+*    *   637
 
     *   B26
 
@@ -6769,7 +7066,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.71363
 
 
-*    *   611
+*    *   638
 
     *   B26
 
@@ -6780,7 +7077,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.00263
 
 
-*    *   612
+*    *   639
 
     *   B26
 
@@ -6791,7 +7088,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.7549
 
 
-*    *   613
+*    *   640
 
     *   B26
 
@@ -6802,7 +7099,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.86012
 
 
-*    *   614
+*    *   641
 
     *   B26A
 
@@ -6813,7 +7110,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.03
 
 
-*    *   615
+*    *   642
 
     *   B27
 
@@ -6824,7 +7121,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.59873
 
 
-*    *   616
+*    *   643
 
     *   B27
 
@@ -6835,7 +7132,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.63562
 
 
-*    *   617
+*    *   644
 
     *   B27
 
@@ -6846,7 +7143,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.63606
 
 
-*    *   618
+*    *   645
 
     *   B27
 
@@ -6857,7 +7154,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.66461
 
 
-*    *   619
+*    *   646
 
     *   B27
 
@@ -6868,7 +7165,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.71309
 
 
-*    *   620
+*    *   647
 
     *   B27
 
@@ -6879,7 +7176,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.73839
 
 
-*    *   621
+*    *   648
 
     *   B27
 
@@ -6890,7 +7187,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.74172
 
 
-*    *   622
+*    *   649
 
     *   B27
 
@@ -6901,7 +7198,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.80026
 
 
-*    *   623
+*    *   650
 
     *   B27
 
@@ -6912,7 +7209,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.0035
 
 
-*    *   624
+*    *   651
 
     *   B27
 
@@ -6923,40 +7220,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.15105
 
 
-*    *   625
-
-    *   B27
-
-    *   B27 Lauffen am Neckar, Kirrberg, B
-
-    *   49.05991
-
-    *   9.16118
-
-
-*    *   626
-
-    *   B27
-
-    *   B27 Talheim, Im Pfädle
-
-    *   49.08291
-
-    *   9.18161
-
-
-*    *   627
-
-    *   B27
-
-    *   B27 Haßmersheim
-
-    *   49.3021
-
-    *   9.15427
-
-
-*    *   628
+*    *   652
 
     *   B27
 
@@ -6967,7 +7231,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.238
 
 
-*    *   629
+*    *   653
 
     *   B27
 
@@ -6978,7 +7242,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.27544
 
 
-*    *   630
+*    *   654
 
     *   B27
 
@@ -6989,7 +7253,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.29791
 
 
-*    *   631
+*    *   655
 
     *   B27
 
@@ -7000,7 +7264,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53893
 
 
-*    *   632
+*    *   656
 
     *   B27
 
@@ -7011,7 +7275,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.5735
 
 
-*    *   633
+*    *   657
 
     *   B27
 
@@ -7022,7 +7286,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.67235
 
 
-*    *   634
+*    *   658
 
     *   B27
 
@@ -7033,7 +7297,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.83416
 
 
-*    *   635
+*    *   659
 
     *   B27
 
@@ -7044,7 +7308,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.80722
 
 
-*    *   636
+*    *   660
 
     *   B27
 
@@ -7055,7 +7319,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.86716
 
 
-*    *   637
+*    *   661
 
     *   B27
 
@@ -7066,7 +7330,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.71169
 
 
-*    *   638
+*    *   662
 
     *   B27
 
@@ -7077,7 +7341,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.7498
 
 
-*    *   639
+*    *   663
 
     *   B27
 
@@ -7088,7 +7352,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.75259
 
 
-*    *   640
+*    *   664
 
     *   B27
 
@@ -7099,7 +7363,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.70177
 
 
-*    *   641
+*    *   665
 
     *   B27
 
@@ -7110,7 +7374,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.68612
 
 
-*    *   642
+*    *   666
 
     *   B27
 
@@ -7121,7 +7385,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.73248
 
 
-*    *   643
+*    *   667
 
     *   B27
 
@@ -7132,18 +7396,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.72322
 
 
-*    *   644
-
-    *   B27
-
-    *   B27 Ludwigsau
-
-    *   50.92608
-
-    *   9.76529
-
-
-*    *   645
+*    *   668
 
     *   B27
 
@@ -7154,7 +7407,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.84232
 
 
-*    *   646
+*    *   669
 
     *   B27
 
@@ -7165,7 +7418,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.87634
 
 
-*    *   647
+*    *   670
 
     *   B27
 
@@ -7176,7 +7429,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.8934
 
 
-*    *   648
+*    *   671
 
     *   B27
 
@@ -7187,7 +7440,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.94223
 
 
-*    *   649
+*    *   672
 
     *   B27
 
@@ -7198,7 +7451,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.99509
 
 
-*    *   650
+*    *   673
 
     *   B27
 
@@ -7209,7 +7462,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.91678
 
 
-*    *   651
+*    *   674
 
     *   B27
 
@@ -7220,7 +7473,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.8899
 
 
-*    *   652
+*    *   675
 
     *   B27
 
@@ -7231,7 +7484,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.90736
 
 
-*    *   653
+*    *   676
 
     *   B27
 
@@ -7242,7 +7495,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.90532
 
 
-*    *   654
+*    *   677
 
     *   B27
 
@@ -7253,7 +7506,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.94507
 
 
-*    *   655
+*    *   678
 
     *   B27
 
@@ -7264,7 +7517,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.1349
 
 
-*    *   656
+*    *   679
 
     *   B27
 
@@ -7275,7 +7528,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.25593
 
 
-*    *   657
+*    *   680
 
     *   B27
 
@@ -7286,7 +7539,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.50777
 
 
-*    *   658
+*    *   681
 
     *   B27
 
@@ -7297,7 +7550,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.69842
 
 
-*    *   659
+*    *   682
 
     *   B27
 
@@ -7308,7 +7561,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.93802
 
 
-*    *   660
+*    *   683
 
     *   B28
 
@@ -7319,7 +7572,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.15027
 
 
-*    *   661
+*    *   684
 
     *   B28
 
@@ -7330,7 +7583,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.16195
 
 
-*    *   662
+*    *   685
 
     *   B28
 
@@ -7341,7 +7594,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.22735
 
 
-*    *   663
+*    *   686
 
     *   B28
 
@@ -7352,7 +7605,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.2711
 
 
-*    *   664
+*    *   687
 
     *   B28
 
@@ -7363,7 +7616,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31917
 
 
-*    *   665
+*    *   688
 
     *   B28
 
@@ -7374,7 +7627,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.32351
 
 
-*    *   666
+*    *   689
 
     *   B28
 
@@ -7385,7 +7638,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.34785
 
 
-*    *   667
+*    *   690
 
     *   B28
 
@@ -7396,7 +7649,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.35906
 
 
-*    *   668
+*    *   691
 
     *   B28
 
@@ -7407,7 +7660,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.60372
 
 
-*    *   669
+*    *   692
 
     *   B28
 
@@ -7418,7 +7671,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.61976
 
 
-*    *   670
+*    *   693
 
     *   B28
 
@@ -7429,7 +7682,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.7585
 
 
-*    *   671
+*    *   694
 
     *   B28
 
@@ -7440,7 +7693,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.37885
 
 
-*    *   672
+*    *   695
 
     *   B28
 
@@ -7451,7 +7704,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.49119
 
 
-*    *   673
+*    *   696
 
     *   B28
 
@@ -7462,7 +7715,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.58028
 
 
-*    *   674
+*    *   697
 
     *   B28
 
@@ -7473,7 +7726,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.58974
 
 
-*    *   675
+*    *   698
 
     *   B28
 
@@ -7484,7 +7737,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.66173
 
 
-*    *   676
+*    *   699
 
     *   B28
 
@@ -7495,7 +7748,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.8468
 
 
-*    *   677
+*    *   700
 
     *   B29
 
@@ -7506,7 +7759,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.9233
 
 
-*    *   678
+*    *   701
 
     *   B29
 
@@ -7517,7 +7770,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.07664
 
 
-*    *   679
+*    *   702
 
     *   B29
 
@@ -7528,7 +7781,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.14194
 
 
-*    *   680
+*    *   703
 
     *   B29
 
@@ -7539,7 +7792,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.27965
 
 
-*    *   681
+*    *   704
 
     *   B29
 
@@ -7550,7 +7803,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.33352
 
 
-*    *   682
+*    *   705
 
     *   B29
 
@@ -7561,7 +7814,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.36376
 
 
-*    *   683
+*    *   706
 
     *   B30
 
@@ -7572,7 +7825,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.69976
 
 
-*    *   684
+*    *   707
 
     *   B30
 
@@ -7583,7 +7836,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76509
 
 
-*    *   685
+*    *   708
 
     *   B30
 
@@ -7594,7 +7847,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76808
 
 
-*    *   686
+*    *   709
 
     *   B30
 
@@ -7605,7 +7858,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76431
 
 
-*    *   687
+*    *   710
 
     *   B30
 
@@ -7616,7 +7869,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76442
 
 
-*    *   688
+*    *   711
 
     *   B30
 
@@ -7627,7 +7880,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76739
 
 
-*    *   689
+*    *   712
 
     *   B31
 
@@ -7638,7 +7891,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.58556
 
 
-*    *   690
+*    *   713
 
     *   B31
 
@@ -7649,7 +7902,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.62578
 
 
-*    *   691
+*    *   714
 
     *   B31
 
@@ -7660,7 +7913,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.76981
 
 
-*    *   692
+*    *   715
+
+    *   B31
+
+    *   B31 Buchenbach, Höllentalstraße
+
+    *   47.95287
+
+    *   7.99207
+
+
+*    *   716
 
     *   B31
 
@@ -7671,7 +7935,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.0083
 
 
-*    *   693
+*    *   717
+
+    *   B31
+
+    *   B31 Breitnau, Hirschsprung
+
+    *   47.93256
+
+    *   8.03131
+
+
+*    *   718
 
     *   B31
 
@@ -7682,7 +7957,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.03151
 
 
-*    *   694
+*    *   719
 
     *   B31
 
@@ -7693,18 +7968,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.04422
 
 
-*    *   695
+*    *   720
 
     *   B31
 
-    *   B31 Breitnau
+    *   B31 Breitnau, Posthalde
 
-    *   47.91837
+    *   47.92212
 
-    *   8.06495
+    *   8.05226
 
 
-*    *   696
+*    *   721
 
     *   B31
 
@@ -7715,7 +7990,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.0709
 
 
-*    *   697
+*    *   722
+
+    *   B31
+
+    *   B31 Breitnau, Löffeltal
+
+    *   47.91275
+
+    *   8.08081
+
+
+*    *   723
 
     *   B31
 
@@ -7726,7 +8012,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.07712
 
 
-*    *   698
+*    *   724
+
+    *   B31
+
+    *   B31 Hinterzarten, Heiligbrunnenstraße
+
+    *   47.91036
+
+    *   8.11415
+
+
+*    *   725
 
     *   B31
 
@@ -7737,18 +8034,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12291
 
 
-*    *   699
-
-    *   B31
-
-    *   B31 Titisee-Neustadt, Saiger Straße
-
-    *   47.911
-
-    *   8.20792
-
-
-*    *   700
+*    *   726
 
     *   B31
 
@@ -7759,7 +8045,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.25759
 
 
-*    *   701
+*    *   727
 
     *   B31
 
@@ -7770,7 +8056,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.34814
 
 
-*    *   702
+*    *   728
 
     *   B31
 
@@ -7781,7 +8067,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36147
 
 
-*    *   703
+*    *   729
 
     *   B31
 
@@ -7792,7 +8078,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.59493
 
 
-*    *   704
+*    *   730
 
     *   B31
 
@@ -7803,29 +8089,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.85615
 
 
-*    *   705
+*    *   731
 
     *   B31
 
-    *   B31 Bodman-Ludwigshafen
+    *   B31 Bodman-Ludwigshafen, Bühlhof
 
-    *   47.83384
+    *   47.84013
 
-    *   9.03202
-
-
-*    *   706
-
-    *   B31
-
-    *   B31 Sipplingen, A
-
-    *   47.80355
-
-    *   9.07873
+    *   9.02532
 
 
-*    *   707
+*    *   732
 
     *   B31
 
@@ -7836,73 +8111,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.09389
 
 
-*    *   708
+*    *   733
 
     *   B31
 
-    *   B31 Überlingen, Brünnensbach
+    *   B31 Überlingen, Owinger Straße
 
-    *   47.77813
+    *   47.77511
 
-    *   9.13115
-
-
-*    *   709
-
-    *   B31
-
-    *   B31 Überlingen, Galgenbühl
-
-    *   47.78088
-
-    *   9.16357
+    *   9.17603
 
 
-*    *   710
+*    *   734
 
     *   B31
 
-    *   B31 Überlingen
+    *   B31 Uhldingen-Mühlhofen
 
-    *   47.75041
+    *   47.74488
 
-    *   9.2113
-
-
-*    *   711
-
-    *   B31
-
-    *   B31 Uhldingen-Mühlhofen, A
-
-    *   47.7449
-
-    *   9.22535
+    *   9.22925
 
 
-*    *   712
+*    *   735
 
     *   B31
 
-    *   B31 Uhldingen-Mühlhofen, C
+    *   B31 Langenargen
 
-    *   47.71936
+    *   47.62377
 
-    *   9.2448
+    *   9.5545
 
 
-*    *   713
+*    *   736
 
     *   B31
 
-    *   B31 Hagnau am Bodensee, Kreuzäckerweg
+    *   B31 Lindau (Bodensee)
 
-    *   47.67454
+    *   47.59048
 
-    *   9.32485
+    *   9.64633
 
 
-*    *   714
+*    *   737
 
     *   B32
 
@@ -7913,7 +8166,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.59098
 
 
-*    *   715
+*    *   738
 
     *   B32
 
@@ -7924,7 +8177,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.57513
 
 
-*    *   716
+*    *   739
 
     *   B32
 
@@ -7935,7 +8188,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.5185
 
 
-*    *   717
+*    *   740
 
     *   B32
 
@@ -7946,7 +8199,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.51524
 
 
-*    *   718
+*    *   741
 
     *   B32
 
@@ -7957,7 +8210,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.51598
 
 
-*    *   719
+*    *   742
 
     *   B32
 
@@ -7968,7 +8221,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.47296
 
 
-*    *   720
+*    *   743
 
     *   B32
 
@@ -7979,7 +8232,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.21791
 
 
-*    *   721
+*    *   744
 
     *   B32
 
@@ -7990,7 +8243,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.20374
 
 
-*    *   722
+*    *   745
 
     *   B32
 
@@ -8001,7 +8254,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.21866
 
 
-*    *   723
+*    *   746
 
     *   B32
 
@@ -8012,7 +8265,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.22162
 
 
-*    *   724
+*    *   747
 
     *   B32
 
@@ -8023,7 +8276,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.22102
 
 
-*    *   725
+*    *   748
 
     *   B32
 
@@ -8034,7 +8287,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.22847
 
 
-*    *   726
+*    *   749
 
     *   B32
 
@@ -8045,7 +8298,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.17176
 
 
-*    *   727
+*    *   750
 
     *   B32
 
@@ -8056,7 +8309,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.70219
 
 
-*    *   728
+*    *   751
 
     *   B33
 
@@ -8067,7 +8320,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.01716
 
 
-*    *   729
+*    *   752
 
     *   B33
 
@@ -8078,7 +8331,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.0179
 
 
-*    *   730
+*    *   753
 
     *   B33
 
@@ -8089,7 +8342,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12167
 
 
-*    *   731
+*    *   754
 
     *   B33
 
@@ -8100,7 +8353,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.23047
 
 
-*    *   732
+*    *   755
 
     *   B33
 
@@ -8111,7 +8364,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.2333
 
 
-*    *   733
+*    *   756
 
     *   B33
 
@@ -8122,7 +8375,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.2351
 
 
-*    *   734
+*    *   757
 
     *   B33
 
@@ -8133,7 +8386,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.239
 
 
-*    *   735
+*    *   758
 
     *   B33
 
@@ -8144,7 +8397,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.28749
 
 
-*    *   736
+*    *   759
 
     *   B33
 
@@ -8155,7 +8408,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.28998
 
 
-*    *   737
+*    *   760
 
     *   B33
 
@@ -8166,7 +8419,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.3515
 
 
-*    *   738
+*    *   761
 
     *   B33
 
@@ -8177,7 +8430,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.46277
 
 
-*    *   739
+*    *   762
 
     *   B33
 
@@ -8188,18 +8441,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48872
 
 
-*    *   740
-
-    *   B33
-
-    *   Hegau, Kreuz (Übergang A 81/B 33)
-
-    *   47.80052
-
-    *   8.86329
-
-
-*    *   741
+*    *   763
 
     *   B34
 
@@ -8210,7 +8452,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.63839
 
 
-*    *   742
+*    *   764
 
     *   B34
 
@@ -8221,7 +8463,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.75036
 
 
-*    *   743
+*    *   765
 
     *   B34
 
@@ -8232,7 +8474,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.7275
 
 
-*    *   744
+*    *   766
 
     *   B35
 
@@ -8243,7 +8485,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.76736
 
 
-*    *   745
+*    *   767
 
     *   B35
 
@@ -8254,7 +8496,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.69963
 
 
-*    *   746
+*    *   768
 
     *   B35
 
@@ -8265,7 +8507,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.61087
 
 
-*    *   747
+*    *   769
 
     *   B36
 
@@ -8276,7 +8518,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.45775
 
 
-*    *   748
+*    *   770
 
     *   B37
 
@@ -8287,7 +8529,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.00494
 
 
-*    *   749
+*    *   771
 
     *   B37
 
@@ -8298,29 +8540,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.05308
 
 
-*    *   750
-
-    *   B37
-
-    *   B37 Mannheim, Schubertstraße
-
-    *   49.47778
-
-    *   8.49171
-
-
-*    *   751
+*    *   772
 
     *   B37
 
     *   B37 Neckarsteinach, Vier Burgen
 
-    *   49.4086
+    *   49.40858
 
-    *   8.82773
+    *   8.82777
 
 
-*    *   752
+*    *   773
 
     *   B37
 
@@ -8331,7 +8562,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.93554
 
 
-*    *   753
+*    *   774
 
     *   B37
 
@@ -8342,7 +8573,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00268
 
 
-*    *   754
+*    *   775
 
     *   B37
 
@@ -8353,7 +8584,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.02374
 
 
-*    *   755
+*    *   776
 
     *   B37
 
@@ -8364,7 +8595,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04185
 
 
-*    *   756
+*    *   777
 
     *   B37
 
@@ -8375,7 +8606,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.06288
 
 
-*    *   757
+*    *   778
 
     *   B38
 
@@ -8386,7 +8617,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.97499
 
 
-*    *   758
+*    *   779
 
     *   B38
 
@@ -8397,7 +8628,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.82561
 
 
-*    *   759
+*    *   780
 
     *   B39
 
@@ -8408,7 +8639,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.98401
 
 
-*    *   760
+*    *   781
 
     *   B39
 
@@ -8419,7 +8650,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.10655
 
 
-*    *   761
+*    *   782
 
     *   B39
 
@@ -8430,7 +8661,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.45923
 
 
-*    *   762
+*    *   783
 
     *   B39
 
@@ -8441,29 +8672,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.7537
 
 
-*    *   763
+*    *   784
 
     *   B39
 
-    *   B39 Sinsheim, Steigeweg
+    *   B39 Heilbronn, Lauterbachweg
 
-    *   49.22917
+    *   49.13673
 
-    *   8.92977
-
-
-*    *   764
-
-    *   B39
-
-    *   B39 Kirchardt
-
-    *   49.21458
-
-    *   8.97616
+    *   9.21241
 
 
-*    *   765
+*    *   785
 
     *   B39
 
@@ -8474,7 +8694,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.39674
 
 
-*    *   766
+*    *   786
 
     *   B41
 
@@ -8485,7 +8705,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.15787
 
 
-*    *   767
+*    *   787
 
     *   B41
 
@@ -8496,7 +8716,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.14407
 
 
-*    *   768
+*    *   788
 
     *   B41
 
@@ -8507,7 +8727,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.15914
 
 
-*    *   769
+*    *   789
 
     *   B41
 
@@ -8518,7 +8738,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.16151
 
 
-*    *   770
+*    *   790
 
     *   B41
 
@@ -8529,7 +8749,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.4366
 
 
-*    *   771
+*    *   791
 
     *   B41
 
@@ -8540,7 +8760,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.44781
 
 
-*    *   772
+*    *   792
 
     *   B41
 
@@ -8551,7 +8771,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.4955
 
 
-*    *   773
+*    *   793
 
     *   B41
 
@@ -8562,7 +8782,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.60298
 
 
-*    *   774
+*    *   794
 
     *   B42
 
@@ -8573,7 +8793,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.611
 
 
-*    *   775
+*    *   795
 
     *   B42
 
@@ -8584,7 +8804,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.59263
 
 
-*    *   776
+*    *   796
 
     *   B42
 
@@ -8595,7 +8815,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.61202
 
 
-*    *   777
+*    *   797
 
     *   B42
 
@@ -8606,7 +8826,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.73293
 
 
-*    *   778
+*    *   798
 
     *   B42
 
@@ -8617,7 +8837,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.77749
 
 
-*    *   779
+*    *   799
 
     *   B42
 
@@ -8628,7 +8848,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.81531
 
 
-*    *   780
+*    *   800
 
     *   B42
 
@@ -8639,7 +8859,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.81857
 
 
-*    *   781
+*    *   801
 
     *   B42
 
@@ -8650,7 +8870,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.83203
 
 
-*    *   782
+*    *   802
 
     *   B43
 
@@ -8661,7 +8881,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.34094
 
 
-*    *   783
+*    *   803
 
     *   B43
 
@@ -8672,7 +8892,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.42459
 
 
-*    *   784
+*    *   804
 
     *   B43
 
@@ -8683,7 +8903,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48172
 
 
-*    *   785
+*    *   805
 
     *   B43
 
@@ -8694,18 +8914,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.39565
 
 
-*    *   786
+*    *   806
 
     *   B43
 
     *   B43 Offenbach a. Main, PP Südosthessen
 
-    *   50.09041
+    *   50.09047
 
-    *   8.7747
+    *   8.77491
 
 
-*    *   787
+*    *   807
 
     *   B43
 
@@ -8716,7 +8936,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.9089
 
 
-*    *   788
+*    *   808
 
     *   B43
 
@@ -8727,7 +8947,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.9628
 
 
-*    *   789
+*    *   809
 
     *   B44
 
@@ -8738,7 +8958,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48191
 
 
-*    *   790
+*    *   810
 
     *   B44
 
@@ -8749,7 +8969,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.49604
 
 
-*    *   791
+*    *   811
 
     *   B44
 
@@ -8760,7 +8980,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.56144
 
 
-*    *   792
+*    *   812
 
     *   B45
 
@@ -8771,7 +8991,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.90827
 
 
-*    *   793
+*    *   813
 
     *   B45
 
@@ -8782,7 +9002,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.95498
 
 
-*    *   794
+*    *   814
 
     *   B45
 
@@ -8793,7 +9013,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.96547
 
 
-*    *   795
+*    *   815
 
     *   B45
 
@@ -8804,7 +9024,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.97051
 
 
-*    *   796
+*    *   816
 
     *   B45
 
@@ -8815,7 +9035,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.99304
 
 
-*    *   797
+*    *   817
 
     *   B45
 
@@ -8826,7 +9046,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.99691
 
 
-*    *   798
+*    *   818
 
     *   B45
 
@@ -8837,7 +9057,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00539
 
 
-*    *   799
+*    *   819
 
     *   B45
 
@@ -8848,7 +9068,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98505
 
 
-*    *   800
+*    *   820
 
     *   B45
 
@@ -8859,7 +9079,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98457
 
 
-*    *   801
+*    *   821
 
     *   B45
 
@@ -8870,7 +9090,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.97453
 
 
-*    *   802
+*    *   822
 
     *   B45
 
@@ -8881,7 +9101,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.96505
 
 
-*    *   803
+*    *   823
 
     *   B45
 
@@ -8892,7 +9112,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.96027
 
 
-*    *   804
+*    *   824
 
     *   B45
 
@@ -8903,7 +9123,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.96546
 
 
-*    *   805
+*    *   825
 
     *   B45
 
@@ -8914,7 +9134,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.79675
 
 
-*    *   806
+*    *   826
 
     *   B45
 
@@ -8925,7 +9145,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.84854
 
 
-*    *   807
+*    *   827
 
     *   B47
 
@@ -8936,7 +9156,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.75842
 
 
-*    *   808
+*    *   828
 
     *   B47
 
@@ -8947,7 +9167,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.821
 
 
-*    *   809
+*    *   829
 
     *   B47
 
@@ -8958,7 +9178,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.21694
 
 
-*    *   810
+*    *   830
 
     *   B47
 
@@ -8969,7 +9189,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.29086
 
 
-*    *   811
+*    *   831
 
     *   B48
 
@@ -8980,7 +9200,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.01643
 
 
-*    *   812
+*    *   832
 
     *   B48
 
@@ -8991,7 +9211,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.01794
 
 
-*    *   813
+*    *   833
 
     *   B48
 
@@ -9002,7 +9222,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.00419
 
 
-*    *   814
+*    *   834
 
     *   B48
 
@@ -9013,7 +9233,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.95332
 
 
-*    *   815
+*    *   835
 
     *   B48
 
@@ -9024,7 +9244,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.89852
 
 
-*    *   816
+*    *   836
 
     *   B48
 
@@ -9035,7 +9255,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8993
 
 
-*    *   817
+*    *   837
 
     *   B48
 
@@ -9046,7 +9266,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.88472
 
 
-*    *   818
+*    *   838
 
     *   B48
 
@@ -9057,7 +9277,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.87203
 
 
-*    *   819
+*    *   839
 
     *   B48
 
@@ -9068,7 +9288,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8245
 
 
-*    *   820
+*    *   840
 
     *   B48
 
@@ -9079,7 +9299,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.91459
 
 
-*    *   821
+*    *   841
 
     *   B48
 
@@ -9090,7 +9310,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.89327
 
 
-*    *   822
+*    *   842
 
     *   B48
 
@@ -9101,7 +9321,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.88311
 
 
-*    *   823
+*    *   843
 
     *   B48
 
@@ -9112,73 +9332,73 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.88171
 
 
-*    *   824
+*    *   844
 
     *   B48
 
-    *   B48 Imsweiler, A
-
-    *   49.60473
-
-    *   7.80995
-
-
-*    *   825
-
-    *   B48
-
-    *   B48 Rockenhausen, Im Degenbachtal
+    *   B48 Rockenhausen, C
 
     *   49.61529
 
     *   7.82097
 
 
-*    *   826
+*    *   845
 
     *   B48
 
-    *   B48 Alsenz, C
+    *   B48 Alsenz, Mitfahrerparkplatz
 
-    *   49.71813
+    *   49.73333
 
-    *   7.80987
-
-
-*    *   827
-
-    *   B48
-
-    *   B48 Alsenz, Oberer Pfaffenpfad
-
-    *   49.72427
-
-    *   7.80769
+    *   7.81415
 
 
-*    *   828
+*    *   846
 
     *   B48
 
-    *   B48 Alsenz, A
+    *   B48 Alsenz
 
     *   49.74287
 
     *   7.82078
 
 
-*    *   829
+*    *   847
 
     *   B48
 
-    *   B48 Bad Kreuznach, Brückes, B
+    *   B48 Bad Kreuznach, Brückes
 
     *   49.85856
 
     *   7.87211
 
 
-*    *   830
+*    *   848
+
+    *   B48
+
+    *   B48 Langenlonsheim, B
+
+    *   49.90378
+
+    *   7.90423
+
+
+*    *   849
+
+    *   B48
+
+    *   B48 Langenlonsheim, A
+
+    *   49.90583
+
+    *   7.90377
+
+
+*    *   850
 
     *   B49
 
@@ -9189,7 +9409,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.6448
 
 
-*    *   831
+*    *   851
 
     *   B49
 
@@ -9200,7 +9420,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.90355
 
 
-*    *   832
+*    *   852
 
     *   B49
 
@@ -9211,7 +9431,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.97879
 
 
-*    *   833
+*    *   853
 
     *   B49
 
@@ -9222,7 +9442,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.98956
 
 
-*    *   834
+*    *   854
 
     *   B49
 
@@ -9233,7 +9453,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.04827
 
 
-*    *   835
+*    *   855
 
     *   B49
 
@@ -9244,7 +9464,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.1035
 
 
-*    *   836
+*    *   856
 
     *   B49
 
@@ -9255,7 +9475,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.21015
 
 
-*    *   837
+*    *   857
 
     *   B49
 
@@ -9266,7 +9486,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.33229
 
 
-*    *   838
+*    *   858
 
     *   B49
 
@@ -9277,7 +9497,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.42064
 
 
-*    *   839
+*    *   859
 
     *   B49
 
@@ -9288,7 +9508,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.42502
 
 
-*    *   840
+*    *   860
 
     *   B49
 
@@ -9299,7 +9519,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.4596
 
 
-*    *   841
+*    *   861
 
     *   B49
 
@@ -9310,7 +9530,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36129
 
 
-*    *   842
+*    *   862
 
     *   B49
 
@@ -9321,7 +9541,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.95122
 
 
-*    *   843
+*    *   863
 
     *   B50
 
@@ -9332,7 +9552,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.23483
 
 
-*    *   844
+*    *   864
 
     *   B50
 
@@ -9343,7 +9563,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.3988
 
 
-*    *   845
+*    *   865
 
     *   B50
 
@@ -9354,7 +9574,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.49249
 
 
-*    *   846
+*    *   866
 
     *   B50
 
@@ -9365,7 +9585,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.16987
 
 
-*    *   847
+*    *   867
 
     *   B50
 
@@ -9376,7 +9596,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.2173
 
 
-*    *   848
+*    *   868
 
     *   B50
 
@@ -9387,7 +9607,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.96854
 
 
-*    *   849
+*    *   869
 
     *   B51
 
@@ -9398,7 +9618,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.58331
 
 
-*    *   850
+*    *   870
 
     *   B51
 
@@ -9409,7 +9629,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.58184
 
 
-*    *   851
+*    *   871
 
     *   B51
 
@@ -9420,7 +9640,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.54595
 
 
-*    *   852
+*    *   872
 
     *   B51
 
@@ -9431,7 +9651,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.53535
 
 
-*    *   853
+*    *   873
 
     *   B51
 
@@ -9442,7 +9662,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48208
 
 
-*    *   854
+*    *   874
 
     *   B51
 
@@ -9453,7 +9673,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36143
 
 
-*    *   855
+*    *   875
 
     *   B51
 
@@ -9464,7 +9684,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.37512
 
 
-*    *   856
+*    *   876
 
     *   B51
 
@@ -9475,7 +9695,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.37379
 
 
-*    *   857
+*    *   877
 
     *   B51
 
@@ -9486,7 +9706,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.35126
 
 
-*    *   858
+*    *   878
 
     *   B51
 
@@ -9497,7 +9717,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31825
 
 
-*    *   859
+*    *   879
 
     *   B51
 
@@ -9508,7 +9728,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31598
 
 
-*    *   860
+*    *   880
 
     *   B51
 
@@ -9519,7 +9739,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31237
 
 
-*    *   861
+*    *   881
 
     *   B51
 
@@ -9530,7 +9750,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31125
 
 
-*    *   862
+*    *   882
 
     *   B51
 
@@ -9541,7 +9761,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31509
 
 
-*    *   863
+*    *   883
 
     *   B51
 
@@ -9552,7 +9772,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31101
 
 
-*    *   864
+*    *   884
 
     *   B51
 
@@ -9563,7 +9783,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.30948
 
 
-*    *   865
+*    *   885
 
     *   B51
 
@@ -9574,7 +9794,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31016
 
 
-*    *   866
+*    *   886
 
     *   B51
 
@@ -9585,7 +9805,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20488
 
 
-*    *   867
+*    *   887
 
     *   B51
 
@@ -9596,7 +9816,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.06386
 
 
-*    *   868
+*    *   888
 
     *   B51
 
@@ -9607,7 +9827,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.05093
 
 
-*    *   869
+*    *   889
 
     *   B51
 
@@ -9618,7 +9838,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.03858
 
 
-*    *   870
+*    *   890
 
     *   B51
 
@@ -9629,7 +9849,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.02542
 
 
-*    *   871
+*    *   891
 
     *   B51
 
@@ -9640,7 +9860,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.02048
 
 
-*    *   872
+*    *   892
 
     *   B51
 
@@ -9651,7 +9871,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.97805
 
 
-*    *   873
+*    *   893
 
     *   B51
 
@@ -9662,7 +9882,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.89634
 
 
-*    *   874
+*    *   894
 
     *   B51
 
@@ -9673,7 +9893,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.88018
 
 
-*    *   875
+*    *   895
 
     *   B51
 
@@ -9684,7 +9904,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.87721
 
 
-*    *   876
+*    *   896
 
     *   B51
 
@@ -9695,7 +9915,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.87529
 
 
-*    *   877
+*    *   897
 
     *   B51
 
@@ -9706,7 +9926,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.86062
 
 
-*    *   878
+*    *   898
 
     *   B51
 
@@ -9717,7 +9937,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.85829
 
 
-*    *   879
+*    *   899
 
     *   B51
 
@@ -9728,7 +9948,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.82445
 
 
-*    *   880
+*    *   900
 
     *   B51
 
@@ -9739,7 +9959,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.82392
 
 
-*    *   881
+*    *   901
 
     *   B51
 
@@ -9750,7 +9970,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.81826
 
 
-*    *   882
+*    *   902
 
     *   B51
 
@@ -9761,7 +9981,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8137
 
 
-*    *   883
+*    *   903
 
     *   B51
 
@@ -9772,7 +9992,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.81165
 
 
-*    *   884
+*    *   904
 
     *   B51
 
@@ -9783,7 +10003,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.80963
 
 
-*    *   885
+*    *   905
 
     *   B51
 
@@ -9794,7 +10014,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.80436
 
 
-*    *   886
+*    *   906
 
     *   B51
 
@@ -9805,7 +10025,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8029
 
 
-*    *   887
+*    *   907
 
     *   B51
 
@@ -9816,7 +10036,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.7614
 
 
-*    *   888
+*    *   908
 
     *   B51
 
@@ -9827,7 +10047,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.74639
 
 
-*    *   889
+*    *   909
 
     *   B51
 
@@ -9838,7 +10058,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.72434
 
 
-*    *   890
+*    *   910
 
     *   B51
 
@@ -9849,7 +10069,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.7162
 
 
-*    *   891
+*    *   911
 
     *   B51
 
@@ -9860,7 +10080,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.68609
 
 
-*    *   892
+*    *   912
 
     *   B51
 
@@ -9871,7 +10091,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.25997
 
 
-*    *   893
+*    *   913
 
     *   B51
 
@@ -9882,7 +10102,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.26494
 
 
-*    *   894
+*    *   914
 
     *   B51
 
@@ -9893,7 +10113,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.15142
 
 
-*    *   895
+*    *   915
 
     *   B51
 
@@ -9904,7 +10124,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.95299
 
 
-*    *   896
+*    *   916
 
     *   B51
 
@@ -9915,18 +10135,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.94275
 
 
-*    *   897
-
-    *   B51
-
-    *   B51 Köln
-
-    *   50.86836
-
-    *   6.93074
-
-
-*    *   898
+*    *   917
 
     *   B51
 
@@ -9937,7 +10146,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.92092
 
 
-*    *   899
+*    *   918
 
     *   B51
 
@@ -9948,7 +10157,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.55437
 
 
-*    *   900
+*    *   919
 
     *   B51
 
@@ -9959,7 +10168,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.48878
 
 
-*    *   901
+*    *   920
 
     *   B51
 
@@ -9970,7 +10179,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.45398
 
 
-*    *   902
+*    *   921
 
     *   B51
 
@@ -9981,7 +10190,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.5423
 
 
-*    *   903
+*    *   922
 
     *   B51
 
@@ -9992,7 +10201,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.61499
 
 
-*    *   904
+*    *   923
 
     *   B51
 
@@ -10003,7 +10212,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.57146
 
 
-*    *   905
+*    *   924
 
     *   B51
 
@@ -10014,7 +10223,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.59772
 
 
-*    *   906
+*    *   925
 
     *   B51
 
@@ -10025,7 +10234,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.60825
 
 
-*    *   907
+*    *   926
 
     *   B51
 
@@ -10036,7 +10245,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.89644
 
 
-*    *   908
+*    *   927
 
     *   B53
 
@@ -10047,7 +10256,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.90027
 
 
-*    *   909
+*    *   928
 
     *   B53
 
@@ -10058,7 +10267,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.90344
 
 
-*    *   910
+*    *   929
 
     *   B53
 
@@ -10069,7 +10278,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.94614
 
 
-*    *   911
+*    *   930
 
     *   B53
 
@@ -10080,7 +10289,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.12072
 
 
-*    *   912
+*    *   931
 
     *   B53
 
@@ -10091,7 +10300,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.17378
 
 
-*    *   913
+*    *   932
 
     *   B54
 
@@ -10102,7 +10311,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.99631
 
 
-*    *   914
+*    *   933
 
     *   B54
 
@@ -10113,7 +10322,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.18588
 
 
-*    *   915
+*    *   934
 
     *   B54
 
@@ -10124,7 +10333,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.19242
 
 
-*    *   916
+*    *   935
 
     *   B54
 
@@ -10135,7 +10344,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.44098
 
 
-*    *   917
+*    *   936
 
     *   B54
 
@@ -10146,7 +10355,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.52002
 
 
-*    *   918
+*    *   937
 
     *   B54
 
@@ -10157,7 +10366,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.52078
 
 
-*    *   919
+*    *   938
 
     *   B54
 
@@ -10168,7 +10377,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.53362
 
 
-*    *   920
+*    *   939
 
     *   B54
 
@@ -10179,7 +10388,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.52752
 
 
-*    *   921
+*    *   940
 
     *   B54
 
@@ -10190,7 +10399,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.52738
 
 
-*    *   922
+*    *   941
 
     *   B54
 
@@ -10201,7 +10410,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.51968
 
 
-*    *   923
+*    *   942
 
     *   B54
 
@@ -10212,7 +10421,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.52026
 
 
-*    *   924
+*    *   943
 
     *   B54
 
@@ -10223,7 +10432,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.5411
 
 
-*    *   925
+*    *   944
 
     *   B54
 
@@ -10234,7 +10443,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.54193
 
 
-*    *   926
+*    *   945
 
     *   B54
 
@@ -10245,7 +10454,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.56693
 
 
-*    *   927
+*    *   946
 
     *   B54
 
@@ -10256,7 +10465,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.56681
 
 
-*    *   928
+*    *   947
 
     *   B54
 
@@ -10267,7 +10476,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.57381
 
 
-*    *   929
+*    *   948
 
     *   B54
 
@@ -10278,7 +10487,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.59859
 
 
-*    *   930
+*    *   949
 
     *   B54
 
@@ -10289,7 +10498,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.61101
 
 
-*    *   931
+*    *   950
 
     *   B54
 
@@ -10300,7 +10509,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.61778
 
 
-*    *   932
+*    *   951
 
     *   B54
 
@@ -10311,7 +10520,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.6193
 
 
-*    *   933
+*    *   952
 
     *   B54
 
@@ -10322,7 +10531,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.61718
 
 
-*    *   934
+*    *   953
 
     *   B54
 
@@ -10333,7 +10542,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.14879
 
 
-*    *   935
+*    *   954
 
     *   B54
 
@@ -10344,7 +10553,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.06414
 
 
-*    *   936
+*    *   955
 
     *   B54
 
@@ -10355,7 +10564,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.06168
 
 
-*    *   937
+*    *   956
 
     *   B54
 
@@ -10366,7 +10575,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.06558
 
 
-*    *   938
+*    *   957
 
     *   B54
 
@@ -10377,7 +10586,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.05979
 
 
-*    *   939
+*    *   958
 
     *   B54
 
@@ -10388,7 +10597,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.04533
 
 
-*    *   940
+*    *   959
 
     *   B54
 
@@ -10399,7 +10608,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.0669
 
 
-*    *   941
+*    *   960
 
     *   B54
 
@@ -10410,7 +10619,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.07045
 
 
-*    *   942
+*    *   961
 
     *   B54
 
@@ -10421,7 +10630,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.07834
 
 
-*    *   943
+*    *   962
 
     *   B54
 
@@ -10432,7 +10641,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.10728
 
 
-*    *   944
+*    *   963
 
     *   B54
 
@@ -10443,7 +10652,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12239
 
 
-*    *   945
+*    *   964
 
     *   B55
 
@@ -10454,7 +10663,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.99491
 
 
-*    *   946
+*    *   965
 
     *   B55
 
@@ -10465,7 +10674,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.03537
 
 
-*    *   947
+*    *   966
 
     *   B55
 
@@ -10476,7 +10685,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.01903
 
 
-*    *   948
+*    *   967
 
     *   B55
 
@@ -10487,7 +10696,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.11935
 
 
-*    *   949
+*    *   968
 
     *   B55
 
@@ -10498,7 +10707,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.25894
 
 
-*    *   950
+*    *   969
 
     *   B55
 
@@ -10509,7 +10718,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.26819
 
 
-*    *   951
+*    *   970
 
     *   B55
 
@@ -10520,7 +10729,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.25745
 
 
-*    *   952
+*    *   971
 
     *   B55
 
@@ -10531,7 +10740,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.26615
 
 
-*    *   953
+*    *   972
 
     *   B55
 
@@ -10542,7 +10751,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.30302
 
 
-*    *   954
+*    *   973
 
     *   B56
 
@@ -10553,7 +10762,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.10395
 
 
-*    *   955
+*    *   974
 
     *   B56
 
@@ -10564,7 +10773,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.11731
 
 
-*    *   956
+*    *   975
 
     *   B56
 
@@ -10575,7 +10784,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.00305
 
 
-*    *   957
+*    *   976
 
     *   B57
 
@@ -10586,7 +10795,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.40406
 
 
-*    *   958
+*    *   977
 
     *   B57
 
@@ -10597,7 +10806,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.42299
 
 
-*    *   959
+*    *   978
 
     *   B57
 
@@ -10608,7 +10817,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.42566
 
 
-*    *   960
+*    *   979
 
     *   B57
 
@@ -10619,7 +10828,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.46901
 
 
-*    *   961
+*    *   980
 
     *   B57
 
@@ -10630,7 +10839,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.32447
 
 
-*    *   962
+*    *   981
 
     *   B57
 
@@ -10641,7 +10850,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.15219
 
 
-*    *   963
+*    *   982
 
     *   B57
 
@@ -10652,7 +10861,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.10321
 
 
-*    *   964
+*    *   983
 
     *   B57
 
@@ -10663,7 +10872,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.09084
 
 
-*    *   965
+*    *   984
 
     *   B57
 
@@ -10674,7 +10883,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.08959
 
 
-*    *   966
+*    *   985
 
     *   B57
 
@@ -10685,7 +10894,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.08992
 
 
-*    *   967
+*    *   986
+
+    *   B58
+
+    *   B58 Straelen, Veenweg
+
+    *   51.4047
+
+    *   6.21611
+
+
+*    *   987
+
+    *   B58
+
+    *   B58 Straelen, Blendendyck
+
+    *   51.41645
+
+    *   6.23154
+
+
+*    *   988
+
+    *   B58
+
+    *   B58 Straelen, Quellenweg
+
+    *   51.42791
+
+    *   6.25508
+
+
+*    *   989
 
     *   B58
 
@@ -10696,7 +10938,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.3974
 
 
-*    *   968
+*    *   990
 
     *   B58
 
@@ -10707,51 +10949,425 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.63497
 
 
-*    *   969
+*    *   991
 
     *   B58
 
-    *   B58 Beckum, Neubeckumer Straße, E
+    *   B58 Ahlen, Beckumer Straße, A
 
-    *   51.76218
+    *   51.76599
 
-    *   8.04308
+    *   7.96059
 
 
-*    *   970
+*    *   992
+
+    *   B58
+
+    *   B58 Ahlen, Beckumer Straße, B
+
+    *   51.76625
+
+    *   7.96534
+
+
+*    *   993
+
+    *   B58
+
+    *   B58 Ahlen, Pullort
+
+    *   51.76666
+
+    *   7.96858
+
+
+*    *   994
+
+    *   B58
+
+    *   B58 Beckum, Hinteler, A
+
+    *   51.77489
+
+    *   7.99707
+
+
+*    *   995
+
+    *   B58
+
+    *   B58 Beckum, Geißlerstraße
+
+    *   51.77721
+
+    *   8.0335
+
+
+*    *   996
+
+    *   B58
+
+    *   B58 Wadersloh, Berkenweg
+
+    *   51.73518
+
+    *   8.16303
+
+
+*    *   997
 
     *   B61
 
-    *   B61 Gütersloh, Berliner Straße, D
+    *   B61 Rheda-Wiedenbrück, Pappelweg
+
+    *   51.8554
+
+    *   8.32994
+
+
+*    *   998
+
+    *   B61
+
+    *   B61 Rheda-Wiedenbrück, Schledebrück
+
+    *   51.87134
+
+    *   8.34529
+
+
+*    *   999
+
+    *   B61
+
+    *   B61 Rheda-Wiedenbrück, Bielefelder Straße
+
+    *   51.8797
+
+    *   8.35339
+
+
+*    *   1000
+
+    *   B61
+
+    *   B61 Gütersloh, Berliner Straße, B
 
     *   51.92222
 
     *   8.40021
 
 
-*    *   971
+*    *   1001
 
     *   B61
 
-    *   B61 Bielefeld, Herforder Straße, E
+    *   B61 Gütersloh, Berliner Straße, A
+
+    *   51.93683
+
+    *   8.41937
+
+
+*    *   1002
+
+    *   B61
+
+    *   B61 Gütersloh, Sinnernweg
+
+    *   51.94446
+
+    *   8.42935
+
+
+*    *   1003
+
+    *   B61
+
+    *   B61 Bielefeld, Am Reiherbach, B
+
+    *   51.94647
+
+    *   8.43197
+
+
+*    *   1004
+
+    *   B61
+
+    *   B61 Bielefeld, Am Reiherbach, A
+
+    *   51.94769
+
+    *   8.43357
+
+
+*    *   1005
+
+    *   B61
+
+    *   B61 Bielefeld, Ramsloh
+
+    *   51.95272
+
+    *   8.44017
+
+
+*    *   1006
+
+    *   B61
+
+    *   B61 Bielefeld, Isselhorster Straße
+
+    *   51.95799
+
+    *   8.44702
+
+
+*    *   1007
+
+    *   B61
+
+    *   B61 Bielefeld, Gütersloher Straße, C
+
+    *   51.9625
+
+    *   8.4533
+
+
+*    *   1008
+
+    *   B61
+
+    *   B61 Bielefeld, Gütersloher Straße, B
+
+    *   51.96321
+
+    *   8.45429
+
+
+*    *   1009
+
+    *   B61
+
+    *   B61 Bielefeld, Herforder Straße, B
 
     *   52.0376
 
     *   8.5622
 
 
-*    *   972
+*    *   1010
 
     *   B61
 
-    *   B61 Kirchdorf, E
+    *   B61 Hiddenhausen, Herforder Straße
 
-    *   52.57849
+    *   52.1696
 
-    *   8.84091
+    *   8.6607
 
 
-*    *   973
+*    *   1011
+
+    *   B61
+
+    *   B61 Kirchlengern, Burgweg
+
+    *   52.17874
+
+    *   8.6584
+
+
+*    *   1012
+
+    *   B61
+
+    *   B61 Bad Oeynhausen, Osterfeldweg
+
+    *   52.23625
+
+    *   8.83617
+
+
+*    *   1013
+
+    *   B61
+
+    *   B61 Bad Oeynhausen, Lohbuscher Weg
+
+    *   52.23799
+
+    *   8.83788
+
+
+*    *   1014
+
+    *   B61
+
+    *   B61 Bad Oeynhausen, Holdstraße
+
+    *   52.2442
+
+    *   8.85752
+
+
+*    *   1015
+
+    *   B61
+
+    *   B61 Porta Westfalica, Ida-Ströver-Straße
+
+    *   52.24309
+
+    *   8.87977
+
+
+*    *   1016
+
+    *   B61
+
+    *   B61 Minden, Valentinsweg
+
+    *   52.32844
+
+    *   8.92481
+
+
+*    *   1017
+
+    *   B61
+
+    *   B61 Petershagen, Kläranlage Heisterholz
+
+    *   52.35166
+
+    *   8.95044
+
+
+*    *   1018
+
+    *   B61
+
+    *   B61 Petershagen, Schäferweg
+
+    *   52.40423
+
+    *   8.95271
+
+
+*    *   1019
+
+    *   B61
+
+    *   B61 Raddestorf
+
+    *   52.43018
+
+    *   8.94267
+
+
+*    *   1020
+
+    *   B61
+
+    *   B61 Uchte, Höfen, B
+
+    *   52.46605
+
+    *   8.90907
+
+
+*    *   1021
+
+    *   B61
+
+    *   B61 Uchte, Lohhof
+
+    *   52.47593
+
+    *   8.89817
+
+
+*    *   1022
+
+    *   B61
+
+    *   B61 Uchte, Hoysinghausen, D
+
+    *   52.51592
+
+    *   8.89999
+
+
+*    *   1023
+
+    *   B61
+
+    *   B61 Uchte, Rauher Busch, B
+
+    *   52.53986
+
+    *   8.86944
+
+
+*    *   1024
+
+    *   B61
+
+    *   B61 Uchte, Rauher Busch, A
+
+    *   52.5417
+
+    *   8.86711
+
+
+*    *   1025
+
+    *   B61
+
+    *   B61 Kirchdorf, Heerde, F
+
+    *   52.55169
+
+    *   8.86069
+
+
+*    *   1026
+
+    *   B61
+
+    *   B61 Kirchdorf, Heerde, D
+
+    *   52.56171
+
+    *   8.85494
+
+
+*    *   1027
+
+    *   B61
+
+    *   B61 Kirchdorf, Heerde, C
+
+    *   52.56326
+
+    *   8.85393
+
+
+*    *   1028
+
+    *   B61
+
+    *   B61 Kirchdorf, Uchter Straße, C
+
+    *   52.57758
+
+    *   8.84158
+
+
+*    *   1029
 
     *   B61
 
@@ -10762,7 +11378,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.82481
 
 
-*    *   974
+*    *   1030
+
+    *   B61
+
+    *   B61 Sulingen, B
+
+    *   52.64622
+
+    *   8.80547
+
+
+*    *   1031
+
+    *   B61
+
+    *   B61 Sulingen, A
+
+    *   52.64885
+
+    *   8.80557
+
+
+*    *   1032
 
     *   B61
 
@@ -10773,7 +11411,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.90648
 
 
-*    *   975
+*    *   1033
+
+    *   B61
+
+    *   B61 Sulingen, Friedrich-Tietjen-Straße
+
+    *   52.68417
+
+    *   8.7827
+
+
+*    *   1034
+
+    *   B61
+
+    *   B61 Sulingen, Herelse
+
+    *   52.68791
+
+    *   8.78159
+
+
+*    *   1035
 
     *   B61
 
@@ -10784,7 +11444,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.76595
 
 
-*    *   976
+*    *   1036
+
+    *   B61
+
+    *   B61 Scholen, Blockwinkel, E
+
+    *   52.75109
+
+    *   8.76534
+
+
+*    *   1037
+
+    *   B61
+
+    *   B61 Bassum, Nienstedt, B
+
+    *   52.78876
+
+    *   8.7507
+
+
+*    *   1038
+
+    *   B61
+
+    *   B61 Bassum, Apelstedt, G
+
+    *   52.80655
+
+    *   8.74799
+
+
+*    *   1039
+
+    *   B61
+
+    *   B61 Bassum, Apelstedt, B
+
+    *   52.81624
+
+    *   8.7435
+
+
+*    *   1040
 
     *   B62
 
@@ -10795,7 +11499,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.07839
 
 
-*    *   977
+*    *   1041
 
     *   B62
 
@@ -10806,40 +11510,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.16371
 
 
-*    *   978
+*    *   1042
 
     *   B62
 
-    *   B62 Biedenkopf, C
+    *   B62 Biedenkopf
 
     *   50.89638
 
     *   8.54524
 
 
-*    *   979
-
-    *   B62
-
-    *   B62 Lahntal, A
-
-    *   50.85361
-
-    *   8.68008
-
-
-*    *   980
-
-    *   B62
-
-    *   B62 Lahntal, B
-
-    *   50.87051
-
-    *   8.78789
-
-
-*    *   981
+*    *   1043
 
     *   B62
 
@@ -10850,7 +11532,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.29009
 
 
-*    *   982
+*    *   1044
 
     *   B62
 
@@ -10861,7 +11543,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.31627
 
 
-*    *   983
+*    *   1045
 
     *   B62
 
@@ -10872,7 +11554,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.62743
 
 
-*    *   984
+*    *   1046
 
     *   B62
 
@@ -10883,7 +11565,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63631
 
 
-*    *   985
+*    *   1047
 
     *   B62
 
@@ -10894,7 +11576,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.82239
 
 
-*    *   986
+*    *   1048
 
     *   B62
 
@@ -10905,7 +11587,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.9924
 
 
-*    *   987
+*    *   1049
 
     *   B62
 
@@ -10916,7 +11598,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.03137
 
 
-*    *   988
+*    *   1050
 
     *   B62
 
@@ -10927,7 +11609,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.03408
 
 
-*    *   989
+*    *   1051
 
     *   B62
 
@@ -10938,7 +11620,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.07726
 
 
-*    *   990
+*    *   1052
 
     *   B62
 
@@ -10949,7 +11631,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.07992
 
 
-*    *   991
+*    *   1053
 
     *   B62
 
@@ -10960,7 +11642,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.29648
 
 
-*    *   992
+*    *   1054
 
     *   B63
 
@@ -10971,51 +11653,623 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.86881
 
 
-*    *   993
+*    *   1055
 
     *   B64
 
-    *   B64 Altenbeken, Dune
+    *   B64 Telgte, Raestrup, A
+
+    *   51.96899
+
+    *   7.83141
+
+
+*    *   1056
+
+    *   B64
+
+    *   B64 Telgte, Raestrup, B
+
+    *   51.96713
+
+    *   7.84802
+
+
+*    *   1057
+
+    *   B64
+
+    *   B64 Telgte, Am Raestruper Bahnhof, A
+
+    *   51.96639
+
+    *   7.85983
+
+
+*    *   1058
+
+    *   B64
+
+    *   B64 Telgte, Am Raestruper Bahnhof, C
+
+    *   51.96572
+
+    *   7.87091
+
+
+*    *   1059
+
+    *   B64
+
+    *   B64 Telgte, Am Raestruper Bahnhof, D
+
+    *   51.96541
+
+    *   7.87314
+
+
+*    *   1060
+
+    *   B64
+
+    *   B64 Everswinkel, Müssingen
+
+    *   51.96313
+
+    *   7.8847
+
+
+*    *   1061
+
+    *   B64
+
+    *   B64 Warendorf, Müssingen, A
+
+    *   51.95999
+
+    *   7.90648
+
+
+*    *   1062
+
+    *   B64
+
+    *   B64 Warendorf, Müssingen, B
+
+    *   51.95974
+
+    *   7.90933
+
+
+*    *   1063
+
+    *   B64
+
+    *   B64 Warendorf, Müssingen, C
+
+    *   51.95959
+
+    *   7.91113
+
+
+*    *   1064
+
+    *   B64
+
+    *   B64 Warendorf, Müssingen, D
+
+    *   51.95938
+
+    *   7.91354
+
+
+*    *   1065
+
+    *   B64
+
+    *   B64 Warendorf, Neuwarendorf, A
+
+    *   51.95817
+
+    *   7.92747
+
+
+*    *   1066
+
+    *   B64
+
+    *   B64 Warendorf, Neuwarendorf, B
+
+    *   51.95793
+
+    *   7.93032
+
+
+*    *   1067
+
+    *   B64
+
+    *   B64 Warendorf, Neuwarendorf, C
+
+    *   51.95692
+
+    *   7.94186
+
+
+*    *   1068
+
+    *   B64
+
+    *   B64 Warendorf, Neuwarendorf, D
+
+    *   51.9564
+
+    *   7.94778
+
+
+*    *   1069
+
+    *   B64
+
+    *   B64 Warendorf, Neuwarendorf, E
+
+    *   51.95601
+
+    *   7.95218
+
+
+*    *   1070
+
+    *   B64
+
+    *   B64 Warendorf, Vohren, A
+
+    *   51.94774
+
+    *   8.02669
+
+
+*    *   1071
+
+    *   B64
+
+    *   B64 Warendorf, Vohren, B
+
+    *   51.94668
+
+    *   8.03448
+
+
+*    *   1072
+
+    *   B64
+
+    *   B64 Warendorf, Vohren, C
+
+    *   51.94458
+
+    *   8.0496
+
+
+*    *   1073
+
+    *   B64
+
+    *   B64 Beelen, Warendorfer Straße, A
+
+    *   51.93833
+
+    *   8.0827
+
+
+*    *   1074
+
+    *   B64
+
+    *   B64 Beelen, Warendorfer Straße, B
+
+    *   51.93663
+
+    *   8.09047
+
+
+*    *   1075
+
+    *   B64
+
+    *   B64 Beelen, Warendorfer Straße, C
+
+    *   51.93159
+
+    *   8.11032
+
+
+*    *   1076
+
+    *   B64
+
+    *   B64 Beelen, Clarholzer Straße, A
+
+    *   51.92716
+
+    *   8.12878
+
+
+*    *   1077
+
+    *   B64
+
+    *   B64 Beelen, Clarholzer Straße, B
+
+    *   51.9218
+
+    *   8.14272
+
+
+*    *   1078
+
+    *   B64
+
+    *   B64 Beelen, Napoleonsdamm
+
+    *   51.91856
+
+    *   8.15112
+
+
+*    *   1079
+
+    *   B64
+
+    *   B64 Beelen
+
+    *   51.91777
+
+    *   8.1532
+
+
+*    *   1080
+
+    *   B64
+
+    *   B64 Beelen, Clarholzer Straße, C
+
+    *   51.91444
+
+    *   8.1618
+
+
+*    *   1081
+
+    *   B64
+
+    *   B64 Beelen, Beelener Straße
+
+    *   51.91177
+
+    *   8.16876
+
+
+*    *   1082
+
+    *   B64
+
+    *   B64 Beelen, Hemfelder Straße
+
+    *   51.91117
+
+    *   8.17031
+
+
+*    *   1083
+
+    *   B64
+
+    *   B64 Herzebrock-Clarholz, Dieksheide
+
+    *   51.89113
+
+    *   8.21644
+
+
+*    *   1084
+
+    *   B64
+
+    *   B64 Herzebrock-Clarholz, Clarholzer Straße
+
+    *   51.87126
+
+    *   8.25606
+
+
+*    *   1085
+
+    *   B64
+
+    *   B64 Rietberg, Am Emssee
+
+    *   51.82067
+
+    *   8.38856
+
+
+*    *   1086
+
+    *   B64
+
+    *   B64 Rietberg, Herrenbruch
+
+    *   51.78825
+
+    *   8.43907
+
+
+*    *   1087
+
+    *   B64
+
+    *   B64 Rietberg, Delbrücker Straße, B
+
+    *   51.78532
+
+    *   8.45427
+
+
+*    *   1088
+
+    *   B64
+
+    *   B64 Delbrück, Enger Weg
+
+    *   51.78182
+
+    *   8.47445
+
+
+*    *   1089
+
+    *   B64
+
+    *   B64 Delbrück, Rietberger Straße, A
+
+    *   51.78072
+
+    *   8.48106
+
+
+*    *   1090
+
+    *   B64
+
+    *   B64 Delbrück, Alter Postweg
+
+    *   51.77992
+
+    *   8.48662
+
+
+*    *   1091
+
+    *   B64
+
+    *   B64 Delbrück, Birkenkamp
+
+    *   51.7791
+
+    *   8.49508
+
+
+*    *   1092
+
+    *   B64
+
+    *   B64 Delbrück, Brockweg
+
+    *   51.77892
+
+    *   8.49689
+
+
+*    *   1093
+
+    *   B64
+
+    *   B64 Delbrück, Paderborner Straße
+
+    *   51.76369
+
+    *   8.58529
+
+
+*    *   1094
+
+    *   B64
+
+    *   B64 Delbrück, Fichtenweg
+
+    *   51.76329
+
+    *   8.59186
+
+
+*    *   1095
+
+    *   B64
+
+    *   B64 Delbrück, Kanalweg
+
+    *   51.76296
+
+    *   8.60021
+
+
+*    *   1096
+
+    *   B64
+
+    *   B64 Delbrück, Linnenstraße
+
+    *   51.76274
+
+    *   8.60516
+
+
+*    *   1097
+
+    *   B64
+
+    *   B64 Delbrück, Lesterweg
+
+    *   51.76228
+
+    *   8.61561
+
+
+*    *   1098
+
+    *   B64
+
+    *   B64 Delbrück, Plaggenweg
+
+    *   51.76197
+
+    *   8.62316
+
+
+*    *   1099
+
+    *   B64
+
+    *   B64 Delbrück, Kreuzmeer
+
+    *   51.76188
+
+    *   8.62525
+
+
+*    *   1100
+
+    *   B64
+
+    *   B64 Paderborn, Tankstelle
+
+    *   51.72179
+
+    *   8.85069
+
+
+*    *   1101
+
+    *   B64
+
+    *   B64 Altenbeken
 
     *   51.7321
 
     *   8.91948
 
 
-*    *   994
+*    *   1102
 
     *   B64
 
-    *   B64 Höxter, Godelheimer Straße, A
+    *   B64 Bad Driburg, Weißenborn
+
+    *   51.72309
+
+    *   9.0443
+
+
+*    *   1103
+
+    *   B64
+
+    *   B64 Bad Driburg, A
+
+    *   51.72136
+
+    *   9.06214
+
+
+*    *   1104
+
+    *   B64
+
+    *   B64 Bad Driburg, B
+
+    *   51.7203
+
+    *   9.06471
+
+
+*    *   1105
+
+    *   B64
+
+    *   B64 Höxter, Bruchweg
+
+    *   51.74005
+
+    *   9.36575
+
+
+*    *   1106
+
+    *   B64
+
+    *   B64 Höxter, Hammelweg
+
+    *   51.74199
+
+    *   9.36659
+
+
+*    *   1107
+
+    *   B64
+
+    *   B64 Höxter
 
     *   51.76685
 
     *   9.37732
 
 
-*    *   995
+*    *   1108
 
     *   B64
 
-    *   B64 Eschershausen, Lenne-Freizeitweg
+    *   B64 Höxter, Albaxer Straße, B
 
-    *   51.91148
+    *   51.7851
 
-    *   9.66941
+    *   9.38604
 
 
-*    *   996
+*    *   1109
 
     *   B64
 
-    *   B64 Einbeck, B
+    *   B64 Höxter, Nachtigall
 
-    *   51.86879
+    *   51.80593
 
-    *   9.82344
+    *   9.40157
 
 
-*    *   997
+*    *   1110
+
+    *   B64
+
+    *   B64 Negenborn
+
+    *   51.87572
+
+    *   9.55555
+
+
+*    *   1111
 
     *   B64
 
@@ -11026,40 +12280,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.82971
 
 
-*    *   998
+*    *   1112
 
     *   B64
 
-    *   B64 Einbeck, C
+    *   B64 Einbeck, B
 
     *   51.86052
 
     *   9.92373
 
 
-*    *   999
+*    *   1113
 
     *   B64
 
-    *   B64 Bad Gandersheim, A
+    *   B64 Einbeck, C
 
-    *   51.86588
+    *   51.85881
 
-    *   10.00931
-
-
-*    *   1000
-
-    *   B64
-
-    *   B64 Bad Gandersheim, B
-
-    *   51.86587
-
-    *   10.0124
+    *   9.94667
 
 
-*    *   1001
+*    *   1114
 
     *   B64
 
@@ -11070,18 +12313,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.11234
 
 
-*    *   1002
-
-    *   B64
-
-    *   B64 Seesen, B
-
-    *   51.86402
-
-    *   10.1198
-
-
-*    *   1003
+*    *   1115
 
     *   B65
 
@@ -11092,7 +12324,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.3711
 
 
-*    *   1004
+*    *   1116
 
     *   B65
 
@@ -11103,7 +12335,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.43679
 
 
-*    *   1005
+*    *   1117
 
     *   B65
 
@@ -11114,7 +12346,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.74894
 
 
-*    *   1006
+*    *   1118
 
     *   B65
 
@@ -11125,7 +12357,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.33334
 
 
-*    *   1007
+*    *   1119
 
     *   B65
 
@@ -11136,7 +12368,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.44822
 
 
-*    *   1008
+*    *   1120
 
     *   B65
 
@@ -11147,7 +12379,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.71333
 
 
-*    *   1009
+*    *   1121
 
     *   B65
 
@@ -11158,7 +12390,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.97619
 
 
-*    *   1010
+*    *   1122
 
     *   B65
 
@@ -11169,7 +12401,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.20285
 
 
-*    *   1011
+*    *   1123
+
+    *   B66
+
+    *   B66 Bielefeld, Detmolder Straße, D
+
+    *   52.00484
+
+    *   8.55722
+
+
+*    *   1124
+
+    *   B66
+
+    *   B66 Lage, Tündel
+
+    *   51.97579
+
+    *   8.73799
+
+
+*    *   1125
+
+    *   B66
+
+    *   B66 Lage, Bielefelder Straße
+
+    *   51.98599
+
+    *   8.76662
+
+
+*    *   1126
+
+    *   B66
+
+    *   B66 Lemgo, Lagesche Straße
+
+    *   52.02016
+
+    *   8.8707
+
+
+*    *   1127
 
     *   B68
 
@@ -11180,7 +12456,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.98327
 
 
-*    *   1012
+*    *   1128
 
     *   B68
 
@@ -11191,7 +12467,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.95407
 
 
-*    *   1013
+*    *   1129
 
     *   B68
 
@@ -11202,7 +12478,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.95753
 
 
-*    *   1014
+*    *   1130
 
     *   B68
 
@@ -11213,7 +12489,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.0353
 
 
-*    *   1015
+*    *   1131
 
     *   B69
 
@@ -11224,7 +12500,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31025
 
 
-*    *   1016
+*    *   1132
 
     *   B70
 
@@ -11235,7 +12511,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.45516
 
 
-*    *   1017
+*    *   1133
 
     *   B70
 
@@ -11246,7 +12522,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36786
 
 
-*    *   1018
+*    *   1134
 
     *   B70
 
@@ -11257,7 +12533,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35002
 
 
-*    *   1019
+*    *   1135
 
     *   B70
 
@@ -11268,7 +12544,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.34434
 
 
-*    *   1020
+*    *   1136
 
     *   B70
 
@@ -11279,7 +12555,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.31899
 
 
-*    *   1021
+*    *   1137
 
     *   B70
 
@@ -11290,7 +12566,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.2903
 
 
-*    *   1022
+*    *   1138
 
     *   B70
 
@@ -11301,7 +12577,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.29532
 
 
-*    *   1023
+*    *   1139
 
     *   B70
 
@@ -11312,7 +12588,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.30302
 
 
-*    *   1024
+*    *   1140
 
     *   B70
 
@@ -11323,7 +12599,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.30872
 
 
-*    *   1025
+*    *   1141
 
     *   B70
 
@@ -11334,7 +12610,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.33942
 
 
-*    *   1026
+*    *   1142
 
     *   B70
 
@@ -11345,7 +12621,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.42658
 
 
-*    *   1027
+*    *   1143
+
+    *   B70
+
+    *   B70 Gronau (Westfalen), Sunderhook
+
+    *   52.18866
+
+    *   6.97487
+
+
+*    *   1144
+
+    *   B70
+
+    *   B70 Gronau (Westfalen), Amtsvenn, A
+
+    *   52.18419
+
+    *   6.97407
+
+
+*    *   1145
 
     *   B70
 
@@ -11356,7 +12654,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.84556
 
 
-*    *   1028
+*    *   1146
 
     *   B71
 
@@ -11367,7 +12665,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.75811
 
 
-*    *   1029
+*    *   1147
 
     *   B71
 
@@ -11378,7 +12676,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.80259
 
 
-*    *   1030
+*    *   1148
 
     *   B71
 
@@ -11389,7 +12687,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.87925
 
 
-*    *   1031
+*    *   1149
 
     *   B71
 
@@ -11400,7 +12698,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.08505
 
 
-*    *   1032
+*    *   1150
 
     *   B71
 
@@ -11411,7 +12709,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.15241
 
 
-*    *   1033
+*    *   1151
 
     *   B71
 
@@ -11422,7 +12720,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.15881
 
 
-*    *   1034
+*    *   1152
 
     *   B71
 
@@ -11433,7 +12731,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.16513
 
 
-*    *   1035
+*    *   1153
 
     *   B71
 
@@ -11444,7 +12742,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.17453
 
 
-*    *   1036
+*    *   1154
 
     *   B71
 
@@ -11455,7 +12753,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.24727
 
 
-*    *   1037
+*    *   1155
 
     *   B71
 
@@ -11466,7 +12764,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.25105
 
 
-*    *   1038
+*    *   1156
 
     *   B71
 
@@ -11477,7 +12775,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.27455
 
 
-*    *   1039
+*    *   1157
 
     *   B71
 
@@ -11488,7 +12786,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.28806
 
 
-*    *   1040
+*    *   1158
 
     *   B71
 
@@ -11499,7 +12797,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.29628
 
 
-*    *   1041
+*    *   1159
+
+    *   B71
+
+    *   B71 Rotenburg (Wümme), Uhlenkampsweg
+
+    *   53.18216
+
+    *   9.28645
+
+
+*    *   1160
 
     *   B71
 
@@ -11510,7 +12819,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.32164
 
 
-*    *   1042
+*    *   1161
 
     *   B71
 
@@ -11521,7 +12830,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.32256
 
 
-*    *   1043
+*    *   1162
 
     *   B71
 
@@ -11532,7 +12841,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.32353
 
 
-*    *   1044
+*    *   1163
 
     *   B71
 
@@ -11543,7 +12852,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.34167
 
 
-*    *   1045
+*    *   1164
 
     *   B71
 
@@ -11554,7 +12863,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.34653
 
 
-*    *   1046
+*    *   1165
 
     *   B71
 
@@ -11565,7 +12874,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.43133
 
 
-*    *   1047
+*    *   1166
+
+    *   B71
+
+    *   B71 Rotenburg (Wümme), Harburger Straße
+
+    *   53.1215
+
+    *   9.42648
+
+
+*    *   1167
 
     *   B71
 
@@ -11576,7 +12896,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41109
 
 
-*    *   1048
+*    *   1168
 
     *   B71
 
@@ -11587,7 +12907,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.4535
 
 
-*    *   1049
+*    *   1169
 
     *   B71
 
@@ -11598,7 +12918,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.46219
 
 
-*    *   1050
+*    *   1170
 
     *   B71
 
@@ -11609,7 +12929,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.47994
 
 
-*    *   1051
+*    *   1171
 
     *   B71
 
@@ -11620,7 +12940,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53063
 
 
-*    *   1052
+*    *   1172
 
     *   B71
 
@@ -11631,7 +12951,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.6997
 
 
-*    *   1053
+*    *   1173
 
     *   B71
 
@@ -11642,7 +12962,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.70539
 
 
-*    *   1054
+*    *   1174
 
     *   B71
 
@@ -11653,7 +12973,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.71543
 
 
-*    *   1055
+*    *   1175
 
     *   B71
 
@@ -11664,7 +12984,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.80137
 
 
-*    *   1056
+*    *   1176
 
     *   B71
 
@@ -11675,51 +12995,128 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.89966
 
 
-*    *   1057
+*    *   1177
 
     *   B71
 
-    *   B71 Soltau, B
+    *   B71 Soltau, An der Bundesstraße
 
-    *   53.008
+    *   53.00374
 
-    *   9.95042
-
-
-*    *   1058
-
-    *   B71
-
-    *   B71 Soltau, A
-
-    *   53.00899
-
-    *   9.95578
+    *   9.93988
 
 
-*    *   1059
+*    *   1178
 
     *   B71
 
-    *   B71 Suhlendorf, E
+    *   B71 Munster, Töpingen
 
-    *   52.93109
+    *   53.01698
 
-    *   10.80297
+    *   10.01393
 
 
-*    *   1060
+*    *   1179
 
     *   B71
 
-    *   B71 Salzwedel, A
+    *   B71 Munster, Ladestraße
 
-    *   52.88384
+    *   52.95512
 
-    *   10.98776
+    *   10.14348
 
 
-*    *   1061
+*    *   1180
+
+    *   B71
+
+    *   B71 Eimke
+
+    *   52.96657
+
+    *   10.31075
+
+
+*    *   1181
+
+    *   B71
+
+    *   B71 Gerdau, B
+
+    *   52.96738
+
+    *   10.35738
+
+
+*    *   1182
+
+    *   B71
+
+    *   B71 Gerdau, A
+
+    *   52.96737
+
+    *   10.38543
+
+
+*    *   1183
+
+    *   B71
+
+    *   B71 Uelzen, Brückenberg
+
+    *   52.95503
+
+    *   10.47934
+
+
+*    *   1184
+
+    *   B71
+
+    *   B71 Uelzen, Ernststraße
+
+    *   52.95992
+
+    *   10.55433
+
+
+*    *   1185
+
+    *   B71
+
+    *   B71 Suhlendorf, B
+
+    *   52.94163
+
+    *   10.73993
+
+
+*    *   1186
+
+    *   B71
+
+    *   B71 Suhlendorf, D
+
+    *   52.93137
+
+    *   10.80787
+
+
+*    *   1187
+
+    *   B71
+
+    *   B71 Salzwedel, Darsekau
+
+    *   52.88393
+
+    *   10.99568
+
+
+*    *   1188
 
     *   B71
 
@@ -11730,18 +13127,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.99867
 
 
-*    *   1062
-
-    *   B71
-
-    *   B71 Salzwedel, C
-
-    *   52.88356
-
-    *   11.00802
-
-
-*    *   1063
+*    *   1189
 
     *   B71
 
@@ -11752,7 +13138,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.3056
 
 
-*    *   1064
+*    *   1190
 
     *   B71
 
@@ -11763,7 +13149,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.49032
 
 
-*    *   1065
+*    *   1191
 
     *   B71
 
@@ -11774,7 +13160,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48964
 
 
-*    *   1066
+*    *   1192
 
     *   B71
 
@@ -11785,7 +13171,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.46287
 
 
-*    *   1067
+*    *   1193
 
     *   B71
 
@@ -11796,7 +13182,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.46039
 
 
-*    *   1068
+*    *   1194
 
     *   B72
 
@@ -11807,51 +13193,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.46478
 
 
-*    *   1069
+*    *   1195
 
     *   B72
 
-    *   B72 Saterland, A
+    *   B72 Friesoythe, Thüler Straße, A
 
-    *   53.11095
+    *   52.99028
 
-    *   7.66593
-
-
-*    *   1070
-
-    *   B72
-
-    *   B72 Saterland, Erlenstraße
-
-    *   53.10659
-
-    *   7.66798
+    *   7.88607
 
 
-*    *   1071
+*    *   1196
 
     *   B72
 
-    *   B72 Saterland, B
+    *   B72 Friesoythe, Waldweg
 
-    *   53.07736
+    *   52.95921
 
-    *   7.68788
+    *   7.92654
 
 
-*    *   1072
+*    *   1197
 
     *   B72
 
-    *   B72 Garrel, Friesoyther Straße
+    *   B72 Friesoythe, Thüler Straße, C
 
-    *   52.90095
+    *   52.94511
 
-    *   7.98484
+    *   7.93878
 
 
-*    *   1073
+*    *   1198
 
     *   B72
 
@@ -11862,7 +13237,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.10749
 
 
-*    *   1074
+*    *   1199
 
     *   B73
 
@@ -11873,7 +13248,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.71581
 
 
-*    *   1075
+*    *   1200
 
     *   B73
 
@@ -11884,7 +13259,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.77433
 
 
-*    *   1076
+*    *   1201
 
     *   B73
 
@@ -11895,7 +13270,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.01456
 
 
-*    *   1077
+*    *   1202
 
     *   B73
 
@@ -11906,7 +13281,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.08404
 
 
-*    *   1078
+*    *   1203
 
     *   B73
 
@@ -11917,7 +13292,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.22153
 
 
-*    *   1079
+*    *   1204
 
     *   B73
 
@@ -11928,7 +13303,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.32225
 
 
-*    *   1080
+*    *   1205
 
     *   B73
 
@@ -11939,7 +13314,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.38841
 
 
-*    *   1081
+*    *   1206
 
     *   B73
 
@@ -11950,7 +13325,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.52261
 
 
-*    *   1082
+*    *   1207
 
     *   B73
 
@@ -11961,7 +13336,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.55569
 
 
-*    *   1083
+*    *   1208
 
     *   B73
 
@@ -11972,7 +13347,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.59429
 
 
-*    *   1084
+*    *   1209
 
     *   B73
 
@@ -11983,7 +13358,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.60557
 
 
-*    *   1085
+*    *   1210
 
     *   B73
 
@@ -11994,7 +13369,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.89246
 
 
-*    *   1086
+*    *   1211
 
     *   B73
 
@@ -12005,18 +13380,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.89693
 
 
-*    *   1087
+*    *   1212
 
     *   B73
 
-    *   B73 Hamburg, Cuxhavener Straße, C
+    *   B73 Hamburg, Harburger Berge
 
     *   53.4709
 
     *   9.90514
 
 
-*    *   1088
+*    *   1213
+
+    *   B73
+
+    *   B73 Hamburg, A
+
+    *   53.47057
+
+    *   9.91951
+
+
+*    *   1214
 
     *   B73
 
@@ -12027,7 +13413,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.92351
 
 
-*    *   1089
+*    *   1215
 
     *   B74
 
@@ -12038,7 +13424,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.81496
 
 
-*    *   1090
+*    *   1216
 
     *   B74
 
@@ -12049,7 +13435,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.81672
 
 
-*    *   1091
+*    *   1217
 
     *   B74
 
@@ -12060,7 +13446,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.87659
 
 
-*    *   1092
+*    *   1218
 
     *   B74
 
@@ -12071,7 +13457,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.89577
 
 
-*    *   1093
+*    *   1219
 
     *   B74
 
@@ -12082,7 +13468,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.94368
 
 
-*    *   1094
+*    *   1220
 
     *   B74
 
@@ -12093,7 +13479,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.9452
 
 
-*    *   1095
+*    *   1221
 
     *   B74
 
@@ -12104,7 +13490,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.25645
 
 
-*    *   1096
+*    *   1222
 
     *   B74
 
@@ -12115,7 +13501,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.39459
 
 
-*    *   1097
+*    *   1223
 
     *   B74
 
@@ -12126,7 +13512,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41443
 
 
-*    *   1098
+*    *   1224
 
     *   B75
 
@@ -12137,7 +13523,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.67631
 
 
-*    *   1099
+*    *   1225
 
     *   B75
 
@@ -12148,7 +13534,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.45133
 
 
-*    *   1100
+*    *   1226
 
     *   B75
 
@@ -12159,7 +13545,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.69421
 
 
-*    *   1101
+*    *   1227
 
     *   B75
 
@@ -12170,7 +13556,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.74897
 
 
-*    *   1102
+*    *   1228
 
     *   B76
 
@@ -12181,7 +13567,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.61361
 
 
-*    *   1103
+*    *   1229
 
     *   B76
 
@@ -12192,7 +13578,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.83962
 
 
-*    *   1104
+*    *   1230
 
     *   B76
 
@@ -12203,7 +13589,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.87596
 
 
-*    *   1105
+*    *   1231
 
     *   B76
 
@@ -12214,7 +13600,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.26427
 
 
-*    *   1106
+*    *   1232
 
     *   B76
 
@@ -12225,7 +13611,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.49823
 
 
-*    *   1107
+*    *   1233
 
     *   B76
 
@@ -12236,7 +13622,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.51431
 
 
-*    *   1108
+*    *   1234
 
     *   B76
 
@@ -12247,7 +13633,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.76833
 
 
-*    *   1109
+*    *   1235
+
+    *   B77
+
+    *   B77 Hohenwestedt, A
+
+    *   54.08405
+
+    *   9.64993
+
+
+*    *   1236
 
     *   B77
 
@@ -12258,7 +13655,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.56106
 
 
-*    *   1110
+*    *   1237
 
     *   B77
 
@@ -12269,7 +13666,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.5514
 
 
-*    *   1111
+*    *   1238
 
     *   B79
 
@@ -12280,7 +13677,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.56423
 
 
-*    *   1112
+*    *   1239
 
     *   B79
 
@@ -12291,7 +13688,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.86815
 
 
-*    *   1113
+*    *   1240
+
+    *   B79
+
+    *   B79 Quedlinburg, A
+
+    *   51.8248
+
+    *   11.11959
+
+
+*    *   1241
+
+    *   B79
+
+    *   B79 Quedlinburg, B
+
+    *   51.81793
+
+    *   11.12419
+
+
+*    *   1242
 
     *   B80
 
@@ -12302,7 +13721,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.59091
 
 
-*    *   1114
+*    *   1243
 
     *   B80
 
@@ -12313,7 +13732,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.60116
 
 
-*    *   1115
+*    *   1244
 
     *   B80
 
@@ -12324,7 +13743,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.60078
 
 
-*    *   1116
+*    *   1245
 
     *   B80
 
@@ -12335,7 +13754,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.60517
 
 
-*    *   1117
+*    *   1246
 
     *   B80
 
@@ -12346,7 +13765,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63565
 
 
-*    *   1118
+*    *   1247
 
     *   B80
 
@@ -12357,7 +13776,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63396
 
 
-*    *   1119
+*    *   1248
 
     *   B80
 
@@ -12368,7 +13787,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.69429
 
 
-*    *   1120
+*    *   1249
 
     *   B80
 
@@ -12379,7 +13798,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.72711
 
 
-*    *   1121
+*    *   1250
 
     *   B80
 
@@ -12390,18 +13809,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.74272
 
 
-*    *   1122
+*    *   1251
 
     *   B80
 
-    *   B80 Halle (Saale), Holzplatz
+    *   B80 Marth, Miwepa
 
-    *   51.48057
+    *   51.38003
 
-    *   11.95745
+    *   9.98744
 
 
-*    *   1123
+*    *   1252
+
+    *   B80
+
+    *   B80 Seegebiet Mansfelder Land, Bungalowsiedlung
+
+    *   51.49418
+
+    *   11.64671
+
+
+*    *   1253
+
+    *   B80
+
+    *   B80 Seegebiet Mansfelder Land, Seeweg
+
+    *   51.48702
+
+    *   11.67739
+
+
+*    *   1254
 
     *   B81
 
@@ -12412,7 +13853,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.8323
 
 
-*    *   1124
+*    *   1255
 
     *   B81
 
@@ -12423,7 +13864,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.18074
 
 
-*    *   1125
+*    *   1256
 
     *   B82
 
@@ -12434,7 +13875,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.61121
 
 
-*    *   1126
+*    *   1257
 
     *   B82
 
@@ -12445,7 +13886,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.75166
 
 
-*    *   1127
+*    *   1258
 
     *   B83
 
@@ -12456,29 +13897,84 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.1309
 
 
-*    *   1128
+*    *   1259
 
     *   B83
 
-    *   B83 Bodenwerder, B
+    *   B83 Emmerthal
 
-    *   51.96106
+    *   52.00321
 
-    *   9.50129
+    *   9.42632
 
 
-*    *   1129
+*    *   1260
 
     *   B83
 
-    *   B83 Heinsen, E
+    *   B83 Hehlen
 
-    *   51.86633
+    *   51.98385
 
-    *   9.46044
+    *   9.45495
 
 
-*    *   1130
+*    *   1261
+
+    *   B83
+
+    *   B83 Bodenwerder, A
+
+    *   51.98409
+
+    *   9.49747
+
+
+*    *   1262
+
+    *   B83
+
+    *   B83 Bodenwerder, Hamelner Straße
+
+    *   51.98378
+
+    *   9.50144
+
+
+*    *   1263
+
+    *   B83
+
+    *   B83 Polle, Mühlenweg
+
+    *   51.90151
+
+    *   9.40663
+
+
+*    *   1264
+
+    *   B83
+
+    *   B83 Heinsen
+
+    *   51.87982
+
+    *   9.44742
+
+
+*    *   1265
+
+    *   B83
+
+    *   B83 Beverungen
+
+    *   51.71618
+
+    *   9.37376
+
+
+*    *   1266
 
     *   B83
 
@@ -12489,7 +13985,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.40921
 
 
-*    *   1131
+*    *   1267
 
     *   B83
 
@@ -12500,7 +13996,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.4092
 
 
-*    *   1132
+*    *   1268
 
     *   B83
 
@@ -12511,7 +14007,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41676
 
 
-*    *   1133
+*    *   1269
 
     *   B83
 
@@ -12522,7 +14018,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41014
 
 
-*    *   1134
+*    *   1270
 
     *   B83
 
@@ -12533,7 +14029,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41601
 
 
-*    *   1135
+*    *   1271
 
     *   B83
 
@@ -12544,7 +14040,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.40879
 
 
-*    *   1136
+*    *   1272
 
     *   B83
 
@@ -12555,7 +14051,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.4417
 
 
-*    *   1137
+*    *   1273
 
     *   B83
 
@@ -12566,7 +14062,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53198
 
 
-*    *   1138
+*    *   1274
 
     *   B83
 
@@ -12577,7 +14073,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.54139
 
 
-*    *   1139
+*    *   1275
 
     *   B83
 
@@ -12588,7 +14084,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.54026
 
 
-*    *   1140
+*    *   1276
 
     *   B83
 
@@ -12599,7 +14095,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.5391
 
 
-*    *   1141
+*    *   1277
 
     *   B83
 
@@ -12610,18 +14106,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63287
 
 
-*    *   1142
+*    *   1278
 
     *   B83
 
     *   B83 Rotenburg an der Fulda
 
-    *   50.9906
+    *   50.99057
 
-    *   9.77561
+    *   9.77564
 
 
-*    *   1143
+*    *   1279
 
     *   B84
 
@@ -12632,7 +14128,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.8775
 
 
-*    *   1144
+*    *   1280
 
     *   B84
 
@@ -12643,7 +14139,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.95833
 
 
-*    *   1145
+*    *   1281
 
     *   B84
 
@@ -12654,7 +14150,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.51462
 
 
-*    *   1146
+*    *   1282
 
     *   B84
 
@@ -12665,7 +14161,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.52034
 
 
-*    *   1147
+*    *   1283
 
     *   B84
 
@@ -12676,7 +14172,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.53307
 
 
-*    *   1148
+*    *   1284
 
     *   B84
 
@@ -12687,7 +14183,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.72251
 
 
-*    *   1149
+*    *   1285
 
     *   B84
 
@@ -12698,7 +14194,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.72184
 
 
-*    *   1150
+*    *   1286
+
+    *   B85
+
+    *   B85 Berga, Sangerhäuser Straße, A
+
+    *   51.45849
+
+    *   11.01477
+
+
+*    *   1287
+
+    *   B85
+
+    *   B85 Berga, Sangerhäuser Straße, B
+
+    *   51.4576
+
+    *   11.01139
+
+
+*    *   1288
 
     *   B85
 
@@ -12709,62 +14227,62 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.22308
 
 
-*    *   1151
+*    *   1289
 
     *   B85
 
-    *   B85 Rudolstadt, Herbert-Stauch-Straße
+    *   B85 Saalfeld/Saale, Am Gleitsch
 
-    *   50.7069
+    *   50.61978
 
-    *   11.31837
-
-
-*    *   1152
-
-    *   B85
-
-    *   B85 Probstzella, Am Bahnhof
-
-    *   50.52866
-
-    *   11.38384
+    *   11.38625
 
 
-*    *   1153
+*    *   1290
 
     *   B85
 
-    *   B85 Ludwigsstadt, A
+    *   B85 Probstzella, Arnsbacher Straße
 
-    *   50.47755
+    *   50.58434
 
-    *   11.39435
-
-
-*    *   1154
-
-    *   B85
-
-    *   B85 Kronach (Gemfr. Gebiet)
-
-    *   50.45853
-
-    *   11.37491
+    *   11.4076
 
 
-*    *   1155
+*    *   1291
 
     *   B85
 
-    *   B85 Ludwigsstadt, C
+    *   B85 Probstzella
+
+    *   50.5814
+
+    *   11.39513
+
+
+*    *   1292
+
+    *   B85
+
+    *   B85 Probstzella, Oberloquitz, B
+
+    *   50.56823
+
+    *   11.35602
+
+
+*    *   1293
+
+    *   B85
+
+    *   B85 Ludwigsstadt
 
     *   50.44833
 
     *   11.37284
 
 
-*    *   1156
+*    *   1294
 
     *   B85
 
@@ -12775,7 +14293,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.37057
 
 
-*    *   1157
+*    *   1295
 
     *   B85
 
@@ -12786,7 +14304,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.34739
 
 
-*    *   1158
+*    *   1296
 
     *   B85
 
@@ -12797,7 +14315,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.31971
 
 
-*    *   1159
+*    *   1297
 
     *   B85
 
@@ -12808,7 +14326,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.3184
 
 
-*    *   1160
+*    *   1298
 
     *   B85
 
@@ -12819,7 +14337,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.34838
 
 
-*    *   1161
+*    *   1299
 
     *   B85
 
@@ -12830,7 +14348,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.41912
 
 
-*    *   1162
+*    *   1300
 
     *   B85
 
@@ -12841,7 +14359,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.56593
 
 
-*    *   1163
+*    *   1301
 
     *   B85
 
@@ -12852,7 +14370,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.56837
 
 
-*    *   1164
+*    *   1302
 
     *   B85
 
@@ -12863,7 +14381,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.51463
 
 
-*    *   1165
+*    *   1303
 
     *   B85
 
@@ -12874,7 +14392,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.51766
 
 
-*    *   1166
+*    *   1304
 
     *   B85
 
@@ -12885,7 +14403,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.52331
 
 
-*    *   1167
+*    *   1305
 
     *   B85
 
@@ -12896,7 +14414,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.53842
 
 
-*    *   1168
+*    *   1306
 
     *   B85
 
@@ -12907,7 +14425,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.55044
 
 
-*    *   1169
+*    *   1307
 
     *   B85
 
@@ -12918,7 +14436,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.63643
 
 
-*    *   1170
+*    *   1308
 
     *   B85
 
@@ -12929,7 +14447,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.75338
 
 
-*    *   1171
+*    *   1309
 
     *   B85
 
@@ -12937,10 +14455,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   49.43832
 
-    *   11.87877
+    *   11.87878
 
 
-*    *   1172
+*    *   1310
 
     *   B85
 
@@ -12951,7 +14469,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.03987
 
 
-*    *   1173
+*    *   1311
 
     *   B85
 
@@ -12962,7 +14480,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.04477
 
 
-*    *   1174
+*    *   1312
 
     *   B85
 
@@ -12973,7 +14491,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.27477
 
 
-*    *   1175
+*    *   1313
 
     *   B85
 
@@ -12984,7 +14502,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.3124
 
 
-*    *   1176
+*    *   1314
 
     *   B85
 
@@ -12995,7 +14513,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.36063
 
 
-*    *   1177
+*    *   1315
 
     *   B85
 
@@ -13006,7 +14524,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.36322
 
 
-*    *   1178
+*    *   1316
 
     *   B85
 
@@ -13017,7 +14535,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39417
 
 
-*    *   1179
+*    *   1317
 
     *   B85
 
@@ -13028,7 +14546,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39772
 
 
-*    *   1180
+*    *   1318
 
     *   B85
 
@@ -13039,7 +14557,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.45698
 
 
-*    *   1181
+*    *   1319
 
     *   B85
 
@@ -13050,29 +14568,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.45948
 
 
-*    *   1182
+*    *   1320
 
     *   B85
 
-    *   B85 Roding, A
+    *   B85 Roding
 
     *   49.20388
 
     *   12.49389
 
 
-*    *   1183
-
-    *   B85
-
-    *   B85 Roding, B
-
-    *   49.20287
-
-    *   12.514
-
-
-*    *   1184
+*    *   1321
 
     *   B85
 
@@ -13083,7 +14590,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.79538
 
 
-*    *   1185
+*    *   1322
 
     *   B85
 
@@ -13094,7 +14601,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.85217
 
 
-*    *   1186
+*    *   1323
 
     *   B85
 
@@ -13105,7 +14612,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.86174
 
 
-*    *   1187
+*    *   1324
 
     *   B85
 
@@ -13116,7 +14623,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.86556
 
 
-*    *   1188
+*    *   1325
 
     *   B85
 
@@ -13127,7 +14634,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.92312
 
 
-*    *   1189
+*    *   1326
 
     *   B85
 
@@ -13138,7 +14645,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.98051
 
 
-*    *   1190
+*    *   1327
 
     *   B85
 
@@ -13149,7 +14656,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.13979
 
 
-*    *   1191
+*    *   1328
 
     *   B85
 
@@ -13160,7 +14667,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.24205
 
 
-*    *   1192
+*    *   1329
 
     *   B85
 
@@ -13171,7 +14678,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.29905
 
 
-*    *   1193
+*    *   1330
 
     *   B85
 
@@ -13182,7 +14689,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.30764
 
 
-*    *   1194
+*    *   1331
 
     *   B85
 
@@ -13193,7 +14700,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.30698
 
 
-*    *   1195
+*    *   1332
 
     *   B85
 
@@ -13204,7 +14711,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.31398
 
 
-*    *   1196
+*    *   1333
 
     *   B85
 
@@ -13215,7 +14722,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.34803
 
 
-*    *   1197
+*    *   1334
 
     *   B85
 
@@ -13226,7 +14733,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.37161
 
 
-*    *   1198
+*    *   1335
 
     *   B85
 
@@ -13237,7 +14744,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.37564
 
 
-*    *   1199
+*    *   1336
 
     *   B85
 
@@ -13248,7 +14755,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.40959
 
 
-*    *   1200
+*    *   1337
 
     *   B87
 
@@ -13259,7 +14766,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.18139
 
 
-*    *   1201
+*    *   1338
 
     *   B87
 
@@ -13270,7 +14777,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.25229
 
 
-*    *   1202
+*    *   1339
 
     *   B87
 
@@ -13281,7 +14788,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.82409
 
 
-*    *   1203
+*    *   1340
 
     *   B87
 
@@ -13292,7 +14799,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.79376
 
 
-*    *   1204
+*    *   1341
 
     *   B87
 
@@ -13303,7 +14810,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.29883
 
 
-*    *   1205
+*    *   1342
 
     *   B87
 
@@ -13314,7 +14821,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.8307
 
 
-*    *   1206
+*    *   1343
 
     *   B87
 
@@ -13325,7 +14832,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.73023
 
 
-*    *   1207
+*    *   1344
 
     *   B88
 
@@ -13336,7 +14843,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.43769
 
 
-*    *   1208
+*    *   1345
 
     *   B88
 
@@ -13347,7 +14854,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.58261
 
 
-*    *   1209
+*    *   1346
 
     *   B88
 
@@ -13358,7 +14865,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.6064
 
 
-*    *   1210
+*    *   1347
 
     *   B88
 
@@ -13369,7 +14876,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.20567
 
 
-*    *   1211
+*    *   1348
 
     *   B88
 
@@ -13380,7 +14887,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.57799
 
 
-*    *   1212
+*    *   1349
 
     *   B88
 
@@ -13391,7 +14898,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.69172
 
 
-*    *   1213
+*    *   1350
 
     *   B88
 
@@ -13402,7 +14909,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.71161
 
 
-*    *   1214
+*    *   1351
 
     *   B89
 
@@ -13413,7 +14920,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.02396
 
 
-*    *   1215
+*    *   1352
 
     *   B92
 
@@ -13424,7 +14931,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.31079
 
 
-*    *   1216
+*    *   1353
 
     *   B92
 
@@ -13435,7 +14942,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.3126
 
 
-*    *   1217
+*    *   1354
 
     *   B92
 
@@ -13446,18 +14953,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.17273
 
 
-*    *   1218
-
-    *   B92
-
-    *   B92 Greiz, Dölau
-
-    *   50.62509
-
-    *   12.18272
-
-
-*    *   1219
+*    *   1355
 
     *   B92
 
@@ -13468,7 +14964,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.19292
 
 
-*    *   1220
+*    *   1356
 
     *   B92
 
@@ -13479,7 +14975,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.19106
 
 
-*    *   1221
+*    *   1357
 
     *   B93
 
@@ -13490,7 +14986,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.56625
 
 
-*    *   1222
+*    *   1358
 
     *   B93
 
@@ -13501,7 +14997,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.50758
 
 
-*    *   1223
+*    *   1359
 
     *   B93
 
@@ -13512,7 +15008,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.49578
 
 
-*    *   1224
+*    *   1360
 
     *   B93
 
@@ -13523,7 +15019,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.44055
 
 
-*    *   1225
+*    *   1361
 
     *   B93
 
@@ -13534,7 +15030,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.49992
 
 
-*    *   1226
+*    *   1362
 
     *   B94
 
@@ -13545,7 +15041,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.83793
 
 
-*    *   1227
+*    *   1363
 
     *   B94
 
@@ -13556,7 +15052,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.99151
 
 
-*    *   1228
+*    *   1364
 
     *   B94
 
@@ -13567,7 +15063,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.20612
 
 
-*    *   1229
+*    *   1365
 
     *   B94
 
@@ -13578,7 +15074,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.33213
 
 
-*    *   1230
+*    *   1366
 
     *   B95
 
@@ -13589,7 +15085,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.02022
 
 
-*    *   1231
+*    *   1367
 
     *   B95
 
@@ -13600,7 +15096,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.02724
 
 
-*    *   1232
+*    *   1368
 
     *   B95
 
@@ -13611,7 +15107,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.02876
 
 
-*    *   1233
+*    *   1369
 
     *   B95
 
@@ -13622,7 +15118,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.97412
 
 
-*    *   1234
+*    *   1370
 
     *   B95
 
@@ -13633,7 +15129,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.96937
 
 
-*    *   1235
+*    *   1371
 
     *   B95
 
@@ -13644,7 +15140,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.93903
 
 
-*    *   1236
+*    *   1372
 
     *   B95
 
@@ -13655,7 +15151,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.93778
 
 
-*    *   1237
+*    *   1373
 
     *   B95
 
@@ -13666,7 +15162,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.93037
 
 
-*    *   1238
+*    *   1374
 
     *   B95
 
@@ -13677,7 +15173,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.92509
 
 
-*    *   1239
+*    *   1375
 
     *   B95
 
@@ -13688,7 +15184,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.91844
 
 
-*    *   1240
+*    *   1376
 
     *   B95
 
@@ -13699,7 +15195,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.91099
 
 
-*    *   1241
+*    *   1377
 
     *   B96
 
@@ -13710,7 +15206,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.52081
 
 
-*    *   1242
+*    *   1378
 
     *   B96
 
@@ -13721,7 +15217,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.47423
 
 
-*    *   1243
+*    *   1379
 
     *   B96
 
@@ -13732,7 +15228,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.41001
 
 
-*    *   1244
+*    *   1380
 
     *   B96
 
@@ -13743,7 +15239,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.81941
 
 
-*    *   1245
+*    *   1381
 
     *   B96
 
@@ -13754,7 +15250,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.64562
 
 
-*    *   1246
+*    *   1382
 
     *   B96
 
@@ -13765,7 +15261,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.36708
 
 
-*    *   1247
+*    *   1383
 
     *   B96
 
@@ -13776,7 +15272,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.34147
 
 
-*    *   1248
+*    *   1384
 
     *   B96
 
@@ -13787,7 +15283,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.30654
 
 
-*    *   1249
+*    *   1385
 
     *   B96
 
@@ -13798,7 +15294,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.19665
 
 
-*    *   1250
+*    *   1386
 
     *   B96
 
@@ -13809,7 +15305,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.17355
 
 
-*    *   1251
+*    *   1387
 
     *   B96
 
@@ -13820,7 +15316,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.15572
 
 
-*    *   1252
+*    *   1388
 
     *   B96
 
@@ -13831,7 +15327,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.16535
 
 
-*    *   1253
+*    *   1389
 
     *   B96
 
@@ -13842,7 +15338,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.12806
 
 
-*    *   1254
+*    *   1390
 
     *   B96
 
@@ -13853,7 +15349,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.10638
 
 
-*    *   1255
+*    *   1391
 
     *   B96
 
@@ -13864,7 +15360,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.17067
 
 
-*    *   1256
+*    *   1392
 
     *   B96
 
@@ -13875,7 +15371,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.42864
 
 
-*    *   1257
+*    *   1393
 
     *   B96
 
@@ -13886,7 +15382,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.43706
 
 
-*    *   1258
+*    *   1394
 
     *   B96
 
@@ -13897,7 +15393,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.47095
 
 
-*    *   1259
+*    *   1395
 
     *   B96
 
@@ -13908,18 +15404,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.62074
 
 
-*    *   1260
+*    *   1396
 
     *   B96A
 
     *   B96A Berlin, F
 
-    *   52.45726
+    *   52.45719
 
-    *   13.5087
+    *   13.50878
 
 
-*    *   1261
+*    *   1397
 
     *   B96A
 
@@ -13930,18 +15426,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.53237
 
 
-*    *   1262
-
-    *   B96A
-
-    *   B96A Berlin, Bulgarische Straße, A
-
-    *   52.48369
-
-    *   13.47778
-
-
-*    *   1263
+*    *   1398
 
     *   B96A
 
@@ -13952,7 +15437,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.46851
 
 
-*    *   1264
+*    *   1399
 
     *   B96A
 
@@ -13963,7 +15448,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.46699
 
 
-*    *   1265
+*    *   1400
 
     *   B96B
 
@@ -13974,7 +15459,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.54862
 
 
-*    *   1266
+*    *   1401
 
     *   B96B
 
@@ -13985,7 +15470,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.56596
 
 
-*    *   1267
+*    *   1402
 
     *   B97
 
@@ -13996,7 +15481,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.77379
 
 
-*    *   1268
+*    *   1403
 
     *   B97
 
@@ -14007,7 +15492,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.82481
 
 
-*    *   1269
+*    *   1404
 
     *   B97
 
@@ -14018,7 +15503,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.83471
 
 
-*    *   1270
+*    *   1405
 
     *   B97
 
@@ -14029,7 +15514,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.83815
 
 
-*    *   1271
+*    *   1406
 
     *   B97
 
@@ -14037,10 +15522,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   51.3841
 
-    *   14.08413
+    *   14.08412
 
 
-*    *   1272
+*    *   1407
 
     *   B97
 
@@ -14051,7 +15536,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.17985
 
 
-*    *   1273
+*    *   1408
 
     *   B97
 
@@ -14062,7 +15547,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.22637
 
 
-*    *   1274
+*    *   1409
 
     *   B98
 
@@ -14073,7 +15558,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.20156
 
 
-*    *   1275
+*    *   1410
 
     *   B98
 
@@ -14084,7 +15569,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.23605
 
 
-*    *   1276
+*    *   1411
 
     *   B98
 
@@ -14095,7 +15580,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.2704
 
 
-*    *   1277
+*    *   1412
 
     *   B98
 
@@ -14106,7 +15591,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.37465
 
 
-*    *   1278
+*    *   1413
 
     *   B98
 
@@ -14117,7 +15602,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.39884
 
 
-*    *   1279
+*    *   1414
 
     *   B98
 
@@ -14128,7 +15613,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.43358
 
 
-*    *   1280
+*    *   1415
 
     *   B98
 
@@ -14139,7 +15624,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.46089
 
 
-*    *   1281
+*    *   1416
 
     *   B99
 
@@ -14150,7 +15635,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.91074
 
 
-*    *   1282
+*    *   1417
 
     *   B99
 
@@ -14161,7 +15646,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.95445
 
 
-*    *   1283
+*    *   1418
 
     *   B99
 
@@ -14172,7 +15657,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.96692
 
 
-*    *   1284
+*    *   1419
 
     *   B99
 
@@ -14183,7 +15668,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.971
 
 
-*    *   1285
+*    *   1420
 
     *   B99
 
@@ -14194,7 +15679,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.97038
 
 
-*    *   1286
+*    *   1421
 
     *   B100
 
@@ -14205,7 +15690,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.64066
 
 
-*    *   1287
+*    *   1422
 
     *   B100
 
@@ -14216,7 +15701,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.60294
 
 
-*    *   1288
+*    *   1423
 
     *   B100
 
@@ -14227,7 +15712,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.58083
 
 
-*    *   1289
+*    *   1424
 
     *   B100
 
@@ -14238,18 +15723,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.57177
 
 
-*    *   1290
-
-    *   B100
-
-    *   B100 Gräfenhainichen, L136
-
-    *   51.72466
-
-    *   12.42881
-
-
-*    *   1291
+*    *   1425
 
     *   B100
 
@@ -14260,7 +15734,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.44644
 
 
-*    *   1292
+*    *   1426
 
     *   B100
 
@@ -14271,7 +15745,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.44592
 
 
-*    *   1293
+*    *   1427
 
     *   B100
 
@@ -14282,7 +15756,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.43696
 
 
-*    *   1294
+*    *   1428
 
     *   B101
 
@@ -14293,7 +15767,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.71911
 
 
-*    *   1295
+*    *   1429
 
     *   B101
 
@@ -14304,7 +15778,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.7895
 
 
-*    *   1296
+*    *   1430
 
     *   B101
 
@@ -14315,7 +15789,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.79269
 
 
-*    *   1297
+*    *   1431
 
     *   B101
 
@@ -14326,7 +15800,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.92122
 
 
-*    *   1298
+*    *   1432
 
     *   B101
 
@@ -14337,7 +15811,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.9412
 
 
-*    *   1299
+*    *   1433
 
     *   B101
 
@@ -14348,7 +15822,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.9429
 
 
-*    *   1300
+*    *   1434
 
     *   B101
 
@@ -14359,7 +15833,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.95963
 
 
-*    *   1301
+*    *   1435
 
     *   B101
 
@@ -14370,7 +15844,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.99934
 
 
-*    *   1302
+*    *   1436
 
     *   B101
 
@@ -14381,7 +15855,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.05007
 
 
-*    *   1303
+*    *   1437
 
     *   B101
 
@@ -14392,7 +15866,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.12186
 
 
-*    *   1304
+*    *   1438
 
     *   B101
 
@@ -14403,7 +15877,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.12436
 
 
-*    *   1305
+*    *   1439
 
     *   B101
 
@@ -14414,7 +15888,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.1357
 
 
-*    *   1306
+*    *   1440
 
     *   B101
 
@@ -14425,7 +15899,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.1727
 
 
-*    *   1307
+*    *   1441
 
     *   B101
 
@@ -14436,7 +15910,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.32309
 
 
-*    *   1308
+*    *   1442
 
     *   B101
 
@@ -14447,7 +15921,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.32126
 
 
-*    *   1309
+*    *   1443
 
     *   B101
 
@@ -14458,7 +15932,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.3365
 
 
-*    *   1310
+*    *   1444
 
     *   B101
 
@@ -14469,7 +15943,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.33111
 
 
-*    *   1311
+*    *   1445
 
     *   B101
 
@@ -14480,7 +15954,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.27542
 
 
-*    *   1312
+*    *   1446
 
     *   B101
 
@@ -14491,7 +15965,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.28264
 
 
-*    *   1313
+*    *   1447
 
     *   B101
 
@@ -14502,7 +15976,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.50599
 
 
-*    *   1314
+*    *   1448
 
     *   B101
 
@@ -14513,7 +15987,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.50555
 
 
-*    *   1315
+*    *   1449
 
     *   B101
 
@@ -14524,7 +15998,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.53341
 
 
-*    *   1316
+*    *   1450
 
     *   B101
 
@@ -14535,7 +16009,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.49998
 
 
-*    *   1317
+*    *   1451
 
     *   B101
 
@@ -14546,7 +16020,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.51874
 
 
-*    *   1318
+*    *   1452
 
     *   B101
 
@@ -14557,7 +16031,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.38166
 
 
-*    *   1319
+*    *   1453
 
     *   B101
 
@@ -14568,7 +16042,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.3577
 
 
-*    *   1320
+*    *   1454
 
     *   B101
 
@@ -14579,7 +16053,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.25439
 
 
-*    *   1321
+*    *   1455
 
     *   B101
 
@@ -14590,7 +16064,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.24025
 
 
-*    *   1322
+*    *   1456
 
     *   B101
 
@@ -14601,7 +16075,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.16509
 
 
-*    *   1323
+*    *   1457
 
     *   B101
 
@@ -14612,7 +16086,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.15595
 
 
-*    *   1324
+*    *   1458
 
     *   B101
 
@@ -14623,7 +16097,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.14666
 
 
-*    *   1325
+*    *   1459
 
     *   B101
 
@@ -14634,7 +16108,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.09706
 
 
-*    *   1326
+*    *   1460
 
     *   B101
 
@@ -14645,7 +16119,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.09802
 
 
-*    *   1327
+*    *   1461
 
     *   B101
 
@@ -14656,7 +16130,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.37641
 
 
-*    *   1328
+*    *   1462
 
     *   B102
 
@@ -14667,7 +16141,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.40895
 
 
-*    *   1329
+*    *   1463
 
     *   B102
 
@@ -14678,7 +16152,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.58946
 
 
-*    *   1330
+*    *   1464
 
     *   B102
 
@@ -14689,7 +16163,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.53227
 
 
-*    *   1331
+*    *   1465
 
     *   B102
 
@@ -14700,7 +16174,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.36105
 
 
-*    *   1332
+*    *   1466
 
     *   B103
 
@@ -14711,7 +16185,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.25294
 
 
-*    *   1333
+*    *   1467
 
     *   B103
 
@@ -14722,7 +16196,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.2423
 
 
-*    *   1334
+*    *   1468
 
     *   B103
 
@@ -14733,7 +16207,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.23601
 
 
-*    *   1335
+*    *   1469
+
+    *   B103
+
+    *   B103 Plau am See, Fuchsberg
+
+    *   53.42464
+
+    *   12.26616
+
+
+*    *   1470
 
     *   B103
 
@@ -14744,18 +16229,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.26367
 
 
-*    *   1336
+*    *   1471
 
-    *   B104
+    *   B103
 
-    *   B104 Lübeck, Herrentunnel
+    *   B103 Plau am See, Rostocker Chaussee
 
-    *   53.89815
+    *   53.50418
 
-    *   10.75609
+    *   12.26652
 
 
-*    *   1337
+*    *   1472
 
     *   B104
 
@@ -14766,7 +16251,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.28672
 
 
-*    *   1338
+*    *   1473
 
     *   B104
 
@@ -14777,7 +16262,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.29535
 
 
-*    *   1339
+*    *   1474
 
     *   B104
 
@@ -14788,7 +16273,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.57222
 
 
-*    *   1340
+*    *   1475
 
     *   B104
 
@@ -14799,7 +16284,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.58541
 
 
-*    *   1341
+*    *   1476
 
     *   B103
 
@@ -14810,7 +16295,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.20713
 
 
-*    *   1342
+*    *   1477
+
+    *   B104
+
+    *   B104 Malchin, B
+
+    *   53.73614
+
+    *   12.78009
+
+
+*    *   1478
+
+    *   B104
+
+    *   B104 Malchin, An der Landwehr
+
+    *   53.71969
+
+    *   12.81158
+
+
+*    *   1479
 
     *   B104
 
@@ -14821,7 +16328,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.86381
 
 
-*    *   1343
+*    *   1480
+
+    *   B104
+
+    *   B104 Reuterstadt Stavenhagen, Werdohler Straße, A
+
+    *   53.68837
+
+    *   12.92018
+
+
+*    *   1481
 
     *   B104
 
@@ -14832,7 +16350,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.94621
 
 
-*    *   1344
+*    *   1482
 
     *   B104
 
@@ -14843,7 +16361,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.19738
 
 
-*    *   1345
+*    *   1483
 
     *   B104
 
@@ -14854,7 +16372,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.35881
 
 
-*    *   1346
+*    *   1484
 
     *   B104
 
@@ -14865,7 +16383,73 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.23948
 
 
-*    *   1347
+*    *   1485
+
+    *   B105
+
+    *   B105 Selmsdorf, Straße der Technik
+
+    *   53.88388
+
+    *   10.86589
+
+
+*    *   1486
+
+    *   B105
+
+    *   B105 Dassow
+
+    *   53.90436
+
+    *   11.00715
+
+
+*    *   1487
+
+    *   B105
+
+    *   B105 Dassow, Holm, An der B105
+
+    *   53.90064
+
+    *   11.01745
+
+
+*    *   1488
+
+    *   B105
+
+    *   B105 Roggenstorf, Waldweg
+
+    *   53.89376
+
+    *   11.0348
+
+
+*    *   1489
+
+    *   B105
+
+    *   B105 Stepenitztal, B
+
+    *   53.87373
+
+    *   11.11199
+
+
+*    *   1490
+
+    *   B105
+
+    *   B105 Grevesmühlen, Wismarsche Straße
+
+    *   53.86568
+
+    *   11.21026
+
+
+*    *   1491
 
     *   B105
 
@@ -14876,29 +16460,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.87905
 
 
-*    *   1348
+*    *   1492
 
     *   B105
 
-    *   B105 Bad Doberan, A
+    *   B105 Bad Doberan, Am Buchenberg
 
-    *   54.09963
+    *   54.1081
 
-    *   11.88318
+    *   11.91579
 
 
-*    *   1349
+*    *   1493
 
     *   B105
 
-    *   B105 Mönchhagen, Transitstraße, A
+    *   B105 Mönchhagen, Transitstraße
 
     *   54.15684
 
     *   12.23217
 
 
-*    *   1350
+*    *   1494
+
+    *   B105
+
+    *   B105 Rövershagen, Schwarzenpfost
+
+    *   54.18709
+
+    *   12.27455
+
+
+*    *   1495
+
+    *   B105
+
+    *   B105 Ribnitz-Damgarten, Bei den Borger Tannen
+
+    *   54.2256
+
+    *   12.37297
+
+
+*    *   1496
 
     *   B105
 
@@ -14909,7 +16515,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.6551
 
 
-*    *   1351
+*    *   1497
 
     *   B105
 
@@ -14920,7 +16526,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.68198
 
 
-*    *   1352
+*    *   1498
 
     *   B105
 
@@ -14931,7 +16537,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.82723
 
 
-*    *   1353
+*    *   1499
 
     *   B105
 
@@ -14942,7 +16548,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.85785
 
 
-*    *   1354
+*    *   1500
 
     *   B105
 
@@ -14953,7 +16559,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.29318
 
 
-*    *   1355
+*    *   1501
 
     *   B105
 
@@ -14964,7 +16570,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.35045
 
 
-*    *   1356
+*    *   1502
 
     *   B106
 
@@ -14975,7 +16581,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.42219
 
 
-*    *   1357
+*    *   1503
 
     *   B107
 
@@ -14986,7 +16592,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.87549
 
 
-*    *   1358
+*    *   1504
 
     *   B107
 
@@ -14997,7 +16603,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.87247
 
 
-*    *   1359
+*    *   1505
 
     *   B107
 
@@ -15008,7 +16614,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.86665
 
 
-*    *   1360
+*    *   1506
 
     *   B107
 
@@ -15019,7 +16625,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.66415
 
 
-*    *   1361
+*    *   1507
 
     *   B107
 
@@ -15030,7 +16636,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.62461
 
 
-*    *   1362
+*    *   1508
 
     *   B107
 
@@ -15041,7 +16647,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.55702
 
 
-*    *   1363
+*    *   1509
 
     *   B107
 
@@ -15052,7 +16658,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.03003
 
 
-*    *   1364
+*    *   1510
+
+    *   B108
+
+    *   B108 Grabowhöfe, Kaltberger Tannen
+
+    *   53.59598
+
+    *   12.61909
+
+
+*    *   1511
 
     *   B109
 
@@ -15063,7 +16680,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.34434
 
 
-*    *   1365
+*    *   1512
 
     *   B109
 
@@ -15074,7 +16691,73 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.38748
 
 
-*    *   1366
+*    *   1513
+
+    *   B109
+
+    *   B109 Zehdenick, A
+
+    *   53.05592
+
+    *   13.40739
+
+
+*    *   1514
+
+    *   B109
+
+    *   B109 Mittenwalde, Herzfelder Straße
+
+    *   53.18386
+
+    *   13.66223
+
+
+*    *   1515
+
+    *   B109
+
+    *   B109 Prenzlau, J
+
+    *   53.23932
+
+    *   13.73113
+
+
+*    *   1516
+
+    *   B109
+
+    *   B109 Prenzlau, Sabinenkloster-Ziegelei
+
+    *   53.29106
+
+    *   13.80347
+
+
+*    *   1517
+
+    *   B109
+
+    *   B109 Prenzlau, Berliner Straße, A
+
+    *   53.30404
+
+    *   13.82388
+
+
+*    *   1518
+
+    *   B109
+
+    *   B109 Prenzlau, Neustädter Damm, C
+
+    *   53.30765
+
+    *   13.83226
+
+
+*    *   1519
 
     *   B109
 
@@ -15085,7 +16768,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.83441
 
 
-*    *   1367
+*    *   1520
 
     *   B109
 
@@ -15096,7 +16779,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.83802
 
 
-*    *   1368
+*    *   1521
+
+    *   B109
+
+    *   B109 Prenzlau, Neustädter Damm, B
+
+    *   53.30862
+
+    *   13.8398
+
+
+*    *   1522
 
     *   B109
 
@@ -15107,7 +16801,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.86815
 
 
-*    *   1369
+*    *   1523
 
     *   B109
 
@@ -15118,7 +16812,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.78397
 
 
-*    *   1370
+*    *   1524
 
     *   B109
 
@@ -15129,7 +16823,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.51292
 
 
-*    *   1371
+*    *   1525
 
     *   B110
 
@@ -15140,7 +16834,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.29936
 
 
-*    *   1372
+*    *   1526
 
     *   B110
 
@@ -15151,7 +16845,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.44734
 
 
-*    *   1373
+*    *   1527
 
     *   B110
 
@@ -15162,7 +16856,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.86406
 
 
-*    *   1374
+*    *   1528
 
     *   B110
 
@@ -15173,7 +16867,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.06828
 
 
-*    *   1375
+*    *   1529
 
     *   B110
 
@@ -15184,7 +16878,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.09463
 
 
-*    *   1376
+*    *   1530
 
     *   B110
 
@@ -15195,7 +16889,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.76732
 
 
-*    *   1377
+*    *   1531
 
     *   B110
 
@@ -15206,7 +16900,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.78668
 
 
-*    *   1378
+*    *   1532
 
     *   B110
 
@@ -15217,7 +16911,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.91902
 
 
-*    *   1379
+*    *   1533
 
     *   B111
 
@@ -15228,7 +16922,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.39785
 
 
-*    *   1380
+*    *   1534
 
     *   B111
 
@@ -15239,7 +16933,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.7729
 
 
-*    *   1381
+*    *   1535
 
     *   B111
 
@@ -15250,7 +16944,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.91249
 
 
-*    *   1382
+*    *   1536
 
     *   B111
 
@@ -15261,7 +16955,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.91627
 
 
-*    *   1383
+*    *   1537
 
     *   B111
 
@@ -15272,7 +16966,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.06667
 
 
-*    *   1384
+*    *   1538
 
     *   B112
 
@@ -15283,7 +16977,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.64303
 
 
-*    *   1385
+*    *   1539
 
     *   B112
 
@@ -15294,7 +16988,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.63563
 
 
-*    *   1386
+*    *   1540
 
     *   B113
 
@@ -15305,7 +16999,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.34708
 
 
-*    *   1387
+*    *   1541
 
     *   B113
 
@@ -15316,7 +17010,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.36622
 
 
-*    *   1388
+*    *   1542
 
     *   B115
 
@@ -15327,7 +17021,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.73225
 
 
-*    *   1389
+*    *   1543
 
     *   B115
 
@@ -15338,7 +17032,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.76774
 
 
-*    *   1390
+*    *   1544
 
     *   B115
 
@@ -15349,7 +17043,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.95185
 
 
-*    *   1391
+*    *   1545
+
+    *   B156
+
+    *   B156 Bautzen, Schlachthofstraße
+
+    *   51.17032
+
+    *   14.43338
+
+
+*    *   1546
 
     *   B156
 
@@ -15360,7 +17065,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.50111
 
 
-*    *   1392
+*    *   1547
 
     *   B156
 
@@ -15371,7 +17076,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.56541
 
 
-*    *   1393
+*    *   1548
 
     *   B156
 
@@ -15382,7 +17087,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.21534
 
 
-*    *   1394
+*    *   1549
 
     *   B156
 
@@ -15393,7 +17098,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.18652
 
 
-*    *   1395
+*    *   1550
 
     *   B156
 
@@ -15404,7 +17109,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.18224
 
 
-*    *   1396
+*    *   1551
 
     *   B156
 
@@ -15415,7 +17120,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.14697
 
 
-*    *   1397
+*    *   1552
 
     *   B158
 
@@ -15426,7 +17131,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.04639
 
 
-*    *   1398
+*    *   1553
 
     *   B158
 
@@ -15437,7 +17142,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.74935
 
 
-*    *   1399
+*    *   1554
 
     *   B158
 
@@ -15448,7 +17153,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.73832
 
 
-*    *   1400
+*    *   1555
 
     *   B167
 
@@ -15459,7 +17164,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.62332
 
 
-*    *   1401
+*    *   1556
 
     *   B167
 
@@ -15470,7 +17175,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.76742
 
 
-*    *   1402
+*    *   1557
 
     *   B167
 
@@ -15481,7 +17186,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.76929
 
 
-*    *   1403
+*    *   1558
 
     *   B167
 
@@ -15492,7 +17197,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.41116
 
 
-*    *   1404
+*    *   1559
 
     *   B167
 
@@ -15503,7 +17208,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.68638
 
 
-*    *   1405
+*    *   1560
 
     *   B167
 
@@ -15514,7 +17219,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.68791
 
 
-*    *   1406
+*    *   1561
 
     *   B167
 
@@ -15525,7 +17230,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.21842
 
 
-*    *   1407
+*    *   1562
 
     *   B169
 
@@ -15536,7 +17241,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.6126
 
 
-*    *   1408
+*    *   1563
 
     *   B169
 
@@ -15547,7 +17252,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.12659
 
 
-*    *   1409
+*    *   1564
 
     *   B169
 
@@ -15558,7 +17263,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.10795
 
 
-*    *   1410
+*    *   1565
 
     *   B169
 
@@ -15569,7 +17274,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.97067
 
 
-*    *   1411
+*    *   1566
 
     *   B169
 
@@ -15580,7 +17285,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.94414
 
 
-*    *   1412
+*    *   1567
 
     *   B169
 
@@ -15591,18 +17296,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.71132
 
 
-*    *   1413
+*    *   1568
 
     *   B169
 
-    *   B169 Rodewisch, B
+    *   B169 Stützengrün, Auerbacher Straße, A
+
+    *   50.53565
+
+    *   12.521
+
+
+*    *   1569
+
+    *   B169
+
+    *   B169 Rodewisch, Wernesgrüner Straße, B
 
     *   50.53212
 
     *   12.43125
 
 
-*    *   1414
+*    *   1570
+
+    *   B169
+
+    *   B169 Falkenstein/Vogtl., Falkensteiner Straße, B
+
+    *   50.47789
+
+    *   12.29263
+
+
+*    *   1571
 
     *   B170
 
@@ -15613,7 +17340,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.75801
 
 
-*    *   1415
+*    *   1572
 
     *   B170
 
@@ -15624,7 +17351,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.76485
 
 
-*    *   1416
+*    *   1573
 
     *   B170
 
@@ -15635,7 +17362,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.75253
 
 
-*    *   1417
+*    *   1574
 
     *   B170
 
@@ -15646,7 +17373,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.6765
 
 
-*    *   1418
+*    *   1575
 
     *   B170
 
@@ -15657,7 +17384,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.68611
 
 
-*    *   1419
+*    *   1576
 
     *   B170
 
@@ -15668,7 +17395,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.66994
 
 
-*    *   1420
+*    *   1577
 
     *   B170
 
@@ -15679,7 +17406,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.70546
 
 
-*    *   1421
+*    *   1578
 
     *   B170
 
@@ -15690,7 +17417,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.74395
 
 
-*    *   1422
+*    *   1579
 
     *   B171
 
@@ -15701,7 +17428,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.18708
 
 
-*    *   1423
+*    *   1580
 
     *   B171
 
@@ -15712,7 +17439,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.3226
 
 
-*    *   1424
+*    *   1581
+
+    *   B171
+
+    *   B171 Pfaffroda, Dresdner Straße, C
+
+    *   50.69592
+
+    *   13.37851
+
+
+*    *   1582
+
+    *   B171
+
+    *   B171 Pfaffroda, Dresdner Straße, A
+
+    *   50.6998
+
+    *   13.39317
+
+
+*    *   1583
+
+    *   B171
+
+    *   B171 Hartmannsdorf-Reichenau, Weißeritztal
+
+    *   50.81222
+
+    *   13.59656
+
+
+*    *   1584
+
+    *   B171
+
+    *   B171 Dippoldiswalde
+
+    *   50.82374
+
+    *   13.61158
+
+
+*    *   1585
 
     *   B172
 
@@ -15723,7 +17494,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.94935
 
 
-*    *   1425
+*    *   1586
 
     *   B172
 
@@ -15734,7 +17505,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.96317
 
 
-*    *   1426
+*    *   1587
 
     *   B172
 
@@ -15745,7 +17516,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.96595
 
 
-*    *   1427
+*    *   1588
 
     *   B172
 
@@ -15756,7 +17527,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.97703
 
 
-*    *   1428
+*    *   1589
 
     *   B172
 
@@ -15767,7 +17538,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.14168
 
 
-*    *   1429
+*    *   1590
 
     *   B173
 
@@ -15778,7 +17549,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.0411
 
 
-*    *   1430
+*    *   1591
 
     *   B173
 
@@ -15789,7 +17560,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.12684
 
 
-*    *   1431
+*    *   1592
 
     *   B173
 
@@ -15800,7 +17571,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.20222
 
 
-*    *   1432
+*    *   1593
 
     *   B173
 
@@ -15811,7 +17582,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.21139
 
 
-*    *   1433
+*    *   1594
 
     *   B173
 
@@ -15822,7 +17593,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.42567
 
 
-*    *   1434
+*    *   1595
 
     *   B173
 
@@ -15833,7 +17604,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.44812
 
 
-*    *   1435
+*    *   1596
 
     *   B173
 
@@ -15844,7 +17615,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.52605
 
 
-*    *   1436
+*    *   1597
 
     *   B173
 
@@ -15855,7 +17626,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.58341
 
 
-*    *   1437
+*    *   1598
 
     *   B173
 
@@ -15866,7 +17637,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.19177
 
 
-*    *   1438
+*    *   1599
 
     *   B173
 
@@ -15877,7 +17648,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.46342
 
 
-*    *   1439
+*    *   1600
 
     *   B173
 
@@ -15888,7 +17659,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.51226
 
 
-*    *   1440
+*    *   1601
 
     *   B173
 
@@ -15899,7 +17670,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.52077
 
 
-*    *   1441
+*    *   1602
 
     *   B173
 
@@ -15910,7 +17681,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.52459
 
 
-*    *   1442
+*    *   1603
 
     *   B173
 
@@ -15921,7 +17692,62 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.67131
 
 
-*    *   1443
+*    *   1604
+
+    *   B173
+
+    *   B173 Oberlungwitz, Hofer Straße, D
+
+    *   50.78521
+
+    *   12.71977
+
+
+*    *   1605
+
+    *   B173
+
+    *   B173 Oberlungwitz, Kirchweg
+
+    *   50.78571
+
+    *   12.72154
+
+
+*    *   1606
+
+    *   B173
+
+    *   B173 Oberlungwitz, Hofer Straße, C
+
+    *   50.78746
+
+    *   12.72585
+
+
+*    *   1607
+
+    *   B173
+
+    *   B173 Chemnitz, Hofer Straße, A
+
+    *   50.80263
+
+    *   12.80573
+
+
+*    *   1608
+
+    *   B173
+
+    *   B173 Chemnitz, An den Gütern
+
+    *   50.80624
+
+    *   12.82873
+
+
+*    *   1609
 
     *   B173
 
@@ -15932,7 +17758,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.95563
 
 
-*    *   1444
+*    *   1610
 
     *   B173
 
@@ -15943,7 +17769,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.96246
 
 
-*    *   1445
+*    *   1611
 
     *   B173
 
@@ -15954,7 +17780,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.05769
 
 
-*    *   1446
+*    *   1612
 
     *   B173
 
@@ -15965,7 +17791,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.22838
 
 
-*    *   1447
+*    *   1613
 
     *   B173
 
@@ -15976,7 +17802,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.35867
 
 
-*    *   1448
+*    *   1614
 
     *   B174
 
@@ -15987,7 +17813,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.22201
 
 
-*    *   1449
+*    *   1615
 
     *   B174
 
@@ -15998,7 +17824,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.11893
 
 
-*    *   1450
+*    *   1616
 
     *   B174
 
@@ -16009,7 +17835,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.11025
 
 
-*    *   1451
+*    *   1617
 
     *   B175
 
@@ -16020,7 +17846,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.09514
 
 
-*    *   1452
+*    *   1618
 
     *   B175
 
@@ -16031,7 +17857,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.21127
 
 
-*    *   1453
+*    *   1619
 
     *   B175
 
@@ -16042,7 +17868,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.29657
 
 
-*    *   1454
+*    *   1620
 
     *   B175
 
@@ -16053,7 +17879,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.32038
 
 
-*    *   1455
+*    *   1621
 
     *   B175
 
@@ -16064,7 +17890,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.36578
 
 
-*    *   1456
+*    *   1622
 
     *   B175
 
@@ -16075,7 +17901,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.41304
 
 
-*    *   1457
+*    *   1623
 
     *   B175
 
@@ -16086,7 +17912,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.47251
 
 
-*    *   1458
+*    *   1624
 
     *   B175
 
@@ -16097,7 +17923,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.52958
 
 
-*    *   1459
+*    *   1625
 
     *   B175
 
@@ -16108,7 +17934,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.81462
 
 
-*    *   1460
+*    *   1626
 
     *   B175
 
@@ -16119,7 +17945,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.96265
 
 
-*    *   1461
+*    *   1627
 
     *   B175
 
@@ -16130,7 +17956,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.01061
 
 
-*    *   1462
+*    *   1628
 
     *   B175
 
@@ -16141,7 +17967,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.14016
 
 
-*    *   1463
+*    *   1629
 
     *   B175
 
@@ -16152,7 +17978,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.14449
 
 
-*    *   1464
+*    *   1630
 
     *   B175
 
@@ -16163,7 +17989,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.15025
 
 
-*    *   1465
+*    *   1631
+
+    *   B176
+
+    *   B176 Kölleda, Johannistor
+
+    *   51.18266
+
+    *   11.2316
+
+
+*    *   1632
+
+    *   B176
+
+    *   B176 Kölleda, Finnebahndamm
+
+    *   51.19228
+
+    *   11.25991
+
+
+*    *   1633
 
     *   B176
 
@@ -16174,7 +18022,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.31935
 
 
-*    *   1466
+*    *   1634
 
     *   B176
 
@@ -16185,7 +18033,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.48616
 
 
-*    *   1467
+*    *   1635
 
     *   B176
 
@@ -16196,18 +18044,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.84177
 
 
-*    *   1468
-
-    *   B178
-
-    *   B178 Mittelherwigsdorf
-
-    *   50.94724
-
-    *   14.79075
-
-
-*    *   1469
+*    *   1636
 
     *   B179
 
@@ -16218,7 +18055,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.89461
 
 
-*    *   1470
+*    *   1637
 
     *   B179
 
@@ -16229,7 +18066,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.87149
 
 
-*    *   1471
+*    *   1638
 
     *   B179
 
@@ -16240,7 +18077,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.76945
 
 
-*    *   1472
+*    *   1639
 
     *   B179
 
@@ -16251,7 +18088,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.75985
 
 
-*    *   1473
+*    *   1640
 
     *   B179
 
@@ -16262,7 +18099,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.74163
 
 
-*    *   1474
+*    *   1641
 
     *   B179
 
@@ -16273,7 +18110,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.69837
 
 
-*    *   1475
+*    *   1642
 
     *   B179
 
@@ -16284,7 +18121,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.69792
 
 
-*    *   1476
+*    *   1643
 
     *   B179
 
@@ -16295,7 +18132,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.67567
 
 
-*    *   1477
+*    *   1644
 
     *   B179
 
@@ -16306,7 +18143,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.66712
 
 
-*    *   1478
+*    *   1645
 
     *   B179
 
@@ -16317,7 +18154,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.66649
 
 
-*    *   1479
+*    *   1646
 
     *   B179
 
@@ -16328,7 +18165,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.66068
 
 
-*    *   1480
+*    *   1647
+
+    *   B180
+
+    *   B180 Burkhardtsdorf, Straße des Friedens
+
+    *   50.71643
+
+    *   12.88164
+
+
+*    *   1648
 
     *   B180
 
@@ -16339,7 +18187,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.63436
 
 
-*    *   1481
+*    *   1649
 
     *   B180
 
@@ -16350,7 +18198,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.42599
 
 
-*    *   1482
+*    *   1650
 
     *   B180
 
@@ -16361,7 +18209,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.3314
 
 
-*    *   1483
+*    *   1651
 
     *   B180
 
@@ -16372,7 +18220,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.11785
 
 
-*    *   1484
+*    *   1652
 
     *   B180
 
@@ -16383,7 +18231,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.11128
 
 
-*    *   1485
+*    *   1653
 
     *   B180
 
@@ -16394,7 +18242,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.101
 
 
-*    *   1486
+*    *   1654
 
     *   B180
 
@@ -16405,7 +18253,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.4599
 
 
-*    *   1487
+*    *   1655
 
     *   B182
 
@@ -16416,7 +18264,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.18182
 
 
-*    *   1488
+*    *   1656
+
+    *   B182
+
+    *   B182 Bad Schmiedeberg, A
+
+    *   51.7425
+
+    *   12.75628
+
+
+*    *   1657
 
     *   B183A
 
@@ -16427,7 +18286,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.36556
 
 
-*    *   1489
+*    *   1658
 
     *   B183
 
@@ -16438,7 +18297,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.55116
 
 
-*    *   1490
+*    *   1659
 
     *   B183
 
@@ -16449,7 +18308,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.96636
 
 
-*    *   1491
+*    *   1660
 
     *   B183
 
@@ -16460,7 +18319,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.11565
 
 
-*    *   1492
+*    *   1661
 
     *   B184
 
@@ -16471,7 +18330,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.27379
 
 
-*    *   1493
+*    *   1662
 
     *   B184
 
@@ -16482,7 +18341,62 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.27349
 
 
-*    *   1494
+*    *   1663
+
+    *   B185
+
+    *   B185 Harzgerode, Kreisstraße
+
+    *   51.65071
+
+    *   11.118
+
+
+*    *   1664
+
+    *   B185
+
+    *   B185 Harzgerode, Drahtzug
+
+    *   51.66413
+
+    *   11.12769
+
+
+*    *   1665
+
+    *   B185
+
+    *   B185 Harzgerode, Bahnhof
+
+    *   51.67042
+
+    *   11.13359
+
+
+*    *   1666
+
+    *   B185
+
+    *   B185 Ballenstedt, A
+
+    *   51.69304
+
+    *   11.16217
+
+
+*    *   1667
+
+    *   B185
+
+    *   B185 Ballenstedt, Quedlinburger Straße
+
+    *   51.72222
+
+    *   11.21793
+
+
+*    *   1668
 
     *   B185
 
@@ -16493,7 +18407,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.00126
 
 
-*    *   1495
+*    *   1669
 
     *   B185
 
@@ -16504,7 +18418,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.99908
 
 
-*    *   1496
+*    *   1670
 
     *   B187
 
@@ -16515,7 +18429,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.34441
 
 
-*    *   1497
+*    *   1671
 
     *   B187
 
@@ -16526,7 +18440,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.1654
 
 
-*    *   1498
+*    *   1672
 
     *   B187A
 
@@ -16537,7 +18451,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.05633
 
 
-*    *   1499
+*    *   1673
 
     *   B188
 
@@ -16548,7 +18462,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.09698
 
 
-*    *   1500
+*    *   1674
 
     *   B188
 
@@ -16559,7 +18473,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.14219
 
 
-*    *   1501
+*    *   1675
 
     *   B188
 
@@ -16570,7 +18484,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.27047
 
 
-*    *   1502
+*    *   1676
 
     *   B188
 
@@ -16581,7 +18495,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.30665
 
 
-*    *   1503
+*    *   1677
 
     *   B188
 
@@ -16592,7 +18506,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.60727
 
 
-*    *   1504
+*    *   1678
 
     *   B188
 
@@ -16603,7 +18517,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.65699
 
 
-*    *   1505
+*    *   1679
 
     *   B188
 
@@ -16614,7 +18528,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.1236
 
 
-*    *   1506
+*    *   1680
 
     *   B188
 
@@ -16625,7 +18539,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.16209
 
 
-*    *   1507
+*    *   1681
 
     *   B188
 
@@ -16636,7 +18550,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.18929
 
 
-*    *   1508
+*    *   1682
 
     *   B188
 
@@ -16647,7 +18561,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.19277
 
 
-*    *   1509
+*    *   1683
 
     *   B188
 
@@ -16658,7 +18572,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.29059
 
 
-*    *   1510
+*    *   1684
 
     *   B188
 
@@ -16669,7 +18583,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.46989
 
 
-*    *   1511
+*    *   1685
 
     *   B188
 
@@ -16680,7 +18594,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.08352
 
 
-*    *   1512
+*    *   1686
 
     *   B188
 
@@ -16691,7 +18605,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.38495
 
 
-*    *   1513
+*    *   1687
 
     *   B188
 
@@ -16702,7 +18616,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.40655
 
 
-*    *   1514
+*    *   1688
 
     *   B188
 
@@ -16713,7 +18627,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.41753
 
 
-*    *   1515
+*    *   1689
 
     *   B188
 
@@ -16724,7 +18638,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.45131
 
 
-*    *   1516
+*    *   1690
 
     *   B188
 
@@ -16735,7 +18649,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.48164
 
 
-*    *   1517
+*    *   1691
 
     *   B188
 
@@ -16746,7 +18660,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.59269
 
 
-*    *   1518
+*    *   1692
 
     *   B189
 
@@ -16757,7 +18671,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.77935
 
 
-*    *   1519
+*    *   1693
 
     *   B189
 
@@ -16768,7 +18682,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.7315
 
 
-*    *   1520
+*    *   1694
 
     *   B189
 
@@ -16779,7 +18693,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.73144
 
 
-*    *   1521
+*    *   1695
 
     *   B189
 
@@ -16790,7 +18704,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.37976
 
 
-*    *   1522
+*    *   1696
 
     *   B190
 
@@ -16801,7 +18715,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.72095
 
 
-*    *   1523
+*    *   1697
 
     *   B191
 
@@ -16812,7 +18726,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.14896
 
 
-*    *   1524
+*    *   1698
 
     *   B191
 
@@ -16823,7 +18737,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.18642
 
 
-*    *   1525
+*    *   1699
 
     *   B191
 
@@ -16834,7 +18748,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.23317
 
 
-*    *   1526
+*    *   1700
 
     *   B191
 
@@ -16845,7 +18759,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.26247
 
 
-*    *   1527
+*    *   1701
 
     *   B191
 
@@ -16856,7 +18770,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.32193
 
 
-*    *   1528
+*    *   1702
 
     *   B191
 
@@ -16867,7 +18781,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.33883
 
 
-*    *   1529
+*    *   1703
 
     *   B191
 
@@ -16878,7 +18792,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.34507
 
 
-*    *   1530
+*    *   1704
 
     *   B191
 
@@ -16889,7 +18803,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.59636
 
 
-*    *   1531
+*    *   1705
 
     *   B191
 
@@ -16900,7 +18814,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.71272
 
 
-*    *   1532
+*    *   1706
 
     *   B191
 
@@ -16911,7 +18825,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.77112
 
 
-*    *   1533
+*    *   1707
 
     *   B191
 
@@ -16922,7 +18836,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.78685
 
 
-*    *   1534
+*    *   1708
 
     *   B191
 
@@ -16933,7 +18847,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.80571
 
 
-*    *   1535
+*    *   1709
 
     *   B191
 
@@ -16944,7 +18858,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.89453
 
 
-*    *   1536
+*    *   1710
 
     *   B191
 
@@ -16955,7 +18869,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.92907
 
 
-*    *   1537
+*    *   1711
 
     *   B191
 
@@ -16966,7 +18880,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.97473
 
 
-*    *   1538
+*    *   1712
 
     *   B191
 
@@ -16977,7 +18891,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.98684
 
 
-*    *   1539
+*    *   1713
 
     *   B191
 
@@ -16988,7 +18902,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.00964
 
 
-*    *   1540
+*    *   1714
 
     *   B191
 
@@ -16999,7 +18913,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.0135
 
 
-*    *   1541
+*    *   1715
 
     *   B191
 
@@ -17010,7 +18924,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.06482
 
 
-*    *   1542
+*    *   1716
 
     *   B191
 
@@ -17021,18 +18935,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.34935
 
 
-*    *   1543
-
-    *   B192
-
-    *   B192 Goldberg, Plauer Chaussee
-
-    *   53.58326
-
-    *   12.08948
-
-
-*    *   1544
+*    *   1717
 
     *   B192
 
@@ -17043,7 +18946,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.20927
 
 
-*    *   1545
+*    *   1718
+
+    *   B192
+
+    *   B192 Alt Schwerin, Am Waldeck
+
+    *   53.52192
+
+    *   12.32264
+
+
+*    *   1719
+
+    *   B192
+
+    *   B192 Alt Schwerin, Dorfstraße, A
+
+    *   53.51089
+
+    *   12.35494
+
+
+*    *   1720
+
+    *   B192
+
+    *   B192 Alt Schwerin, Malchower Weg
+
+    *   53.5062
+
+    *   12.36512
+
+
+*    *   1721
 
     *   B192
 
@@ -17054,7 +18990,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.62984
 
 
-*    *   1546
+*    *   1722
 
     *   B192
 
@@ -17065,7 +19001,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.9185
 
 
-*    *   1547
+*    *   1723
 
     *   B192
 
@@ -17076,7 +19012,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.92132
 
 
-*    *   1548
+*    *   1724
 
     *   B193
 
@@ -17087,7 +19023,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.06912
 
 
-*    *   1549
+*    *   1725
 
     *   B194
 
@@ -17098,7 +19034,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.91165
 
 
-*    *   1550
+*    *   1726
 
     *   B194
 
@@ -17109,7 +19045,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.96924
 
 
-*    *   1551
+*    *   1727
 
     *   B194
 
@@ -17120,7 +19056,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.00137
 
 
-*    *   1552
+*    *   1728
+
+    *   B194
+
+    *   B194 Demmin, Loitzer Straße, A
+
+    *   53.91508
+
+    *   13.0273
+
+
+*    *   1729
+
+    *   B194
+
+    *   B194 Süderholz, B
+
+    *   54.02772
+
+    *   13.1329
+
+
+*    *   1730
+
+    *   B194
+
+    *   B194 Süderholz, A
+
+    *   54.03971
+
+    *   13.1251
+
+
+*    *   1731
 
     *   B195
 
@@ -17131,7 +19100,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.9266
 
 
-*    *   1553
+*    *   1732
 
     *   B195
 
@@ -17142,7 +19111,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.89676
 
 
-*    *   1554
+*    *   1733
 
     *   B195
 
@@ -17153,7 +19122,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.91564
 
 
-*    *   1555
+*    *   1734
 
     *   B196
 
@@ -17164,7 +19133,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.41532
 
 
-*    *   1556
+*    *   1735
 
     *   B196
 
@@ -17175,7 +19144,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.54383
 
 
-*    *   1557
+*    *   1736
 
     *   B196
 
@@ -17186,7 +19155,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.57592
 
 
-*    *   1558
+*    *   1737
 
     *   B198
 
@@ -17197,7 +19166,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.3065
 
 
-*    *   1559
+*    *   1738
 
     *   B198
 
@@ -17208,7 +19177,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.63097
 
 
-*    *   1560
+*    *   1739
 
     *   B198
 
@@ -17219,7 +19188,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.89018
 
 
-*    *   1561
+*    *   1740
 
     *   B198
 
@@ -17230,7 +19199,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.84726
 
 
-*    *   1562
+*    *   1741
 
     *   B198
 
@@ -17241,7 +19210,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.94468
 
 
-*    *   1563
+*    *   1742
 
     *   B198
 
@@ -17252,40 +19221,95 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.94881
 
 
-*    *   1564
+*    *   1743
 
     *   B199
 
-    *   B199 Leck, Flensburger Straße, B
+    *   B199 Klixbüll
 
-    *   54.76287
+    *   54.80239
 
-    *   8.98163
+    *   8.88485
 
 
-*    *   1565
+*    *   1744
+
+    *   B199
+
+    *   B199 Klixbüll, Hauptstraße
+
+    *   54.79785
+
+    *   8.89207
+
+
+*    *   1745
+
+    *   B199
+
+    *   B199 Leck, A
+
+    *   54.78655
+
+    *   8.94052
+
+
+*    *   1746
 
     *   B199
 
     *   B199 Leck, Petersburger Weg
 
-    *   54.75871
+    *   54.7591
 
-    *   8.98781
+    *   8.98693
 
 
-*    *   1566
+*    *   1747
 
     *   B199
 
-    *   B199 Stadum
+    *   B199 Stadum, Hedwigsruh
 
-    *   54.74927
+    *   54.75156
 
-    *   9.01707
+    *   9.00938
 
 
-*    *   1567
+*    *   1748
+
+    *   B199
+
+    *   B199 Stadum, Am Tannenberg
+
+    *   54.74448
+
+    *   9.03335
+
+
+*    *   1749
+
+    *   B199
+
+    *   B199 Stadum, Mühlenberg
+
+    *   54.74425
+
+    *   9.03666
+
+
+*    *   1750
+
+    *   B199
+
+    *   B199 Stadum, Nikolaus-Büchert-Straße
+
+    *   54.74238
+
+    *   9.0517
+
+
+*    *   1751
 
     *   B199
 
@@ -17296,7 +19320,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.07419
 
 
-*    *   1568
+*    *   1752
+
+    *   B199
+
+    *   B199 Schafflund, Kätnerweg
+
+    *   54.76132
+
+    *   9.19026
+
+
+*    *   1753
+
+    *   B199
+
+    *   B199 Schafflund, Flensburger Chaussee
+
+    *   54.76277
+
+    *   9.19401
+
+
+*    *   1754
 
     *   B199
 
@@ -17307,18 +19353,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.22093
 
 
-*    *   1569
+*    *   1755
 
     *   B199
 
-    *   B199 Steinbergkirche
+    *   B199 Flensburg, Am Friedenshügel
 
-    *   54.76524
+    *   54.77465
 
-    *   9.7442
+    *   9.39933
 
 
-*    *   1570
+*    *   1756
+
+    *   B199
+
+    *   B199 Flensburg, Blocksberg
+
+    *   54.8046
+
+    *   9.49785
+
+
+*    *   1757
+
+    *   B199
+
+    *   B199 Langballig, Bundesstraße 199, A
+
+    *   54.80027
+
+    *   9.62067
+
+
+*    *   1758
+
+    *   B199
+
+    *   B199 Niesgrau, Bonsberg
+
+    *   54.74986
+
+    *   9.85535
+
+
+*    *   1759
 
     *   B199
 
@@ -17329,18 +19408,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.89388
 
 
-*    *   1571
+*    *   1760
 
     *   B199
 
-    *   B199 Kappeln
+    *   B199 Gelting, Bleicherfeld
 
-    *   54.66518
+    *   54.74074
 
-    *   9.92087
+    *   9.91658
 
 
-*    *   1572
+*    *   1761
 
     *   B200
 
@@ -17351,18 +19430,161 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.33172
 
 
-*    *   1573
+*    *   1762
 
     *   B200
 
-    *   B200 Schwesing
+    *   B200 Wanderup, B
 
-    *   54.51396
+    *   54.68647
 
-    *   9.11796
+    *   9.32618
 
 
-*    *   1574
+*    *   1763
+
+    *   B200
+
+    *   B200 Wanderup, Grünberg, A
+
+    *   54.67023
+
+    *   9.30577
+
+
+*    *   1764
+
+    *   B200
+
+    *   B200 Wanderup, Grünberg, B
+
+    *   54.66892
+
+    *   9.30421
+
+
+*    *   1765
+
+    *   B200
+
+    *   B200 Wanderup, Kragstedt-Moor
+
+    *   54.65742
+
+    *   9.29191
+
+
+*    *   1766
+
+    *   B200
+
+    *   B200 Janneby, Steinkoppel
+
+    *   54.64505
+
+    *   9.27502
+
+
+*    *   1767
+
+    *   B200
+
+    *   B200 Jörl, Kätnerweg
+
+    *   54.63577
+
+    *   9.26263
+
+
+*    *   1768
+
+    *   B200
+
+    *   B200 Viöl, Lurup
+
+    *   54.57599
+
+    *   9.17357
+
+
+*    *   1769
+
+    *   B200
+
+    *   B200 Viöl, Ackebroe
+
+    *   54.56558
+
+    *   9.16888
+
+
+*    *   1770
+
+    *   B200
+
+    *   B200 Husum, Moorschift
+
+    *   54.50098
+
+    *   9.09821
+
+
+*    *   1771
+
+    *   B201
+
+    *   B201 Schwesing, Mildstedter Weg
+
+    *   54.49136
+
+    *   9.13223
+
+
+*    *   1772
+
+    *   B201
+
+    *   B201 Schwesing, Schwesingfeld, A
+
+    *   54.5032
+
+    *   9.15192
+
+
+*    *   1773
+
+    *   B201
+
+    *   B201 Oster-Ohrstedt, Bihöftweg
+
+    *   54.51477
+
+    *   9.23561
+
+
+*    *   1774
+
+    *   B201
+
+    *   B201 Oster-Ohrstedt, Limsholmweg
+
+    *   54.51442
+
+    *   9.24899
+
+
+*    *   1775
+
+    *   B201
+
+    *   B201 Oster-Ohrstedt, Resieck
+
+    *   54.51322
+
+    *   9.25751
+
+
+*    *   1776
 
     *   B201
 
@@ -17373,18 +19595,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.27209
 
 
-*    *   1575
+*    *   1777
 
     *   B201
 
-    *   B201 Silberstedt, B
+    *   B201 Oster-Ohrstedt, Holzweg
 
-    *   54.51614
+    *   54.51127
 
-    *   9.35352
+    *   9.27545
 
 
-*    *   1576
+*    *   1778
 
     *   B201
 
@@ -17395,18 +19617,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.39945
 
 
-*    *   1577
+*    *   1779
 
-    *   B202
+    *   B201
 
-    *   B202 Sankt Peter-Ording
+    *   B201 Dollrottfeld, Lehmberg
 
-    *   54.32511
+    *   54.64268
 
-    *   8.61277
+    *   9.80913
 
 
-*    *   1578
+*    *   1780
 
     *   B202
 
@@ -17417,7 +19639,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.62979
 
 
-*    *   1579
+*    *   1781
 
     *   B202
 
@@ -17428,7 +19650,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.63823
 
 
-*    *   1580
+*    *   1782
 
     *   B202
 
@@ -17439,7 +19661,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.65881
 
 
-*    *   1581
+*    *   1783
 
     *   B202
 
@@ -17450,7 +19672,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72413
 
 
-*    *   1582
+*    *   1784
 
     *   B202
 
@@ -17461,7 +19683,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.75675
 
 
-*    *   1583
+*    *   1785
 
     *   B202
 
@@ -17472,7 +19694,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.76488
 
 
-*    *   1584
+*    *   1786
 
     *   B202
 
@@ -17483,18 +19705,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.88126
 
 
-*    *   1585
+*    *   1787
 
     *   B202
 
-    *   B202 Friedrichstadt, Am Deich, B
+    *   B202 Seeth, Stapeöholmer Kaserne
 
-    *   54.37303
+    *   54.36301
 
-    *   9.08911
+    *   9.18989
 
 
-*    *   1586
+*    *   1788
 
     *   B202
 
@@ -17505,29 +19727,73 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.30712
 
 
-*    *   1587
+*    *   1789
+
+    *   B202
+
+    *   B202 Fockbek, Fockbekfeld, B
+
+    *   54.30854
+
+    *   9.5667
+
+
+*    *   1790
+
+    *   B202
+
+    *   B202 Rastorf, A
+
+    *   54.27903
+
+    *   10.28624
+
+
+*    *   1791
+
+    *   B202
+
+    *   B202 Rastorf, Hoheneichen
+
+    *   54.27883
+
+    *   10.31721
+
+
+*    *   1792
 
     *   B202
 
     *   B202 Rastorf, B
 
-    *   54.27906
+    *   54.2791
 
-    *   10.3197
+    *   10.31994
 
 
-*    *   1588
+*    *   1793
 
     *   B202
 
-    *   B202 Lammershagen
+    *   B202 Rastorf, C
 
-    *   54.28379
+    *   54.27993
 
-    *   10.47711
+    *   10.32327
 
 
-*    *   1589
+*    *   1794
+
+    *   B202
+
+    *   B202 Rastorf, Klintener Weg
+
+    *   54.28077
+
+    *   10.35336
+
+
+*    *   1795
 
     *   B203
 
@@ -17538,7 +19804,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.18271
 
 
-*    *   1590
+*    *   1796
 
     *   B203
 
@@ -17549,7 +19815,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.25048
 
 
-*    *   1591
+*    *   1797
 
     *   B203
 
@@ -17560,7 +19826,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.27222
 
 
-*    *   1592
+*    *   1798
 
     *   B203
 
@@ -17571,7 +19837,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53305
 
 
-*    *   1593
+*    *   1799
 
     *   B203
 
@@ -17582,7 +19848,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53343
 
 
-*    *   1594
+*    *   1800
 
     *   B203
 
@@ -17593,7 +19859,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.55119
 
 
-*    *   1595
+*    *   1801
 
     *   B203
 
@@ -17604,7 +19870,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.69594
 
 
-*    *   1596
+*    *   1802
 
     *   B203
 
@@ -17615,7 +19881,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.70463
 
 
-*    *   1597
+*    *   1803
 
     *   B203
 
@@ -17626,7 +19892,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.70341
 
 
-*    *   1598
+*    *   1804
 
     *   B203
 
@@ -17637,7 +19903,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.89554
 
 
-*    *   1599
+*    *   1805
 
     *   B205
 
@@ -17648,7 +19914,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.23016
 
 
-*    *   1600
+*    *   1806
 
     *   B206
 
@@ -17659,7 +19925,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.54886
 
 
-*    *   1601
+*    *   1807
 
     *   B206
 
@@ -17670,7 +19936,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.57099
 
 
-*    *   1602
+*    *   1808
 
     *   B206
 
@@ -17681,7 +19947,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63594
 
 
-*    *   1603
+*    *   1809
 
     *   B206
 
@@ -17692,7 +19958,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.7999
 
 
-*    *   1604
+*    *   1810
 
     *   B206
 
@@ -17703,7 +19969,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.82822
 
 
-*    *   1605
+*    *   1811
 
     *   B206
 
@@ -17714,7 +19980,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.0633
 
 
-*    *   1606
+*    *   1812
 
     *   B206
 
@@ -17725,7 +19991,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.09877
 
 
-*    *   1607
+*    *   1813
 
     *   B206
 
@@ -17736,7 +20002,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.11915
 
 
-*    *   1608
+*    *   1814
 
     *   B206
 
@@ -17747,7 +20013,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.15388
 
 
-*    *   1609
+*    *   1815
 
     *   B207
 
@@ -17758,7 +20024,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.56322
 
 
-*    *   1610
+*    *   1816
 
     *   B207
 
@@ -17769,7 +20035,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.65518
 
 
-*    *   1611
+*    *   1817
 
     *   B207
 
@@ -17780,7 +20046,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.21483
 
 
-*    *   1612
+*    *   1818
 
     *   B208
 
@@ -17791,7 +20057,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.67865
 
 
-*    *   1613
+*    *   1819
 
     *   B208
 
@@ -17802,7 +20068,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.85344
 
 
-*    *   1614
+*    *   1820
 
     *   B209
 
@@ -17813,7 +20079,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.5181
 
 
-*    *   1615
+*    *   1821
 
     *   B209
 
@@ -17824,7 +20090,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.31534
 
 
-*    *   1616
+*    *   1822
 
     *   B209
 
@@ -17835,7 +20101,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.12802
 
 
-*    *   1617
+*    *   1823
 
     *   B209
 
@@ -17846,7 +20112,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.69367
 
 
-*    *   1618
+*    *   1824
 
     *   B209
 
@@ -17857,7 +20123,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.66844
 
 
-*    *   1619
+*    *   1825
 
     *   B209
 
@@ -17868,7 +20134,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.3425
 
 
-*    *   1620
+*    *   1826
 
     *   B209
 
@@ -17879,7 +20145,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.29472
 
 
-*    *   1621
+*    *   1827
 
     *   B210
 
@@ -17890,7 +20156,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49075
 
 
-*    *   1622
+*    *   1828
 
     *   B210
 
@@ -17901,7 +20167,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.6308
 
 
-*    *   1623
+*    *   1829
 
     *   B210
 
@@ -17912,7 +20178,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.6371
 
 
-*    *   1624
+*    *   1830
 
     *   B210
 
@@ -17923,7 +20189,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8631
 
 
-*    *   1625
+*    *   1831
 
     *   B210
 
@@ -17934,7 +20200,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.86691
 
 
-*    *   1626
+*    *   1832
 
     *   B212
 
@@ -17945,7 +20211,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.57402
 
 
-*    *   1627
+*    *   1833
 
     *   B212
 
@@ -17956,7 +20222,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.57888
 
 
-*    *   1628
+*    *   1834
 
     *   B212
 
@@ -17967,7 +20233,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.47468
 
 
-*    *   1629
+*    *   1835
 
     *   B212
 
@@ -17978,7 +20244,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.52718
 
 
-*    *   1630
+*    *   1836
 
     *   B213
 
@@ -17989,7 +20255,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.12758
 
 
-*    *   1631
+*    *   1837
 
     *   B213
 
@@ -18000,7 +20266,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.45735
 
 
-*    *   1632
+*    *   1838
 
     *   B213
 
@@ -18011,7 +20277,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.83047
 
 
-*    *   1633
+*    *   1839
 
     *   B213
 
@@ -18022,7 +20288,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.83423
 
 
-*    *   1634
+*    *   1840
 
     *   B213
 
@@ -18033,7 +20299,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.89575
 
 
-*    *   1635
+*    *   1841
 
     *   B213
 
@@ -18044,7 +20310,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.56986
 
 
-*    *   1636
+*    *   1842
 
     *   B214
 
@@ -18055,7 +20321,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.42785
 
 
-*    *   1637
+*    *   1843
 
     *   B214
 
@@ -18066,7 +20332,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.43378
 
 
-*    *   1638
+*    *   1844
 
     *   B214
 
@@ -18077,7 +20343,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.62128
 
 
-*    *   1639
+*    *   1845
 
     *   B214
 
@@ -18088,7 +20354,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.67898
 
 
-*    *   1640
+*    *   1846
 
     *   B214
 
@@ -18099,7 +20365,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.7651
 
 
-*    *   1641
+*    *   1847
 
     *   B214
 
@@ -18110,7 +20376,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.83523
 
 
-*    *   1642
+*    *   1848
 
     *   B214
 
@@ -18121,7 +20387,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.90866
 
 
-*    *   1643
+*    *   1849
 
     *   B214
 
@@ -18132,7 +20398,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.09018
 
 
-*    *   1644
+*    *   1850
 
     *   B214
 
@@ -18143,7 +20409,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12129
 
 
-*    *   1645
+*    *   1851
 
     *   B214
 
@@ -18154,7 +20420,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.19989
 
 
-*    *   1646
+*    *   1852
 
     *   B214
 
@@ -18165,7 +20431,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.51177
 
 
-*    *   1647
+*    *   1853
 
     *   B214
 
@@ -18176,7 +20442,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.53079
 
 
-*    *   1648
+*    *   1854
 
     *   B214
 
@@ -18187,7 +20453,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04301
 
 
-*    *   1649
+*    *   1855
 
     *   B214
 
@@ -18198,7 +20464,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41022
 
 
-*    *   1650
+*    *   1856
 
     *   B214
 
@@ -18209,7 +20475,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.44974
 
 
-*    *   1651
+*    *   1857
 
     *   B214
 
@@ -18220,7 +20486,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.68131
 
 
-*    *   1652
+*    *   1858
 
     *   B214
 
@@ -18231,7 +20497,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.21025
 
 
-*    *   1653
+*    *   1859
 
     *   B214
 
@@ -18242,7 +20508,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.27373
 
 
-*    *   1654
+*    *   1860
 
     *   B214
 
@@ -18253,7 +20519,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.276
 
 
-*    *   1655
+*    *   1861
 
     *   B215
 
@@ -18264,7 +20530,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.37215
 
 
-*    *   1656
+*    *   1862
 
     *   B215
 
@@ -18275,7 +20541,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.28869
 
 
-*    *   1657
+*    *   1863
 
     *   B215
 
@@ -18286,7 +20552,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.2861
 
 
-*    *   1658
+*    *   1864
 
     *   B215
 
@@ -18297,7 +20563,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.27031
 
 
-*    *   1659
+*    *   1865
 
     *   B215
 
@@ -18308,7 +20574,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.23344
 
 
-*    *   1660
+*    *   1866
 
     *   B215
 
@@ -18319,7 +20585,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.23112
 
 
-*    *   1661
+*    *   1867
 
     *   B215
 
@@ -18330,7 +20596,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.23071
 
 
-*    *   1662
+*    *   1868
 
     *   B215
 
@@ -18341,7 +20607,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.23714
 
 
-*    *   1663
+*    *   1869
 
     *   B216
 
@@ -18352,7 +20618,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.51581
 
 
-*    *   1664
+*    *   1870
 
     *   B216
 
@@ -18363,7 +20629,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.6589
 
 
-*    *   1665
+*    *   1871
 
     *   B216
 
@@ -18374,7 +20640,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.6621
 
 
-*    *   1666
+*    *   1872
 
     *   B216
 
@@ -18385,7 +20651,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.86845
 
 
-*    *   1667
+*    *   1873
 
     *   B216
 
@@ -18396,7 +20662,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.89244
 
 
-*    *   1668
+*    *   1874
 
     *   B216
 
@@ -18407,7 +20673,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.89903
 
 
-*    *   1669
+*    *   1875
 
     *   B216
 
@@ -18418,7 +20684,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.99167
 
 
-*    *   1670
+*    *   1876
 
     *   B218
 
@@ -18429,7 +20695,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.85572
 
 
-*    *   1671
+*    *   1877
 
     *   B218
 
@@ -18440,7 +20706,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.86087
 
 
-*    *   1672
+*    *   1878
 
     *   B220
 
@@ -18451,18 +20717,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.22678
 
 
-*    *   1673
-
-    *   B226
-
-    *   Bochum/Witten, Kreuz (Übergang A 448/B 226)
-
-    *   51.46519
-
-    *   7.27564
-
-
-*    *   1674
+*    *   1879
 
     *   B228
 
@@ -18473,7 +20728,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.9841
 
 
-*    *   1675
+*    *   1880
 
     *   B229
 
@@ -18484,7 +20739,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.3295
 
 
-*    *   1676
+*    *   1881
 
     *   B229
 
@@ -18495,7 +20750,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.38245
 
 
-*    *   1677
+*    *   1882
 
     *   B229
 
@@ -18506,7 +20761,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.40309
 
 
-*    *   1678
+*    *   1883
 
     *   B229
 
@@ -18517,7 +20772,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.42381
 
 
-*    *   1679
+*    *   1884
 
     *   B229
 
@@ -18528,7 +20783,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.45529
 
 
-*    *   1680
+*    *   1885
 
     *   B229
 
@@ -18539,7 +20794,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.47057
 
 
-*    *   1681
+*    *   1886
 
     *   B229
 
@@ -18550,7 +20805,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.48111
 
 
-*    *   1682
+*    *   1887
 
     *   B229
 
@@ -18561,7 +20816,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.51554
 
 
-*    *   1683
+*    *   1888
 
     *   B229
 
@@ -18572,7 +20827,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.58593
 
 
-*    *   1684
+*    *   1889
 
     *   B229
 
@@ -18583,7 +20838,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.64638
 
 
-*    *   1685
+*    *   1890
 
     *   B229
 
@@ -18594,7 +20849,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.66628
 
 
-*    *   1686
+*    *   1891
 
     *   B229
 
@@ -18605,7 +20860,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.67739
 
 
-*    *   1687
+*    *   1892
 
     *   B229
 
@@ -18616,7 +20871,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.68226
 
 
-*    *   1688
+*    *   1893
 
     *   B229
 
@@ -18627,7 +20882,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.69446
 
 
-*    *   1689
+*    *   1894
 
     *   B229
 
@@ -18638,7 +20893,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.719
 
 
-*    *   1690
+*    *   1895
 
     *   B229
 
@@ -18649,7 +20904,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.72078
 
 
-*    *   1691
+*    *   1896
+
+    *   B230
+
+    *   B230 Mönchengladbach, Mülforter Straße
+
+    *   51.15084
+
+    *   6.47529
+
+
+*    *   1897
+
+    *   B230
+
+    *   B230 Mönchengladbach, Hampesweg
+
+    *   51.15704
+
+    *   6.51058
+
+
+*    *   1898
+
+    *   B230
+
+    *   B230 Korschenbroich, Am Birkenbusch
+
+    *   51.17153
+
+    *   6.55675
+
+
+*    *   1899
 
     *   B234
 
@@ -18660,7 +20948,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.29356
 
 
-*    *   1692
+*    *   1900
 
     *   B234
 
@@ -18671,7 +20959,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.32504
 
 
-*    *   1693
+*    *   1901
 
     *   B234
 
@@ -18682,7 +20970,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35296
 
 
-*    *   1694
+*    *   1902
 
     *   B234
 
@@ -18693,7 +20981,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.38929
 
 
-*    *   1695
+*    *   1903
 
     *   B235
 
@@ -18704,7 +20992,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.493
 
 
-*    *   1696
+*    *   1904
 
     *   B235
 
@@ -18715,7 +21003,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49709
 
 
-*    *   1697
+*    *   1905
 
     *   B235
 
@@ -18726,7 +21014,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49595
 
 
-*    *   1698
+*    *   1906
 
     *   B235
 
@@ -18737,7 +21025,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.48844
 
 
-*    *   1699
+*    *   1907
 
     *   B235
 
@@ -18748,7 +21036,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.48958
 
 
-*    *   1700
+*    *   1908
 
     *   B235
 
@@ -18759,7 +21047,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.491
 
 
-*    *   1701
+*    *   1909
 
     *   B235
 
@@ -18770,7 +21058,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49168
 
 
-*    *   1702
+*    *   1910
 
     *   B235
 
@@ -18781,7 +21069,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49249
 
 
-*    *   1703
+*    *   1911
 
     *   B235
 
@@ -18792,7 +21080,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49315
 
 
-*    *   1704
+*    *   1912
 
     *   B235
 
@@ -18803,7 +21091,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49287
 
 
-*    *   1705
+*    *   1913
 
     *   B235
 
@@ -18814,7 +21102,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.48749
 
 
-*    *   1706
+*    *   1914
 
     *   B235
 
@@ -18825,7 +21113,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.46942
 
 
-*    *   1707
+*    *   1915
 
     *   B235
 
@@ -18836,7 +21124,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.4684
 
 
-*    *   1708
+*    *   1916
 
     *   B235
 
@@ -18847,7 +21135,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.4659
 
 
-*    *   1709
+*    *   1917
 
     *   B235
 
@@ -18858,7 +21146,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.46153
 
 
-*    *   1710
+*    *   1918
 
     *   B235
 
@@ -18869,7 +21157,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.43227
 
 
-*    *   1711
+*    *   1919
 
     *   B235
 
@@ -18880,7 +21168,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.42645
 
 
-*    *   1712
+*    *   1920
 
     *   B235
 
@@ -18891,7 +21179,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.40283
 
 
-*    *   1713
+*    *   1921
 
     *   B235
 
@@ -18902,7 +21190,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.39772
 
 
-*    *   1714
+*    *   1922
 
     *   B235
 
@@ -18913,7 +21201,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36732
 
 
-*    *   1715
+*    *   1923
 
     *   B235
 
@@ -18924,7 +21212,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36546
 
 
-*    *   1716
+*    *   1924
 
     *   B235
 
@@ -18935,7 +21223,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36123
 
 
-*    *   1717
+*    *   1925
 
     *   B235
 
@@ -18946,7 +21234,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35645
 
 
-*    *   1718
+*    *   1926
 
     *   B235
 
@@ -18957,7 +21245,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35302
 
 
-*    *   1719
+*    *   1927
 
     *   B235
 
@@ -18968,7 +21256,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35196
 
 
-*    *   1720
+*    *   1928
 
     *   B235
 
@@ -18979,7 +21267,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35056
 
 
-*    *   1721
+*    *   1929
 
     *   B236
 
@@ -18990,7 +21278,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.70588
 
 
-*    *   1722
+*    *   1930
 
     *   B236
 
@@ -19001,7 +21289,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.69872
 
 
-*    *   1723
+*    *   1931
 
     *   B236
 
@@ -19012,7 +21300,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.6479
 
 
-*    *   1724
+*    *   1932
 
     *   B236
 
@@ -19023,7 +21311,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.64592
 
 
-*    *   1725
+*    *   1933
 
     *   B236
 
@@ -19034,7 +21322,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.63487
 
 
-*    *   1726
+*    *   1934
 
     *   B236
 
@@ -19045,7 +21333,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.49848
 
 
-*    *   1727
+*    *   1935
 
     *   B236
 
@@ -19056,7 +21344,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.49471
 
 
-*    *   1728
+*    *   1936
 
     *   B236
 
@@ -19067,7 +21355,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.49373
 
 
-*    *   1729
+*    *   1937
 
     *   B236
 
@@ -19078,7 +21366,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48794
 
 
-*    *   1730
+*    *   1938
 
     *   B236
 
@@ -19089,7 +21377,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.25277
 
 
-*    *   1731
+*    *   1939
 
     *   B236
 
@@ -19100,7 +21388,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.22418
 
 
-*    *   1732
+*    *   1940
 
     *   B236
 
@@ -19111,7 +21399,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.19894
 
 
-*    *   1733
+*    *   1941
 
     *   B236
 
@@ -19122,7 +21410,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.97965
 
 
-*    *   1734
+*    *   1942
 
     *   B236
 
@@ -19133,7 +21421,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.9652
 
 
-*    *   1735
+*    *   1943
 
     *   B236
 
@@ -19144,7 +21432,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.55715
 
 
-*    *   1736
+*    *   1944
 
     *   B237
 
@@ -19155,7 +21443,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.28756
 
 
-*    *   1737
+*    *   1945
 
     *   B237
 
@@ -19166,7 +21454,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.29527
 
 
-*    *   1738
+*    *   1946
 
     *   B237
 
@@ -19177,7 +21465,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.30689
 
 
-*    *   1739
+*    *   1947
 
     *   B237
 
@@ -19188,7 +21476,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.34579
 
 
-*    *   1740
+*    *   1948
 
     *   B237
 
@@ -19199,7 +21487,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.34997
 
 
-*    *   1741
+*    *   1949
 
     *   B237
 
@@ -19210,7 +21498,172 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.55896
 
 
-*    *   1742
+*    *   1950
+
+    *   B239
+
+    *   B239 Rahden, Heidegrund
+
+    *   52.51986
+
+    *   8.61721
+
+
+*    *   1951
+
+    *   B239
+
+    *   B239 Rahden, Diepholzer Straße
+
+    *   52.48739
+
+    *   8.62981
+
+
+*    *   1952
+
+    *   B239
+
+    *   B239 Rahden, Alter Postweg
+
+    *   52.48254
+
+    *   8.63009
+
+
+*    *   1953
+
+    *   B239
+
+    *   B239 Rahden, Rapslager Weg
+
+    *   52.47201
+
+    *   8.62535
+
+
+*    *   1954
+
+    *   B239
+
+    *   B239 Rahden, Stellge
+
+    *   52.46889
+
+    *   8.62399
+
+
+*    *   1955
+
+    *   B239
+
+    *   B239 Rahden, Dieklage
+
+    *   52.44895
+
+    *   8.60717
+
+
+*    *   1956
+
+    *   B239
+
+    *   B239 Espelkamp, Hohenfelder Weg
+
+    *   52.33684
+
+    *   8.61776
+
+
+*    *   1957
+
+    *   B239
+
+    *   B239 Lübbecke, Reineberger Hagen
+
+    *   52.29354
+
+    *   8.61825
+
+
+*    *   1958
+
+    *   B239
+
+    *   B239 Lübbecke, Wiehengebirgsweg
+
+    *   52.28697
+
+    *   8.6288
+
+
+*    *   1959
+
+    *   B239
+
+    *   B239 Hüllhorst, Ellerkampstraße
+
+    *   52.27293
+
+    *   8.63465
+
+
+*    *   1960
+
+    *   B239
+
+    *   B239 Hüllhorst, Hangesch
+
+    *   52.26245
+
+    *   8.63627
+
+
+*    *   1961
+
+    *   B239
+
+    *   B239 Kirchlengern, Fünfhausenstraße
+
+    *   52.2241
+
+    *   8.63713
+
+
+*    *   1962
+
+    *   B239
+
+    *   B239 Kirchlengern, Hainweg
+
+    *   52.22156
+
+    *   8.6378
+
+
+*    *   1963
+
+    *   B239
+
+    *   B239 Bad Salzuflen
+
+    *   52.05344
+
+    *   8.75959
+
+
+*    *   1964
+
+    *   B239
+
+    *   B239 Lage, Oberes Land
+
+    *   51.9768
+
+    *   8.81875
+
+
+*    *   1965
 
     *   B239
 
@@ -19221,7 +21674,73 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.88561
 
 
-*    *   1743
+*    *   1966
+
+    *   B239
+
+    *   B239 Detmold, B
+
+    *   51.91437
+
+    *   8.91252
+
+
+*    *   1967
+
+    *   B239
+
+    *   B239 Detmold, Knickweg
+
+    *   51.9066
+
+    *   8.92627
+
+
+*    *   1968
+
+    *   B239
+
+    *   B239 Horn-Bad Meinberg, Entenkrugweg
+
+    *   51.89723
+
+    *   9.03005
+
+
+*    *   1969
+
+    *   B239
+
+    *   B239 Horn-Bad Meinberg
+
+    *   51.89661
+
+    *   9.07045
+
+
+*    *   1970
+
+    *   B239
+
+    *   B239 Marienmünster, Abtei Marienmünster
+
+    *   51.83076
+
+    *   9.21301
+
+
+*    *   1971
+
+    *   B239
+
+    *   B239 Höxter, Bundesstraße
+
+    *   51.81298
+
+    *   9.33148
+
+
+*    *   1972
 
     *   B240
 
@@ -19232,7 +21751,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.64353
 
 
-*    *   1744
+*    *   1973
 
     *   B240
 
@@ -19243,7 +21762,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63919
 
 
-*    *   1745
+*    *   1974
 
     *   B240
 
@@ -19254,7 +21773,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.67077
 
 
-*    *   1746
+*    *   1975
 
     *   B240
 
@@ -19265,7 +21784,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.66586
 
 
-*    *   1747
+*    *   1976
 
     *   B240
 
@@ -19276,29 +21795,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.6921
 
 
-*    *   1748
-
-    *   B241
-
-    *   B241 Uslar, Wösekenweg
-
-    *   51.66218
-
-    *   9.71898
-
-
-*    *   1749
+*    *   1977
 
     *   B241
 
     *   B241 Uslar
 
-    *   51.66386
+    *   51.69563
 
-    *   9.73107
+    *   9.54574
 
 
-*    *   1750
+*    *   1978
+
+    *   B241
+
+    *   B241 Hardegsen, Kalksteinwerk
+
+    *   51.6586
+
+    *   9.84611
+
+
+*    *   1979
 
     *   B241
 
@@ -19309,7 +21828,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.99684
 
 
-*    *   1751
+*    *   1980
 
     *   B241
 
@@ -19320,7 +21839,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.28633
 
 
-*    *   1752
+*    *   1981
 
     *   B241
 
@@ -19331,7 +21850,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.36168
 
 
-*    *   1753
+*    *   1982
 
     *   B241
 
@@ -19342,7 +21861,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.51795
 
 
-*    *   1754
+*    *   1983
 
     *   B242
 
@@ -19353,7 +21872,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.17211
 
 
-*    *   1755
+*    *   1984
 
     *   B242
 
@@ -19364,7 +21883,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.21197
 
 
-*    *   1756
+*    *   1985
 
     *   B242
 
@@ -19375,7 +21894,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.25293
 
 
-*    *   1757
+*    *   1986
 
     *   B242
 
@@ -19386,7 +21905,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.26931
 
 
-*    *   1758
+*    *   1987
 
     *   B242
 
@@ -19397,7 +21916,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.28853
 
 
-*    *   1759
+*    *   1988
 
     *   B242
 
@@ -19408,7 +21927,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.36755
 
 
-*    *   1760
+*    *   1989
 
     *   B242
 
@@ -19419,7 +21938,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.45585
 
 
-*    *   1761
+*    *   1990
 
     *   B242
 
@@ -19430,7 +21949,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.74607
 
 
-*    *   1762
+*    *   1991
 
     *   B242
 
@@ -19441,7 +21960,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.12247
 
 
-*    *   1763
+*    *   1992
 
     *   B242
 
@@ -19452,7 +21971,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.14682
 
 
-*    *   1764
+*    *   1993
 
     *   B243
 
@@ -19463,7 +21982,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.13389
 
 
-*    *   1765
+*    *   1994
 
     *   B243
 
@@ -19474,7 +21993,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.53846
 
 
-*    *   1766
+*    *   1995
 
     *   B244
 
@@ -19485,7 +22004,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.59573
 
 
-*    *   1767
+*    *   1996
 
     *   B244
 
@@ -19496,7 +22015,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.98878
 
 
-*    *   1768
+*    *   1997
 
     *   B244
 
@@ -19507,7 +22026,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.88817
 
 
-*    *   1769
+*    *   1998
 
     *   B244
 
@@ -19518,7 +22037,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.9669
 
 
-*    *   1770
+*    *   1999
 
     *   B244
 
@@ -19529,7 +22048,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.96318
 
 
-*    *   1771
+*    *   2000
 
     *   B244
 
@@ -19540,7 +22059,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.79333
 
 
-*    *   1772
+*    *   2001
 
     *   B244
 
@@ -19551,7 +22070,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.81437
 
 
-*    *   1773
+*    *   2002
 
     *   B245
 
@@ -19562,7 +22081,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.07648
 
 
-*    *   1774
+*    *   2003
 
     *   B245
 
@@ -19573,7 +22092,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.25583
 
 
-*    *   1775
+*    *   2004
 
     *   B246A
 
@@ -19584,7 +22103,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.81723
 
 
-*    *   1776
+*    *   2005
 
     *   B246A
 
@@ -19595,7 +22114,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.81967
 
 
-*    *   1777
+*    *   2006
 
     *   B246A
 
@@ -19606,7 +22125,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.58379
 
 
-*    *   1778
+*    *   2007
 
     *   B246A
 
@@ -19617,7 +22136,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.30778
 
 
-*    *   1779
+*    *   2008
 
     *   B246
 
@@ -19628,7 +22147,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.26326
 
 
-*    *   1780
+*    *   2009
 
     *   B246
 
@@ -19639,7 +22158,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.0587
 
 
-*    *   1781
+*    *   2010
 
     *   B246
 
@@ -19650,7 +22169,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.06974
 
 
-*    *   1782
+*    *   2011
 
     *   B246
 
@@ -19661,7 +22180,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.38427
 
 
-*    *   1783
+*    *   2012
 
     *   B246
 
@@ -19672,7 +22191,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.49639
 
 
-*    *   1784
+*    *   2013
 
     *   B246
 
@@ -19683,7 +22202,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.61692
 
 
-*    *   1785
+*    *   2014
 
     *   B246
 
@@ -19694,7 +22213,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.65445
 
 
-*    *   1786
+*    *   2015
 
     *   B246
 
@@ -19705,7 +22224,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.68711
 
 
-*    *   1787
+*    *   2016
 
     *   B246
 
@@ -19716,7 +22235,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.69348
 
 
-*    *   1788
+*    *   2017
 
     *   B246
 
@@ -19727,7 +22246,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.7871
 
 
-*    *   1789
+*    *   2018
 
     *   B246
 
@@ -19738,7 +22257,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.79822
 
 
-*    *   1790
+*    *   2019
 
     *   B246
 
@@ -19749,7 +22268,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.80441
 
 
-*    *   1791
+*    *   2020
 
     *   B246
 
@@ -19760,7 +22279,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.82157
 
 
-*    *   1792
+*    *   2021
 
     *   B246
 
@@ -19771,7 +22290,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.88576
 
 
-*    *   1793
+*    *   2022
 
     *   B246
 
@@ -19782,7 +22301,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.93759
 
 
-*    *   1794
+*    *   2023
 
     *   B246
 
@@ -19793,7 +22312,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.00085
 
 
-*    *   1795
+*    *   2024
 
     *   B246
 
@@ -19804,7 +22323,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.12342
 
 
-*    *   1796
+*    *   2025
 
     *   B247
 
@@ -19815,7 +22334,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.23095
 
 
-*    *   1797
+*    *   2026
 
     *   B247
 
@@ -19826,7 +22345,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.27248
 
 
-*    *   1798
+*    *   2027
 
     *   B247
 
@@ -19837,7 +22356,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.33601
 
 
-*    *   1799
+*    *   2028
 
     *   B247
 
@@ -19848,7 +22367,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.45504
 
 
-*    *   1800
+*    *   2029
+
+    *   B247
+
+    *   B247 Mühlhausen/Thüringen, A
+
+    *   51.22318
+
+    *   10.45353
+
+
+*    *   2030
 
     *   B247
 
@@ -19859,7 +22389,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.46176
 
 
-*    *   1801
+*    *   2031
 
     *   B247
 
@@ -19870,40 +22400,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.47876
 
 
-*    *   1802
+*    *   2032
 
     *   B247
 
-    *   B247 Mühlhausen/Thüringen
+    *   B247 Mühlhausen/Thüringen, C
 
-    *   51.19132
+    *   51.19143
 
-    *   10.49673
-
-
-*    *   1803
-
-    *   B247
-
-    *   B247 Großgottern-Nord
-
-    *   51.15356
-
-    *   10.54954
+    *   10.49668
 
 
-*    *   1804
+*    *   2033
 
     *   B247
 
-    *   B247 Schönstedt, Langensalzaer Straße
+    *   B247 Mühlhausen/Thüringen, B
 
-    *   51.12246
+    *   51.21934
 
-    *   10.58734
+    *   10.45208
 
 
-*    *   1805
+*    *   2034
 
     *   B247
 
@@ -19914,7 +22433,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.64124
 
 
-*    *   1806
+*    *   2035
 
     *   B247
 
@@ -19925,7 +22444,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.67451
 
 
-*    *   1807
+*    *   2036
 
     *   B248
 
@@ -19936,7 +22455,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.07478
 
 
-*    *   1808
+*    *   2037
 
     *   B248
 
@@ -19947,7 +22466,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.07231
 
 
-*    *   1809
+*    *   2038
 
     *   B248
 
@@ -19958,7 +22477,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.10481
 
 
-*    *   1810
+*    *   2039
+
+    *   B248
+
+    *   B248 Salzwedel, Hoyersburger Landstraße
+
+    *   52.89089
+
+    *   11.17728
+
+
+*    *   2040
 
     *   B248
 
@@ -19969,7 +22499,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.98326
 
 
-*    *   1811
+*    *   2041
 
     *   B248
 
@@ -19980,7 +22510,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.46754
 
 
-*    *   1812
+*    *   2042
 
     *   B248
 
@@ -19991,7 +22521,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.23867
 
 
-*    *   1813
+*    *   2043
 
     *   B248
 
@@ -20002,7 +22532,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.20449
 
 
-*    *   1814
+*    *   2044
 
     *   B248
 
@@ -20013,7 +22543,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.1826
 
 
-*    *   1815
+*    *   2045
 
     *   B249
 
@@ -20024,7 +22554,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.32827
 
 
-*    *   1816
+*    *   2046
 
     *   B249
 
@@ -20035,7 +22565,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.35011
 
 
-*    *   1817
+*    *   2047
+
+    *   B249
+
+    *   B249 Mühlhausen/Thüringen, Lindenhof
+
+    *   51.2149
+
+    *   10.48104
+
+
+*    *   2048
+
+    *   B249
+
+    *   B249 Mühlhausen/Thüringen, Walkmühlenstraße
+
+    *   51.21461
+
+    *   10.48365
+
+
+*    *   2049
+
+    *   B249
+
+    *   B249 Mühlhausen/Thüringen, A
+
+    *   51.21362
+
+    *   10.48937
+
+
+*    *   2050
+
+    *   B249
+
+    *   B249 Mühlhausen/Thüringen, B
+
+    *   51.21758
+
+    *   10.50818
+
+
+*    *   2051
 
     *   B249
 
@@ -20046,7 +22620,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.74115
 
 
-*    *   1818
+*    *   2052
 
     *   B251
 
@@ -20057,7 +22631,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.58543
 
 
-*    *   1819
+*    *   2053
 
     *   B251
 
@@ -20068,7 +22642,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.59203
 
 
-*    *   1820
+*    *   2054
 
     *   B251
 
@@ -20079,7 +22653,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.6857
 
 
-*    *   1821
+*    *   2055
 
     *   B251
 
@@ -20090,7 +22664,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.76945
 
 
-*    *   1822
+*    *   2056
 
     *   B251
 
@@ -20101,7 +22675,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.78606
 
 
-*    *   1823
+*    *   2057
 
     *   B251
 
@@ -20112,7 +22686,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.80138
 
 
-*    *   1824
+*    *   2058
 
     *   B251
 
@@ -20123,7 +22697,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.80554
 
 
-*    *   1825
+*    *   2059
 
     *   B251
 
@@ -20134,7 +22708,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04863
 
 
-*    *   1826
+*    *   2060
 
     *   B251
 
@@ -20145,7 +22719,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.25129
 
 
-*    *   1827
+*    *   2061
 
     *   B251
 
@@ -20156,7 +22730,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.40484
 
 
-*    *   1828
+*    *   2062
 
     *   B252
 
@@ -20167,7 +22741,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.16249
 
 
-*    *   1829
+*    *   2063
 
     *   B252
 
@@ -20178,7 +22752,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.15987
 
 
-*    *   1830
+*    *   2064
 
     *   B252
 
@@ -20189,7 +22763,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.92311
 
 
-*    *   1831
+*    *   2065
 
     *   B252
 
@@ -20200,7 +22774,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.88668
 
 
-*    *   1832
+*    *   2066
 
     *   B252
 
@@ -20211,7 +22785,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.88672
 
 
-*    *   1833
+*    *   2067
 
     *   B252
 
@@ -20222,7 +22796,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.8815
 
 
-*    *   1834
+*    *   2068
 
     *   B252
 
@@ -20233,7 +22807,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.77918
 
 
-*    *   1835
+*    *   2069
 
     *   B252
 
@@ -20244,7 +22818,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.76113
 
 
-*    *   1836
+*    *   2070
 
     *   B252
 
@@ -20255,7 +22829,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72971
 
 
-*    *   1837
+*    *   2071
 
     *   B252
 
@@ -20266,18 +22840,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72879
 
 
-*    *   1838
-
-    *   B252
-
-    *   B252 Lahntal
-
-    *   50.87356
-
-    *   8.74578
-
-
-*    *   1839
+*    *   2072
 
     *   B253
 
@@ -20288,7 +22851,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.28569
 
 
-*    *   1840
+*    *   2073
 
     *   B253
 
@@ -20299,7 +22862,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.39174
 
 
-*    *   1841
+*    *   2074
 
     *   B253
 
@@ -20310,7 +22873,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.45569
 
 
-*    *   1842
+*    *   2075
 
     *   B253
 
@@ -20321,7 +22884,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.63006
 
 
-*    *   1843
+*    *   2076
 
     *   B253
 
@@ -20332,7 +22895,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.92514
 
 
-*    *   1844
+*    *   2077
 
     *   B253
 
@@ -20343,7 +22906,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.94108
 
 
-*    *   1845
+*    *   2078
 
     *   B253
 
@@ -20354,7 +22917,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.99642
 
 
-*    *   1846
+*    *   2079
 
     *   B253
 
@@ -20365,7 +22928,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.0453
 
 
-*    *   1847
+*    *   2080
 
     *   B253
 
@@ -20376,7 +22939,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04873
 
 
-*    *   1848
+*    *   2081
 
     *   B253
 
@@ -20387,7 +22950,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.09105
 
 
-*    *   1849
+*    *   2082
 
     *   B253
 
@@ -20398,7 +22961,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.09471
 
 
-*    *   1850
+*    *   2083
 
     *   B253
 
@@ -20409,7 +22972,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.37269
 
 
-*    *   1851
+*    *   2084
 
     *   B254
 
@@ -20420,7 +22983,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.35955
 
 
-*    *   1852
+*    *   2085
 
     *   B254
 
@@ -20431,7 +22994,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.29732
 
 
-*    *   1853
+*    *   2086
 
     *   B254
 
@@ -20442,7 +23005,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.36854
 
 
-*    *   1854
+*    *   2087
 
     *   B254
 
@@ -20453,7 +23016,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.43613
 
 
-*    *   1855
+*    *   2088
 
     *   B254
 
@@ -20464,7 +23027,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.52776
 
 
-*    *   1856
+*    *   2089
 
     *   B254
 
@@ -20475,7 +23038,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.59377
 
 
-*    *   1857
+*    *   2090
 
     *   B254
 
@@ -20486,7 +23049,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.62504
 
 
-*    *   1858
+*    *   2091
 
     *   B255
 
@@ -20497,7 +23060,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.88786
 
 
-*    *   1859
+*    *   2092
 
     *   B255
 
@@ -20508,7 +23071,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.42885
 
 
-*    *   1860
+*    *   2093
 
     *   B255
 
@@ -20519,7 +23082,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.52662
 
 
-*    *   1861
+*    *   2094
 
     *   B255
 
@@ -20530,7 +23093,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.53034
 
 
-*    *   1862
+*    *   2095
 
     *   B255
 
@@ -20541,7 +23104,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.62834
 
 
-*    *   1863
+*    *   2096
 
     *   B256
 
@@ -20552,7 +23115,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.60746
 
 
-*    *   1864
+*    *   2097
 
     *   B256
 
@@ -20563,7 +23126,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.38184
 
 
-*    *   1865
+*    *   2098
 
     *   B257
 
@@ -20574,7 +23137,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.92118
 
 
-*    *   1866
+*    *   2099
 
     *   B257
 
@@ -20585,7 +23148,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.94476
 
 
-*    *   1867
+*    *   2100
 
     *   B257
 
@@ -20596,7 +23159,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.93216
 
 
-*    *   1868
+*    *   2101
 
     *   B257
 
@@ -20607,7 +23170,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.85645
 
 
-*    *   1869
+*    *   2102
 
     *   B257
 
@@ -20618,7 +23181,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.47582
 
 
-*    *   1870
+*    *   2103
 
     *   B257
 
@@ -20629,7 +23192,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.44805
 
 
-*    *   1871
+*    *   2104
 
     *   B258
 
@@ -20640,7 +23203,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.42445
 
 
-*    *   1872
+*    *   2105
 
     *   B258
 
@@ -20651,7 +23214,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.43465
 
 
-*    *   1873
+*    *   2106
 
     *   B258
 
@@ -20662,7 +23225,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.48351
 
 
-*    *   1874
+*    *   2107
 
     *   B258
 
@@ -20673,7 +23236,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.66629
 
 
-*    *   1875
+*    *   2108
 
     *   B258
 
@@ -20684,7 +23247,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.74267
 
 
-*    *   1876
+*    *   2109
 
     *   B258
 
@@ -20695,7 +23258,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.76812
 
 
-*    *   1877
+*    *   2110
 
     *   B258
 
@@ -20706,7 +23269,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.79215
 
 
-*    *   1878
+*    *   2111
 
     *   B258
 
@@ -20717,7 +23280,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.80224
 
 
-*    *   1879
+*    *   2112
 
     *   B258
 
@@ -20728,7 +23291,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.83257
 
 
-*    *   1880
+*    *   2113
 
     *   B258
 
@@ -20739,7 +23302,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.16889
 
 
-*    *   1881
+*    *   2114
 
     *   B258
 
@@ -20750,7 +23313,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.18501
 
 
-*    *   1882
+*    *   2115
 
     *   B259
 
@@ -20761,7 +23324,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.1129
 
 
-*    *   1883
+*    *   2116
 
     *   B260
 
@@ -20772,7 +23335,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.64015
 
 
-*    *   1884
+*    *   2117
 
     *   B260
 
@@ -20783,7 +23346,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.66435
 
 
-*    *   1885
+*    *   2118
 
     *   B260
 
@@ -20794,7 +23357,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.95266
 
 
-*    *   1886
+*    *   2119
 
     *   B260
 
@@ -20805,7 +23368,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.02642
 
 
-*    *   1887
+*    *   2120
 
     *   B260
 
@@ -20816,7 +23379,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.04443
 
 
-*    *   1888
+*    *   2121
 
     *   B260
 
@@ -20827,7 +23390,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.11543
 
 
-*    *   1889
+*    *   2122
 
     *   B262
 
@@ -20838,7 +23401,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.2418
 
 
-*    *   1890
+*    *   2123
 
     *   B262
 
@@ -20849,7 +23412,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.2405
 
 
-*    *   1891
+*    *   2124
 
     *   B264
 
@@ -20860,7 +23423,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.48076
 
 
-*    *   1892
+*    *   2125
 
     *   B265
 
@@ -20871,7 +23434,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.54718
 
 
-*    *   1893
+*    *   2126
 
     *   B265
 
@@ -20882,7 +23445,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.48713
 
 
-*    *   1894
+*    *   2127
 
     *   B265
 
@@ -20893,7 +23456,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.48424
 
 
-*    *   1895
+*    *   2128
 
     *   B265
 
@@ -20904,7 +23467,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.41234
 
 
-*    *   1896
+*    *   2129
 
     *   B265
 
@@ -20915,7 +23478,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.39992
 
 
-*    *   1897
+*    *   2130
 
     *   B265
 
@@ -20926,7 +23489,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.37916
 
 
-*    *   1898
+*    *   2131
 
     *   B265
 
@@ -20937,7 +23500,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.37285
 
 
-*    *   1899
+*    *   2132
 
     *   B265
 
@@ -20948,7 +23511,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.40287
 
 
-*    *   1900
+*    *   2133
 
     *   B265
 
@@ -20959,7 +23522,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.43587
 
 
-*    *   1901
+*    *   2134
 
     *   B266
 
@@ -20970,7 +23533,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.35967
 
 
-*    *   1902
+*    *   2135
 
     *   B266
 
@@ -20981,7 +23544,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.40727
 
 
-*    *   1903
+*    *   2136
 
     *   B268
 
@@ -20992,7 +23555,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.64996
 
 
-*    *   1904
+*    *   2137
 
     *   B268
 
@@ -21003,7 +23566,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.72062
 
 
-*    *   1905
+*    *   2138
 
     *   B268
 
@@ -21014,7 +23577,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.83448
 
 
-*    *   1906
+*    *   2139
 
     *   B268
 
@@ -21025,7 +23588,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.85322
 
 
-*    *   1907
+*    *   2140
 
     *   B268
 
@@ -21036,7 +23599,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.8911
 
 
-*    *   1908
+*    *   2141
 
     *   B268
 
@@ -21047,7 +23610,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.95298
 
 
-*    *   1909
+*    *   2142
 
     *   B268
 
@@ -21058,7 +23621,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.96066
 
 
-*    *   1910
+*    *   2143
 
     *   B269
 
@@ -21069,7 +23632,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.12512
 
 
-*    *   1911
+*    *   2144
 
     *   B269
 
@@ -21080,7 +23643,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.01924
 
 
-*    *   1912
+*    *   2145
 
     *   B269
 
@@ -21091,7 +23654,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.94172
 
 
-*    *   1913
+*    *   2146
 
     *   B269
 
@@ -21102,7 +23665,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.72046
 
 
-*    *   1914
+*    *   2147
 
     *   B269
 
@@ -21113,7 +23676,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.76155
 
 
-*    *   1915
+*    *   2148
 
     *   B270
 
@@ -21124,7 +23687,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.60555
 
 
-*    *   1916
+*    *   2149
 
     *   B270
 
@@ -21135,7 +23698,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.6627
 
 
-*    *   1917
+*    *   2150
 
     *   B270
 
@@ -21146,7 +23709,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.60301
 
 
-*    *   1918
+*    *   2151
 
     *   B270
 
@@ -21157,7 +23720,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.62003
 
 
-*    *   1919
+*    *   2152
 
     *   B270
 
@@ -21168,7 +23731,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.51849
 
 
-*    *   1920
+*    *   2153
 
     *   B270
 
@@ -21179,7 +23742,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.49366
 
 
-*    *   1921
+*    *   2154
 
     *   B270
 
@@ -21190,7 +23753,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.47374
 
 
-*    *   1922
+*    *   2155
 
     *   B270
 
@@ -21201,7 +23764,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.45025
 
 
-*    *   1923
+*    *   2156
 
     *   B271
 
@@ -21212,7 +23775,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12269
 
 
-*    *   1924
+*    *   2157
 
     *   B271
 
@@ -21223,7 +23786,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.1849
 
 
-*    *   1925
+*    *   2158
 
     *   B271
 
@@ -21234,7 +23797,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18843
 
 
-*    *   1926
+*    *   2159
 
     *   B271
 
@@ -21245,7 +23808,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20198
 
 
-*    *   1927
+*    *   2160
 
     *   B271
 
@@ -21256,7 +23819,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18146
 
 
-*    *   1928
+*    *   2161
 
     *   B271
 
@@ -21267,7 +23830,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.17838
 
 
-*    *   1929
+*    *   2162
 
     *   B271
 
@@ -21278,7 +23841,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.1948
 
 
-*    *   1930
+*    *   2163
 
     *   B271
 
@@ -21289,7 +23852,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20141
 
 
-*    *   1931
+*    *   2164
 
     *   B272
 
@@ -21300,7 +23863,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.23016
 
 
-*    *   1932
+*    *   2165
 
     *   B273
 
@@ -21311,7 +23874,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.37435
 
 
-*    *   1933
+*    *   2166
 
     *   B273
 
@@ -21322,7 +23885,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.87992
 
 
-*    *   1934
+*    *   2167
 
     *   B273
 
@@ -21333,7 +23896,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.8852
 
 
-*    *   1935
+*    *   2168
 
     *   B274
 
@@ -21344,7 +23907,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.75602
 
 
-*    *   1936
+*    *   2169
 
     *   B274
 
@@ -21355,7 +23918,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.7757
 
 
-*    *   1937
+*    *   2170
 
     *   B274
 
@@ -21366,7 +23929,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.84355
 
 
-*    *   1938
+*    *   2171
 
     *   B274
 
@@ -21377,7 +23940,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.84843
 
 
-*    *   1939
+*    *   2172
 
     *   B274
 
@@ -21388,7 +23951,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.86069
 
 
-*    *   1940
+*    *   2173
 
     *   B274
 
@@ -21399,7 +23962,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.90158
 
 
-*    *   1941
+*    *   2174
 
     *   B274
 
@@ -21410,7 +23973,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.03629
 
 
-*    *   1942
+*    *   2175
 
     *   B275
 
@@ -21421,7 +23984,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31195
 
 
-*    *   1943
+*    *   2176
 
     *   B275
 
@@ -21432,7 +23995,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.32424
 
 
-*    *   1944
+*    *   2177
 
     *   B275
 
@@ -21443,7 +24006,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.37584
 
 
-*    *   1945
+*    *   2178
 
     *   B275
 
@@ -21454,18 +24017,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98625
 
 
-*    *   1946
-
-    *   B275
-
-    *   B275 Grebenhain, A
-
-    *   50.50373
-
-    *   9.36774
-
-
-*    *   1947
+*    *   2179
 
     *   B276
 
@@ -21476,7 +24028,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.16108
 
 
-*    *   1948
+*    *   2180
 
     *   B276
 
@@ -21487,7 +24039,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.28726
 
 
-*    *   1949
+*    *   2181
 
     *   B276
 
@@ -21498,7 +24050,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.27061
 
 
-*    *   1950
+*    *   2182
 
     *   B276
 
@@ -21509,7 +24061,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.39207
 
 
-*    *   1951
+*    *   2183
 
     *   B277
 
@@ -21520,7 +24072,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.39427
 
 
-*    *   1952
+*    *   2184
 
     *   B278
 
@@ -21531,7 +24083,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.98448
 
 
-*    *   1953
+*    *   2185
 
     *   B279
 
@@ -21542,7 +24094,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.75542
 
 
-*    *   1954
+*    *   2186
 
     *   B279
 
@@ -21553,7 +24105,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.77755
 
 
-*    *   1955
+*    *   2187
 
     *   B279
 
@@ -21564,7 +24116,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.93917
 
 
-*    *   1956
+*    *   2188
 
     *   B279
 
@@ -21575,7 +24127,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.96796
 
 
-*    *   1957
+*    *   2189
 
     *   B279
 
@@ -21586,7 +24138,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.02174
 
 
-*    *   1958
+*    *   2190
 
     *   B279
 
@@ -21597,7 +24149,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.12079
 
 
-*    *   1959
+*    *   2191
 
     *   B279
 
@@ -21608,7 +24160,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.12845
 
 
-*    *   1960
+*    *   2192
 
     *   B279
 
@@ -21619,7 +24171,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.37893
 
 
-*    *   1961
+*    *   2193
 
     *   B279
 
@@ -21630,7 +24182,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.56898
 
 
-*    *   1962
+*    *   2194
 
     *   B279
 
@@ -21641,7 +24193,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.77186
 
 
-*    *   1963
+*    *   2195
 
     *   B279
 
@@ -21652,7 +24204,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.78561
 
 
-*    *   1964
+*    *   2196
 
     *   B279
 
@@ -21663,7 +24215,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.81988
 
 
-*    *   1965
+*    *   2197
 
     *   B279
 
@@ -21674,7 +24226,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.85716
 
 
-*    *   1966
+*    *   2198
 
     *   B281
 
@@ -21685,7 +24237,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.8984
 
 
-*    *   1967
+*    *   2199
 
     *   B281
 
@@ -21696,7 +24248,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.92214
 
 
-*    *   1968
+*    *   2200
 
     *   B281
 
@@ -21707,7 +24259,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.93569
 
 
-*    *   1969
+*    *   2201
 
     *   B281
 
@@ -21718,7 +24270,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.97589
 
 
-*    *   1970
+*    *   2202
 
     *   B281
 
@@ -21729,7 +24281,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.11567
 
 
-*    *   1971
+*    *   2203
 
     *   B281
 
@@ -21740,7 +24292,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.27666
 
 
-*    *   1972
+*    *   2204
 
     *   B281
 
@@ -21751,7 +24303,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.34996
 
 
-*    *   1973
+*    *   2205
 
     *   B281
 
@@ -21762,7 +24314,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.51367
 
 
-*    *   1974
+*    *   2206
 
     *   B282
 
@@ -21773,7 +24325,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.83168
 
 
-*    *   1975
+*    *   2207
 
     *   B282
 
@@ -21784,7 +24336,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.93319
 
 
-*    *   1976
+*    *   2208
 
     *   B282
 
@@ -21795,7 +24347,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.03744
 
 
-*    *   1977
+*    *   2209
 
     *   B283
 
@@ -21806,7 +24358,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.58738
 
 
-*    *   1978
+*    *   2210
 
     *   B283
 
@@ -21817,7 +24369,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.57539
 
 
-*    *   1979
+*    *   2211
 
     *   B283
 
@@ -21828,7 +24380,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.39762
 
 
-*    *   1980
+*    *   2212
 
     *   B283
 
@@ -21839,7 +24391,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.37846
 
 
-*    *   1981
+*    *   2213
 
     *   B285
 
@@ -21850,7 +24402,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.17149
 
 
-*    *   1982
+*    *   2214
 
     *   B285
 
@@ -21861,7 +24413,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.15706
 
 
-*    *   1983
+*    *   2215
 
     *   B285
 
@@ -21872,7 +24424,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.13932
 
 
-*    *   1984
+*    *   2216
 
     *   B285
 
@@ -21883,7 +24435,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.23838
 
 
-*    *   1985
+*    *   2217
 
     *   B285
 
@@ -21894,7 +24446,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.28251
 
 
-*    *   1986
+*    *   2218
 
     *   B286
 
@@ -21905,7 +24457,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.83989
 
 
-*    *   1987
+*    *   2219
 
     *   B286
 
@@ -21916,7 +24468,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.94994
 
 
-*    *   1988
+*    *   2220
 
     *   B286
 
@@ -21927,7 +24479,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.28008
 
 
-*    *   1989
+*    *   2221
 
     *   B286
 
@@ -21938,7 +24490,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.30861
 
 
-*    *   1990
+*    *   2222
 
     *   B286
 
@@ -21949,7 +24501,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.35938
 
 
-*    *   1991
+*    *   2223
 
     *   B287
 
@@ -21960,7 +24512,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.9376
 
 
-*    *   1992
+*    *   2224
 
     *   B287
 
@@ -21971,7 +24523,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.06016
 
 
-*    *   1993
+*    *   2225
 
     *   B287
 
@@ -21982,7 +24534,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.06789
 
 
-*    *   1994
+*    *   2226
 
     *   B287
 
@@ -21993,7 +24545,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.19807
 
 
-*    *   1995
+*    *   2227
 
     *   B287
 
@@ -22004,7 +24556,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.19414
 
 
-*    *   1996
+*    *   2228
 
     *   B289
 
@@ -22015,7 +24567,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.4365
 
 
-*    *   1997
+*    *   2229
 
     *   B289
 
@@ -22026,7 +24578,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.46335
 
 
-*    *   1998
+*    *   2230
 
     *   B289
 
@@ -22037,7 +24589,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.56803
 
 
-*    *   1999
+*    *   2231
 
     *   B289
 
@@ -22048,7 +24600,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.57419
 
 
-*    *   2000
+*    *   2232
 
     *   B289
 
@@ -22059,73 +24611,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.60164
 
 
-*    *   2001
-
-    *   B290
-
-    *   B290 Schrozberg
-
-    *   49.35695
-
-    *   9.90909
-
-
-*    *   2002
-
-    *   B290
-
-    *   B290 Niederstetten, A
-
-    *   49.38312
-
-    *   9.84884
-
-
-*    *   2003
-
-    *   B290
-
-    *   B290 Bad Mergentheim, Alte Kaiserstraße, D
-
-    *   49.40425
-
-    *   9.83057
-
-
-*    *   2004
-
-    *   B290
-
-    *   B290 Bad Mergentheim, Alte Kaiserstraße, A
-
-    *   49.40813
-
-    *   9.82471
-
-
-*    *   2005
-
-    *   B290
-
-    *   B290 Bad Mergentheim, Wacholderheide
-
-    *   49.4223
-
-    *   9.81576
-
-
-*    *   2006
-
-    *   B290
-
-    *   B290 Bad Mergentheim, Kaiserstein
-
-    *   49.4321
-
-    *   9.80837
-
-
-*    *   2007
+*    *   2233
 
     *   B290
 
@@ -22136,7 +24622,73 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.15194
 
 
-*    *   2008
+*    *   2234
+
+    *   B290
+
+    *   B290 Schrozberg
+
+    *   49.35695
+
+    *   9.90909
+
+
+*    *   2235
+
+    *   B290
+
+    *   B290 Niederstetten, A
+
+    *   49.38312
+
+    *   9.84884
+
+
+*    *   2236
+
+    *   B290
+
+    *   B290 Bad Mergentheim, Alte Kaiserstraße, D
+
+    *   49.40425
+
+    *   9.83057
+
+
+*    *   2237
+
+    *   B290
+
+    *   B290 Bad Mergentheim, Alte Kaiserstraße, A
+
+    *   49.40813
+
+    *   9.82471
+
+
+*    *   2238
+
+    *   B290
+
+    *   B290 Bad Mergentheim, Wacholderheide
+
+    *   49.4223
+
+    *   9.81576
+
+
+*    *   2239
+
+    *   B290
+
+    *   B290 Bad Mergentheim, Kaiserstein
+
+    *   49.4321
+
+    *   9.80837
+
+
+*    *   2240
 
     *   B290
 
@@ -22147,7 +24699,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.71446
 
 
-*    *   2009
+*    *   2241
 
     *   B290
 
@@ -22158,7 +24710,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.70555
 
 
-*    *   2010
+*    *   2242
 
     *   B292
 
@@ -22169,7 +24721,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.81048
 
 
-*    *   2011
+*    *   2243
 
     *   B292
 
@@ -22180,7 +24732,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.90618
 
 
-*    *   2012
+*    *   2244
 
     *   B292
 
@@ -22191,7 +24743,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.9102
 
 
-*    *   2013
+*    *   2245
 
     *   B292
 
@@ -22202,7 +24754,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.91292
 
 
-*    *   2014
+*    *   2246
 
     *   B292
 
@@ -22213,7 +24765,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.97415
 
 
-*    *   2015
+*    *   2247
 
     *   B292
 
@@ -22224,7 +24776,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.05397
 
 
-*    *   2016
+*    *   2248
 
     *   B292
 
@@ -22235,7 +24787,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.06308
 
 
-*    *   2017
+*    *   2249
 
     *   B292
 
@@ -22246,7 +24798,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.23744
 
 
-*    *   2018
+*    *   2250
 
     *   B292
 
@@ -22257,7 +24809,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.39818
 
 
-*    *   2019
+*    *   2251
+
+    *   B293
+
+    *   B293 Sulzfeld, Neuhof
+
+    *   49.12802
+
+    *   8.8675
+
+
+*    *   2252
+
+    *   B293
+
+    *   B293 Schwaigern
+
+    *   49.14539
+
+    *   9.03528
+
+
+*    *   2253
+
+    *   B293
+
+    *   B293 Heilbronn, Längelterstraße
+
+    *   49.13978
+
+    *   9.17127
+
+
+*    *   2254
 
     *   B294
 
@@ -22268,7 +24853,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72328
 
 
-*    *   2020
+*    *   2255
 
     *   B294
 
@@ -22279,7 +24864,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.63809
 
 
-*    *   2021
+*    *   2256
 
     *   B294
 
@@ -22290,7 +24875,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.49471
 
 
-*    *   2022
+*    *   2257
 
     *   B294
 
@@ -22301,7 +24886,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48695
 
 
-*    *   2023
+*    *   2258
 
     *   B294
 
@@ -22312,7 +24897,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48142
 
 
-*    *   2024
+*    *   2259
 
     *   B294
 
@@ -22323,7 +24908,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.46273
 
 
-*    *   2025
+*    *   2260
 
     *   B294
 
@@ -22334,7 +24919,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.44801
 
 
-*    *   2026
+*    *   2261
 
     *   B294
 
@@ -22345,7 +24930,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.44261
 
 
-*    *   2027
+*    *   2262
 
     *   B294
 
@@ -22356,7 +24941,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.41356
 
 
-*    *   2028
+*    *   2263
 
     *   B294
 
@@ -22367,7 +24952,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.31303
 
 
-*    *   2029
+*    *   2264
 
     *   B294
 
@@ -22378,7 +24963,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.10238
 
 
-*    *   2030
+*    *   2265
+
+    *   B294
+
+    *   B294 Winden im Elztal
+
+    *   48.15118
+
+    *   8.03562
+
+
+*    *   2266
 
     *   B294
 
@@ -22389,7 +24985,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.96786
 
 
-*    *   2031
+*    *   2267
 
     *   B295
 
@@ -22400,7 +24996,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.77164
 
 
-*    *   2032
+*    *   2268
 
     *   B295
 
@@ -22411,7 +25007,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.85052
 
 
-*    *   2033
+*    *   2269
 
     *   B296
 
@@ -22422,7 +25018,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.77175
 
 
-*    *   2034
+*    *   2270
 
     *   B296
 
@@ -22433,7 +25029,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.81563
 
 
-*    *   2035
+*    *   2271
 
     *   B297
 
@@ -22444,7 +25040,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.24068
 
 
-*    *   2036
+*    *   2272
 
     *   B297
 
@@ -22455,7 +25051,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.54841
 
 
-*    *   2037
+*    *   2273
 
     *   B298
 
@@ -22466,7 +25062,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.75764
 
 
-*    *   2038
+*    *   2274
 
     *   B298
 
@@ -22477,7 +25073,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.7686
 
 
-*    *   2039
+*    *   2275
 
     *   B299
 
@@ -22488,7 +25084,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.64188
 
 
-*    *   2040
+*    *   2276
 
     *   B299
 
@@ -22499,7 +25095,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.65861
 
 
-*    *   2041
+*    *   2277
 
     *   B299
 
@@ -22510,7 +25106,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.66052
 
 
-*    *   2042
+*    *   2278
 
     *   B299
 
@@ -22521,7 +25117,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.45814
 
 
-*    *   2043
+*    *   2279
 
     *   B299
 
@@ -22532,7 +25128,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.44698
 
 
-*    *   2044
+*    *   2280
 
     *   B299
 
@@ -22543,7 +25139,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.43628
 
 
-*    *   2045
+*    *   2281
 
     *   B299
 
@@ -22554,7 +25150,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.8252
 
 
-*    *   2046
+*    *   2282
 
     *   B299
 
@@ -22565,18 +25161,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.66373
 
 
-*    *   2047
+*    *   2283
 
     *   B299
 
-    *   B299 Beilngries, C
+    *   B299 Altmannstein, Neustädter Straße
 
-    *   49.00204
+    *   48.943
 
-    *   11.52096
+    *   11.56667
 
 
-*    *   2048
+*    *   2284
 
     *   B299
 
@@ -22587,18 +25183,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.44352
 
 
-*    *   2049
+*    *   2285
 
     *   B299
 
-    *   B299 Pilsach, Amberger Straße
+    *   B299 Pilsach, D
 
-    *   49.3222
+    *   49.32812
 
-    *   11.51041
+    *   11.55596
 
 
-*    *   2050
+*    *   2286
 
     *   B299
 
@@ -22609,18 +25205,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.62874
 
 
-*    *   2051
-
-    *   B299
-
-    *   B299 Kastl
-
-    *   49.36583
-
-    *   11.64359
-
-
-*    *   2052
+*    *   2287
 
     *   B299
 
@@ -22631,7 +25216,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.77904
 
 
-*    *   2053
+*    *   2288
+
+    *   B299
+
+    *   B299 Freihung, Seugast, Böcklmühle
+
+    *   49.60697
+
+    *   11.89852
+
+
+*    *   2289
+
+    *   B299
+
+    *   B299 Grafenwöhr, Am Neuen Weg
+
+    *   49.71572
+
+    *   11.91637
+
+
+*    *   2290
+
+    *   B299
+
+    *   B299 Pressath, A
+
+    *   49.74119
+
+    *   11.92071
+
+
+*    *   2291
 
     *   B299
 
@@ -22642,18 +25260,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.97018
 
 
-*    *   2054
+*    *   2292
 
     *   B299
 
-    *   B299 Pressath, Wanderparkplatz Hessenreuth
+    *   B299 Reuth bei Erbendorf, B
 
-    *   49.80372
+    *   49.83925
 
-    *   11.97815
+    *   12.12751
 
 
-*    *   2055
+*    *   2293
 
     *   B299
 
@@ -22664,7 +25282,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.27654
 
 
-*    *   2056
+*    *   2294
 
     *   B299
 
@@ -22675,7 +25293,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.31277
 
 
-*    *   2057
+*    *   2295
 
     *   B300
 
@@ -22686,7 +25304,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.15196
 
 
-*    *   2058
+*    *   2296
 
     *   B300
 
@@ -22697,7 +25315,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.70433
 
 
-*    *   2059
+*    *   2297
 
     *   B300
 
@@ -22708,18 +25326,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.97941
 
 
-*    *   2060
-
-    *   B300
-
-    *   B300 Aichach, AIC30, B
-
-    *   48.46751
-
-    *   11.1468
-
-
-*    *   2061
+*    *   2298
 
     *   B300
 
@@ -22730,7 +25337,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.16452
 
 
-*    *   2062
+*    *   2299
 
     *   B300
 
@@ -22741,7 +25348,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.21707
 
 
-*    *   2063
+*    *   2300
 
     *   B300
 
@@ -22752,7 +25359,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.22461
 
 
-*    *   2064
+*    *   2301
 
     *   B300
 
@@ -22763,18 +25370,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.36118
 
 
-*    *   2065
-
-    *   B300
-
-    *   B300 Hohenwart, A
-
-    *   48.6049
-
-    *   11.42808
-
-
-*    *   2066
+*    *   2302
 
     *   B300
 
@@ -22785,7 +25381,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48582
 
 
-*    *   2067
+*    *   2303
 
     *   B300
 
@@ -22796,7 +25392,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.48853
 
 
-*    *   2068
+*    *   2304
 
     *   B303
 
@@ -22807,7 +25403,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.61987
 
 
-*    *   2069
+*    *   2305
 
     *   B303
 
@@ -22818,7 +25414,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.67359
 
 
-*    *   2070
+*    *   2306
 
     *   B303
 
@@ -22829,7 +25425,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.81118
 
 
-*    *   2071
+*    *   2307
 
     *   B303
 
@@ -22840,7 +25436,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.81834
 
 
-*    *   2072
+*    *   2308
 
     *   B303
 
@@ -22851,7 +25447,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.14121
 
 
-*    *   2073
+*    *   2309
 
     *   B303
 
@@ -22862,7 +25458,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.16515
 
 
-*    *   2074
+*    *   2310
 
     *   B303
 
@@ -22873,7 +25469,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.20565
 
 
-*    *   2075
+*    *   2311
 
     *   B303
 
@@ -22884,7 +25480,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.58658
 
 
-*    *   2076
+*    *   2312
 
     *   B303
 
@@ -22895,7 +25491,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.85793
 
 
-*    *   2077
+*    *   2313
 
     *   B303
 
@@ -22906,7 +25502,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.13638
 
 
-*    *   2078
+*    *   2314
 
     *   B303
 
@@ -22917,7 +25513,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.14904
 
 
-*    *   2079
+*    *   2315
 
     *   B303
 
@@ -22928,7 +25524,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.17965
 
 
-*    *   2080
+*    *   2316
 
     *   B303
 
@@ -22939,7 +25535,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.25051
 
 
-*    *   2081
+*    *   2317
 
     *   B304
 
@@ -22950,7 +25546,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.77131
 
 
-*    *   2082
+*    *   2318
 
     *   B304
 
@@ -22961,18 +25557,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.84614
 
 
-*    *   2083
+*    *   2319
 
     *   B304
 
     *   B304 Ebersberg, A
 
-    *   48.08538
+    *   48.0854
 
     *   12.01058
 
 
-*    *   2084
+*    *   2320
 
     *   B304
 
@@ -22983,7 +25579,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.21187
 
 
-*    *   2085
+*    *   2321
 
     *   B304
 
@@ -22994,7 +25590,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.21888
 
 
-*    *   2086
+*    *   2322
 
     *   B304
 
@@ -23005,7 +25601,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.29472
 
 
-*    *   2087
+*    *   2323
 
     *   B304
 
@@ -23016,7 +25612,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.34088
 
 
-*    *   2088
+*    *   2324
 
     *   B304
 
@@ -23027,7 +25623,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.50547
 
 
-*    *   2089
+*    *   2325
 
     *   B304
 
@@ -23038,7 +25634,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.53245
 
 
-*    *   2090
+*    *   2326
 
     *   B304
 
@@ -23049,7 +25645,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.67993
 
 
-*    *   2091
+*    *   2327
 
     *   B305
 
@@ -23060,139 +25656,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.37625
 
 
-*    *   2092
-
-    *   B305
-
-    *   B305 Reit im Winkl, A
-
-    *   47.69341
-
-    *   12.48237
-
-
-*    *   2093
+*    *   2328
 
     *   B305
 
     *   B305 Reit im Winkl, B
-
-    *   47.68879
-
-    *   12.48911
-
-
-*    *   2094
-
-    *   B305
-
-    *   B305 Reit im Winkl, C
 
     *   47.68637
 
     *   12.50382
 
 
-*    *   2095
+*    *   2329
 
     *   B305
 
-    *   B305 Reit im Winkl, E
-
-    *   47.67833
-
-    *   12.49827
-
-
-*    *   2096
-
-    *   B305
-
-    *   B305 Reit im Winkl, Weitseestraße, A
-
-    *   47.67334
-
-    *   12.47196
-
-
-*    *   2097
-
-    *   B305
-
-    *   B305 Reit im Winkl, D
+    *   B305 Reit im Winkl, A
 
     *   47.68282
 
     *   12.55053
 
 
-*    *   2098
+*    *   2330
 
     *   B305
 
-    *   B305 Ruhpolding, F
+    *   B305 Ruhpolding, Chiemgau Arena, A
 
-    *   47.68748
+    *   47.71589
 
-    *   12.58591
-
-
-*    *   2099
-
-    *   B305
-
-    *   B305 Ruhpolding, D
-
-    *   47.6974
-
-    *   12.60442
+    *   12.64412
 
 
-*    *   2100
-
-    *   B305
-
-    *   B305 Ruhpolding, C
-
-    *   47.70046
-
-    *   12.61386
-
-
-*    *   2101
-
-    *   B305
-
-    *   B305 Ruhpolding, B
-
-    *   47.7153
-
-    *   12.64229
-
-
-*    *   2102
-
-    *   B305
-
-    *   B305 Ruhpolding, Laubau, A
-
-    *   47.72776
-
-    *   12.66063
-
-
-*    *   2103
+*    *   2331
 
     *   B305
 
     *   B305 Ruhpolding, Fritz am Sand
 
-    *   47.73104
+    *   47.73058
 
-    *   12.66297
+    *   12.6623
 
 
-*    *   2104
+*    *   2332
 
     *   B305
 
@@ -23203,7 +25711,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.73158
 
 
-*    *   2105
+*    *   2333
 
     *   B305
 
@@ -23214,7 +25722,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.80103
 
 
-*    *   2106
+*    *   2334
 
     *   B305
 
@@ -23225,18 +25733,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.80267
 
 
-*    *   2107
-
-    *   B305
-
-    *   B305 Ramsau bei Berchtesgaden, Mordau
-
-    *   47.63067
-
-    *   12.8708
-
-
-*    *   2108
+*    *   2335
 
     *   B305
 
@@ -23247,7 +25744,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.00106
 
 
-*    *   2109
+*    *   2336
 
     *   B305
 
@@ -23258,7 +25755,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.0387
 
 
-*    *   2110
+*    *   2337
 
     *   B307
 
@@ -23269,183 +25766,106 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.46645
 
 
-*    *   2111
-
-    *   B307
-
-    *   B307 Lenggries, Staffelgraben
-
-    *   47.56031
-
-    *   11.50114
-
-
-*    *   2112
-
-    *   B307
-
-    *   B307 Lenggries, Fallerklammbrücke
-
-    *   47.57783
-
-    *   11.53799
-
-
-*    *   2113
+*    *   2338
 
     *   B307
 
     *   B307 Lenggries, Walchen
 
-    *   47.58208
+    *   47.5821
 
-    *   11.58827
+    *   11.5884
 
 
-*    *   2114
+*    *   2339
 
     *   B307
 
-    *   B307 Kreuth, F
+    *   B307 Lenggries, Wanderparkplatz Hochalm
+
+    *   47.58339
+
+    *   11.59757
+
+
+*    *   2340
+
+    *   B307
+
+    *   B307 Kreuth, Forsthaus Glashütte
+
+    *   47.6121
+
+    *   11.66689
+
+
+*    *   2341
+
+    *   B307
+
+    *   B307 Kreuth, B
 
     *   47.61923
 
     *   11.697
 
 
-*    *   2115
+*    *   2342
 
     *   B307
 
-    *   B307 Kreuth, E
+    *   B307 Kreuth, A
 
     *   47.62189
 
     *   11.71173
 
 
-*    *   2116
-
-    *   B307
-
-    *   B307 Kreuth, A
-
-    *   47.62334
-
-    *   11.72276
-
-
-*    *   2117
-
-    *   B307
-
-    *   B307 Kreuth, Brunnbichl
-
-    *   47.65293
-
-    *   11.74768
-
-
-*    *   2118
-
-    *   B307
-
-    *   B307 Schleching, A
-
-    *   47.69282
-
-    *   12.39433
-
-
-*    *   2119
+*    *   2343
 
     *   B308
 
-    *   B308 Scheidegg, Grüntenweg
-
-    *   47.58736
-
-    *   9.85714
-
-
-*    *   2120
-
-    *   B308
-
-    *   B308 Scheidegg, B
+    *   B308 Scheidegg
 
     *   47.58694
 
     *   9.87641
 
 
-*    *   2121
-
-    *   B308
-
-    *   B308 Lindenberg im Allgäu, Ruppenmanklitz
-
-    *   47.59316
-
-    *   9.88731
-
-
-*    *   2122
-
-    *   B308
-
-    *   B308 Weiler-Simmerberg
-
-    *   47.57002
-
-    *   9.92868
-
-
-*    *   2123
-
-    *   B308
-
-    *   B308 Oberreute
-
-    *   47.56899
-
-    *   9.93062
-
-
-*    *   2124
+*    *   2344
 
     *   B308
 
     *   B308 Oberstaufen, A
-
-    *   47.55514
-
-    *   9.99177
-
-
-*    *   2125
-
-    *   B308
-
-    *   B308 Oberstaufen, B
-
-    *   47.54331
-
-    *   9.98984
-
-
-*    *   2126
-
-    *   B308
-
-    *   B308 Oberstaufen, Rainwaldstraße
 
     *   47.54978
 
     *   10.02739
 
 
-*    *   2127
+*    *   2345
+
+    *   B308
+
+    *   B308 Oberstaufen, B
+
+    *   47.54949
+
+    *   10.03761
+
+
+*    *   2346
+
+    *   B308
+
+    *   B308 Immenstadt i. Allgäu, Ratholz, C
+
+    *   47.56303
+
+    *   10.14569
+
+
+*    *   2347
 
     *   B308
 
@@ -23456,18 +25876,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.15974
 
 
-*    *   2128
+*    *   2348
 
     *   B308
 
-    *   B308 Sonthofen, B
+    *   B308 Sonthofen
 
     *   47.50415
 
     *   10.32596
 
 
-*    *   2129
+*    *   2349
+
+    *   B308
+
+    *   B308 Bad Hindelang, Reckenberg, A
+
+    *   47.50469
+
+    *   10.33164
+
+
+*    *   2350
 
     *   B308
 
@@ -23478,7 +25909,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.39156
 
 
-*    *   2130
+*    *   2351
+
+    *   B308
+
+    *   B308 Bad Hindelang
+
+    *   47.52535
+
+    *   10.43155
+
+
+*    *   2352
 
     *   B310
 
@@ -23489,7 +25931,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.41379
 
 
-*    *   2131
+*    *   2353
 
     *   B311
 
@@ -23500,7 +25942,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.69979
 
 
-*    *   2132
+*    *   2354
 
     *   B311
 
@@ -23511,7 +25953,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04992
 
 
-*    *   2133
+*    *   2355
 
     *   B311
 
@@ -23522,7 +25964,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.13692
 
 
-*    *   2134
+*    *   2356
 
     *   B311
 
@@ -23533,7 +25975,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.21797
 
 
-*    *   2135
+*    *   2357
 
     *   B311
 
@@ -23544,7 +25986,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.26485
 
 
-*    *   2136
+*    *   2358
 
     *   B311
 
@@ -23555,7 +25997,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.48352
 
 
-*    *   2137
+*    *   2359
 
     *   B311
 
@@ -23566,7 +26008,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53133
 
 
-*    *   2138
+*    *   2360
 
     *   B311
 
@@ -23577,7 +26019,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63773
 
 
-*    *   2139
+*    *   2361
 
     *   B311
 
@@ -23588,7 +26030,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.67103
 
 
-*    *   2140
+*    *   2362
 
     *   B311
 
@@ -23599,18 +26041,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.68652
 
 
-*    *   2141
-
-    *   B311
-
-    *   B311 Erbach, A
-
-    *   48.31691
-
-    *   9.87468
-
-
-*    *   2142
+*    *   2363
 
     *   B311
 
@@ -23621,7 +26052,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.96068
 
 
-*    *   2143
+*    *   2364
 
     *   B311
 
@@ -23632,7 +26063,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.96762
 
 
-*    *   2144
+*    *   2365
 
     *   B312
 
@@ -23643,7 +26074,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.25675
 
 
-*    *   2145
+*    *   2366
 
     *   B312
 
@@ -23654,7 +26085,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.31096
 
 
-*    *   2146
+*    *   2367
 
     *   B312
 
@@ -23665,7 +26096,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.32464
 
 
-*    *   2147
+*    *   2368
 
     *   B312
 
@@ -23676,7 +26107,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.33628
 
 
-*    *   2148
+*    *   2369
 
     *   B312
 
@@ -23687,7 +26118,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.34374
 
 
-*    *   2149
+*    *   2370
 
     *   B312
 
@@ -23698,84 +26129,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.34627
 
 
-*    *   2150
+*    *   2371
 
     *   B312
 
-    *   B312 Pfronstetten, Albblick, B
+    *   B312 Zwiefalten, Talweg
 
-    *   48.2446
+    *   48.21916
 
-    *   9.40899
-
-
-*    *   2151
-
-    *   B312
-
-    *   B312 Pfronstetten, C
-
-    *   48.23707
-
-    *   9.42165
+    *   9.48834
 
 
-*    *   2152
-
-    *   B312
-
-    *   B312 Zwiefalten, A
-
-    *   48.2329
-
-    *   9.44428
-
-
-*    *   2153
-
-    *   B312
-
-    *   B312 Zwiefalten, B
-
-    *   48.21663
-
-    *   9.49476
-
-
-*    *   2154
-
-    *   B312
-
-    *   B312 Riedlingen, B
-
-    *   48.21074
-
-    *   9.49865
-
-
-*    *   2155
-
-    *   B312
-
-    *   B312 Riedlingen, C
-
-    *   48.20662
-
-    *   9.49245
-
-
-*    *   2156
-
-    *   B312
-
-    *   B312 Riedlingen, D
-
-    *   48.1899
-
-    *   9.48742
-
-
-*    *   2157
+*    *   2372
 
     *   B312
 
@@ -23786,7 +26151,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53231
 
 
-*    *   2158
+*    *   2373
 
     *   B312
 
@@ -23797,7 +26162,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.55242
 
 
-*    *   2159
+*    *   2374
 
     *   B312
 
@@ -23808,7 +26173,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.75155
 
 
-*    *   2160
+*    *   2375
 
     *   B312
 
@@ -23819,7 +26184,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.84179
 
 
-*    *   2161
+*    *   2376
 
     *   B312
 
@@ -23830,7 +26195,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.84738
 
 
-*    *   2162
+*    *   2377
 
     *   B312
 
@@ -23841,7 +26206,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.03478
 
 
-*    *   2163
+*    *   2378
 
     *   B312
 
@@ -23852,7 +26217,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.07623
 
 
-*    *   2164
+*    *   2379
 
     *   B313
 
@@ -23863,7 +26228,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.99645
 
 
-*    *   2165
+*    *   2380
 
     *   B313
 
@@ -23874,7 +26239,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00508
 
 
-*    *   2166
+*    *   2381
 
     *   B313
 
@@ -23885,7 +26250,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.15755
 
 
-*    *   2167
+*    *   2382
 
     *   B313
 
@@ -23896,7 +26261,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.24014
 
 
-*    *   2168
+*    *   2383
 
     *   B313
 
@@ -23907,7 +26272,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.2504
 
 
-*    *   2169
+*    *   2384
 
     *   B313
 
@@ -23918,7 +26283,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.24771
 
 
-*    *   2170
+*    *   2385
 
     *   B313
 
@@ -23929,7 +26294,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.25887
 
 
-*    *   2171
+*    *   2386
 
     *   B314
 
@@ -23940,7 +26305,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.33711
 
 
-*    *   2172
+*    *   2387
 
     *   B314
 
@@ -23951,7 +26316,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.37235
 
 
-*    *   2173
+*    *   2388
 
     *   B314
 
@@ -23962,7 +26327,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.51805
 
 
-*    *   2174
+*    *   2389
 
     *   B314
 
@@ -23973,7 +26338,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.53206
 
 
-*    *   2175
+*    *   2390
 
     *   B314
 
@@ -23984,7 +26349,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.57989
 
 
-*    *   2176
+*    *   2391
 
     *   B314
 
@@ -23995,7 +26360,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.64668
 
 
-*    *   2177
+*    *   2392
 
     *   B314
 
@@ -24006,7 +26371,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.69426
 
 
-*    *   2178
+*    *   2393
 
     *   B315
 
@@ -24017,7 +26382,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.16511
 
 
-*    *   2179
+*    *   2394
 
     *   B315
 
@@ -24028,7 +26393,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.34661
 
 
-*    *   2180
+*    *   2395
 
     *   B315
 
@@ -24039,7 +26404,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.34561
 
 
-*    *   2181
+*    *   2396
 
     *   B315
 
@@ -24050,7 +26415,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36279
 
 
-*    *   2182
+*    *   2397
 
     *   B315
 
@@ -24061,7 +26426,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36634
 
 
-*    *   2183
+*    *   2398
 
     *   B315
 
@@ -24072,7 +26437,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.3717
 
 
-*    *   2184
+*    *   2399
 
     *   B317
 
@@ -24083,7 +26448,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.65419
 
 
-*    *   2185
+*    *   2400
 
     *   B317
 
@@ -24094,7 +26459,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.87486
 
 
-*    *   2186
+*    *   2401
 
     *   B317
 
@@ -24105,7 +26470,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.91628
 
 
-*    *   2187
+*    *   2402
 
     *   B317
 
@@ -24116,7 +26481,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.96365
 
 
-*    *   2188
+*    *   2403
 
     *   B317
 
@@ -24127,7 +26492,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.00728
 
 
-*    *   2189
+*    *   2404
 
     *   B317
 
@@ -24138,7 +26503,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.01275
 
 
-*    *   2190
+*    *   2405
 
     *   B317
 
@@ -24149,7 +26514,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.04708
 
 
-*    *   2191
+*    *   2406
 
     *   B317
 
@@ -24160,7 +26525,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.05063
 
 
-*    *   2192
+*    *   2407
 
     *   B317
 
@@ -24171,7 +26536,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.06132
 
 
-*    *   2193
+*    *   2408
 
     *   B317
 
@@ -24182,7 +26547,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12591
 
 
-*    *   2194
+*    *   2409
 
     *   B317
 
@@ -24193,29 +26558,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.15968
 
 
-*    *   2195
-
-    *   B318
-
-    *   B318 Bad Wiessee, An der Bayersäg, B
-
-    *   47.73651
-
-    *   11.71853
-
-
-*    *   2196
-
-    *   B318
-
-    *   B318 Bad Wiessee, An der Bayersäg, A
-
-    *   47.73786
-
-    *   11.71808
-
-
-*    *   2197
+*    *   2410
 
     *   B318
 
@@ -24226,7 +26569,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.7136
 
 
-*    *   2198
+*    *   2411
 
     *   B320
 
@@ -24237,7 +26580,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.14116
 
 
-*    *   2199
+*    *   2412
 
     *   B320
 
@@ -24248,7 +26591,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.20487
 
 
-*    *   2200
+*    *   2413
 
     *   B320
 
@@ -24259,7 +26602,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   14.372
 
 
-*    *   2201
+*    *   2414
 
     *   B321
 
@@ -24270,7 +26613,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.51258
 
 
-*    *   2202
+*    *   2415
+
+    *   B321
+
+    *   B321 Crivitz, Waldschlößchenweg
+
+    *   53.58698
+
+    *   11.59107
+
+
+*    *   2416
 
     *   B321
 
@@ -24281,7 +26635,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.84871
 
 
-*    *   2203
+*    *   2417
 
     *   B327
 
@@ -24292,7 +26646,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.58699
 
 
-*    *   2204
+*    *   2418
 
     *   B327
 
@@ -24303,7 +26657,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.56479
 
 
-*    *   2205
+*    *   2419
 
     *   B327
 
@@ -24314,7 +26668,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.42058
 
 
-*    *   2206
+*    *   2420
 
     *   B327
 
@@ -24325,7 +26679,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.37905
 
 
-*    *   2207
+*    *   2421
 
     *   B327
 
@@ -24336,7 +26690,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.1351
 
 
-*    *   2208
+*    *   2422
 
     *   B327
 
@@ -24347,7 +26701,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.0109
 
 
-*    *   2209
+*    *   2423
 
     *   B327
 
@@ -24358,7 +26712,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.01844
 
 
-*    *   2210
+*    *   2424
 
     *   B327
 
@@ -24369,7 +26723,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.99544
 
 
-*    *   2211
+*    *   2425
 
     *   B327
 
@@ -24380,7 +26734,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.97281
 
 
-*    *   2212
+*    *   2426
 
     *   B328
 
@@ -24391,7 +26745,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.37596
 
 
-*    *   2213
+*    *   2427
 
     *   B378
 
@@ -24402,7 +26756,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.5489
 
 
-*    *   2214
+*    *   2428
 
     *   B388
 
@@ -24410,10 +26764,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   48.28787
 
-    *   11.91178
+    *   11.91177
 
 
-*    *   2215
+*    *   2429
 
     *   B388
 
@@ -24424,7 +26778,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.64135
 
 
-*    *   2216
+*    *   2430
 
     *   B388
 
@@ -24435,7 +26789,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.50213
 
 
-*    *   2217
+*    *   2431
 
     *   B388
 
@@ -24446,7 +26800,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.64176
 
 
-*    *   2218
+*    *   2432
 
     *   B388
 
@@ -24457,7 +26811,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.68944
 
 
-*    *   2219
+*    *   2433
 
     *   B388
 
@@ -24468,7 +26822,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.75158
 
 
-*    *   2220
+*    *   2434
+
+    *   B392
+
+    *   B392 Zölkow, Ausbau
+
+    *   53.56763
+
+    *   11.85902
+
+
+*    *   2435
+
+    *   B392
+
+    *   B392 Mestlin, Forsthof
+
+    *   53.57398
+
+    *   11.91134
+
+
+*    *   2436
+
+    *   B392
+
+    *   B392 Mestlin, A
+
+    *   53.57906
+
+    *   11.93113
+
+
+*    *   2437
+
+    *   B392
+
+    *   B392 Mestlin, Goldberger Chaussee
+
+    *   53.58382
+
+    *   11.9621
+
+
+*    *   2438
 
     *   B399
 
@@ -24479,29 +26877,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.36053
 
 
-*    *   2221
+*    *   2439
 
     *   B400
 
-    *   B400 Sontra, Baustellenzufahrt A44
-
-    *   51.10119
-
-    *   9.96758
-
-
-*    *   2222
-
-    *   B400
-
-    *   B400 Sontra
+    *   B400 Sontra, B
 
     *   51.09668
 
     *   9.97162
 
 
-*    *   2223
+*    *   2440
 
     *   B400
 
@@ -24512,7 +26899,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.01601
 
 
-*    *   2224
+*    *   2441
 
     *   B400
 
@@ -24523,40 +26910,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.04605
 
 
-*    *   2225
-
-    *   B401
-
-    *   B401 Dörpen
-
-    *   52.9862
-
-    *   7.41003
-
-
-*    *   2226
-
-    *   B401
-
-    *   B401 Surwold
-
-    *   52.99079
-
-    *   7.43692
-
-
-*    *   2227
-
-    *   B401
-
-    *   B401 Edewecht
-
-    *   53.09337
-
-    *   8.08002
-
-
-*    *   2228
+*    *   2442
 
     *   B401
 
@@ -24567,7 +26921,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.269
 
 
-*    *   2229
+*    *   2443
+
+    *   B401
+
+    *   B401 Dörpen
+
+    *   52.9862
+
+    *   7.41003
+
+
+*    *   2444
+
+    *   B401
+
+    *   B401 Surwold
+
+    *   52.99079
+
+    *   7.43692
+
+
+*    *   2445
+
+    *   B401
+
+    *   B401 Edewecht
+
+    *   53.09337
+
+    *   8.08002
+
+
+*    *   2446
 
     *   B402
 
@@ -24578,7 +26965,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.2199
 
 
-*    *   2230
+*    *   2447
 
     *   B402
 
@@ -24589,7 +26976,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.3427
 
 
-*    *   2231
+*    *   2448
 
     *   B402
 
@@ -24600,7 +26987,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.39433
 
 
-*    *   2232
+*    *   2449
 
     *   B402
 
@@ -24611,7 +26998,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.44699
 
 
-*    *   2233
+*    *   2450
 
     *   B402
 
@@ -24622,7 +27009,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.46516
 
 
-*    *   2234
+*    *   2451
 
     *   B402
 
@@ -24633,7 +27020,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.48094
 
 
-*    *   2235
+*    *   2452
 
     *   B403
 
@@ -24644,7 +27031,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.16349
 
 
-*    *   2236
+*    *   2453
 
     *   B403
 
@@ -24655,7 +27042,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.1709
 
 
-*    *   2237
+*    *   2454
 
     *   B403
 
@@ -24666,7 +27053,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.14809
 
 
-*    *   2238
+*    *   2455
 
     *   B403
 
@@ -24677,7 +27064,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.84804
 
 
-*    *   2239
+*    *   2456
 
     *   B403
 
@@ -24688,7 +27075,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.85217
 
 
-*    *   2240
+*    *   2457
 
     *   B403
 
@@ -24699,18 +27086,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.81874
 
 
-*    *   2241
-
-    *   B404
-
-    *   B404 Kirchbarkau
-
-    *   54.21263
-
-    *   10.14888
-
-
-*    *   2242
+*    *   2458
 
     *   B404
 
@@ -24721,7 +27097,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.15321
 
 
-*    *   2243
+*    *   2459
 
     *   B404
 
@@ -24732,51 +27108,51 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.35962
 
 
-*    *   2244
+*    *   2460
 
     *   B404
 
-    *   B404 Todendorf
+    *   B404 Todendorf, Rastplatz Wolfsbrook
 
-    *   53.69639
+    *   53.69643
 
     *   10.37201
 
 
-*    *   2245
+*    *   2461
 
     *   B404
 
-    *   B404 Lütjensee
+    *   B404 Lütjensee, Rastplatz Finkhorster Berg
 
-    *   53.67131
+    *   53.67116
 
-    *   10.37983
-
-
-*    *   2246
-
-    *   B404
-
-    *   B404 Grönwohld
-
-    *   53.64146
-
-    *   10.39213
+    *   10.37987
 
 
-*    *   2247
+*    *   2462
 
     *   B404
 
-    *   B404 Trittau
+    *   B404 Grönwohld, Rastplatz Drahtteich
+
+    *   53.64064
+
+    *   10.39146
+
+
+*    *   2463
+
+    *   B404
+
+    *   B404 Trittau, Rastplatz Karnaphof
 
     *   53.6248
 
     *   10.38346
 
 
-*    *   2248
+*    *   2464
 
     *   B404
 
@@ -24787,7 +27163,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.4302
 
 
-*    *   2249
+*    *   2465
 
     *   B404
 
@@ -24798,7 +27174,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.35454
 
 
-*    *   2250
+*    *   2466
 
     *   B406
 
@@ -24809,7 +27185,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.44647
 
 
-*    *   2251
+*    *   2467
 
     *   B406
 
@@ -24820,7 +27196,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.40403
 
 
-*    *   2252
+*    *   2468
 
     *   B407
 
@@ -24831,7 +27207,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.51259
 
 
-*    *   2253
+*    *   2469
 
     *   B407
 
@@ -24842,7 +27218,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.52928
 
 
-*    *   2254
+*    *   2470
 
     *   B407
 
@@ -24853,7 +27229,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.59275
 
 
-*    *   2255
+*    *   2471
 
     *   B407
 
@@ -24864,7 +27240,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.67901
 
 
-*    *   2256
+*    *   2472
 
     *   B407
 
@@ -24875,7 +27251,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.7038
 
 
-*    *   2257
+*    *   2473
 
     *   B407
 
@@ -24886,7 +27262,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.81524
 
 
-*    *   2258
+*    *   2474
 
     *   B407
 
@@ -24897,7 +27273,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.86627
 
 
-*    *   2259
+*    *   2475
 
     *   B408
 
@@ -24908,7 +27284,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.1634
 
 
-*    *   2260
+*    *   2476
 
     *   B410
 
@@ -24919,7 +27295,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.17956
 
 
-*    *   2261
+*    *   2477
 
     *   B410
 
@@ -24930,7 +27306,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.20598
 
 
-*    *   2262
+*    *   2478
 
     *   B410
 
@@ -24941,7 +27317,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.22391
 
 
-*    *   2263
+*    *   2479
 
     *   B410
 
@@ -24952,7 +27328,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.28631
 
 
-*    *   2264
+*    *   2480
 
     *   B410
 
@@ -24963,7 +27339,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.32695
 
 
-*    *   2265
+*    *   2481
 
     *   B410
 
@@ -24974,7 +27350,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.36746
 
 
-*    *   2266
+*    *   2482
 
     *   B410
 
@@ -24985,7 +27361,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.38581
 
 
-*    *   2267
+*    *   2483
 
     *   B410
 
@@ -24996,7 +27372,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.43112
 
 
-*    *   2268
+*    *   2484
 
     *   B410
 
@@ -25007,7 +27383,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.43483
 
 
-*    *   2269
+*    *   2485
 
     *   B410
 
@@ -25018,7 +27394,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.51157
 
 
-*    *   2270
+*    *   2486
 
     *   B410
 
@@ -25029,7 +27405,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.5181
 
 
-*    *   2271
+*    *   2487
 
     *   B410
 
@@ -25040,7 +27416,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.70145
 
 
-*    *   2272
+*    *   2488
 
     *   B410
 
@@ -25051,7 +27427,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.70671
 
 
-*    *   2273
+*    *   2489
 
     *   B410
 
@@ -25062,7 +27438,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.75943
 
 
-*    *   2274
+*    *   2490
 
     *   B410
 
@@ -25073,7 +27449,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.85482
 
 
-*    *   2275
+*    *   2491
 
     *   B410
 
@@ -25084,7 +27460,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.90418
 
 
-*    *   2276
+*    *   2492
 
     *   B410
 
@@ -25095,7 +27471,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.9615
 
 
-*    *   2277
+*    *   2493
 
     *   B410
 
@@ -25106,7 +27482,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.96308
 
 
-*    *   2278
+*    *   2494
 
     *   B411
 
@@ -25117,7 +27493,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.46712
 
 
-*    *   2279
+*    *   2495
 
     *   B412
 
@@ -25128,7 +27504,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.00995
 
 
-*    *   2280
+*    *   2496
 
     *   B412
 
@@ -25139,7 +27515,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.23635
 
 
-*    *   2281
+*    *   2497
 
     *   B413
 
@@ -25150,7 +27526,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.58393
 
 
-*    *   2282
+*    *   2498
 
     *   B413
 
@@ -25161,7 +27537,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.80686
 
 
-*    *   2283
+*    *   2499
 
     *   B414
 
@@ -25172,7 +27548,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.71505
 
 
-*    *   2284
+*    *   2500
 
     *   B414
 
@@ -25183,7 +27559,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.90734
 
 
-*    *   2285
+*    *   2501
 
     *   B414
 
@@ -25194,7 +27570,95 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.98705
 
 
-*    *   2286
+*    *   2502
+
+    *   B415
+
+    *   B3 Lahr/Schwarzwald, Im Götzmann
+
+    *   48.33499
+
+    *   7.84739
+
+
+*    *   2503
+
+    *   B415
+
+    *   B415 Lahr/Schwarzwald, Kuhbacher Hauptstraße
+
+    *   48.33492
+
+    *   7.91767
+
+
+*    *   2504
+
+    *   B415
+
+    *   B415 Lahr/Schwarzwald, Lützelhardtstraße
+
+    *   48.32161
+
+    *   7.94066
+
+
+*    *   2505
+
+    *   B415
+
+    *   B415 Seelbach, Alte Landstraße
+
+    *   48.32378
+
+    *   7.95333
+
+
+*    *   2506
+
+    *   B415
+
+    *   B415 Seelbach, Ludwigstraße, B
+
+    *   48.32513
+
+    *   7.96059
+
+
+*    *   2507
+
+    *   B415
+
+    *   B415 Seelbach, Ludwigstraße, A
+
+    *   48.32533
+
+    *   7.96557
+
+
+*    *   2508
+
+    *   B415
+
+    *   B415 Seelbach, Rebioweg
+
+    *   48.32658
+
+    *   7.98679
+
+
+*    *   2509
+
+    *   B415
+
+    *   B415 Biberach, Emmersbach
+
+    *   48.33492
+
+    *   8.01821
+
+
+*    *   2510
 
     *   B416
 
@@ -25205,7 +27669,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.33025
 
 
-*    *   2287
+*    *   2511
 
     *   B416
 
@@ -25216,7 +27680,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.44994
 
 
-*    *   2288
+*    *   2512
 
     *   B416
 
@@ -25227,7 +27691,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.45826
 
 
-*    *   2289
+*    *   2513
 
     *   B416
 
@@ -25238,7 +27702,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.47774
 
 
-*    *   2290
+*    *   2514
 
     *   B416
 
@@ -25249,7 +27713,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.51905
 
 
-*    *   2291
+*    *   2515
 
     *   B417
 
@@ -25260,7 +27724,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20102
 
 
-*    *   2292
+*    *   2516
 
     *   B417
 
@@ -25271,7 +27735,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.19989
 
 
-*    *   2293
+*    *   2517
 
     *   B417
 
@@ -25282,7 +27746,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.19617
 
 
-*    *   2294
+*    *   2518
 
     *   B417
 
@@ -25293,18 +27757,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18317
 
 
-*    *   2295
-
-    *   B417
-
-    *   B417 Kirberg Hünfelden, Hünfeldener Höhe
-
-    *   50.31368
-
-    *   8.15587
-
-
-*    *   2296
+*    *   2519
 
     *   B417
 
@@ -25315,7 +27768,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.91873
 
 
-*    *   2297
+*    *   2520
 
     *   B417
 
@@ -25326,7 +27779,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.90568
 
 
-*    *   2298
+*    *   2521
 
     *   B418
 
@@ -25337,7 +27790,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.53155
 
 
-*    *   2299
+*    *   2522
 
     *   B419
 
@@ -25348,7 +27801,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.42155
 
 
-*    *   2300
+*    *   2523
 
     *   B420
 
@@ -25359,7 +27812,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.16702
 
 
-*    *   2301
+*    *   2524
 
     *   B420
 
@@ -25370,7 +27823,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.37947
 
 
-*    *   2302
+*    *   2525
 
     *   B420
 
@@ -25381,7 +27834,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.62902
 
 
-*    *   2303
+*    *   2526
 
     *   B420
 
@@ -25392,7 +27845,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.74365
 
 
-*    *   2304
+*    *   2527
 
     *   B420
 
@@ -25403,7 +27856,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.83012
 
 
-*    *   2305
+*    *   2528
 
     *   B420
 
@@ -25414,7 +27867,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.93355
 
 
-*    *   2306
+*    *   2529
 
     *   B420
 
@@ -25425,7 +27878,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.07355
 
 
-*    *   2307
+*    *   2530
 
     *   B420
 
@@ -25436,18 +27889,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.08265
 
 
-*    *   2308
-
-    *   B420
-
-    *   B420 Undenheim, K36
-
-    *   49.84356
-
-    *   8.24489
-
-
-*    *   2309
+*    *   2531
 
     *   B420
 
@@ -25458,40 +27900,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.30438
 
 
-*    *   2310
+*    *   2532
 
     *   B421
 
-    *   B421 Hallschlag, Vennquerbahn
+    *   B421 Hellenthal
 
-    *   50.35483
+    *   50.35229
 
-    *   6.43183
-
-
-*    *   2311
-
-    *   B421
-
-    *   B421 Stadtkyll, A
-
-    *   50.35119
-
-    *   6.54996
+    *   6.39083
 
 
-*    *   2312
-
-    *   B421
-
-    *   B421 Stadtkyll, B
-
-    *   50.35071
-
-    *   6.55339
-
-
-*    *   2313
+*    *   2533
 
     *   B421
 
@@ -25502,7 +27922,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.64238
 
 
-*    *   2314
+*    *   2534
 
     *   B421
 
@@ -25513,7 +27933,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.69802
 
 
-*    *   2315
+*    *   2535
 
     *   B421
 
@@ -25524,7 +27944,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.77462
 
 
-*    *   2316
+*    *   2536
 
     *   B421
 
@@ -25535,7 +27955,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.77604
 
 
-*    *   2317
+*    *   2537
 
     *   B421
 
@@ -25546,7 +27966,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.9925
 
 
-*    *   2318
+*    *   2538
 
     *   B421
 
@@ -25557,7 +27977,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.98558
 
 
-*    *   2319
+*    *   2539
 
     *   B421
 
@@ -25568,7 +27988,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.98789
 
 
-*    *   2320
+*    *   2540
 
     *   B421
 
@@ -25579,7 +27999,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.01937
 
 
-*    *   2321
+*    *   2541
 
     *   B421
 
@@ -25590,7 +28010,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.20775
 
 
-*    *   2322
+*    *   2542
 
     *   B421
 
@@ -25601,7 +28021,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.21341
 
 
-*    *   2323
+*    *   2543
 
     *   B421
 
@@ -25612,7 +28032,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.22111
 
 
-*    *   2324
+*    *   2544
 
     *   B421
 
@@ -25623,7 +28043,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.22922
 
 
-*    *   2325
+*    *   2545
 
     *   B421
 
@@ -25634,7 +28054,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.24787
 
 
-*    *   2326
+*    *   2546
 
     *   B421
 
@@ -25645,7 +28065,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.46202
 
 
-*    *   2327
+*    *   2547
 
     *   B421
 
@@ -25656,7 +28076,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.48762
 
 
-*    *   2328
+*    *   2548
 
     *   B422
 
@@ -25667,7 +28087,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.20536
 
 
-*    *   2329
+*    *   2549
 
     *   B422
 
@@ -25678,7 +28098,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.2416
 
 
-*    *   2330
+*    *   2550
 
     *   B423
 
@@ -25689,7 +28109,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.45053
 
 
-*    *   2331
+*    *   2551
 
     *   B423
 
@@ -25700,7 +28120,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.46106
 
 
-*    *   2332
+*    *   2552
 
     *   B424
 
@@ -25711,7 +28131,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35767
 
 
-*    *   2333
+*    *   2553
 
     *   B426
 
@@ -25722,7 +28142,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.04768
 
 
-*    *   2334
+*    *   2554
 
     *   B427
 
@@ -25733,7 +28153,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.94145
 
 
-*    *   2335
+*    *   2555
 
     *   B427
 
@@ -25744,7 +28164,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.94541
 
 
-*    *   2336
+*    *   2556
 
     *   B430
 
@@ -25755,7 +28175,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.78198
 
 
-*    *   2337
+*    *   2557
 
     *   B430
 
@@ -25766,7 +28186,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.0273
 
 
-*    *   2338
+*    *   2558
 
     *   B430
 
@@ -25777,7 +28197,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.28358
 
 
-*    *   2339
+*    *   2559
 
     *   B430
 
@@ -25788,7 +28208,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.29427
 
 
-*    *   2340
+*    *   2560
 
     *   B430
 
@@ -25799,7 +28219,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.37284
 
 
-*    *   2341
+*    *   2561
 
     *   B430
 
@@ -25810,7 +28230,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.40451
 
 
-*    *   2342
+*    *   2562
 
     *   B431
 
@@ -25821,7 +28241,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.1312
 
 
-*    *   2343
+*    *   2563
 
     *   B431
 
@@ -25832,7 +28252,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.21804
 
 
-*    *   2344
+*    *   2564
 
     *   B431
 
@@ -25843,18 +28263,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.67054
 
 
-*    *   2345
+*    *   2565
 
     *   B431
 
     *   B431 Hamburg, Von-Sauer-Straße
 
-    *   53.56575
+    *   53.56576
 
-    *   9.90894
+    *   9.90892
 
 
-*    *   2346
+*    *   2566
 
     *   B431
 
@@ -25865,7 +28285,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.69361
 
 
-*    *   2347
+*    *   2567
 
     *   B432
 
@@ -25876,7 +28296,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.05737
 
 
-*    *   2348
+*    *   2568
 
     *   B432
 
@@ -25887,7 +28307,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.06359
 
 
-*    *   2349
+*    *   2569
+
+    *   B432
+
+    *   B432 Hamburg, Brunsteenredder
+
+    *   53.7103
+
+    *   10.07112
+
+
+*    *   2570
 
     *   B432
 
@@ -25898,7 +28329,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.2644
 
 
-*    *   2350
+*    *   2571
 
     *   B432
 
@@ -25909,7 +28340,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.49248
 
 
-*    *   2351
+*    *   2572
 
     *   B432
 
@@ -25920,7 +28351,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.53846
 
 
-*    *   2352
+*    *   2573
 
     *   B436
 
@@ -25931,7 +28362,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36786
 
 
-*    *   2353
+*    *   2574
 
     *   B436
 
@@ -25942,7 +28373,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36998
 
 
-*    *   2354
+*    *   2575
 
     *   B436
 
@@ -25953,7 +28384,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.37558
 
 
-*    *   2355
+*    *   2576
 
     *   B436
 
@@ -25964,7 +28395,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.74309
 
 
-*    *   2356
+*    *   2577
 
     *   B437
 
@@ -25975,7 +28406,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.86338
 
 
-*    *   2357
+*    *   2578
 
     *   B437
 
@@ -25986,7 +28417,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.92268
 
 
-*    *   2358
+*    *   2579
 
     *   B437
 
@@ -25997,7 +28428,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.26259
 
 
-*    *   2359
+*    *   2580
 
     *   B437
 
@@ -26008,7 +28439,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.42462
 
 
-*    *   2360
+*    *   2581
 
     *   B440
 
@@ -26019,7 +28450,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.56624
 
 
-*    *   2361
+*    *   2582
 
     *   B441
 
@@ -26030,7 +28461,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.27803
 
 
-*    *   2362
+*    *   2583
 
     *   B441
 
@@ -26041,7 +28472,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.3907
 
 
-*    *   2363
+*    *   2584
 
     *   B441
 
@@ -26052,7 +28483,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41743
 
 
-*    *   2364
+*    *   2585
 
     *   B441
 
@@ -26063,7 +28494,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.41947
 
 
-*    *   2365
+*    *   2586
 
     *   B441
 
@@ -26074,7 +28505,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.42138
 
 
-*    *   2366
+*    *   2587
+
+    *   B442
+
+    *   B442 Wunstorf, A
+
+    *   52.43872
+
+    *   9.43347
+
+
+*    *   2588
 
     *   B442
 
@@ -26085,7 +28527,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.47158
 
 
-*    *   2367
+*    *   2589
 
     *   B444
 
@@ -26096,7 +28538,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.15138
 
 
-*    *   2368
+*    *   2590
 
     *   B446
 
@@ -26107,7 +28549,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.9291
 
 
-*    *   2369
+*    *   2591
 
     *   B446
 
@@ -26118,7 +28560,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.93699
 
 
-*    *   2370
+*    *   2592
 
     *   B446
 
@@ -26129,7 +28571,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.95095
 
 
-*    *   2371
+*    *   2593
 
     *   B446
 
@@ -26140,7 +28582,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.97512
 
 
-*    *   2372
+*    *   2594
 
     *   B446
 
@@ -26151,7 +28593,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.98727
 
 
-*    *   2373
+*    *   2595
 
     *   B446
 
@@ -26162,7 +28604,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.98804
 
 
-*    *   2374
+*    *   2596
 
     *   B446
 
@@ -26173,7 +28615,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.99554
 
 
-*    *   2375
+*    *   2597
 
     *   B446
 
@@ -26184,7 +28626,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.01187
 
 
-*    *   2376
+*    *   2598
 
     *   B446
 
@@ -26195,7 +28637,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.01805
 
 
-*    *   2377
+*    *   2599
 
     *   B446
 
@@ -26206,7 +28648,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.05173
 
 
-*    *   2378
+*    *   2600
 
     *   B446
 
@@ -26217,7 +28659,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.17458
 
 
-*    *   2379
+*    *   2601
 
     *   B448
 
@@ -26228,7 +28670,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.79683
 
 
-*    *   2380
+*    *   2602
 
     *   B448
 
@@ -26239,7 +28681,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.79567
 
 
-*    *   2381
+*    *   2603
 
     *   B450
 
@@ -26250,7 +28692,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.25129
 
 
-*    *   2382
+*    *   2604
 
     *   B450
 
@@ -26261,7 +28703,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.06171
 
 
-*    *   2383
+*    *   2605
 
     *   B450
 
@@ -26272,7 +28714,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.00468
 
 
-*    *   2384
+*    *   2606
 
     *   B451
 
@@ -26283,7 +28725,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.71343
 
 
-*    *   2385
+*    *   2607
 
     *   B451
 
@@ -26294,7 +28736,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.84847
 
 
-*    *   2386
+*    *   2608
 
     *   B452
 
@@ -26305,7 +28747,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.01742
 
 
-*    *   2387
+*    *   2609
 
     *   B453
 
@@ -26316,7 +28758,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.57576
 
 
-*    *   2388
+*    *   2610
 
     *   B453
 
@@ -26327,7 +28769,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.55473
 
 
-*    *   2389
+*    *   2611
 
     *   B453
 
@@ -26338,29 +28780,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.54543
 
 
-*    *   2390
+*    *   2612
 
     *   B454
 
-    *   B454 Stadtallendorf, A
+    *   B454 Schwalmstadt, Treysa
 
-    *   50.83495
+    *   50.91321
 
-    *   9.04299
+    *   9.18183
 
 
-*    *   2391
+*    *   2613
 
     *   B454
 
-    *   B454 Stadtallendorf, B
+    *   B454 Schwalmstadt, Friedrich-Ebert-Straße
 
-    *   50.83387
+    *   50.91843
 
-    *   9.04871
+    *   9.205
 
 
-*    *   2392
+*    *   2614
 
     *   B454
 
@@ -26371,7 +28813,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.29899
 
 
-*    *   2393
+*    *   2615
 
     *   B454
 
@@ -26382,7 +28824,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.58649
 
 
-*    *   2394
+*    *   2616
 
     *   B455
 
@@ -26393,7 +28835,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.39084
 
 
-*    *   2395
+*    *   2617
 
     *   B455
 
@@ -26404,7 +28846,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.40037
 
 
-*    *   2396
+*    *   2618
 
     *   B455
 
@@ -26415,7 +28857,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48329
 
 
-*    *   2397
+*    *   2619
 
     *   B455
 
@@ -26426,7 +28868,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.48622
 
 
-*    *   2398
+*    *   2620
 
     *   B455
 
@@ -26437,7 +28879,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98458
 
 
-*    *   2399
+*    *   2621
 
     *   B455
 
@@ -26448,51 +28890,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.11297
 
 
-*    *   2400
+*    *   2622
 
     *   B456
 
-    *   B456 Usingen, C
+    *   B456 Grävenwiesbach, Am Schneiderskopf
 
-    *   50.34688
+    *   50.36527
 
-    *   8.5196
-
-
-*    *   2401
-
-    *   B456
-
-    *   B456 Usingen, B
-
-    *   50.34879
-
-    *   8.51832
+    *   8.49506
 
 
-*    *   2402
-
-    *   B456
-
-    *   B456 Usingen, A
-
-    *   50.35634
-
-    *   8.50967
-
-
-*    *   2403
-
-    *   B456
-
-    *   B456 Grävenwiesbach, A
-
-    *   50.40336
-
-    *   8.45021
-
-
-*    *   2404
+*    *   2623
 
     *   B456
 
@@ -26503,7 +28912,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.37527
 
 
-*    *   2405
+*    *   2624
 
     *   B456
 
@@ -26514,7 +28923,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.37261
 
 
-*    *   2406
+*    *   2625
 
     *   B456
 
@@ -26525,7 +28934,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36106
 
 
-*    *   2407
+*    *   2626
 
     *   B457
 
@@ -26536,7 +28945,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98171
 
 
-*    *   2408
+*    *   2627
 
     *   B457
 
@@ -26547,7 +28956,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.08349
 
 
-*    *   2409
+*    *   2628
 
     *   B457
 
@@ -26558,7 +28967,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.10051
 
 
-*    *   2410
+*    *   2629
 
     *   B457
 
@@ -26569,7 +28978,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.10879
 
 
-*    *   2411
+*    *   2630
 
     *   B457
 
@@ -26580,7 +28989,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.10862
 
 
-*    *   2412
+*    *   2631
 
     *   B457
 
@@ -26591,7 +29000,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.11052
 
 
-*    *   2413
+*    *   2632
 
     *   B457
 
@@ -26602,18 +29011,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.1326
 
 
-*    *   2414
-
-    *   B458
-
-    *   B458 Dipperz, Schimmelsgraben
-
-    *   50.533
-
-    *   9.82034
-
-
-*    *   2415
+*    *   2633
 
     *   B458
 
@@ -26624,7 +29022,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.83798
 
 
-*    *   2416
+*    *   2634
 
     *   B458
 
@@ -26635,7 +29033,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.84704
 
 
-*    *   2417
+*    *   2635
 
     *   B458
 
@@ -26646,7 +29044,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.86849
 
 
-*    *   2418
+*    *   2636
 
     *   B458
 
@@ -26657,7 +29055,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.87634
 
 
-*    *   2419
+*    *   2637
 
     *   B460
 
@@ -26668,7 +29066,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.96944
 
 
-*    *   2420
+*    *   2638
 
     *   B460
 
@@ -26679,7 +29077,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.97948
 
 
-*    *   2421
+*    *   2639
 
     *   B461
 
@@ -26690,7 +29088,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.796
 
 
-*    *   2422
+*    *   2640
 
     *   B461
 
@@ -26701,7 +29099,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.79057
 
 
-*    *   2423
+*    *   2641
 
     *   B461
 
@@ -26712,7 +29110,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.80279
 
 
-*    *   2424
+*    *   2642
 
     *   B462
 
@@ -26723,7 +29121,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.30205
 
 
-*    *   2425
+*    *   2643
 
     *   B462
 
@@ -26734,7 +29132,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.32259
 
 
-*    *   2426
+*    *   2644
 
     *   B462
 
@@ -26745,7 +29143,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.35495
 
 
-*    *   2427
+*    *   2645
 
     *   B462
 
@@ -26756,7 +29154,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.35195
 
 
-*    *   2428
+*    *   2646
 
     *   B462
 
@@ -26767,7 +29165,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36102
 
 
-*    *   2429
+*    *   2647
 
     *   B462
 
@@ -26778,7 +29176,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.35962
 
 
-*    *   2430
+*    *   2648
 
     *   B462
 
@@ -26789,7 +29187,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36045
 
 
-*    *   2431
+*    *   2649
 
     *   B462
 
@@ -26800,7 +29198,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.35106
 
 
-*    *   2432
+*    *   2650
 
     *   B462
 
@@ -26811,7 +29209,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.3552
 
 
-*    *   2433
+*    *   2651
 
     *   B462
 
@@ -26822,7 +29220,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36161
 
 
-*    *   2434
+*    *   2652
 
     *   B462
 
@@ -26833,7 +29231,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36367
 
 
-*    *   2435
+*    *   2653
 
     *   B462
 
@@ -26844,7 +29242,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.37294
 
 
-*    *   2436
+*    *   2654
 
     *   B462
 
@@ -26855,7 +29253,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.55803
 
 
-*    *   2437
+*    *   2655
 
     *   B463
 
@@ -26866,7 +29264,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72051
 
 
-*    *   2438
+*    *   2656
 
     *   B463
 
@@ -26877,7 +29275,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72857
 
 
-*    *   2439
+*    *   2657
 
     *   B463
 
@@ -26888,7 +29286,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72932
 
 
-*    *   2440
+*    *   2658
 
     *   B463
 
@@ -26899,7 +29297,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.74125
 
 
-*    *   2441
+*    *   2659
 
     *   B463
 
@@ -26910,7 +29308,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.73812
 
 
-*    *   2442
+*    *   2660
 
     *   B463
 
@@ -26921,7 +29319,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72691
 
 
-*    *   2443
+*    *   2661
 
     *   B463
 
@@ -26932,7 +29330,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.73479
 
 
-*    *   2444
+*    *   2662
 
     *   B463
 
@@ -26943,7 +29341,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.73093
 
 
-*    *   2445
+*    *   2663
 
     *   B463
 
@@ -26954,7 +29352,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72226
 
 
-*    *   2446
+*    *   2664
 
     *   B463
 
@@ -26965,7 +29363,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.87428
 
 
-*    *   2447
+*    *   2665
 
     *   B463
 
@@ -26976,7 +29374,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.87685
 
 
-*    *   2448
+*    *   2666
 
     *   B463
 
@@ -26987,7 +29385,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.89944
 
 
-*    *   2449
+*    *   2667
 
     *   B463
 
@@ -26998,7 +29396,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.94581
 
 
-*    *   2450
+*    *   2668
 
     *   B463
 
@@ -27009,7 +29407,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.98146
 
 
-*    *   2451
+*    *   2669
 
     *   B463
 
@@ -27020,7 +29418,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.03983
 
 
-*    *   2452
+*    *   2670
 
     *   B463
 
@@ -27031,7 +29429,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.14198
 
 
-*    *   2453
+*    *   2671
 
     *   B465
 
@@ -27042,7 +29440,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.9593
 
 
-*    *   2454
+*    *   2672
 
     *   B465
 
@@ -27053,7 +29451,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.7979
 
 
-*    *   2455
+*    *   2673
 
     *   B465
 
@@ -27064,7 +29462,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.79241
 
 
-*    *   2456
+*    *   2674
 
     *   B465
 
@@ -27075,7 +29473,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.79217
 
 
-*    *   2457
+*    *   2675
 
     *   B465
 
@@ -27086,7 +29484,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.75761
 
 
-*    *   2458
+*    *   2676
 
     *   B465
 
@@ -27097,7 +29495,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.72579
 
 
-*    *   2459
+*    *   2677
 
     *   B465
 
@@ -27108,7 +29506,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.66862
 
 
-*    *   2460
+*    *   2678
 
     *   B465
 
@@ -27119,7 +29517,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.66059
 
 
-*    *   2461
+*    *   2679
 
     *   B465
 
@@ -27130,7 +29528,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.61989
 
 
-*    *   2462
+*    *   2680
 
     *   B465
 
@@ -27141,7 +29539,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.5385
 
 
-*    *   2463
+*    *   2681
 
     *   B465
 
@@ -27152,7 +29550,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.53947
 
 
-*    *   2464
+*    *   2682
 
     *   B465
 
@@ -27163,7 +29561,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.51966
 
 
-*    *   2465
+*    *   2683
 
     *   B465
 
@@ -27174,7 +29572,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.56963
 
 
-*    *   2466
+*    *   2684
 
     *   B465
 
@@ -27185,7 +29583,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.56419
 
 
-*    *   2467
+*    *   2685
 
     *   B465
 
@@ -27196,7 +29594,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.56135
 
 
-*    *   2468
+*    *   2686
 
     *   B465
 
@@ -27207,7 +29605,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.54746
 
 
-*    *   2469
+*    *   2687
 
     *   B465
 
@@ -27218,7 +29616,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.54345
 
 
-*    *   2470
+*    *   2688
 
     *   B466
 
@@ -27229,7 +29627,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.68452
 
 
-*    *   2471
+*    *   2689
 
     *   B466
 
@@ -27240,7 +29638,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.88582
 
 
-*    *   2472
+*    *   2690
 
     *   B466
 
@@ -27251,7 +29649,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.93977
 
 
-*    *   2473
+*    *   2691
 
     *   B466
 
@@ -27262,7 +29660,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.96454
 
 
-*    *   2474
+*    *   2692
 
     *   B466
 
@@ -27273,7 +29671,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.96719
 
 
-*    *   2475
+*    *   2693
 
     *   B466
 
@@ -27284,7 +29682,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.08798
 
 
-*    *   2476
+*    *   2694
 
     *   B466
 
@@ -27295,7 +29693,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.23488
 
 
-*    *   2477
+*    *   2695
 
     *   B466
 
@@ -27306,7 +29704,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.24808
 
 
-*    *   2478
+*    *   2696
 
     *   B466
 
@@ -27317,7 +29715,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.36242
 
 
-*    *   2479
+*    *   2697
 
     *   B466
 
@@ -27328,7 +29726,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.61399
 
 
-*    *   2480
+*    *   2698
 
     *   B466
 
@@ -27339,7 +29737,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.71685
 
 
-*    *   2481
+*    *   2699
 
     *   B466
 
@@ -27350,29 +29748,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.74335
 
 
-*    *   2482
+*    *   2700
+
+    *   B466A
+
+    *   B466A Heidenheim an der Brenz, Buchschorren
+
+    *   48.69423
+
+    *   10.20261
+
+
+*    *   2701
 
     *   B467
 
-    *   B467 Langenargen
+    *   B467 Meckenbeuren, Hirschach
 
-    *   47.63486
+    *   47.70057
 
-    *   9.59044
-
-
-*    *   2483
-
-    *   B469
-
-    *   B469 Kleinheubach, Am Schloßblick
-
-    *   49.71471
-
-    *   9.21077
+    *   9.59231
 
 
-*    *   2484
+*    *   2702
 
     *   B470
 
@@ -27383,7 +29781,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.30768
 
 
-*    *   2485
+*    *   2703
 
     *   B470
 
@@ -27394,7 +29792,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.33284
 
 
-*    *   2486
+*    *   2704
 
     *   B470
 
@@ -27405,7 +29803,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.42427
 
 
-*    *   2487
+*    *   2705
 
     *   B470
 
@@ -27416,7 +29814,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.58458
 
 
-*    *   2488
+*    *   2706
 
     *   B470
 
@@ -27427,7 +29825,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.65375
 
 
-*    *   2489
+*    *   2707
 
     *   B470
 
@@ -27438,7 +29836,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.71253
 
 
-*    *   2490
+*    *   2708
 
     *   B470
 
@@ -27449,7 +29847,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.73544
 
 
-*    *   2491
+*    *   2709
 
     *   B470
 
@@ -27460,7 +29858,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.81454
 
 
-*    *   2492
+*    *   2710
 
     *   B470
 
@@ -27471,7 +29869,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.12912
 
 
-*    *   2493
+*    *   2711
 
     *   B470
 
@@ -27482,7 +29880,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.2087
 
 
-*    *   2494
+*    *   2712
 
     *   B470
 
@@ -27493,7 +29891,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.22739
 
 
-*    *   2495
+*    *   2713
 
     *   B470
 
@@ -27504,7 +29902,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.24945
 
 
-*    *   2496
+*    *   2714
 
     *   B470
 
@@ -27515,7 +29913,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.26639
 
 
-*    *   2497
+*    *   2715
 
     *   B470
 
@@ -27526,7 +29924,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.27932
 
 
-*    *   2498
+*    *   2716
 
     *   B470
 
@@ -27537,7 +29935,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.28762
 
 
-*    *   2499
+*    *   2717
 
     *   B470
 
@@ -27548,7 +29946,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.29449
 
 
-*    *   2500
+*    *   2718
 
     *   B470
 
@@ -27559,7 +29957,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.40997
 
 
-*    *   2501
+*    *   2719
 
     *   B470
 
@@ -27570,7 +29968,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.41397
 
 
-*    *   2502
+*    *   2720
 
     *   B470
 
@@ -27581,7 +29979,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.4179
 
 
-*    *   2503
+*    *   2721
 
     *   B470
 
@@ -27592,7 +29990,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.61565
 
 
-*    *   2504
+*    *   2722
 
     *   B470
 
@@ -27603,7 +30001,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.65201
 
 
-*    *   2505
+*    *   2723
 
     *   B470
 
@@ -27614,7 +30012,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.6992
 
 
-*    *   2506
+*    *   2724
 
     *   B470
 
@@ -27625,7 +30023,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.92992
 
 
-*    *   2507
+*    *   2725
 
     *   B470
 
@@ -27636,7 +30034,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.95032
 
 
-*    *   2508
+*    *   2726
 
     *   B470
 
@@ -27647,7 +30045,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   12.01869
 
 
-*    *   2509
+*    *   2727
 
     *   B471
 
@@ -27658,7 +30056,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.43263
 
 
-*    *   2510
+*    *   2728
 
     *   B471
 
@@ -27669,7 +30067,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.66922
 
 
-*    *   2511
+*    *   2729
 
     *   B471
 
@@ -27680,7 +30078,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.69755
 
 
-*    *   2512
+*    *   2730
 
     *   B471
 
@@ -27691,7 +30089,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.72101
 
 
-*    *   2513
+*    *   2731
 
     *   B471
 
@@ -27702,7 +30100,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.67602
 
 
-*    *   2514
+*    *   2732
 
     *   B472
 
@@ -27713,7 +30111,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.35028
 
 
-*    *   2515
+*    *   2733
 
     *   B472
 
@@ -27724,18 +30122,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.38516
 
 
-*    *   2516
-
-    *   B472
-
-    *   B472 Waakirchen, B
-
-    *   47.76958
-
-    *   11.6533
-
-
-*    *   2517
+*    *   2734
 
     *   B472
 
@@ -27746,7 +30133,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.78294
 
 
-*    *   2518
+*    *   2735
 
     *   B473
 
@@ -27757,7 +30144,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.59066
 
 
-*    *   2519
+*    *   2736
 
     *   B475
 
@@ -27768,7 +30155,150 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.9575
 
 
-*    *   2520
+*    *   2737
+
+    *   B477
+
+    *   B477 Dormagen, Horrer Weg
+
+    *   51.11326
+
+    *   6.71432
+
+
+*    *   2738
+
+    *   B477
+
+    *   B477 Rommerskirchen, Am Blauen Stein
+
+    *   51.0593
+
+    *   6.71908
+
+
+*    *   2739
+
+    *   B477
+
+    *   B477 Rommerskirchen, Bergheimer Straße
+
+    *   51.02593
+
+    *   6.69011
+
+
+*    *   2740
+
+    *   B477
+
+    *   B477 Bergheim, Zum Bergerhof
+
+    *   51.01884
+
+    *   6.68806
+
+
+*    *   2741
+
+    *   B477
+
+    *   B477 Kerpen, Kieswerk und Bodendeponie
+
+    *   50.88513
+
+    *   6.64364
+
+
+*    *   2742
+
+    *   B477
+
+    *   B477 Nörvenich, Heuserhof
+
+    *   50.81367
+
+    *   6.63443
+
+
+*    *   2743
+
+    *   B477
+
+    *   B477 Nörvenich, Rengershauser Mühle
+
+    *   50.7797
+
+    *   6.63396
+
+
+*    *   2744
+
+    *   B477
+
+    *   B477 Vettweiß, Mersheim, A
+
+    *   50.7559
+
+    *   6.63971
+
+
+*    *   2745
+
+    *   B477
+
+    *   B477 Zülpich, An der Gülichsburg, B
+
+    *   50.64527
+
+    *   6.65066
+
+
+*    *   2746
+
+    *   B477
+
+    *   B477 Mechernich, Mühlenthal
+
+    *   50.60367
+
+    *   6.63481
+
+
+*    *   2747
+
+    *   B477
+
+    *   B477 Mechernich, Zur Sommerrodelbahn
+
+    *   50.60108
+
+    *   6.6327
+
+
+*    *   2748
+
+    *   B477
+
+    *   B477 Mechernich, Friedrich-Wilhelm-Straße
+
+    *   50.59108
+
+    *   6.64268
+
+
+*    *   2749
+
+    *   B477
+
+    *   B477 Mechernich, Siedlung Zimmermann
+
+    *   50.58592
+
+    *   6.66805
+
+
+*    *   2750
 
     *   B480
 
@@ -27779,7 +30309,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.36856
 
 
-*    *   2521
+*    *   2751
 
     *   B480
 
@@ -27790,7 +30320,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.4027
 
 
-*    *   2522
+*    *   2752
 
     *   B480
 
@@ -27801,7 +30331,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.53681
 
 
-*    *   2523
+*    *   2753
 
     *   B480
 
@@ -27812,7 +30342,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.52948
 
 
-*    *   2524
+*    *   2754
 
     *   B480
 
@@ -27823,7 +30353,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.52173
 
 
-*    *   2525
+*    *   2755
 
     *   B480
 
@@ -27834,7 +30364,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.65665
 
 
-*    *   2526
+*    *   2756
 
     *   B481
 
@@ -27845,7 +30375,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.55468
 
 
-*    *   2527
+*    *   2757
 
     *   B482
 
@@ -27856,7 +30386,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.88927
 
 
-*    *   2528
+*    *   2758
 
     *   B482
 
@@ -27867,7 +30397,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.05757
 
 
-*    *   2529
+*    *   2759
 
     *   B483
 
@@ -27878,7 +30408,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35796
 
 
-*    *   2530
+*    *   2760
 
     *   B483
 
@@ -27889,7 +30419,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36007
 
 
-*    *   2531
+*    *   2761
 
     *   B483
 
@@ -27900,7 +30430,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.3634
 
 
-*    *   2532
+*    *   2762
 
     *   B483
 
@@ -27911,7 +30441,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.37992
 
 
-*    *   2533
+*    *   2763
 
     *   B483
 
@@ -27922,7 +30452,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.39045
 
 
-*    *   2534
+*    *   2764
 
     *   B483
 
@@ -27933,7 +30463,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36871
 
 
-*    *   2535
+*    *   2765
 
     *   B483
 
@@ -27944,7 +30474,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.36501
 
 
-*    *   2536
+*    *   2766
 
     *   B483
 
@@ -27955,7 +30485,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.35496
 
 
-*    *   2537
+*    *   2767
 
     *   B483
 
@@ -27966,7 +30496,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.3478
 
 
-*    *   2538
+*    *   2768
 
     *   B483
 
@@ -27977,7 +30507,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.34717
 
 
-*    *   2539
+*    *   2769
 
     *   B483
 
@@ -27988,7 +30518,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.34262
 
 
-*    *   2540
+*    *   2770
 
     *   B483
 
@@ -27999,7 +30529,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.33665
 
 
-*    *   2541
+*    *   2771
 
     *   B483
 
@@ -28010,7 +30540,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.31544
 
 
-*    *   2542
+*    *   2772
 
     *   B483
 
@@ -28021,7 +30551,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.31185
 
 
-*    *   2543
+*    *   2773
 
     *   B483
 
@@ -28032,7 +30562,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.28417
 
 
-*    *   2544
+*    *   2774
 
     *   B485
 
@@ -28043,7 +30573,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.09081
 
 
-*    *   2545
+*    *   2775
 
     *   B485
 
@@ -28054,7 +30584,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.12865
 
 
-*    *   2546
+*    *   2776
 
     *   B485
 
@@ -28065,7 +30595,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.14638
 
 
-*    *   2547
+*    *   2777
 
     *   B486
 
@@ -28076,7 +30606,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.47362
 
 
-*    *   2548
+*    *   2778
 
     *   B486
 
@@ -28087,7 +30617,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.50779
 
 
-*    *   2549
+*    *   2779
 
     *   B486
 
@@ -28098,7 +30628,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.58863
 
 
-*    *   2550
+*    *   2780
 
     *   B486
 
@@ -28109,40 +30639,40 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.56256
 
 
-*    *   2551
+*    *   2781
 
     *   B487
 
-    *   B487 Spangenberg, B
+    *   B487 Spangenberg, Schnellröder Straße, A
 
-    *   51.11324
+    *   51.12284
 
-    *   9.62609
-
-
-*    *   2552
-
-    *   B487
-
-    *   B487 Spangenberg, A
-
-    *   51.11474
-
-    *   9.64457
+    *   9.66853
 
 
-*    *   2553
+*    *   2782
 
     *   B487
 
-    *   B487 Hessisch Lichtenau, Leipziger Straße
+    *   B487 Spangenberg, Schnellröder Straße, B
 
-    *   51.19895
+    *   51.12782
 
-    *   9.73547
+    *   9.67419
 
 
-*    *   2554
+*    *   2783
+
+    *   B487
+
+    *   B487 Spangenberg, Gut Halbersdorf
+
+    *   51.13245
+
+    *   9.67605
+
+
+*    *   2784
 
     *   B492
 
@@ -28153,7 +30683,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.75958
 
 
-*    *   2555
+*    *   2785
 
     *   B492
 
@@ -28164,7 +30694,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76434
 
 
-*    *   2556
+*    *   2786
 
     *   B492
 
@@ -28175,7 +30705,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.76689
 
 
-*    *   2557
+*    *   2787
 
     *   B492
 
@@ -28186,7 +30716,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.77301
 
 
-*    *   2558
+*    *   2788
 
     *   B493
 
@@ -28197,7 +30727,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.91563
 
 
-*    *   2559
+*    *   2789
 
     *   B493
 
@@ -28208,7 +30738,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.52477
 
 
-*    *   2560
+*    *   2790
 
     *   B494
 
@@ -28219,7 +30749,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.1195
 
 
-*    *   2561
+*    *   2791
 
     *   B494
 
@@ -28230,7 +30760,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.12597
 
 
-*    *   2562
+*    *   2792
 
     *   B495
 
@@ -28241,7 +30771,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.11673
 
 
-*    *   2563
+*    *   2793
 
     *   B495
 
@@ -28252,7 +30782,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.1232
 
 
-*    *   2564
+*    *   2794
 
     *   B495
 
@@ -28263,7 +30793,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.13497
 
 
-*    *   2565
+*    *   2795
 
     *   B495
 
@@ -28274,7 +30804,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.32002
 
 
-*    *   2566
+*    *   2796
 
     *   B496
 
@@ -28285,7 +30815,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.65053
 
 
-*    *   2567
+*    *   2797
 
     *   B496
 
@@ -28296,7 +30826,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.63256
 
 
-*    *   2568
+*    *   2798
 
     *   B496
 
@@ -28307,7 +30837,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.62402
 
 
-*    *   2569
+*    *   2799
 
     *   B497
 
@@ -28318,7 +30848,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.52749
 
 
-*    *   2570
+*    *   2800
 
     *   B497
 
@@ -28329,7 +30859,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   9.51511
 
 
-*    *   2571
+*    *   2801
 
     *   B498
 
@@ -28340,7 +30870,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.44577
 
 
-*    *   2572
+*    *   2802
 
     *   B498
 
@@ -28351,7 +30881,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.44651
 
 
-*    *   2573
+*    *   2803
 
     *   B498
 
@@ -28362,7 +30892,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.47577
 
 
-*    *   2574
+*    *   2804
 
     *   B498
 
@@ -28373,7 +30903,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.46183
 
 
-*    *   2575
+*    *   2805
 
     *   B500
 
@@ -28384,7 +30914,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.19326
 
 
-*    *   2576
+*    *   2806
 
     *   B500
 
@@ -28395,7 +30925,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18884
 
 
-*    *   2577
+*    *   2807
 
     *   B500
 
@@ -28406,7 +30936,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.17771
 
 
-*    *   2578
+*    *   2808
 
     *   B500
 
@@ -28417,7 +30947,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.15844
 
 
-*    *   2579
+*    *   2809
 
     *   B500
 
@@ -28428,7 +30958,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.17365
 
 
-*    *   2580
+*    *   2810
 
     *   B500
 
@@ -28439,7 +30969,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.1715
 
 
-*    *   2581
+*    *   2811
 
     *   B500
 
@@ -28450,7 +30980,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.16963
 
 
-*    *   2582
+*    *   2812
 
     *   B500
 
@@ -28461,7 +30991,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18154
 
 
-*    *   2583
+*    *   2813
 
     *   B500
 
@@ -28472,7 +31002,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18107
 
 
-*    *   2584
+*    *   2814
 
     *   B500
 
@@ -28483,7 +31013,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18202
 
 
-*    *   2585
+*    *   2815
 
     *   B500
 
@@ -28494,7 +31024,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18899
 
 
-*    *   2586
+*    *   2816
 
     *   B500
 
@@ -28505,7 +31035,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.1513
 
 
-*    *   2587
+*    *   2817
 
     *   B500
 
@@ -28516,7 +31046,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.14927
 
 
-*    *   2588
+*    *   2818
 
     *   B500
 
@@ -28527,7 +31057,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12367
 
 
-*    *   2589
+*    *   2819
 
     *   B500
 
@@ -28538,7 +31068,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.12374
 
 
-*    *   2590
+*    *   2820
 
     *   B500
 
@@ -28549,7 +31079,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.10036
 
 
-*    *   2591
+*    *   2821
 
     *   B500
 
@@ -28560,7 +31090,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.09842
 
 
-*    *   2592
+*    *   2822
 
     *   B500
 
@@ -28571,7 +31101,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.16134
 
 
-*    *   2593
+*    *   2823
 
     *   B500
 
@@ -28582,7 +31112,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.16459
 
 
-*    *   2594
+*    *   2824
 
     *   B500
 
@@ -28593,7 +31123,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20139
 
 
-*    *   2595
+*    *   2825
 
     *   B500
 
@@ -28604,7 +31134,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20253
 
 
-*    *   2596
+*    *   2826
 
     *   B500
 
@@ -28615,7 +31145,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.19118
 
 
-*    *   2597
+*    *   2827
 
     *   B500
 
@@ -28626,7 +31156,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18153
 
 
-*    *   2598
+*    *   2828
 
     *   B500
 
@@ -28637,7 +31167,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.17834
 
 
-*    *   2599
+*    *   2829
 
     *   B500
 
@@ -28648,7 +31178,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.18458
 
 
-*    *   2600
+*    *   2830
 
     *   B500
 
@@ -28659,7 +31189,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20628
 
 
-*    *   2601
+*    *   2831
 
     *   B500
 
@@ -28670,7 +31200,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20718
 
 
-*    *   2602
+*    *   2832
 
     *   B500
 
@@ -28681,51 +31211,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.21819
 
 
-*    *   2603
-
-    *   B500
-
-    *   B500 Seebach, Hellmut-Gnändinger-Weg, D
-
-    *   48.5734
-
-    *   8.22203
-
-
-*    *   2604
-
-    *   B500
-
-    *   B500 Seebach, Hellmut-Gnändinger-Weg, C
-
-    *   48.58147
-
-    *   8.22177
-
-
-*    *   2605
-
-    *   B500
-
-    *   B500 Seebach, Hellmut-Gnändinger-Weg, B
-
-    *   48.58512
-
-    *   8.21487
-
-
-*    *   2606
-
-    *   B500
-
-    *   B500 Seebach, Hellmut-Gnändinger-Weg, A
-
-    *   48.58628
-
-    *   8.21494
-
-
-*    *   2607
+*    *   2833
 
     *   B500
 
@@ -28736,7 +31222,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.21678
 
 
-*    *   2608
+*    *   2834
+
+    *   B500
+
+    *   B500 Seebach
+
+    *   48.59681
+
+    *   8.20277
+
+
+*    *   2835
 
     *   B500
 
@@ -28747,7 +31244,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.20075
 
 
-*    *   2609
+*    *   2836
 
     *   B500
 
@@ -28758,7 +31255,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.23816
 
 
-*    *   2610
+*    *   2837
 
     *   B500
 
@@ -28769,7 +31266,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.23267
 
 
-*    *   2611
+*    *   2838
 
     *   B500
 
@@ -28780,7 +31277,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.23843
 
 
-*    *   2612
+*    *   2839
 
     *   B501
 
@@ -28791,7 +31288,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.86779
 
 
-*    *   2613
+*    *   2840
 
     *   B501
 
@@ -28802,7 +31299,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.03429
 
 
-*    *   2614
+*    *   2841
 
     *   B501
 
@@ -28813,40 +31310,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   11.0106
 
 
-*    *   2615
+*    *   2842
 
-    *   B505
+    *   B502
 
-    *   B505 Höchstadt an der Aisch, C
+    *   B502 Kiel, Ostring
 
-    *   49.76871
+    *   54.31272
 
-    *   10.87961
-
-
-*    *   2616
-
-    *   B505
-
-    *   B505 Höchstadt an der Aisch, B
-
-    *   49.77785
-
-    *   10.90503
+    *   10.15672
 
 
-*    *   2617
-
-    *   B505
-
-    *   B505 Höchstadt an der Aisch, A
-
-    *   49.77975
-
-    *   10.91019
-
-
-*    *   2618
+*    *   2843
 
     *   B505
 
@@ -28857,7 +31332,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   10.94499
 
 
-*    *   2619
+*    *   2844
 
     *   B508
 
@@ -28868,7 +31343,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.0465
 
 
-*    *   2620
+*    *   2845
 
     *   B515
 
@@ -28879,7 +31354,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.84167
 
 
-*    *   2621
+*    *   2846
 
     *   B515
 
@@ -28890,7 +31365,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.85354
 
 
-*    *   2622
+*    *   2847
 
     *   B516
 
@@ -28901,7 +31376,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.25828
 
 
-*    *   2623
+*    *   2848
 
     *   B516
 
@@ -28912,7 +31387,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.50567
 
 
-*    *   2624
+*    *   2849
 
     *   B516
 
@@ -28923,7 +31398,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.51846
 
 
-*    *   2625
+*    *   2850
 
     *   B516
 
@@ -28934,7 +31409,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.55
 
 
-*    *   2626
+*    *   2851
 
     *   B517
 
@@ -28945,7 +31420,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.98814
 
 
-*    *   2627
+*    *   2852
 
     *   B518
 
@@ -28956,7 +31431,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.8676
 
 
-*    *   2628
+*    *   2853
 
     *   B519
 
@@ -28967,7 +31442,29 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.43556
 
 
-*    *   2629
+*    *   2854
+
+    *   B519
+
+    *   B519 Hofheim am Taunus, C
+
+    *   50.09389
+
+    *   8.45752
+
+
+*    *   2855
+
+    *   B519
+
+    *   B519 Hofheim am Taunus, D
+
+    *   50.09452
+
+    *   8.45868
+
+
+*    *   2856
 
     *   B523
 
@@ -28978,7 +31475,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.58688
 
 
-*    *   2630
+*    *   2857
 
     *   B523
 
@@ -28989,7 +31486,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.72421
 
 
-*    *   2631
+*    *   2858
 
     *   B523
 
@@ -29000,7 +31497,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.73504
 
 
-*    *   2632
+*    *   2859
 
     *   B523
 
@@ -29011,7 +31508,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   8.76354
 
 
-*    *   2633
+*    *   2860
 
     *   B525
 
@@ -29022,7 +31519,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.92282
 
 
-*    *   2634
+*    *   2861
 
     *   B525
 
@@ -29033,7 +31530,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.94013
 
 
-*    *   2635
+*    *   2862
 
     *   B525
 
@@ -29044,7 +31541,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.94999
 
 
-*    *   2636
+*    *   2863
 
     *   B525
 
@@ -29055,7 +31552,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.96656
 
 
-*    *   2637
+*    *   2864
 
     *   B525
 
@@ -29066,7 +31563,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   6.993
 
 
-*    *   2638
+*    *   2865
 
     *   B525
 
@@ -29077,7 +31574,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.05068
 
 
-*    *   2639
+*    *   2866
 
     *   B525
 
@@ -29088,7 +31585,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.06613
 
 
-*    *   2640
+*    *   2867
 
     *   B525
 
@@ -29099,7 +31596,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.07468
 
 
-*    *   2641
+*    *   2868
 
     *   B525
 
@@ -29110,7 +31607,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.09528
 
 
-*    *   2642
+*    *   2869
 
     *   B525
 
@@ -29121,7 +31618,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.10465
 
 
-*    *   2643
+*    *   2870
 
     *   B525
 
@@ -29132,7 +31629,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.11272
 
 
-*    *   2644
+*    *   2871
 
     *   B525
 
@@ -29143,7 +31640,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.21296
 
 
-*    *   2645
+*    *   2872
 
     *   B525
 
@@ -29154,7 +31651,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.21527
 
 
-*    *   2646
+*    *   2873
 
     *   B525
 
@@ -29165,7 +31662,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.22038
 
 
-*    *   2647
+*    *   2874
 
     *   B525
 
@@ -29176,7 +31673,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.23238
 
 
-*    *   2648
+*    *   2875
 
     *   B525
 
@@ -29187,7 +31684,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.24613
 
 
-*    *   2649
+*    *   2876
 
     *   B525
 
@@ -29198,7 +31695,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.26494
 
 
-*    *   2650
+*    *   2877
 
     *   B525
 
@@ -29209,7 +31706,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.27732
 
 
-*    *   2651
+*    *   2878
 
     *   B525
 
@@ -29220,7 +31717,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   7.32418
 
 
-*    *   2652
+*    *   2879
 
     *   B533
 
@@ -29231,7 +31728,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.16859
 
 
-*    *   2653
+*    *   2880
 
     *   B533
 
@@ -29242,7 +31739,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.18052
 
 
-*    *   2654
+*    *   2881
 
     *   B533
 
@@ -29253,7 +31750,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   13.18949
 
 
-*    *   2655
+*    *   2882
 
     *   B533
 
@@ -29262,6 +31759,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   48.8516
 
     *   13.40187
+
 
 
 
