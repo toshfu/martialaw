@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 26.4.2023 I Nr. 115
 
+Änderung durch
+:   Art. 2 V v. 25.11.2025 I Nr. 289 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mit dieser Verordnung wird die Richtlinie 2001/112/EG des Rates vom
 20\. Dezember 2001 über Fruchtsäfte und bestimmte gleichartige
 Erzeugnisse für die menschliche Ernährung (ABl. EG 2002 Nr. L 10 S.
