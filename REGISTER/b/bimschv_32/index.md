@@ -25,15 +25,10 @@ Zuletzt geändert durch
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung gilt für Geräte und Maschinen, die nach Artikel 2 der
-Richtlinie 2000/14/EG des Europäischen Parlaments und des Rates vom 8.
-Mai 2000 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten
-über umweltbelastende Geräuschemissionen von zur Verwendung im Freien
-vorgesehenen Geräten und Maschinen (ABl. EG Nr. L 162 S. 1, Nr. L 311
-S. 50), die durch die Richtlinie 2005/88/EG des Europäischen
-Parlaments und des Rates vom 14. Dezember 2005 (ABl. EU Nr. L 344 S.
-44) geändert worden ist, in den Anwendungsbereich der Richtlinie
-fallen; sie sind im Anhang dieser Verordnung aufgelistet.
+(1) Diese Verordnung gilt für Geräte und Maschinen, die nach Artikel 2
+der Richtlinie 2000/14/EG in der Fassung vom 23. Oktober 2024 in den
+Anwendungsbereich der Richtlinie fallen. Die Geräte und Maschinen nach
+Satz 1 sind im Anhang dieser Verordnung aufgelistet.
 
 (2) Die Lärm- und Vibrations-Arbeitsschutzverordnung und die
 Maschinenverordnung bleiben unberührt.
@@ -123,9 +118,7 @@ sichergestellt hat, dass
     einer Maschine auszustellen ist,
 
 
-3.  für den Typ des Gerätes oder der Maschine eine Kopie der EG-
-    Konformitätserklärung nach Artikel 8 Abs. 1 der Richtlinie 2000/14/EG
-    der Europäischen Kommission übermittelt worden ist,
+3.  (weggefallen)
 
 
 4.  der Typ des Gerätes oder der Maschine einem
@@ -169,15 +162,8 @@ die die Geräte und Maschinen in der Europäischen Gemeinschaft in
 Verkehr bringt oder in Betrieb nimmt.
 
 
-### § 4 Übermittlung der Konformitätserklärung
+### (XXXX) § 4 (weggefallen)
 
-Der in Deutschland ansässige Hersteller oder andernfalls sein in
-Deutschland ansässiger Bevollmächtigter hat der nach Landesrecht
-zuständigen Behörde des Landes, in dem er seinen Sitz hat, und der
-Europäischen Kommission eine Kopie der EG-Konformitätserklärung für
-jeden Typ eines Gerätes und einer Maschine nach dem Anhang zu
-übermitteln, wenn Geräte und Maschinen dieses Typs in der Europäischen
-Gemeinschaft in Verkehr gebracht oder in Betrieb genommen werden.
 
 
 ### § 5 Aufbewahrung und Übermittlung von Informationen aus der Konformitätsbewertung
@@ -308,15 +294,12 @@ Die Länder können
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 3 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2, ein Gerät
-    oder eine Maschine in Verkehr bringt oder in Betrieb nimmt,
+1.  entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, ein
+    Gerät oder eine Maschine in Verkehr bringt oder in Betrieb nimmt oder
 
 
-1a. entgegen § 3 Absatz 1 Satz 4 ein Zeichen oder eine Aufschrift anbringt
-    oder
-
-
-2.  entgegen § 4 eine Kopie nicht oder nicht rechtzeitig übermittelt.
+1a. entgegen § 3 Absatz 1 Satz 4 ein Zeichen oder eine Aufschrift
+    anbringt.
 
 
 
