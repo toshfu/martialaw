@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 5.7.2017 I 2272
 
+Änderung durch
+:   Art. 3 V v. 25.11.2025 I Nr. 289 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mit dieser Verordnung wird die Richtlinie 2001/113/EG des Rates
 vom 20. Dezember 2001 über Konfitüren, Gelees, Marmeladen und
 Maronenkrem für die menschliche Ernährung (ABl. EG 2002 Nr. L 10 S.
