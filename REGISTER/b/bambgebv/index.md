@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 2.12.2024 I Nr. 384
 
+Änderung durch
+:   Art. 1 V v. 26.11.2025 I Nr. 294 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 7134-1-2 v. 17.12.1970 I 1748 (BAMKostO)
 
 ## Eingangsformel
@@ -51,13 +54,10 @@ auf Grund der folgenden Vorschriften erbracht werden:
 5.  Zweite Verordnung zum Sprengstoffgesetz,
 
 
-6.  Rechtsdienstleistungsgesetz,
+6.  Deponieverordnung,
 
 
-7.  Deponieverordnung,
-
-
-8.  Gefahrstoffverordnung.
+7.  Gefahrstoffverordnung.
 
 
 
@@ -70,7 +70,10 @@ erbracht werden, wird durch diese Verordnung nicht berührt.
 
 ## § 2 Höhe der Gebühren und Auslagen
 
-(1) Die Höhe der Gebühren richtet sich nach dem Gebührenverzeichnis.
+(1) Für gebührenfähige Leistungen erhebt die Bundesanstalt für
+Materialforschung und -prüfung Fest- oder Zeitgebühren gemäß § 11
+Nummer 1 und 2 des Bundesgebührengesetzes. Die Höhe der Gebühren
+richtet sich nach dem Gebührenverzeichnis der Anlage.
 
 (2) Neben den in § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes
 genannten Auslagen werden Auslagen gesondert in der tatsächlich
@@ -127,6 +130,12 @@ vollständig erbracht wurde, ist die Kostenverordnung für
 Nutzleistungen der Bundesanstalt für Materialforschung und -prüfung
 weiter anzuwenden.
 
+(4) Für individuell zurechenbare öffentliche Leistungen, die ab dem
+15\. Juni 2021, jedoch vor dem 2. Dezember 2025 beantragt oder, sofern
+kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden
+sind, sind Gebühren und Auslagen nach dieser Verordnung in der bis zum
+Ablauf des 1. Dezember 2025 geltenden Fassung zu erheben.
+
 
 ## § 4 Inkrafttreten; Außerkrafttreten
 
@@ -137,67 +146,30 @@ Bundesanstalt für Materialforschung und -prüfung vom 17. Dezember 1970
 (BGBl. I S. 1748), die zuletzt durch Artikel 1 der Verordnung vom 13.
 März 2018 (BGBl. I S. 373) geändert worden ist, außer Kraft.
 
+(zu § 2 Absatz 1 Satz 2)
 
-## Anlage (zu § 2 Absatz 1)
+## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 1714 - 1716;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 294, S. 2 – 4)
 
+## **Inhaltsübersicht**
 
-*    *   **Inhaltsübersicht**
+Abschnitt 1
+## Beschussgesetz (BeschG), Beschussverordnung (BeschussV)
 
+Abschnitt 2
+Sprengstoffgesetz (SprengG),
+Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
+## Zweite Verordnung zum Sprengstoffgesetz (2. SprengV)
 
+Abschnitt 3
+## Deponieverordnung (DepV)
 
-*    *   Abschnitt 1
+Abschnitt 4
+## Gefahrstoffverordnung (GefStoffV)
 
-
-
-*    *   Beschussgesetz (BeschG),
-        Beschussverordnung (BeschussV)
-
-
-
-*    *   Abschnitt 2
-
-
-
-*    *   Sprengstoffgesetz (SprengG),
-        Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
-        Zweite Verordnung zum Sprengstoffgesetz (2. SprengV)
-
-
-
-*    *   Abschnitt 3
-
-
-
-*    *   Rechtsdienstleistungsgesetz (RDG)
-
-
-
-*    *   Abschnitt 4
-
-
-
-*    *   Deponieverordnung (DepV)
-
-
-
-*    *   Abschnitt 5
-
-
-
-*    *   Gefahrstoffverordnung (GefStoffV)
-
-
-
-
-
-## Abschnitt 1
-
-
-Beschussgesetz (BeschG),
-## Beschussverordnung (BeschussV)
+Abschnitt 1
+## **Beschussgesetz (BeschG), Beschussverordnung (BeschussV)**
 
 
 *    *   Nummer
@@ -209,22 +181,22 @@ Beschussgesetz (BeschG),
 
 *    *   1
 
-    *   Prüfung und Zulassung der in § 10 BeschG bezeichneten pyrotechnischen
-        Munition gemäß § 20 Absatz 3 Satz 2 BeschG oder Zulassung von
+    *   Prüfung und Zulassung der in § 10 BeschG bezeichneten pyrotechnischen
+        Munition gemäß § 20 Absatz 3 Satz 2 BeschG oder Zulassung von
         Ausnahmen von einzelnen Anforderungen der Anlage I der BeschussV gemäß
         § 11 Absatz 3 Nummer 1 BeschussV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   2
 
     *   Bewilligung von Ausnahmen von dem Erfordernis der Prüfung und
         Zulassung nach § 10 Absatz 1 BeschG oder Zulassung von Abweichungen
-        von Versagensgründen des § 10 Absatz 3 Nummer 2 bis 4 BeschG gemäß §
+        von Versagensgründen des § 10 Absatz 3 Nummer 2 bis 4 BeschG gemäß §
         13 BeschG
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   3
@@ -234,7 +206,7 @@ Beschussgesetz (BeschG),
         bezeichneten hülsenlosen Munition ohne Geschoss gemäß § 20 Absatz 3
         Satz 2 BeschG
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   4
@@ -244,17 +216,15 @@ Beschussgesetz (BeschG),
         von Versagensgründen des § 11 Absatz 3 Satz 1 Nummer 3 BeschG gemäß §
         13 BeschG
 
-    *   161 EUR
+    *   178 EUR
 
 
 
 
-## Abschnitt 2
-
-
-Sprengstoffgesetz (SprengG),
+Abschnitt 2
+Sprengstoffgesetz (SprengG)
 Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
-## Zweite Verordnung zum Sprengstoffgesetz (2. SprengV)
+## **Zweite Verordnung zum Sprengstoffgesetz (2. SprengV)**
 
 
 *    *   Nummer
@@ -262,18 +232,20 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
     *   Gebührentatbestand
 
     *   Zeitgebühr je Stunde
+        (sofern keine
+        Festgebühr vermerkt)
 
 
 *    *   1
 
     *   Entgegennahme von Anzeigen neuer sonstiger explosionsgefährlicher
         Stoffe und von Stoffproben auf Verlangen gemäß § 2 Absatz 1 Satz 1
-        SprengG, Prüfung und Feststellung der Explosionsgefährlichkeit gemäß §
-        2 Absatz 2 Satz 1 SprengG in Verbindung mit § 9 Absatz 1 der 1.
+        SprengG, Prüfung und Feststellung der Explosionsgefährlichkeit gemäß
+        § 2 Absatz 2 Satz 1 SprengG in Verbindung mit § 9 Absatz 1 der 1.
         SprengV und Zuordnung zu einer Stoffgruppe gemäß § 2 Absatz 3 Satz 1
         SprengG
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   2
@@ -282,58 +254,57 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
         explosionsgefährlicher Stoffe, die der Bundesanstalt für
         Materialforschung und -prüfung auf andere Weise bekannt werden, gemäß
         § 2 Absatz 2 Satz 3 in Verbindung mit Satz 1 und 2 SprengG und in
-        Verbindung mit § 9 Absatz 1 der Ersten Verordnung zum
-        Sprengstoffgesetz und Zuordnung zu einer Stoffgruppe gemäß § 2 Absatz
-        3 Satz 1 SprengG
+        Verbindung mit § 9 Absatz 1 1. SprengV und Zuordnung zu einer
+        Stoffgruppe gemäß § 2 Absatz 3 Satz 1 SprengG
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   3
 
     *   Baumusterprüfung oder Einzelprüfung von Explosivstoffen und
-        pyrotechnischen Gegenständen gemäß § 5e Absatz 2 Satz 1 Nummer 1 und
-        Satz 2 in Verbindung mit § 5b Absatz 1 SprengG, Konformitätsbewertung
-        und Erteilung von Baumusterprüfbescheinigungen gemäß § 5b Absatz 2 und
-        3 SprengG
+        pyrotechnischen Gegenständen gemäß § 5 e Absatz 2 Satz 1 Nummer 1 und
+        Satz 2 in Verbindung mit § 5 b Absatz 1 SprengG, Konformitätsbewertung
+        und Erteilung von Baumusterprüfbescheinigungen gemäß § 5 b Absatz 2
+        und 3 SprengG
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   4
 
-    *   Überwachung des Qualitätssicherungsverfahrens nach § 5c Absatz 1 und 2
-        SprengG gemäß § 5e Absatz 2 Satz 1 Nummer 1 und Satz 2 SprengG
+    *   Überwachung des Qualitätssicherungsverfahrens nach § 5 c Absatz 1 und
+        2 SprengG gemäß § 5 e Absatz 2 Satz 1 Nummer 1 und Satz 2 SprengG
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   5
 
     *   Zulassung sonstiger explosionsgefährlicher Stoffe nach ihrer
-        Zusammensetzung, Beschaffenheit und Bezeichnung gemäß § 5f Absatz 1
-        Satz 1 Nummer 1 und Satz 2 und Absatz 4 SprengG in Verbindung mit § 12
-        der 1. SprengV
+        Zusammensetzung, Beschaffenheit und Bezeichnung gemäß § 5 f Absatz 1
+        Satz 1 Nummer 1 und Satz 2 und Absatz 4 SprengG in Verbindung mit § 12
+        1\. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   6
 
     *   Zulassung von Sprengzubehör nach seiner Zusammensetzung,
-        Beschaffenheit und Bezeichnung gemäß § 5f Absatz 2 SprengG in
-        Verbindung mit § 12 der 1. SprengV
+        Beschaffenheit und Bezeichnung gemäß § 5 f Absatz 2 SprengG in
+        Verbindung mit § 12 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   7
 
     *   Erteilung von Ausnahmen vom Zulassungserfordernis von sonstigen
-        explosionsgefährlichen Stoffen und Sprengzubehör gemäß § 5g Absatz 5
-        SprengG in Verbindung mit § 5f Absatz 1 und 2 SprengG
+        explosionsgefährlichen Stoffen und Sprengzubehör gemäß § 5 g Absatz 5
+        SprengG in Verbindung mit § 5 f Absatz 1 und 2 SprengG
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   8
@@ -342,70 +313,72 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
         durch die und aus der Bundesrepublik Deutschland gemäß § 15 Absatz 7
         Nummer 2 in Verbindung mit Absatz 6 und § 7 SprengG
 
-    *   161 EUR
+    *   Festgebühr
+        67 Euro
 
 
 *    *   9
 
     *   Genehmigung der nicht gewerblichen Verbringung von Explosivstoffen in
-        die, durch die und aus der Bundesrepublik Deutschland gemäß § 15
+        die, durch die und aus der Bundesrepublik Deutschland gemäß § 15
         Absatz 7 Nummer 2 in Verbindung mit Absatz 6 und § 27 SprengG
 
-    *   161 EUR
+    *   Festgebühr
+        65 EUR
 
 
 *    *   10
 
     *   Zulassung von Ausnahmen im Einzelfall von einzelnen Anforderungen der
-        Anlage 1 der 1. SprengV für sonstige explosionsgefährliche Stoffe nach
-        § 1 Absatz 4 Nummer 1 und 2 SprengG und Sprengzubehör oder Stellen
-        zusätzlicher Anforderungen gemäß § 6 Absatz 2 der 1. SprengV
+        Anlage 1 1. SprengV für sonstige explosionsgefährliche Stoffe nach § 1
+        Absatz 4 Nummer 1 und 2 SprengG und Sprengzubehör oder Stellen
+        zusätzlicher Anforderungen gemäß § 6 Absatz 2 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   11
 
     *   Vorschreiben der Verwendung eines Zulassungszeichens gegenüber dem
-        Zulassungsinhaber gemäß § 6 Absatz 4 Satz 1 der 1. SprengV
+        Zulassungsinhaber gemäß § 6 Absatz 4 Satz 1 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   12
 
     *   Prüfungen der Zusammensetzung und Beschaffenheit von sonstigen
-        explosionsgefährlichen Stoffen und Sprengzubehör gemäß § 9 Absatz 3 in
-        Verbindung mit Absatz 1 und 2 der 1. SprengV und § 5e Absatz 1 Satz 3
-        SprengG
+        explosionsgefährlichen Stoffen und Sprengzubehör gemäß § 5 e Absatz 1
+        Satz 3 SprengG und § 9 Absatz 3 in Verbindung mit Absatz 1 und 2 1.
+        SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   13
 
     *   Zuteilung von Kennnummern der Herstellungsstätte oder des Einführers
-        gemäß § 17 Absatz 2 Satz 2 der 1. SprengV
+        gemäß § 17 Absatz 2 Satz 2 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   14
 
     *   Allgemeine Zulassung von Ausnahmen von den Vorschriften über die
         Kennzeichnung und Verpackung explosionsgefährlicher Stoffe und von
-        Sprengzubehör auf Antrag gemäß § 19 Absatz 1 der 1. SprengV
+        Sprengzubehör auf Antrag gemäß § 19 Absatz 1 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   15
 
     *   Bewilligung von Ausnahmen im Einzelfall von den Kennzeichnungs- und
-        Verpackungsvorschriften der §§ 17 und 18 sowie 18b Nummer 1 und 2 der
-        1\. SprengV gemäß § 19 Absatz 2 der 1. SprengV
+        Verpackungsvorschriften der §§ 17 und 18 sowie 18 b Nummer 1 und 2 1.
+        SprengV gemäß § 19 Absatz 2 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   16
@@ -413,84 +386,34 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
     *   Genehmigung der Überlassung pyrotechnischer Gegenstände der Kategorie
         P1, die Rettungsmittel oder Bestandteil von Schutzausrüstungen oder
         Rettungsmitteln sind, an Personen, die das 14. Lebensjahr vollendet
-        haben, auf Antrag gemäß § 20 Absatz 2 Satz 1 der 1. SprengV oder
-        Erteilung der Genehmigung für die Bauart gemäß § 20 Absatz 2 Satz 2
-        der 1. SprengV
+        haben, auf Antrag gemäß § 20 Absatz 2 Satz 1 1. SprengV oder Erteilung
+        der Genehmigung für die Bauart gemäß § 20 Absatz 2 Satz 2 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   17
 
-    *   Erteilung von Unbedenklichkeitsbescheinigungen gemäß § 21 Absatz 4
-        Satz 2 der 1. SprengV
+    *   Erteilung von Unbedenklichkeitsbescheinigungen gemäß § 21 Absatz 4
+        Satz 2 1. SprengV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   18
 
-    *   Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 41 Absatz 1
-        Nummer 1 bis 1b, 2, 2a und 3 Buchstabe a SprengG, § 47 der 1. SprengV
-
-    *   allgemeine pauschale
-        Stundensätze für
-        Verwaltungsbeschäftigte
-        in der Bundesverwaltung
-        nach Anlage 1 Teil A
-        Abschnitt 1 Nummer 1
-        der Allgemeinen
-        Gebührenverordnung
-
-
-*    *   19
-
     *   Entgegennahme von Anzeigen explosionsgefährlicher Stoffe und der Art
-        der Verpackung gemäß § 4 Absatz 1 der 2. SprengV und Zuordnung zu
-        einer Lagergruppe oder Zuordnung von Explosivstoffen zu einer
-        Verträglichkeitsgruppe gemäß § 4 Absatz 3 der 2. SprengV
+        der Verpackung gemäß § 4 Absatz 1 2. SprengV und Zuordnung zu einer
+        Lagergruppe oder Zuordnung von Explosivstoffen zu einer
+        Verträglichkeitsgruppe gemäß § 4 Absatz 3 2. SprengV
 
-    *   161 EUR
-
-
-
-
-## Abschnitt 3
-
-
-## Rechtsdienstleistungsgesetz (RDG)
-
-
-*    *   Nummer
-
-    *   Gebührentatbestand
-
-    *   Zeitgebühr je Stunde
-
-
-*    *   1
-
-    *   Über einfache schriftliche Auskünfte hinausgehende
-        Rechtsdienstleistungen im Rahmen des Aufgaben- und
-        Zuständigkeitsbereichs der Bundesanstalt für Materialforschung und
-        -prüfung gemäß § 8 Absatz 1 Nummer 2 RDG in Verbindung mit § 2 Absatz
-        1 und § 3 RDG
-
-    *   allgemeine pauschale
-        Stundensätze für
-        Verwaltungsbeschäftigte
-        nach Anlage 1 Teil A
-        Abschnitt 1 Nummer 1
-        der Allgemeinen
-        Gebührenverordnung
+    *   178 EUR
 
 
 
 
-## Abschnitt 4
-
-
-## Deponieverordnung (DepV)
+Abschnitt 3
+## **Deponieverordnung (DepV)**
 
 
 *    *   Nummer
@@ -503,18 +426,16 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
 *    *   1
 
     *   Prüfung und Zulassung von Geokunststoffen, Polymeren und
-        Dichtungskontrollsystemen gemäß § 3 Absatz 1 in Verbindung mit Anhang
+        Dichtungskontrollsystemen gemäß § 3 Absatz 1 in Verbindung mit Anhang
         1 Nummer 2.4 DepV
 
-    *   140 EUR
+    *   160 EUR
 
 
 
 
-## Abschnitt 5
-
-
-## Gefahrstoffverordnung (GefStoffV)
+Abschnitt 4
+## **Gefahrstoffverordnung (GefStoffV)**
 
 
 *    *   Nummer
@@ -528,10 +449,10 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
 
     *   Gutachten zum Nachweis, dass inerte Stoffe die thermische Sensibilität
         und die Sensibilität gegen eine einwirkende Detonation nicht erhöhen,
-        gemäß § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer
+        gemäß § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer
         5\.3 Absatz 7 GefStoffV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   2
@@ -539,20 +460,20 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
     *   Gutachten zur Feststellung der Gefährlichkeit und der Festlegung der
         Anforderungen an die Lagerung, Abfüllung und innerbetrieblichen
         Beförderung von Ammoniumnitraten und ammoniumnitrathaltigen Gemischen
-        nach § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer
+        nach § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer
         5\.3 Absatz 8 GefStoffV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   3
 
     *   Gutachten zum Nachweis der Gefahrenfreiheit von einer
         selbstunterhaltenden fortschreitenden thermischen Zersetzung
-        ammoniumnitrathaltiger Gemische nach § 8 Absatz 8 und § 12 Absatz 1 in
+        ammoniumnitrathaltiger Gemische nach § 8 Absatz 8 und § 11 Absatz 1 in
         Verbindung mit Anhang I Nummer 5.3 Absatz 9 GefStoffV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   4
@@ -561,29 +482,29 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
         Beschaffenheitsanforderungen der Stoffe und Zubereitungen der
         Untergruppen A I, A II und A IV und zum Nachweis, dass Stoffe und
         Zubereitungen der Gruppe E nicht detonationsfähig sind, gemäß § 8
-        Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.5.1
+        Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.5.1
         GefStoffV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   5
 
     *   Feststellung und Bekanntgabe der Gefahrgruppenzuordnung bei
-        organischen Peroxiden gemäß § 12 Absatz 4 in Verbindung mit Anhang III
+        organischen Peroxiden gemäß § 11 Absatz 4 in Verbindung mit Anhang III
         Nummer 2.3 Absatz 3 GefStoffV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   6
 
     *   Bewertung und Bekanntgabe der Gefahrgruppenzuordnung, wenn die
         Gefahrgruppenzuordnung von einer anderen geeigneten Stelle vorgenommen
-        wurde, gemäß § 12 Absatz 4 in Verbindung mit Anhang III Nummer 2.3
+        wurde, gemäß § 11 Absatz 4 in Verbindung mit Anhang III Nummer 2.3
         Absatz 4 GefStoffV
 
-    *   161 EUR
+    *   178 EUR
 
 
 *    *   7
@@ -591,10 +512,11 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
     *   Gutachten über die zu treffenden Schutzmaßnahmen für die
         Gefährdungsbeurteilung bei Tätigkeiten mit organischen Peroxiden, bei
         denen Gemische auftreten können, die detonationsfähig sind oder zur
-        schnellen Deflagration oder heftigen Wärmeexplosion neigen, gemäß § 12
+        schnellen Deflagration oder heftigen Wärmeexplosion neigen, gemäß § 11
         Absatz 4 in Verbindung mit Anhang III Nummer 2.4 Absatz 2 GefStoffV
 
-    *   161 EUR
+    *   178 EUR
+
 
 
 
