@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 562 (688)
 
 Zuletzt geändert durch
-:   Art. 21 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 1 V v. 19.11.2025 I Nr. 277 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 19.11.2025 I Nr. 277
 
 [^F771967_01_BJNR056210009]:     Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
     2007/44/EG des Europäischen Parlaments und des Rates vom 5. September
