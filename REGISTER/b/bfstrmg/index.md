@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2011, 1378
 
 Zuletzt geändert durch
-:   Art. 3 G v. 21.11.2023 I Nr. 315
+:   Art. 2 G v. 1.12.2025 I Nr. 295
+
+Mittelbare änderung durch
+:   Art. 4 G v. 1.12.2025 I Nr. 295 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Autobahn- und Bundesstraßenmaut
@@ -82,7 +85,7 @@ Fahrzeuge verwendet werden:
     Gebühren für die Benutzung bestimmter Verkehrswege durch schwere
     Nutzfahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), die zuletzt durch die
     Richtlinie (EU) 2022/362 (ABl. L 69 vom 4.3.2022, S. 1) geändert
-    wurde, bis 31. Dezember 2025,
+    wurde, bis 30. Juni 2031,
 
 
 8.  überwiegend mit Erdgas betriebene Fahrzeuge, die werksseitig für den
@@ -108,13 +111,7 @@ Fahrzeuge verwendet werden:
 Voraussetzung für die Mautbefreiung nach Satz 1 Nummer 2 bis 4 ist,
 dass die Fahrzeuge als für die dort genannten Zwecke bestimmt
 erkennbar sind. Im Fall von Fahrzeugkombinationen ist das
-Motorfahrzeug für die Mautbefreiung der Kombination maßgebend. Als
-emissionsfreie Fahrzeuge gelten auch solche Fahrzeuge mit
-Verbrennungsmotor, deren Primärenergieträger für die Bereitstellung
-der Antriebsenergie in der reinen chemischen Verbrennungsreaktion kein
-Kohlenstoffdioxid erzeugt. Kohlenstoffdioxid-Anteile im Abgas, die aus
-der Verbrennung technischer Hilfsstoffe entstehen, werden in dieser
-Klassifizierung nicht berücksichtigt.
+Motorfahrzeug für die Mautbefreiung der Kombination maßgebend.
 
 (3) Die Maut nach Absatz 1 ist nicht zu entrichten auf:
 
@@ -134,14 +131,13 @@ Klassifizierung nicht berücksichtigt.
 
 
 
-(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates die Mautpflicht
-auf genau bezeichnete Abschnitte von Straßen nach Landesrecht
-auszudehnen, wenn dies zur Vermeidung von Mautausweichverkehren oder
-aus Gründen der Sicherheit des Verkehrs oder wegen ihrer Funktion zur
-Verknüpfung von Schwerpunkten des weiträumigen
-Güterkraftverkehrsaufkommens mit dem Bundesfernstraßennetz
-gerechtfertigt ist.
+(4) Das Bundesministerium für Verkehr wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Mautpflicht auf
+genau bezeichnete Abschnitte von Straßen nach Landesrecht auszudehnen,
+wenn dies zur Vermeidung von Mautausweichverkehren oder aus Gründen
+der Sicherheit des Verkehrs oder wegen ihrer Funktion zur Verknüpfung
+von Schwerpunkten des weiträumigen Güterkraftverkehrsaufkommens mit
+dem Bundesfernstraßennetz gerechtfertigt ist.
 
 (5) Auf die Mautpflicht der Streckenabschnitte nach Absatz 4 ist durch
 straßenverkehrsrechtliche Beschilderung hinzuweisen.
@@ -224,15 +220,15 @@ Mautabschnitt gesondert durchzuführen; hieraus wird die Summe der auf
 die insgesamt zurückgelegte Strecke entfallenden Maut gebildet.
 
 (5) Die Mautteilsätze nach der Anlage 1 werden auf Grundlage eines
-Wegekostengutachtens des Bundesministeriums für Verkehr und digitale
-Infrastruktur für eine jeweils fünfjährige Kalkulationsperiode
-bestimmt. Für die Kalkulationsperiode 2018 bis 2022 werden die auf das
-Jahr 2018 entfallenden Kosten, die nicht durch die in diesem Jahr
-erhobene Maut gedeckt sind, in den Mautteilsätzen der Jahre 2019 bis
-2022 berücksichtigt.
+Wegekostengutachtens des Bundesministeriums für Verkehr für eine
+jeweils fünfjährige Kalkulationsperiode bestimmt. Für die
+Kalkulationsperiode 2018 bis 2022 werden die auf das Jahr 2018
+entfallenden Kosten, die nicht durch die in diesem Jahr erhobene Maut
+gedeckt sind, in den Mautteilsätzen der Jahre 2019 bis 2022
+berücksichtigt.
 
-(6) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
-durch Rechtsverordnung ohne Zustimmung des Bundesrates zum Zwecke der
+(6) Das Bundesministerium für Verkehr wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates zum Zwecke der
 Staureduzierung für bestimmte Zeiträume auf genau bezeichneten
 Abschnitten der mautpflichtigen Straßen nach Maßgabe des Satzes 2 die
 in Anlage 1 festgelegten Mautteilsätze für Infrastrukturkosten für
@@ -307,15 +303,14 @@ Zusammenlegung so, dass der Knotenpunkt bei der Straße mit der höheren
 Nummer nach der Nummerierung des Bundesinformationssystems Straße
 gesetzt wird.
 
-(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
-durch Rechtsverordnung ohne Zustimmung des Bundesrates abweichend von
-Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 Knotenpunkte für
-Bundesstraßen festzulegen, um den örtlichen Gegebenheiten und dem
-üblichen Verkehrsverhalten Rechnung zu tragen. Das Bundesministerium
-für Digitales und Verkehr wird ferner ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach
-Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und
-Mobilität zu übertragen.
+(2) Das Bundesministerium für Verkehr wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates abweichend von Absatz
+1 Satz 1 Nummer 2 und Satz 2 bis 4 Knotenpunkte für Bundesstraßen
+festzulegen, um den örtlichen Gegebenheiten und dem üblichen
+Verkehrsverhalten Rechnung zu tragen. Das Bundesministerium für
+Verkehr wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung
+des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das
+Bundesamt für Logistik und Mobilität zu übertragen.
 
 
 ## § 4 Mautentrichtung und Mauterstattung
@@ -451,20 +446,20 @@ Güterkraftverkehrsgesetzes verarbeiten.
 (4) Der Mautschuldner hat bei der Mauterhebung mitzuwirken. Er hat die
 technischen Einrichtungen zur Mautentrichtung ordnungsgemäß zu nutzen
 und die für die Maut maßgeblichen Tatsachen anzugeben. Das
-Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten der
-Nutzung der technischen Einrichtungen zu regeln und die nach Satz 2
-maßgeblichen Tatsachen festzulegen sowie das Verfahren der Angabe
-dieser Tatsachen zu regeln.
+Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates Einzelheiten der Nutzung der
+technischen Einrichtungen zu regeln und die nach Satz 2 maßgeblichen
+Tatsachen festzulegen sowie das Verfahren der Angabe dieser Tatsachen
+zu regeln.
 
 (5) Eine Maut oder, im Fall des Absatzes 6 Satz 1, ein der Maut
 entsprechender Betrag wird auf Verlangen ganz oder teilweise
 erstattet, wenn die Fahrt, für die sie entrichtet wurde, nicht oder
 nicht vollständig durchgeführt wird (Erstattung der Maut). Das
-Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der
-Erstattung der Maut zu regeln. Die Bearbeitungsgebühr für ein
-Erstattungsverlangen beträgt höchstens 20 Euro.
+Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates das Verfahren der Erstattung der Maut
+zu regeln. Die Bearbeitungsgebühr für ein Erstattungsverlangen beträgt
+höchstens 20 Euro.
 
 (6) Verpflichtet sich der Betreiber oder ein Anbieter, der einen
 Vertrag nach § 4d Absatz 1 oder § 4f Absatz 1 mit dem Bundesamt für
@@ -606,7 +601,7 @@ Pilotbetriebs nach § 4e Absatz 2 möglich ist.
 (1) Das Bundesamt für Logistik und Mobilität lässt nach § 11 Absatz 1
 des Mautsystemgesetzes einen Anbieter auf Antrag zur Erbringung
 mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen
-Straßen zum Zwecke der Durchführung des Pilotbetriebs nach Absatz 3
+Straßen zum Zwecke der Durchführung des Pilotbetriebs nach Absatz 2
 durch Verwaltungsakt zu (beschränkte Zulassung), wenn der Anbieter das
 Prüfverfahren nach § 4d Absatz 3 erfolgreich bestanden hat.
 
@@ -746,25 +741,25 @@ beschränkten Zulassung haben keine aufschiebende Wirkung.
 
 ## § 4h Rechtsverordnungen zu Prüfvereinbarung und Zulassungsvertrag
 
-Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Das Bundesministerium für Verkehr wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die näheren
 Einzelheiten der Bestimmungen der Prüfvereinbarung nach § 4d Absatz 2
 und des Zulassungsvertrages nach § 4f Absatz 2 einheitlich
-festzusetzen. Das Bundesministerium für Digitales und Verkehr wird
-ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das
-Bundesamt für Logistik und Mobilität zu übertragen.
+festzusetzen. Das Bundesministerium für Verkehr wird ferner
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für
+Logistik und Mobilität zu übertragen.
 
 
 ## § 4i Rechtsverordnungen zu Gebietsvorgaben
 
-Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
+Das Bundesministerium für Verkehr wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Gebietsvorgaben
 im Sinne des § 9 Absatz 1, 3 und 4 des Mautsystemgesetzes für die nach
 § 1 mautpflichtigen Straßen festzulegen. Das Bundesministerium für
-Digitales und Verkehr wird ferner ermächtigt, durch Rechtsverordnung
-ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder
-teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
+Verkehr wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung
+des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das
+Bundesamt für Logistik und Mobilität zu übertragen.
 
 
 ## § 4j Nutzerlisten
@@ -805,8 +800,42 @@ Daten zu den in Absatz 3 genannten Zwecken zu übermitteln:
 
 
 
+(2a) Auf Verlangen des Bundesamtes für Logistik und Mobilität hat der
+Betreiber folgende Daten zu den in Absatz 3 genannten Zwecken zu
+übermitteln:
+
+1.  Identifikationsnummer des Nutzers, dem ein gesperrtes oder entsperrtes
+    Fahrzeuggerät zugeordnet ist,
+
+
+2.  Identifikationsnummer des Fahrzeuggeräts, für das eine Sperr- oder
+    Entsperrmeldung des Betreibers vorliegt, und das Kennzeichen des
+    Fahrzeugs, in dem sich das Fahrzeuggerät befindet,
+
+
+3.  Angaben zur Gültigkeit eines Eintrags in die Nutzerlisten,
+
+
+4.  Zeitpunkt, zu dem der Betreiber eine Sperrung oder eine Entsperrung
+    des Fahrzeuggeräts ausgelöst hat,
+
+
+5.  Zeitpunkt, zu dem das Fahrzeuggerät die Sperrung oder Entsperrung
+    bestätigt hat,
+
+
+6.  Grund und Art der Sperraktivität, die für ein Fahrzeuggerät
+    durchgeführt wurde, und
+
+
+7.  eine im System des Betreibers eindeutige Identifikationsnummer für
+    Datensätze des Datentyps „Sperr- oder Entsperrinformation“.
+
+
+
+
 (3) Das Bundesamt für Logistik und Mobilität darf die in den Absätzen
-1 und 2 genannten Daten ausschließlich zur Wahrnehmung seiner
+1 bis 2a genannten Daten ausschließlich zur Wahrnehmung seiner
 hoheitlichen Aufgaben im Rahmen der Kontrolle der Einhaltung der
 Mautpflicht und Ahndung von Verstößen sowie bei der Überwachung des
 Betreibers und der nach § 4e oder § 4f zugelassenen Anbieter erheben,
@@ -815,10 +844,10 @@ dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
 
 (4) Die Daten nach Absatz 1 sind vom Bundesamt für Logistik und
 Mobilität drei Jahre nach Ablauf des Kalenderjahres, in dem sie
-übermittelt worden sind, zu löschen. Die Daten nach Absatz 2 sind vom
-Bundesamt für Logistik und Mobilität nach Erfüllung des Zwecks ihrer
-Übermittlung, spätestens nach Ablauf der haushaltsrechtlichen
-Aufbewahrungsfristen unverzüglich zu löschen.
+übermittelt worden sind, zu löschen. Die Daten nach den Absätzen 2 und
+2a sind vom Bundesamt für Logistik und Mobilität nach Erfüllung des
+Zwecks ihrer Übermittlung, spätestens nach Ablauf der
+haushaltsrechtlichen Aufbewahrungsfristen unverzüglich zu löschen.
 
 
 ## § 5 Nachweispflicht des Mautschuldners
@@ -827,18 +856,18 @@ Aufbewahrungsfristen unverzüglich zu löschen.
 3 Satz 1, eines Anbieters nach § 10 Absatz 1 oder § 11 Absatz 1 des
 Mautsystemgesetzes oder des Bundesamtes für Logistik und Mobilität,
 die für die Mauterhebung maßgeblichen Tatsachen nachzuweisen. Das
-Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten der
-Nachweisführung zu regeln. Im Falle des nicht ordnungsgemäßen
-Nachweises der technisch zulässigen Gesamtmasse des Kraftfahrzeuges
-oder der Fahrzeugkombination wird der Mautteilsatz für die
-Infrastrukturkosten je nach Anzahl der Achsen nach dem Höchstsatz in
-Anlage 1 Nummer 1 Buchstabe c oder d berechnet. Im Falle des nicht
-ordnungsgemäßen Nachweises der Schadstoffklasse des Fahrzeuges wird
-der Mautteilsatz für die verursachten Luftverschmutzungskosten nach
-dem Höchstsatz in Anlage 1 Nummer 2 Buchstabe a Kategorie F berechnet.
-Im Falle des nicht ordnungsgemäßen Nachweises der Kohlenstoffdioxid-
-Emissionsklasse des Fahrzeugs wird der Mautteilsatz für die Kosten für
+Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates Einzelheiten der Nachweisführung zu
+regeln. Im Falle des nicht ordnungsgemäßen Nachweises der technisch
+zulässigen Gesamtmasse des Kraftfahrzeuges oder der
+Fahrzeugkombination wird der Mautteilsatz für die Infrastrukturkosten
+je nach Anzahl der Achsen nach dem Höchstsatz in Anlage 1 Nummer 1
+Buchstabe c oder d berechnet. Im Falle des nicht ordnungsgemäßen
+Nachweises der Schadstoffklasse des Fahrzeuges wird der Mautteilsatz
+für die verursachten Luftverschmutzungskosten nach dem Höchstsatz in
+Anlage 1 Nummer 2 Buchstabe a Kategorie F berechnet. Im Falle des
+nicht ordnungsgemäßen Nachweises der Kohlenstoffdioxid-Emissionsklasse
+des Fahrzeugs wird der Mautteilsatz für die Kosten für
 verkehrsbedingte Kohlenstoffdioxid-Emissionen nach Kohlenstoffdioxid-
 Emissionsklasse 1 in Anlage 1 Nummer 4 berechnet.
 
@@ -892,45 +921,70 @@ und einander übermitteln:
 
 
 5.  für die Mauthöhe maßgebliche Merkmale des Fahrzeugs oder der
-    Fahrzeugkombination,
+    Fahrzeugkombinationen sowie
 
 
 6.  folgende im Fahrzeuggerät gespeicherte Daten:
 
-    a)  Zeitpunkt der Aktivierung,
+    a)  die Vertragsnummer des Nutzers und die Identifikationsnummer des
+        Fahrzeuggeräts,
 
 
-    b)  der aktuelle Betriebszustand, die letzten drei vorherigen
-        Betriebszustände sowie Zeitpunkt und Ort des jeweiligen Wechsels des
-        Betriebszustandes,
+    b)  die Identifikationsnummer des Betreibers oder des Anbieters nach den
+        §§ 4e und 4f,
 
 
-    c)  Ort, Zeitpunkt und Qualität der letzten Positionsermittlung,
+    c)  den Zeitpunkt der Aktivierung,
 
 
-    d)  Ort und Zeitpunkt der letzten Empfangsbestätigung durch den
-        Fahrzeugführer sowie die bestätigte Systembenachrichtigung,
+    d)  den Ort, den Zeitpunkt und die Qualität der letzten
+        Positionsermittlung sowie,
 
 
-    e)  die Fahrzeugklasse, die aktuell gültige und die zuvor gespeicherte
-        technisch zulässige Gesamtmasse und die aktuell gültige und die zuvor
-        gespeicherte Anzahl der Achsen des Fahrzeugs oder der
-        Fahrzeugkombination,
+    e)  wenn ein Fahrzeuggerät verwendet wird, das auf Mikrowellentechnik im
+        Sinne des § 2 Nummer 3 des Mautsystemgesetzes basiert, folgende Daten:
+
+        aa) den aktuellen Betriebszustand, die letzten drei vorangegangenen
+            Betriebszustände sowie den Zeitpunkt und den Ort des jeweiligen
+            Wechsels des Betriebszustandes,
 
 
-    f)  Vertragsnummer des Nutzers, Identifikationsnummer des Fahrzeuggerätes
-        sowie
+        bb) die Fahrzeugklasse, die aktuell gültige und die zuvor gespeicherte
+            technisch zulässige Gesamtmasse und die aktuell gültige und die zuvor
+            gespeicherte Anzahl der Achsen des Fahrzeugs sowie
 
 
-    g)  die Identifikationsnummer des Betreibers oder des Anbieters nach den
-        §§ 4e und 4f, und
+        cc) die letzte bestätigte Systembenachrichtigung sowie den Ort und den
+            Zeitpunkt der Bestätigung des Empfangs dieser Systembenachrichtigung
+            durch den Fahrzeugführer,
 
 
 
 
 
-7.  Informationen zu gesperrten Fahrzeuggeräten inklusive des Zeitraums
-    der Sperrung und des Sperrgrundes.
+    f)  wenn ein Fahrzeuggerät verwendet wird, das nicht auf
+        Mikrowellentechnik im Sinne des § 2 Nummer 3 des Mautsystemgesetzes
+        basiert, folgende Daten:
+
+        aa) alle Betriebszustände, die zum Zeitpunkt der Kontrolle nicht älter als
+            zehn Stunden sind, sowie den Zeitpunkt und den Ort des jeweiligen
+            Wechsels des Betriebszustandes,
+
+
+        bb) alle Daten zur Fahrzeugklasse, zur technisch zulässigen Gesamtmasse
+            und zur Anzahl der Achsen des Fahrzeugs, die jeweils zum Zeitpunkt der
+            Kontrolle nicht älter als zehn Stunden sind, sowie
+
+
+        cc) die letzten drei bestätigten Systembenachrichtigungen sowie den Ort
+            und den Zeitpunkt der Bestätigung des Empfangs der jeweiligen
+            Systembenachrichtigung durch den Fahrzeugführer.
+
+
+
+
+
+
 
 
 
@@ -941,15 +995,20 @@ Rechtsvorschriften ist unzulässig.
 
 (3) Der Betreiber übermittelt darüber hinaus für die Durchführung der
 Kontrolle nach Absatz 1 dem Bundesamt für Logistik und Mobilität die
-Daten über die Mautentrichtung nach § 4 Absatz 3 Satz 3 Nummer 1 bis
-9\. Das Bundesamt für Logistik und Mobilität darf die ihm übermittelten
-Daten auch zur Überwachung des Betreibers verarbeiten. Für Anbieter
-nach den §§ 4e und 4f gelten die Sätze 1 und 2 entsprechend. Erfolgt
-die Berechnung der Maut für die Nutzer der Anbieter nach den §§ 4e und
-4f durch das Bundesamt für Logistik und Mobilität nach § 4 Absatz 3a,
-darf das Bundesamt für Logistik und Mobilität die Daten nach § 4
-Absatz 3 Satz 3 Nummer 1 bis 9 auch zur Überwachung der Anbieter nach
-den §§ 4e und 4f verarbeiten.
+Daten über die Mautentrichtung nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9
+sowie im Fall der Verwendung eines Fahrzeuggeräts, das nicht auf
+Mikrowellentechnik im Sinne des § 2 Nummer 3 des Mautsystemgesetzes
+basiert, die Daten nach Absatz 2 Satz 1 Nummer 6 Buchstabe a bis d und
+f für einen Zeitraum von der Kontrolle bis zum Ende der Fahrt,
+längstens jedoch für einen Zeitraum von 90 Minuten ab dem Zeitpunkt
+der Kontrolle. Das Bundesamt für Logistik und Mobilität darf die ihm
+übermittelten Daten auch zur Überwachung des Betreibers verarbeiten.
+Für Anbieter nach den §§ 4e und 4f gelten die Sätze 1 und 2
+entsprechend. Erfolgt die Berechnung der Maut für die Nutzer der
+Anbieter nach den §§ 4e und 4f durch das Bundesamt für Logistik und
+Mobilität nach § 4 Absatz 3a, darf das Bundesamt für Logistik und
+Mobilität die Daten nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9 auch zur
+Überwachung der Anbieter nach den §§ 4e und 4f verarbeiten.
 
 (3a) Das Bundesamt für Logistik und Mobilität darf auf den nach § 1
 Absatz 1 mautpflichtigen Straßen auch stichprobenartig optisch-
@@ -1277,8 +1336,8 @@ Mai 2009 (BGBl. I S. 1170) geändert worden ist.
 ## § 13 Bericht über die erhobenen Mautgebühren
 
 (1) Bis zum 25. März 2025 und anschließend alle fünf Jahre
-veröffentlicht das Bundesministerium für Digitales und Verkehr in
-zusammengefasster Form einen Bericht über die erhobenen Mautgebühren.
+veröffentlicht das Bundesministerium für Verkehr in zusammengefasster
+Form einen Bericht über die erhobenen Mautgebühren.
 
 (2) Der nach Absatz 1 zu veröffentlichende Bericht hat folgende
 Angaben zu enthalten:
@@ -1811,18 +1870,14 @@ abweichend von § 3 Absatz 3 nach der Anlage 11.
     b)  Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in
         Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt
         nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1
-        Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen
-        Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von
-        Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge
-        (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die
-        Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom
-        24\. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 Satz 1
-        wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-
-        Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf
+        Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG. Im Sinne des
+        Artikels 7ga Absatz 2 Satz 2 der Richtlinie 1999/62/EG wird die
+        Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2
+        und 3 alle sechs Jahre, gerechnet vom Tag seiner Erstzulassung, auf
         Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu
         ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-
-        Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach
-        dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
+        Emissionsklasse wird am Tag nach der Neuermittlung der Einstufung
+        wirksam.
 
 
 
