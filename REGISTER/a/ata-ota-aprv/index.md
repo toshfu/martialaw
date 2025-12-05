@@ -3739,16 +3739,13 @@ Funktionsbereiche:
     *   **2 500**
 
 
-*    *   **
-        \* Berufsspezifischer Orientierungseinsatz fakultativ. Die
-        gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend
-        die Stunden zur freien Verteilung.
 
-    *
+**
+\* Berufsspezifischer Orientierungseinsatz fakultativ. Die
+gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend
+die Stunden zur freien Verteilung.
 
-
-
-   (zu § 18 Absatz 2 Nummer 1 Buchstabe b)
+(zu § 18 Absatz 2 Nummer 1 Buchstabe b)
 
 #### Anlage 5 Bescheinigung über die Teilnahme am theoretischen und praktischen Unterricht und an der praktischen Ausbildung
 
