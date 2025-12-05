@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 1818
 
 Zuletzt geändert durch
-:   Art. 7 G v. 21.2.2025 I Nr. 51
-
-Änderung durch
-:   Art. 2 G v. 25.11.2025 I Nr. 283 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 25.11.2025 I Nr. 283
 
 [^F812505_01_BJNR181810020]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
