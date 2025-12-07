@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 704
 
 Zuletzt geändert durch
-:   Art. 23 G v. 27.7.2021 I 3146
+:   Art. 2 G v. 2.12.2025 I Nr. 302
 
 [^bjnr070410993_01_BJNR070410993]:     Diese Verordnung dient der Umsetzung der Richtlinie 89/392/EWG des
     Rates vom 14. Juni 1989 zur Angleichung der Rechtsvorschriften der
@@ -584,4 +584,9 @@ Tragbare Befestigungsgeräte mit Treibladung und andere Schussgeräte,
 die den Bestimmungen der Beschussverordnung vom 13. Juli 2006 (BGBl. I
 S. 1474) entsprechen, dürfen noch bis zum 28. Juni 2011 auf dem Markt
 bereitgestellt und in Betrieb genommen werden.
+
+
+## § 10 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 19. Januar 2027 außer Kraft.
 
