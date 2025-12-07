@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 25.11.2025 I Nr. 283
 
+Änderung durch
+:   Art. 17 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
 Europäischen Parlaments und des Rates vom 26. Juni 2003 über
@@ -1504,6 +1507,385 @@ Stellen von diesen Maßnahmen oder von einem daraufhin eingeleiteten
 Ermittlungsverfahren in Kenntnis setzen.
 
 
+### § 5c IT-Sicherheit im Anlagen- und im Netzbetrieb, Festlegungskompetenz
+
+(1) Die folgenden Betreiber haben für die genannten Systeme einen
+angemessenen Schutz gegen Bedrohungen zu gewährleisten:
+
+1.  der Betreiber eines Energieversorgungsnetzes für
+    Telekommunikationssysteme und für elektronische
+    Datenverarbeitungssysteme, die für den sicheren Betrieb des
+    Energieversorgungsnetzes notwendig sind,
+
+
+2.  der Betreiber einer Energieanlage, der eine besonders wichtige
+    Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine wichtige
+    Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und dessen
+    Energieanlage an ein Energieversorgungsnetz angeschlossen ist, für
+    Telekommunikationssysteme sowie für elektronische
+    Datenverarbeitungssysteme, die für einen sicheren Betrieb der
+    Energieanlage notwendig sind,
+
+
+3.  der Betreiber eines digitalen Energiedienstes, der eine besonders
+    wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine
+    wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und der
+    den digitalen Energiedienst an einer Energieanlage ausübt, die an ein
+    Energieversorgungsnetz angeschlossen ist, für
+    Telekommunikationssysteme sowie für elektronische
+    Datenverarbeitungssysteme, die für einen sicheren Betrieb der Anlage
+    notwendig sind.
+
+
+
+Der angemessene Schutz nach Satz 1 ist bereits bei der Beschaffung von
+Anlagengütern und Dienstleistungen sicherzustellen.
+
+(2) Die Anforderungen an den angemessenen Schutz werden von der
+Bundesnetzagentur im Einvernehmen mit dem Bundesamt für Sicherheit in
+der Informationstechnik in einem Katalog von Sicherheitsanforderungen
+(IT-Sicherheitskatalog) durch Festlegung nach § 29 Absatz 1 bestimmt.
+Die Bundesnetzagentur kann die Anforderungen an einen angemessenen
+Schutz eines Energieversorgungsnetzes, einer Energieanlage oder eines
+Energiedienstes auch jeweils in einem gesonderten IT-
+Sicherheitskatalog durch Festlegung nach § 29 Absatz 1 bestimmen. Die
+Bundesnetzagentur beteiligt jeweils die Betreiber nach Absatz 1 Satz 1
+Nummer 1 bis 3 und deren Branchenverbände entsprechend ihrer
+Betroffenheit. Für Telekommunikationssysteme sowie für elektronische
+Datenverarbeitungssysteme von Anlagen nach § 7 Absatz 1 des
+Atomgesetzes sind ergänzend für die Erarbeitung des IT-
+Sicherheitskatalogs die für die nukleare Sicherheit zuständigen
+Genehmigungs- und Aufsichtsbehörden des Bundes und der Länder zu
+beteiligen. Vorgaben auf Grund des Atomgesetzes haben Vorrang vor den
+Anforderungen des IT-Sicherheitskatalogs. Die Bundesnetzagentur
+überprüft den IT-Sicherheitskatalog alle zwei Jahre und aktualisiert
+ihn bei Bedarf. Mit der Einhaltung des IT-Sicherheitskatalogs durch
+den Betreiber nach Absatz 1 Satz 1 Nummer 1 bis 3 gilt der angemessene
+Schutz als eingehalten.
+
+(3) Der IT-Sicherheitskatalog soll ein Sicherheitsniveau der
+informationstechnischen Systeme, Komponenten und Prozesse
+gewährleisten, das dem bestehenden Risiko angemessen ist. Der IT-
+Sicherheitskatalog soll unter Berücksichtigung der einschlägigen
+europäischen Normen oder internationalen Normen, der Einhaltung des
+Standes der Technik sowie der Umsetzungskosten erstellt werden. Zur
+Wahrung der Angemessenheit der Anforderungen des jeweiligen IT-
+Sicherheitskatalogs sind bei der Erstellung folgende Faktoren zu
+berücksichtigen:
+
+1.  das Ausmaß der Risikoexposition,
+
+
+2.  die Größe des Betreibers,
+
+
+3.  die Eintrittswahrscheinlichkeit und Schwere von Sicherheitsvorfällen
+    sowie
+
+
+4.  die gesellschaftlichen und wirtschaftlichen Auswirkungen.
+
+
+
+
+(4) Der IT-Sicherheitskatalog hat mindestens Vorgaben zu enthalten
+für:
+
+1.  Konzepte in Bezug auf die Risikoanalyse und Sicherheit für
+    Informationstechnik,
+
+
+2.  die Bewältigung von Sicherheitsvorfällen,
+
+
+3.  die Aufrechterhaltung des Betriebs, wie Backup-Management und
+    Wiederherstellung nach einem Notfall, und das Krisenmanagement,
+
+
+4.  die Sicherheit der Lieferkette einschließlich sicherheitsbezogener
+    Aspekte der Beziehungen zwischen den einzelnen Einrichtungen und ihren
+    unmittelbaren Anbietern oder Diensteanbietern,
+
+
+5.  Sicherheitsmaßnahmen bei Erwerb, Entwicklung und Wartung von Netz- und
+    Informationssystemen, einschließlich Management und Offenlegung von
+    Schwachstellen,
+
+
+6.  Konzepte und Verfahren zur Bewertung der Wirksamkeit von
+    Risikomanagementmaßnahmen im Bereich der Sicherheit der
+    Informationstechnik,
+
+
+7.  grundlegende Verfahren im Bereich der Cyberhygiene und für Schulungen
+    im Bereich der Sicherheit der Informationstechnik,
+
+
+8.  Konzepte und Verfahren für den Einsatz von Kryptografie und
+    Verschlüsselung,
+
+
+9.  die Sicherheit des Personals, Konzepte für die Zugriffskontrolle und
+    das Management von Anlagen,
+
+
+10. die Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder
+    kontinuierlichen Authentifizierung, gesicherte Sprach-, Video- und
+    Textkommunikation sowie gegebenenfalls gesicherte
+    Notfallkommunikationssysteme innerhalb der Einrichtung,
+
+
+11. den Einsatz von Systemen zur Angriffserkennung nach § 2 Nummer 41 des
+    BSI-Gesetzes,
+
+
+12. den Einsatz eines Elements oder einer Gruppe von Elementen eines Netz-
+    oder Informationssystems (IKT-Produkt), eines Dienstes, der
+    vollständig oder überwiegend aus der Übertragung, Speicherung, Abfrage
+    oder Verarbeitung von Informationen mittels Netz- und
+    Informationssystemen besteht (IKT-Dienst), und jeglicher Tätigkeiten,
+    mit denen ein IKT-Produkt oder ein IKT-Dienst konzipiert, entwickelt,
+    bereitgestellt oder gepflegt werden soll (IKT-Prozess), mit
+    Cybersicherheitszertifizierung gemäß europäischer Schemata nach
+    Artikel 49 der Verordnung (EU) 2019/881.
+
+
+
+
+(5) Die Bundesnetzagentur kann in dem IT-Sicherheitskatalog
+
+1.  nähere Bestimmungen treffen zu Format, Inhalt und Gestaltung der nach
+    § 5d Absatz 1 Satz 1 erforderlichen Dokumentation über die Einhaltung
+    der Anforderungen des IT-Sicherheitskatalogs,
+
+
+2.  nähere Bestimmungen zur Behebung von Sicherheitsmängeln sowie
+
+
+3.  Regelungen festlegen zur regelmäßigen Überprüfung der Erfüllung der
+    Sicherheitsanforderungen.
+
+
+
+
+(6) Die Bundesnetzagentur legt bis zum Ablauf des 6. Januar 2026 im
+Einvernehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik durch Festlegung nach § 29 Absatz 1 in einem
+Katalog für den Betrieb von Energieversorgungsnetzen und
+Energieanlagen fest,
+
+1.  welche Komponenten kritische Komponenten nach § 2 Nummer 23 Buchstabe
+    c Doppelbuchstabe aa des BSI-Gesetzes sind oder
+
+
+2.  welche Funktionen kritisch bestimmte Funktionen nach § 2 Nummer 23
+    Buchstabe c Doppelbuchstabe bb des BSI-Gesetzes sind.
+
+
+
+Der Betreiber nach Absatz 1 Satz 1 Nummer 1 und 2, der zugleich eine
+kritische Anlage nach § 2 Nummer 22 des BSI-Gesetzes betreibt, hat die
+Vorgaben des Katalogs spätestens sechs Monate nach dessen in der
+Festlegung nach § 29 Absatz 1 bestimmten Inkrafttretens zu erfüllen,
+es sei denn, in dem Katalog ist eine davon abweichende Umsetzungsfrist
+festgelegt worden. Die Befugnis der Bundesnetzagentur nach Satz 1
+besteht bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des
+BSI-Gesetzes für den Sektor Energie fort. Eine von der
+Bundesnetzagentur auf der Grundlage von Satz 1 oder auf der Grundlage
+von § 11 Absatz 1a Satz 2 des Energiewirtschaftsgesetzes in der am 5.
+Dezember 2025 geltenden Fassung erlassene Allgemeinverfügung ist mit
+dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7 des BSI-
+Gesetzes für Energieversorgungsnetze und Energieanlagen aufzuheben.
+
+
+### § 5d Dokumentations-, Melde-, Registrierungspflicht
+
+(1) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 hat die
+Einhaltung der Anforderungen des IT-Sicherheitskatalogs zu
+dokumentieren. Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 und
+der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 2 und 3, der jeweils
+eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-
+Gesetzes ist, hat die Dokumentation nach Satz 1 der Bundesnetzagentur
+unverzüglich nach der Erstellung zu übermitteln. Auf Verlangen der
+Bundesnetzagentur hat der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1
+bis 3 einen Mängelbeseitigungsplan vorzulegen. Ergeben sich aus dem
+Mängelbeseitigungsplan Sicherheitsmängel, so kann die
+Bundesnetzagentur von dem Betreiber die Beseitigung dieser Mängel
+innerhalb einer gesetzten Frist verlangen. Der Betreiber hat der
+Bundesnetzagentur und den in deren Auftrag handelnden Personen zum
+Zweck der Überprüfung der Einhaltung des IT-Sicherheitskatalogs das
+Betreten der Geschäfts- und Betriebsräume während der üblichen
+Betriebszeiten zu gestatten und auf Verlangen die in Betracht
+kommenden Aufzeichnungen, Schriftstücke und sonstigen Unterlagen in
+geeigneter Weise vorzulegen. Er hat Auskunft zu erteilen und die
+erforderliche Unterstützung zu gewähren. Für die Überprüfung erhebt
+die Bundesnetzagentur nur dann Gebühren und Auslagen, wenn die
+Bundesnetzagentur auf Grund von Anhaltspunkten tätig geworden ist, die
+berechtigte Zweifel an der Einhaltung der Anforderungen des IT-
+Sicherheitskatalogs begründen.
+
+(2) Erlangt die Bundesnetzagentur Kenntnis über Hinweise oder
+Informationen, wonach ein Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1
+bis 3 die Anforderungen des IT-Sicherheitskatalogs nicht oder nicht
+richtig umsetzt, so kann sie von dem Betreiber Informationen
+anfordern, um die Einhaltung des IT-Sicherheitskatalogs zu überprüfen.
+Absatz 1 Satz 3 bis 7 ist entsprechend anzuwenden.
+
+(3) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 ist
+verpflichtet, der Meldestelle nach § 32 des BSI-Gesetzes folgende
+Informationen zu melden:
+
+1.  unverzüglich, spätestens jedoch innerhalb von 24 Stunden nach
+    Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2
+    Nummer 11 des BSI-Gesetzes: eine frühe Erstmeldung, in der angegeben
+    wird, ob der Verdacht besteht, dass der erhebliche Sicherheitsvorfall
+    auf eine rechtswidrige oder eine böswillige Handlung zurückzuführen
+    ist oder dass er grenzüberschreitende Auswirkungen haben könnte,
+
+
+2.  unverzüglich, spätestens jedoch innerhalb von 72 Stunden nach
+    Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2
+    Nummer 11 des BSI-Gesetzes: eine Meldung über den erheblichen
+    Sicherheitsvorfall, in der die in Nummer 1 genannten Informationen
+    bestätigt oder aktualisiert werden und in der eine erste Bewertung des
+    erheblichen Sicherheitsvorfalls vorgenommen wird, einschließlich der
+    Bewertung seines Schweregrads und seiner Auswirkungen und
+    einschließlich der Angabe der Kompromittierungsfaktoren,
+
+
+3.  auf Ersuchen des Bundesamtes für Sicherheit in der Informationstechnik
+    eine Zwischenmeldung über relevante Statusaktualisierungen,
+
+
+4.  spätestens einen Monat nach Übermittlung der Meldung des erheblichen
+    Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes eine
+    Abschlussmeldung, die Folgendes enthält:
+
+    a)  eine ausführliche Beschreibung des erheblichen Sicherheitsvorfalls
+        nach § 2 Nummer 11 des BSI-Gesetzes, einschließlich seines
+        Schweregrads und seiner Auswirkungen,
+
+
+    b)  Angaben zur Art der Bedrohung beziehungsweise zur Ursache, die
+        wahrscheinlich den erheblichen Sicherheitsvorfall nach § 2 Nummer 11
+        des BSI-Gesetzes ausgelöst hat,
+
+
+    c)  Angaben zu den getroffenen und den laufenden Abhilfemaßnahmen zur
+        Abwendung oder Behebung des erheblichen Sicherheitsvorfalls,
+
+
+    d)  gegebenenfalls die grenzüberschreitenden Auswirkungen des erheblichen
+        Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes.
+
+
+
+
+
+
+§ 32 Absatz 2 bis 5 und § 36 des BSI-Gesetzes sind entsprechend
+anzuwenden. Bei Meldungen nach diesem Absatz trifft das Bundesamt für
+Sicherheit in der Informationstechnik Maßnahmen nach § 36 des BSI-
+Gesetzes im Benehmen mit der Bundesnetzagentur.
+
+(4) Der Betreiber eines Energieversorgungsnetzes, der keine besonders
+wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder keine
+wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist, ist
+verpflichtet, spätestens bis zum Ablauf des 6. März 2026 dem Bundesamt
+für Sicherheit in der Informationstechnik die Angaben nach § 33 Absatz
+1 Nummer 1 bis 4 des BSI-Gesetzes zur Registrierung zu übermitteln. §
+33 Absatz 2 bis 5 des BSI-Gesetzes ist für den in Satz 1 genannten
+Betreiber entsprechend anzuwenden mit der Maßgabe, dass das Bundesamt
+für Sicherheit in der Informationstechnik die Registrierung auch
+selbst vornehmen und eine Kontaktstelle benennen kann, wenn der
+Betreiber seine Pflicht zur Registrierung nicht erfüllt. Nimmt das
+Bundesamt für Sicherheit in der Informationstechnik eine solche
+Registrierung selbst vor, so informiert es sowohl den betreffenden
+Betreiber als auch die Bundesnetzagentur darüber und übermittelt die
+damit verbundenen Kontaktdaten. Jeder Betreiber hat sicherzustellen,
+dass er über die von ihm benannte oder durch die durch das Bundesamt
+für Sicherheit in der Informationstechnik festgelegte Kontaktstelle
+jederzeit erreichbar ist. Für den Betreiber eines
+Energieversorgungsnetzes, der eine besonders wichtige Einrichtung nach
+§ 28 Absatz 1 des BSI-Gesetzes oder eine wichtige Einrichtung nach §
+28 Absatz 2 des BSI-Gesetzes ist und für Betreiber nach § 5c Absatz 1
+Satz 1 Nummer 2 und 3 ist § 33 des BSI-Gesetzes auch mit den in den
+Sätzen 2 bis 4 enthaltenen Maßgaben anzuwenden. Das Bundesamt für
+Sicherheit in der Informationstechnik übermittelt die durch die
+Registrierung der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3
+erhaltenen Daten sowie jede Änderung der Registrierungen unverzüglich
+an die Bundesnetzagentur. Die Übermittlung von Informationen durch das
+Bundesamt für Sicherheit in der Informationstechnik nach § 40 Absatz 3
+Nummer 4 Buchstabe a des BSI-Gesetzes erfolgt an diese Kontaktstelle.
+
+(5) Das Bundesamt für Sicherheit in der Informationstechnik hat die
+Hinweise oder Informationen nach Absatz 2 und solche Meldungen über
+Sicherheitsvorfälle nach § 32 des BSI-Gesetzes, bei denen das
+Bundesamt für Sicherheit in der Informationstechnik Kenntnis von einer
+Relevanz für die Energieversorgungssicherheit und die Erfüllung der
+Zwecke und Ziele nach § 1 erlangt, unverzüglich an die
+Bundesnetzagentur weiterzuleiten. Die Bundesnetzagentur führt
+unverzüglich eine Bewertung der Auswirkungen des nach Satz 1
+übermittelten Sicherheitsvorfalls auf die Energieversorgungssicherheit
+durch und übermittelt ihre Ergebnisse an das Bundesamt für Sicherheit
+in der Informationstechnik. Die Bundesnetzagentur kann von dem
+betroffenen Unternehmen die Herausgabe der zur Bewertung der
+Auswirkungen des Sicherheitsvorfalls auf die
+Energieversorgungssicherheit notwendigen Informationen, einschließlich
+personenbezogener Daten, verlangen. Sie ist befugt, zur Bewertung der
+Auswirkungen des Sicherheitsvorfalls auf die
+Energieversorgungssicherheit erforderliche personenbezogene Daten zu
+erheben, zu speichern und zu verwenden. Das betroffene Unternehmen hat
+der Bundesnetzagentur die zur Bewertung der Auswirkungen des
+Sicherheitsvorfalls auf die Energieversorgungssicherheit notwendigen
+Informationen, einschließlich personenbezogener Daten, zu übermitteln.
+Die Bundesnetzagentur kann bei der Durchführung der Bewertung nach
+Satz 2 die Betreiber von Übertragungs-, von Fernleitungs- sowie von
+Verteilernetzen einbeziehen und ist befugt, ihnen die hierzu
+erforderlichen personenbezogenen Daten zu übermitteln. Die Betreiber
+von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen sind
+befugt, die ihnen nach Satz 5 zum dort genannten Zweck übermittelten
+personenbezogenen Daten zu erheben, zu speichern und zu verwenden.
+Nach Erstellung der Bewertung sind die hierzu gespeicherten und
+verwendeten personenbezogenen Daten von der Bundesnetzagentur und den
+Betreibern von Übertragungs-, von Fernleitungs- sowie von
+Verteilernetzen unverzüglich zu löschen. Das Bundesamt für Sicherheit
+in der Informationstechnik berücksichtigt die Bewertung der
+Bundesnetzagentur bei der Erfüllung der Aufgaben nach § 40 Absatz 3
+Nummer 2 des BSI-Gesetzes. Das Bundesamt für Sicherheit in der
+Informationstechnik und die Bundesnetzagentur haben jeweils
+sicherzustellen, dass die unbefugte Offenbarung der ihnen nach Satz 1
+zur Kenntnis gelangten Hinweise und Meldungen ausgeschlossen wird.
+Zugang zu den Akten des Bundesamtes für Sicherheit in der
+Informationstechnik sowie zu den Akten der Bundesnetzagentur in
+Angelegenheiten nach § 5c Absatz 1 bis 5 und den Absätzen 1 bis 4
+sowie dieses Absatzes wird nicht gewährt. § 29 des
+Verwaltungsverfahrensgesetzes bleibt unberührt.
+
+
+### § 5e Umsetzungs-, Überwachungs- und Schulungspflicht für Geschäftsleitungen
+
+(1) Die Geschäftsleitung eines Betreibers nach § 5c Absatz 1 Satz 1
+Nummer 1 bis 3 ist verpflichtet, die Anforderungen des IT-
+Sicherheitskatalogs umzusetzen und die Umsetzung zu überwachen.
+
+(2) Eine Geschäftsleitung eines Betreibers nach § 5c Absatz 1 Satz 1
+Nummer 1 bis 3, die ihre Pflichten nach Absatz 1 verletzt, haftet
+ihrer Einrichtung für einen schuldhaft verursachten Schaden nach den
+auf die Rechtsform der Einrichtung anwendbaren Regeln des
+Gesellschaftsrechts. Nach diesem Gesetz haften sie nur, wenn die für
+die Einrichtung maßgeblichen gesellschaftsrechtlichen Bestimmungen
+keine Haftungsregelung nach Satz 1 enthalten.
+
+(3) Die Geschäftsleitung eines Betreibers nach § 5c Absatz 1 Satz 1
+Nummer 1 bis 3 muss regelmäßig an Schulungen teilnehmen, um
+ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung
+von Risiken und von Risikomanagementpraktiken im Bereich der
+Sicherheit in der Informationstechnik zu erlangen sowie um die
+Auswirkungen von Risiken sowie Risikomanagementpraktiken auf die von
+der Einrichtung erbrachten Dienste beurteilen zu können.
+
+
 ## Teil 2 - Entflechtung
 
 
@@ -2603,173 +2985,6 @@ Ausbau eines L-Gasversorgungsnetzes ist nicht bedarfsgerecht im Sinne
 von Satz 1, wenn er auf Grund von Netzanschlüssen erfolgen muss, zu
 deren Einräumung der Betreiber des L-Gasversorgungsnetzes nicht nach
 den §§ 17 und 18 verpflichtet war.
-
-(1a) Der Betrieb eines sicheren Energieversorgungsnetzes umfasst
-insbesondere auch einen angemessenen Schutz gegen Bedrohungen für
-Telekommunikations- und elektronische Datenverarbeitungssysteme, die
-für einen sicheren Netzbetrieb notwendig sind. Die Regulierungsbehörde
-erstellt hierzu im Benehmen mit dem Bundesamt für Sicherheit in der
-Informationstechnik einen Katalog von Sicherheitsanforderungen und
-veröffentlicht diesen. Der Katalog der Sicherheitsanforderungen
-enthält auch Regelungen zur regelmäßigen Überprüfung der Erfüllung der
-Sicherheitsanforderungen. Ein angemessener Schutz des Betriebs eines
-Energieversorgungsnetzes liegt vor, wenn dieser Katalog der
-Sicherheitsanforderungen eingehalten und dies vom Betreiber
-dokumentiert worden ist. Die Einhaltung kann von der
-Regulierungsbehörde überprüft werden. Zu diesem Zwecke kann die
-Regulierungsbehörde nähere Bestimmungen zu Format, Inhalt und
-Gestaltung der Dokumentation nach Satz 4 treffen.
-
-(1b) Betreiber von Energieanlagen, die durch Inkrafttreten der
-Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes vom 14. August
-2009 (BGBl. I S. 2821), das zuletzt durch Artikel 8 des Gesetzes vom
-17\. Juli 2015 (BGBl. I S. 1324) geändert worden ist, in der jeweils
-geltenden Fassung als Kritische Infrastruktur bestimmt wurden und an
-ein Energieversorgungsnetz angeschlossen sind, haben innerhalb einer
-von der Regulierungsbehörde festzulegenden Frist einen angemessenen
-Schutz gegen Bedrohungen für Telekommunikations- und elektronische
-Datenverarbeitungssysteme zu gewährleisten, die für einen sicheren
-Anlagenbetrieb notwendig sind. Die Regulierungsbehörde erstellt hierzu
-im Benehmen mit dem Bundesamt für Sicherheit in der
-Informationstechnik einen Katalog von Sicherheitsanforderungen, in den
-auch die Bestimmung der Frist nach Satz 1 aufzunehmen ist, und
-veröffentlicht diesen. Für Telekommunikations- und elektronische
-Datenverarbeitungssysteme von Anlagen nach § 7 Absatz 1 des
-Atomgesetzes haben Vorgaben auf Grund des Atomgesetzes Vorrang. Die
-für die nukleare Sicherheit zuständigen Genehmigungs- und
-Aufsichtsbehörden des Bundes und der Länder sind bei der Erarbeitung
-des Katalogs von Sicherheitsanforderungen zu beteiligen. Der Katalog
-von Sicherheitsanforderungen enthält auch Regelungen zur regelmäßigen
-Überprüfung der Erfüllung der Sicherheitsanforderungen. Ein
-angemessener Schutz des Betriebs von Energieanlagen im Sinne von Satz
-1 liegt vor, wenn dieser Katalog eingehalten und dies vom Betreiber
-dokumentiert worden ist. Die Einhaltung kann von der Bundesnetzagentur
-überprüft werden. Zu diesem Zwecke kann die Regulierungsbehörde nähere
-Bestimmungen zu Format, Inhalt und Gestaltung der Dokumentation nach
-Satz 6 treffen.
-
-(1c) Betreiber von Energieversorgungsnetzen und von solchen
-Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß §
-10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt
-wurden, haben
-
-1.  Störungen der Verfügbarkeit, Integrität, Authentizität und
-    Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten
-    oder Prozesse, die zu einem Ausfall oder einer erheblichen
-    Beeinträchtigung der Funktionsfähigkeit des Energieversorgungsnetzes
-    oder der betreffenden Energieanlage geführt haben,
-
-
-2.  erhebliche Störungen der Verfügbarkeit, Integrität, Authentizität und
-    Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten
-    oder Prozesse, die zu einem Ausfall oder einer erheblichen
-    Beeinträchtigung der Funktionsfähigkeit des Energieversorgungsnetzes
-    oder der betreffenden Energieanlage führen können,
-
-
-
-über die Kontaktstelle unverzüglich an das Bundesamt für Sicherheit in
-der Informationstechnik zu melden.
-
-Die Meldung muss Angaben zu der Störung, zu möglichen
-grenzübergreifenden Auswirkungen sowie zu den technischen
-Rahmenbedingungen, insbesondere der vermuteten oder tatsächlichen
-Ursache und der betroffenen Informationstechnik, enthalten. Die
-Nennung des Betreibers ist nur dann erforderlich, wenn die Störung
-tatsächlich zu einem Ausfall oder einer Beeinträchtigung der
-Funktionsfähigkeit der Kritischen Infrastruktur geführt hat. Das
-Bundesamt für Sicherheit in der Informationstechnik hat die Meldungen
-unverzüglich an die Bundesnetzagentur weiterzuleiten. Das Bundesamt
-für Sicherheit in der Informationstechnik und die Bundesnetzagentur
-haben sicherzustellen, dass die unbefugte Offenbarung der ihnen nach
-Satz 1 zur Kenntnis gelangten Angaben ausgeschlossen wird. Zugang zu
-den Akten des Bundesamtes für Sicherheit in der Informationstechnik
-sowie zu den Akten der Bundesnetzagentur in Angelegenheiten nach § 11
-Absatz 1a bis Absatz 1c wird nicht gewährt. § 29 des
-Verwaltungsverfahrensgesetzes bleibt unberührt. § 8e Absatz 1 des BSI-
-Gesetzes ist entsprechend anzuwenden.
-
-(1d) Betreiber von Energieversorgungsnetzen und von solchen
-Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß
-§ 10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt
-wurden, sind verpflichtet, spätestens bis zum 1. April jeden Jahres,
-die von ihnen betriebene Anlage beim Bundesamt für Sicherheit in der
-Informationstechnik zu registrieren und eine Kontaktstelle zu
-benennen. Das Bundesamt für Sicherheit in der Informationstechnik
-übermittelt die Registrierungen einschließlich der damit verbundenen
-Kontaktdaten an die Bundesnetzagentur. Die Registrierung eines
-Betreibers eines Energieversorgungsnetzes oder von solchen
-Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß
-§ 10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt
-wurden, kann das Bundesamt für Sicherheit in der Informationstechnik
-auch selbst vornehmen, wenn der Betreiber seine Pflicht zur
-Registrierung nicht erfüllt. Nimmt das Bundesamt für Sicherheit in der
-Informationstechnik eine solche Registrierung selbst vor, informiert
-es die Bundesnetzagentur darüber und übermittelt die damit verbundenen
-Kontaktdaten. Die Betreiber haben sicherzustellen, dass sie über die
-benannte oder durch das Bundesamt für Sicherheit in der
-Informationstechnik festgelegte Kontaktstelle jederzeit erreichbar
-sind. Die Übermittlung von Informationen durch das Bundesamt für
-Sicherheit in der Informationstechnik nach § 8b Absatz 2 Nummer 4
-Buchstabe a des BSI-Gesetzes erfolgt an diese Kontaktstelle.
-
-(1e) Betreiber von Energieversorgungsnetzen und von solchen
-Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß §
-10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt
-wurden, haben spätestens ab dem 1. Mai 2023 in ihren
-informationstechnischen Systemen, Komponenten oder Prozessen, die für
-die Funktionsfähigkeit der von ihnen betriebenen
-Energieversorgungsnetze oder Energieanlagen maßgeblich sind, in
-angemessener Weise Systeme zur Angriffserkennung einzusetzen. Die
-eingesetzten Systeme zur Angriffserkennung müssen geeignete Parameter
-und Merkmale aus dem laufenden Betrieb kontinuierlich und automatisch
-erfassen und auswerten. Sie sollten dazu in der Lage sein, fortwährend
-Bedrohungen zu identifizieren und zu vermeiden sowie für eingetretene
-Störungen geeignete Beseitigungsmaßnahmen vorsehen. Dabei soll der
-Stand der Technik eingehalten werden. Der Einsatz von Systemen zur
-Angriffserkennung ist angemessen, wenn der dafür erforderliche Aufwand
-nicht außer Verhältnis zu den möglichen Folgen eines Ausfalls oder
-einer Beeinträchtigung des betroffenen Energieversorgungsnetzes oder
-der betroffenen Energieanlage steht.
-
-(1f) Betreiber von Energieversorgungsnetzen und von solchen
-Energieanlagen, die nach der Rechtsverordnung gemäß § 10 Absatz 1 des
-BSI-Gesetzes als Kritische Infrastruktur gelten, haben dem Bundesamt
-für Sicherheit in der Informationstechnik erstmalig am 1. Mai 2023 und
-danach alle zwei Jahre die Erfüllung der Anforderungen nach Absatz 1e
-nachzuweisen. Das Bundesamt für Sicherheit in der Informationstechnik
-hat die hierfür eingereichten Nachweisdokumente unverzüglich an die
-Bundesnetzagentur weiterzuleiten. Das Bundesamt für Sicherheit in der
-Informationstechnik und die Bundesnetzagentur haben sicherzustellen,
-dass die unbefugte Offenbarung der ihnen nach Satz 1 zur Kenntnis
-gelangten Angaben ausgeschlossen wird. Das Bundesamt für Sicherheit in
-der Informationstechnik kann bei Mängeln in der Umsetzung der
-Anforderungen nach Absatz 1e oder in den Nachweisdokumenten nach Satz
-1 im Einvernehmen mit der Bundesnetzagentur die Beseitigung der Mängel
-verlangen.
-
-(1g) Die Bundesnetzagentur legt bis zum 22. Mai 2023 im Einvernehmen
-mit dem Bundesamt für Sicherheit in der Informationstechnik durch
-Allgemeinverfügung im Wege einer Festlegung nach § 29 Absatz 1 in
-einem Katalog von Sicherheitsanforderungen für das Betreiben von
-Energieversorgungsnetzen und Energieanlagen fest,
-
-1.  welche Komponenten kritische Komponenten im Sinne des § 2 Absatz 13
-    Satz 1 Nummer 3 Buchstabe a des BSI-Gesetzes sind oder
-
-
-2.  welche Funktionen kritisch bestimmte Funktionen im Sinne des § 2
-    Absatz 13 Satz 1 Nummer 3 Buchstabe b des BSI-Gesetzes sind.
-
-
-
-Die Betreiber von Energieversorgungsnetzen und Energieanlagen, die
-durch Rechtsverordnung gemäß § 10 Absatz 1 Satz 1 des BSI-Gesetzes als
-Kritische Infrastruktur bestimmt wurden, haben die Vorgaben des
-Katalogs spätestens sechs Monate nach dessen Inkrafttreten zu
-erfüllen, es sei denn, in dem Katalog ist eine davon abweichende
-Umsetzungsfrist festgelegt worden. Der Katalog wird mit den Katalogen
-der Sicherheitsanforderungen nach § 11 Absatz 1a und 1b verbunden.
 
 (2) Für einen bedarfsgerechten, wirtschaftlich zumutbaren Ausbau der
 Elektrizitätsversorgungsnetze nach Absatz 1 Satz 1 können Betreiber
@@ -16403,9 +16618,7 @@ von den Beschlusskammern getroffen. Satz 1 gilt nicht für
     Entscheidungen,
 
 
-1a. die Erstellung und Überprüfung von Katalogen von
-    Sicherheitsanforderungen nach § 11 Absatz 1a und 1b sowie die
-    Festlegung nach § 11 Absatz 1g,
+1a. die Festlegungen nach § 5c Absatz 2 und 6,
 
 
 2.  die Aufgaben nach § 11 Absatz 2,
@@ -17867,17 +18080,17 @@ folgende gebührenpflichtige Leistungen:
 3.  Amtshandlungen auf Grund von § 33 Absatz 1 und § 36 Absatz 2 Satz 3;
 
 
-4.  Amtshandlungen auf Grund der §§ 7c, 11a, 11b, 12a, 12c, 12d, 12h
-    Absatz 6 Satz 2, der §§ 13b, 13f Absatz 1 Satz 4, von § 13g Absatz 6
-    Satz 4, § 14 Absatz 2, § 14c Absatz 2 bis 4, § 14e Absatz 5, der §§
-    15a bis 15e, 17d, 19a Absatz 2, der §§ 20, 21, 21a, 23a, 28a Absatz 3,
-    von § 28b Absatz 1 und 5, § 28f Absatz 1, § 28o Absatz 1 und 2, § 28p
-    Absatz 1 und 5, der §§ 28q, 29, 30 Absatz 2 und 3, der §§ 41c, 57
-    Absatz 2 Satz 2 und 4 sowie der §§ 57b, 65, 110 Absatz 2 und 4 und
-    Amtshandlungen auf Grund einer Verordnung nach § 21a in der bis zum
-    Ablauf des 28. Dezember 2023 geltenden Fassung dieses Gesetzes oder
-    einer Verordnung nach § 24 in der bis zum Ablauf des 28. Dezember 2023
-    geltenden Fassung dieses Gesetzes;
+4.  Amtshandlungen auf Grund der §§ 5c Absatz 3 bis 5, der §§ 7c, 11a,
+    11b, 12a, 12c, 12d, 12h Absatz 6 Satz 2, der §§ 13b, 13f Absatz 1 Satz
+    4, von § 13g Absatz 6 Satz 4, § 14 Absatz 2, § 14c Absatz 2 bis 4, §
+    14e Absatz 5, der §§ 15a bis 15e, 17d, 19a Absatz 2, der §§ 20, 21,
+    21a, 23a, 28a Absatz 3, von § 28b Absatz 1 und 5, § 28f Absatz 1, §
+    28o Absatz 1 und 2, § 28p Absatz 1 und 5, der §§ 28q, 29, 30 Absatz 2
+    und 3, der §§ 41c, 57 Absatz 2 Satz 2 und 4 sowie der §§ 57b, 65, 110
+    Absatz 2 und 4 und Amtshandlungen auf Grund einer Verordnung nach §
+    21a in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung
+    dieses Gesetzes oder einer Verordnung nach § 24 in der bis zum Ablauf
+    des 28. Dezember 2023 geltenden Fassung dieses Gesetzes;
 
 
 5.  Amtshandlungen auf Grund des § 31 Absatz 2 und 3;
@@ -18089,15 +18302,6 @@ beträgt die Mindesthöhe des Zwangsgeldes 250 Euro.
     nicht vollständig oder nicht rechtzeitig vornimmt,
 
 
-2a. entgegen § 11 Absatz 1a oder 1b den Katalog von
-    Sicherheitsanforderungen nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig einhält,
-
-
-2b. entgegen § 11 Absatz 1c eine Meldung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig vornimmt,
-
-
 3.  einer vollziehbaren Anordnung nach
 
     a)  § 5 Absatz 4 Satz 3 oder Absatz 5 Satz 1, § 12c Absatz 1 Satz 2, § 15d
@@ -18117,39 +18321,53 @@ beträgt die Mindesthöhe des Zwangsgeldes 250 Euro.
     richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
 
-3b. entgegen § 12b Absatz 5, § 12c Absatz 5, § 15c Absatz 5 oder § 15d
+3b. entgegen § 5c Absatz 1 Satz 1 einen dort genannten Schutz nicht
+    gewährleistet,
+
+
+3c. entgegen § 5d Absatz 1 Satz 1 die Einhaltung der Anforderungen des IT-
+    Sicherheitskatalogs nicht, nicht richtig oder nicht vollständig
+    dokumentiert,
+
+
+3d. entgegen § 5d Absatz 1 Satz 2 eine Dokumentation nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig übermittelt,
+
+
+3e. entgegen § 5d Absatz 3 Satz 1 eine Meldung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
+
+
+3f. entgegen § 12b Absatz 5, § 12c Absatz 5, § 15c Absatz 5 oder § 15d
     Absatz 1 Satz 4 einen Entwurf oder einen Netzentwicklungsplan nicht
     oder nicht rechtzeitig vorlegt,
 
 
-3c. entgegen § 12g Absatz 1 Satz 3 in Verbindung mit einer
+3g. entgegen § 12g Absatz 1 Satz 3 in Verbindung mit einer
     Rechtsverordnung nach Absatz 3 einen Bericht nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig vorlegt,
 
 
-3d. entgegen § 12g Absatz 2 in Verbindung mit einer Rechtsverordnung nach
+3h. entgegen § 12g Absatz 2 in Verbindung mit einer Rechtsverordnung nach
     Absatz 3 einen Sicherheitsplan nicht, nicht richtig, nicht vollständig
     oder nicht rechtzeitig erstellt oder einen Sicherheitsbeauftragten
     nicht oder nicht rechtzeitig bestimmt,
 
 
-3e. (weggefallen)
-
-
-3f. entgegen § 13b Absatz 1 Satz 2 oder Absatz 5 Satz 1 eine dort genannte
+3i. entgegen § 13b Absatz 1 Satz 2 oder Absatz 5 Satz 1 eine dort genannte
     Anlage stilllegt,
 
 
-3g. entgegen § 13e Absatz 4 Satz 1 Nummer 1 Erzeugungsleistung oder
+3j. entgegen § 13e Absatz 4 Satz 1 Nummer 1 Erzeugungsleistung oder
     Erzeugungsarbeit veräußert,
 
 
-3h. entgegen § 13e Absatz 4 Satz 1 Nummer 2 oder § 13g Absatz 1 Satz 1
+3k. entgegen § 13e Absatz 4 Satz 1 Nummer 2 oder § 13g Absatz 1 Satz 1
     oder 3 eine dort genannte Anlage nicht oder nicht rechtzeitig
     stilllegt,
 
 
-3i. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
+3l. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
 
 
 4.  entgegen § 30 Abs. 1 Satz 1 eine Marktstellung missbraucht,
@@ -18298,54 +18516,106 @@ Artikel 15 Absatz 2 und Artikel 16 Absatz 3, 4, 8 und 9 der Verordnung
 (EU) 2019/943 des Europäischen Parlaments und des Rates vorgesehene
 Maß hinaus einschränkt.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3f
-bis 3i mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen
-des Absatzes 1 Nummer 1a, 1d, 3 Buchstabe b, Nummer 4 und 5 Buchstabe
-b, der Absätze 1b und 1c Nummer 2 und 6 mit einer Geldbuße bis zu
-einer Million Euro, über diesen Betrag hinaus bis zur dreifachen Höhe
-des durch die Zuwiderhandlung erlangten Mehrerlöses, in den Fällen des
-Absatzes 1 Nummer 5 Buchstabe f mit einer Geldbuße bis zu
-dreihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 und 5
-Buchstabe e mit einer Geldbuße bis zu fünfzigtausend Euro, in den
-Fällen des Absatzes 1 Nr. 5 Buchstabe a sowie des Absatzes 1a Nummer 2
-und des Absatzes 1c Nummer 7 und 8 mit einer Geldbuße bis zu
-zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu
-hunderttausend Euro geahndet werden. Die Höhe des Mehrerlöses kann
-geschätzt werden. Gegenüber einem Transportnetzbetreiber oder
-gegenüber einem vertikal integrierten Unternehmen kann über Satz 1
-hinaus in Fällen des Absatzes 1 Nummer 3 Buchstabe b und des Absatzes
-1e eine höhere Geldbuße verhängt werden. Diese darf
+(2) Die Ordnungswidrigkeit kann geahndet werden:
 
-1.  in Fällen des Absatzes 1 Nummer 3 Buchstabe b 10 Prozent des
-    Gesamtumsatzes, den der Transportnetzbetreiber oder das vertikal
-    integrierte Unternehmen in dem der Behördenentscheidung
-    vorausgegangenen Geschäftsjahr weltweit erzielt hat, nicht übersteigen
-    oder
+1.  in den Fällen des Absatzes 1 Nummer 3b bis 3e
+
+    a)  bei besonders wichtigen Einrichtungen nach § 28 Absatz 1 Satz 1 des
+        BSI-Gesetzes mit einer Geldbuße bis zu zehn Millionen Euro und
 
 
-2.  in Fällen des Absatzes 1e 10 Prozent des Gesamtumsatzes, den der
-    Transportnetzbetreiber oder das vertikal integrierte Unternehmen in
-    dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit
-    erzielt hat, abzüglich der Umlagen nach § 12 des
-    Energiefinanzierungsgesetzes nicht übersteigen.
+    b)  bei wichtigen Einrichtungen nach § 28 Absatz 2 Satz 1 des BSI-Gesetzes
+        mit einer Geldbuße bis zu sieben Millionen Euro,
 
 
 
-Die Höhe des Gesamtumsatzes kann geschätzt werden. Ein durch die
-Zuwiderhandlung erlangter Mehrerlös bleibt unberücksichtigt.
 
-(3) Die Regulierungsbehörde kann allgemeine Verwaltungsgrundsätze über
+
+2.  in den Fällen des Absatzes 1 Nummer 3i bis 3l mit einer Geldbuße bis
+    zu fünf Millionen Euro,
+
+
+3.  in den Fällen des Absatzes 1 Nummer 1a, 1d, 3 Buchstabe b, Nummer 4
+    und 5 Buchstabe b, des Absätze 1b und 1c Nummer 2 und 6 mit einer
+    Geldbuße bis zu einer Million Euro,
+
+
+4.  in den Fällen des Absatzes 1 Nummer 5 Buchstabe f mit einer Geldbuße
+    bis zu dreihunderttausend Euro,
+
+
+5.  in den Fällen des Absatzes 1 Nummer 1, 1b, 1c, 2a, 2b, 3 Buchstabe a,
+    Nummer 3a, 3f bis 3h, 4a bis 4c und 5 Buchstabe c und des Absatzes 1a
+    Nummer 1, des Absatzes 1c Nummer 1, 3 bis 5 und 9 und der Absätze 1d
+    und 1e mit einer Geldbuße bis zu hunderttausend Euro,
+
+
+6.  in den Fällen des Absatzes 1 Nummer 2 und 5 Buchstabe e mit einer
+    Geldbuße bis zu fünfzigtausend Euro und
+
+
+7.  in den Fällen des Absatzes 1 Nummer 5 Buchstabe a, des Absatzes 1a
+    Nummer 2 und des Absatzes 1c Nummer 7 und 8 mit einer Geldbuße bis zu
+    zehntausend Euro.
+
+
+
+
+(3) Gegenüber einer besonders wichtigen Einrichtung im Sinne des § 28
+Absatz 1 Satz 1 des BSI-Gesetzes mit einem Gesamtumsatz von mehr als
+500 Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe a,
+auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über
+Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des
+Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 2 Prozent des
+Gesamtumsatzes geahndet werden.
+
+(4) Gegenüber einer wichtigen Einrichtung im Sinne des § 28 Absatz 2
+Satz 1 des BSI-Gesetzes mit einem Gesamtumsatz von mehr als 500
+Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe b, auch
+in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über
+Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des
+Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 1,4 Prozent des
+Gesamtumsatzes geahndet werden.
+
+(5) Gegenüber einem Transportnetzbetreiber oder einem vertikal
+integrierten Unternehmen mit einem Gesamtumsatz von mehr als zehn
+Millionen Euro kann abweichend von Absatz 2 Nummer 3, auch in
+Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über
+Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des
+Absatzes 1 Nummer 3 Buchstabe b mit einer Geldbuße von bis zu 10
+Prozent des Gesamtumsatzes geahndet werden.
+
+(6) Gegenüber einem Transportnetzbetreiber oder einem vertikal
+integrierten Unternehmen mit einem Gesamtumsatz von mehr als 1 Million
+Euro kann abweichend von Absatz 2 Nummer 5, auch in Verbindung mit §
+30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine
+Ordnungswidrigkeit in den Fällen des Absatzes 1e mit einer Geldbuße
+von bis zu 10 Prozent des Gesamtumsatzes abzüglich der Umlagen nach §
+12 des Energiefinanzierungsgesetzes geahndet werden.
+
+(7) Gesamtumsatz im Sinne der Absätze 3 bis 6 ist die Summe aller
+Umsatzerlöse, die das Unternehmen, dem die besonders wichtige
+Einrichtung oder die wichtige Einrichtung angehört, der
+Transportnetzbetreiber oder das vertikal integrierte Unternehmen in
+dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit
+erzielt hat. Der Gesamtumsatz kann geschätzt werden.
+
+(8) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist in den
+Fällen des Absatzes 2 Nummer 1 und der Absätze 3 und 4 nicht
+anzuwenden.
+
+(9) Die Regulierungsbehörde kann allgemeine Verwaltungsgrundsätze über
 die Ausübung ihres Ermessens bei der Bemessung der Geldbuße festlegen.
 
-(4) Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach Absatz
-1 richtet sich nach den Vorschriften des Gesetzes über
+(10) Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach
+Absatz 1 richtet sich nach den Vorschriften des Gesetzes über
 Ordnungswidrigkeiten. Die Verfolgung der Ordnungswidrigkeiten nach
 Absatz 1 Nummer 3 Buchstabe b und Nummer 4 und 5 verjährt in fünf
 Jahren.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+(11) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
-Nummer 2b das Bundesamt für Sicherheit in der Informationstechnik, im
+Nummer 3e das Bundesamt für Sicherheit in der Informationstechnik, im
 Übrigen die nach § 54 zuständige Behörde.
 
 
