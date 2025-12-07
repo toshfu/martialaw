@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 30.9.2025 I Nr. 231
 
+Änderung durch
+:   Art. 21 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -48771,12 +48774,12 @@ und 2 insbesondere erfüllen, indem sie einen branchenspezifischen
 Sicherheitsstandard für die informationstechnische Sicherheit der
 Gesundheitsversorgung im Krankenhaus in der jeweils gültigen Fassung
 anwenden, dessen Eignung vom Bundesamt für Sicherheit in der
-Informationstechnik nach § 8a Absatz 2 des BSI-Gesetzes festgestellt
+Informationstechnik nach § 30 Absatz 8 des BSI-Gesetzes festgestellt
 wurde.
 
 (5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenhäuser,
-soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen
-gemäß § 8a des BSI-Gesetzes angemessene organisatorische und
+soweit sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§
+30, 31 und 39 des BSI-Gesetzes angemessene organisatorische und
 technische Vorkehrungen zu treffen haben.
 
 
@@ -48800,7 +48803,7 @@ verarbeiteten Versicherteninformationen steht.
 insbesondere, indem sie den branchenspezifischen Sicherheitsstandard
 für die informationstechnische Sicherheit der Krankenkassen in der
 jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für
-Sicherheit in der Informationstechnik nach § 8a Absatz 2 des BSI-
+Sicherheit in der Informationstechnik nach § 30 Absatz 8 des BSI-
 Gesetzes festgestellt wurde.
 
 (4) Die Krankenkassen sind verpflichtet, repräsentiert durch ihre
@@ -48833,8 +48836,8 @@ Vorgaben enthält zu
 
 
 (5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenkassen,
-soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen
-gemäß § 8a des BSI-Gesetzes angemessene organisatorische und
+soweit sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§
+30, 31 und 39 des BSI-Gesetzes angemessene organisatorische und
 technische Vorkehrungen zu treffen haben.
 
 (6) Sofern eine Krankenkasse im Rahmen ihrer Aufgabenerfüllung IT-
