@@ -22,6 +22,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6a G v. 25.2.2025 I Nr. 63
 
+Änderung durch
+:   Art. 3 G v. 2.12.2025 I Nr. 302 mWv 6.12.2025 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
+
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
 
