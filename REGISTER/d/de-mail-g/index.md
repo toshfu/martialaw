@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 666
 
 Zuletzt geändert durch
-:   Art. 10 G v. 6.5.2024 I Nr. 149
+:   Art. 10 G v. 2.12.2025 I Nr. 301
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -899,16 +899,15 @@ Stellungnahme gegeben, sofern Fragen des Datenschutzes berührt sind.
 
 3.  die Erfüllung der technischen und organisatorischen Anforderungen an
     die Pflichten im Sinne des Absatzes 1 Nummer 3 durch vom Bundesamt für
-    Sicherheit in der Informationstechnik nach § 9 Absatz 2 Satz 1 des
-    Gesetzes über das Bundesamt für Sicherheit in der Informationstechnik
-    zertifizierten IT-Sicherheitsdienstleistern erteilte Testate; das
-    Zusammenwirken mit den anderen akkreditierten Diensteanbietern kann
-    nur nach ausreichenden Prüfungen bestätigt werden; die Sicherheit der
-    Dienste kann nur nach einer umfassenden im Rahmen der Vergabe der
-    Testate stattfindenden Prüfung des Sicherheitskonzepts und der
-    eingesetzten IT-Infrastrukturen bestätigt werden; zum Zeitpunkt des
-    Inkrafttretens des Gesetzes erteilte Zertifikate können berücksichtigt
-    werden;
+    Sicherheit in der Informationstechnik nach § 52 Absatz 2 Satz 1 des
+    BSI-Gesetzes zertifizierten IT-Sicherheitsdienstleistern erteilte
+    Testate; das Zusammenwirken mit den anderen akkreditierten
+    Diensteanbietern kann nur nach ausreichenden Prüfungen bestätigt
+    werden; die Sicherheit der Dienste kann nur nach einer umfassenden im
+    Rahmen der Vergabe der Testate stattfindenden Prüfung des
+    Sicherheitskonzepts und der eingesetzten IT-Infrastrukturen bestätigt
+    werden; zum Zeitpunkt des Inkrafttretens des Gesetzes erteilte
+    Zertifikate können berücksichtigt werden;
 
 
 4.  die Erfüllung der datenschutzrechtlichen Anforderungen an das
