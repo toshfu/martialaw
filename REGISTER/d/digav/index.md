@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.3.2024 I Nr. 101
 
+Änderung durch
+:   Art. 22 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -2168,7 +2171,7 @@ Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
         zwischen verschiedenen Systembestandteilen der digitalen
         Gesundheitsanwendung zumindest eine Transportverschlüsselung gemäß des
         Mindeststandards des BSI zur Verwendung von Transport Layer Security
-        (TLS) nach § 8 Absatz 1 Satz 1 des BSI-Gesetzes eingesetzt?
+        (TLS) nach § 44 Absatz 1 Satz 1 des BSI-Gesetzes eingesetzt?
 
     *
     *
