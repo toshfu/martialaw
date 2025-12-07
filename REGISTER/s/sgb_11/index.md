@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 30.5.2024 I Nr. 173
 
+Änderung durch
+:   Art. 24 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -9637,7 +9640,7 @@ verarbeiteten Versicherteninformationen steht.
 insbesondere indem sie einen branchenspezifischen Sicherheitsstandard
 für die informationstechnische Sicherheit der Pflegekassen in der
 jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für
-Sicherheit in der Informationstechnik nach § 8a Absatz 2 des BSI-
+Sicherheit in der Informationstechnik nach § 30 Absatz 8 des BSI-
 Gesetzes festgestellt wurde.
 
 (4) Die Pflegekassen sind verpflichtet, repräsentiert durch ihre
@@ -9669,8 +9672,8 @@ Vorgaben enthält zu
 
 
 (5) Die Verpflichtung nach Absatz 1 gilt für alle Pflegekassen, soweit
-sie nicht ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a
-des BSI-Gesetzes angemessene organisatorische und technische
+sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§ 30, 31
+und 39 des BSI-Gesetzes angemessene organisatorische und technische
 Vorkehrungen zu treffen haben.
 
 (6) Sofern eine Pflegekasse im Rahmen ihrer Aufgabenerfüllung IT-
