@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2865
 
 Zuletzt geändert durch
-:   Art. 1 V vom 29.10.2025 I Nr. 261
+:   Art. 27 G v. 2.12.2025 I Nr. 301
 
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
@@ -2472,14 +2472,13 @@ Erwerb nach Absatz 1 betroffene inländische Unternehmen maßgeblich.
 öffentlichen Ordnung oder Sicherheit kann insbesondere berücksichtigt
 werden, ob das inländische Unternehmen
 
-1.  Betreiber einer Kritischen Infrastruktur im Sinne des BSI-Gesetzes
-    ist,
+1.  Betreiber einer kritischen Anlage im Sinne des BSI-Gesetzes ist,
 
 
-2.  kritische Komponenten im Sinne des § 2 Absatz 13 des BSI-Gesetzes
+2.  kritische Komponenten im Sinne des § 2 Nummer 23 des BSI-Gesetzes
     entwickelt oder herstellt oder Software, die branchenspezifisch zum
-    Betrieb von Kritischen Infrastrukturen im Sinne des BSI-Gesetzes
-    dient, besonders entwickelt oder herstellt,
+    Betrieb von kritischen Anlagen im Sinne des BSI-Gesetzes dient,
+    besonders entwickelt oder herstellt,
 
 
 3.  zu organisatorischen Maßnahmen nach § 170 des
@@ -2512,7 +2511,7 @@ werden, ob das inländische Unternehmen
     Gesetzes erforderlich sind,
 
 
-8.[^f816116_01_BJNR286500013BJNE011106119]
+8.[^f816116_01_BJNR286500013BJNE011107128]
   persönliche Schutzausrüstungen im Sinne des Artikels 3 Nummer 1 der
     Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom
     9\. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der
@@ -2869,7 +2868,7 @@ Absatz 1 nicht vorliegen.
     „amtlicher Hinweis: Im Beuth-Verlag GmbH, Berlin und Köln, erschienen
     und beim Deutschen Patent- und Markenamt in München archivmäßig
     gesichert niedergelegt“.
-[^f816116_01_BJNR286500013BJNE011106119]: 
+[^f816116_01_BJNR286500013BJNE011107128]: 
 
 ##### § 56 Stimmrechtsanteile
 
