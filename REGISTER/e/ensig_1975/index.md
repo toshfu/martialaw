@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 3681
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.6.2023 I Nr. 167
+:   Art. 19 G v. 2.12.2025 I Nr. 301
 
 
 ## Eingangsformel
@@ -497,7 +497,15 @@ Geschäftsgeheimnisse an andere Behörden, den
 Marktgebietsverantwortlichen und die Betreiber von
 Elektrizitätsversorgungsnetzen, soweit dies für die Vorbereitung und
 Wahrnehmung der Aufgaben nach diesem Gesetz sowie aufgrund dieses
-Gesetzes erlassenen Rechtsverordnungen erforderlich ist.
+Gesetzes erlassenen Rechtsverordnungen erforderlich ist. Soweit Daten
+im Sinne des Satzes 3 für Maßnahmen nach § 1 der
+Gassicherungsverordnung vom 26. April 1982 (BGBl. I S. 517), die
+zuletzt durch Artikel 1 der Verordnung vom 31. März 2023 (BGBl. 2023 I
+Nr. 94) geändert worden ist, und für Solidaritätsmaßnahmen nach § 2a
+von der Bundesnetzagentur erlangt werden, übermittelt diese die Daten
+auf deren Ersuchen und soweit dies für die Erfüllung von deren
+Aufgaben erforderlich ist, an die Bundesanstalt für
+Finanzdienstleistungsaufsicht.
 
 (2) Die mit der Einholung von Auskünften beauftragten Personen sind
 befugt, Grundstücke und die Geschäfts- und Betriebsräume des
@@ -835,10 +843,10 @@ Ordnungswidrigkeiten ist
 #### § 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur
 
 (1) Ein Unternehmen, das selbst oder durch verbundene Unternehmen im
-Sinne von § 15 des Aktiengesetzes Kritische Infrastrukturen im Sinne
-von § 2 Absatz 10 des BSI-Gesetzes im Sektor Energie betreibt, kann
-unter Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr
-besteht, dass ohne eine Treuhandverwaltung das Unternehmen seine dem
+Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2
+Nummer 22 des BSI-Gesetzes im Sektor Energie betreibt, kann unter
+Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr besteht,
+dass ohne eine Treuhandverwaltung das Unternehmen seine dem
 Funktionieren des Gemeinwesens im Sektor Energie dienenden Aufgaben
 nicht erfüllen wird, und eine Beeinträchtigung der
 Versorgungssicherheit droht.
@@ -1103,8 +1111,8 @@ Maßgabe dieses Gesetzes vorgenommen werden.
 Energieversorgung können sein:
 
 1.  Anteile an Unternehmen, die selbst oder durch verbundene Unternehmen
-    im Sinne von § 15 des Aktiengesetzes Kritische Infrastrukturen im
-    Sinne von § 2 Absatz 10 des BSI-Gesetzes im Sektor Energie betreiben,
+    im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von
+    § 2 Nummer 22 des BSI-Gesetzes im Sektor Energie betreiben,
 
 
 2.  sonstige Rechte, die Bestandteile der Eigenmittel von Unternehmen nach
@@ -1647,21 +1655,21 @@ Führung eines saldierten Preisanpassungskontos.
 #### § 29 Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
 
 (1) Beantragt ein Unternehmen, das selbst oder durch verbundene
-Unternehmen im Sinne von § 15 des Aktiengesetzes Kritische
-Infrastrukturen im Sinne von § 2 Absatz 10 des BSI-Gesetzes im Sektor
-Energie betreibt, beim Bund Stabilisierungsmaßnahmen, gelten für die
-Durchführung der Stabilisierungsmaßnahmen die nachfolgenden
-Regelungen. Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind
-alle Maßnahmen, die der Sicherung oder Wiederherstellung einer
-positiven Fortbestehensprognose nach § 19 Absatz 2 der
-Insolvenzordnung oder der Durchfinanzierung der Abwicklung des
-Unternehmens dienen. Ein Rechtsanspruch auf Stabilisierungsmaßnahmen
-besteht nicht. Das Bundesministerium für Wirtschaft und Klimaschutz
-ist die zuständige Behörde für die Verhandlungen über
-Stabilisierungsmaßnahmen mit den in Satz 1 genannten Unternehmen.
-Anträge sind bei dem Bundesministerium für Wirtschaft und Klimaschutz
-zu stellen, das im Einvernehmen mit dem Bundesministerium der Finanzen
-und dem Bundeskanzleramt über die Anträge entscheidet.
+Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im
+Sinne von § 2 Nummer 22 des BSI-Gesetzes im Sektor Energie betreibt,
+beim Bund Stabilisierungsmaßnahmen, gelten für die Durchführung der
+Stabilisierungsmaßnahmen die nachfolgenden Regelungen.
+Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind alle Maßnahmen,
+die der Sicherung oder Wiederherstellung einer positiven
+Fortbestehensprognose nach § 19 Absatz 2 der Insolvenzordnung oder der
+Durchfinanzierung der Abwicklung des Unternehmens dienen. Ein
+Rechtsanspruch auf Stabilisierungsmaßnahmen besteht nicht. Das
+Bundesministerium für Wirtschaft und Klimaschutz ist die zuständige
+Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den in
+Satz 1 genannten Unternehmen. Anträge sind bei dem Bundesministerium
+für Wirtschaft und Klimaschutz zu stellen, das im Einvernehmen mit dem
+Bundesministerium der Finanzen und dem Bundeskanzleramt über die
+Anträge entscheidet.
 
 (1a) Solange das Unternehmen Stabilisierungsmaßnahmen nach Absatz 1
 Satz 2 in Form einer Rekapitalisierung in Anspruch nimmt, dürfen
