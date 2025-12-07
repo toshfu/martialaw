@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 1982 (2022 I 1045)
 
 Zuletzt geändert durch
-:   Art. 44 G v. 12.7.2024 I Nr. 234
+:   Art. 4 G v. 2.12.2025 I Nr. 301
 
 [^F816794_01_BJNR198210021]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2002/58/EG des
     Europäischen Parlaments und des Rates vom 12. Juli 2002 über die
@@ -932,8 +932,8 @@ dass
 Vorkehrungen nach Satz 1 müssen den Stand der Technik berücksichtigen.
 Eine Vorkehrung nach Satz 1 ist insbesondere die Anwendung eines als
 sicher anerkannten Verschlüsselungsverfahrens. Anordnungen des
-Bundesamtes für Sicherheit in der Informationstechnik nach § 7d Satz 1
-BSI-Gesetz bleiben unberührt.
+Bundesamtes für Sicherheit in der Informationstechnik nach § 17 Satz 1
+des BSI-Gesetzes bleiben unberührt.
 
 
 #### § 20 Verarbeitung personenbezogener Daten Minderjähriger
