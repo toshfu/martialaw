@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2979
 
 Zuletzt geändert durch
-:   Art. 4 G v. 6.5.2024 I Nr. 149
+:   Art. 2 G v. 2.12.2025 I Nr. 301
 
 
 ## Abschnitt 1 - Organisation, Aufgaben und allgemeine Befugnisse
@@ -2047,8 +2047,8 @@ vorgenannten Dienste oder Mitwirkungshandlungen in Deutschland
 erbringt, gilt § 25 entsprechend.
 
 (5) Die im Rahmen einer Eignungsprüfung erhobenen personenbezogenen
-Daten dürfen nur zum Zweck der Eignungsprüfung verwendet werden. § 5
-Absatz 7 Satz 2 bis 8 des BSI-Gesetzes gilt entsprechend. Der
+Daten dürfen nur zum Zweck der Eignungsprüfung verwendet werden. § 8
+Absatz 8 Satz 2 bis 8 des BSI-Gesetzes gilt entsprechend. Der
 Bundesnachrichtendienst darf die erhobenen personenbezogenen Daten
 speichern, soweit dies zur Durchführung der Eignungsprüfung
 erforderlich ist. Die Auswertung ist unverzüglich nach der Erhebung
