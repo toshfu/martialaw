@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2749
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.7.2024 I Nr. 245
+:   Art. 11 G v. 2.12.2025 I Nr. 301
 
 
 ## § 1 Geltungsbereich
@@ -573,8 +573,7 @@ Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie
 in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von
 Artikel 91c GG (BGBl. 2010 I S. 662, 663), so beschließt der Rat der
 IT-Beauftragten der Bundesregierung (IT-Rat) die Umsetzung dieses
-Beschlusses innerhalb der Bundesverwaltung. § 12 des Gesetzes über das
-Bundesamt für Sicherheit in der Informationstechnik gilt entsprechend.
+Beschlusses innerhalb der Bundesverwaltung.
 
 
 ## § 11 Gemeinsame Verfahren
