@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 1460
 
 Zuletzt geändert durch
-:   Art. 3 V v. 29.10.2025 I Nr. 260
+:   Art. 13 G v. 2.12.2025 I Nr. 301
 
 
 ## Eingangsformel
@@ -183,9 +183,8 @@ Die Art und die Einzelheiten der Zertifizierung sind den Technischen
 Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 zu entnehmen.
 
-(2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes vom 14. August
-2009 (BGBl. I S. 2821), das zuletzt durch Artikel 1 des Gesetzes vom
-23\. Juni 2017 (BGBl. I S. 1885) geändert worden ist, sowie die BSI-
+(2) Für die Zertifizierung gelten § 52 des BSI-Gesetzes vom 2.
+Dezember 2025 (BGBl. 2025 I Nr. 301, S. 2), sowie die BSI-
 Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014
 (BGBl. I S. 2231), die durch Artikel 40 des Gesetzes vom 29. März 2017
 (BGBl. I S. 626) geändert worden ist, in der jeweils geltenden
