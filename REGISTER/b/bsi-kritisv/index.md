@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz
+Title: Verordnung zur Bestimmung kritischer Anlagen nach dem BSI-Gesetz
 jurabk: BSI-KritisV
 layout: default
 origslug: bsi-kritisv
@@ -7,7 +7,7 @@ slug: bsi-kritisv
 
 ---
 
-# Verordnung zur Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz (BSI-KritisV)
+# Verordnung zur Bestimmung kritischer Anlagen nach dem BSI-Gesetz (BSI-KritisV)
 
 Ausfertigungsdatum
 :   2016-04-22
@@ -17,6 +17,9 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 1 V v. 29.11.2023 I Nr. 339
+
+Änderung durch
+:   Art. 8 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -54,30 +57,14 @@ Reaktorsicherheit nach Anhörung der beteiligten Kreise:
     die für die Erbringung einer kritischen Dienstleistung notwendig sind,
 
 
-2.  Betreiber
-
-    eine natürliche oder juristische Person, die unter Berücksichtigung
-    der rechtlichen, wirtschaftlichen und tatsächlichen Umstände
-    bestimmenden Einfluss auf die Beschaffenheit und den Betrieb einer
-    Anlage oder Teilen davon ausübt,
-
-
-3.  kritische Dienstleistung
-
-    eine Dienstleistung zur Versorgung der Allgemeinheit in den Sektoren
-    nach den §§ 2 bis 8, deren Ausfall oder Beeinträchtigung zu
-    erheblichen Versorgungsengpässen oder zu Gefährdungen der öffentlichen
-    Sicherheit führen würde,
-
-
-4.  Versorgungsgrad
+3.  Versorgungsgrad
 
     ein Wert, mittels dessen der Beitrag einer Anlage oder Teilen davon im
     jeweiligen Sektor zur Versorgung der Allgemeinheit mit einer
     kritischen Dienstleistung bestimmt wird,
 
 
-5.  Schwellenwert
+4.  Schwellenwert
 
     ein Wert, bei dessen Erreichen oder dessen Überschreitung der
     Versorgungsgrad einer Anlage oder Teilen davon als bedeutend im Sinne
@@ -102,7 +89,8 @@ jeder für die Erfüllung der Pflichten als Betreiber verantwortlich.
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Energie kritische Dienstleistungen im
-Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
+Sinne des § 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des
+BSI-Gesetzes:
 
 1.  die Versorgung der Allgemeinheit mit Elektrizität (Stromversorgung);
 
@@ -133,8 +121,8 @@ Erdölförderung, Produktenherstellung, Mineralölhandel, Öltransport und
 Fernwärme, Steuerung und Überwachung von Fernwärme sowie Verteilung
 von Fernwärme erbracht.
 
-(6) Im Sektor Energie sind Kritische Infrastrukturen solche Anlagen
-oder Teile davon, die
+(6) Im Sektor Energie sind kritische Anlagen solche Anlagen oder Teile
+davon, die
 
 1.  den in Anhang 1 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -151,7 +139,8 @@ oder Teile davon, die
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Wasser kritische Dienstleistungen im Sinne
-des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
+des § 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-
+Gesetzes:
 
 1.  die Versorgung der Allgemeinheit mit Trinkwasser
     (Trinkwasserversorgung);
@@ -170,8 +159,8 @@ Trinkwasser erbracht.
 Siedlungsentwässerung, Abwasserbehandlung und Gewässereinleitung sowie
 Steuerung und Überwachung erbracht.
 
-(4) Im Sektor Wasser sind Kritische Infrastrukturen solche Anlagen
-oder Teile davon, die
+(4) Im Sektor Wasser sind kritische Anlagen solche Anlagen oder Teile
+davon, die
 
 1.  den in Anhang 2 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -189,14 +178,15 @@ oder Teile davon, die
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens ist im Sektor Ernährung die Versorgung der Allgemeinheit
 mit Lebensmitteln (Lebensmittelversorgung) kritische Dienstleistung im
-Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes.
+Sinne des § 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des
+BSI-Gesetzes.
 
 (2) Die Lebensmittelversorgung wird in den Bereichen
 Lebensmittelherstellung und -behandlung sowie Lebensmittelhandel
 erbracht.
 
-(3) Im Sektor Ernährung sind Kritische Infrastrukturen solche Anlagen
-oder Teile davon, die
+(3) Im Sektor Ernährung sind kritische Anlagen solche Anlagen oder
+Teile davon, die
 
 1.  den in Anhang 3 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -213,8 +203,8 @@ oder Teile davon, die
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Informationstechnik und Telekommunikation
-kritische Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-
-Gesetzes:
+kritische Dienstleistungen im Sinne des § 56 Absatz 4 Satz 1 in
+Verbindung mit § 2 Nummer 24 des BSI-Gesetzes:
 
 1.  die Sprach- und Datenübertragung;
 
@@ -230,8 +220,8 @@ Gesetzes:
 (3) Die Datenspeicherung und -verarbeitung wird in den Bereichen
 Housing, IT-Hosting und Vertrauensdienste erbracht.
 
-(4) Im Sektor Informationstechnik und Telekommunikation sind Kritische
-Infrastrukturen solche Anlagen oder Teile davon, die
+(4) Im Sektor Informationstechnik und Telekommunikation sind kritische
+Anlagen solche Anlagen oder Teile davon, die
 
 1.  den in Anhang 4 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -248,7 +238,8 @@ Infrastrukturen solche Anlagen oder Teile davon, die
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Gesundheit kritische Dienstleistungen im
-Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
+Sinne des § 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des
+BSI-Gesetzes:
 
 1.  die stationäre medizinische Versorgung;
 
@@ -275,8 +266,8 @@ Blut- und Plasmakonzentraten zur Anwendung im oder am menschlichen
 Körper wird in den Bereichen Herstellung, Vertrieb und Abgabe
 erbracht.
 
-(4) Im Sektor Gesundheit sind Kritische Infrastrukturen solche Anlagen
-oder Teile davon, die
+(4) Im Sektor Gesundheit sind kritische Anlagen solche Anlagen oder
+Teile davon, die
 
 1.  den in Anhang 5 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -289,11 +280,12 @@ oder Teile davon, die
 
 
 
-## § 7 Sektor Finanz- und Versicherungswesen
+## § 7 Sektor Finanzwesen
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
-Gemeinwesens sind im Sektor Finanz- und Versicherungswesen kritische
-Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
+Gemeinwesens sind im Sektor Finanzwesen kritische Dienstleistungen im
+Sinne des § 56 Absatz 4 in Verbindung mit § 2 Nummer 24 des BSI-
+Gesetzes:
 
 1.  die Bargeldversorgung;
 
@@ -305,11 +297,7 @@ Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
 
 
 4.  der Handel mit Wertpapieren und Derivaten sowie die Verrechnung und
-    die Abwicklung von Wertpapier- und Derivatgeschäften;
-
-
-5.  Versicherungsdienstleistungen und Leistungen der Sozialversicherung
-    sowie der Grundsicherung für Arbeitsuchende.
+    die Abwicklung von Wertpapier- und Derivatgeschäften.
 
 
 
@@ -342,16 +330,8 @@ Handels und Bestandsführung für den Kunden sowie Verrechnung von
 Wertpapier- und Derivatgeschäften, Verbuchung Wertpapiere und
 Verbuchung Geld erbracht.
 
-(6) Versicherungsdienstleistungen werden im Bereich Inanspruchnahme
-von Versicherungsleistungen erbracht. Leistungen der
-Sozialversicherung werden im Bereich Inanspruchnahme von
-Sozialversicherungsleistungen erbracht. Leistungen der Grundsicherung
-für Arbeitsuchende werden im Bereich der Inanspruchnahme von
-Leistungen, die der Sicherung des Lebensunterhalts dienen, mithilfe
-von IT-Systemen der Bundesagentur für Arbeit erbracht.
-
-(7) Im Sektor Finanz- und Versicherungswesen sind Kritische
-Infrastrukturen solche Anlagen oder Teile davon, die
+(6) Im Sektor Finanzwesen sind kritische Anlagen solche Anlagen oder
+Teile davon, die
 
 1.  den in Anhang 6 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -363,29 +343,46 @@ Infrastrukturen solche Anlagen oder Teile davon, die
 
 
 
-(8) Abweichend von § 1 Nummer 2 hat im Sektor Finanz- und
-Versicherungswesen bestimmenden Einfluss auf eine Anlage, die den in
-Anhang 6 Teil 3 Spalte A Nummer 1 bis 4 genannten Anlagenkategorien
-zuzuordnen ist, wer die tatsächliche Sachherrschaft ausübt. Die
-rechtlichen und wirtschaftlichen Umstände bleiben insoweit
-unberücksichtigt.
+
+## § 8 Sektor Leistungen der Sozialversicherung sowie Grundsicherung für Arbeitssuchende
+
+(1) Leistungen der Sozialversicherung werden im Bereich
+Inanspruchnahme von Sozialversicherungsleistungen erbracht. Leistungen
+der Grundsicherung für Arbeitsuchende werden im Bereich der
+Inanspruchnahme von Leistungen, die der Sicherung des Lebensunterhalts
+dienen, mithilfe von IT-Systemen der Bundesagentur für Arbeit
+erbracht.
+
+(2) Im Sektor Leistungen der Sozialversicherung sowie Grundsicherung
+für Arbeitsuchende sind kritische Anlagen solche Anlagen oder Teile
+davon, die
+
+1.  den in Anhang 9 Teil 2 Spalte B genannten Kategorien zuzuordnen sind
+    und
 
 
-## § 8 Sektor Transport und Verkehr
+2.  den Schwellenwert nach Anhang 9 Teil 2 Spalte D erreichen oder
+    überschreiten.
+
+
+
+
+
+## § 9 Sektor Transport und Verkehr
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens ist im Sektor Transport und Verkehr die Versorgung der
 Allgemeinheit mit Leistungen zum Transport von Personen und Gütern
 (Personen- und Güterverkehr) kritische Dienstleistung im Sinne des §
-10 Absatz 1 Satz 1 des BSI-Gesetzes.
+56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes.
 
 (2) Der Personen- und Güterverkehr wird in den Bereichen Luftverkehr,
 Eisenbahnverkehr, See- und Binnenschifffahrt, Straßenverkehr,
 öffentlicher Personennahverkehr (ÖPNV) und Logistik sowie
 verkehrsträgerübergreifend erbracht.
 
-(3) Im Sektor Transport und Verkehr sind Kritische Infrastrukturen
-solche Anlagen oder Teile davon, die
+(3) Im Sektor Transport und Verkehr sind kritische Anlagen solche
+Anlagen oder Teile davon, die
 
 1.  den in Anhang 7 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -398,19 +395,19 @@ solche Anlagen oder Teile davon, die
 
 
 
-## § 9 Sektor Siedlungsabfallentsorgung
+## § 10 Sektor Siedlungsabfallentsorgung
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens ist im Sektor Siedlungsabfallentsorgung die Entsorgung
-von Siedlungsabfällen kritische Dienstleistung im Sinne des § 10
-Absatz 1 Satz 1 des BSI-Gesetzes.
+von Siedlungsabfällen kritische Dienstleistung im Sinne des § 56
+Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes.
 
 (2) Die Siedlungsabfallentsorgung wird in den Bereichen
 „Abfallsammlung und -beförderung“ und „Abfallverwertung und
 -beseitigung“ erbracht.
 
-(3) Im Sektor Siedlungsabfallentsorgung sind Kritische Infrastrukturen
-solche Anlagen oder Teile davon, die
+(3) Im Sektor Siedlungsabfallentsorgung sind kritische Anlagen solche
+Anlagen oder Teile davon, die
 
 1.  den in Anhang 8 Teil 3 Spalte B genannten Kategorien zuzuordnen sind
     und
@@ -423,13 +420,14 @@ solche Anlagen oder Teile davon, die
 
 
 
-## § 10 Evaluierung
+## § 11 Evaluierung
 
 Zwei Jahre nach Inkrafttreten dieser Rechtsverordnung und danach alle
-zwei Jahre sind unter Beteiligung der in § 10 Absatz 1 Satz 1 des BSI-
-Gesetzes genannten Ressorts und unter Berücksichtigung von
-Erkenntnissen der Betreiber Kritischer Infrastrukturen, von deren
-Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
+zwei Jahre sind unter Beteiligung der in § 56 Absatz 4 Satz 1 in
+Verbindung mit § 2 Nummer 24 des BSI-Gesetzes genannten Ressorts und
+unter Berücksichtigung von Erkenntnissen der Betreiber kritischer
+Anlagen, von deren Verbänden sowie von Vertretern der Wissenschaft zu
+evaluieren
 
 1.  die Festlegung der kritischen Dienstleistungen und Bereiche,
 
@@ -443,7 +441,7 @@ Verbänden sowie von Vertretern der Wissenschaft zu evaluieren
 
 
 
-(zu § 1 Nummer 4 und 5, § 2 Absatz 5 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 2 Absatz 5 Nummer 1 und 2)
 
 ## Anhang 1 Anlagenkategorien und Schwellenwerte im Sektor Energie
 
@@ -472,14 +470,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Energiewirtschaftsgesetzes.
 
 
-    2.2 Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
+    2.2 Digitaler Energiedienst
 
-        eine Anlage oder ein System zur Bündelung elektrischer Leistung und
-        Steuerung von Erzeugungsanlagen oder dezentraler
-        Energieerzeugungsanlagen, insbesondere zur Anwendung bei
-        Direktvermarktungsunternehmen im Sinne des § 3 Nummer 17 des
-        Erneuerbare-Energien-Gesetzes. Unter den Begriff der Steuerung fallen
-        auch die die Anlagen betreffenden Schalthandlungen.
+        Eine Anlage oder ein System, das den zentralen, standortübergreifenden
+        Zugriff auf die Steuerung oder die unmittelbare Beeinflussung von
+        Energieanlagen oder den zentralen, standortübergreifenden Zugriff auf
+        die Steuerung oder die unmittelbare Beeinflussung dezentraler Anlagen
+        zum Verbrauch elektrischer Energie oder Gas ermöglicht.
 
 
     2.3 Übertragungsnetz
@@ -634,16 +631,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet. Anlagen nach Teil 3 Nummer 2.2.4 gelten
-    ab dem ersten Tag des dritten Kalendermonats, der auf den
-    Kalendermonat folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
-    genannten Schwellenwert erreicht oder überschreitet als Kritische
-    Infrastruktur. Diese Anlagen gelten nicht mehr als Kritische
-    Infrastruktur ab dem 1. April des Kalenderjahres, in dem ihr
-    Versorgungsgrad den genannten Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet. Anlagen nach Teil 3 Nummer 2.2.4 gelten ab dem ersten
+    Tag des dritten Kalendermonats, der auf den Kalendermonat folgt, in
+    dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert
+    erreicht oder überschreitet als kritische Anlage. Diese Anlagen gelten
+    nicht mehr als kritische Anlage ab dem 1. April des Kalenderjahres, in
+    dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 
 
 4.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -667,8 +663,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 7.  Stehen mehrere Anlagen derselben Art in einem engen räumlichen und
     betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder
     überschreiten die in Teil 3 Spalte D genannten Schwellenwerte
-    zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein
-    enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
+    zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger
+    räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
     Anlagen
 
     a)  auf demselben Betriebsgelände liegen,
@@ -879,7 +875,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.1.2
 
-    *   Anlage oder System zur Steuerung/Bündelung elektrischer Leistung
+    *   Digitaler Energiedienst
 
     *   Installierte Nettonennleistung (elektrisch) in MW oder
 
@@ -1349,7 +1345,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Nummer 4 und 5, § 3 Absatz 4 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 3 Absatz 4 Nummer 1 und 2)
 
 ## Anhang 2 Anlagenkategorien und Schwellenwerte im Sektor Wasser
 
@@ -1419,13 +1415,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet. Nicht mehr als Kritische Infrastruktur
-    gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf
-    das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
 
 
 3.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -1441,8 +1437,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 5.  Stehen mehrere Anlagen derselben Art in einem engen räumlichen und
     betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder
     überschreiten die in Teil 3 Spalte D genannten Schwellenwerte
-    zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein
-    enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
+    zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger
+    räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
     Anlagen
 
     a)  auf demselben Betriebsgelände liegen,
@@ -1624,7 +1620,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Nummer 4 und 5, § 4 Absatz 3 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 4 Absatz 3 Nummer 1 und 2)
 
 ## Anhang 3 Anlagenkategorien und Schwellenwerte im Sektor Ernährung
 
@@ -1697,10 +1693,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmalig erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
 
 
 4.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -1711,8 +1707,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 5.  Stehen mehrere Anlagen derselben Art in einem engen räumlichen und
     betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder
     überschreiten die in Teil 3 Spalte D genannten Schwellenwerte
-    zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein
-    enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
+    zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger
+    räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
     Anlagen
 
     a)  auf demselben Betriebsgelände liegen,
@@ -1965,7 +1961,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Nummer 4 und 5, § 5 Absatz 4 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 5 Absatz 4 Nummer 1 und 2)
 
 ## Anhang 4 Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
 
@@ -2081,10 +2077,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
 
 
 4.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -2100,7 +2096,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 6.  Stehen mehrere Anlagen derselben Art in einem engen betrieblichen
     Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die
     in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die
-    gemeinsame Anlage als Kritische Infrastruktur. Ein enger betrieblicher
+    gemeinsame Anlage als kritische Anlage. Ein enger betrieblicher
     Zusammenhang ist unabhängig von der räumlichen Distanz der Anlagen
     gegeben, wenn die Anlagen
 
@@ -2363,7 +2359,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Nummer 4 und 5, § 6 Absatz 6 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 6 Absatz 6 Nummer 1 und 2)
 
 ## Anhang 5 Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
 
@@ -2464,10 +2460,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
 
 
 3.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -2478,8 +2474,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 4.  Stehen mehrere Anlagen derselben Art in einem engen räumlichen und
     betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder
     überschreiten die in Teil 3 Spalte D genannten Schwellenwerte
-    zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein
-    enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
+    zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger
+    räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
     Anlagen
 
     a)  auf demselben Betriebsgelände liegen,
@@ -2708,9 +2704,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Nummer 4 und 5, § 7 Absatz 7 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 7 Absatz 7 Nummer 1 und 2)
 
-## Anhang 6 Anlagenkategorien und Schwellenwerte im Sektor Finanz- und Versicherungswesen
+## Anhang 6 Anlagenkategorien und Schwellenwerte im Sektor Finanzwesen
 
 (Fundstelle: BGBl. I 2017, 1913 — 1918
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2876,46 +2872,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Finanzmarktinfrastrukturbetreibers gehört.
 
 
-    1.23 Vertragsverwaltungssystem
-
-        ein System zur Speicherung und Verarbeitung von Informationen zum
-        Versicherungsvertragsverhältnis eines Lebensversicherers, einer
-        privaten Krankenversicherung oder einer Kompositversicherung.
+    1.23 (weggefallen)
 
 
-    1.24 Leistungssystem
-
-        ein System zur Bearbeitung von Leistungen im Bereich
-        Lebensversicherung und privater Krankenversicherung oder ein
-        integriertes Anwendungssystem zur Erfassung, Prüfung und Berechnung
-        von sozialversicherungsrechtlichen Entgeltersatzleistungen der
-        gesetzliche Unfall- und Arbeitslosenversicherung, der gesetzlichen
-        Rentenversicherung oder ein IT-System der Bundesagentur für Arbeit zur
-        Erfassung, Speicherung, Berechnung und Bewilligung von Leistungen der
-        Grundsicherung für Arbeitsuchende zur Sicherung des Lebensunterhalts
-        nach dem Zweiten Buch Sozialgesetzbuch.
+    1.24 (weggefallen)
 
 
-    1.25 Schadensystem (Komposit)
-
-        ein System zur Bearbeitung von Schäden im Bereich der Schaden- und
-        Unfallversicherungen.
+    1.25 (weggefallen)
 
 
-    1.26 Auszahlungssystem
-
-        ein System zur Auszahlung der Entschädigung, Versicherungsleistung
-        oder Leistungen der Sozialversicherung oder ein IT-System der
-        Bundesagentur für Arbeit zur Auszahlung von Leistungen der
-        Grundsicherung für Arbeitsuchende zur Sicherung des Lebensunterhaltes
-        nach dem Zweiten Buch Sozialgesetzbuch an den Zahlungsempfänger.
+    1.26 (weggefallen)
 
 
-    1.27 Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und
-        Pflegeversicherung
-
-        ein integriertes Anwendungssystem im Bereich der gesetzlichen Kranken-
-        und Pflegeversicherung.
+    1.27 (weggefallen)
 
 
 
@@ -2925,10 +2894,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
 
 
 3.  Abweichend von Nummer 1 gilt eine Anlage, die den Anlagenkategorien
@@ -2936,7 +2905,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     ab dem 1. April des Kalenderjahres, das auf die drei Kalenderjahre
     folgt, deren durchschnittlicher Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur.
+    kritische Anlage.
 
 
 4.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -2956,7 +2925,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 6.  Stehen mehrere Anlagen derselben Art in einem engen betrieblichen
     Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die
     in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die
-    gemeinsame Anlage als Kritische Infrastruktur. Ein enger betrieblicher
+    gemeinsame Anlage als kritische Anlage. Ein enger betrieblicher
     Zusammenhang ist gegeben, wenn die Anlagen
 
     a)  mit gemeinsamen Betriebseinrichtungen verbunden sind,
@@ -3481,140 +3450,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **5**
 
-    *   **Versicherungsdienstleistungen und Leistungen der Sozialversicherung
-        sowie der Grundsicherung für Arbeitsuchende**
+    *   **(weggefallen)**
 
 
-*    *   5.1
 
-    *   Versicherungsdienstleistungen
-
-
-*    *   5.1.1
-
-    *   Vertragsverwaltungssystem
-
-    *   Leistungsfälle Lebensversicherung/Jahr oder
-
-    *   500 000
-
-
-*    *   Leistungsfälle private Krankenversicherung/Jahr oder
-
-    *   2 000 000
-
-
-*    *   Schadensfälle Kompositversicherung/Jahr
-
-    *   500 000
-
-
-*    *   5.1.2
-
-    *   Leistungssystem
-
-    *   Leistungsfälle Lebensversicherung/Jahr oder
-
-    *   500 000
-
-
-*    *   Leistungsfälle private Krankenversicherung/Jahr oder
-
-    *   2 000 000
-
-
-*    *   5.1.3
-
-    *   Schadensystem (Komposit)
-
-    *   Schadensfälle Kompositversicherung/Jahr
-
-    *   500 000
-
-
-*    *   5.1.4
-
-    *   Auszahlungssystem
-
-    *   Leistungsfälle Lebensversicherung/Jahr oder
-
-    *   500 000
-
-
-*    *   Leistungsfälle private Krankenversicherung/Jahr oder
-
-    *   2 000 000
-
-
-*    *   Schadensfälle Kompositversicherung/Jahr
-
-    *   500 000
-
-
-*    *   5.2
-
-    *   Leistungen der Sozialversicherung sowie der Grundsicherung für
-        Arbeitsuchende
-
-
-*    *   5.2.1
-
-    *   Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und
-        Pflegeversicherung
-
-    *   Anzahl der Versicherten
-
-    *   500 000
-
-
-*    *   5.2.2
-
-    *   Leistungssystem
-
-    *   Leistungsfälle Sozialversicherungsträger der gesetzlichen Unfall- und
-        Arbeitslosenversicherung/Jahr oder
-
-    *   500 000
-
-
-*    *   Anzahl der Versicherungskonten des Sozialversicherungsträgers der
-        gesetzlichen Rentenversicherung oder
-
-    *   500 000
-
-
-*    *   Leistungsfälle zur Sicherung des Lebensunterhalts in der
-        Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
-        Sozialgesetzbuch
-
-    *   500 000
-
-
-*    *   5.2.3
-
-    *   Auszahlungssystem
-
-    *   Leistungsfälle Sozialversicherungsträger der gesetzlichen Unfall- und
-        Arbeitslosenversicherung/Jahr oder
-
-    *   500 000
-
-
-*    *   Anzahl der Versicherungskonten des Sozialversicherungsträgers der
-        gesetzlichen Rentenversicherung oder
-
-    *   500 000
-
-
-*    *   Leistungsfälle zur Sicherung des Lebensunterhalts in der
-        Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
-        Sozialgesetzbuch
-
-    *   500 000
-
-
-
-(zu § 1 Nummer 4 und 5, § 8 Absatz 3 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 8 Absatz 3 Nummer 1 und 2)
 
 ## Anhang 7 Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
 
@@ -3859,10 +3699,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
 
 
 3.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -3873,8 +3713,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 4.  Stehen mehrere Anlagen derselben Art in einem engen räumlichen und
     betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder
     überschreiten die in Teil 3 Spalte D genannten Schwellenwerte
-    zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein
-    enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
+    zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger
+    räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
     Anlagen
 
     a)  auf demselben Betriebsgelände liegen,
@@ -4374,7 +4214,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-(zu § 1 Nummer 4 und 5, § 9 Absatz 3 Nummer 1 und 2)
+(zu § 1 Absatz 1 Nummer 2 und 3, § 9 Absatz 3 Nummer 1 und 2)
 
 ## Anhang 8 Anlagenkategorien und Schwellenwerte im Sektor Siedlungsabfallentsorgung
 
@@ -4447,10 +4287,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
     Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D
     genannten Schwellenwert erstmals erreicht oder überschreitet, als
-    Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt
-    eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das
-    Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten
-    Schwellenwert unterschreitet.
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
 
 
 3.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
@@ -4461,8 +4301,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 4.  Stehen mehrere Anlagen derselben Art in einem engen räumlichen und
     betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder
     überschreiten die in Teil 3 Spalte D genannten Schwellenwerte
-    zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein
-    enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
+    zusammen, gilt die gemeinsame Anlage als kritische Anlage. Ein enger
+    räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die
     Anlagen
 
     a)  auf demselben Betriebsgelände liegen,
@@ -4698,6 +4538,173 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         LVP- und Kunststoffabfall in Mg/Jahr
 
     *   18 500
+
+
+
+(zu § 1 Absatz 1 Nummer 2 und 3, § 8 Absatz 2 Nummer 1 und 2)
+
+## Anhang 9 Anlagenkategorien und Schwellenwerte im Sektor Leistungen der Sozialversicherung sowie Grundsicherung für Arbeitsuchende
+
+(Fundstelle: BGBl. 2025 I Nr. 301, S. 52 – 53)
+
+Teil 1
+## Grundsätze und Fristen
+
+
+1.  Im Sinne von Anhang 9 ist oder sind
+
+
+1.1 Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und
+    Pflegeversicherung
+
+    ein integriertes Anwendungssystem im Bereich der gesetzlichen Kranken-
+    und Pflegeversicherung.
+
+
+1.2 Leistungssystem
+
+    ein integriertes Anwendungssystem zur Erfassung, Prüfung und
+    Berechnung von sozialversicherungsrechtlichen Entgeltersatzleistungen
+    der gesetzliche Unfall- und Arbeitslosenversicherung, der gesetzlichen
+    Rentenversicherung oder ein IT-System der Bundesagentur für Arbeit zur
+    Erfassung, Speicherung, Berechnung und Bewilligung von Leistungen der
+    Grundsicherung für Arbeitsuchende zur Sicherung des Lebensunterhalts
+    nach dem Zweiten Buch Sozialgesetzbuch.
+
+
+1.3 Auszahlungssystem
+
+    ein System zur Auszahlung der Entschädigung, Versicherungsleistung
+    oder Leistungen der Sozialversicherung oder ein IT-System der
+    Bundesagentur für Arbeit zur Auszahlung von Leistungen der
+    Grundsicherung für Arbeitsuchende zur Sicherung des Lebensunterhaltes
+    nach dem Zweiten Buch Sozialgesetzbuch an den Zahlungsempfänger.
+
+
+2.  Eine Anlage, die einer in Teil 2 Spalte B genannten Anlagenkategorie
+    zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das
+    Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 2 Spalte D
+    genannten Schwellenwert erstmals erreicht oder überschreitet, als
+    kritische Anlage. Nicht mehr als kritische Anlage gilt eine solche
+    Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr
+    folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert
+    unterschreitet.
+
+
+3.  Der Betreiber hat den Versorgungsgrad seiner Anlage für das
+    zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres
+    zu ermitteln.
+
+
+4.  Stehen mehrere Anlagen derselben Art in einem engen betrieblichen
+    Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die
+    in Teil 2 Spalte D genannten Schwellenwerte zusammen, gilt die
+    gemeinsame Anlage als kritische Anlage. Ein enger betrieblicher
+    Zusammenhang ist gegeben, wenn die Anlagen
+
+    a)  mit gemeinsamen Betriebseinrichtungen verbunden sind,
+
+
+    b)  einem identischen technischen Zweck dienen und
+
+
+    c)  unter gemeinsamer Leitung stehen.
+
+
+
+
+
+
+
+Teil 2
+## Anlagenkategorien und Schwellenwerte
+
+
+*    *   Spalte A
+
+    *   Spalte B
+
+    *   Spalte C
+
+    *   Spalte D
+
+
+*    *   Nr.
+
+    *   Anlagenkategorie
+
+    *   Bemessungskriterium
+
+    *   Schwellenwert
+
+
+*    *   **1**
+
+    *   **Leistungen der Sozialversicherung sowie der Grundsicherung für
+        Arbeitsuchende**
+
+
+*    *   1.1
+
+    *   Leistungen der Sozialversicherung sowie der Grundsicherung für
+        Arbeitsuchende
+
+
+*    *   1.1.1
+
+    *   Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und
+        Pflegeversicherung
+
+    *   Anzahl der Versicherten
+
+    *   500 000
+
+
+*    *   1.1.2
+
+    *   Leistungssystem
+
+    *   Leistungsfälle Sozialversicherungsträger der gesetzlichen Unfall- und
+        Arbeitslosenversicherung/Jahr oder
+
+    *   500 000
+
+
+*    *   Anzahl der Versicherungskonten des Sozialversicherungsträgers der
+        gesetzlichen Rentenversicherung oder
+
+    *   500 000
+
+
+*    *   Leistungsfälle zur Sicherung des Lebensunterhalts in der
+        Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
+        Sozialgesetzbuch
+
+    *   500 000
+
+
+*    *   1.1.3
+
+    *   Auszahlungssystem
+
+    *   Leistungsfälle Sozialversicherungsträger der gesetzlichen Unfall- und
+        Arbeitslosenversicherung/Jahr oder
+
+    *   500 000
+
+
+*    *   Anzahl der Versicherungskonten des Sozialversicherungsträgers der
+        gesetzlichen Rentenversicherung oder
+
+    *   500 000
+
+
+*    *   Leistungsfälle zur Sicherung des Lebensunterhalts in der
+        Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
+        Sozialgesetzbuch
+
+    *   500 000
+
 
 
 
