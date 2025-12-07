@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 21.2.2025 I Nr. 51
 
+Änderung durch
+:   Art. 18 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Das G ist gem. Art. 16 G v. 29.8.2016 I 2034 am 2.9.2016 in Kraft getreten
 [^f794956_01_BJNR203410016]:     In diesem Gesetz finden sich technische Vorgaben, die in Teil 2 im
     Kapitel 3 zusammengefasst sind. Diese Regelungen wurden notifiziert
@@ -1271,10 +1274,11 @@ Smart-Meter-Gateways haben zu diesem Zeitpunkt die Zertifikate zur
 Konformität nach den Technischen Richtlinien dem Smart-Meter-Gateway-
 Administrator vorzulegen.
 
-(2) Für die Zertifizierung sind § 9 des BSI-Gesetzes vom 14. August
-2009 (BGBl. I S. 2821) sowie die BSI-Zertifizierungs- und
-Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231) in der
-jeweils geltenden Fassung anzuwenden.
+(2) Für die Zertifizierung sind § 52 des BSI-Gesetzes vom 2. Dezember
+2025 (BGBl. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung
+sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17.
+Dezember 2014 (BGBl. I S. 2231) in der jeweils geltenden Fassung
+anzuwenden.
 
 (3) Das Bundesamt für Sicherheit in der Informationstechnik hat die
 Möglichkeit, Zertifikate nach Absatz 1 zeitlich zu befristen, zu
