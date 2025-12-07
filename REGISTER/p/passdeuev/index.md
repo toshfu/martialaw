@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2312
 
 Zuletzt geändert durch
-:   Art. 4 V v. 30.10.2023 I Nr. 290
+:   Art. 12 G v. 2.12.2025 I Nr. 301
 
 
 ## § 1 Anwendungsbereich
@@ -345,9 +345,10 @@ sich aus Anlage 2. Die Art und Einzelheiten der Zertifizierung richten
 sich nach den Technischen Richtlinien des Bundesamtes für Sicherheit
 in der Informationstechnik.
 
-(2) Für die Zertifizierung gilt § 9 des BSI-Gesetzes vom 14. August
-2009 (BGBl. I S. 2821) sowie die BSI-Zertifizierungsverordnung vom 7.
-Juli 1992 (BGBl. I S. 1230) in der jeweils geltenden Fassung.
+(2) Für die Zertifizierung gilt § 52 des BSI-Gesetzes vom 2. Dezember
+2025 (BGBl. 2025 I Nr. 301, S. 2) sowie die BSI-
+Zertifizierungsverordnung vom 7. Juli 1992 (BGBl. I S. 1230) in der
+jeweils geltenden Fassung.
 
 (3) Die Kosten der Zertifizierung trägt der Antragsteller.
 
