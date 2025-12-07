@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 74 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 7 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F788048_01_BJNR223100014]:     Notifiziert gemäß der Richtlinie 98/34/EG des Europäischen Parlaments
     und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem
     Gebiet der Normen und technischen Vorschriften und der Vorschriften
@@ -30,10 +33,10 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009
-(BGBl. I S. 2821) verordnet das Bundesministerium des Innern nach
-Anhörung der betroffenen Wirtschaftsverbände im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie:
+Auf Grund des § 56 Absatz 1 des BSI-Gesetzes vom 2. Dezember 2025
+(BGBl. 2025 I Nr. 301, S. 2) verordnet das Bundesministerium des
+Innern nach Anhörung der betroffenen Wirtschaftsverbände im
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -42,7 +45,7 @@ Bundesministerium für Wirtschaft und Energie:
 ### § 1 Anwendungsbereich
 
 Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt)
-erteilt Zertifikate und Anerkennungen gemäß § 9 des BSI-Gesetzes nach
+erteilt Zertifikate und Anerkennungen gemäß § 52 des BSI-Gesetzes nach
 dieser Verordnung.
 
 
@@ -346,7 +349,7 @@ durchzuführen.
 
 ### § 12 Zertifikat
 
-(1) Ein Zertifikat nach § 9 Absatz 4 des BSI-Gesetzes wird erteilt,
+(1) Ein Zertifikat nach § 52 Absatz 4 des BSI-Gesetzes wird erteilt,
 wenn
 
 1.  die Prüfung und die Bewertung ergeben, dass das geprüfte
@@ -477,15 +480,15 @@ Folgendes enthalten:
 
 ### § 15 Zertifikat
 
-(1) Ein Zertifikat für Personen nach § 9 Absatz 5 des BSI-Gesetzes
+(1) Ein Zertifikat für Personen nach § 52 Absatz 6 des BSI-Gesetzes
 wird erteilt, wenn
 
 1.  die Prüfung und die Bewertung ergeben, dass die zu zertifizierende
     Person die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
 
 
-2.  das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 4
-    Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
+2.  das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz
+    4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
     öffentliche Interessen, insbesondere sicherheitspolitische Belange der
     Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
@@ -583,7 +586,7 @@ fachkompetente Vertreter zu unterstützen.
 
 ### § 18 Zertifikat
 
-(1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 9 Absatz 5
+(1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 52 Absatz 6
 des BSI-Gesetzes wird erteilt, wenn
 
 1.  die Prüfung und die Bewertung ergeben, dass der IT-
@@ -591,8 +594,8 @@ des BSI-Gesetzes wird erteilt, wenn
     und
 
 
-2.  das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 4
-    Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
+2.  das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz
+    4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
     öffentliche Interessen, insbesondere sicherheitspolitische Belange der
     Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
@@ -698,7 +701,7 @@ fachkompetente Vertreter zu unterstützen.
 
 ### § 21 Anerkennung
 
-(1) Eine Anerkennung nach § 9 Absatz 6 des BSI-Gesetzes wird erteilt,
+(1) Eine Anerkennung nach § 52 Absatz 7 des BSI-Gesetzes wird erteilt,
 wenn
 
 1.  die Prüfung und die Bewertung ergeben, dass die sachliche und
@@ -707,8 +710,8 @@ wenn
     nach § 4 Absatz 1 erfüllen, und
 
 
-2.  das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 6
-    Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
+2.  das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz
+    7 Satz 1 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
     öffentliche Interessen, insbesondere sicherheitspolitische Belange der
     Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
@@ -748,7 +751,7 @@ fest.
 
 
 
-(4) Das Bundesamt überprüft regelmäßig nach § 9 Absatz 6 Satz 2 des
+(4) Das Bundesamt überprüft regelmäßig nach § 52 Absatz 7 Satz 2 des
 BSI-Gesetzes, ob die Voraussetzungen für die Anerkennung nach Absatz 1
 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene
 Überprüfung stattfinden. Das Bundesamt entwickelt für diese
