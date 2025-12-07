@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 30.7.2021 I 3295
 
+Änderung durch
+:   Art. 15 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^BJNR351500017_01]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und
@@ -399,7 +402,7 @@ neu in den Verkehr gebracht werden.
 ## § 11 Zertifizierung
 
 (1) Für die Zertifizierung technischer Sicherheitseinrichtungen gelten
-§ 9 des BSI-Gesetzes sowie die BSI-Zertifizierungs- und
+§ 52 des BSI-Gesetzes sowie die BSI-Zertifizierungs- und
 -Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231) in der
 jeweils geltenden Fassung. Die Prüfung und Bewertung kann auch durch
 vom Bundesamt für Sicherheit in der Informationstechnik anerkannte
