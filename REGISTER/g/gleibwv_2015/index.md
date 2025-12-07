@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2274
 
-Geändert durch
-:   Art. 3 G v. 7.8.2021 I 3311
+Zuletzt geändert durch
+:   Art. 5 G v. 2.12.2025 I Nr. 301
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -663,7 +663,7 @@ Wahlvorstand für einen bestimmten Schutzbedarf durch eine
 Konformitätsprüfung oder eine Zertifizierung nach der technischen
 Richtlinie nachweisen.
 
-(9) Für die Zertifizierung nach der technischen Richtlinie gelten § 9
+(9) Für die Zertifizierung nach der technischen Richtlinie gelten § 52
 des BSI-Gesetzes und die BSI-Zertifizierungs- und
 Anerkennungsverordnung in der jeweils geltenden Fassung.
 
