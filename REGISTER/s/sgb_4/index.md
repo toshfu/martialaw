@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 6a G v. 25.2.2025 I Nr. 63
-
-Änderung durch
-:   Art. 3 G v. 2.12.2025 I Nr. 302 mWv 6.12.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 2.12.2025 I Nr. 302
 
 Mittelbare änderung durch
 :   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
@@ -3119,15 +3116,6 @@ b)  die stationäre Bearbeitung von adressierten Paketen bis zu 32
 
 
 
-
-(3h) Die Bundesregierung berichtet unter Beteiligung des
-Normenkontrollrates zum 31. Dezember 2023 über die Wirksamkeit und
-Reichweite der Haftung für Sozialversicherungsbeiträge für die
-Unternehmer im Speditions-, Transport- und damit verbundenen
-Logistikgewerbe, die im Bereich der Kurier-, Express- und Paketdienste
-tätig sind und einen anderen Unternehmer mit der Beförderung von
-Paketen beauftragen, insbesondere über die Haftungsfreistellung nach
-Absatz 3b und Absatz 3f Satz 1.
 
 (4) Die Haftung umfasst die Beiträge und Säumniszuschläge, die infolge
 der Pflichtverletzung zu zahlen sind, sowie die Zinsen für gestundete
