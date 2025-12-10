@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 704
 
+V aufgeh. durch
+:   § 10 dieser V, dieser eingef. durch Art. 2 G v. 2.12.2025 I Nr. 302, mit Ablauf des 19.1.2027
+
 Zuletzt geändert durch
 :   Art. 2 G v. 2.12.2025 I Nr. 302
 
