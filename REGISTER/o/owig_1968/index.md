@@ -19,7 +19,25 @@ Neugefasst durch
 :   Bek. v. 19.2.1987 I 602;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 17.7.2025 I Nr. 163
+:   Art. 15 G v. 8.12.2025 I Nr. 318
+
+Änderung durch
+:   Art 9 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art 10 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art 11 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
+
+Änderung durch
+:   Art 12 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art 37 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art 38 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 bzw. 1.1.2036 noch nicht berücksichtigt
 
 
 ## Erster Teil - Allgemeine Vorschriften
