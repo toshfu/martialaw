@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 4 G v. 25.11.2025 I Nr. 282
 
+Änderung durch
+:   Art. 11 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
