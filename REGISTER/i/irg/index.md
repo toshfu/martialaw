@@ -21,6 +21,18 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 21 G v. 12.7.2024 I Nr. 234
 
+Änderung durch
+:   Art. 22 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 23 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 24 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
+
 
 ## Erster Teil - Anwendungsbereich
 
