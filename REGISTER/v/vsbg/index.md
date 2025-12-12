@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 8.10.2023 I Nr. 272
 
+Änderung durch
+:   Art. 16 G v. 8.12.2025 I Nr. 318 mWv 12.12.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
