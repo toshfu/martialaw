@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 17 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 8.12.2025 I Nr. 317 mWv 12.12.2025 noch nicht berücksichtigt
+
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
 Europäischen Parlaments und des Rates vom 26. Juni 2003 über
