@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 3820
 
-Geändert durch
-:   Art. 22 G v. 19.2.2016 I 254
+Zuletzt geändert durch
+:   Art. 19 G v. 8.12.2025 I Nr. 318
 
 
 ## Eingangsformel
@@ -47,8 +47,7 @@ Anforderungen entsprechen:
 2.  den §§ 2 bis 16 Absatz 1 und 3 dieser Rechtsverordnung,
 
 
-3.  den §§ 1 bis 23, 34, 38 und 39 des Verbraucherstreitbeilegungsgesetzes
-    vom 19. Februar 2016 (BGBl. I S. 254) und
+3.  den §§ 1 bis 23, 34 und 38 des Verbraucherstreitbeilegungsgesetzes und
 
 
 4.  denjenigen Vorschriften der nach § 42 Absatz 1 des
@@ -213,7 +212,7 @@ Schlichtungsverfahren nach den folgenden Vorschriften näher bestimmt:
 2.  nach den §§ 9 bis 16 Absatz 1 und 3 dieser Rechtsverordnung,
 
 
-3.  nach den §§ 4 bis 23, 34, 38 und 39 des
+3.  nach den §§ 4 bis 23, 34 und 38 des
     Verbraucherstreitbeilegungsgesetzes und
 
 
