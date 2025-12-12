@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 30.11.2019 I 1942
 
+Änderung durch
+:   Art. 17 G v. 8.12.2025 I Nr. 318 mWv 12.12.2025 noch nicht berücksichtigt
+
 [^BJNR032600016_01]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/11/EU des
     Europäischen Parlaments und des Rates vom 21. Mai 2013 über die
     alternative Beilegung verbraucherrechtlicher Streitigkeiten und zur
