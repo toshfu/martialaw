@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 6.5.2024 I Nr. 149
+:   Art. 18 G v. 8.12.2025 I Nr. 318
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen
@@ -146,12 +146,7 @@ insbesondere
 
 
 12. § 2 Absatz 2 sowie die §§ 36 und 37 des
-    Verbraucherstreitbeilegungsgesetzes und Artikel 14 der Verordnung (EU)
-    Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai
-    2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten
-    und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie
-    2009/22/EG (Verordnung über Online-Streitbeilegung in
-    Verbraucherangelegenheiten) (ABl. L 165 vom 18.6.2013, S. 1),
+    Verbraucherstreitbeilegungsgesetzes,
 
 
 13. die Vorschriften der Verordnung (EU) 2016/679 des Europäischen
