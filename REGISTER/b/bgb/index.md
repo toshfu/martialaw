@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 17.7.2025 I Nr. 163
 
+Mittelbare änderung durch
+:   Art. 33 G vom 8.12.2025 I Nr. 319 mWv 1.1.2028 noch nicht berücksichtigt
+
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung
