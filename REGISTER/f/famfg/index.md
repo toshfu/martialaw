@@ -19,6 +19,27 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 7.4.2025 I Nr. 109
 
+Änderung durch
+:   Art. 7 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 bzw. 1.7.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 18 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 19 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 20 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 21 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 37 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
