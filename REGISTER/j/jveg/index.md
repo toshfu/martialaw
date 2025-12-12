@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 7.4.2025 I Nr. 109
 
+Änderung durch
+:   Art. 13 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
