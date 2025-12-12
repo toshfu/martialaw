@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 7.4.2025 I Nr. 109
 
+Änderung durch
+:   Art. 20 G v. 8.12.2025 I Nr. 318 mWv 12.12.2025 bzw. 1.1.2026 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
 
