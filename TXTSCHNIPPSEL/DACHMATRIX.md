@@ -16,11 +16,12 @@
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 
 [wappenquelle](https://de.wikipedia.org/wiki/Flaggen_und_Wappen_der_L%C3%A4nder_der_Bundesrepublik_Deutschland)
+Lage 	Kleines Wappen 	(Mittleres) Wappen 	Großes Wappen 	Landesflagge 	Dienstflagge 	Bundesland 	Weiterführende Artikel 
 
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Bundesland | Lage     | Kleines Wappen      | Wappen     | Großes Wappen     | Landesflagge     | Dienstflagge     | Text     |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
