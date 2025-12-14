@@ -1,3 +1,23 @@
+
+| Bundesland | Lage     | Kleines Wappen      | Wappen     | Großes Wappen     | Landesflagge     | Dienstflagge     | Text     |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Baden-Württemberg     | ![Lage](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg/60px-Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg.png)     | ![kleines wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lesser_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg/60px-Lesser_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg.png)     | Text     | ![grosses Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Greater_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg/120px-Greater_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg.png)     | ![Landesflagge](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Baden-W%C3%BCrttemberg.svg/120px-Flag_of_Baden-W%C3%BCrttemberg.svg.png)     | ![kleines Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg/120px-Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg.png) ![grosses Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_greater_arms%29_2020.svg/120px-Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_greater_arms%29_2020.svg.png)      | Text     |
+| Bayern     | ![Lage](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Deutschland_Lage_von_Bayern.svg/60px-Deutschland_Lage_von_Bayern.svg.png)     | ![kleines Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bayern_Wappen.svg/60px-Bayern_Wappen.svg.png)     | Text     | ![grosses Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Bavaria.svg/120px-Coat_of_arms_of_Bavaria.svg.png)     | ![Streifenform](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Bavaria_%28striped%29.svg/120px-Flag_of_Bavaria_%28striped%29.svg.png) ![Rautenform](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/120px-Flag_of_Bavaria_%28lozengy%29.svg.png) | ![Streifenform](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Bavaria_%28striped%29.svg/120px-Flag_of_Bavaria_%28striped%29.svg.png) ![Rautenform](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/120px-Flag_of_Bavaria_%28lozengy%29.svg.png)   |  Text     |
+| Berlin     | ![Lage](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutschland_Lage_Berlins.svg/60px-Deutschland_Lage_Berlins.svg.png)     | Text     | ![mittleres Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DEU_Berlin_COA.svg/60px-DEU_Berlin_COA.svg.png)     | Text    |![Landesflagge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/120px-Flag_of_Berlin.svg.png)     | ![Dienstflagge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/120px-Flag_of_Berlin.svg.png)      | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+
+
+
+
+
 | Text     | UN - Feindstaat     | UN - Mitglied 133     | UN - Mitglied 134     | Bundeskanzleramt     | Bundesdruckerei     | B u n d e s r e p u b l i k  D e u t s c h l a n d      |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | **DEUTSCHLAND** | Deutschland und die Länder | Bundesrepublik Deutschland | Bundesrepublik | **BUNDESREPUBLIK DEUTSCHLAND** | **Bundesrepublik Deutschland** |
@@ -17,22 +37,6 @@
 
 [wappenquelle](https://de.wikipedia.org/wiki/Flaggen_und_Wappen_der_L%C3%A4nder_der_Bundesrepublik_Deutschland)
 Lage 	Kleines Wappen 	(Mittleres) Wappen 	Großes Wappen 	Landesflagge 	Dienstflagge 	Bundesland 	Weiterführende Artikel 
-
-| Bundesland | Lage     | Kleines Wappen      | Wappen     | Großes Wappen     | Landesflagge     | Dienstflagge     | Text     |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Baden-Württemberg     | ![Lage](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg/60px-Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg.png)     | ![kleines wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lesser_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg/60px-Lesser_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg.png)     | Text     | ![grosses Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Greater_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg/120px-Greater_coat_of_arms_of_Baden-W%C3%BCrttemberg.svg.png)     | ![Landesflagge](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Baden-W%C3%BCrttemberg.svg/120px-Flag_of_Baden-W%C3%BCrttemberg.svg.png)     | ![kleines Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg/120px-Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg.png) ![grosses Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_greater_arms%29_2020.svg/120px-Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_greater_arms%29_2020.svg.png)      | Text     |
-| Bayern     | ![Lage](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Deutschland_Lage_von_Bayern.svg/60px-Deutschland_Lage_von_Bayern.svg.png)     | ![kleines Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bayern_Wappen.svg/60px-Bayern_Wappen.svg.png)     | Text     | ![grosses Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Bavaria.svg/120px-Coat_of_arms_of_Bavaria.svg.png)     | ![Streifenform](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Bavaria_%28striped%29.svg/120px-Flag_of_Bavaria_%28striped%29.svg.png) ![Rautenform](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/120px-Flag_of_Bavaria_%28lozengy%29.svg.png) | ![Streifenform](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Bavaria_%28striped%29.svg/120px-Flag_of_Bavaria_%28striped%29.svg.png) ![Rautenform](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/120px-Flag_of_Bavaria_%28lozengy%29.svg.png)   |  Text     |
-| Berlin     | ![Lage](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutschland_Lage_Berlins.svg/60px-Deutschland_Lage_Berlins.svg.png)     | Text     | ![mittleres Wappen](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DEU_Berlin_COA.svg/60px-DEU_Berlin_COA.svg.png)     | Text    |![Landesflagge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/120px-Flag_of_Berlin.svg.png)     | ![Dienstflagge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/120px-Flag_of_Berlin.svg.png)      | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg/60px-Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg.png
