@@ -1,6 +1,15 @@
 
 [Einführungsgesetz zum Bürgerlichen Gesetzbuche](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgbeg/index.md)
+    * Internationales Privatrecht
+    * Art 5 - Personalstatut
+    * Art 7 - Rechts- und Geschäftsfähigkeit
+    * Art 10 - Name
+    * Art 50 - Die Vorschriften der Reichsgesetze bleiben in Kraft ....
 [Bürgerliche Gesetzbuch](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgb/index.md)
+    * § 1 Beginn der Rechtsfähigkeit
+    * §§ 3 bis 6 (weggefallen)
+    * 10 (weggefallen)
+    
 
 
 [Staatsangehörigkeitsgesetz (RuStAG)](https://github.com/toshfu/martialaw/blob/main/REGISTER/r/rustag/index.md)
