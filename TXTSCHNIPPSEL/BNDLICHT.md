@@ -1,14 +1,17 @@
-[Grundgesetz für die Bundesrepublik Deutschland](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gg/index.md)
- * [Carlo Schmid](https://www.youtube.com/watch?v=gWklZtdjhS0&pp=ygUMY2FybG8gc2NobWlk)
- * [ganz viele Revisionen des GG - seid Juli 2012 nicht mehr aktuel ](https://github.com/bundestag/grundgesetz/commits/master/)
+
+[Einführungsgesetz zum Bürgerlichen Gesetzbuche](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgbeg/index.md)
+[Bürgerliche Gesetzbuch](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgb/index.md)
 
 
 [Staatsangehörigkeitsgesetz (RuStAG)](https://github.com/toshfu/martialaw/blob/main/REGISTER/r/rustag/index.md)
 [Einkommensteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/e/estg/index.md)
 [Gewerbesteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gewstg/index.md)
-[Einführungsgesetz zum Bürgerlichen Gesetzbuche](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgbeg/index.md)
-[Bürgerliche Gesetzbuch](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgb/index.md)
 [Passgesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/p/passg_1986/index.md)
+
+[Grundgesetz für die Bundesrepublik Deutschland](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gg/index.md)
+ * [Carlo Schmid](https://www.youtube.com/watch?v=gWklZtdjhS0&pp=ygUMY2FybG8gc2NobWlk)
+ * [ganz viele Revisionen des GG - seid Juli 2012 nicht mehr aktuel ](https://github.com/bundestag/grundgesetz/commits/master/)
+
 [Justizbeitreibungsordnung](https://github.com/toshfu/martialaw/blob/main/REGISTER/j/jbeitro/index.md)
 [StaatsangehÃ¶rigkeits-GebÃ¼hrenverordnung](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/stagebv/index.md)
 [(SGB) Viertes Buch (IV) - Gemeinsame Vorschriften fÃ¼r die](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sgb_4/index.md)
