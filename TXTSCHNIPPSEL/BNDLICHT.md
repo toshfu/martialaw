@@ -30,7 +30,7 @@
 [StaatsangehÃ¶rigkeits-GebÃ¼hrenverordnung](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/stagebv/index.md)
 
 Sozialgesetzbuch
-  * [(SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sgb_4/index.md)
+  * [(SGB) - Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sgb_4/index.md)
   * [(SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sgb_8/index.md)
   * [(SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung ](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sgb_11/index.md)
   * [(SGB) Zwölftes Buch (XII) - Sozialhilfe](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sgb_12/index.md)
