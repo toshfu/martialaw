@@ -43,6 +43,6 @@
 
 [Verwaltungsverfahrensgesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/v/vwvfg/index.md)
 
-[Strafprozeßordnung - StPO](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/stpo/index.md
+[Strafprozeßordnung - StPO](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/stpo/index.md)
 
 [Suchdienstedatenschutzgesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sddsg/index.md)
