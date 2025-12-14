@@ -3,6 +3,10 @@
  * [ganz viele Revisionen des GG - seid Juli 2012 nicht mehr aktuel ](https://github.com/bundestag/grundgesetz/commits/master/)
 
 [Einkommensteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/e/estg/index.md)
+
+
+
+
 [StaatsangehÃ¶rigkeitsgesetz (RuStAG)](https://github.com/toshfu/martialaw/blob/main/REGISTER/r/rustag/index.md)
 [Einkommensteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/e/estg/index.md)
 [Gewerbesteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gewstg/index.md)
