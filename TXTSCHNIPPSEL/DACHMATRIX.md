@@ -19,7 +19,7 @@
 Lage 	Kleines Wappen 	(Mittleres) Wappen 	Großes Wappen 	Landesflagge 	Dienstflagge 	Bundesland 	Weiterführende Artikel 
 
 | Bundesland | Lage     | Kleines Wappen      | Wappen     | Großes Wappen     | Landesflagge     | Dienstflagge     | Text     |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
