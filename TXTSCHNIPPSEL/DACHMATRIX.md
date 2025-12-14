@@ -20,7 +20,7 @@ Lage 	Kleines Wappen 	(Mittleres) Wappen 	Großes Wappen 	Landesflagge 	Dienstfl
 
 | Bundesland | Lage     | Kleines Wappen      | Wappen     | Großes Wappen     | Landesflagge     | Dienstflagge     | Text     |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Baden-Württemberg     | ![Lage](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg/60px-Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg.png)     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
