@@ -2,16 +2,12 @@
  * [Carlo Schmid](https://www.youtube.com/watch?v=gWklZtdjhS0&pp=ygUMY2FybG8gc2NobWlk)
  * [ganz viele Revisionen des GG - seid Juli 2012 nicht mehr aktuel ](https://github.com/bundestag/grundgesetz/commits/master/)
 
-[Einkommensteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/e/estg/index.md)
 
-
-
-
-[StaatsangehÃ¶rigkeitsgesetz (RuStAG)](https://github.com/toshfu/martialaw/blob/main/REGISTER/r/rustag/index.md)
+[Staatsangehörigkeitsgesetz (RuStAG)](https://github.com/toshfu/martialaw/blob/main/REGISTER/r/rustag/index.md)
 [Einkommensteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/e/estg/index.md)
 [Gewerbesteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gewstg/index.md)
-[EinfÃ¼hrungsgesetz zum BÃ¼rgerlichen Gesetzbuche](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgbeg/index.md)
-[BÃ¼rgerliche Gesetzbuch]https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgb/index.md)
+[Einführungsgesetz zum Bürgerlichen Gesetzbuche](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgbeg/index.md)
+[Bürgerliche Gesetzbuch]https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgb/index.md)
 [PaÃgesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/p/passg_1986/index.m)
 [Justizbeitreibungsordnung](https://github.com/toshfu/martialaw/blob/main/REGISTER/j/jbeitro/index.md)
 [StaatsangehÃ¶rigkeits-GebÃ¼hrenverordnung](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/stagebv/index.md)
@@ -24,7 +20,7 @@
 [Verwaltungsverfahrensgesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/v/vwvfg/index.md)
 [StrafprozeÃordnung](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/stpo/index.md
 [Suchdienstedatenschutzgesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/s/sddsg/index.md)
-[Einkommensteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/e/estg/index.md)
+
 [Gewerbesteuergesetz](https://github.com/toshfu/martialaw/blob/main/REGISTER/g/gewstg/index.md)
-[EinfÃ¼hrungsgesetz zum BÃ¼rgerlichen Gesetzbuche](https://github.com/toshfu/martialaw/blob/main/REGISTER/b/bgbeg/index.md)
+
 
