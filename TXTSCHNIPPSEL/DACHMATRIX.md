@@ -5,8 +5,9 @@
 | Text     | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png)| ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png)     | Text     | ![Kennzeichen D](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/D_international_vehicle_registration_oval.svg/330px-D_international_vehicle_registration_oval.svg.png)     | Text     | Text     |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     | Text     | ![Flagge Hamburg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/250px-Flag_of_Hamburg.svg.png)     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     | ![Flagge Bremen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/250px-Flag_of_Bremen.svg.png)     | Text     | Text     |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     | ![BIZ](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg/250px-Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg.png)     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 
 
