@@ -7,14 +7,8 @@
 | Text     | Text     | Text     | Text     | ![Flagge Hamburg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/250px-Flag_of_Hamburg.svg.png)     | Text     | Text     |
 | Text     | Text     | Text     | Text     | ![Flagge Bremen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/250px-Flag_of_Bremen.svg.png)     | Text     | Text     |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     | ![BIZ](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg/250px-Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg.png)     | Text     | Text     |
+| Text     | Text     | Text     | Bundesland Baden-Württemberg, Bundesland Bayern (Freistaat), Bundesland Berlin (Stadtstaat), Bundesland Brandenburg, Bundesland Bremen (Stadtstaat), Bundesland Hamburg (Stadtstaat), Bundesland Hessen, Bundesland Mecklenburg-Vorpommern, Bundesland Niedersachsen, Bundesland Nordrhein-Westfalen, Bundesland Rheinland-Pfalz, Bundesland Saarland, Bundesland Sachsen (Freistaat), Bundesland Sachsen-Anhalt, Bundesland Schleswig-Holstein, Bundesland Thüringen (Freistaat)     | ![BIZ](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg/250px-Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg.png)     | Text     | Text     |
 | Text     | Text     | Text     | Text     | ![Fraspa](https://www.frankfurter-sparkasse.de/content/dam/myif/sk-frankfurt/work/bilder/nbf-logos/logo_weiss.svg)     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
-
-
-Bayern (Freistaat Bayern)
-Sachsen (Freistaat Sachsen)
-Thüringen (Freistaat Thüringen) 
-
 
