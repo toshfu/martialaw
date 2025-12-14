@@ -2,8 +2,7 @@
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | **DEUTSCHLAND** | Deutschland und die Länder | Bundesrepublik Deutschland | Bundesrepublik | **BUNDESREPUBLIK DEUTSCHLAND** | **Bundesrepublik Deutschland** |
 | Text     | Freistaat Bayern     | Text     | Bundesländer, Freistaaten, Berlin     | freie und Hansestaedte     | Bundesländer     | B u n d e s r e p u b l i k  D e u t s c h l a n d     |
-| Text     | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png)
-     | Text     | Text     | Text     | Text     | Text     |
+| Text     | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png)| Text     | Text     | Text     | Text     | Text     |
 
 
 Bayern (Freistaat Bayern)
