@@ -7,22 +7,7 @@
 | Text     | Text     | Text     | Text     | ![Flagge Hamburg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/250px-Flag_of_Hamburg.svg.png)     | Text     | Text     |
 | Text     | Text     | Text     | Text     | ![Flagge Bremen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/250px-Flag_of_Bremen.svg.png)     | Text     | Text     |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Bundesland     | Text     | Text     | Baden-Württemberg, Bayern, Berlin , Brandenburg, Bremen, Hamburg , Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen    | Text     |BADEN-WÜRTTEMBERG
-BAYERN
-BERLIN
-BRANDENBURG
-BREMEN
-HAMBURG
-HESSEN
-MECKLENBURG-VORPOMMERN
-NIEDERSACHSEN
-NORDRHEIN-WESTFALEN
-RHEINLAND-PFALZ
-SAARLAND
-SACHSEN
-SACHSEN-ANHALT
-SCHLESWIG-HOLSTEIN
-THÜRINGEN     | Text     |
+| Bundesland     | Text     | Text     | Baden-Württemberg, Bayern, Berlin , Brandenburg, Bremen, Hamburg , Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen    | Text     |BADEN-WÜRTTEMBERG, BAYERN, BERLIN, BRANDENBURG, BREMEN, HAMBURG, HESSEN, MECKLENBURG-VORPOMMERN, NIEDERSACHSEN, NORDRHEIN-WESTFALEN, RHEINLAND-PFALZ, SAARLAND, SACHSEN, SACHSEN-ANHALT, SCHLESWIG-HOLSTEIN, THÜRINGEN     | Text     |
 | BUNDESLAND     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     |          | ![BIZ](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg/250px-Logo_Bank_f%C3%BCr_Internationalen_Zahlungsausgleich.svg.png)     | Text     | Text     |
 | Text     | Text     | Text     | Text     | ![Fraspa](https://www.frankfurter-sparkasse.de/content/dam/myif/sk-frankfurt/work/bilder/nbf-logos/logo_weiss.svg)     | Text     | Text     |
