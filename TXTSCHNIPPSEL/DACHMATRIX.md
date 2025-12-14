@@ -9,4 +9,8 @@ Bayern (Freistaat Bayern)
 Sachsen (Freistaat Sachsen)
 Thüringen (Freistaat Thüringen) 
 
- 
+
+
+
+ <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png
+ " alt="Flagge" width="200" height="150">
