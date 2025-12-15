@@ -117,17 +117,14 @@ Die Formel lautet E = mc<sup>2</sup>
 x<sup>a+b</sup> = x<sup>a</sup> * x<sup>b</sup>
 
 Die chemische Formel für THC ist C<sub>21</sub>H<sub>30</sub>O<sub>2</sub>.
-
-Die chemische Formel für THC ist C<sub>21</sub>H<sub>30</sub>O<sub>2</sub>.
 *   THC ist der Hauptwirkstoff in Cannabis 🌱
 *   Es hat psychoaktive Effekte 🥴
 *   Die Rechtslage ist kompliziert ⚖️
 
-Die chemische Formel für Adrenochrom ist 
 
 
 <details>
-  <summary>KDie chemische Formel für Adrenochrom ist?</summary>
+  <summary>Die chemische Formel für Adrenochrom ist?</summary>
 C<sub>9</sub>H<sub>9</sub>NO<sub>3</sub>.
   *   Adrenochrom ist ein reales, im Körper vorkommendes Molekül 🧪
   *   Es wird in einigen populären, aber falschen Theorien thematisiert 👽
