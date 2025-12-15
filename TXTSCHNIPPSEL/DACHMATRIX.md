@@ -102,12 +102,12 @@ ACHTUNG: Biologische Gefahr &#9763; Zone betreten verboten!
 
 
 Beschreibung
-	Zeichen	HTML-Code
-Biohazard (Biogefährdung)	☣️	&#9763;
-Strahlung (Radioaktivität)	☢️	&#9762;
-Totenkopf (Gift/Gefahr)	☠️	&#9760;
-Warnsymbol allgemein	⚠️	&#9888;
-Blitz (Hochspannung)	⚡️	&#9889;
-Achtung/Vorsicht (Dreieck)	triangle	&#9651;
-Rauch/Feuer (Flamme)	🔥	&#128293;
-Verboten-Symbol	🚫	&#128683;
+	
+* Biohazard (Biogefährdung)	☣️ als	HTML-Code	&#9763;
+* Strahlung (Radioaktivität)	☢️	als	HTML-Code &#9762;
+* Totenkopf (Gift/Gefahr)	☠️ als	HTML-Code	&#9760;
+* Warnsymbol allgemein	⚠️ als	HTML-Code	&#9888;
+* Blitz (Hochspannung)	⚡️als	HTML-Code	&#9889;
+* Achtung/Vorsicht (Dreieck) als	HTML-Code	triangle	&#9651;
+* Rauch/Feuer (Flamme)	🔥als	HTML-Code &#128293;
+* Verboten-Symbol	🚫	als	HTML-Code&#128683;
