@@ -80,3 +80,11 @@ Check: ✔︎ oder ✅
 :arrow_up: ↑
 :arrow_down: ↓
 :point_right: 👉
+
+*   **Stoppschild:** 🛑
+*   **Vorfahrt achten:**  треугольник (simuliert ein umgedrehtes Dreieck, oft aber nicht als Emoji verfügbar)
+*   **Geschwindigkeitsbegrenzung:** 5️⃣0️⃣ (Zahlen-Emojis in Kombination)
+*   **Baustelle:** 🚧
+*   **Verbotene Einfahrt:** ⛔️
+*   **Parken verboten:** 🚫🅿️ (Kombination aus Verbots- und Park-Emoji)
+*   **Ampel:** 🚦
