@@ -126,6 +126,7 @@ Die chemische Formel für THC ist C<sub>21</sub>H<sub>30</sub>O<sub>2</sub>.
 <details>
   <summary>Die chemische Formel für Adrenochrom ist?</summary>
 C<sub>9</sub>H<sub>9</sub>NO<sub>3</sub>.
+
   *   Adrenochrom ist ein reales, im Körper vorkommendes Molekül 🧪
   *   Es wird in einigen populären, aber falschen Theorien thematisiert 👽
   *   Es hat keine der zugeschriebenen mystischen Wirkungen 🚫
