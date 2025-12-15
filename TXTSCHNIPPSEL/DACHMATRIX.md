@@ -56,3 +56,27 @@ Lage 	Kleines Wappen 	(Mittleres) Wappen 	Großes Wappen 	Landesflagge 	Dienstfl
 :thumbsup:
 :warning:
 :germany:
+
+
+Ich mag Kaffee ☕️ sehr gerne!
+Das Wetter ist super ☀️ heute.
+Viel Glück! 🍀
+Hier ist eine Liste:
+*   Artikel eins ✅
+*   Artikel zwei ❌
+
+Gehe nach rechts: →
+Gehe nach links: ←
+Gehe nach oben: ↑
+Gehe nach unten: ↓
+Doppelpfeil: ↔︎
+
+Langer Rechtspfeil: ⇒
+Langer Linkspfeil: ⇐
+Check: ✔︎ oder ✅
+
+:arrow_right: →
+:arrow_left: ←
+:arrow_up: ↑
+:arrow_down: ↓
+:point_right: 👉
