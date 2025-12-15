@@ -47,6 +47,3 @@
 
 [wappenquelle](https://de.wikipedia.org/wiki/Flaggen_und_Wappen_der_L%C3%A4nder_der_Bundesrepublik_Deutschland)
 Lage 	Kleines Wappen 	(Mittleres) Wappen 	Großes Wappen 	Landesflagge 	Dienstflagge 	Bundesland 	Weiterführende Artikel 
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg/60px-Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg.png
