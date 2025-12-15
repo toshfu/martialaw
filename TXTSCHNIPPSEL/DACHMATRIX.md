@@ -111,7 +111,7 @@ auch brauchbar
 
 Copyright &copy; 2025. Alle Rechte reserviert.
 Das Produkt ist ein eingetragenes Markenzeichen &reg; der Firma Acme Corp.
-Kontaktieren Sie uns unter info&commat;acme.com. toshfu&trade;
+Kontaktieren Sie uns unter toshfu&commat;116.2.2.land.nrw. toshfu&trade;
 
 Die Formel lautet E = mc<sup>2</sup>
 x<sup>a+b</sup> = x<sup>a</sup> * x<sup>b</sup>
