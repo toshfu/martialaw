@@ -109,9 +109,7 @@ auch brauchbar
 * Rauch/Feuer (Flamme)	🔥als	HTML-Code &#128293;
 * Verboten-Symbol	🚫	als	HTML-Code&#128683;
 
-Copyright &copy; 2025. Alle Rechte reserviert.
-Das Produkt ist ein eingetragenes Markenzeichen &reg; der Firma Acme Corp.
-Kontaktieren Sie uns unter toshfu&commat;116.2.2.land.nrw. toshfu&trade;
+
 
 Die Formel lautet E = mc<sup>2</sup>
 x<sup>a+b</sup> = x<sup>a</sup> * x<sup>b</sup>
@@ -131,3 +129,7 @@ C<sub>9</sub>H<sub>9</sub>NO<sub>3</sub>.
   *   Es wird in einigen populären, aber falschen Theorien thematisiert 👽
   *   Es hat keine der zugeschriebenen mystischen Wirkungen 🚫
 </details>
+
+Copyright &copy; 2025. Alle Rechte reserviert.
+Das Produkt ist ein eingetragenes Markenzeichen &reg; der Firma Acme Corp.
+Kontaktieren Sie uns unter toshfu&commat;116.2.2.land.nrw. toshfu&trade;
