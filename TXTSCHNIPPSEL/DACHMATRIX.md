@@ -88,3 +88,10 @@ Check: ✔︎ oder ✅
 *   **Verbotene Einfahrt:** ⛔️
 *   **Parken verboten:** 🚫🅿️ (Kombination aus Verbots- und Park-Emoji)
 *   **Ampel:** 🚦
+
+<details>
+  <summary>Klicken Sie hier, um den versteckten Inhalt zu sehen</summary>
+
+  Dies ist der Inhalt, der erst nach dem Klick erscheint.
+  Er kann Listen oder anderen Markdown enthalten.
+</details>
