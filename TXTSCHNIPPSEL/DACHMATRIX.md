@@ -111,4 +111,4 @@ auch brauchbar
 
 Copyright &copy; 2025. Alle Rechte reserviert.
 Das Produkt ist ein eingetragenes Markenzeichen &reg; der Firma Acme Corp.
-Kontaktieren Sie uns unter info&commat;acme.com. toshfu&trade
+Kontaktieren Sie uns unter info&commat;acme.com. toshfu&trade;
