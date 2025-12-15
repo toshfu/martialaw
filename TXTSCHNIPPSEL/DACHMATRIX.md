@@ -135,9 +135,3 @@ C<sub>9</sub>H<sub>9</sub>NO<sub>3</sub>.
 Copyright &copy; 2025. Alle Rechte reserviert.
 Das Produkt ist ein eingetragenes Markenzeichen &reg; der Firma Acme Corp.
 Kontaktieren Sie uns unter toshfu&commat;116.2.2.land.nrw. toshfu&trade;
-
-">
-  <img src="github.githubassets.com" alt="Mein GitHub Profil" width="40"/>
-</a>
-
-Hier ist mein Repo: :github: 
