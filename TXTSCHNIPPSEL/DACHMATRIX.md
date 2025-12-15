@@ -44,10 +44,12 @@
 | Text     | Text     | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 
+<!-- Dieser Text ist unsichtbar und nur im Quellcode zu sehen -->
 
 [wappenquelle](https://de.wikipedia.org/wiki/Flaggen_und_Wappen_der_L%C3%A4nder_der_Bundesrepublik_Deutschland)
 Lage 	Kleines Wappen 	(Mittleres) Wappen 	Großes Wappen 	Landesflagge 	Dienstflagge 	Bundesland 	Weiterführende Artikel 
 
+<!-- Spielereien -->
 
 :smile:
 :laughing:
@@ -95,3 +97,17 @@ Check: ✔︎ oder ✅
   Dies ist der Inhalt, der erst nach dem Klick erscheint.
   Er kann Listen oder anderen Markdown enthalten.
 </details>
+
+ACHTUNG: Biologische Gefahr &#9763; Zone betreten verboten!
+
+
+Beschreibung
+	Zeichen	HTML-Code
+Biohazard (Biogefährdung)	☣️	&#9763;
+Strahlung (Radioaktivität)	☢️	&#9762;
+Totenkopf (Gift/Gefahr)	☠️	&#9760;
+Warnsymbol allgemein	⚠️	&#9888;
+Blitz (Hochspannung)	⚡️	&#9889;
+Achtung/Vorsicht (Dreieck)	triangle	&#9651;
+Rauch/Feuer (Flamme)	🔥	&#128293;
+Verboten-Symbol	🚫	&#128683;
