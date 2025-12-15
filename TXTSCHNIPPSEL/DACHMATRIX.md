@@ -93,16 +93,13 @@ Check: ✔︎ oder ✅
 
 <details>
   <summary>Klicken Sie hier, um den versteckten Inhalt zu sehen</summary>
-
-  Dies ist der Inhalt, der erst nach dem Klick erscheint.
-  Er kann Listen oder anderen Markdown enthalten.
+  ACHTUNG: Biologische Gefahr &#9763; Zone betreten verboten!
 </details>
 
-ACHTUNG: Biologische Gefahr &#9763; Zone betreten verboten!
 
 
-Beschreibung
-	
+auch brauchbar
+
 * Biohazard (Biogefährdung)	☣️ als	HTML-Code	&#9763;
 * Strahlung (Radioaktivität)	☢️	als	HTML-Code &#9762;
 * Totenkopf (Gift/Gefahr)	☠️ als	HTML-Code	&#9760;
@@ -111,3 +108,7 @@ Beschreibung
 * Achtung/Vorsicht (Dreieck) als	HTML-Code	triangle	&#9651;
 * Rauch/Feuer (Flamme)	🔥als	HTML-Code &#128293;
 * Verboten-Symbol	🚫	als	HTML-Code&#128683;
+
+Copyright &copy; 2025. Alle Rechte reserviert.
+Das Produkt ist ein eingetragenes Markenzeichen &reg; der Firma Acme Corp.
+Kontaktieren Sie uns unter info&commat;acme.com.
