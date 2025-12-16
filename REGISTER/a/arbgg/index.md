@@ -31,7 +31,7 @@ Zuletzt geändert durch
 :   Art. 27 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 37 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 38 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
