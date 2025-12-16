@@ -967,11 +967,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   2
 
 
-*    *
-    *
-    *
-    *
-    *
+
 
 *    *   **II. Berufliche Fachbildung - 2. Ausbildungsjahr -**
 
