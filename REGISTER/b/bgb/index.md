@@ -19,10 +19,10 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 17.7.2025 I Nr. 163
+:   Art. 1 G v. 10.12.2025 I Nr. 320
 
 Mittelbare änderung durch
-:   Art. 33 G vom 8.12.2025 I Nr. 319 mWv 1.1.2028 noch nicht berücksichtigt
+:   Art. 33 G v. 8.12.2025 I Nr. 319 mWv 1.1.2028 noch nicht berücksichtigt
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
