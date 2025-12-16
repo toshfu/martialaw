@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 20 G v. 8.12.2025 I Nr. 318 mWv 12.12.2025 bzw. 1.1.2026 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 6 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
