@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1042
 
+Änderung durch
+:   Art. 9 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Anwendungsbereich
 
