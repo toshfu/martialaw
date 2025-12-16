@@ -19,3 +19,7 @@ Die Reise startet von Punkt a und endet bei b. Soll niemand sagen, es waren nich
 #### Fehler in der Software
 
   *  github.com leckt ....
+
+##### Projektsoftware
+
+[kiwik](https://github.com/kiwix/kiwix-deskto)
