@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 21.12.2021 II 1282
 
+Änderung durch
+:   Art. 7 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
