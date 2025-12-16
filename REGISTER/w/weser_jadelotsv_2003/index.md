@@ -17,10 +17,7 @@ Fundstelle
 :   BAnz: 2003, Nr 41, 3703 (21401)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.8.2024 I Nr. 263
-
-Änderung durch
-:   Art. 1 V v. 28.11.2025 I Nr. 296 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 28.11.2025 I Nr. 296
 
 
 ## Eingangsformel
