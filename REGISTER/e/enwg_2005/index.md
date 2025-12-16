@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 17 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 8.12.2025 I Nr. 317 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 1 G v. 8.12.2025 I Nr. 317 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
@@ -9638,6 +9638,79 @@ abweichend von § 20 Absatz 1 berechtigt, auf dieser Grundlage ihre
 Netzentgelte zu demselben Datum anzupassen.
 
 
+#### § 24c Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten; Festlegungskompetenz
+
+(1) Die Übertragungsnetzbetreiber mit Regelzonenverantwortung haben im
+Kalenderjahr 2026 einen Anspruch gegen die Bundesrepublik Deutschland
+auf Zahlung eines Zuschusses in Höhe von insgesamt 6,5 Milliarden
+Euro. Der Zuschuss dient der anteiligen Deckung der Netzkosten der
+Übertragungsnetzbetreiber mit Regelzonenverantwortung im Kalenderjahr
+2026 und wird jeweils in zehn gleichen Raten gezahlt. Zu diesem Zweck
+erhalten die Übertragungsnetzbetreiber mit Regelzonenverantwortung den
+nach Absatz 2 für sie berechneten Anteil an dem Zuschuss nach Maßgabe
+des Satzes 4. Die Zahlung an einen Übertragungsnetzbetreiber mit
+Regelzonenverantwortung erfolgt im Kalenderjahr 2026 auf dessen
+Anforderung jeweils zum 15. eines Kalendermonats, beginnend mit dem
+15\. Februar und endend mit dem 15. November des Kalenderjahres 2026,
+in Höhe seines Anteils nach Absatz 2 an dem Gesamtbetrag von 650
+Millionen Euro. § 20 Absatz 1 Satz 1 bleibt unberührt.
+
+(2) Die Aufteilung der monatlichen Raten auf die
+Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgt
+entsprechend dem jeweiligen Anteil ihrer Erlösobergrenze im
+Kalenderjahr 2026 an der Summe der Erlösobergrenzen aller
+Übertragungsnetzbetreiber mit Regelzonenverantwortung. Bei der
+Aufteilung ist in zeitlicher Hinsicht jeweils auf die Erlösobergrenzen
+abzustellen, die der Veröffentlichung der Übertragungsnetzentgelte für
+das Kalenderjahr 2026 nach § 20 Absatz 1 Satz 1 zugrunde liegen. Die
+Anforderungen durch einen Übertragungsnetzbetreiber mit
+Regelzonenverantwortung nach Absatz 1 Satz 4 und die Zahlung der Raten
+an den Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgen
+entsprechend diesem Verhältnis.
+
+(3) Die Übertragungsnetzbetreiber mit Regelzonenverantwortung haben
+den Zuschuss nach Absatz 1 Satz 1 bei der Ermittlung der
+bundeseinheitlichen Übertragungsnetzentgelte, die auf Grundlage von §
+24 und der Stromnetzentgeltverordnung vom 25. Juli 2005 (BGBl. I S.
+2225), die zuletzt durch Artikel 3 des Gesetzes vom 22. Dezember 2023
+(BGBl. 2023 I Nr. 405) geändert worden ist, erfolgt, für das
+Kalenderjahr 2026 rechnerisch von dem Gesamtbetrag der in die
+Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte
+einfließenden Erlösobergrenzen abzuziehen und zur Minderung der
+Netzentgelte entsprechend einzusetzen. Die Bundesnetzagentur ist
+berechtigt, durch Festlegung nach § 29 Absatz 1 nähere Vorgaben zur
+Berücksichtigung des Zuschusses bei der Ermittlung der
+bundeseinheitlichen Übertragungsnetzentgelte zu machen.
+
+(4) Nähere Bestimmungen zu den Zahlungen der Bundesrepublik
+Deutschland nach den Absätzen 1 und 2 sind in einem öffentlich-
+rechtlichen Vertrag zwischen den Übertragungsnetzbetreibern mit
+Regelzonenverantwortung und der Bundesrepublik Deutschland zu regeln.
+Die Bundesrepublik Deutschland wird bei dem Vertrag durch das
+Bundesministerium für Wirtschaft und Energie vertreten. Der Vertrag
+bedarf des Einvernehmens mit dem Bundesministerium der Finanzen. Er
+kann insbesondere nähere Bestimmungen zu der Aufteilung der Mittel
+zwischen den Übertragungsnetzbetreibern mit Regelzonenverantwortung
+enthalten.
+
+(5) Wenn eine Zahlung nach Absatz 1 Satz 4 nicht erfolgt oder aus
+rechtlichen Gründen nicht möglich ist, sind die
+Übertragungsnetzbetreiber mit Regelzonenverantwortung abweichend von §
+20 Absatz 1 Satz 1 berechtigt, ihre Netzentgelte im Kalenderjahr 2026
+einmalig unterjährig zum ersten Tag eines Monats anzupassen. Die
+Entscheidung zur Anpassung der Übertragungsnetzentgelte ist von allen
+Übertragungsnetzbetreibern mit Regelzonenverantwortung gemeinsam zu
+treffen. Die beabsichtigte Anpassung ist sechs Wochen vor ihrem
+Wirksamwerden der Bundesnetzagentur mitzuteilen und auf der
+gemeinsamen Internetseite der Übertragungsnetzbetreiber mit
+Regelzonenverantwortung zu veröffentlichen. Sofern die
+Übertragungsnetzbetreiber mit Regelzonenverantwortung das Recht nach
+Satz 1 zur einmaligen unterjährigen Anpassung ihrer Netzentgelte
+nutzen, sind auch die Betreiber von Elektrizitätsverteilernetzen
+abweichend von § 20 Absatz 1 Satz 1 berechtigt, auf dieser Grundlage
+ihre Netzentgelte zu demselben Datum anzupassen.
+
+
 #### § 25 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen
 
 Die Gewährung des Zugangs zu den Gasversorgungsnetzen ist im Sinne des
@@ -12569,9 +12642,9 @@ Anpassung der vertraglichen Leistungen vor.
 Minderbelastungen, die sich aus einer gesetzlichen Änderung der
 geltenden Umsatzsteuersätze ergeben sowie bei unveränderter Weitergabe
 von Minderbelastungen aufgrund einer Absenkung des Saldos der
-Kalkulationsbestandteile nach § 40 Absatz 3 Nummer 3 oder Nummer 5,
-bedarf es keiner Unterrichtung nach Absatz 5 Satz 1 und 2; dabei
-entsteht kein außerordentliches Kündigungsrecht nach Absatz 5 Satz 4.
+Kalkulationsbestandteile nach § 40 Absatz 3 Nummer 1 bis 5, bedarf es
+keiner Unterrichtung nach Absatz 5 Satz 1 und 2; dabei entsteht kein
+außerordentliches Kündigungsrecht nach Absatz 5 Satz 4.
 
 (7) Stromlieferverträge dürfen keine vertraglichen Regelungen
 enthalten, die dem Letztverbraucher den Erwerb oder die Veräußerung
@@ -20061,7 +20134,33 @@ deren Bekanntgabe überwiegt.
 
 (4) (weggefallen)
 
-(5) (weggefallen)
+(5) Jeder Stromlieferant, der Letztverbraucher im Rahmen von Verträgen
+außerhalb der Grundversorgung nach § 41 Absatz 5 Satz 1 beliefert, ist
+verpflichtet, einen Saldo der Belastungen nach § 40 Absatz 3 Nummer 1
+bis 4 zu bilden, die in die Kalkulation des jeweiligen Strompreises
+eingeflossen sind. Sinkt der Saldo der Belastungen nach § 40 Absatz 3
+Nummer 1 bis 4, ist der Stromlieferant verpflichtet, den gesunkenen
+Saldo in das Ergebnis der Kalkulation einfließen zu lassen und im
+Rahmen der nächsten vertraglichen Preisanpassung zu berücksichtigen. §
+41 Absatz 6 ist anzuwenden.
+
+(5a) Betreiber von Übertragungsnetzen mit Regelzonenverantwortung sind
+einmalig für das Kalenderjahr 2026 verpflichtet, auf ihrer
+Internetseite neben dem unter Berücksichtigung des Zuschusses nach §
+24c kalkulierten bundeseinheitlichen Übertragungsnetzentgelt auch das
+ohne Berücksichtigung des Zuschusses nach § 24c kalkulierte
+bundeseinheitliche Übertragungsnetzentgelt zu veröffentlichen.
+Betreiber von Elektrizitätsverteilernetzen sind einmalig für das
+Kalenderjahr 2026 verpflichtet, auf ihrer Internetseite für typisierte
+Abnahmefälle neben dem Netzentgelt, das sich unter Berücksichtigung
+des reduzierten Übertragungsnetzentgelts nach Satz 1 ergibt, auch ein
+fiktives Netzentgelt zu veröffentlichen, wie es sich ohne
+Berücksichtigung des reduzierten Übertragungsnetzentgelts nach Satz 1
+ergäbe. Stromlieferanten sind einmalig für das Kalenderjahr 2026
+verpflichtet, die von ihnen belieferten Letztverbraucher mit der
+Rechnung auf den Zuschuss nach § 24c sowie auf die Veröffentlichung
+des Betreibers von Elektrizitätsverteilernetzen nach Satz 2
+hinzuweisen.
 
 (6) Nach dem 31. Dezember 2008 neu errichtete Anlagen zur Speicherung
 elektrischer Energie, die ab 4. August 2011, innerhalb von 18 Jahren
