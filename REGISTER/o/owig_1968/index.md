@@ -22,22 +22,22 @@ Zuletzt geändert durch
 :   Art. 15 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
-:   Art 9 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 9 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
 
 Änderung durch
-:   Art 10 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 10 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
 
 Änderung durch
-:   Art 11 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
+:   Art. 11 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
 
 Änderung durch
-:   Art 12 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
+:   Art. 12 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
 
 Mittelbare änderung durch
-:   Art 37 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Mittelbare änderung durch
-:   Art 38 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 bzw. 1.1.2036 noch nicht berücksichtigt
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Erster Teil - Allgemeine Vorschriften
