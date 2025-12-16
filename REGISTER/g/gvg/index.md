@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
 
+Mittelbare änderung durch
+:   Art. 39 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
 
 ## Erster Titel - Gerichtsbarkeit
 
