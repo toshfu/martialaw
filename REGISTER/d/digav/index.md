@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 768
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.3.2024 I Nr. 101
-
-Änderung durch
-:   Art. 22 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 2.12.2025 I Nr. 301
 
 
 ## Eingangsformel
