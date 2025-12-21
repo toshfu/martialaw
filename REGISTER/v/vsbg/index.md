@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 16 G v. 8.10.2023 I Nr. 272
 
 Änderung durch
-:   Art. 16 G v. 8.12.2025 I Nr. 318 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 16 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -981,7 +981,7 @@ Zentralen Anlaufstelle für Verbraucherschlichtung unverzüglich
 mitzuteilen.
 
 
-### § 33 Liste der Verbraucherschlichtungsstellen sowie Zugang zur Liste der Europäischen Kommission und zur Europäischen Plattform zur Online-Streitbeilegung
+### § 33 Liste der Verbraucherschlichtungsstellen sowie Zugang zur Liste der Europäischen Kommission
 
 (1) Die Zentrale Anlaufstelle für Verbraucherschlichtung führt eine
 Liste der Verbraucherschlichtungsstellen. Diese Liste wird der
@@ -1116,42 +1116,26 @@ die außergerichtliche Beilegung vergleichbarer Streitigkeiten
 zuständig sind.
 
 
-### § 39 Zusammenarbeit mit der Europäischen Plattform zur Online-Streitbeilegung
-
-Die Verbraucherschlichtungsstelle ist Stelle für alternative
-Streitbeilegung im Sinne der Verordnung (EU) Nr. 524/2013 des
-Europäischen Parlaments und des Rates vom 21. Mai 2013 über die
-Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur
-Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie
-2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1).
-
-
-### § 40 Unterstützung von Verbrauchern bei grenzübergreifenden Streitigkeiten; Kontaktstelle für die Europäische Plattform zur Online-Streitbeilegung
-
-(1) Das Bundesamt für Justiz
-
-1.  unterstützt Verbraucher bei der Ermittlung der zuständigen
-    Streitbeilegungsstelle in einem anderen Mitgliedstaat der Europäischen
-    Union oder in einem sonstigen Vertragsstaat des Abkommens über den
-    Europäischen Wirtschaftsraum,
-
-
-2.  erfüllt die Aufgaben der Kontaktstelle für die Europäische Plattform
-    zur Online-Streitbeilegung nach Artikel 7 Absatz 2 und 4 der
-    Verordnung (EU) Nr. 524/2013.
+### § 39 (weggefallen)
 
 
 
+### § 40 Unterstützung von Verbrauchern bei grenzübergreifenden Streitigkeiten
+
+(1) Das Bundesamt für Justiz unterstützt Verbraucher bei der
+Ermittlung der zuständigen Streitbeilegungsstelle in einem anderen
+Mitgliedstaat der Europäischen Union oder in einem sonstigen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum.
 
 (2) Das Bundesamt für Justiz wird ermächtigt, eine juristische Person
 des Privatrechts, eine rechtsfähige Personengesellschaft oder eine
-andere geeignete Stelle mit den Aufgaben nach Absatz 1 zu beleihen.
-Der Beliehene hat die notwendige Gewähr für die ordnungsgemäße
-Erfüllung der ihm übertragenen Aufgaben zu bieten. Er bietet die
-notwendige Gewähr, wenn
+andere geeignete Stelle mit der Aufgabe nach Absatz 1 zu beleihen. Der
+Beliehene hat die notwendige Gewähr für die ordnungsgemäße Erfüllung
+der ihm übertragenen Aufgabe zu bieten. Er bietet die notwendige
+Gewähr, wenn
 
-1.  er über die zur Erfüllung der ihm übertragenen Aufgaben notwendige
-    Ausstattung und Organisation verfügt, und
+1.  er über die zur Erfüllung der ihm übertragenen Aufgabe notwendige
+    Ausstattung und Organisation verfügt und
 
 
 2.  die Personen, die seine Geschäftsführung oder Vertretung wahrnehmen,
@@ -1162,8 +1146,8 @@ notwendige Gewähr, wenn
 Der Beliehene untersteht der Rechts- und Fachaufsicht des Bundesamts
 für Justiz.
 
-(3) Erfüllt der Beliehene die ihm nach Absatz 2 Satz 1 übertragenen
-Aufgaben nicht sachgerecht, so kann das Bundesamt für Justiz
+(3) Erfüllt der Beliehene die ihm nach Absatz 2 Satz 1 übertragene
+Aufgabe nicht sachgerecht, so kann das Bundesamt für Justiz
 unbeschadet des § 49 des Verwaltungsverfahrensgesetzes die Beleihung
 ohne Entschädigung beenden.
 
