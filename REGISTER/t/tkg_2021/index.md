@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 1 G v. 24.7.2025 I Nr. 181
-
-Änderung durch
-:   Art. 25 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 2.12.2025 I Nr. 301
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
