@@ -19,25 +19,13 @@ Neugefasst durch
 :   Bek. v. 19.2.1987 I 602;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 8.12.2025 I Nr. 318
-
-Änderung durch
-:   Art. 9 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 10 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 10 G v. 8.12.2025 I Nr. 319
 
 Änderung durch
 :   Art. 11 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 12 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -3153,6 +3141,24 @@ elektronischer Form weitergeführt werden. Die Rechtsverordnung der
 Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
 Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes-
 oder Landesministerien übertragen werden.
+
+(1d) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von Absatz 1 Satz 1 und 2 in der ab dem 1. Januar 2026 geltenden
+Fassung bis einschließlich 31. Dezember 2026 in Papierform angelegt
+sowie von anderer Stelle bis einschließlich 31. Dezember 2026
+übermittelte elektronische Akten in Papierform geführt oder
+weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder
+Behörden oder allgemein bestimmte Verfahren beschränkt werden; wird
+von dieser Möglichkeit Gebrauch gemacht, so kann in der
+Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
+die öffentlich bekanntzumachen ist, geregelt wird, in welchen
+Verfahren Akten in Papierform angelegt oder elektronisch übermittelte
+Akten in Papierform geführt oder weitergeführt werden. Die
+Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des
+Bundesrates. Die Bundesregierung und die Landesregierungen können die
+in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
+zuständigen Bundes- oder Landesministerien übertragen.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen jeweils
 für ihren Bereich durch Rechtsverordnung die für die elektronische
