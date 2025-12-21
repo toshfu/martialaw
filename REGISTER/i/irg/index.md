@@ -31,7 +31,7 @@ Zuletzt geändert durch
 :   Art. 24 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Erster Teil - Anwendungsbereich
