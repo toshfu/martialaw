@@ -34,7 +34,7 @@ Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
