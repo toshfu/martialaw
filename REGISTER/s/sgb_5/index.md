@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 9 G v. 30.9.2025 I Nr. 231
-
-Änderung durch
-:   Art. 21 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 2.12.2025 I Nr. 301
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
