@@ -16,7 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1597
 
+Ano aufgeh. durch
+:   § 8 Abs. 2 AnO 51-1-13-11 v. 12.12.2025 I Nr. 326 mWv 1.1.2026
+
 Stand: Ersetzt V 51-1-13-9 v. 25.4.2013 I 954 (SoldErnAnO 2013)
+Die ano wird ersetzt durch
+:   die AnO 51-1-13-11 v. 12.12.2025 I Nr. 326 (SoldErnAnO 2025)
+
 
 ## Eingangsformel
 
