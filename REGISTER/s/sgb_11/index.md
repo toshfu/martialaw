@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1015
 
 Zuletzt geändert durch
-:   Art. 4 G v. 30.5.2024 I Nr. 173
-
-Änderung durch
-:   Art. 24 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 G v. 2.12.2025 I Nr. 301
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
