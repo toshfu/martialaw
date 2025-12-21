@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 8 G v. 25.10.2024 I Nr. 332
 
 Änderung durch
-:   Art. 2 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 2 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
