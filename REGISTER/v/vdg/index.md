@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2745
 
-Geändert durch
-:   Art. 2 G v. 18.7.2017 I 2745
-
-Änderung durch
-:   Art. 28 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 28 G v. 2.12.2025 I Nr. 301
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -89,8 +86,6 @@ Fachgesetzen, insbesondere
 
 
 
-
-(3) (weggefallen)
 
 
 ### § 3 Verfahren über eine einheitliche Stelle
