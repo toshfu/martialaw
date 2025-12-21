@@ -5,6 +5,8 @@
 | Text     | **DEUTSCHLAND** | Deutschland und die Länder | Bundesrepublik Deutschland | Bundesrepublik | **BUNDESREPUBLIK DEUTSCHLAND** | **Bundesrepublik Deutschland** |
 | Text     | Freistaat Bayern     | Text     | Bundesländer, Freistaaten, Berlin     | freie und Hansestaedte     | BUNDESLÄNDER    | d e u t s c h e  L ä n d e r     |
 | Text     | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png)| ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png)     | Text     | ![Kennzeichen D](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/D_international_vehicle_registration_oval.svg/330px-D_international_vehicle_registration_oval.svg.png)     | Text     | Text     |
+| -------- | -------- | -------- | -------- | -------- | ![Kanzler](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2025-05-05_Unterzeichnung_des_Koalitionsvertrages_der_21._Wahlperiode_des_Bundestages_by_Sandro_Halank%E2%80%93076_%28cropped%29.jpg/250px-2025-05-05_Unterzeichnung_des_Koalitionsvertrages_der_21._Wahlperiode_des_Bundestages_by_Sandro_Halank%E2%80%93076_%28cropped%29.jpg) | -------- |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     | Text     | ![Flagge Hamburg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/250px-Flag_of_Hamburg.svg.png)     | Text     | Text     |
