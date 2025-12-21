@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4978
 
-Änderung durch
-:   Art. 9 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 9 G v. 2.12.2025 I Nr. 301
 
 
 ## Eingangsformel
