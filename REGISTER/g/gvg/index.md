@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 14 G v. 27.12.2024 I Nr. 438
 
 Änderung durch
-:   Art. 1 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 1 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 39 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
