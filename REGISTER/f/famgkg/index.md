@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 6 G v. 7.4.2025 I Nr. 109, Nr. 139
 
 Änderung durch
-:   Art. 12 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 12 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
