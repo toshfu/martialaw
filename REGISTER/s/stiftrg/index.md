@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2947, 2953
 
-Mittelbare änderung durch
-:   Art. 33 G vom 8.12.2025 I Nr. 319 mWv 1.1.2028 noch nicht berücksichtigt
+Geändert durch
+:   Art. 34 G v. 8.12.2025 I Nr. 319
 
-Änderung durch
-:   Art. 34 G vom 8.12.2025 I Nr. 319 mWv 1.1.2028 noch nicht berücksichtigt
+Mittelbare änderung durch
+:   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Abschnitt 1 - (zukünftig in Kraft)
