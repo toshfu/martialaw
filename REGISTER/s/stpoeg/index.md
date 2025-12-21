@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 12.7.2024 I Nr. 234
 
 Änderung durch
-:   Art. 6 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 6 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 2 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
@@ -31,7 +31,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 noch nicht berücksichtigt
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Eingangsformel
