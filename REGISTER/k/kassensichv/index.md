@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3515
 
 Geändert durch
-:   Art. 2 V v. 30.7.2021 I 3295
-
-Änderung durch
-:   Art. 15 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 2.12.2025 I Nr. 301
 
 [^BJNR351500017_01]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
