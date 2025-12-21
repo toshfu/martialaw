@@ -1073,7 +1073,6 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter
         Beachtung der Sicherheitsvorschriften bedienen
 
-    *
 
 *    *   5
 
