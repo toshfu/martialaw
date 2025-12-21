@@ -57,6 +57,9 @@ Reaktorsicherheit nach Anhörung der beteiligten Kreise:
     die für die Erbringung einer kritischen Dienstleistung notwendig sind,
 
 
+2.  (weggefallen)
+
+
 3.  Versorgungsgrad
 
     ein Wert, mittels dessen der Beitrag einer Anlage oder Teilen davon im
