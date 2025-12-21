@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 2231
 
 Zuletzt geändert durch
-:   Art. 74 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 7 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 2.12.2025 I Nr. 301
 
 [^F788048_01_BJNR223100014]:     Notifiziert gemäß der Richtlinie 98/34/EG des Europäischen Parlaments
     und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem
