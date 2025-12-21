@@ -6,6 +6,7 @@
 | Text     | Freistaat Bayern     | Text     | Bundesländer, Freistaaten, Berlin     | freie und Hansestaedte     | BUNDESLÄNDER    | d e u t s c h e  L ä n d e r     |
 | Text     | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png)| ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png)     | Text     | ![Kennzeichen D](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/D_international_vehicle_registration_oval.svg/330px-D_international_vehicle_registration_oval.svg.png)     | Text     | Text     |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     | Text     | ![Flagge Hamburg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/250px-Flag_of_Hamburg.svg.png)     | Text     | Text     |
 | Text     | Text     | Text     | Text     | ![Flagge Bremen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/250px-Flag_of_Bremen.svg.png)     | Text     | Text     |
 | -------- | -------- | -------- | Bundesländer | -------- | BUNDESLÄNDER | L ä n d e r |
