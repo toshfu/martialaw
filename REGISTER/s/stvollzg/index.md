@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 17.7.2025 I Nr. 163
 
 Änderung durch
-:   Art. 5 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 5 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 6 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
@@ -2139,6 +2139,22 @@ Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
 wird, in welchen Verfahren Akten in elektronischer Form weitergeführt
 werden. Die Ermächtigung kann durch Rechtsverordnung auf die
 zuständigen Landesministerien übertragen werden.
+
+(1d) Die Landesregierungen können jeweils für ihren Bereich durch
+Rechtsverordnung bestimmen, dass Akten abweichend von Absatz 1 Satz 1
+und 2 in der ab dem 1. Januar 2026 geltenden Fassung bis
+einschließlich 31. Dezember 2026 in Papierform angelegt sowie von
+anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte
+elektronische Akten in Papierform geführt oder weitergeführt werden.
+Die Bestimmung kann auf einzelne Gerichte oder allgemein bestimmte
+Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren Akten in Papierform angelegt oder
+elektronisch übermittelte Akten in Papierform geführt oder
+weitergeführt werden. Die Landesregierungen können die in Satz 1
+genannte Ermächtigung durch Rechtsverordnung auf die zuständigen
+Landesministerien übertragen.
 
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung die für die
 elektronische Aktenführung geltenden organisatorischen und dem Stand
