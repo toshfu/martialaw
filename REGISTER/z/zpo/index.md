@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 1 G v. 24.10.2024 I Nr. 328
 
 Änderung durch
-:   Art. 3 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 bzw. 1.7.2026 noch nicht berücksichtigt
+:   Art. 3 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 14 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 14 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 8 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
