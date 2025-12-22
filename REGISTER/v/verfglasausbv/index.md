@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 864
 
+V aufgeh. durch
+:   § 10 idF d. Art. 2 V v. 16.12.2025 I Nr. 336 mWv 1.8.2026
+
+Ersetzt durch
+:   V 806-22-1-165 v. 16.12.2025 I Nr. 336 (VerfGlasAusbV 2026)
+
 
 
 ## Eingangsformel
@@ -379,9 +385,9 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten
+## § 10 Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2000 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 (zu § 4)
 
