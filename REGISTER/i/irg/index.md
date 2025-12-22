@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 21 G v. 12.7.2024 I Nr. 234
 
 Änderung durch
-:   Art. 22 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 22 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 23 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
