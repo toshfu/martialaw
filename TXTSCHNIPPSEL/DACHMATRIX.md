@@ -1,26 +1,26 @@
 
-Das gesamtdeutsche Dach 1825-2026
-
+Das gesamtdeutsche Dach 1825-2026 
 |  BUND UND LÄNDER  | UN - FEINDSTAAT    | UN - MITGLIED 133    | UN - MITGLIED 134     | BUNDESKANZLERAMT    | VÖLKERRECHTSSUBJEKT |  BUNDESDRUCKEREI     | WIRTSCHAFTSFREIE ZONE      |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| NAME   | DEUTSCHLAND| Deutschland | Bundesrepublik Deutschland | Bundesrepublik | **Deutschland**| **BUNDESREPUBLIK DEUTSCHLAND** | **Bundesrepublik Deutschland** |
+| NAME   | DEUTSCHLAND| Deutschland | Bundesrepublik Deutschland | Bundesrepublik | **D e u t s c h l a n d**| **BUNDESREPUBLIK DEUTSCHLAND** | **Bundesrepublik Deutschland** |
 | STAATSANGEHÖRIGKEIT | GG Art. 116 Abs. 1 | GG Art. 116 Abs. 1 | GG Art. 116 Abs. 1 | GG Art. 116 Abs. 1 | GG Art. 116 | GG Art. 116 | GG Art. 116 Abs. 2 S. 2 |
+| BEZEICHNUNG | deutsche Volkszugehörige, Flüchtlinge und Vertriebene | deutsche mit deutscher Staatsangehörigkeit | deutsche ohne deutsche Staatsangehörigkeit, Statusdeutsche, ehemalige Deutsche | Deutscher, Deutsche | Rechtssubjekt | -------- | frühere deutsche Staatsangehörige, Staatsangehörigkeit in den deutschen Ländern |
+| STATUS | Schuldner | Treuhänder | Schuldner | Bundesverweser (Reichsverweser) | natürliche Person nach GBG § 1 | -------- | Gläubiger an Land |
+| PERSONENSTAND | Disarmed enemy forces (DEF) | Bürger | Wähler | Kanzler, Kanzleramtschef | -------- | Inhaber | Anwohner |
 | KENNZEICHEN | DEU | Deu | DE | D | D | BRD | -------- |
 | GRÜNDUNG | 1933-1945 | 1949| 1919 | 1871 | 1871 | 1949 | 1830-1918 |
-|   ANZAHL LÄNDER |  1   | 3 | 11     | 2   | 45 | 15    | 15   |
-|   xxx |  Freistaat Bayern   | Land Berlin, Baden-Württemberg, Mecklenburg-Vorpommern | 8 Bundesländer und 3 Freistaaten     | 2 Bundesstaaten   | Reichstagsgebäude, Bundesratsgebäude | 15 BUNDESLÄNDER ohne Berlin    | **15 deutsche Länder** ohne Berlin   |
-|GREMIUM | Innenminister Bayern | auswärtiges Amt | Verteidigungsministerium, Bundestag, Bundesrat| Bundeskanzleramt | Reichstag, Bundesrat | Bundesdruckerei | Gemeindeversammlung, Einwohnerantrag |
+| ANZAHL LÄNDER |  1   | 3 | 11     | 2   | 45 | 15    | 15   |
+| LÄNDER |  Freistaat Bayern   | Land Berlin, Baden-Württemberg, Mecklenburg-Vorpommern | 8 Bundesländer und 3 Freistaaten     | 2 Bundesstaaten   | Reichstagsgebäude, Bundesratsgebäude | 15 BUNDESLÄNDER ohne Berlin    | **15 deutsche Länder** ohne Berlin   |
+| GREMIUM | Innenministerium Bayern, Amtsgericht München Nachlassgericht | auswärtige Amt, Ländervertretungen beim Bund, Regierungsbezirke, Kreistag, Der Deutsche Landkreistag (DLT), Kommunalvertretung, Gemeinderat, Bürgermeister | Verteidigungsministerium, Bundestag, Bundesrat| Bundeskanzleramt, Bürgerschaft Bremen und Hamburg | Bundestag im Reichstag, Bundesrat, Länderkammer | Bundesdruckerei | Gemeindeversammlung, Einwohnerantrag |
 | RECHTSGEBIET | privates Seerecht | privates Seerecht  | privates Seerecht  | öffentliches Privatrecht | Personenrecht | öffentliches Seerecht | Landrecht |
 | RECHTSFORM | Einparteiensystem | geschlossene Gesellschaft | Mehrparteiensystem | geschlossene Gesellschaft | -------- | -------- | -------- |
 | RECHTSSTAND | juristische Person | juristische Person | juristische Person | juristische Person | natürliche Person | juristische Person | juristische Person |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| REGISTER | Geburtenregister | Grundbuch | Melderegister | Rentenregister |   | -------- | Geburtsregister, Liegenschaftsregister |
+| RECHTSGRUNDLAGE | Landesrecht, Erbrecht | Bundesrecht, Landesrecht | Landesrecht, Kommunalrecht, Kreisrecht | Der ewige Vertrag von 1871 zwischen dem Königreich Preußen und dem Vatikan, Freie und Hansestädte Bremen und Hamburg | BGB § 1 | -------- | Gemeindeordnung, Landesverfassungen |
 | -------- | Innenministerium | -------- | -------- | -------- | -------- | -------- | -------- |
 | Rechtsform | INLAND | Inland | Wirtschaftsgebiet | -------- | -------- | -------- | Ausland |
-| Rechtsform | Erbrecht | Länder | Kommune und Kreis | Freie und Hansestädte | BGB § 1 | -------- | Gemeinde |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Funktion | -------- | -------- | -------- | -------- | -------- | -------- | Friedensgebiet |
-| ID | Visum, Fiktionsbescheinigung, Aufenthaltstitel, nationale Geburtsurkunde | Dienstpass, Diplomatenausweis, nationale Geburtsurkunde, Sozialversicherung | Dienstpass, Diplomatenausweis, nationale Geburtsurkunde  | Dienstpass, Diplomatenausweis, nationale Geburtsurkunde | -------- | Personalausweis, Reisepass (rot), Reisepass (grün), nationale Geburtsurkunde | Reiseausweis für Ausländer, internationale Geburtsurkunde |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| FUNKTION | gesetzlicher Erbe des Nazi Vermögens, Herausgeber von Visum, Fiktionsbescheinigung | treudhänderische Grundstückverwaltung | -------- | -------- | internationales Völkerrechtssubjekt | Herausgeber von Ausweis und Pass | Friedensgebiet |
+| ID | Visum, Fiktionsbescheinigung, Aufenthaltstitel, nationale Geburtsurkunde | Dienstpass, Diplomatenausweis, nationale Geburtsurkunde | Dienstpass, Diplomatenausweis, nationale Geburtsurkunde  | Dienstpass, Diplomatenausweis, nationale Geburtsurkunde, Sozialversicherung | -------- | Personalausweis, Reisepass (rot), Reisepass (grün), nationale Geburtsurkunde | Reiseausweis für Ausländer, internationale Geburtsurkunde |
 | -------- | Innenminister | Außenminister | Verteidigungsminister| Kanzler | Reichstagspräsident, Bundesratspräsident |-------- | -------- |
 | Kennzeichnung    | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png)| ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png)     | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Germany_%28state%29.svg/250px-Flag_of_Germany_%28state%29.svg.png) | ![Kennzeichen D](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/D_international_vehicle_registration_oval.svg/330px-D_international_vehicle_registration_oval.svg.png)  |   | ![Flagge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1996/j1730_0020.jpg)   | Text     |
 | Flagge    | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/250px-Flag_of_Bavaria_%28lozengy%29.svg.png)| ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Germany_%28unoff%29.svg/960px-Flag_of_Germany_%28unoff%29.svg.png)     | ![Flagge](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Germany_%28state%29.svg/250px-Flag_of_Germany_%28state%29.svg.png) | ![Kennzeichen D](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/D_international_vehicle_registration_oval.svg/330px-D_international_vehicle_registration_oval.svg.png)  |   | ![Flagge](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1996/j1730_0020.jpg)   | Text     |
@@ -30,6 +30,7 @@ Das gesamtdeutsche Dach 1825-2026
 | TITEL   | Großdeutsches Reich| Deutschland | Deutsches Reich | Bundesrepublik | **Deutschland**| **BUNDESREPUBLIK DEUTSCHLAND** | **Bundesrepublik Deutschland** |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | geschichtlicher Hintergrund | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| histor. STAATSANGEHÖRIGKEIT | StAG 1934 | DDR-Bürgerschaft 1949 | StAG in den Freistaaten der WR | BuStAG 1870-1906, RuStAG 1914 | Staatsbürger/König im Einzelstaat Preußen (Königreich Preußen) | -------- | Staatsbürger der Einzelstaaten, Staatsangehörige in den deutschen Ländern |
 | Rechtsnachfolger von| Nazi-Deutschland | Deutsche Demokratische Republik DDR| Weimarer Republik | Deutsches Reich | Deutsches Kaiserreich | --------  | Deutscher Bund |
 | historischer Titel   | Großdeutsches Reich| Deutschland | Deutsches Reich | Deutsches Reich | Deutsches Kaiserreich| --------sa | Deutscher Bund |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
