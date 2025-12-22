@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 6 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 3 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
@@ -383,20 +383,24 @@ Strafprozessordnung in Papierform übermittelt werden. Die für die
 Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
 bleiben unberührt.
 
-(2) Die Bundesregierung und die Landesregierungen können abweichend
-von § 32 der Strafprozessordnung jeweils für ihren Bereich durch
-Rechtsverordnung bestimmen, dass Akten, die elektronisch angelegt
-wurden, ab einem bestimmten Ereignis bis zum 31. Dezember 2025 in
-Papierform weitergeführt werden. Die Zulassung der Weiterführung in
-Papierform kann auf einzelne Gerichte oder Strafverfolgungsbehörden
-oder auf allgemein bestimmte Verfahren beschränkt werden; wird von
-dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung
-bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
-elektronischer Form weitergeführt werden. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
-Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes-
-oder Landesministerien übertragen werden.
+(2) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 32 Absatz 1 Satz 1 und 2 der Strafprozessordnung in der ab dem
+1\. Januar 2026 geltenden Fassung bis einschließlich 31. Dezember 2026
+in Papierform angelegt sowie von anderer Stelle bis einschließlich 31.
+Dezember 2026 übermittelte elektronische Akten in Papierform geführt
+oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte
+oder Strafverfolgungsbehörden oder allgemein bestimmte gerichtliche
+Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren Akten in Papierform angelegt oder
+elektronisch übermittelte Akten in Papierform geführt oder
+weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
+nicht der Zustimmung des Bundesrates. Die Bundesregierung und die
+Landesregierungen können die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien
+übertragen.
 
 
 ## § 16 Übergangsregelung zum Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens
