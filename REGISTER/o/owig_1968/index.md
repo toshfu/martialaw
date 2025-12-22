@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.2.1987 I 602;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 8.12.2025 I Nr. 319
-
-Änderung durch
-:   Art. 11 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
+:   Art. 11 G v. 8.12.2025 I Nr. 319
 
 Änderung durch
 :   Art. 12 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
