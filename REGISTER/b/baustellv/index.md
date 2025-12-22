@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2022; 2023 I Nr. 1
 
+Änderung durch
+:   Art. 2 V v. 17.12.2025 I Nr. 337 mWv 20.12.2025 noch nicht berücksichtigt
+
 Diese Verordnung dient in Verbindung mit dem Arbeitsschutzgesetz
 der Umsetzung der EG-Richtlinie 92/57/EWG des Rates vom
 24\. Juni 1992 über die auf zeitlich begrenzte oder
