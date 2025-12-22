@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 24.10.2024 I Nr. 328
 
 Änderung durch
-:   Art. 25 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 25 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 26 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
@@ -3528,6 +3528,26 @@ weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
 nicht der Zustimmung des Bundesrates. Die Landesregierungen können die
 Ermächtigung durch Rechtsverordnung auf die für die
 Arbeitsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
+
+(5) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 46e Absatz 1 Satz 1 und Absatz 3 Satz 1 in der ab dem 1. Januar
+2026 geltenden Fassung bis einschließlich 31. Dezember 2026 in
+Papierform angelegt sowie von anderer Stelle bis einschließlich 31.
+Dezember 2026 übermittelte elektronische Akten in Papierform geführt
+oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte
+oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren Akten in Papierform angelegt oder
+elektronisch übermittelte Akten in Papierform geführt oder
+weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
+nicht der Zustimmung des Bundesrates. Die Bundesregierung kann die in
+Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
+zuständigen Bundesministerien übertragen. Die Landesregierungen können
+die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die für
+die Arbeitsgerichtsbarkeit zuständigen obersten Landesbehörden
+übertragen.
 
 
 ### § 113 Berichterstattung
