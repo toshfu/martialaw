@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 2317
 
 Zuletzt geändert durch
-:   Art. 20b G v. 28.3.2021 I 591
-
-Änderung durch
-:   Art. 11 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+:   Art. 11 G v. 10.12.2025 I Nr. 320
 
 
 ## Eingangsformel
