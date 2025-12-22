@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 2.12.2024 I Nr. 384
 
+Änderung durch
+:   Art. 1 V v. 17.12.2025 I Nr. 337 mWv 20.12.2025 noch nicht berücksichtigt
+
 [^F774705_01_BJNR164400010]:     Artikel 1 dieser Verordnung dient der Umsetzung folgender Richtlinien:
     –                                    Richtlinie 98/24/EG des Rates vom
     7\. April 1998 zum Schutz von Gesundheit und Sicherheit der
