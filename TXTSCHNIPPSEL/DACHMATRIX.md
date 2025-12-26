@@ -1,4 +1,3 @@
-
 Das gesamtdeutsche Dach 1825-2026 
 |  BUND UND LÄNDER  | UN - FEINDSTAAT xxx    | UN - MITGLIED 133    | UN - MITGLIED 134     | BUNDESKANZLERAMT    | VÖLKERRECHTSSUBJEKT |  BUNDESDRUCKEREI     | WIRTSCHAFTSFREIE ZONE      |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
