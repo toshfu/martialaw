@@ -21,8 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 16.10.2020 I 2184
 
-Mittelbare änderung durch
-:   Art. 2 G v. 16.10.2020 I 2184 ist berücksichtigt
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 342 ist berücksichtigt
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
