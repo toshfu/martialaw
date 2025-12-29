@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 37 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/16/EU des Rates
 vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden
 im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG
