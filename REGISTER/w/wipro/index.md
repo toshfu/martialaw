@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.11.1975 I 2803;
 
 Zuletzt geändert durch
-:   Art. 35 G v. 23.10.2024 I Nr. 323
+:   Art. 23 G v. 22.12.2025 I Nr. 349
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -3495,7 +3495,7 @@ Mitglieder.
 
 Diejenigen Mitglieder der Wirtschaftsprüferkammer, die über ein
 E-Mail-Postfach oder ein Postfach nach § 130a Absatz 4 Satz 1 Nummer
-2, 4 oder 5 der Zivilprozessordnung verfügen, haben deren Adressen der
+1, 3 oder 4 der Zivilprozessordnung verfügen, haben deren Adressen der
 Wirtschaftsprüferkammer zum Zwecke der elektronischen Kommunikation
 mitzuteilen, sofern dem keine wesentlichen Gründe entgegenstehen.
 
