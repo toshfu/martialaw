@@ -20,10 +20,10 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 18.12.2024 I Nr. 423
+:   Art. 4 G v. 22.12.2025 I Nr. 345
 
-Mittelbare änderung durch
-:   Art. 15 Nr. 3 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
@@ -8154,6 +8154,13 @@ Anpassung der Renten oder anderen Geldleistungen der
 Rentenversicherung nicht selbst durchführt, diese Daten aber für
 Auskünfte nach Absatz 1 oder 2 von anderen Sozialleistungsträgern oder
 diesen Gleichgestellten benötigt werden.
+
+(4) Ab dem in § 3 Absatz 1 des Postaufgabenüberleitungsgesetzes vom
+22\. Dezember 2025 (BGBl. 2025 I Nr. 345) genannten Zeitpunkt sind die
+Absätze 1 und 2 mit der Maßgabe anzuwenden, dass sie sich auch auf
+solche Sozialdaten beziehen, die dem Vorgängerunternehmen nach § 1
+Absatz 1 des Postaufgabenüberleitungsgesetzes in den in den Absätzen 1
+und 2 genannten Zusammenhängen bekannt geworden sind.
 
 
 #### § 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt
