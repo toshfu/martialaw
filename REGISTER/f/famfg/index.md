@@ -26,10 +26,10 @@ Zuletzt geändert durch
 :   Art. 18 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 19 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 19 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 20 G v. 8.12.2025 I Nr. 319 mWv 1.1.2027 noch nicht berücksichtigt
+:   Art. 20 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 21 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
