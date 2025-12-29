@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.12.2024 I Nr. 445
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## - - Allgemeines
 
