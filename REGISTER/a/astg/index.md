@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 353 mWv 1.7.2021 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+
 
 ## Erster Teil - Internationale Verflechtungen
 
