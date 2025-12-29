@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.2.1987 I 602;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 8.12.2025 I Nr. 319
-
-Änderung durch
-:   Art. 12 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
+:   Art. 21 G v. 22.12.2025 I Nr. 349
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -3200,7 +3197,7 @@ ohne Zustimmung des Bundesrates auf die zuständigen Bundesministerien
 
 Im Übrigen gelten die §§ 32a, 32b und 32d bis 32f der
 Strafprozessordnung sowie die auf der Grundlage des § 32a Absatz 2
-Satz 2 und Absatz 4 Satz 1 Nummer 6, des § 32b Absatz 5 und des § 32f
+Satz 2 und Absatz 4 Satz 1 Nummer 5, des § 32b Absatz 5 und des § 32f
 Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen
 entsprechend. Abweichend von § 32b Absatz 1 Satz 2 der
 Strafprozessordnung ist bei der automatisierten Herstellung eines zu
