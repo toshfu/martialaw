@@ -22,6 +22,9 @@ Zuletzt geändert durch
 :   Art. 6 G v. 5.12.2024 I Nr. 400
 
 Änderung durch
+:   Art. 7 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
 :   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
 
 
@@ -3200,21 +3203,21 @@ Mitteilung über den Abschluss der Untersuchung anfordern.
 genannten Mitteilungspflichtigen der Mitteilungspflicht nach den
 Absätzen 2 bis 5:
 
-1.  Großhändler im Sinne des § 3 Nummer 21 des Energiewirtschaftsgesetzes,
+1.  Großhändler im Sinne des § 3 Nummer 55 des Energiewirtschaftsgesetzes,
 
 
-2.  Energieversorgungsunternehmen im Sinne des § 3 Nummer 18 des
+2.  Energieversorgungsunternehmen im Sinne des § 3 Nummer 39 des
     Energiewirtschaftsgesetzes,
 
 
-3.  Betreiber von Energieanlagen im Sinne des § 3 Nummer 15 des
+3.  Betreiber von Energieanlagen im Sinne des § 3 Nummer 32 des
     Energiewirtschaftsgesetzes, ausgenommen Betreiber von Verteileranlagen
     der Letztverbraucher oder bei der Gasversorgung Betreiber der letzten
     Absperrvorrichtungen von Verbrauchsanlagen,
 
 
-4.  Kunden im Sinne des § 3 Nummer 24 des Energiewirtschaftsgesetzes,
-    ausgenommen Haushaltskunden im Sinne des § 3 Nummer 22 des
+4.  Kunden im Sinne des § 3 Nummer 64 des Energiewirtschaftsgesetzes,
+    ausgenommen Haushaltskunden im Sinne des § 3 Nummer 57 des
     Energiewirtschaftsgesetzes und
 
 
@@ -3413,7 +3416,7 @@ und Kategorien von Daten übermitteln:
 
 
 (5) Die Markttransparenzstelle kann festlegen, dass Betreiber von
-Übertragungsnetzen im Sinne des § 3 Nummer 10 des
+Übertragungsnetzen im Sinne des § 3 Nummer 16 des
 Energiewirtschaftsgesetzes Angaben zu den folgenden Daten und
 Kategorien von Daten übermitteln:
 
@@ -3472,7 +3475,7 @@ Kategorien von Daten übermitteln:
 
 
 (8) Die Markttransparenzstelle kann festlegen, dass Großhändler im
-Sinne des § 3 Nummer 21 des Energiewirtschaftsgesetzes, die mit Strom
+Sinne des § 3 Nummer 55 des Energiewirtschaftsgesetzes, die mit Strom
 handeln, Angaben zu den in § 47e Absatz 2 Nummer 1 genannten
 Transaktionen übermitteln, soweit diese Transaktionen nicht von Absatz
 7 erfasst sind. Beim Handel mit Strom aus erneuerbaren Energien kann
@@ -3482,7 +3485,7 @@ des Erneuerbare-Energien-Gesetzes sowie zu den danach gehandelten
 Strommengen übermitteln.
 
 (9) Die Markttransparenzstelle kann festlegen, dass Großhändler im
-Sinne des § 3 Nummer 21 des Energiewirtschaftsgesetzes, die mit Erdgas
+Sinne des § 3 Nummer 55 des Energiewirtschaftsgesetzes, die mit Erdgas
 handeln, Angaben zu den folgenden Daten und Kategorien von Daten
 übermitteln:
 
@@ -3503,7 +3506,7 @@ handeln, Angaben zu den folgenden Daten und Kategorien von Daten
 5.  die getätigten Transaktionen mit Großhandelskunden und
     Fernleitungsnetzbetreibern sowie mit Betreibern von Speicheranlagen
     und Anlagen für verflüssigtes Erdgas (LNG-Anlagen) im Rahmen von
-    Gasversorgungsverträgen und Energiederivate nach § 3 Nummer 15a des
+    Gasversorgungsverträgen und Energiederivate nach § 3 Nummer 33 des
     Energiewirtschaftsgesetzes, die auf Gas bezogen sind, einschließlich
     Laufzeit, Menge, Datum und Uhrzeit der Ausführung, Laufzeit-, Liefer-
     und Abrechnungsbestimmungen und Transaktionspreisen,
@@ -3522,7 +3525,7 @@ handeln, Angaben zu den folgenden Daten und Kategorien von Daten
 
 
 (10) Die Markttransparenzstelle kann festlegen, dass Betreiber von
-Fernleitungsnetzen im Sinne des § 3 Nummer 5 des
+Fernleitungsnetzen im Sinne des § 3 Nummer 11 des
 Energiewirtschaftsgesetzes Angaben zu folgenden Daten und Kategorien
 von Daten übermitteln:
 
@@ -3538,7 +3541,7 @@ von Daten übermitteln:
 
 
 (11) Die Markttransparenzstelle kann festlegen, dass
-Marktgebietsverantwortliche im Sinne des § 3 Nummer 26a des
+Marktgebietsverantwortliche im Sinne des § 3 Nummer 72 des
 Energiewirtschaftsgesetzes Angaben zu folgenden Daten und Kategorien
 von Daten übermitteln:
 
@@ -3606,7 +3609,7 @@ folgenden Stellen zusammen:
 
 2.  den Börsenaufsichtsbehörden sowie Handelsüberwachungsstellen
     derjenigen Börsen, an denen Elektrizität und Gas sowie Energiederivate
-    im Sinne des § 3 Nummer 15a des Energiewirtschaftsgesetzes gehandelt
+    im Sinne des § 3 Nummer 33 des Energiewirtschaftsgesetzes gehandelt
     werden,
 
 
@@ -3633,7 +3636,7 @@ Bundesministeriums für Wirtschaft und Energie
 Kooperationsvereinbarungen mit der Bundesanstalt für
 Finanzdienstleistungsaufsicht, den Börsenaufsichtsbehörden sowie
 Handelsüberwachungsstellen derjenigen Börsen, an denen Elektrizität
-und Gas sowie Energiederivate im Sinne des § 3 Nummer 15a des
+und Gas sowie Energiederivate im Sinne des § 3 Nummer 33 des
 Energiewirtschaftsgesetzes gehandelt werden, und der Agentur für die
 Zusammenarbeit der Energieregulierungsbehörden schließen.
 
