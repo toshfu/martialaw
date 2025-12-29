@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
 
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
 
