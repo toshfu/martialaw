@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -126,9 +129,9 @@ Sicherstellung von Arbeitsleistungen
     Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
 
 
-8.  bei der Deutschen Post AG und der Deutschen Telekom AG sowie bei
-    Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10
-    Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
+8.  bei der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel
+    12 des Postgesetzes oder Teil 10 Abschnitt 2 des
+    Telekommunikationsgesetzes verpflichtet sind,
 
 
 9.  bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten
