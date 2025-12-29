@@ -18,6 +18,18 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 23.1.2025 I Nr. 24
 
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Erster Teil - Einleitende Vorschriften
 
