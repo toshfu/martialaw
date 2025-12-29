@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
 ## Kapitel 1 - Allgemeine Regelungen
