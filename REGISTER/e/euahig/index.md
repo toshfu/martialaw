@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 31 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+
 [^BJNR180910013_01]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2011/16/EU des
     Rates vom 15. Februar 2011 über die Zusammenarbeit der
     Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der
