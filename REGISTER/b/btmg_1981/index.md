@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 4.8.2025 I Nr. 182
 
+Änderung durch
+:   Art. 1 V v. 19.12.2025 I Nr. 365 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Begriffsbestimmungen
 
