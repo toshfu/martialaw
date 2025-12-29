@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 303 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 16 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 
