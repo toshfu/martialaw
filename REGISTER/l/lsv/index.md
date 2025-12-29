@@ -17,11 +17,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 457
 
+V aufgeh. durch
+:   Art. 3 V v. 23.12.2025 I Nr. 367 mWv 1.1.2026
+
 Zuletzt geändert durch
 :   Art. 1 V v. 17.6.2023 I Nr. 156
 
 Mittelbare änderung durch
 :   Art. 2 V v. 17.6.2023 I Nr. 156 ist berücksichtigt
+
+Ersetzt durch
+:   V 752-6-35 v. 23.12.2025 I Nr. 367 (LSV 2026)
 
 [^F793381_01_BJNR045700016]:     Notifiziert gemäß der Richtlinie 98/34/EG des Europäischen Parlaments
     und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem
