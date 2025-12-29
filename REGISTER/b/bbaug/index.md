@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 3.11.2017 I 3634
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.10.2025 I Nr. 257
+:   Art. 3 G v. 18.12.2025 I Nr. 347
+
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F2415_BJNR003410960]:     Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 92/43/EWG des Rates
@@ -2506,7 +2509,7 @@ ist und wenn es
 
 5.  der Erforschung, Entwicklung oder Nutzung der Windenergie nach Maßgabe
     des § 249 oder der Erforschung, Entwicklung oder Nutzung der
-    Wasserenergie dient,
+    geothermischen Energie oder der Wasserenergie dient,
 
 
 6.  der energetischen Nutzung von Biomasse im Rahmen eines Betriebs nach
@@ -2560,7 +2563,7 @@ ist und wenn es
 
 
         und in einer Entfernung zu diesen von bis zu 200 Metern, gemessen vom
-        äußeren Rand der Fahrbahn, oder
+        äußeren Rand der Fahrbahn,
 
 
 
@@ -2578,7 +2581,43 @@ ist und wenn es
         Quadratmeter und
 
 
-    c)  es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben.
+    c)  es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben,
+
+
+
+
+
+10. der untertägigen Speicherung von Wärme dient und das Vorhaben in einem
+    räumlich-funktionalen Zusammenhang mit Wärmequellen und Wärmesenken
+    steht,
+
+
+11. der Speicherung von elektrischer Energie in einer
+    Batteriespeicheranlage dient und das Vorhaben in einem räumlich-
+    funktionalen Zusammenhang mit einer vorhandenen Anlage zur Nutzung
+    erneuerbarer Energien steht oder
+
+
+12. der Speicherung von elektrischer Energie in einer nicht unter Nummer
+    11 fallenden Batteriespeicheranlage dient, unter folgenden
+    Voraussetzungen:
+
+    a)  das Vorhaben steht in einer Entfernung von höchstens 200 Metern zu der
+        Grundstücksgrenze einer Umspannanlage von Höchstspannung zu
+        Hochspannung oder von Hochspannung zu Mittelspannung oder zu der
+        Grundstücksgrenze eines in Betrieb befindlichen oder aufgegebenen
+        Kraftwerks mit einer Nennleistung ab 50 Megawatt und
+
+
+    b)  die Batteriespeicheranlage verfügt über eine Nennleistung von
+        mindestens 4 Megawatt und
+
+
+    c)  die von allen nach dieser Nummer zugelassenen Batteriespeicheranlagen
+        einschließlich der zugehörigen Nebenanlagen und Freiflächen insgesamt
+        in Anspruch genommene Gesamtfläche in derselben Gemeinde überschreitet
+        nicht 0,5 Prozent der Gemeindefläche und beträgt höchstens 50 000
+        Quadratmeter.
 
 
 
@@ -2758,20 +2797,20 @@ zulässig.
 (5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer
 flächensparenden, die Bodenversiegelung auf das notwendige Maß
 begrenzenden und den Außenbereich schonenden Weise auszuführen. Für
-Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 ist
-als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung
-abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen
-Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer
-nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 zulässigen
-Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer
-nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung
-entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht
-vorgesehene Baulast oder in anderer Weise die Einhaltung der
-Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nummer 1
-Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des
-Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige
-Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art
-genutzt wird.
+Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 bis
+12 ist als weitere Zulässigkeitsvoraussetzung eine
+Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter
+Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen
+zu beseitigen; bei einer nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b
+und Nummer 9 bis 12 zulässigen Nutzungsänderung ist die
+Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nummer 1
+oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die
+Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast
+oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2
+sowie nach Absatz 4 Satz 1 Nummer 1 Buchstabe g sicherstellen. Im
+Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen,
+dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens
+nur in der vorgesehenen Art genutzt wird.
 
 (6) Die Gemeinde kann für bebaute Bereiche im Außenbereich, die nicht
 überwiegend landwirtschaftlich geprägt sind und in denen eine
