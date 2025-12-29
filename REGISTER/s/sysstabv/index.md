@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 22.12.2023 I Nr. 405
 
+Änderung durch
+:   Art. 14 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Die V ist gem. Art. 3 V v. 20.7.2012 I 1635 am 26.7.2012 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -158,7 +161,7 @@ Im Sinne dieser Verordnung ist
 
 
 
-5.  „Netzbetreiber“ in Abweichung von § 3 Nummer 27 des
+5.  „Netzbetreiber“ in Abweichung von § 3 Nummer 77 des
     Energiewirtschaftsgesetzes, wer ein Elektrizitätsverteilernetz oder
     ein Übertragungsnetz betreibt, an das Anlagen im Sinne von § 2 Absatz
     2 unmittelbar angeschlossen sind,
@@ -826,7 +829,7 @@ vier Wochen ab Zugang durch eine schriftliche oder elektronische
 Mitteilung an den Betreiber der Anlage zu beanstanden, wenn
 
 1.  die Höhe des Kostenvoranschlags die Kosten für entsprechende Maßnahmen
-    an vergleichbaren Anlagen in der Regelzone im Sinne von § 3 Nummer 30
+    an vergleichbaren Anlagen in der Regelzone im Sinne von § 3 Nummer 88
     des Energiewirtschaftsgesetzes des Betreibers des Übertragungsnetzes
     deutlich übersteigt oder
 
