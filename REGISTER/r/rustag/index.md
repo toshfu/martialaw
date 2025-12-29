@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 27.10.2025 I Nr. 256
 
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -939,7 +942,10 @@ werden eingetragen:
     Staatsangehörigkeit,
 
 
-3.  Entscheidungen zu Erwerb, Bestand und Verlust der deutschen
+3.  Entscheidungen, die eine Sperrfrist nach § 35a auslösen,
+
+
+4.  Entscheidungen zu Erwerb, Bestand und Verlust der deutschen
     Staatsangehörigkeit, die nach dem 31. Dezember 1960 und vor dem 28.
     August 2007 getroffen worden sind.
 
@@ -956,7 +962,8 @@ werden eingetragen:
 2.  Rechtsgrund und Datum der Urkunde oder der Entscheidung sowie
     Rechtsgrund und der Tag des Erwerbs oder Verlusts der
     Staatsangehörigkeit, im Fall des § 3 Absatz 2 auch der Zeitpunkt, auf
-    den der Erwerb zurückwirkt,
+    den der Erwerb zurückwirkt und im Fall des § 35a der Beginn und das
+    Ende der Sperrfrist,
 
 
 3.  Bezeichnung, Anschrift und Aktenzeichen der Behörde, die die
@@ -1029,6 +1036,27 @@ rechtswidrigen Bescheinigung nach § 15 Absatz 1 oder 2 des
 Bundesvertriebenengesetzes, die nach § 15 Absatz 4 des
 Bundesvertriebenengesetzes mit Wirkung für die Vergangenheit erfolgt
 ist, gelten Absatz 2 sowie Satz 1 entsprechend.
+
+
+## § 35a Sperrfrist
+
+Die Einbürgerung ist für die Dauer von zehn Jahren ausgeschlossen,
+wenn
+
+1.  die Einbürgerung nach § 35 unanfechtbar zurückgenommen worden ist oder
+
+
+2.  die zuständige Staatsangehörigkeitsbehörde im Einbürgerungsverfahren
+    feststellt, dass ein Antragsteller, um für sich oder einen anderen
+    eine Einbürgerung zu erwirken, arglistig getäuscht, gedroht oder
+    bestochen hat oder unrichtige oder unvollständige Angaben zu
+    wesentlichen Voraussetzungen der Einbürgerung gemacht oder benutzt
+    hat.
+
+
+
+Die Feststellungsentscheidung nach Nummer 2 ist sofort vollziehbar;
+Widerspruch und Klage haben keine aufschiebende Wirkung.
 
 
 ## § 36
