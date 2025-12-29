@@ -22,13 +22,22 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 6 G v. 25.11.2025 I Nr. 282
 
 Änderung durch
-:   Art. 9 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 8.12.2025 I Nr. 318 mWv 1.7.2026 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 31 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 31 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 348 mWv 23.12.2025 noch nicht berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Änderung durch
+:   Art. 15 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 16 G v. 22.12.2025 I Nr. 349 mWv 1.1.2026 noch nicht berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
