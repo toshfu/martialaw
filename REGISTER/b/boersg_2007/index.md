@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 1330, 1351
 
 Zuletzt geändert durch
-:   Art. 10 G v. 27.12.2024 I Nr. 438
+:   Art. 5 G v. 18.12.2025 I Nr. 347
 
 Dieses Gesetz dient der Umsetzung
 
@@ -1101,7 +1101,7 @@ Bundesanstalt unterrichtet. Die Handelsüberwachungsstelle hat Daten
 der Daten gemäß Artikel 25 Absatz 2 der Verordnung (EU) Nr. 600/2014
 systematisch und lückenlos zu erfassen und auszuwerten sowie
 notwendige Ermittlungen durchzuführen. An Warenbörsen, an denen
-Energie im Sinne des § 3 Nr. 14 des Energiewirtschaftsgesetzes
+Energie im Sinne des § 3 Nummer 31 des Energiewirtschaftsgesetzes
 gehandelt wird, sind von der Handelsüberwachungsstelle auch Daten über
 die Abwicklung von Geschäften systematisch und lückenlos zu erfassen
 und auszuwerten, die nicht über die Börse geschlossen werden, aber
