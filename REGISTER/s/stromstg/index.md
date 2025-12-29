@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 22.12.2023 I Nr. 412
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Steuergegenstand, Steuergebiet
 
