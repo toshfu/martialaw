@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 27.12.2024 I Nr. 438
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 344 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Gem. Art 10 Abs. 3 G v. 10.12.2014 I 2091 tritt § 146 Abs. 6 an dem Tag außer Kraft an dem die technischen Regulierungsstandards gemäß Artikel 74 Absatz 4 der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG des Rates, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates (ABl. L 173 vom 12.6.2014, S. 190) in Kraft treten; das Bundesministerium der Finanzen gibt diesen Tag im Bundesgesetzblatt bekannt
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -520,6 +523,16 @@ folgt bestimmt:
     externen und internen Verflechtungen, deren Komplexität oder deren
     grenzüberschreitenden Tätigkeiten führen kann, und zwar insbesondere
     im Hinblick auf ihre Substituierbarkeit.
+
+
+38a. Liquidationseinheit ist eine in der Union niedergelassene juristische
+    Person, für die im Gruppenabwicklungsplan oder bei Unternehmen, die
+    nicht Teil einer Gruppe sind, im Abwicklungsplan vorgesehen ist, dass
+    das Unternehmen im Wege eines regulären Insolvenzverfahrens zu
+    liquidieren ist, oder ein Unternehmen innerhalb einer
+    Abwicklungsgruppe, bei dem es sich nicht um eine Abwicklungseinheit
+    handelt, für die im Gruppenabwicklungsplan die Ausübung von
+    Herabschreibungs- und Umwandlungsbefugnissen nicht vorgesehen ist.
 
 
 39. Maßnahmenziel meint:
@@ -3791,15 +3804,6 @@ um Folgendes zu gewährleisten:
 
 
 
-Sieht der Abwicklungsplan für das Unternehmen eine Liquidation im
-Rahmen eines Insolvenzverfahrens vor, so bewertet die
-Abwicklungsbehörde, ob es gerechtfertigt ist, die in § 49 Absatz 1
-genannte Anforderung für dieses Unternehmen zu beschränken, sodass sie
-nicht über den zur Verlustabsorption ausreichenden Betrag hinausgeht.
-Bei der Bewertung der Abwicklungsbehörde wird die Beschränkung
-insbesondere hinsichtlich etwaiger Auswirkungen auf die
-Finanzstabilität und auf die Ansteckungsgefahr für das Finanzsystem
-beurteilt.
 
 (3) Für Abwicklungseinheiten entspricht der aus der Anforderung nach
 Absatz 2 Satz 1 resultierende Betrag
@@ -4230,6 +4234,79 @@ Absatz 7 bis 9 kommen auf Einzelbasis nach:
 Für die Unternehmen des Satzes 4 gelten für die Bestimmung der
 Anforderung nach § 49 Absatz 1 die §§ 49c, 50 und 159.
 
+(1a) Abweichend von Absatz 1 Satz 1 und 2 kann die Abwicklungsbehörde
+beschließen, die in § 49c festgelegte Anforderung für in Absatz 1
+genannte Tochterunternehmen auf konsolidierter Basis festzulegen, wenn
+die Abwicklungsbehörde zu dem Schluss kommt, dass alle folgenden
+Bedingungen erfüllt sind:
+
+1.  das Tochterunternehmen erfüllt eine der folgenden Bedingungen:
+
+    a)  das Tochterunternehmen wird direkt von der Abwicklungseinheit gehalten
+        und
+
+        aa) die Abwicklungseinheit ist eine EU-Mutterfinanzholdinggesellschaft
+            oder eine gemischte EU-Mutterfinanzholdinggesellschaft,
+
+
+        bb) sowohl das Tochterunternehmen als auch die Abwicklungseinheit sind in
+            demselben Mitgliedstaat niedergelassen und Teil derselben
+            Abwicklungsgruppe,
+
+
+        cc) die Abwicklungseinheit hält außer dem betroffenen Tochterunternehmen
+            nicht unmittelbar ein gruppenangehöriges Unternehmen als
+            Tochterunternehmen, wenn dieses Unternehmen den Anforderungen dieses
+            Paragraphen oder der Anforderung nach § 49c unterliegt und
+
+
+        dd) das Tochterunternehmen wäre von den nach Artikel 72e Absatz 5 der
+            Verordnung (EU) Nr. 575/2013 erforderlichen Abzügen unverhältnismäßig
+            stark betroffen oder
+
+
+
+
+
+    b)  das Tochterunternehmen unterliegt der in § 6c des Kreditwesengesetzes
+        genannten Anforderung nur auf konsolidierter Basis und die Festlegung
+        der Anforderung nach § 49c auf konsolidierter Basis würde nicht dazu
+        führen, dass der Rekapitalisierungsbedarf der Untergruppe, die aus
+        Unternehmen innerhalb des betreffenden Konsolidierungskreises besteht,
+        für die Zwecke des § 49c Absatz 1 Nummer 2 zu hoch angesetzt wird,
+        insbesondere wenn im selben Konsolidierungskreis vorwiegend
+        Liquidationseinheiten vertreten sind, und
+
+
+
+
+
+2.  die Einhaltung der in § 49c festgelegten Anforderung auf
+    konsolidierter Basis anstelle der Einhaltung dieser Anforderung auf
+    Einzelbasis beeinträchtigt nicht wesentlich eines der Folgenden:
+
+    a)  die Glaubwürdigkeit und Durchführbarkeit der
+        Gruppenabwicklungsstrategie,
+
+
+    b)  die Fähigkeit des Tochterunternehmens, seine Eigenmittelanforderung
+        nach der Ausübung von Herabschreibungs- und Umwandlungsbefugnissen zu
+        erfüllen und
+
+
+    c)  die Angemessenheit des internen Verlustübertragungs- und
+        Rekapitalisierungsmechanismus, einschließlich der Herabschreibung oder
+        Umwandlung von relevanten Kapitalinstrumenten und
+        berücksichtigungsfähigen Verbindlichkeiten des betreffenden
+        Tochterunternehmens oder anderer Unternehmen der Abwicklungsgruppe
+        nach den §§ 65 und 89.
+
+
+
+
+
+
+
 (2) Die in § 49 Absatz 1 genannte Anforderung an Unternehmen im Sinne
 von Absatz 1 wird mit einer oder mehreren der folgenden Positionen
 erfüllt:
@@ -4309,6 +4386,44 @@ erfüllt:
 
 
 
+
+
+
+
+(2a) Erfüllt ein in Absatz 1 genanntes Unternehmen die in § 49 Absatz
+1 genannte Anforderung auf konsolidierter Basis nach Absatz 1 Satz 3
+oder Absatz 1a, so umfasst der Betrag der Eigenmittel und
+berücksichtigungsfähigen Verbindlichkeiten dieses Unternehmens auch
+die folgenden Verbindlichkeiten, die nach Absatz 2 Nummer 1 von einem
+in der Union niedergelassenen und in die Konsolidierung dieses
+Unternehmens einbezogenen Tochterunternehmen begeben wurden:
+
+1.  Verbindlichkeiten, die entweder direkt oder indirekt über andere
+    Unternehmen derselben Abwicklungsgruppe, die nicht in die
+    Konsolidierung des Unternehmens einbezogen sind, das die in § 49
+    Absatz 1 genannte Anforderung auf konsolidierter Basis erfüllt, an die
+    Abwicklungseinheit begeben und von dieser erworben wurden oder
+
+
+2.  Verbindlichkeiten, die an einen bestehenden Anteilseigner begeben
+    werden, der nicht Teil derselben Abwicklungsgruppe ist.
+
+
+
+
+(2b) Die in Absatz 2a genannten Verbindlichkeiten dürfen den Betrag
+nicht übersteigen, der sich ergibt, wenn vom Betrag der in § 49 Absatz
+1 genannten Anforderung, die für das in die Konsolidierung einbezogene
+Tochterunternehmen gilt, die Summe aus Folgendem abgezogen wird:
+
+1.  den Verbindlichkeiten, die entweder direkt oder indirekt über andere
+    Unternehmen derselben Abwicklungsgruppe, die in die Konsolidierung des
+    betreffenden Unternehmens einbezogen sind, an das Unternehmen begeben
+    und von ihr erworben wurden, das die in § 49 Absatz 1 genannte
+    Anforderung auf konsolidierter Basis erfüllt und
+
+
+2.  dem Betrag der nach Absatz 2 Nummer 2 und 3 begebenen Eigenmittel.
 
 
 
@@ -4500,6 +4615,65 @@ von der Anwendung des § 49f teilweise oder ganz ausnehmen, wenn
 
 
 
+
+
+##### § 49h Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Liquidationseinheiten
+
+(1) Die Abwicklungsbehörde legt die in § 49 Absatz 1 genannte
+Anforderung nicht für Liquidationseinheiten fest.
+
+(2) Abweichend von Absatz 1 kann die Abwicklungsbehörde bewerten, ob
+es gerechtfertigt ist, die in § 49 Absatz 1 genannte Anforderung für
+eine Liquidationseinheit auf Einzelbasis in Höhe eines Betrags
+festzulegen, der den Betrag, der im Hinblick auf die Verlustabsorption
+nach § 49c Absatz 2 Nummer 1 ausreicht, überschreitet. Die
+Abwicklungsbehörde berücksichtigt im Rahmen ihrer Bewertung
+insbesondere mögliche Auswirkungen auf die Finanzstabilität und das
+Ansteckungsrisiko für das Finanzsystem, auch im Hinblick auf die
+Finanzierungskapazität von Einlagensicherungssystemen. Legt die
+Abwicklungsbehörde die in § 49 Absatz 1 genannte Anforderung fest, so
+erfüllt die Liquidationseinheit diese Anforderung durch:
+
+1.  Eigenmittel,
+
+
+2.  Verbindlichkeiten, die die in Artikel 72a der Verordnung (EU) Nr.
+    575/2013, mit Ausnahme des Artikels 72b Absatz 2 Buchstabe b und d der
+    genannten Verordnung, aufgeführten Kriterien für die
+    Berücksichtigungsfähigkeit erfüllen, oder
+
+
+3.  die in § 49b Absatz 2 genannten Verbindlichkeiten.
+
+
+
+
+(3) Artikel 77 Absatz 2 und Artikel 78a der Verordnung (EU) Nr.
+575/2013 gelten nicht für Liquidationseinheiten, für die die
+Abwicklungsbehörde die in § 49 Absatz 1 genannte Anforderung nicht
+festgelegt hat.
+
+(4) Positionen in Eigenmittelinstrumenten und Instrumenten
+berücksichtigungsfähiger Verbindlichkeiten, die von Tochterinstituten
+begeben werden, die Liquidationseinheiten sind, für die die
+Abwicklungsbehörde die in § 49 Absatz 1 genannte Anforderung nicht
+festgelegt hat, werden nicht nach Artikel 72e Absatz 5 der Verordnung
+(EU) Nr. 575/2013 in Abzug gebracht.
+
+(5) Abweichend von Absatz 4 bringt ein Institut oder
+gruppenangehöriges Unternehmen, das selbst keine Abwicklungseinheit,
+sondern Tochterunternehmen einer Abwicklungseinheit oder eines
+Drittlandunternehmens ist, das eine Abwicklungseinheit wäre, wenn es
+in der Union niedergelassen wäre, seine Positionen in
+Eigenmittelinstrumenten in Tochterinstituten, die derselben
+Abwicklungsgruppe angehören und bei denen es sich um
+Liquidationseinheiten handelt, für die die Abwicklungsbehörde die
+Anforderung nach § 49 Absatz 1 nicht festgelegt hat, in Abzug, wenn
+der Gesamtbetrag dieser Positionen 7 Prozent des Gesamtbetrags seiner
+Eigenmittel und Verbindlichkeiten, die die in § 49f Absatz 2
+festgelegten Kriterien für die Berücksichtigungsfähigkeit erfüllen,
+entspricht oder übersteigt. Die Bestimmung der Beträge erfolgt
+jährlich zum 31. Dezember als Durchschnitt der letzten zwölf Monate.
 
 
 ##### § 50 Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
@@ -4751,9 +4925,16 @@ offenzulegen. Abweichend von Satz 2 sind die Angaben in den Fällen des
 § 54 Absatz 1 erstmalig zum für die Erfüllung der Anforderungen
 festgesetzten Termin offenzulegen.
 
-(4) Die Absätze 1 und 3 gelten nicht für Unternehmen, deren
-Abwicklungsplan vorsieht, dass das Unternehmen im Wege eines regulären
-Insolvenzverfahrens liquidiert werden kann.
+(4) Die Absätze 1 und 3 gelten nicht für eine Liquidationseinheit, es
+sei denn, die Abwicklungsbehörde hat für ein solches Unternehmen nach
+§ 49h Absatz 2 die in § 49 Absatz 1 genannte Anforderung festgelegt.
+In diesem Fall legt die Abwicklungsbehörde Inhalt und Häufigkeit der
+in den Absätzen 1 bis 3 genannten Melde- und Offenlegungspflichten für
+dieses Unternehmen fest. Die Abwicklungsbehörde teilt der betreffenden
+Liquidationseinheit diese Melde- und Offenlegungspflichten mit. Diese
+Melde- und Offenlegungspflichten gehen nicht über das zur Überwachung
+der Einhaltung der nach § 49h Absatz 2 festgelegten Anforderungen
+erforderliche Maß hinaus.
 
 (5) Wurden Abwicklungsmaßnahmen durchgeführt oder wurde die
 Abschreibungs- oder Umwandlungsbefugnis nach den §§ 65, 77 Absatz 2
@@ -4764,10 +4945,11 @@ nach § 49e oder § 49f.
 
 ##### § 52 Berichterstattung der Abwicklungsbehörde an die Europäische Bankenaufsichtsbehörde
 
-Die Abwicklungsbehörde teilt der Europäischen Bankenaufsichtsbehörde
-die Mindestanforderung an Eigenmittel und berücksichtigungsfähige
-Verbindlichkeiten mit, die sie für jedes Unternehmen in ihrer
-Zuständigkeit im Einklang mit § 49e oder § 49f festgelegt hat.
+Für jedes in ihre Zuständigkeit fallende Unternehmen unterrichtet die
+Abwicklungsbehörde die Europäische Bankenaufsichtsbehörde über die
+nach § 49e oder § 49f festgelegten Mindestanforderungen an Eigenmittel
+und berücksichtigungsfähige Verbindlichkeiten, einschließlich der nach
+§ 49f Absatz 1a getroffenen Entscheidungen.
 
 
 ##### § 53 Verstöße gegen die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
