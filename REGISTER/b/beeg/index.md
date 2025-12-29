@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 43 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 18 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Elterngeld
 
