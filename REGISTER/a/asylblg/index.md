@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 Abs. 3 G v. 23.12.2024 I Nr. 449
 
+Änderung durch
+:   Art. 10 G v. 22.12.2025 I Nr. 363 noch nicht berücksichtigt
+
 
 ## § 1 Leistungsberechtigte
 
