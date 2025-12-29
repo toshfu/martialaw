@@ -19,6 +19,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 28.10.2025 I Nr. 259
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 355 mWv 24.12.2025 bzw. 1.1.2026 bzw. 1.1.2027 bzw. 1.1.2029 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 355 mWv 1.1.2029 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 14 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 364 mWv 24.12.2025 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
