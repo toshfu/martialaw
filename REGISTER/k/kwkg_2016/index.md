@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 21.2.2025 I Nr. 54
 
+Änderung durch
+:   Art. 24 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 754-18 v. 19.3.2002 I 1092 (KWKG 2002)
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -390,7 +393,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 22. „Netze der allgemeinen Versorgung“ Stromnetze im Sinne des § 3 Nummer
-    17 des Energiewirtschaftsgesetzes in der jeweils geltenden Fassung
+    38 des Energiewirtschaftsgesetzes in der jeweils geltenden Fassung
     über eine oder mehrere Spannungsebenen,
 
 
@@ -675,7 +678,7 @@ sowie der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen, wenn
     verdrängen,
 
 
-5.  die Anlagen, die Anforderungen nach § 9 Absatz 1, 1a oder 2 des
+5.  die Anlagen, die Anforderungen nach § 9 Absatz 1, oder 2 des
     Erneuerbare-Energien-Gesetzes erfüllen,
 
 
@@ -826,7 +829,7 @@ geltenden Fassung nicht anzuwenden sind, beträgt
 
 Der Zuschlag nach Satz 1 Nummer 5 Buchstabe a erhöht sich ab dem 1.
 Januar 2023 um 0,5 Cent je Kilowattstunde, soweit das
-Bundesministerium für Wirtschaft und Klimaschutz im Jahr 2022 die
+Bundesministerium für Wirtschaft und Energie im Jahr 2022 die
 Angemessenheit der Erhöhung überprüft und festgestellt hat, dass mit
 der Erhöhung der Zuschläge die Differenz zwischen den
 Gesamtgestehungskosten der Stromerzeugung der KWK-Anlagen und dem
@@ -1495,7 +1498,7 @@ Antragstellung an den Betreiber der KWK-Anlage auszuzahlen.
 Einzelabrechnung der erzeugten Strommenge.
 
 
-### § 10 Zulassung von neuen, modernisierten oder nachgerüsteten KWK-Anlagen
+### § 10 Zulassung von neuen, modernisierten oder nachgerüsteten KWK-Anlagen, elektronisches Verfahren
 
 (1) Voraussetzung für den Anspruch auf Zahlung des Zuschlags sowie der
 Boni nach den §§ 7a bis 7c ist die Zulassung der KWK-Anlage durch das
@@ -1573,8 +1576,8 @@ Vorliegen der Voraussetzungen der §§ 7a bis 7c.
     §§ 7a bis 7c, soweit erforderlich,
 
 
-6.  Angaben zur Erfüllung der Anforderungen nach § 9 Absatz 1, 1a oder 2
-    des Erneuerbare-Energien-Gesetzes,
+6.  Angaben zur Erfüllung der Anforderungen nach § 9 Absatz 1 oder 2 des
+    Erneuerbare-Energien-Gesetzes,
 
 
 7.  einen geeigneten Nachweis zur Erfüllung der Anforderungen nach § 6
@@ -1637,6 +1640,10 @@ Verwaltungsverfahrensgesetzes von Amts wegen erteilen. Die
 Allgemeinverfügung nach Satz 1 kann mit Nebenbestimmungen verbunden
 werden. Für Anlagen, die durch Allgemeinverfügung nach Satz 1
 zugelassen werden, ist § 11 Absatz 3 entsprechend anzuwenden.
+
+(6) Der Antrag auf Zulassung muss elektronisch über das vom Bundesamt
+für Wirtschaft und Ausfuhrkontrolle eingerichtete Portal gestellt
+werden.
 
 
 ### § 11 Überprüfung, Wirkung und Erlöschen der Zulassung
@@ -1710,7 +1717,9 @@ hat.
 Absatz 2 Satz 1 erforderlichen Angaben auf Grundlage der Planungen für
 die KWK-Anlage zum Zeitpunkt der Antragstellung enthalten.
 
-(3) Der Antrag muss vor Baubeginn der Anlage gestellt werden.
+(3) Der Antrag muss vor Baubeginn der Anlage elektronisch über das vom
+Bundesamt für Wirtschaft und Ausfuhrkontrolle eingerichtete Portal
+gestellt werden.
 
 (4) Der Vorbescheid erlischt, wenn der Antragsteller
 
@@ -2006,6 +2015,10 @@ Abrechnung nach Absatz 2 oder der Angaben nach Absatz 3 verlangen,
 wenn die Anlage zugelassen ist oder der Antrag auf Zulassung gestellt
 worden ist.
 
+(7) Die Mitteilungspflichten gegenüber dem Bundesamt für Wirtschaft
+und Ausfuhrkontrolle müssen elektronisch über das vom Bundesamt für
+Wirtschaft und Ausfuhrkontrolle eingerichtete Portal erfüllt werden.
+
 
 ### § 16 Maßnahmen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle zur Überprüfung
 
@@ -2081,7 +2094,10 @@ nach Maßgabe der Absätze 2 bis 4 und des § 19, wenn
 
 
             bbb) eine verbindliche Beauftragung der wesentlichen Bauleistungen erfolgt
-                ist, sofern nach Landesrecht keine Genehmigung erforderlich ist, oder
+                ist, sofern nach Landesrecht keine Genehmigung erforderlich ist und
+                das Wärmenetz bis zum Ende des vierten Jahres nach der verbindlichen
+                Beauftragung der wesentlichen Bauleistungen in Betrieb genommen worden
+                ist, oder
 
 
 
@@ -2101,7 +2117,10 @@ nach Maßgabe der Absätze 2 bis 4 und des § 19, wenn
 
 
         bb) eine verbindliche Beauftragung der wesentlichen Bauleistungen erfolgt
-            ist, sofern nach Landesrecht keine Genehmigung erforderlich ist,
+            ist, sofern nach Landesrecht keine Genehmigung erforderlich ist und
+            das Wärmenetz bis zum Ende des vierten Jahres nach der verbindlichen
+            Beauftragung der wesentlichen Bauleistungen in Betrieb genommen worden
+            ist,
 
 
 
@@ -2220,7 +2239,7 @@ Betrag, der dem Verbraucher für die Anschlusskosten in Rechnung
 gestellt wird, abzuziehen.
 
 
-### § 20 Zulassung für den Neu- und Ausbau von Wärmenetzen, Vorbescheid
+### § 20 Zulassung für den Neu- und Ausbau von Wärmenetzen, Vorbescheid, elektronisches Verfahren
 
 (1) Die Zulassung für den Neu- und Ausbau von Wärmenetzen ist dem
 Wärmenetzbetreiber von dem Bundesamt für Wirtschaft und
@@ -2311,6 +2330,10 @@ der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1; ABl. L 283 vom
 (ABl. L 167 vom 30.6.2023, S. 1) geändert worden ist, festgelegten
 Voraussetzungen erfüllt.
 
+(7) Der Antrag auf Zulassung muss elektronisch über das vom Bundesamt
+für Wirtschaft und Ausfuhrkontrolle eingerichtete Portal gestellt
+werden.
+
 
 ### § 21 Zuschlagzahlungen für Kältenetze
 
@@ -2343,7 +2366,9 @@ nach Maßgabe der Absätze 2 bis 4 und des § 23, wenn
 
         bb) eine verbindliche Beauftragung der wesentlichen Bauleistungen erfolgt
             ist, sofern nach Landesrecht keine Genehmigung für den Wärmespeicher
-            erforderlich ist,
+            erforderlich ist und der Wärmespeicher bis zum Ablauf des vierten
+            Jahres nach der verbindlichen Beauftragung der wesentlichen
+            Bauleistungen in Betrieb genommen worden ist,
 
 
 
@@ -2436,7 +2461,7 @@ werden, wenn sie nicht ausdrücklich zusätzlich zum Zuschlag nach
 Absatz 1 gewährt werden.
 
 
-### § 24 Zulassung für den Neubau von Wärmespeichern, Vorbescheid
+### § 24 Zulassung für den Neubau von Wärmespeichern, Vorbescheid, elektronisches Verfahren
 
 (1) Die Zulassung für den Neubau von Wärmespeichern ist dem Betreiber
 des Wärmespeichers auf Antrag zu erteilen, wenn der Neubau des
@@ -2522,6 +2547,10 @@ Antrags auf den Vorbescheid geltenden Fassung dieses Gesetzes, soweit
 die Voraussetzungen nach § 22 Absatz 1 Nummer 1 und 2, nach § 23
 Absatz 1 im Rahmen der Zulassung bestätigt werden. Im Übrigen ist § 12
 entsprechend anzuwenden.
+
+(7) Der Antrag auf Zulassung muss elektronisch über das vom Bundesamt
+für Wirtschaft und Ausfuhrkontrolle eingerichtete Portal gestellt
+werden.
 
 
 ### § 25 Kältespeicher
@@ -2792,7 +2821,7 @@ von dem Bundesgerichtshof mitzuteilen.
 
 ### § 32a Clearingstelle
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz kann zur
+(1) Das Bundesministerium für Wirtschaft und Energie kann zur
 Vermeidung und Beilegung von Streitigkeiten eine Clearingstelle
 einrichten und den Betrieb auf den Betreiber der Clearingstelle nach §
 81 des Erneuerbare-Energien-Gesetzes oder eine andere juristische
@@ -2897,9 +2926,9 @@ Clearingstelle ermöglichen,
 Die Verfahrensvorschriften können Regelungen zur Zusammenarbeit mit
 den Behörden nach Absatz 2 enthalten. Erlass und Änderungen der
 Verfahrensvorschriften bedürfen der vorherigen Zustimmung des
-Bundesministeriums für Wirtschaft und Klimaschutz. Die Durchführung
-der Verfahren steht jeweils unter dem Vorbehalt der vorherigen
-Zustimmung der Verfahrensparteien zu den Verfahrensvorschriften.
+Bundesministeriums für Wirtschaft und Energie. Die Durchführung der
+Verfahren steht jeweils unter dem Vorbehalt der vorherigen Zustimmung
+der Verfahrensparteien zu den Verfahrensvorschriften.
 
 (8) Die Wahrnehmung der Aufgaben nach diesem Paragrafen ist keine
 Rechtsdienstleistung im Sinn des § 2 Absatz 1 des
@@ -2975,9 +3004,9 @@ Bundestages
 
 
 
-(3) Das Bundesministerium für Wirtschaft und Klimaschutz wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf,
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf,
 
 1.  (weggefallen)
 
@@ -3407,8 +3436,8 @@ Zustimmung des Bundesrates
     bis 3 und
 
 
-3.  das Bundesministerium für Wirtschaft und Klimaschutz zu ermächtigen,
-    im Rahmen von Kooperationsvereinbarungen nach § 1 Absatz 6 mit den
+3.  das Bundesministerium für Wirtschaft und Energie zu ermächtigen, im
+    Rahmen von Kooperationsvereinbarungen nach § 1 Absatz 6 mit den
     anderen Mitgliedstaaten der Europäischen Union unter Berücksichtigung
     der Vorgaben nach § 1
 
@@ -3748,22 +3777,22 @@ nicht der Zustimmung des Bundesrates oder des Bundestages.
 
 ### § 34 Evaluierungen
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz überprüft
+(1) Das Bundesministerium für Wirtschaft und Energie überprüft
 jährlich die Angemessenheit der Höhe der Zuschlagzahlungen für KWK-
 Anlagen, um zu gewährleisten, dass die Zuschläge die Differenz
 zwischen den Gesamtgestehungskosten der Stromerzeugung der KWK-Anlagen
 und dem Marktpreis nicht überschreiten. Im Fall einer drohenden
 Überschreitung der Differenz nach Satz 1 informiert das
-Bundesministerium für Wirtschaft und Klimaschutz den Deutschen
-Bundestag bis spätestens zum 31. August eines jeden Jahres und schlägt
+Bundesministerium für Wirtschaft und Energie den Deutschen Bundestag
+bis spätestens zum 31. August eines jeden Jahres und schlägt
 gegebenenfalls eine gesetzliche Anpassung vor. In den Jahren 2021 und
-2022 überprüft das Bundesministerium für Wirtschaft und Klimaschutz
-auch, ob und in welchem Umfang die zum 1. Januar 2023 in Kraft
-tretende Anhebung der Vergütung nach § 7 Absatz 1 Nummer 5 angemessen
-und erforderlich ist, und schlägt dem Deutschen Bundestag
-gegebenenfalls eine gesetzliche Anpassung vor.
+2022 überprüft das Bundesministerium für Wirtschaft und Energie auch,
+ob und in welchem Umfang die zum 1. Januar 2023 in Kraft tretende
+Anhebung der Vergütung nach § 7 Absatz 1 Nummer 5 angemessen und
+erforderlich ist, und schlägt dem Deutschen Bundestag gegebenenfalls
+eine gesetzliche Anpassung vor.
 
-(2) Das Bundesministerium für Wirtschaft und Klimaschutz führt im Jahr
+(2) Das Bundesministerium für Wirtschaft und Energie führt im Jahr
 2017, im Jahr 2022, im Jahr 2025 sowie im Jahr 2029 eine umfassende
 Evaluierung der Entwicklung der KWK-Stromerzeugung in Deutschland
 durch, insbesondere mit Blick auf
@@ -3814,28 +3843,28 @@ Evaluierung nach Satz 1 Nummer 7 Änderungsbedarf resultiert, wird die
 Bundesregierung dem Deutschen Bundestag die erforderlichen Maßnahmen
 vorschlagen.
 
-(3) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert
-ferner im Jahr 2021 die Erfahrungen mit den Ausschreibungen nach den
-§§ 8a und 8b.
+(3) Das Bundesministerium für Wirtschaft und Energie evaluiert ferner
+im Jahr 2021 die Erfahrungen mit den Ausschreibungen nach den §§ 8a
+und 8b.
 
 (4) Die Bundesnetzagentur, das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle und das Umweltbundesamt unterstützen das
-Bundesministerium für Wirtschaft und Klimaschutz bei der Erstellung
-der Überprüfungen und Evaluierungen nach den Absätzen 1 bis 3. Zur
-Unterstützung soll das Bundesministerium für Wirtschaft und
-Klimaschutz außerdem wissenschaftliche Gutachten in Auftrag geben.
+Bundesministerium für Wirtschaft und Energie bei der Erstellung der
+Überprüfungen und Evaluierungen nach den Absätzen 1 bis 3. Zur
+Unterstützung soll das Bundesministerium für Wirtschaft und Energie
+außerdem wissenschaftliche Gutachten in Auftrag geben.
 
 (5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt,
 die nach den §§ 10, 11, 15, 20, 21, 24 und 25 erhobenen und die nach §
 17 an das Statistische Bundesamt zu übermittelnden Daten dem
-Bundesministerium für Wirtschaft und Klimaschutz zu Zwecken der
+Bundesministerium für Wirtschaft und Energie zu Zwecken der
 Überprüfung und Evaluierung nach den Absätzen 1 bis 3 in nicht
 personenbezogener Form zu übermitteln. Die Bundesnetzagentur ist
 berechtigt, die im Rahmen der Ausschreibungen nach den §§ 8a und 8b
-erhobenen Daten dem Bundesministerium für Wirtschaft und Klimaschutz
-zu Zwecken der Evaluierung nach Absatz 3 zu übermitteln. Das
-Bundesministerium für Wirtschaft und Klimaschutz darf die nach den
-Sätzen 1 und 2 erlangten Daten an beauftragte Dritte zu Zwecken der
+erhobenen Daten dem Bundesministerium für Wirtschaft und Energie zu
+Zwecken der Evaluierung nach Absatz 3 zu übermitteln. Das
+Bundesministerium für Wirtschaft und Energie darf die nach den Sätzen
+1 und 2 erlangten Daten an beauftragte Dritte zu Zwecken der
 Überprüfung und Evaluierung nach den Absätzen 1 bis 3 übermitteln.
 Daten, die Geschäftsgeheimnisse darstellen, dürfen ohne
 Geheimhaltungsvereinbarung an beauftragte Dritte nur übermittelt
@@ -4080,13 +4109,13 @@ worden ist.
 dem 1. Januar 2023 in Betrieb genommen worden sind.
 
 (19) § 6 Absatz 1 Satz 1 Nummer 1, § 7 Absatz 5 Satz 2, § 15 Absatz 4
-Satz 3, § 18 Absatz 1 und 2 und § 35 Absatz 17 Satz 4 bis 6 in der bis
-zum Ablauf des 31. März 2025 geltenden Fassung sind anzuwenden auf
-KWK-Anlagen und auf neue oder ausgebaute Fernwärme- und Kältenetze,
-die vor dem 1. April 2025 im Fall von KWK-Anlagen erstmals den
-Dauerbetrieb aufgenommen haben, oder im Fall einer Modernisierung
-wieder aufgenommen haben oder im Fall von Fernwärme- oder Kältenetzen
-in Betrieb genommen wurden.
+Satz 3, § 18 Absatz 1 und 2, § 22 Absatz 1 und 2 und § 35 Absatz 17
+Satz 4 bis 6 in der bis zum Ablauf des 31. März 2025 geltenden Fassung
+sind anzuwenden auf KWK-Anlagen und auf neue oder ausgebaute
+Fernwärme- und Kältenetze, die vor dem 1. April 2025 im Fall von KWK-
+Anlagen erstmals den Dauerbetrieb aufgenommen haben, oder im Fall
+einer Modernisierung wieder aufgenommen haben oder im Fall von
+Fernwärme- oder Kältenetzen in Betrieb genommen wurden.
 
 (20) § 7 Absatz 1 Satz 1 Nummer 5 ist anzuwenden auf KWK-Anlagen, die
 nach dem 31. Dezember 2020 den Dauerbetrieb aufgenommen oder nach
@@ -4131,6 +4160,24 @@ haben.
 (24) § 7b darf erst nach der beihilferechtlichen Genehmigung durch die
 Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt
 werden.
+
+(25) Um die Stunden zu ermitteln, in denen der Spotmarktpreis im Sinn
+des § 7 Absatz 5 negativ ist, ist für den Zeitraum nach dem 31.
+Dezember 2024 bis einschließlich zu dem Tag, an dem die Strombörsen
+erstmals in der
+vortägigen              Auktion am Day-Ahead-Markt
+Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde
+legen, § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes in der am 31.
+Dezember 2024 geltenden Fassung anzuwenden. Für KWK-Anlagen, die vor
+dem 25. Februar 2025 den Dauerbetrieb aufgenommen haben oder nach
+einer erfolgten Modernisierung wieder aufgenommen haben oder einen
+Zuschlag in einer Ausschreibung nach § 8a oder § 8b erhalten haben,
+ist ab dem Tag, an dem die Strombörsen erstmals in der vortägigen
+Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung
+der Orderbücher zugrunde legen, eine Kalenderstunde dann als negativ
+im Sinn des § 7 Absatz 5 zu berücksichtigen, wenn das arithmetische
+Mittel aus den Spotmarktpreisen der Viertelstunden dieser
+Kalenderstunde negativ ist.
 
 
 ### § 36 (weggefallen)
