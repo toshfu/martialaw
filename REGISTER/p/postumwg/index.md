@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 2325, 2339
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 103 G v. 5.2.2009 I 160
+:   Art. 2 G v. 22.12.2025 I Nr. 345
 
 
 ## § 1 Errichtung der Aktiengesellschaften durch Umwandlung
@@ -206,7 +206,12 @@ wahlberechtigt und wählbar. Sie gelten als Arbeitnehmer. Soweit das
 Mitbestimmungsgesetz und die dazu erlassenen Wahlordnungen zwischen
 Arbeitern, Angestellten und leitenden Angestellten unterscheiden, sind
 die Beamten diesen Gruppen nach ihrer jeweiligen Beschäftigung
-zuzuordnen.
+zuzuordnen. Im Bereich der Deutsche Post AG (§ 1 Absatz 2) gilt dies
+sowohl für das Nachfolgeunternehmen nach § 1 Absatz 1 des
+Postaufgabenüberleitungsgesetzes als Postnachfolgeunternehmen nach §
+38 Absatz 1 Nummer 2 und Absatz 2 des Postpersonalrechtsgesetzes als
+auch für ein das Nachfolgeunternehmen etwaig beherrschendes
+Unternehmen nach den §§ 17 und 18 des Aktiengesetzes.
 
 
 ## § 10 Steuer- und Gebührenbefreiung
@@ -250,8 +255,16 @@ grundbuchmäßiger Form bezeichnen. Sie ist von dem neuen Eigentümer
 abzugeben und bedarf bei den gemäß § 1 umgewandelten Unternehmen der
 Deutschen Bundespost einer Bestätigung durch einen Beauftragten des
 Bundesministeriums der Finanzen, der nicht Bediensteter des
-Bundesministeriums sein muß. Die Bestätigung muß unterschrieben und
-mit einem Dienstsiegel versehen sein. Bei maschineller Bearbeitung ist
+Bundesministeriums sein muß. Für den Fall, dass die Bundesregierung
+eine Rechtsverordnung nach § 1 Absatz 1 des
+Postaufgabenüberleitungsgesetzes erlässt, gibt ab dem in § 3 Absatz 1
+des Postaufgabenüberleitungsgesetzes genannten Zeitpunkt das
+Nachfolgeunternehmen nach § 1 Absatz 1 des
+Postaufgabenüberleitungsgesetzes die Liegenschaftserklärung anstelle
+der Deutsche Post AG (§ 1 Absatz 2 erster Spiegelstrich) ab. Die
+Liegenschaftserklärung bedarf einer Bestätigung entsprechend Satz 3.
+Die Bestätigung nach den Sätzen 3 und 5 muß unterschrieben und mit
+einem Dienstsiegel versehen sein. Bei maschineller Bearbeitung ist
 eine Unterschrift entbehrlich, wenn in der Bestätigung der Aufdruck
 "Diese Bestätigung ist maschinell erstellt und ohne Unterschrift
 wirksam" enthalten ist. Das Siegel kann in diesem Fall auch in einem
@@ -315,7 +328,9 @@ durch diese gegen den Bescheid nicht angerufen werden.
 
 (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet darf
 die Liegenschaftserklärung durch den Bund nur abgegeben und bei den
-Nachfolgeunternehmen der Deutschen Bundespost nur bestätigt und ein
+Nachfolgeunternehmen der Deutschen Bundespost sowie einem
+Nachfolgeunternehmen nach § 1 Absatz 1 des
+Postaufgabenüberleitungsgesetzes nur bestätigt und ein
 Zuweisungsbescheid nur erlassen werden, wenn dem
 Oberfinanzpräsidenten, in dessen Gebiet der Vermögenswert ganz oder
 überwiegend liegt, durch den Bund oder den Beauftragten des
