@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 43 G v. 12.7.2024 I Nr. 234
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+
 [^F800934_01_BJNR380300017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und
