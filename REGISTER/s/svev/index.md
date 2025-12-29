@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 3.12.2024 I Nr. 394
 
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 361 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
 
