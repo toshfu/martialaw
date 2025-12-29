@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 Stand: Art. 3 Nr. 2 G v. 18.4.2016 I 886 infolge unzureichender Bestimmtheit nicht ausführbar
 
 ## Erster Abschnitt - Die Erlaubnis
