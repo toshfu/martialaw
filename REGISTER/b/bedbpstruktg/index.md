@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2426 (1994 I 2325)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 4 G v. 30.3.2021 I 402
+:   Art. 7 G v. 22.12.2025 I Nr. 345
 
 
 ## § 1 Geltungsbereich
@@ -93,7 +93,7 @@ Ruhestand versetzt werden, wenn
 ## § 4 Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember
-2024 auf Antrag in den Ruhestand versetzt werden, wenn
+2026 auf Antrag in den Ruhestand versetzt werden, wenn
 
 1.  sie das 55. Lebensjahr vollendet haben,
 
