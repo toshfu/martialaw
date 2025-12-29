@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2022; 2023 I Nr. 1
 
 Änderung durch
-:   Art. 2 V v. 17.12.2025 I Nr. 337 mWv 20.12.2025 noch nicht berücksichtigt
+:   Art. 2 V v. 17.12.2025 I Nr. 337 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Diese Verordnung dient in Verbindung mit dem Arbeitsschutzgesetz
 der Umsetzung der EG-Richtlinie 92/57/EWG des Rates vom
@@ -313,17 +313,18 @@ Besonders gefährliche Arbeiten im Sinne des § 2 Abs. 3 sind:
         3 Absatz 1 der Biostoffverordnung,
 
 
-    b)  gefährlichen Stoffen und Gemischen im Sinne des § 3 Absatz 1 in
-        Verbindung mit Absatz 2
+    b)  Stoffen und Gemischen, die den in Anhang I der Verordnung (EG) Nr.
+        1272/2008 dargelegten Kriterien entsprechen für
 
-        aa) Nummer 1 Buchstabe a,
+        aa) Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff,
 
 
-        bb) Nummer 1 Buchstabe f oder Nummer 2 Buchstabe a (jeweils Kategorie 1
+        bb) Entzündbare Flüssigkeiten oder Akute Toxizität (jeweils Kategorie 1
             oder 2) oder
 
 
-        cc) Nummer 2 Buchstabe e, f oder g (jeweils Kategorie 1A oder 1B)
+        cc) Keimzellmutagenität, Karzinogenität oder Reproduktionstoxizität
+            (jeweils Kategorie 1A oder 1B),
 
 
 
