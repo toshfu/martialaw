@@ -21,6 +21,18 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 14.7.2025 I Nr. 161
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 361 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 363 mWv 24.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## I. - Steuerpflicht
 
