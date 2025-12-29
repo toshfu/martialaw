@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 49
 
 Zuletzt geändert durch
-:   Art. 7 G v. 27.7.2021 I 3146
+:   Art. 27 G v. 18.12.2025 I Nr. 347
 
 Stand: Ersetzt V 805-3-9 v. 27.9.2002 I 3777 (BetrSichV)
 
@@ -60,7 +60,7 @@ Befugnis zur Führung der Bundesflagge lediglich für die erste
 Überführungsreise in einen anderen Hafen verliehen hat.
 
 (4) Abschnitt 3 gilt nicht für Energieanlagen im Sinne des § 3 Nummer
-15 des Energiewirtschaftsgesetzes, soweit sie Druckanlagen im Sinne
+32 des Energiewirtschaftsgesetzes, soweit sie Druckanlagen im Sinne
 des Anhangs 2 Abschnitt 4 Nummer 2.1 Buchstabe b, c oder d dieser
 Verordnung sind. Satz 1 gilt nicht für Gasfüllanlagen, die
 Energieanlagen im Sinne des § 3 Nummer 15 des
