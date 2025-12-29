@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.11.1975 I 2735;
 
 Zuletzt geändert durch
-:   Art. 32 G v. 23.10.2024 I Nr. 323
+:   Art. 22 G v. 22.12.2025 I Nr. 349
 
 
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen
@@ -5379,7 +5379,7 @@ und Empfänger über ein solches verfügen. Ist die Erklärung von einer
 natürlichen Person abzugeben, so ist das Dokument mit einer
 qualifizierten elektronischen Signatur zu versehen oder von ihr zu
 signieren und selbst zu versenden. Andere Postfächer nach § 130a
-Absatz 4 Satz 1 Nummer 2 bis 5 der Zivilprozessordnung stehen dem
+Absatz 4 Satz 1 Nummer 1 bis 4 der Zivilprozessordnung stehen dem
 besonderen elektronischen Steuerberaterpostfach nach Satz 1 gleich.
 
 
