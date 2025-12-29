@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 4 V v. 1.11.2006 I 2477
 
+Änderung durch
+:   Art. 8 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -31,8 +34,8 @@ Abs. 1 des Grundgesetzes verordnet der Bundesminister für Wirtschaft:
 
 (1) Diese Verordnung regelt Zulässigkeit und Bemessung der Zahlung von
 Konzessionsabgaben der Energieversorgungsunternehmen im Sinne des § 3
-Nr. 18 des Energiewirtschaftsgesetzes an Gemeinden und Landkreise (§
-7).
+Nummer 39 des Energiewirtschaftsgesetzes an Gemeinden und Landkreise
+(§ 7).
 
 (2) Konzessionsabgaben sind Entgelte für die Einräumung des Rechts zur
 Benutzung öffentlicher Verkehrswege für die Verlegung und den Betrieb
