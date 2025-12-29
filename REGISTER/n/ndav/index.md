@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.11.2021 I 4786
 
+Änderung durch
+:   Art. 10 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften
 
@@ -698,23 +701,23 @@ Fahrlässigkeit ausgeschlossen.
 
 (2) Bei weder vorsätzlich noch grob fahrlässig verursachten
 Sachschäden ist die Haftung des Netzbetreibers gegenüber seinen
-Anschlussnutzern auf jeweils 5.000 Euro begrenzt. Die Haftung für
+Anschlussnutzern auf jeweils 5 000 Euro begrenzt. Die Haftung für
 nicht vorsätzlich verursachte Sachschäden ist je Schadensereignis
 insgesamt begrenzt auf
 
-1.  2,5 Millionen Euro bei bis zu 25.000 an das eigene Netz
+1.  2,5 Millionen Euro bei bis zu 25 000 an das eigene Netz
     angeschlossenen Anschlussnutzern;
 
 
-2.  10 Millionen Euro bei 25.001 bis 100.000 an das eigene Netz
+2.  10 Millionen Euro bei 25 001 bis 100 000 an das eigene Netz
     angeschlossenen Anschlussnutzern;
 
 
-3.  20 Millionen Euro bei 100.001 bis 200.000 an das eigene Netz
+3.  20 Millionen Euro bei 100 001 bis 200 000 an das eigene Netz
     angeschlossenen Anschlussnutzern;
 
 
-4.  30 Millionen Euro bei 200.001 bis einer Million an das eigene Netz
+4.  30 Millionen Euro bei 200 001 bis einer Million an das eigene Netz
     angeschlossenen Anschlussnutzern;
 
 
@@ -729,32 +732,32 @@ Einzelfall entsprechend Satz 1 begrenzt ist.
 
 (3) Die Absätze 1 und 2 sind auch auf Ansprüche von Anschlussnutzern
 anzuwenden, die diese gegen einen dritten Netzbetreiber im Sinne des §
-3 Nr. 27 des Energiewirtschaftsgesetzes aus unerlaubter Handlung
-geltend machen. Die Haftung dritter Netzbetreiber im Sinne des § 3 Nr.
-27 des Energiewirtschaftsgesetzes ist je Schadensereignis insgesamt
-begrenzt auf das Dreifache des Höchstbetrages, für den sie nach Absatz
-2 Satz 2 eigenen Anschlussnutzern gegenüber haften. Hat der dritte
-Netzbetreiber im Sinne des § 3 Nr. 27 des Energiewirtschaftsgesetzes
-keine eigenen an das Netz angeschlossenen Anschlussnutzer im Sinne
-dieser Verordnung, so ist die Haftung insgesamt auf 200 Millionen Euro
-begrenzt. In den Höchstbetrag nach den Sätzen 2 und 3 können auch
-Schadensersatzansprüche von nicht unter diese Verordnung fallenden
-Kunden einbezogen werden, die diese gegen das dritte Unternehmen aus
-unerlaubter Handlung geltend machen, wenn deren Ansprüche im
-Einzelfall entsprechend Absatz 2 Satz 1 begrenzt sind. Der
-Netzbetreiber ist verpflichtet, seinen Anschlussnutzern auf Verlangen
-über die mit der Schadensverursachung durch einen dritten
-Netzbetreiber im Sinne des § 3 Nr. 27 des Energiewirtschaftsgesetzes
-zusammenhängenden Tatsachen insoweit Auskunft zu geben, als sie ihm
-bekannt sind oder von ihm in zumutbarer Weise aufgeklärt werden können
-und ihre Kenntnis zur Geltendmachung des Schadensersatzes erforderlich
-ist.
+3 Nummer 77 des Energiewirtschaftsgesetzes aus unerlaubter Handlung
+geltend machen. Die Haftung dritter Netzbetreiber im Sinne des § 3
+Nummer 77 des Energiewirtschaftsgesetzes ist je Schadensereignis
+insgesamt begrenzt auf das Dreifache des Höchstbetrages, für den sie
+nach Absatz 2 Satz 2 eigenen Anschlussnutzern gegenüber haften. Hat
+der dritte Netzbetreiber im Sinne des § 3 Nummer 77 des
+Energiewirtschaftsgesetzes keine eigenen an das Netz angeschlossenen
+Anschlussnutzer im Sinne dieser Verordnung, so ist die Haftung
+insgesamt auf 200 Millionen Euro begrenzt. In den Höchstbetrag nach
+den Sätzen 2 und 3 können auch Schadensersatzansprüche von nicht unter
+diese Verordnung fallenden Kunden einbezogen werden, die diese gegen
+das dritte Unternehmen aus unerlaubter Handlung geltend machen, wenn
+deren Ansprüche im Einzelfall entsprechend Absatz 2 Satz 1 begrenzt
+sind. Der Netzbetreiber ist verpflichtet, seinen Anschlussnutzern auf
+Verlangen über die mit der Schadensverursachung durch einen dritten
+Netzbetreiber im Sinne des § 3 Nummer 77 des
+Energiewirtschaftsgesetzes zusammenhängenden Tatsachen insoweit
+Auskunft zu geben, als sie ihm bekannt sind oder von ihm in zumutbarer
+Weise aufgeklärt werden können und ihre Kenntnis zur Geltendmachung
+des Schadensersatzes erforderlich ist.
 
 (4) Bei grob fahrlässig verursachten Vermögensschäden ist die Haftung
 des Netzbetreibers, an dessen Netz der Anschlussnutzer angeschlossen
 ist, oder eines dritten Netzbetreibers, gegen den der Anschlussnutzer
 Ansprüche geltend macht, gegenüber seinen Anschlussnutzern auf jeweils
-5\.000 Euro sowie je Schadensereignis insgesamt auf 20 vom Hundert der
+5 000 Euro sowie je Schadensereignis insgesamt auf 20 vom Hundert der
 in Absatz 2 Satz 2 sowie Absatz 3 Satz 2 und 3 genannten Höchstbeträge
 begrenzt. Absatz 2 Satz 3 sowie Absatz 3 Satz 1, 4 und 5 gelten
 entsprechend.
