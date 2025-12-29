@@ -24,6 +24,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 11 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 24 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 25 G v. 22.12.2025 I Nr. 349 mWv 1.1.2036 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
