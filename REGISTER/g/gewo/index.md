@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 27.12.2024 I Nr. 438
 
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Titel I - Allgemeine Bestimmungen
 
