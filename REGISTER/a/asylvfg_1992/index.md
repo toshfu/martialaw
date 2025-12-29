@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v 25.10.2024 I Nr. 332
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
