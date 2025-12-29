@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 14.7.2025 I Nr. 161
 
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 363 mWv 24.12.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anspruchsberechtigung
 
