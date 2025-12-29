@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 12.8.2020 I 1872
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 354 mWv 1.1.2027 noch nicht berücksichtigt
+
 
 ## § 1 Zwecke der Verdienststatistik
 
