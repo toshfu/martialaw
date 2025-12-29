@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 22.2.2021 I 266
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
