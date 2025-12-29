@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 14 G v. 7.7.2021 I 2363
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
