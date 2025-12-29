@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8d G v. 19.7.2024 I Nr. 245
 
+Änderung durch
+:   Art. 11 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Verwaltungsverfahren
 
