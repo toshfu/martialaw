@@ -19,6 +19,9 @@ Stand: Die V tritt gem. § 5 Abs. 2 am 31.12.2016 außer Kraft; die Geltung dies
 Zuletzt geändert durch
 :   Art. 1 V v. 14.1.2015 I 16
 
+Änderung durch
+:   Art. 1 V v. 19.12.2025 I Nr 366 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
