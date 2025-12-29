@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 8.5.2024 I Nr. 151
 
+Änderung durch
+:   Art. 16 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 351 mWv 23.12.2025 noch nicht berücksichtigt
+
 Stand: Das G ist gem. Art. 7 Abs. 1 G v. 28.7.2011 I 1690 am 5.8.2011 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -234,7 +240,7 @@ Bundesnetzagentur nicht entstehen, wenn das Ziel der Bundesfachplanung
 entgegensteht. Macht die Bundesfachplanung nachträglich ein Abweichen
 von den Zielen der Raumordnung erforderlich, kann die
 Bundesnetzagentur mit Zustimmung des Bundesministeriums für Wirtschaft
-und Klimaschutz innerhalb angemessener Frist, spätestens aber bis zum
+und Energie innerhalb angemessener Frist, spätestens aber bis zum
 Abschluss der Bundesfachplanung, unter der Voraussetzung von Satz 3
 nachträglich widersprechen. Muss infolge des nachträglichen
 Widerspruchs der Raumordnungsplan geändert, ergänzt oder aufgehoben
@@ -557,7 +563,7 @@ Unterlagen zu diesem Zeitpunkt noch nicht bestätigt hat.
 (4) Jede Person, einschließlich Vereinigungen, kann sich innerhalb von
 einem Monat nach Ablauf der Veröffentlichungsfrist schriftlich oder
 elektronisch bei der Bundesnetzagentur zu den beabsichtigten
-Trassenkorridoren äußern. Absatz 2 Satz 3 gilt entsprechend.
+Trassenkorridoren äußern. Absatz 2 Satz 4 gilt entsprechend.
 Rechtsansprüche werden durch die Einbeziehung der Öffentlichkeit nicht
 begründet; die Verfolgung von Rechten im nachfolgenden
 Zulassungsverfahren bleibt unberührt.
@@ -826,8 +832,8 @@ Energiewirtschaftsgesetzes mit der Maßgabe anzuwenden, dass an die
 Stelle von Anträgen auf Anordnung der aufschiebenden Wirkung Anträge
 auf Erlass von vorläufigen Anordnungen treten.
 
-(6) § 44a Absatz 2 des Energiewirtschaftsgesetzes ist entsprechend
-anzuwenden.
+(6) § 44a Absatz 2 und 3 des Energiewirtschaftsgesetzes ist
+entsprechend anzuwenden.
 
 (7) Wird gemäß § 5a Absatz 3 oder Absatz 4 auf die Bundesfachplanung
 verzichtet oder entfällt gemäß § 5a Absatz 4a die Bundesfachplanung,
@@ -939,7 +945,7 @@ anzuwenden, dass
 
 Ziele der Raumordnung, die den Abstand von Höchstspannungsleitungen zu
 Gebäuden oder überbaubaren Grundstücksflächen regeln, sind keine
-zwingenden Gründe im Sinne von Absatz 3a Satz 3. Absatz 4 Satz 2 bis 5
+zwingenden Gründe im Sinne von Absatz 3a Satz 3. Absatz 4 Satz 3 bis 6
 ist insoweit nicht anzuwenden. Satz 1 Nummer 1 und die Sätze 2 und 3
 sind entsprechend anzuwenden, wenn bei einer beantragten Änderung oder
 Erweiterung einer Leitung, bei einem beantragten Ersatzneubau oder bei
@@ -966,15 +972,14 @@ gegenüber der Bundesnetzagentur nicht entstehen, wenn das Ziel der
 Planfeststellung entgegensteht. Macht die Planfeststellung
 nachträglich ein Abweichen von den Zielen der Raumordnung
 erforderlich, kann die Bundesnetzagentur mit Zustimmung des
-Bundesministeriums für Wirtschaft und Klimaschutz innerhalb
-angemessener Frist, spätestens aber bis zum Abschluss der
-Planfeststellung, unter der Voraussetzung von Satz 4 nachträglich
-widersprechen. Muss infolge des nachträglichen Widerspruchs der
-Raumordnungsplan geändert, ergänzt oder aufgehoben werden, hat die
-Bundesnetzagentur die dadurch entstehenden Kosten zu ersetzen. § 6 des
-Raumordnungsgesetzes bleibt unberührt. Städtebauliche Belange sind zu
-berücksichtigen. § 38 Satz 1 und 3 und § 7 Satz 6 des Baugesetzbuches
-sind entsprechend anzuwenden.
+Bundesministeriums für Wirtschaft und Energie innerhalb angemessener
+Frist, spätestens aber bis zum Abschluss der Planfeststellung, unter
+der Voraussetzung von Satz 4 nachträglich widersprechen. Muss infolge
+des nachträglichen Widerspruchs der Raumordnungsplan geändert, ergänzt
+oder aufgehoben werden, hat die Bundesnetzagentur die dadurch
+entstehenden Kosten zu ersetzen. § 6 des Raumordnungsgesetzes bleibt
+unberührt. Städtebauliche Belange sind zu berücksichtigen. § 38 Satz 1
+und 3 und § 7 Satz 6 des Baugesetzbuches sind entsprechend anzuwenden.
 
 (4a) Die Planfeststellungsbehörde ist zu einer detaillierten Prüfung
 von Alternativen nur verpflichtet, wenn es sich um
@@ -1167,15 +1172,16 @@ die Voraussetzungen des § 25 oder des § 24 Absatz 3 vorliegen.
 
 (7) Werden bereits ausgelegte Unterlagen geändert und wird dadurch
 eine erneute Beteiligung der Öffentlichkeit nach § 22 des Gesetzes
-über die Umweltverträglichkeitsprüfung notwendig, sind die Absätze 1
-bis 6 nach Maßgabe der Sätze 2 bis 4 anzuwenden. Die
-Behördenbeteiligung ist abweichend von Absatz 2 auf diejenigen Träger
-öffentlicher Belange zu beschränken, die durch die Änderung in ihrem
-Aufgabenbereich berührt sind. Die Bekanntmachung der Auslegung erfolgt
-abweichend von Absatz 3 Satz 3 in örtlichen Tageszeitungen, die in dem
-Gebiet verbreitet sind, auf das sich die Änderung bezieht, sowie auf
-der Internetseite der Planfeststellungsbehörde. Die Äußerungsfrist
-soll abweichend von Absatz 4 Satz 1 zwei Wochen betragen.
+über die Umweltverträglichkeitsprüfung oder nach § 73 Absatz 8 des
+Verwaltungsverfahrensgesetzes notwendig, sind die Absätze 1 bis 6 nach
+Maßgabe der Sätze 2 und 3 anzuwenden. Die Behördenbeteiligung ist
+abweichend von Absatz 2 auf diejenigen Träger öffentlicher Belange zu
+beschränken, die durch die Änderung in ihrem Aufgabenbereich berührt
+sind. Die Bekanntmachung der Auslegung erfolgt abweichend von Absatz 3
+Satz 3 in örtlichen Tageszeitungen, die in dem Gebiet verbreitet sind,
+auf das sich die Änderung bezieht, sowie auf der Internetseite der
+Planfeststellungsbehörde. Die Äußerungsfrist soll abweichend von
+Absatz 4 Satz 1 zwei Wochen betragen.
 
 
 ### § 23 Umweltverträglichkeitsprüfung
@@ -1569,10 +1575,10 @@ Rechtsverordnung nach § 2 Absatz 2 auf die Bundesnetzagentur
 übertragen worden sind, und die Aufgaben nach § 27.
 
 (3) Die Bundesnetzagentur ist verpflichtet, dem Bundesministerium für
-Wirtschaft und Klimaschutz sowie dem Bundesministerium für Umwelt,
-Naturschutz, nukleare Sicherheit und Verbraucherschutz regelmäßig in
-nicht personenbezogener Form über den Verfahrensstand zur
-Bundesfachplanung und zur Planfeststellung zu berichten.
+Wirtschaft und Energie sowie dem Bundesministerium für Umwelt,
+Klimaschutz, Naturschutz und nukleare Sicherheit regelmäßig in nicht
+personenbezogener Form über den Verfahrensstand zur Bundesfachplanung
+und zur Planfeststellung zu berichten.
 
 (4) Soweit für die Bundesfachplanung und die Planfeststellung
 Geodaten, die bei einer Behörde oder einem Dritten zur Erfüllung
@@ -1714,22 +1720,16 @@ dass im Planfeststellungsverfahren § 18 Absatz 4 Satz 2 nicht
 anzuwenden ist.
 
 (6) Bei Planfeststellungsverfahren, die bis zum Ablauf des 30. Juni
-2025 begonnen werden, kann der Vorhabenträger bei der Antragstellung
-verlangen, das Verfahren nach den §§ 19 bis 21 in der bis zum 29.
-Dezember 2023 geltenden Fassung zu führen. Im Fall eines solchen
-Verlangens ist auch § 33 Absatz 1 Nummer 3 in der bis zum Ablauf des
-29\. Dezember 2023 geltenden Fassung anzuwenden.
+2025 begonnen werden, kann der Vorhabenträger verlangen, das Verfahren
+nach den §§ 19 bis 21 in der bis zum 29. Dezember 2023 geltenden
+Fassung zu führen. Im Fall eines solchen Verlangens ist auch § 33
+Absatz 1 Nummer 3 in der bis zum Ablauf des 29. Dezember 2023
+geltenden Fassung anzuwenden.
 
 
-### § 36 Evaluierung
+### § 36 Vorlage- und Auskunftspflicht der Bundesnetzagentur
 
-Das Bundesministerium für Wirtschaft und Klimaschutz überprüft und
-evaluiert im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz, nukleare Sicherheit und Verbraucherschutz und dem
-Bundesministerium für Digitales und Verkehr im Jahr 2026 die Anwendung
-dieses Gesetzes. Die Bundesnetzagentur unterstützt das
-Bundesministerium für Wirtschaft und Klimaschutz bei der Überprüfung
-und Evaluierung. Zur Unterstützung soll das Bundesministerium für
-Wirtschaft und Klimaschutz außerdem wissenschaftliche Gutachten in
-Auftrag geben.
+§ 99 der Verwaltungsgerichtsordnung ist mit der Maßgabe anzuwenden,
+dass an die Stelle der obersten Aufsichtsbehörde die Bundesnetzagentur
+tritt.
 
