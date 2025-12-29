@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 G v. 28.10.2025 I Nr. 259
 
+Änderung durch
+:   Art. 19 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Leistungen
 
