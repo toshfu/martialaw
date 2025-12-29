@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 30.9.2025 I Nr. 231
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 Nr. 11 G v. 22.12.2025 I Nr. 351 nicht ausführbar, da bereits durch Art. 5 Nr. 2 G v. 30.9.2025 I Nr. 231 erfolgt
+
 Zur umsetzung der bverfge v. 30.6.2020 i 1993 - 1 bvr 1679/17 wurde § 10a dieses g durch
 :   Art. 1 Nr. 10 G v. 3.12.2020 I 2682 mWv 10.12.2020 eingeführt (vgl. BT-Drucksache 19/24039).
 
@@ -97,7 +103,7 @@ See anzuwenden.
     Megawatt,
 
 
-2.  in den Jahren 2025 und 2026 jährlich zwischen 3 000 und 5 000 Megawatt
+2.  in den Jahren 2025 und 2026 jährlich zwischen 2 500 und 5 000 Megawatt
     und
 
 
@@ -109,12 +115,9 @@ Das genaue Ausschreibungsvolumen und die Verteilung des
 Ausschreibungsvolumens auf Gebiete und Flächen regelt der
 Flächenentwicklungsplan nach § 5.
 
-(2) Das Ausschreibungsvolumen nach Absatz 1 wird beginnend mit dem
-Jahr 2027 grundsätzlich zur Hälfte auf die zentral voruntersuchten
-Flächen und zur Hälfte auf die nicht zentral voruntersuchten Flächen
-verteilt. Die zur Ausschreibung kommenden Flächen sollen dabei
-grundsätzlich jeweils eine zu installierende Leistung von 500 bis
-2 000 Megawatt erlauben.
+(2) Die zur Ausschreibung kommenden Flächen, einschließlich
+Beschleunigungsflächen, sollen grundsätzlich eine zu installierende
+Leistung von 500 bis 2 000 Megawatt erlauben.
 
 (3) Zentral voruntersuchte Flächen werden ab dem Jahr 2023 jährlich
 zum Gebotstermin 1. August entsprechend den Festlegungen des
@@ -131,12 +134,17 @@ Flächenentwicklungsplans ausgeschrieben.
 
 Im Sinn dieses Gesetzes ist oder sind
 
-1.  „Cluster“ die im Bundesfachplan Offshore nach § 17a des
+1.  „Beschleunigungsflächen“ Flächen, die für die Errichtung und den
+    Betrieb von Windenergieanlagen auf See nach § 5 besonders geeignet
+    sind, und solche nach § 8a,
+
+
+2.  „Cluster“ die im Bundesfachplan Offshore nach § 17a des
     Energiewirtschaftsgesetzes festgelegten Räume für Windenergieanlagen
     auf See,
 
 
-2.  „clusterinterne Kapazitätsknappheit“ die Überschreitung der Kapazität,
+3.  „clusterinterne Kapazitätsknappheit“ die Überschreitung der Kapazität,
     die auf einer vorhandenen oder im bestätigten Offshore-
     Netzentwicklungsplan nach den §§ 17b und 17c des
     Energiewirtschaftsgesetzes vorgesehenen Offshore-Anbindungsleitung für
@@ -150,18 +158,18 @@ Im Sinn dieses Gesetzes ist oder sind
     angeschlossen werden kann,
 
 
-3.  „Gebiete“ Bereiche in der ausschließlichen Wirtschaftszone oder im
+4.  „Gebiete“ Bereiche in der ausschließlichen Wirtschaftszone oder im
     Küstenmeer für die Errichtung und den Betrieb von Windenergieanlagen
     auf See, die an das Netz angeschlossen werden,
 
 
-4.  „Flächen“ Bereiche innerhalb von Gebieten, auf denen
+5.  „Flächen“ Bereiche innerhalb von Gebieten, auf denen
     Windenergieanlagen auf See, die an das Netz angeschlossen werden, in
     räumlichem Zusammenhang errichtet werden sollen und für die deshalb
     eine gemeinsame Ausschreibung erfolgt,
 
 
-5.  „Offshore-Anbindungsleitungen“ Anbindungsleitungen von den
+6.  „Offshore-Anbindungsleitungen“ Anbindungsleitungen von den
     Netzverknüpfungspunkten an Land zu
 
     a)  den Verknüpfungspunkten zur direkten Anbindung von Windenergieanlagen
@@ -180,7 +188,7 @@ Im Sinn dieses Gesetzes ist oder sind
     dienen,
 
 
-6.  „Pilotwindenergieanlage auf See“ die jeweils ersten drei
+7.  „Pilotwindenergieanlage auf See“ die jeweils ersten drei
     Windenergieanlagen auf See eines Typs, mit denen nachweislich eine
     wesentliche, weit über den Stand der Technik hinausgehende Innovation
     erprobt wird; die Innovation kann insbesondere die Generatorleistung,
@@ -188,7 +196,7 @@ Im Sinn dieses Gesetzes ist oder sind
     Gründungsstruktur betreffen,
 
 
-7.  „sonstige Energiegewinnungsanlage“ jede Anlage zur Erzeugung von Strom
+8.  „sonstige Energiegewinnungsanlage“ jede Anlage zur Erzeugung von Strom
     auf See aus anderen erneuerbaren Energien als Wind, insbesondere aus
     Wasserkraft einschließlich der Wellen-, Gezeiten-, Salzgradienten- und
     Strömungsenergie, oder zur Erzeugung anderer Energieträger,
@@ -196,13 +204,13 @@ Im Sinn dieses Gesetzes ist oder sind
     Energie,
 
 
-8.  „sonstige Energiegewinnungsbereiche“ Bereiche außerhalb von Gebieten,
+9.  „sonstige Energiegewinnungsbereiche“ Bereiche außerhalb von Gebieten,
     auf denen Windenergieanlagen auf See und sonstige
     Energiegewinnungsanlagen, die jeweils nicht an das Netz angeschlossen
     werden, in räumlichem Zusammenhang errichtet werden können,
 
 
-9.  „Testfelder“ Bereiche in der ausschließlichen Wirtschaftszone und im
+10. „Testfelder“ Bereiche in der ausschließlichen Wirtschaftszone und im
     Küstenmeer, in denen im räumlichen Zusammenhang
     Pilotwindenergieanlagen auf See, Windenergieanlagen auf See oder
     sonstige Energiegewinnungsanlagen, die an das Netz angeschlossen
@@ -211,11 +219,11 @@ Im Sinn dieses Gesetzes ist oder sind
     angebunden werden sollen,
 
 
-10. „Testfeld-Anbindungsleitungen“ Testfeld-Anbindungsleitungen im Sinn
+11. „Testfeld-Anbindungsleitungen“ Testfeld-Anbindungsleitungen im Sinn
     von § 12b Absatz 1 Satz 4 Nummer 6 des Energiewirtschaftsgesetzes,
 
 
-11.[^f794982_06_BJNR231000016BJNE000405119]
+12.[^f794982_06_BJNR231000016BJNE000406128]
  „Windenergieanlage auf See“ jede Anlage zur Erzeugung von Strom aus
     Windenergie, die auf See in einer Entfernung von mindestens drei
     Seemeilen gemessen von der Küstenlinie der Bundesrepublik Deutschland
@@ -227,13 +235,13 @@ Im Sinn dieses Gesetzes ist oder sind
     dargestellte Küstenlinie,
 
 
-12. „zentral voruntersuchte Flächen“ Flächen, für die eine zentrale
+13. „zentral voruntersuchte Flächen“ Flächen, für die eine zentrale
     Voruntersuchung nach Teil 2 Abschnitt 2 durch die für die
     Voruntersuchung zuständige Stelle vor dem Ausschreibungstermin
     durchgeführt wurde, und
 
 
-13. „zugewiesene Netzanbindungskapazität“ das Recht, eine bestimmte
+14. „zugewiesene Netzanbindungskapazität“ das Recht, eine bestimmte
     Offshore-Anbindungsleitung bis zu einer bestimmten Leistung für die
     Übertragung von elektrischer Energie aus Windenergieanlagen auf See zu
     nutzen.
@@ -244,7 +252,7 @@ Im Sinn dieses Gesetzes ist oder sind
     Amtlicher Hinweis: Zu beziehen beim Bundesamt für Seeschifffahrt und
     Hydrographie, Bernhard-Nocht-Straße 78, 20359 Hamburg und in der
     Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^f794982_06_BJNR231000016BJNE000405119]: 
+[^f794982_06_BJNR231000016BJNE000406128]: 
 
 ## Teil 2 - Fachplanung und zentrale Voruntersuchung
 
@@ -256,17 +264,18 @@ Im Sinn dieses Gesetzes ist oder sind
 
 (1) Der Flächenentwicklungsplan trifft fachplanerische Festlegungen
 für die ausschließliche Wirtschaftszone. Er kann fachplanerische
-Festlegungen für Gebiete, Flächen, die zeitliche Reihenfolge der
-Ausschreibungen der Flächen, die Kalenderjahre der Inbetriebnahmen und
-die voraussichtlich zu installierende Leistung sowie für Testfelder
-und sonstige Energiegewinnungsbereiche für das Küstenmeer treffen.
-Nach Maßgabe einer Verwaltungsvereinbarung zwischen dem Bund,
-vertreten durch das Bundesamt für Seeschifffahrt und Hydrographie, und
-dem zuständigen Land werden die einzelnen Festlegungen für das
-Küstenmeer näher bestimmt. Das Land stellt dem Bundesamt für
-Seeschifffahrt und Hydrographie die jeweils dafür erforderlichen
-Informationen und Unterlagen einschließlich derjenigen, die für die
-Strategische Umweltprüfung erforderlich sind, zur Verfügung.
+Festlegungen für Gebiete, Flächen, einschließlich
+Beschleunigungsflächen, die zeitliche Reihenfolge der Ausschreibungen
+der Flächen, die Kalenderjahre der Inbetriebnahmen und die
+voraussichtlich zu installierende Leistung sowie für Testfelder und
+sonstige Energiegewinnungsbereiche für das Küstenmeer treffen. Nach
+Maßgabe einer Verwaltungsvereinbarung zwischen dem Bund, vertreten
+durch das Bundesamt für Seeschifffahrt und Hydrographie, und dem
+zuständigen Land werden die einzelnen Festlegungen für das Küstenmeer
+näher bestimmt. Das Land stellt dem Bundesamt für Seeschifffahrt und
+Hydrographie die jeweils dafür erforderlichen Informationen und
+Unterlagen einschließlich derjenigen, die für die Strategische
+Umweltprüfung erforderlich sind, zur Verfügung.
 
 (2) Für den Ausbau von Windenergieanlagen auf See und der hierfür
 erforderlichen Offshore-Anbindungsleitungen trifft der
@@ -277,13 +286,17 @@ Flächenentwicklungsplan Festlegungen mit dem Ziel,
 
 
 2.  die Stromerzeugung aus Windenergieanlagen auf See räumlich geordnet
-    und flächensparsam auszubauen und
+    und flächensparsam auszubauen,
 
 
 3.  eine geordnete und effiziente Nutzung und Auslastung der Offshore-
     Anbindungsleitungen zu gewährleisten und Offshore-Anbindungsleitungen
     im Gleichlauf mit dem Ausbau der Stromerzeugung aus Windenergieanlagen
-    auf See zu planen, zu errichten, in Betrieb zu nehmen und zu nutzen.
+    auf See zu planen, zu errichten, in Betrieb zu nehmen und zu nutzen
+    sowie
+
+
+4.  Beschleunigungsflächen festzulegen.
 
 
 
@@ -311,10 +324,10 @@ folgenden Bestimmungen für das Küstenmeer Festlegungen über
     Flächenentwicklungsplans ausgewiesen hat,
 
 
-2.  Flächen in den nach Nummer 1 festgelegten Gebieten; im Küstenmeer
-    können Flächen nur festgelegt werden, wenn das zuständige Land die
-    Flächen als möglichen Gegenstand des Flächenentwicklungsplans
-    ausgewiesen hat,
+2.  Flächen, einschließlich Beschleunigungsflächen, in den nach Nummer 1
+    festgelegten Gebieten, wobei im Küstenmeer Flächen nur festgelegt
+    werden können, wenn das zuständige Land die Flächen als möglichen
+    Gegenstand des Flächenentwicklungsplans ausgewiesen hat,
 
 
 3.  die zeitliche Reihenfolge, in der die festgelegten Flächen zur
@@ -375,7 +388,8 @@ Absatz 2 des Energiewirtschaftsgesetzes vorgeben.
         ausgewiesen hat; wird ein Testfeld tatsächlich nicht oder in nur
         unwesentlichem Umfang genutzt, kann ein späterer
         Flächenentwicklungsplan die Festlegung des Testfeldes aufheben und
-        stattdessen Gebiete und Flächen festlegen,
+        stattdessen Gebiete und Flächen einschließlich Beschleunigungsflächen,
+        festlegen,
 
 
     b)  die Kalenderjahre, in denen auf den festgelegten Testfeldern jeweils
@@ -430,7 +444,84 @@ des Flächenentwicklungsplans ausgewiesen hat. Wird ein sonstiger
 Energiegewinnungsbereich tatsächlich nicht oder in nur unwesentlichem
 Umfang genutzt, kann ein späterer Flächenentwicklungsplan die
 Festlegung des sonstigen Energiegewinnungsbereichs aufheben und
-stattdessen Gebiete und Flächen festlegen.
+stattdessen Gebiete und Flächen, einschließlich
+Beschleunigungsflächen, festlegen.
+
+(2b) Der Flächenentwicklungsplan legt einen Teil der Flächen
+zusätzlich als Beschleunigungsflächen fest. Es müssen
+Beschleunigungsflächen ab dem Jahr 2026 festgelegt werden, die einen
+Beitrag zur Verwirklichung der Ziele der Richtlinie (EU) 2018/2001 in
+der Fassung vom 18. Oktober 2023 und der in § 1 Absatz 2 genannten
+Ziele leisten. Eine Fläche soll als Beschleunigungsfläche festgelegt
+werden, wenn auf ihr durch die Errichtung und den Betrieb von
+Windenergieanlagen auf See voraussichtlich keine erheblichen
+Umweltauswirkungen zu erwarten sind. Umweltauswirkungen im Sinne von
+Satz 3 sind abweichend von den Regelungen des Gesetzes über die
+Umweltverträglichkeitsprüfung nur Auswirkungen auf die Erhaltungsziele
+im Sinne des § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes oder
+auf die besonders geschützten Arten nach § 7 Absatz 2 Nummer 13 des
+Bundesnaturschutzgesetzes. Die Errichtung und der Betrieb von
+Windenergieanlagen auf See hat voraussichtlich keine erheblichen
+Umweltauswirkungen, soweit eine Beschleunigungsfläche nicht unter Satz
+7 Nummer 1 bis 6 fällt. Die Festlegung als Beschleunigungsfläche
+erfolgt durch das Bundesamt für Seeschifffahrt und Hydrographie im
+Benehmen mit dem Bundesamt für Naturschutz. Die Festlegung als
+Beschleunigungsfläche ist ausgeschlossen, wenn eine Fläche
+
+1.  in einem besonders sensiblen Gebiet liegt,
+
+
+2.  in einem Natura 2000-Gebiet nach § 7 Absatz 1 Nummer 8 des
+    Bundesnaturschutzgesetzes liegt,
+
+
+3.  in einem Meeresgebiet liegt, das durch eine Schutzgebietsverordnung
+    nach § 57 des Bundesnaturschutzgesetzes geschützt ist,
+
+
+4.  in einem in der Anlage zur Verordnung über die Raumordnung in der
+    deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der
+    Ostsee vom 19. August 2021 (BGBl. I S. 3886) ausgewiesenen
+    Vogelzugkorridor liegt,
+
+
+5.  innerhalb eines Bereichs mit 8 Kilometern Breite, ausgehend von der
+    äußeren Grenze eines Gebiets nach den Nummern 1 bis 4, liegt, wobei
+    dies für Nummer 1 nicht anzuwenden ist für neue durch das Bundesamt
+    für Seeschifffahrt und Hydrographie ermittelte Gebiete nach Satz 9,
+    oder
+
+
+6.  in der Ostsee liegt.
+
+
+
+Besonders sensible Gebiete im Sinne von Satz 7 Nummer 1 sind das in
+der Anlage zur Verordnung über die Raumordnung in der deutschen
+ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee
+ausgewiesene Vorranggebiet Seetaucher und das Vorbehaltsgebiet
+Schweinswale. Das Bundesamt für Seeschifffahrt und Hydrographie kann
+im Benehmen mit dem Bundesamt für Naturschutz weitere besonders
+sensible Gebiete ermitteln.
+
+(2c) Der Flächenentwicklungsplan legt insbesondere für
+Beschleunigungsflächen und für Infrastrukturgebiete nach § 12j des
+Energiewirtschaftsgesetzes wirksame und verhältnismäßige
+Minderungsmaßnahmen oder Regeln für Minderungsmaßnahmen fest, um
+mögliche negative Umweltauswirkungen zu vermeiden oder, falls dies
+nicht möglich ist, gegebenenfalls erheblich zu verringern. Der
+Flächenentwicklungsplan kann auf und außerhalb von
+Beschleunigungsflächen für ein oder mehrere Pilotprojekte die
+Möglichkeit vorsehen, dass die Zulassungsbehörde neuartige
+Minderungsmaßnahmen, deren Wirksamkeit bisher nicht umfassend geprüft
+wurde, für einen begrenzten Zeitraum anordnen kann. Das Bundesamt für
+Seeschifffahrt und Hydrographie überwacht die Wirksamkeit der
+neuartigen Minderungsmaßnahmen und trifft im Benehmen mit dem
+Bundesamt für Naturschutz unverzüglich geeignete und verhältnismäßige
+Maßnahmen, soweit die neuartigen Minderungsmaßnahmen sich als nicht
+wirksam erweisen. Die Maßnahmen nach den Sätzen 1 und 2 werden bei der
+Ausübung des Ermessens nach Absatz 2b Satz 3, unter Wahrung der nach
+Absatz 2b Satz 7 ausgeschlossenen Gebiete, berücksichtigt.
 
 (3) Festlegungen nach Absatz 1 Nummer 1 und 2 sowie 6 bis 11 und
 Festlegungen nach Absatz 2 Satz 1 Nummer 1 Buchstabe a und Absatz 2a
@@ -465,9 +556,9 @@ entgegenstehen. Diese Festlegungen sind insbesondere unzulässig, wenn
 
 Bei der Abwägung ist das überragende öffentliche Interesse an der
 Errichtung von Windenergieanlagen auf See und Offshore-
-Anbindungsleitungen und deren Bedeutung für die öffentliche Sicherheit
-nach § 1 Absatz 3 zu berücksichtigen. Soweit das Gebiet oder die
-Fläche in einem vom Bundesfachplan Offshore nach § 17a des
+Anbindungsleitungen und deren Bedeutung für die öffentliche Gesundheit
+und Sicherheit nach § 1 Absatz 3 zu berücksichtigen. Soweit das Gebiet
+oder die Fläche in einem vom Bundesfachplan Offshore nach § 17a des
 Energiewirtschaftsgesetzes festgelegten Cluster oder einem Vorrang-,
 Vorbehalts- oder Eignungsgebiet eines Raumordnungsplans nach § 17
 Absatz 1 Satz 1 des Raumordnungsgesetzes liegt, muss die Zulässigkeit
@@ -507,7 +598,7 @@ insbesondere
     a)  bereits vorhanden sind oder
 
 
-    b)  im Offshore-Netzentwicklungsplan vorbehaltlos bestätigt sind,
+    b)  im Netzentwicklungsplan vorbehaltlos bestätigt sind,
 
 
 
@@ -687,10 +778,11 @@ Hydrographie und der Bundesnetzagentur.
 
 (2) Der Flächenentwicklungsplan wird nach Maßgabe von § 5 geändert
 oder fortgeschrieben, wenn zur Erreichung der Ziele nach § 4 die
-Festlegung anderer oder weiterer Gebiete und Flächen oder eine
-Änderung der zeitlichen Reihenfolge der zentralen Voruntersuchung der
-Flächen erforderlich ist oder wenn die folgenden Vorschriften es
-vorsehen, mindestens jedoch alle vier Jahre.
+Festlegung anderer oder weiterer Gebiete und Flächen, einschließlich
+Beschleunigungsflächen, oder eine Änderung der zeitlichen Reihenfolge
+der zentralen Voruntersuchung der Flächen erforderlich ist oder wenn
+die folgenden Vorschriften es vorsehen, mindestens jedoch alle vier
+Jahre.
 
 (3) Bei Fortschreibungen des Flächenentwicklungsplans über das Jahr
 2030 hinaus können auch Festlegungen zu einer Nachnutzung und erneuten
@@ -739,10 +831,10 @@ geändert worden ist. § 72a bleibt unberührt.
 #### § 9 Ziel der zentralen Voruntersuchung von Flächen
 
 (1) Die zentrale Voruntersuchung von im Flächenentwicklungsplan
-festgelegten Flächen nach den §§ 10 bis 12 erfolgt in der im
-Flächenentwicklungsplan festgelegten Reihenfolge mit dem Ziel, für die
-Ausschreibungen zentral voruntersuchter Flächen nach Teil 3 Abschnitt
-5
+festgelegten Flächen außerhalb von Beschleunigungsflächen nach den §§
+10 bis 12 erfolgt in der im Flächenentwicklungsplan festgelegten
+Reihenfolge mit dem Ziel, für die Ausschreibungen zentral
+voruntersuchter Flächen nach Teil 3 Abschnitt 5
 
 1.  den Bietern die Informationen zur Verfügung zu stellen, die eine
     wettbewerbliche Bestimmung des Gebots nach § 51 ermöglichen, und
@@ -1091,18 +1183,19 @@ festgestellt. Zugleich wird in der Rechtsverordnung entsprechend § 1
 Absatz 3 festgestellt, dass die Realisierung von Windenergieanlagen
 auf See auf der zentral voruntersuchten Fläche aus Gründen eines
 überragenden öffentlichen Interesses und im Interesse der öffentlichen
-Sicherheit erforderlich ist. Die Eignungsfeststellung nach Satz 1 kann
-Vorgaben für das spätere Vorhaben beinhalten, wenn andernfalls durch
-die Errichtung und den Betrieb von Windenergieanlagen auf See auf
-dieser Fläche Beeinträchtigungen der Kriterien und Belange nach § 10
-Absatz 2 zu besorgen sind. Die Vorgaben für das spätere Vorhaben nach
-Satz 3 können insbesondere die Bauausführung, die Art und den Umfang
-der Bebauung der Fläche, die Lage der Bebauung auf der Fläche sowie
-den Betrieb der Windenergieanlagen auf See betreffen. Zum Erlass einer
+Gesundheit und Sicherheit erforderlich ist. Die Eignungsfeststellung
+nach Satz 1 kann Vorgaben für das spätere Vorhaben beinhalten, wenn
+andernfalls durch die Errichtung und den Betrieb von
+Windenergieanlagen auf See auf dieser Fläche Beeinträchtigungen der
+Kriterien und Belange nach § 10 Absatz 2 zu besorgen sind. Die
+Vorgaben für das spätere Vorhaben nach Satz 3 können insbesondere die
+Bauausführung, die Art und den Umfang der Bebauung der Fläche, die
+Lage der Bebauung auf der Fläche sowie den Betrieb der
+Windenergieanlagen auf See betreffen. Zum Erlass einer
 Rechtsverordnung nach Satz 1 wird ermächtigt
 
 1.  bei Flächen in der ausschließlichen Wirtschaftszone das
-    Bundesministerium für Wirtschaft und Klimaschutz ohne Zustimmung des
+    Bundesministerium für Wirtschaft und Energie ohne Zustimmung des
     Bundesrates und
 
 
@@ -1111,13 +1204,13 @@ Rechtsverordnung nach Satz 1 wird ermächtigt
 
 
 
-Das Bundesministerium für Wirtschaft und Klimaschutz kann die
-Ermächtigung zum Erlass einer Rechtsverordnung nach Satz 5 Nummer 1
-durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
+Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung
+zum Erlass einer Rechtsverordnung nach Satz 5 Nummer 1 durch
+Rechtsverordnung ohne Zustimmung des Bundesrates auf die
 Bundesnetzagentur oder das Bundesamt für Seeschifffahrt und
 Hydrographie übertragen. Sofern das Bundesministerium für Wirtschaft
-und Klimaschutz die Ermächtigung zum Erlass einer Rechtsverordnung auf
-die Bundesnetzagentur übertragen hat, kann die Bundesnetzagentur diese
+und Energie die Ermächtigung zum Erlass einer Rechtsverordnung auf die
+Bundesnetzagentur übertragen hat, kann die Bundesnetzagentur diese
 Ermächtigung durch Rechtsverordnung auf das Bundesamt für
 Seeschifffahrt und Hydrographie weiter übertragen. Die
 Rechtsverordnungen, die auf dieser Grundlage von einer
@@ -1240,15 +1333,16 @@ Energien-Gesetzes nach Maßgabe von Teil 5 haben.
 
 #### § 14a Ergänzende Kapazitätszuweisung
 
-Sofern die Netzanbindungskapazität einer Offshore-Anbindungsleitung
-nicht vollständig durch zugewiesene Netzanbindungskapazität oder
-Netzanbindungszusagen nach § 118 Absatz 12 des
-Energiewirtschaftsgesetzes gebunden ist, kann die Bundesnetzagentur
-die auf der Offshore-Anbindungsleitung verbleibende
-Netzanbindungskapazität den an die Offshore-Anbindungsleitung
-angeschlossenen Windenergieanlagen auf See proportional zu ihrer
-zugewiesenen oder zugesagten Netzanbindungskapazität befristet zur
-zusätzlichen Nutzung zuweisen, sofern
+(1) Sofern die Netzanbindungskapazität einer Offshore-
+Anbindungsleitung nicht vollständig durch zugewiesene
+Netzanbindungskapazität oder Netzanbindungszusagen nach § 118 Absatz
+12 des Energiewirtschaftsgesetzes in der am 28. Dezember 2023
+geltenden Fassung gebunden ist, kann die Bundesnetzagentur die auf der
+Offshore-Anbindungsleitung verbleibende Netzanbindungskapazität den an
+die Offshore-Anbindungsleitung angeschlossenen Windenergieanlagen auf
+See proportional zu ihrer zugewiesenen oder zugesagten
+Netzanbindungskapazität befristet zur zusätzlichen Nutzung zuweisen,
+sofern
 
 1.  die Kapazität nach einer Prognose der Bundesnetzagentur mindestens für
     die Dauer von sechs Monaten ungenutzt wäre und
@@ -1270,6 +1364,13 @@ auf See vornehmen. Die Bundesnetzagentur kann ferner eine von der
 proportionalen Verteilung nach Satz 1 abweichende Verteilung
 vornehmen, wenn dies aus technischen Gründen erforderlich ist.
 
+(2) Die Bundesnetzagentur entscheidet über einen Antrag auf ergänzende
+Kapazitätszuweisung innerhalb von drei Monaten, sofern das Repowering
+nach § 89 nicht zu einer Erhöhung der Kapazität einer Anlage um mehr
+als 15 Prozent führt. Dies gilt nicht bei begründeten
+Sicherheitsbedenken oder einer technischen Inkompatibilität mit
+Netzkomponenten.
+
 
 #### § 15 Allgemeine Ausschreibungsbedingungen
 
@@ -1281,8 +1382,8 @@ die Ausschreibungen nach Abschnitt 5, sofern die Ausschreibung nach §
 Hydrographie jeweils an die Stelle der Bundesnetzagentur.
 
 (2) Die für die Ausschreibung zuständige Stelle kann im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Klimaschutz einen Bieter,
-der ein Unionsfremder im Sinn des § 2 Absatz 19 des
+mit dem Bundesministerium für Wirtschaft und Energie einen Bieter, der
+ein Unionsfremder im Sinn des § 2 Absatz 19 des
 Außenwirtschaftsgesetzes ist oder dessen unmittelbare oder mittelbare
 Gesellschafter Unionsfremde sind, von dem Zuschlagsverfahren
 ausschließen, wenn seine Bezuschlagung oder der Betrieb der
@@ -2613,8 +2714,8 @@ den Bundeshaushalt. Die Mittel aus der Zahlung sind zweckgebunden
 insbesondere für Maßnahmen des Meeresnaturschutzes möglichst in dem
 betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen
 Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden
-vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
-Verbraucherschutz bewirtschaftet. Die Verpflichtungen nach § 15 des
+vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit bewirtschaftet. Die Verpflichtungen nach § 15 des
 Bundesnaturschutzgesetzes bleiben unberührt.
 
 (2) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach
@@ -2625,7 +2726,8 @@ insbesondere für Maßnahmen zur umweltschonenden Fischerei
 einschließlich Fischereistrukturmaßnahmen möglichst in dem betroffenen
 Naturraum zu verwenden, für die nicht bereits nach anderen
 Vorschriften eine rechtliche Verpflichtung besteht. Die Mittel werden
-vom Bundesministerium für Ernährung und Landwirtschaft bewirtschaftet.
+vom Bundesministerium für Landwirtschaft, Ernährung und Heimat
+bewirtschaftet.
 
 (3) Sind die Einnahmen für die Meeresnaturschutzkomponente nach Absatz
 1 und § 23 Absatz 1 Satz 1 Nummer 2 und die Fischereikomponente nach
@@ -2907,16 +3009,19 @@ Windenergieanlagen auf See im Küstenmeer entsprechend anzuwenden.
 (1) Die Errichtung und der Betrieb von Einrichtungen bedürfen der
 Planfeststellung. Abweichend von Satz 1 bedürfen die wesentliche
 Änderung von Einrichtungen sowie die Errichtung und der Betrieb von
-Einrichtungen auf zentral voruntersuchten Flächen, die den Vorgaben
-der Rechtsverordnung nach § 12 Absatz 5 entsprechen, sowie die
-Errichtung und der Betrieb von Offshore-Anbindungsleitungen und
-Anlagen zur Übertragung von anderen Energieträgern aus
-Windenergieanlagen auf See oder aus sonstigen
-Energiegewinnungsanlagen, der Plangenehmigung.
+Einrichtungen auf Beschleunigungsflächen und zentral voruntersuchten
+Flächen, die den Vorgaben der Rechtsverordnung nach § 12 Absatz 5
+entsprechen, sowie die Errichtung und der Betrieb von Offshore-
+Anbindungsleitungen und Anlagen zur Übertragung von anderen
+Energieträgern aus Windenergieanlagen auf See oder aus sonstigen
+Energiegewinnungsanlagen der Plangenehmigung.
 
-(2) Zuständige Anhörungs- und Planfeststellungsbehörde ist das
-Bundesamt für Seeschifffahrt und Hydrographie; dieses ist auch
-Plangenehmigungsbehörde.
+(2) Zuständige Anhörungs- und Planfeststellungsbehörde sowie
+Plangenehmigungsbehörde ist das Bundesamt für Seeschifffahrt und
+Hydrographie. Das Bundesamt für Seeschifffahrt und Hydrographie ist
+für Zulassungsverfahren nach diesem Gesetz zugleich Anlaufstelle nach
+Artikel 16 Absatz 3 der Richtlinie (EU) 2018/2001 in der Fassung vom
+18\. Oktober 2023.
 
 (3) Für das Planfeststellungsverfahren sind die §§ 72 bis 78 des
 Verwaltungsverfahrensgesetzes anzuwenden, soweit dieses Gesetz nichts
@@ -3016,15 +3121,24 @@ nach § 73 Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes
 
 
 
-(2) Reichen die Angaben und Unterlagen für die Prüfung nicht aus, so
-hat sie der Träger des Vorhabens auf Verlangen des Bundesamts für
-Seeschifffahrt und Hydrographie innerhalb einer von dieser gesetzten
-angemessenen Frist zu ergänzen. Kommt der Träger des Vorhabens dem
-nicht nach, kann das Bundesamt für Seeschifffahrt und Hydrographie den
+(2) Das Bundesamt für Seeschifffahrt und Hydrographie bestätigt die
+Vollständigkeit des Antrags auf Durchführung des
+Planfeststellungsverfahrens schriftlich oder elektronisch innerhalb
+von 45 Tagen nach Einreichung der Unterlagen durch den Träger des
+Vorhabens. Der Antrag ist vollständig, wenn die Angaben und Unterlagen
+für die Prüfung ausreichen. Anderenfalls fordert das Bundesamt für
+Seeschifffahrt und Hydrographie den Träger des Vorhabens unter
+Bezeichnung der fehlenden Angaben und Unterlagen auf, unverzüglich den
+Antrag zu vervollständigen, und setzt ihm hierfür eine Frist. Kommt
+der Träger des Vorhabens dieser Aufforderung des Bundesamts für
+Seeschifffahrt und Hydrographie nicht innerhalb der gesetzten Frist
+nach, kann das Bundesamt für Seeschifffahrt und Hydrographie den
 Antrag ablehnen. Das Bundesamt für Seeschifffahrt und Hydrographie
-kann ein Verlangen nach Satz 1 nur einmalig und innerhalb von sechs
-Wochen nach Einreichung der Unterlagen durch den Träger des Vorhabens
-erklären.
+kann eine Aufforderung nach Satz 3 nur einmalig und innerhalb von 45
+Tagen nach Einreichung der Unterlagen durch den Träger des Vorhabens
+erklären. Der Antrag gilt als vollständig, wenn das Bundesamt für
+Seeschifffahrt und Hydrographie nach Ablauf von 45 Tagen keine
+Unterlagen nach Satz 3 nachgefordert hat.
 
 (3) § 73 Absatz 2, Absatz 3 Satz 1, Absatz 4 Satz 1 und Absatz 5 Satz
 1 sowie § 74 Absatz 4 Satz 2 des Verwaltungsverfahrensgesetzes sind
@@ -3034,7 +3148,11 @@ der Unterlagen ist nach § 98 Nummer 1 hinzuweisen. § 73 Absatz 3a des
 Verwaltungsverfahrensgesetzes ist mit der Maßgabe anzuwenden, dass die
 von dem Bundesamt für Seeschifffahrt und Hydrographie zu setzende
 Frist nach § 73 Absatz 3a Satz 1 des Verwaltungsverfahrensgesetzes
-sechs Wochen nicht überschreiten darf.
+sechs Wochen nicht überschreiten darf. Das Bundesamt für
+Seeschifffahrt und Hydrographie kann von Behörden, deren
+Aufgabenbereich durch das Vorhaben berührt wird, verlangen, ihre
+Stellungnahmen nach § 73 Absatz 2 und 3a des
+Verwaltungsverfahrensgesetzes elektronisch zu übermitteln.
 
 (4) Um eine zügige Durchführung das Bundesamt für Seeschifffahrt und
 Hydrographie zu ermöglichen, kann die Planfeststellungsbehörde dem
@@ -3126,9 +3244,10 @@ erteilt werden, wenn
 
 Das überragende öffentliche Interesse an der Errichtung von
 Windenergieanlagen auf See und Offshore-Anbindungsleitungen und deren
-Bedeutung für die öffentliche Sicherheit nach § 1 Absatz 3 ist zu
-berücksichtigen. Der Plan darf zudem nur festgestellt und die
-Plangenehmigung darf nur erteilt werden, wenn der Vorhabenträger
+Bedeutung für die öffentliche Gesundheit und Sicherheit nach § 1
+Absatz 3 ist zu berücksichtigen. Der Plan darf zudem nur festgestellt
+und die Plangenehmigung darf nur erteilt werden, wenn der
+Vorhabenträger
 
 1.  bei Windenergieanlagen auf See über einen Zuschlag nach den §§ 20, 21,
     54 oder nach § 34 für die Fläche, auf die sich der Plan bezieht,
@@ -3151,11 +3270,13 @@ insbesondere aufgrund der Ausgestaltung des Vorhabens auf der Fläche.
 
 (4) Das Bundesamt für Seeschifffahrt und Hydrographie soll einen
 Planfeststellungsbeschluss für Windenergieanlagen auf See nach Eingang
-der Unterlagen innerhalb von 18 Monaten erteilen. Das Bundesamt für
-Seeschifffahrt und Hydrographie kann die Frist um drei Monate
-verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus
-Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die
-Fristverlängerung soll gegenüber dem Antragsteller begründet werden.
+der Unterlagen innerhalb von 18 Monaten erteilen. Eine Plangenehmigung
+soll es nach Eingang der Unterlagen innerhalb von zwölf Monaten
+erteilen. Das Bundesamt für Seeschifffahrt und Hydrographie kann die
+Fristen nach den Sätzen 1 und 2 in durch außergewöhnliche Umstände
+hinreichend begründeten Fällen um drei Monate verlängern. Die
+Fristverlängerung muss gegenüber dem Träger des Vorhabens begründet
+werden.
 
 (5) Das Bundesamt für Seeschifffahrt und Hydrographie kann den
 Planfeststellungsbeschluss oder die Plangenehmigung ganz oder
@@ -3243,7 +3364,7 @@ Beeinträchtigung der Sicherheit des Verkehrs zu besorgen ist, die
 nicht durch Bedingungen oder Auflagen verhütet oder ausgeglichen
 werden kann.
 
-(11) § 70 Absatz 4 ist entsprechend anzuwenden für Anlagen zur
+(11) § 70 Absatz 3 ist entsprechend anzuwenden für Anlagen zur
 Übertragung von anderen Energieträgern aus Windenergieanlagen auf See
 oder aus sonstigen Energiegewinnungsanlagen, die durch
 Planfeststellung zugelassen werden.
@@ -3281,6 +3402,19 @@ dessen Kosten beauftragen. Die Entscheidung über den
 Planfeststellungs- oder Plangenehmigungsantrag liegt allein beim
 Bundesamt für Seeschifffahrt und Hydrographie.
 
+(13) Untersuchungen der Meeresumwelt auf einer Fläche in Vorbereitung
+oder im Rahmen eines Zulassungsverfahrens, einschließlich des
+Monitorings nach § 77 Absatz 3 Nummer 1, sollen zeitlich und räumlich
+ohne Überschneidungen zu Untersuchungen anderer Flächen durchgeführt
+werden. Satz 1 ist sowohl auf die zentralen Voruntersuchungen nach
+Teil 2 Abschnitt 2 als auch auf die Untersuchungen durch den Träger
+des Vorhabens anzuwenden. Soweit Satz 1 anzuwenden ist, müssen die auf
+den Flächen erhobenen Daten und Informationen unverzüglich
+wechselseitig zwischen den Trägern der Vorhaben oder dem Bundesamt für
+Seeschifffahrt und Hydrographie elektronisch ausgetauscht und für die
+Verwendung in den Verfahren nach diesem Gesetz zur Verfügung gestellt
+werden.
+
 
 #### § 70 Plangenehmigung
 
@@ -3301,15 +3435,7 @@ im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des §
 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung
 verzichten kann.
 
-(3) Das Bundesamt für Seeschifffahrt und Hydrographie soll eine
-Plangenehmigung in den Fällen von § 66 Absatz 1 Satz 2 nach Eingang
-der Unterlagen innerhalb von zwölf Monaten erteilen. Das Bundesamt für
-Seeschifffahrt und Hydrographie kann die Frist um drei Monate
-verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus
-Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die
-Fristverlängerung soll gegenüber dem Antragsteller begründet werden.
-
-(4) Das Bundesamt für Seeschifffahrt und Hydrographie kann sich zur
+(3) Das Bundesamt für Seeschifffahrt und Hydrographie kann sich zur
 Erfüllung seiner Aufgaben nach § 66 Absatz 1 Satz 2 hinsichtlich der
 technischen Sicherheit und Überwachung von Anlagen zur Übertragung von
 anderen Energieträgern aus Windenergieanlagen auf See oder aus
@@ -3318,14 +3444,304 @@ bedienen. Die Kosten für einen anerkannten Sachverständigen trägt der
 Vorhabenträger.
 
 
+#### § 70a Plangenehmigung für die Errichtung und den Betrieb von Windenergieanlagen auf See auf Beschleunigungsflächen
+
+(1) Bei Durchführung eines Plangenehmigungsverfahrens zur Errichtung
+und zum Betrieb von Windenergieanlagen auf See auf einer
+Beschleunigungsfläche bestätigt das Bundesamt für Seeschifffahrt und
+Hydrographie die Vollständigkeit des Antrags schriftlich oder
+elektronisch innerhalb von 30 Tagen nach Eingang des Antrags. § 68
+Absatz 2 ist entsprechend anzuwenden. § 70 Absatz 2 ist nur im Fall
+von Absatz 2 Satz 2 anzuwenden.
+
+(2) Bei der Zulassung und dem Betrieb von Windenergieanlagen auf See
+auf einer Beschleunigungsfläche sind die nachfolgenden Prüfungen nicht
+durchzuführen, sofern Maßnahmen, einschließlich Maßnahmen nach Regeln,
+aus dem Flächenentwicklungsplan nach § 5 Absatz 2c Satz 1 sowie nach
+den nachfolgenden Absätzen angeordnet werden:
+
+1.  abweichend von den Vorschriften des Gesetzes über die
+    Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung,
+
+
+2.  abweichend von § 34 Absatz 1 des Bundesnaturschutzgesetzes eine
+    Verträglichkeitsprüfung und
+
+
+3.  abweichend von § 44 Absatz 1 des Bundesnaturschutzgesetzes eine
+    artenschutzrechtliche Prüfung.
+
+
+
+Satz 1 Nummer 1 ist nicht für Windenergieanlagen auf See anzuwenden,
+deren Errichtung oder Betrieb voraussichtlich erhebliche Auswirkungen
+auf die Umwelt eines anderen Staates hat oder wenn ein anderer Staat,
+der von dem Vorhaben voraussichtlich erheblich betroffen ist, eine
+Beteiligung wünscht. Mit Durchführung der Maßnahmen, einschließlich
+Maßnahmen nach Regeln, aus dem Flächenentwicklungsplan nach § 5 Absatz
+2c Satz 1 oder der vom Bundesamt für Seeschifffahrt und Hydrographie
+nach Absatz 4 angeordneten Maßnahmen ist die Einhaltung der
+Vorschriften der §§ 34 und 44 Absatz 1 des Bundesnaturschutzgesetzes
+gewährleistet. Die Anforderungen nach sonstigen Vorschriften des
+Fachrechts bleiben unberührt. Absatz 3 bleibt unberührt. § 69 Absatz 3
+Satz 1 Nummer 1 ist mit der Maßgabe anzuwenden, dass Auswirkungen auf
+die Erhaltungsziele nach § 7 Absatz 1 Nummer 9 des
+Bundesnaturschutzgesetzes und auf die besonders geschützten Arten nach
+§ 7 Absatz 2 Nummer 13 des Bundesnaturschutzgesetzes nicht zu
+betrachten sind.
+
+(3) Das Bundesamt für Seeschifffahrt und Hydrographie überprüft im
+Benehmen mit dem Bundesamt für Naturschutz bei Vorhaben nach Absatz 2
+spätestens parallel zur Prüfung nach § 68 Absatz 2 auf Grundlage
+vorhandener Daten, ob das Vorhaben auch bei Durchführung der Maßnahmen
+höchstwahrscheinlich erhebliche unvorhergesehene nachteilige
+Umweltauswirkungen angesichts der ökologischen Empfindlichkeit des
+Gebiets haben wird, die bei der Strategischen Umweltprüfung des
+Flächenentwicklungsplans und der im Einzelfall durchzuführenden
+Verträglichkeitsprüfung nach § 36 des Bundesnaturschutzgesetzes nicht
+ermittelt wurden (Überprüfungsverfahren). Dabei prüft das Bundesamt
+für Seeschifffahrt und Hydrographie auch, ob für das Vorhaben eine
+Pflicht zur Umweltverträglichkeitsprüfung aufgrund der
+Wahrscheinlichkeit erheblicher Auswirkungen auf die Umwelt in einem
+anderen Staat oder aufgrund des Beteiligungswunschs eines anderen
+Staates, der voraussichtlich erheblich betroffen sein wird, besteht.
+Für das Überprüfungsverfahren stellt der Träger des Vorhabens auf
+Anforderung des Bundesamts für Seeschifffahrt und Hydrographie
+unverzüglich nach Erhalt des Zuschlags Informationen über die Merkmale
+des Vorhabens, über die Einhaltung der nach § 5 Absatz 2c festgelegten
+Maßnahmen und Regeln für Maßnahmen, über etwaige zusätzliche vom
+Träger des Vorhabens getroffene Maßnahmen sowie Informationen darüber
+zur Verfügung, wie mit diesen Maßnahmen auf Umweltauswirkungen
+reagiert wird. Das Bundesamt für Seeschifffahrt und Hydrographie kann
+den Träger des Vorhabens auffordern, zusätzliche vorhandene
+Informationen vorzulegen. Das Bundesamt für Seeschifffahrt und
+Hydrographie schließt das Überprüfungsverfahren innerhalb von 45 Tagen
+nach Erhalt der für den Zweck des Überprüfungsverfahrens ausreichenden
+Informationen ab, bei Anträgen auf Austausch einer bestehenden
+Windenergieanlage auf See nach § 89 Absatz 1 Satz 1 innerhalb von 30
+Tagen.
+
+(4) Ergibt das Überprüfungsverfahren, dass das Vorhaben auch bei
+Durchführung der Maßnahmen, einschließlich Maßnahmen nach Regeln, aus
+dem Flächenentwicklungsplan nach § 5 Absatz 2c Satz 1 und der vom
+Träger des Vorhabens getroffenen Maßnahmen höchstwahrscheinlich
+erhebliche unvorhergesehene nachteilige Umweltauswirkungen haben wird,
+so ordnet das Bundesamt für Seeschifffahrt und Hydrographie im
+Benehmen mit dem Bundesamt für Naturschutz über § 5 Absatz 2c Satz 1
+hinausgehende verhältnismäßige Minderungsmaßnahmen an. Sofern solche
+verhältnismäßigen Minderungsmaßnahmen nicht zur Verfügung stehen,
+ordnet das Bundesamt für Seeschifffahrt und Hydrographie im Benehmen
+mit dem Bundesamt für Naturschutz verhältnismäßige Ausgleichsmaßnahmen
+an. Ausgleichsmaßnahmen sind nur dann verhältnismäßig, wenn sie den
+Zeitpunkt der Zulassungsentscheidung nicht wesentlich verzögern und
+auf der vom Bundesamt für Seeschifffahrt und Hydrographie zu
+veröffentlichenden Liste von verhältnismäßigen Ausgleichsmaßnahmen
+enthalten sind.
+
+(5) Soweit verhältnismäßige Minderungsmaßnahmen und
+Ausgleichsmaßnahmen für den Schutz von Arten nicht zur Verfügung
+stehen, hat der Träger des Vorhabens einen verhältnismäßigen
+finanziellen Ausgleich für nationale Artenhilfsprogramme nach § 45d
+Absatz 1 des Bundesnaturschutzgesetzes zu zahlen, mit denen der
+Erhaltungszustand der von der Windenergie auf See betroffenen Arten
+gesichert oder verbessert wird. Die Zahlung für Windenergieanlagen auf
+See ist vom Bundesamt für Seeschifffahrt und Hydrographie im Benehmen
+mit dem Bundesamt für Naturschutz zusammen mit der
+Zulassungsentscheidung für die Dauer des Betriebs als jährlich zu
+leistender Betrag festzusetzen. Die Höhe der Zahlung bemisst sich
+unter Berücksichtigung der angeordneten Minderungsmaßnahmen auf
+Grundlage beim Bundesamt für Seeschifffahrt und Hydrographie
+vorhandener Daten nach Art, Schwere und Ausmaß der Beeinträchtigungen,
+insbesondere der Anzahl und Schutzwürdigkeit der betroffenen Arten,
+und hat je Vorhaben maximal 1 000 000 Euro pro Jahr zu betragen. Die
+Zahlungen sind von dem Träger des Vorhabens als zweckgebundene Abgabe
+an den Bund zu leisten. Die Mittel werden vom Bundesministerium für
+Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit
+bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des
+Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach
+anderen Vorschriften eine rechtliche Verpflichtung besteht. Insgesamt
+20 Prozent der Summe sollen für die Forschung zur Auswirkung der
+Windenergieanlagen auf See auf die betroffenen Arten und die
+Entwicklung von Vermeidungs- und Minderungsmaßnahmen verwendet werden.
+Über die Verwendung dieser Mittel wird unter Beteiligung des
+Bundesamts für Seeschifffahrt und Hydrographie entschieden.
+
+(6) Werden in der Genehmigung für wildlebende Tiere oder Pflanzen der
+besonders geschützten Arten im Hinblick auf die Bauphase Maßnahmen
+oder ein finanzieller Ausgleich angeordnet, ist davon auszugehen, dass
+auch für die Bauphase die Einhaltung der Vorschriften des § 44 Absatz
+1 des Bundesnaturschutzgesetzes gewährleistet ist. Das Bundesamt für
+Seeschifffahrt und Hydrographie kann erforderliche Anpassungen des
+Schallschutzkonzeptes auch noch im Vollzug festlegen. Satz 1 ist auch
+anzuwenden auf wildlebende Tiere und Pflanzen der besonders
+geschützten Arten, deren Vorkommen zum Zeitpunkt der Genehmigung nicht
+bekannt war, wobei jedoch für europäische Vogelarten nach § 7 Absatz 2
+Nummer 12 des Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie
+92/43/EWG aufgeführte Arten oder Arten, die in einer Rechtsverordnung
+nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt
+sind, verhältnismäßige Minderungsmaßnahmen zu ergreifen sind, soweit
+dies ohne zeitliche Verzögerung möglich ist. In den Fällen der Sätze 1
+und 3
+
+1.  ist keine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes
+    erforderlich,
+
+
+2.  liegt keine Schädigung nach § 19 des Bundesnaturschutzgesetzes vor.
+
+
+
+
+
+#### § 70b Vorhaben in Infrastrukturgebieten
+
+(1) Bei der Zulassung und dem Betrieb von Offshore-
+Anbindungsleitungen, deren Trassen oder Trassenkorridore sowie
+Konverterplattformstandorte nach dem 19. November 2023 im
+Flächenentwicklungsplan festgelegt wurden und in Infrastrukturgebieten
+nach § 12j des Energiewirtschaftsgesetzes liegen, ist abweichend von
+§ 44 Absatz 1 des Bundesnaturschutzgesetzes keine
+artenschutzrechtliche Prüfung durchzuführen und abweichend von § 34
+des Bundesnaturschutzgesetzes von einer Verträglichkeitsprüfung
+abzusehen. Die Anforderungen nach sonstigen Vorschriften des
+Fachrechts bleiben unberührt. Absatz 3 bleibt unberührt. § 69 Absatz 3
+Satz 1 Nummer 1 ist mit der Maßgabe anzuwenden, dass Auswirkungen auf
+die Erhaltungsziele nach § 7 Absatz 1 Nummer 9 des
+Bundesnaturschutzgesetzes und auf die besonders geschützten Arten nach
+§ 7 Absatz 2 Nummer 13 des Bundesnaturschutzgesetzes nicht zu
+betrachten sind. Das Bundesamt für Seeschifffahrt und Hydrographie
+ordnet an, dass verhältnismäßige Minderungsmaßnahmen nach § 12j Absatz
+7 des Energiewirtschaftsgesetzes und Maßnahmen, einschließlich
+Maßnahmen nach Regeln, aus dem Flächenentwicklungsplan nach § 5 Absatz
+2c Satz 1 zeitnah durchzuführen sind, um die Einhaltung der
+Vorschriften der §§ 34 und 44 Absatz 1 des Bundesnaturschutzgesetzes
+zu gewährleisten. Falls durch Maßnahmen nach Satz 5 eine erhebliche
+Umweltauswirkung nicht angemessen vermindert werden kann, hat der
+Träger des Vorhabens einen finanziellen Ausgleich zu zahlen. Die
+Zahlung ist von der zuständigen Behörde zusammen mit der
+Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen.
+Die Höhe der Zahlung beträgt 5 000 bis 17 500 Euro je angefangenem
+Kilometer Trassenlänge. Sie ist von dem Träger des Vorhabens als
+zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom
+Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare
+Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1
+des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach
+anderen Vorschriften eine rechtliche Verpflichtung besteht. § 70a
+Absatz 1 Satz 1 und 2 ist entsprechend anzuwenden.
+
+(2) Absatz 1 ist entsprechend für Offshore-Anbindungsleitungen
+anzuwenden, deren Trassen oder Trassenkorridore sowie
+Konverterplattformstandorte in einem vor dem 20. November 2023 bekannt
+gemachten Flächenentwicklungsplan festgelegt worden sind. Diese
+Gebiete gelten als Infrastrukturgebiete im Sinne von Artikel 15e
+Absatz 2 Satz 2 der Richtlinie (EU) 2018/2001 in der Fassung vom 18.
+Oktober 2023.
+
+(3) Das Bundesamt für Seeschifffahrt und Hydrographie hat im Benehmen
+mit dem Bundesamt für Naturschutz in entsprechender Anwendung des §
+70a Absatz 3 Satz 1 und 3 bis 5 ein Überprüfungsverfahren
+durchzuführen. Dabei ist § 70a Absatz 3 Satz 1 und 3 bis 5 mit der
+Maßgabe anzuwenden, dass der Träger des Vorhabens die Informationen
+über die Merkmale des Vorhabens, über die Einhaltung der nach § 12j
+Absatz 7 des Energiewirtschaftsgesetzes sowie § 5 Absatz 2c Satz 1
+festgelegten Maßnahmen oder Regeln für diese Maßnahmen, über etwaige
+zusätzliche vom Träger des Vorhabens getroffene Maßnahmen sowie
+Informationen darüber, wie mit diesen Maßnahmen auf Umweltauswirkungen
+reagiert wird, bereits mit den Planunterlagen zur Verfügung stellt und
+das Bundesamt für Seeschifffahrt und Hydrographie das
+Überprüfungsverfahren für Vorhaben in Infrastrukturgebieten spätestens
+parallel zur Prüfung nach § 68 Absatz 2 durchführt und innerhalb von
+30 Tagen nach Erhalt der für den Zweck des Überprüfungsverfahrens
+ausreichenden Informationen abschließt.
+
+(4) Ergibt das Überprüfungsverfahren nach Absatz 3 in Verbindung mit §
+70a Absatz 3 Satz 1, dass das Vorhaben auch bei Durchführung der
+Maßnahmen, einschließlich Maßnahmen nach Regeln, aus dem
+Flächenentwicklungsplan nach § 5 Absatz 2c Satz 1 oder der im
+Infrastrukturgebieteplan nach § 12j Absatz 7 des
+Energiewirtschaftsgesetzes festgelegten Minderungsmaßnahmen und der
+vom Träger des Vorhabens getroffenen Maßnahmen höchstwahrscheinlich
+erhebliche unvorhergesehene nachteilige Umweltauswirkungen haben wird,
+so ordnet das Bundesamt für Seeschifffahrt und Hydrographie im
+Benehmen mit dem Bundesamt für Naturschutz über § 12j Absatz 7 des
+Energiewirtschaftsgesetzes oder der im Flächenentwicklungsplan
+festgelegten Minderungsmaßnahmen hinausgehende verhältnismäßige
+Minderungsmaßnahmen an. Sofern solche verhältnismäßigen
+Minderungsmaßnahmen nicht verfügbar sind, ordnet das Bundesamt für
+Seeschifffahrt und Hydrographie im Benehmen mit dem Bundesamt für
+Naturschutz verhältnismäßige Ausgleichsmaßnahmen an. Falls keine
+verhältnismäßigen Ausgleichsmaßnahmen zur Verfügung stehen, hat der
+Träger des Vorhabens einen finanziellen Ausgleich zu zahlen. Die
+Zahlung ist von der zuständigen Behörde zusammen mit der
+Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen.
+Die Höhe der Zahlung beträgt 5 000 Euro je angefangenen Kilometer
+Trassenlänge. Sie ist von dem Träger des Vorhabens als zweckgebundene
+Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium
+für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit
+bewirtschaftet. Die Mittel sind für Maßnahmen nach § 45d Absatz 1 des
+Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach
+anderen Vorschriften eine rechtliche Verpflichtung besteht. Aus den
+Mitteln kann auch der durch die zweckgemäße Verwendung entstehende
+Verwaltungsaufwand, bestehend aus Personal- und Sachaufwand, gedeckt
+werden. Die Anforderungen nach sonstigen Vorschriften des Fachrechts
+bleiben unberührt.
+
+(5) Die Minderungsmaßnahmen nach Absatz 1 sowie die Minderungs- und
+Ausgleichsmaßnahmen nach Absatz 4, beide jeweils einschließlich der
+Ausgleichszahlungen, sowie die Minderungsmaßnahmen nach Absatz 6
+erfüllen in Bezug auf besonders geschützte Arten, Benthos, Biotope
+sowie die Erhaltungsziele gemäß § 7 Absatz 1 Nummer 9 des
+Bundesnaturschutzgesetzes dem Grunde und dem Umfang nach die
+Anforderungen an Ausgleichs- und Ersatzmaßnahmen nach § 15 Absatz 2
+und 6 des Bundesnaturschutzgesetzes. Eine weitergehende Prüfung und
+Bewertung sowie Ausgleich und Ersatz der Eingriffe in Bezug auf
+besonders geschützte wildlebende Pflanzen und Tierarten, Benthos,
+Biotope sowie die Erhaltungsziele gemäß § 7 Absatz 1 Nummer 9 des
+Bundesnaturschutzgesetzes findet nicht statt. Kartierungen für diese
+Arten und Gebiete als Grundlage für eine Eingriffsbewertung finden
+nicht statt.
+
+(6) Werden die in der Genehmigung für wildlebende Tiere oder Pflanzen
+der besonders geschützten Arten angeordneten Maßnahmen und der
+angeordnete finanzielle Ausgleich vorgenommen, ist auch für die
+Bauphase die Einhaltung der Vorschriften des § 44 Absatz 1 des
+Bundesnaturschutzgesetzes gewährleistet. Das Bundesamt für
+Seeschifffahrt und Hydrographie kann erforderliche Anpassungen des
+Schallschutzkonzeptes auch noch im Vollzug festlegen. Satz 1 ist auch
+anzuwenden auf wildlebende Tiere und Pflanzen der besonders
+geschützten Arten, deren Vorkommen zum Zeitpunkt der Genehmigung nicht
+bekannt war, wobei jedoch für europäische Vogelarten nach § 7 Absatz 2
+Nummer 12 des Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie
+92/43/EWG aufgeführte Arten oder Arten, die in einer Rechtsverordnung
+nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt
+sind, verhältnismäßige Minderungsmaßnahmen zu ergreifen sind, soweit
+dies ohne zeitliche Verzögerung möglich ist. In den Fällen der Sätze 1
+und 3
+
+1.  ist keine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes
+    erforderlich,
+
+
+2.  liegt keine Schädigung nach § 19 des Bundesnaturschutzgesetzes vor.
+
+
+
+
+(7) Die Absätze 1 bis 6 sind nicht anzuwenden, wenn der Antrag auf
+Planfeststellung oder Plangenehmigung für Offshore-Anbindungsleitungen
+in der ausschließlichen Wirtschaftszone vor der Ausweisung der
+Infrastrukturgebiete im Infrastrukturgebieteplan nach § 12j des
+Energiewirtschaftsgesetzes gestellt wurde.
+
+
 #### § 71 Vorläufige Anordnung
 
 Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren
 eingeleitet, kann das Bundesamt für Seeschifffahrt und Hydrographie
-nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz
-eine vorläufige Anordnung erlassen, in der Teilmaßnahmen zur
-Vorbereitung der Errichtung festgesetzt werden, wenn Gründe des Wohls
-der Allgemeinheit, insbesondere der effizienten Netznutzung, den
+nach Zustimmung des Bundesministeriums für Wirtschaft und Energie eine
+vorläufige Anordnung erlassen, in der Teilmaßnahmen zur Vorbereitung
+der Errichtung festgesetzt werden, wenn Gründe des Wohls der
+Allgemeinheit, insbesondere der effizienten Netznutzung, den
 alsbaldigen Beginn der Arbeiten erfordern und die nach § 74 Absatz 2
 des Verwaltungsverfahrensgesetzes und nach § 69 Absatz 3 zu
 berücksichtigenden Belange gewahrt werden. In der vorläufigen
@@ -3354,6 +3770,25 @@ nach § 17a des Energiewirtschaftsgesetzes festgelegten Cluster oder
 einem Vorrang-, Vorbehalts- oder Eignungsgebiet eines
 Raumordnungsplans nach § 17 Absatz 1 Satz 1 des Raumordnungsgesetzes
 liegt.
+
+(1a) Ist eine Umweltverträglichkeitsprüfung nach Absatz 1
+erforderlich, so wird diese in einem einzigen Verfahren durchgeführt,
+in dem alle relevanten Prüfungen kombiniert werden. Das Bundesamt für
+Seeschifffahrt und Hydrographie gibt unter Berücksichtigung der vom
+Träger des Vorhabens vorgelegten Informationen eine Stellungnahme zum
+Umfang und zum Detaillierungsgrad der Informationen ab, die der Träger
+des Vorhabens in den Bericht zu den voraussichtlichen
+Umweltauswirkungen des Vorhabens aufnehmen muss, wobei dessen Umfang
+anschließend nicht erweitert werden darf. Bei Durchführung eines
+Verfahrens nach § 66 für die Errichtung und den Betrieb von
+Windenergieanlagen auf See, die nach § 5 Absatz 2c Satz 2 im
+Flächenentwicklungsplan als Pilotprojekt vorgesehen sind, ist § 44
+Absatz 1 und 5 des Bundesnaturschutzgesetzes mit der Maßgabe
+anzuwenden, dass auch neuartige Maßnahmen für einen begrenzten
+Zeitraum als Schutz- und Vermeidungsmaßnahmen anerkannt werden können,
+sofern die Wirksamkeit dieser Minderungsmaßnahmen genau überwacht wird
+und unverzüglich geeignete Schritte unternommen werden, falls sie sich
+als nicht wirksam erweisen sollten.
 
 (2) § 30 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes ist für
 Vorhaben nach diesem Gesetz mit der Maßgabe anzuwenden, dass eine
@@ -3415,8 +3850,8 @@ Schutzwürdigkeit der betroffenen Arten und hat zwischen 300 Euro und
 Höhe der Zahlung für Offshore-Anbindungsleitungen beträgt 25 000 Euro
 je angefangenem Kilometer Trassenlänge. Die Zahlungen sind von dem
 Träger des Vorhabens als zweckgebundene Abgabe an den Bund zu leisten.
-Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz,
-nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Sie sind für
+Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz,
+Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für
 Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu
 verwenden, für die nicht bereits nach anderen Vorschriften eine
 rechtliche Verpflichtung besteht. Insgesamt 20 Prozent der Summe
@@ -3427,7 +3862,31 @@ Mittel wird unter Beteiligung des Bundesamts für Seeschifffahrt und
 Hydrographie entschieden. Eine Ausnahme nach § 45 Absatz 7 des
 Bundesnaturschutzgesetzes ist nicht erforderlich.
 
-(3) Die Bestimmungen der Absätze 1 und 2 sind auf alle
+(3) Werden die in der Genehmigung für wildlebende Tiere oder Pflanzen
+der besonders geschützten Arten angeordneten Maßnahmen und der
+angeordnete finanzielle Ausgleich vorgenommen, ist auch für die
+Bauphase die Einhaltung der Vorschriften des § 44 Absatz 1 des
+Bundesnaturschutzgesetzes gewährleistet. Dies ist auch anzuwenden auf
+wildlebende Tiere und Pflanzen der besonders geschützten Arten, deren
+Vorkommen zum Zeitpunkt der Genehmigung nicht bekannt war, wobei
+jedoch für europäische Vogelarten nach § 7 Absatz 2 Nummer 12 des
+Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie 92/43/EWG
+aufgeführte Arten oder Arten, die in einer Rechtsverordnung nach § 54
+Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt sind,
+verhältnismäßige Minderungsmaßnahmen zu ergreifen sind, soweit dies
+ohne zeitliche Verzögerung möglich ist. In den Fällen der Sätze 1 und
+2
+
+1.  ist keine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes
+    erforderlich,
+
+
+2.  liegt keine Schädigung nach § 19 des Bundesnaturschutzgesetzes vor.
+
+
+
+
+(4) Die Bestimmungen der Absätze 1, 2 und 3 sind auf alle
 Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, bei denen
 der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2025 stellt.
 Sie sind ebenfalls auf bereits laufende Planfeststellungs- und
@@ -3437,7 +3896,22 @@ endgültige Entscheidung ergangen ist, wenn das Planfeststellungs- oder
 Plangenehmigungsverfahren damit verkürzt wird. Die Sätze 1 und 2 sind
 für das gesamte Planfeststellungs- und Plangenehmigungsverfahren
 anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025
-abgeschlossen wird.
+abgeschlossen wird. Die Bestimmungen der Absätze 1 und 2 sind
+vorrangig zu den §§ 70a und 70b anzuwenden.
+
+
+#### § 72b Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991
+
+Vorhaben nach § 65 Absatz 1 sind nach Artikel 6 Absatz 1 Satz 2 der
+Verordnung (EU) 2024/1991 von der Anforderung ausgenommen, dass keine
+weniger schädlichen Alternativlösungen nach Artikel 5 Absatz 11 und 12
+der Verordnung (EU) 2024/1991 zur Verfügung stehen, sofern eine der in
+Artikel 6 Absatz 1 Satz 2 der Verordnung (EU) 2024/1991 genannten
+Prüfungen durchgeführt wurde. Als Prüfung im Sinne von Artikel 6
+Absatz 1 Satz 2 Buchstabe a der Verordnung (EU) 2024/1991 gilt die
+Strategische Umweltprüfung. Als Prüfung im Sinne von Artikel 6 Absatz
+1 Satz 2 Buchstabe b der Verordnung (EU) 2024/1991 gilt die
+Umweltverträglichkeitsprüfung.
 
 
 #### § 73 Veränderungssperre
@@ -3487,17 +3961,19 @@ erforderlich ist, bedarf sie des Einvernehmens der Generaldirektion
 Wasserstraßen und Schifffahrt.
 
 (2) Sicherheitszonen sind Wasserflächen, die sich in einem Abstand von
-bis zu 500 Metern, gemessen von jedem Punkt des äußeren Randes, um die
-Einrichtungen erstrecken. Die Breite einer Sicherheitszone darf 500
-Meter überschreiten, wenn allgemein anerkannte internationale Normen
-dies gestatten oder die zuständige internationale Organisation dies
-empfiehlt.
+bis zu 500 Metern um die Einrichtungen erstrecken. Bilden mehrere
+Einrichtungen eine Gesamteinrichtung, insbesondere bei einem Windpark,
+soll die Sicherheitszone von einer Linie gemessen werden, die die
+äußeren Einrichtungen der Gesamteinrichtung verbindet. Die Breite
+einer Sicherheitszone darf 500 Meter nur überschreiten, wenn allgemein
+anerkannte internationale Normen dies gestatten oder die zuständige
+internationale Organisation dies empfiehlt.
 
 
 #### § 75 Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen
 
 Das Bundesamt für Seeschifffahrt und Hydrographie macht die
-Einrichtungen und die von ihr nach § 53 eingerichteten
+Einrichtungen und die von ihr nach § 74 eingerichteten
 Sicherheitszonen nach § 98 Nummer 1 bekannt und trägt sie in die
 amtlichen Seekarten ein.
 
@@ -3673,8 +4149,8 @@ und Hydrographie einen zuvor ergangenen Planfeststellungsbeschluss
 oder die Plangenehmigung aufheben und die Beseitigung der Einrichtung
 anordnen. Bei der Abwägung ist das überragende öffentliche Interesse
 an der Errichtung von Windenergieanlagen auf See und Offshore-
-Anbindungsleitungen und deren Bedeutung für die öffentliche Sicherheit
-nach § 1 Absatz 3 zu berücksichtigen.
+Anbindungsleitungen und deren Bedeutung für die öffentliche Gesundheit
+und Sicherheit nach § 1 Absatz 3 zu berücksichtigen.
 
 (4) Wird eine Einrichtung ohne erforderliche Planfeststellung oder
 Plangenehmigung errichtet, betrieben oder wesentlich geändert, so kann
@@ -3791,7 +4267,7 @@ Energiewirtschaftsgesetzes festgelegten Verfahren.
     worden ist, und
 
 
-5.  innerhalb von sechs Monaten nach dem verbindlichen
+5.  innerhalb von zwölf Monaten nach dem verbindlichen
     Fertigstellungstermin gegenüber der Bundesnetzagentur den Nachweis
     erbringen, dass die technische Betriebsbereitschaft der
     Windenergieanlagen auf See insgesamt hergestellt worden ist; diese
@@ -4101,12 +4577,16 @@ bestehenden Windenergieanlage auf See (Repowering) stellen. Das
 Repowering umfasst insbesondere den vollständigen oder teilweisen
 Austausch von Anlagen oder Betriebssystemen und Geräten zur Steigerung
 der Effizienz oder der Kapazität der Anlage. Über Anträge nach Satz 1
-soll im Plangenehmigungsverfahren nach § 66 Absatz 1 entschieden
-werden. Dabei sind nur solche Anforderungen zu prüfen, hinsichtlich
-derer durch das Repowering im Verhältnis zum gegenwärtigen Zustand
-unter Berücksichtigung der auszutauschenden Anlage nachteilige
-Auswirkungen hervorgerufen werden, und die für die Belange nach § 69
-Absatz 3 erheblich sein können.
+soll im Plangenehmigungsverfahren nach § 66 Absatz 1 Satz 2
+entschieden werden. Dabei sind nur solche Anforderungen zu prüfen,
+hinsichtlich derer durch das Repowering im Verhältnis zum
+gegenwärtigen Zustand unter Berücksichtigung der auszutauschenden
+Anlage nachteilige Auswirkungen hervorgerufen werden, und die für die
+Belange nach § 69 Absatz 3 erheblich sein können. Bei Durchführung
+eines Überprüfungsverfahrens nach § 70a Absatz 3 Satz 1 oder einer
+Umweltverträglichkeitsprüfung ist diese auf die potenziellen
+Auswirkungen einer Änderung oder Erweiterung im Vergleich zum
+ursprünglichen Projekt beschränkt.
 
 (2) Soweit der Austausch von Windenergieanlagen auf See die Errichtung
 weiterer Gründungsstrukturen zusätzlich zu der Gründungsstruktur der
@@ -4349,7 +4829,7 @@ Regelungen festgelegt.
 
 ### § 96 Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrats zu regeln
 
 1.  im Bereich der zentralen Voruntersuchung von Flächen nach Teil 2
@@ -4728,13 +5208,14 @@ entsprechend anzuwenden.
 ### § 98 Bekanntmachungen und Unterrichtungen
 
 Die nach diesem Gesetz erforderlichen Bekanntmachungen und
-Unterrichtungen müssen in folgenden Medien vorgenommen werden:
+Unterrichtungen müssen von den folgenden Behörden in den folgenden
+Medien vorgenommen werden:
 
 1.  vom Bundesamt für Seeschifffahrt und Hydrographie auf seiner
-    Internetseite und in einer überregionalen Tageszeitung sowie
-    Bekanntmachungen von Sicherheitszonen nach § 75 zusätzlich in den
-    Nachrichten für Seefahrer (Amtliche Veröffentlichung für die
-    Seeschifffahrt des Bundesamtes für Seeschifffahrt und Hydrographie),
+    Internetseite sowie Bekanntmachungen von Sicherheitszonen nach § 75
+    zusätzlich in den Nachrichten für Seefahrer (Amtliche Veröffentlichung
+    für die Seeschifffahrt des Bundesamtes für Seeschifffahrt und
+    Hydrographie),
 
 
 2.  von der Bundesnetzagentur auf ihrer Internetseite,
@@ -4792,10 +5273,9 @@ Hydrographie.
 Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden
 Rechtsverordnungen erfolgt aufgrund von Besonderen
 Gebührenverordnungen nach § 22 Absatz 4 des Bundesgebührengesetzes,
-die vom Bundesministerium für Wirtschaft und Klimaschutz erlassen
-werden.
+die vom Bundesministerium für Wirtschaft und Energie erlassen werden.
 
-(2) Das Bundesministerium für Wirtschaft und Klimaschutz kann die
+(2) Das Bundesministerium für Wirtschaft und Energie kann die
 Ermächtigung zum Erlass einer Rechtsverordnung nach Absatz 1 durch
 Rechtsverordnung ohne Zustimmung des Bundesrates auf die
 Bundesnetzagentur oder das Bundesamt für Seeschifffahrt und
@@ -4851,6 +5331,28 @@ Offshore-Anbindungsleitungen und für Anlagen zur Übertragung von Strom
 aus Windenergieanlagen auf See, für die der Antrag auf
 Planfeststellung vor dem 31. Dezember 2022 gestellt wurde.
 
+(5) Auf Planfeststellungsverfahren oder Plangenehmigungsverfahren zur
+Errichtung und zum Betrieb von Windenergieanlagen auf See, von
+Offshore-Anbindungsleitungen sowie von Anlagen zur Übertragung von
+Strom aus Windenergieanlagen auf See, die auf einer
+Beschleunigungsfläche nach § 8a oder in einem Infrastrukturgebiet nach
+§ 70b Absatz 2 liegen und deren Antrag auf Planfeststellung oder
+Plangenehmigung nach Ablauf des 30. Juni 2025 gestellt worden ist, ist
+das Gesetz in der am 23. Dezember 2025 geltenden Fassung anzuwenden.
+
+(6) Auf Beschleunigungsflächen nach § 8a werden Verfahren zur
+zentralen Voruntersuchung, die nach § 12 Absatz 1 zum Stichtag 23.
+Dezember 2025 bereits eingeleitet worden sind, fortgesetzt. Ergibt die
+Eignungsprüfung, dass die Fläche zur Ausschreibung geeignet ist, wird
+die Eignungsfeststellung nach § 12 Absatz 5 abgeschlossen und die
+Fläche als zentral voruntersuchte Fläche nach Teil 3 Abschnitt 5
+ausgeschrieben. Für die Zulassungsverfahren ist § 70a anzuwenden.
+
+(7) § 69 Absatz 9 ist für alle Anlagen unabhängig von dem Zeitpunkt
+des Zuschlags, der Zulassungsentscheidung oder dem Erhebungszeitraum
+der Daten anzuwenden. Die Absätze 1 bis 4 sind insoweit nicht
+anzuwenden.
+
 
 ### § 103 Wahrnehmung von Aufgaben durch die Bundesnetzagentur
 
@@ -4868,7 +5370,7 @@ von den Beschlusskammern getroffen.
 
 Die Rechts- und Fachaufsicht über das Bundesamt für Seeschifffahrt und
 Hydrographie für alle Aufgaben nach und im Zusammenhang mit diesem
-Gesetz obliegt dem Bundesministerium für Wirtschaft und Klimaschutz.
+Gesetz obliegt dem Bundesministerium für Wirtschaft und Energie.
 
 
 ### § 105 Durchführung von Terminen
