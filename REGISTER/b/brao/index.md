@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## Erster Teil - Der Rechtsanwalt
 
