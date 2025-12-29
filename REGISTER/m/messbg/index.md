@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 2.12.2025 I Nr. 301
 
+Änderung durch
+:   Art. 17 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Das G ist gem. Art. 16 G v. 29.8.2016 I 2034 am 2.9.2016 in Kraft getreten
 [^f794956_01_BJNR203410016]:     In diesem Gesetz finden sich technische Vorgaben, die in Teil 2 im
     Kapitel 3 zusammengefasst sind. Diese Regelungen wurden notifiziert
@@ -72,10 +75,15 @@ datengestützten Netzplanung. Dazu trifft es Regelungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-1.  Anlagenbetreiber: der Betreiber von Anlagen nach dem Erneuerbare-
-    Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066) oder dem Kraft-
-    Wärme-Kopplungsgesetz vom 21. Dezember 2015 (BGBl. I S. 2498) in der
-    jeweils geltenden Fassung,
+1.  Aggregationsverantwortlicher: jeder Marktakteur, dem durch eine
+    Festlegung der Bundesnetzagentur nach den §§ 47 und 75 die Aufgabe der
+    Aggregation von viertelstündigen Werten oder von Profilwerten zu
+    Summenzeitreihen zugewiesen worden ist,
+
+
+1a. Anlagenbetreiber: der Betreiber von Anlagen nach § 3 Nummer 2 des
+    Erneuerbare-Energien-Gesetzes oder nach § 2 Nummer 6 des Kraft-Wärme-
+    Kopplungsgesetzes,
 
 
 2.  Anschlussnehmer der Eigentümer oder Erbbauberechtigte eines
@@ -161,6 +169,13 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 14. Messwerte: Angaben über vom Anschlussnutzer über einen bestimmten
     Zeitraum entnommene, erzeugte oder eingespeiste Energiemengen,
+
+
+14a. Messwertweiterverarbeiter: jeder Marktakteur, dem durch eine
+    Festlegung der Bundesnetzagentur nach den §§ 47 und 75 die Aufgabe der
+    Aufbereitung abrechnungsrelevanter Messwerte, insbesondere in Bezug
+    auf Entnahmestellen, Einspeisestellen oder Netzübergabestellen
+    zugewiesen worden ist,
 
 
 15. moderne Messeinrichtung
@@ -268,23 +283,6 @@ Energiewirtschaftsgesetzes anzuwenden.
 Messstellenbetreibers, soweit nicht eine anderweitige Vereinbarung
 nach § 5 oder § 6 getroffen worden ist. Die Funktion des Smart-Meter-
 Gateway-Administrators wird dem Messstellenbetreiber zugeordnet.
-Schuldner der nach § 7 Absatz 1 Satz 1 festzulegenden Entgelte sind
-nach Maßgabe der §§ 29, 30, 32 und 36 Absatz 2 und jeweils in Höhe
-ihrer dort festgelegten Anteile der Anschlussnetzbetreiber und der
-Anschlussnutzer oder der Anschlussnehmer. Schuldner der Entgelte für
-Zusatzleistungen ist nach Maßgabe von § 34 Absatz 2 und 3 jeweils der
-Besteller von Zusatzleistungen. Hat der Anschlussnutzer einen
-kombinierten Vertrag nach § 9 Absatz 2 und der Energielieferant mit
-dem Messstellenbetreiber einen Vertrag nach § 9 Absatz 1 Nummer 2
-abgeschlossen, ist insoweit statt des Anschlussnutzers der
-Energielieferant Schuldner nach Satz 1. Der grundzuständige
-Messstellenbetreiber ist nicht berechtigt, für die Erbringung der
-Standardleistungen nach § 34 Absatz 1 mehr als die in § 30 jeweils
-genannten Höchstentgelte und für die Erbringung von Zusatzleistungen
-nach § 34 Absatz 2 mehr als die angemessenen Zusatzentgelte nach § 35
-Absatz 1 vom jeweiligen Entgeltschuldner zu verlangen, dabei sind für
-den nach den §§ 5 oder 6 beauftragten Dritten gegenüber dem
-Anschlussnetzbetreiber die Vorgaben des § 36 Absatz 2 anzuwenden.
 
 (2) Der Messstellenbetrieb umfasst folgende Aufgaben:
 
@@ -389,10 +387,19 @@ Versagungsgrund im Sinne des Absatzes 3 darstellen würde.
 #### § 5 Auswahlrecht des Anschlussnutzers
 
 (1) Auf Wunsch des betroffenen Anschlussnutzers kann der
-Messstellenbetrieb anstelle des nach § 3 Absatz 1 Verpflichteten von
-einem Dritten durchgeführt werden, wenn durch den Dritten ein
-einwandfreier Messstellenbetrieb im Sinne des § 3 Absatz 2
-gewährleistet ist.
+Messstellenbetrieb statt durch den grundzuständigen
+Messstellenbetreiber nach § 3 Absatz 1 von einem Dritten durchgeführt
+werden, wenn durch den Dritten ein einwandfreier Messstellenbetrieb im
+Sinne des § 3 Absatz 2 gewährleistet ist. Der Anschlussnutzer kann
+nach Ausstattung einer Messstelle mit intelligenten Messsystemen oder
+mit intelligenten Messsystemen und Steuerungseinrichtungen durch den
+grundzuständigen Messstellenbetreiber das Auswahlrecht nach Satz 1
+frühestens nach Ablauf von zwei Jahren ab Ausstattung der Messstelle
+ausüben. Satz 2 gilt nicht, wenn sich der grundzuständige
+Messstellenbetreiber und der Dritte auf eine vorzeitige Beendigung
+einigen. Sonstige Rechtsvorschriften, insbesondere zur Nicht- oder
+nicht vertragsgemäßen Leistung durch den Messstellenbetreiber, bleiben
+unberührt.
 
 (2) Der neue und der bisherige Messstellenbetreiber sind verpflichtet,
 die für die Durchführung des Wechselprozesses erforderlichen Verträge
@@ -404,25 +411,25 @@ Aufbewahrungsvorschriften bestimmen etwas anderes.
 
 #### § 6 Auswahlrecht des Anschlussnehmers; Folgen für das Auswahlrecht des Anschlussnutzers
 
-(1) Statt des Anschlussnutzers kann ab dem 1. Januar 2021 der
-Anschlussnehmer einen Messstellenbetreiber auswählen, wenn dieser
+(1) Statt des Anschlussnutzers kann der Anschlussnehmer einen anderen
+als den grundzuständigen Messstellenbetreiber auswählen, wenn dieser
 verbindlich anbietet,
 
-1.  dadurch alle Zählpunkte der Liegenschaft für Strom mit intelligenten
-    Messsystemen auszustatten,
+1.  alle Zählpunkte der Liegenschaft für Elektrizität mit intelligenten
+    Messsystemen auszustatten und für die Ausstattung von Zählpunkten der
+    Sparte Elektrizität die maßgeblichen Höchstentgelte nach § 30
+    einzuhalten oder
 
 
-2.  neben dem Messstellenbetrieb der Sparte Strom mindestens einen
-    zusätzlichen Messstellenbetrieb der Sparten Gas, Fernwärme oder
+2.  neben dem Messstellenbetrieb der Sparte Elektrizität mindestens einen
+    zusätzlichen Messstellenbetrieb der Sparte Gas, Wasser, Fernwärme oder
     Heizwärme über das Smart-Meter-Gateway zu bündeln (Bündelangebot) und
-
-
-3.  den gebündelten Messstellenbetrieb für jeden betroffenen
-    Anschlussnutzer der Liegenschaft ohne Mehrkosten im Vergleich zur
-    Summe der Kosten für den bisherigen getrennten Messstellenbetrieb
-    durchzuführen einschließlich der Abrechnungsdienstleistungen nach der
-    Verordnung über Heizkostenabrechnung, soweit das Bündelangebot den
-    Messstellenbetrieb für die Sparte Heizwärme erfasst.
+    für jeden betroffenen Anschlussnutzer der Liegenschaft ohne Mehrkosten
+    im Vergleich zur Summe der Kosten für den bisherigen getrennten
+    Messstellenbetrieb durchzuführen einschließlich der
+    Abrechnungsdienstleistungen nach der Verordnung über
+    Heizkostenabrechnung, soweit das Bündelangebot den Messstellenbetrieb
+    für die Sparte Heizwärme erfasst.
 
 
 
@@ -466,59 +473,62 @@ Energielieferanten sowie eines Tarifs zur Energiebelieferung darf
 durch die Ausübung des Auswahlrechts des Anschlussnehmers nach Absatz
 1 nicht eingeschränkt werden.
 
-(5) Anschlussnutzer haben das Recht, vom Anschlussnehmer alle zwei
-Jahre, bei ausgeübtem gebündeltem Messstellenbetrieb nach Absatz 1
-alle fünf Jahre, die Einholung von zwei verschiedenen Bündelangeboten
-für den Messstellenbetrieb der Liegenschaft zu verlangen. Die
-Bündelangebote müssen für die Anschlussnutzer verständlich sein und
-eine Prognose bezüglich der Kosten der Anschlussnutzer vor und nach
-einer Bündelung des Messstellenbetriebs enthalten.
-
-(6) In den Fällen des § 20 Absatz 1d Satz 3 des
-Energiewirtschaftsgesetzes kann statt des Anschlussnutzers der
-Anschlussnehmer für alle Zählpunkte der Liegenschaft für die Sparte
-Strom und ohne die zwingende Einbeziehung einer weiteren Sparte einen
-Messstellenbetreiber auswählen; Absatz 1 Satz 1 Nummer 1 und 3 und
-Satz 2 gelten entsprechend. Die Möglichkeit eines Bündelangebots für
-weitere Sparten nach Absatz 1 bleibt unberührt.
+(5) Jeder Anschlussnutzer hat das Recht, vom Anschlussnehmer alle zwei
+Jahre, bei bereits ausgeübtem Auswahlrecht nach Absatz 1 alle fünf
+Jahre, die Einholung von zwei verschiedenen Angeboten nach Absatz 1
+Nummer 1 oder Absatz 1 Nummer 1 und 2 zu verlangen. Die Angebote
+müssen für die Anschlussnutzer verständlich sein und eine Prognose
+bezüglich der Kosten der Anschlussnutzer vor und nach der Ausübung des
+Auswahlrechts enthalten.
 
 
 #### § 7 Entgelt für den grundzuständigen Messstellenbetrieb; besondere Kostenregulierung
 
 (1) Grundzuständige Messstellenbetreiber haben für die Erfüllung ihrer
-Aufgaben ein Entgelt festzulegen, das die Preisobergrenzen dieses
-Gesetzes einhält. Auf vor dem 27. Mai 2023 entstandene Messentgelte
-sind die neuen Regelungen dieses Gesetzes zu Preisobergrenzen,
-Vermutungstatbeständen und zur Kostenverteilung nach den §§ 3, 7, 30,
-32, 34 und 35 zum 1. Januar 2024 anzuwenden; bis dahin sind die
-Kostenregelungen in der am 26. Mai 2023 geltenden Fassung des
-Messstellenbetriebsgesetzes anzuwenden. Die Entgelte für den
-Messstellenbetrieb sind Bestandteil eines Messstellenvertrages nach
-den §§ 9 und 10. Auf den grundzuständigen Messstellenbetrieb des
-Netzbetreibers mit Messeinrichtungen und Messsystemen sind § 17 Absatz
-7 der Stromnetzentgeltverordnung vom 25. Juli 2005 (BGBl. I S. 2225),
-die zuletzt durch Artikel 6 des Gesetzes vom 20. Juli 2022 (BGBl. I S.
+Aufgaben ein Entgelt festzulegen, das die Kostenregelungen dieses
+Gesetzes einhält. Die Entgelte für den Messstellenbetrieb sind
+Bestandteil eines Messstellenvertrages nach den §§ 9 und 10. Auf den
+grundzuständigen Messstellenbetrieb des Netzbetreibers mit
+Messeinrichtungen und Messsystemen sind § 17 Absatz 7 der
+Stromnetzentgeltverordnung vom 25. Juli 2005 (BGBl. I S. 2225), die
+zuletzt durch Artikel 6 des Gesetzes vom 20. Juli 2022 (BGBl. I S.
 1237) geändert worden ist, in der bis zum Ablauf des 26. Mai 2023
 geltenden Fassung sowie § 15 Absatz 7 der Gasnetzentgeltverordnung vom
 25\. Juli 2005 (BGBl. I S. 2197), die zuletzt durch Artikel 3 der
 Verordnung vom 27. Juli 2021 (BGBl. I S. 3229) geändert worden ist, in
-der bis zum Ablauf des 26. Mai 2023 geltenden Fassung des
-Messstellenbetriebsgesetzes entsprechend anzuwenden.
+der bis zum Ablauf des 26. Mai 2023 geltenden Fassung entsprechend
+anzuwenden.
 
-(2) Nach diesem Gesetz zulässige Entgelte für den Messstellenbetrieb
+(2) Schuldner der nach Absatz 1 Satz 1 festzulegenden Entgelte sind
+nach Maßgabe der §§ 29, 30, 32 und 36 Absatz 2 und jeweils in Höhe
+ihrer dort festgelegten Anteile der Anschlussnetzbetreiber und der
+Anschlussnutzer oder der Anschlussnehmer. Schuldner der Entgelte für
+Zusatzleistungen ist nach Maßgabe von § 34 Absatz 2 und 3 jeweils der
+Besteller von Zusatzleistungen. Hat der Anschlussnutzer einen
+kombinierten Vertrag nach § 9 Absatz 2 und der Energielieferant mit
+dem Messstellenbetreiber einen Vertrag nach § 9 Absatz 1 Satz 1 Nummer
+2 abgeschlossen, ist insoweit statt des Anschlussnutzers der
+Energielieferant Schuldner nach Satz 1. Der grundzuständige
+Messstellenbetreiber ist nicht berechtigt, für die Erbringung der
+Standardleistungen nach § 34 Absatz 1 mehr als die in § 30 jeweils
+genannten Höchstentgelte und für die Erbringung von Zusatzleistungen
+nach § 34 Absatz 2 mehr als die angemessenen Zusatzentgelte nach § 35
+Absatz 1 vom jeweiligen Entgeltschuldner zu verlangen; dabei sind für
+den nach § 5 oder 6 beauftragten Dritten gegenüber dem
+Anschlussnetzbetreiber die Vorgaben des § 36 Absatz 2 anzuwenden.
+
+(3) Nach diesem Gesetz zulässige Entgelte für den Messstellenbetrieb
 mit intelligenten Messsystemen und etwaigen Steuerungseinrichtungen
 sowie für Zusatzleistungen nach § 34 Absatz 2 und 3, deren Schuldner
-der Anschlussnetzbetreiber nach Maßgabe von § 3 Absatz 1 Satz 3 bis 6
-ist, können unter Beachtung der §§ 30, 31, 33 Absatz 1 Nummer 1 und §
-35 bei den Entgelten für den Netzzugang des Betreibers von
-Energieversorgungsnetzen nach den §§ 21 und 21a des
-Energiewirtschaftsgesetzes und bei der Genehmigung der Entgelte des
-Betreibers von Energieversorgungsnetzen nach § 23a des
+der Anschlussnetzbetreiber ist, können bei den Entgelten für den
+Netzzugang des Betreibers von Energieversorgungsnetzen nach den §§ 21
+und 21a des Energiewirtschaftsgesetzes und bei der Genehmigung der
+Entgelte des Betreibers von Energieversorgungsnetzen nach § 23a des
 Energiewirtschaftsgesetzes berücksichtigt werden. Die Abrechnung der
 Netznutzung verbleibt beim Netzbetreiber und ist Bestandteil der
 Netzentgelte, dabei wird ein Abrechnungsentgelt nicht erhoben.
 
-(3) Für Kosten des Netzbetriebs, die bei Anwendung dieses Gesetzes
+(4) Für Kosten des Netzbetriebs, die bei Anwendung dieses Gesetzes
 entstehen, sind die §§ 21 und 21a des Energiewirtschaftsgesetzes
 entsprechend anzuwenden.
 
@@ -864,7 +874,7 @@ diesen Zeitraum nach Maßgabe des § 71 Absatz 3 zu bestimmen.
 ### Kapitel 3 - Technische Vorgaben zur Gewährleistung von Datenschutz und Datensicherheit beim Einsatz von Smart-Meter-Gateways
 
 
-#### § 19 Allgemeine Anforderungen an Messsysteme; Verordnungsermächtigung
+#### § 19 Allgemeine Anforderungen an Messsysteme; Verordnungsermächtigung und Subdelegation
 
 (1) Zur Gewährleistung von Datenschutz, Datensicherheit und
 Interoperabilität haben Messsysteme den Anforderungen der Absätze 2
@@ -872,21 +882,54 @@ und 3 zu genügen.
 
 (2) Zur Datenverarbeitung energiewirtschaftlich relevanter Mess- und
 Steuerungsvorgänge dürfen ausschließlich solche technischen Systeme
-und Bestandteile eingesetzt werden, die den Anforderungen der §§ 21
-und 22 genügen. Energiewirtschaftlich relevante Mess- und
+und Bestandteile eingesetzt werden, die den Anforderungen der §§ 21
+und 22 genügen, § 9 Absatz 1 und § 100 Absatz 3 des Erneuerbare-
+Energien-Gesetzes sowie Anforderungen aufgrund von Festlegungen der
+Bundesnetzagentur nach § 14a des Energiewirtschaftsgesetzes bleiben
+unberührt. Energiewirtschaftlich relevante Mess- und
 Steuerungsvorgänge sind abrechnungs-, bilanzierungs- oder
 netzrelevante Standardleistungen nach § 34 Absatz 1 Nummer 1, 2, 4 bis
-7, 8 Buchstabe a und b und Nummer 9 sowie Zusatzleistungen nach § 34
+8 Buchstabe a und b und Nummer 9 sowie Zusatzleistungen nach § 34
 Absatz 2 Satz 2 Nummer 5, 6 und 8. Das Bundesministerium für
-Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium des Innern und für Heimat durch Rechtsverordnung
-ohne Zustimmung des Bundesrates Regelungen zum Schutz der
-Verlässlichkeit von außerhalb der Messeinrichtung aufbereiteten Daten
-im Sinne von Absatz 3 Satz 2 einschließlich Anforderungen für die
-Ausgestaltung von eigenen Weitverkehrsnetzanbindungen von steuerbaren
-Verbrauchseinrichtungen und steuerbaren Netzanschlüssen, Anlagen zur
-Speicherung von Energie sowie Anlagen nach dem Erneuerbare-Energien-
-Gesetz aufzustellen.
+Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium des Innern durch Rechtsverordnung ohne Zustimmung
+des Bundesrates zum Schutz der Verlässlichkeit von außerhalb der
+Messeinrichtung aufbereiteten Daten im Sinne von Absatz 3 Satz 2 oder
+zum Schutz vor Datenabfluss an unbefugte Dritte sowie zum Schutz vor
+Fremdkontrolle durch unbefugte Dritte
+
+1.  Regelungen einschließlich Anforderungen für die Ausgestaltung von
+    eigenen Weitverkehrsnetzanbindungen von steuerbaren
+    Verbrauchseinrichtungen und steuerbaren Netzanschlüssen, Anlagen zur
+    Speicherung von Energie sowie Anlagen nach dem Erneuerbare-Energien-
+    Gesetz aufzustellen,
+
+
+2.  Regelungen zu technischen Bedingungen für informationstechnische
+    Systeme zu treffen, die Betreiber von Elektrizitätsversorgungsnetzen
+    bei der Festlegung technischer Vorschriften nach § 19 Absatz 1 des
+    Energiewirtschaftsgesetzes zu Weitverkehrsnetzverbindungen von Anlagen
+    einschließlich Steckersolargeräten nach dem Erneuerbare-Energien-
+    Gesetz, von steuerbaren Verbrauchseinrichtungen und steuerbaren
+    Netzanschlüssen nach § 14a des Energiewirtschaftsgesetzes sowie von
+    Anlagen zur Speicherung von Energie zu beachten haben sowie
+
+
+3.  für bestimmte Fälle von Smart-Meter-Gateways unabhängige
+    Weitverkehrsnetzverbindungen vollständig zu untersagen oder die
+    Anbindung nur über ein Smart-Meter-Gateway zu erlauben.
+
+
+
+Das Bundesministerium für Wirtschaft und Energie kann die in Satz 3
+genannte Ermächtigung im Einvernehmen mit dem Bundesministerium des
+Innern durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, auf die Bundesnetzagentur übertragen oder zum
+Gegenstand von Festlegungen der Bundesnetzagentur machen. Dabei kann
+vorgesehen werden, in welchem Umfang sich die Bundesnetzagentur bei
+Ausübung ihrer jeweiligen Kompetenzen ins Benehmen oder ins
+Einvernehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik setzen muss.
 
 (3) Messstellen dürfen nur mit solchen Messsystemen ausgestattet
 werden, bei denen zuvor die Einhaltung der Anforderungen nach den §§
@@ -958,6 +1001,9 @@ solche mit registrierender Leistungsmessung noch bis zum 31. Dezember
 2024 eingebaut und jeweils bis zu acht Jahre ab Einbau genutzt werden,
 wenn ihre Nutzung nicht mit unverhältnismäßigen Gefahren verbunden
 ist.
+
+(3) Ab dem 1. Januar 2028 ist Absatz 1 entsprechend für neue
+Messeinrichtungen für Wasserstoff anzuwenden.
 
 
 #### § 21 Mindestanforderungen an intelligente Messsysteme
@@ -1129,7 +1175,7 @@ nach dem Stand der Technik folgende Anforderungen zu erfüllen an
 
 
 
-[^f794956_02_BJNR203410016BJNE002303377]
+[^F834907_03_BJNR203410016BJNE002304123]
 (2) Die Einhaltung des Standes der Technik im Sinne von Absatz 1 wird
 vermutet, wenn die in der Anlage aufgeführten Schutzprofile und
 Technischen Richtlinien des Bundesamtes für Sicherheit in der
@@ -1214,15 +1260,9 @@ bestimmen.
 von § 19 Absatz 5 Satz 1 eingebaut werden können, dabei ist § 19
 Absatz 6 zu beachten.
 
-    Auf den Internetseiten des Bundesamtes für Sicherheit in der
-    Informationstechnik www.bsi.bund.de wurden unter dem Oberbegriff
-    „Smart Metering Systems“ folgende Unterordner eingerichtet:
-    „Schutzprofil Gateway“, „Schutzprofil Security Module“, „Smart
-    Metering PKI“ und „Technische Richtlinie“; eine Übersicht über die
-    Schutzprofile und Technischen Richtlinien nach § 22 Absatz 2 Satz 1
-    findet sich unter www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/Smart
-    Meter/UebersichtSP-TR/uebersicht\_node.html.
-[^f794956_02_BJNR203410016BJNE002303377]: 
+    Amtlicher Hinweis: Die Internetadresse lautet
+    www.bsi.bund.de/dok/smartmeter-pp-tr.
+[^F834907_03_BJNR203410016BJNE002304123]: 
 
 #### § 23 Sichere Anbindung an das Smart-Meter-Gateway
 
@@ -1260,22 +1300,25 @@ Absatz 6 zu beachten.
 
 (1) Zum Nachweis der Erfüllung der sicherheitstechnischen
 Anforderungen nach § 22 Absatz 1 und 2 müssen Smart-Meter-Gateways im
-Rahmen des Zertifizierungsverfahrens nach den Common Criteria durch
-das Bundesamt für Sicherheit in der Informationstechnik zertifiziert
-werden. Hersteller von Smart-Meter-Gateways haben die Zertifikate dem
-Smart-Meter-Gateway-Administrator vorzulegen. Der Zeitpunkt der
-Nachweispflicht zur Interoperabilität wird durch das Bundesamt für
-Sicherheit in der Informationstechnik festgelegt und nach § 27 im
-Ausschuss Gateway-Standardisierung bekannt gemacht. Hersteller von
-Smart-Meter-Gateways haben zu diesem Zeitpunkt die Zertifikate zur
-Konformität nach den Technischen Richtlinien dem Smart-Meter-Gateway-
-Administrator vorzulegen.
+Rahmen des Zertifizierungsverfahrens nach den Common Criteria oder
+nach dem auf den Gemeinsamen Kriterien beruhenden Europäischen System
+für die Cybersicherheitszertifizierung (EUCC) durch das Bundesamt für
+Sicherheit in der Informationstechnik zertifiziert werden. Für die
+Wahl des Zertifizierungsverfahrens nach Satz 1 gilt Artikel 49 der
+Durchführungsverordnung (EU) 2024/482. Hersteller von Smart-Meter-
+Gateways haben die Zertifikate dem Smart-Meter-Gateway-Administrator
+vorzulegen. Der Zeitpunkt der Nachweispflicht zur Interoperabilität
+wird durch das Bundesamt für Sicherheit in der Informationstechnik
+festgelegt und nach § 27 im Ausschuss Gateway-Standardisierung bekannt
+gemacht. Hersteller von Smart-Meter-Gateways haben zu diesem Zeitpunkt
+die Zertifikate zur Konformität nach den Technischen Richtlinien dem
+Smart-Meter-Gateway-Administrator vorzulegen.
 
-(2) Für die Zertifizierung sind § 52 des BSI-Gesetzes vom 2. Dezember
-2025 (BGBl. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung
-sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17.
-Dezember 2014 (BGBl. I S. 2231) in der jeweils geltenden Fassung
-anzuwenden.
+(2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes, die BSI-
+Zertifizierungs- und Anerkennungsverordnung sowie das auf den
+Gemeinsamen Kriterien beruhende Europäische System für die
+Cybersicherheitszertifizierung (EUCC) nach Maßgabe der Verordnung (EU)
+2019/881.
 
 (3) Das Bundesamt für Sicherheit in der Informationstechnik hat die
 Möglichkeit, Zertifikate nach Absatz 1 zeitlich zu befristen, zu
@@ -1395,22 +1438,22 @@ berechtigten Dritten schließen.
 
 
 
-[^f794956_03_BJNR203410016BJNE002602377]
+[^F834907_04_BJNR203410016BJNE002603123]
 (5) Die Erfüllung der in Absatz 4 Nummer 1 bis 3 genannten
 Anforderungen ist nachzuweisen durch ein Zertifikat des Bundesamtes
 für Sicherheit in der Informationstechnik oder durch die erfolgreiche
 Zertifizierung durch eine Zertifizierungsstelle, die gemäß ISO/IEC
 27006
-bei einer nach dem Akkreditierungsstellengesetz zuständigen Stelle
-akkreditiert ist. Der Auditbericht mit dem Nachweis, dass die in
-Absatz 4 Nummer 1 bis 3 genannten Anforderungen auditiert wurden, ist
-dem Bundesamt für Sicherheit in der Informationstechnik zur Kenntnis
-vorzulegen. § 24 Absatz 2 und 3 ist für die Zertifizierung des Smart-
-Meter-Gateway-Administrators entsprechend anzuwenden.
+bei der nationalen Akkreditierungsstelle im Sinne der Verordnung (EG)
+Nr. 765/2008 akkreditiert ist. Der Auditbericht mit dem Nachweis, dass
+die in Absatz 4 Nummer 1 bis 3 genannten Anforderungen auditiert
+wurden, ist dem Bundesamt für Sicherheit in der Informationstechnik
+zur Kenntnis vorzulegen. § 24 Absatz 2 und 3 ist für die
+Zertifizierung des Smart-Meter-Gateway-Administrators entsprechend
+anzuwenden.
 
-    www.iso.org/iso/home/store/catalogue\_tc/catalogue\_detail.htm?csnumbe
-    r=59144.
-[^f794956_03_BJNR203410016BJNE002602377]: 
+    Zu beziehen bei der DIN Verlag GmbH, Berlin.
+[^F834907_04_BJNR203410016BJNE002603123]: 
 
 #### § 26 Aufrechterhaltung eines einheitlichen Sicherheitsniveaus
 
@@ -1442,15 +1485,15 @@ Bei Gefahr im Verzug tritt an die Stelle des Einvernehmens nach Satz 1
 eine nachträgliche Informationspflicht des Bundesamtes für Sicherheit
 in der Informationstechnik gegenüber den in Satz 1 genannten Behörden.
 
-[^f794956_04_BJNR203410016BJNE002701377]
+[^F834907_05_BJNR203410016BJNE002702123]
 (2) Geeignete Informationen stellt das Bundesamt für Sicherheit in der
 Informationstechnik auf seinen Internetseiten
-bereit. Das Bundesministerium für Wirtschaft und Klimaschutz ist von
+bereit. Das Bundesministerium für Wirtschaft und Energie ist von
 sämtlichen ergriffenen Maßnahmen vorab oder bei Gefahr im Verzug
 nachträglich zu informieren.
 
-    www.bsi.bund.de
-[^f794956_04_BJNR203410016BJNE002701377]: 
+    Amtlicher Hinweis: Die Internetadresse lautet www.bsi.bund.de.
+[^F834907_05_BJNR203410016BJNE002702123]: 
 
 #### § 27 Weiterentwicklung von Schutzprofilen und Technischen Richtlinien; Ausschuss Gateway-Standardisierung
 
@@ -1480,8 +1523,8 @@ Innovationsprojekte sowie Stellen, welche die allgemein anerkannten
 Regeln der Technik in den Bereichen Elektrizität, Wasserstoff und Gas
 im Sinne des § 49 des Energiewirtschaftsgesetzes erarbeiten. Das
 Bundesamt für Sicherheit in der Informationstechnik unterstützt nach
-Möglichkeit Standardisierungsvorhaben von Stellen, welche die
-allgemein anerkannten Regeln der Technik in den Bereichen
+Möglichkeit Standardisierungsvorhaben insbesondere von Stellen, welche
+die allgemein anerkannten Regeln der Technik in den Bereichen
 Elektrizität, Wasserstoff und Gas im Sinne von § 49 des
 Energiewirtschaftsgesetzes erarbeiten, zur Sicherstellung der
 Interoperabilität mit dem Smart-Meter-Gateway
@@ -1576,12 +1619,11 @@ mit intelligenten Messsystemen vorgesehen ist und soweit dies nach §
 32 wirtschaftlich vertretbar ist, haben grundzuständige
 Messstellenbetreiber Messstellen an ortsfesten Zählpunkten bei
 Letztverbrauchern und Anlagenbetreibern mindestens mit modernen
-Messeinrichtungen auszustatten. Die Ausstattung hat bis zum Jahr 2032,
-bei Neubauten und Gebäuden, die einer größeren Renovierung im Sinne
-der Richtlinie 2010/31/EU des Europäischen Parlaments und des Rates
-vom 19. Mai 2010 über die Gesamtenergieeffizienz von Gebäuden (ABl. L
-153 vom 18.6.2010, S. 13) unterzogen werden, bis zur Fertigstellung
-des Gebäudes zu erfolgen.
+Messeinrichtungen auszustatten. Die Ausstattung hat bis zum Ablauf des
+31\. Dezember 2032, bei Neubauten und Gebäuden, die einer größeren
+Renovierung im Sinne von Artikel 2 Nummer 22 der Richtlinie (EU)
+2024/1275 in der Fassung vom 24. April 2024 unterzogen werden, bis zur
+Fertigstellung des Gebäudes zu erfolgen.
 
 (4) § 21 Absatz 3 sowie § 9 Absatz 3 des Erneuerbare-Energien-Gesetzes
 sind zu beachten.
@@ -1595,36 +1637,31 @@ Anlagenbetreiber
     dauerhaft auf 0 Prozent der installierten Leistung begrenzt und
 
 
-2.  der Anlagenbetreiber gegenüber dem grundzuständigen
-    Messstellenbetreiber in Textform erklärt hat, sicherzustellen, dass
-    seine Anlage dauerhaft keinen Strom in die
-    Elektrizitätsversorgungsnetze einspeist.
+2.  gegenüber dem grundzuständigen Messstellenbetreiber in Textform
+    erklärt hat, sicherzustellen, dass seine Anlage dauerhaft keinen Strom
+    in die Elektrizitätsversorgungsnetze einspeist.
+
+    Der Anlagenbetreiber kann die Begrenzung der Wirkleistungseinspeisung
+    nach Satz 1 Nummer 1 frühestens vier Jahre nach Zugang der Erklärung
+    nach Satz 1 Nummer 2 und nur nach Zugang einer Mitteilung über die
+    beabsichtigte Aufhebung an den grundzuständigen Messstellenbetreiber
+    aufheben. Ab der Ausstattung der Messstelle mit einer
+    Steuerungseinrichtung nach Absatz 1 Nummer 2 kann das Recht des
+    Anlagenbetreibers nach Satz 1 frühestens nach vier Jahren wieder
+    ausgeübt werden. Bis zum Ablauf dieser Frist ist weder der
+    Anschlussnehmer noch der Anschlussnutzer berechtigt, die Ausstattung
+    der Messstelle mit einer Steuerungseinrichtung nach Absatz 1 Nummer 2
+    nachträglich abzuändern oder abändern zu lassen.
 
 
 
-Der Anlagenbetreiber kann die Begrenzung der Wirkleistungseinspeisung
-nach Satz 1 Nummer 1 frühestens vier Jahre nach Zugang der Erklärung
-nach Satz 1 Nummer 2 und nur nach Zugang einer Mitteilung über die
-beabsichtigte Aufhebung an den grundzuständigen Messstellenbetreiber
-aufheben. Ab der Ausstattung der Messstelle mit einer
-Steuerungseinrichtung nach Absatz 1 Nummer 2 kann das Recht des
-Anlagenbetreibers nach Satz 1 frühestens nach vier Jahren wieder
-ausgeübt werden. Bis zum Ablauf dieser Frist ist weder der
-Anschlussnehmer noch der Anschlussnutzer berechtigt, die Ausstattung
-der Messstelle mit einer Steuerungseinrichtung nach § 29 Absatz 1
-Nummer 2 nachträglich abzuändern oder abändern zu lassen. Die
-Ausstattungsverpflichtung nach Absatz 1 Nummer 2 ist nicht anzuwenden
-auf Steckersolargeräte mit einer installierten Leistung von insgesamt
-bis zu 2 Kilowatt und mit einer Wechselrichterleistung von insgesamt
-bis zu 800 Voltampere, die hinter der Entnahmestelle eines
-Letztverbrauchers betrieben werden.
 
 
 #### § 30 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen und Steuerungseinrichtungen; Preisobergrenzen; Festlegungskompetenz
 
 (1) Die Ausstattung einer Messstelle mit einem intelligenten
-Messsystem nach § 29 Absatz 1 Nummer 1 ist für die Zeit ab dem 1.
-Januar 2025 wirtschaftlich vertretbar, wenn vom grundzuständigen
+Messsystem nach § 29 Absatz 1 ist für die Zeit ab dem 1. Januar 2025
+wirtschaftlich vertretbar, wenn vom grundzuständigen
 Messstellenbetreiber
 
 1.  an Messstellen an Zählpunkten mit einem Jahresstromverbrauch von über
@@ -1681,10 +1718,10 @@ Messstellenbetreiber
     Messstellen an Zählpunkten mit einer steuerbaren
     Verbrauchseinrichtung, über die eine Vereinbarung nach § 14a des
     Energiewirtschaftsgesetzes besteht, oder an Messstellen an Zählpunkten
-    von Anlagen mit einer installierten Leistung bis einschließlich 15
-    Kilowatt für den Messstellenbetrieb für jeden Zählpunkt insgesamt
-    brutto jährlich nicht mehr als 130 Euro in Rechnung gestellt werden,
-    davon nicht mehr als
+    von Anlagen mit einer installierten Leistung von mehr als 7 Kilowatt
+    bis einschließlich 15 Kilowatt für den Messstellenbetrieb für jeden
+    Zählpunkt insgesamt brutto jährlich nicht mehr als 130 Euro in
+    Rechnung gestellt werden, davon nicht mehr als
 
     a)  80 Euro brutto jährlich dem Anschlussnetzbetreiber sowie
 
@@ -1712,24 +1749,14 @@ Messstellenbetreiber
 
 
 
-(2) Die Ausstattung einer Messstelle mit intelligenten Messsystemen
-und einer Steuerungseinrichtung am Netzanschlusspunkt nach § 29 Absatz
-1 Nummer 2 ist wirtschaftlich vertretbar, wenn vom grundzuständigen
-Messstellenbetreiber für den Messstellenbetrieb nicht mehr als die
-folgenden Beträge in Rechnung gestellt werden:
-
-1.  dem Anschlussnutzer und dem Anschlussnetzbetreiber für jeden mit
-    intelligenten Messsystemen auszustattenden Zählpunkt nicht mehr als
-    die nach den Absätzen 1 und 5 zulässigen Preisobergrenzen sowie
-
-
-2.  zusätzlich zu dem Betrag nach Nummer 1 dem Anschlussnehmer und dem
-    Anschlussnetzbetreiber jeweils nicht mehr als 50 Euro brutto jährlich
-    für Einbau und Betrieb einer Steuerungseinrichtung am
-    Netzanschlusspunkt.
-
-
-
+(2) Stattet der grundzuständige Messstellenbetreiber nach § 29 Absatz
+1 Nummer 2 Messstellen mit intelligenten Messsystem und einer
+Steuerungseinrichtung am Netzanschlusspunkt aus, ist er berechtigt,
+zusätzlich zu den nach den Absätzen 1 und 5 zulässigen
+Preisobergrenzen dem Anschlussnehmer und dem Anschlussnetzbetreiber
+jeweils nicht mehr als 50 Euro brutto jährlich für Einbau und Betrieb
+einer Steuerungseinrichtung am Netzanschlusspunkt in Rechnung zu
+stellen.
 
 (3) Die optionale Ausstattung einer Messstelle mit einem intelligenten
 Messsystem nach § 29 Absatz 2 ist für die Zeit ab dem 1. Januar 2025
@@ -1899,7 +1926,7 @@ Leistungen Standardleistungen:
     gibt,
 
 
-4.  nach Maßgabe der §§ 56 und 64 die Erhebung von viertelstundengenauen
+4.  nach Maßgabe der §§ 56 und 60 die Erhebung von viertelstundengenauen
     Netzzustandsdaten und deren tägliche Übermittlung an den Netzbetreiber
     über das Smart-Meter-Gateway,
 
@@ -1918,14 +1945,15 @@ Leistungen Standardleistungen:
 
     a)  die für die Vorgabe eines minimalen oder maximalen Wirkleistungsbezugs
         am Netzanschluss oder an steuerbaren Verbrauchseinrichtungen nach
-        Maßgabe von Festlegungen der Bundesnetzagentur zu § 14a des
-        Energiewirtschaftsgesetzes notwendige Datenkommunikation über das
+        Maßgabe von Festlegungen der Bundesnetzagentur zu § 14a Absatz 1 und 2
+        des Energiewirtschaftsgesetzes notwendige Datenkommunikation über das
         Smart-Meter-Gateway und eine daran angebundene Steuerungseinrichtung,
 
 
     b)  über Buchstabe a hinausgehende erforderliche Maßnahmen zur
         netzorientierten Steuerung nach Maßgabe von Festlegungen der
-        Bundesnetzagentur nach § 14a des Energiewirtschaftsgesetzes,
+        Bundesnetzagentur nach § 14a Absatz 1 und 2 des
+        Energiewirtschaftsgesetzes,
 
 
 
@@ -1977,7 +2005,7 @@ Kunden folgende Zusatzleistungen vom Messstellenbetreiber verlangen:
     innerhalb von vier Monaten ab Beauftragung, auch an nicht von § 29
     Absatz 1 oder Absatz 2 erfassten Messstellen, insbesondere an nicht
     bilanzierungsrelevanten Unterzählpunkten innerhalb von Kundenanlagen
-    im Sinne des § 3 Nummer 59 und 60 des Energiewirtschaftsgesetzes, ab
+    im Sinne des § 3 Nummer 65 und 66 des Energiewirtschaftsgesetzes, ab
     dem 1. Juli 2026 auch an Zählpunkten der Sparte Gas innerhalb von vier
     Monaten ab Beauftragung,
 
@@ -2010,7 +2038,7 @@ Kunden folgende Zusatzleistungen vom Messstellenbetreiber verlangen:
     das Smart-Meter-Gateway,
 
 
-6.  nach Maßgabe der §§ 56 und 64 die Erhebung und die minütliche
+6.  nach Maßgabe der §§ 56 und 60 die Erhebung und die minütliche
     Übermittlung von Netzzustandsdaten an den Netzbetreiber über das
     Smart-Meter-Gateway an bis zu 25 Prozent der vom Messstellenbetreiber
     in dem jeweiligen Netzgebiet mit intelligenten Messsystemen
@@ -2116,7 +2144,7 @@ Rechnung gestellt werden:
 1.  für die vorzeitige Ausstattung von Messstellen an Zählpunkten der
     Sparte Elektrizität mit einem intelligenten Messsystem nach § 34
     Absatz 2 Satz 2 Nummer 1 nicht mehr als einmalig 100 Euro sowie bei
-    optionalen Einbaufällen nach § 30 Absatz 3 ein laufendes Zusatzentgelt
+    optionalen Einbaufällen nach § 29 Absatz 2 ein laufendes Zusatzentgelt
     von nicht mehr als 30 Euro jährlich; bei nicht von § 29 Absatz 1 oder
     Absatz 2 erfassten Messstellen darf zusätzlich ein jährliches Entgelt
     erhoben werden, das die Preisobergrenzen einhält, welche in
@@ -2158,27 +2186,26 @@ Messstellenbetreibers mit dem Anschlussnutzer nach § 9 abgelöst.
 (2) Der nach den §§ 5 oder 6 beauftragte Dritte kann für den
 Messstellenbetrieb von intelligenten Messsystemen vom
 Anschlussnetzbetreiber ein jährliches Entgelt verlangen, welches die
-jeweils nach § 30 maßgebliche Preisobergrenze einhält. Für
-Zusatzleistungen nach § 34 Absatz 2 Satz 2, welche der Dritte auf
-Verlangen des Anschlussnetzbetreibers erbringt, sind die
-Vermutungstatbestände nach § 35 entsprechend anzuwenden.
-Darüberhinausgehende Entgelte gegenüber dem den Dritten beauftragenden
-Anschlussnutzer sowie gegenüber anderen Entgeltschuldnern nach § 3
-Absatz 1 bleiben unberührt. Auf vor dem 27. Mai 2023 entstandene
-Messentgelte sind die neuen Regelungen dieses Gesetzes zu
-Preisobergrenzen und zur Kostenverteilung nach den Sätzen 1 bis 3 zum
-1\. Januar 2024 anzuwenden; bis dahin sind die Kostenregelungen in der
-am 26. Mai 2023 geltenden Fassung des Messstellenbetriebsgesetzes
-anzuwenden.
+jeweils nach § 30 Absatz 1 oder 3 maßgeblichen Preisobergrenzen
+einhält. Für den Messstellenbetrieb mit intelligenten Messystemen und
+einer Steuerungseinrichtung am Netzanschlusspunkt ist er bei den in §
+29 Absatz 1 Nummer 2 genannten Messstellen berechtigt, vom
+Anschlussnetzbetreiber ein jährliches Entgelt zu verlangen, welches
+die Preisobergrenzen nach § 30 Absatz 2 einhält. Für Zusatzleistungen
+nach § 34 Absatz 2 Satz 2, welche der Dritte auf Verlangen des
+Anschlussnetzbetreibers erbringt, sind die Vermutungstatbestände nach
+§ 35 entsprechend anzuwenden. Darüberhinausgehende Entgelte gegenüber
+dem den Dritten beauftragenden Anschlussnutzer sowie gegenüber anderen
+Entgeltschuldnern nach § 7 Absatz 2 bleiben unberührt.
 
 (3) Weder Anschlussnehmer noch Anschlussnutzer sind berechtigt, die
-Ausstattung einer Messstelle mit einem intelligenten Messsystem, einer
-Steuerungseinrichtung nach § 29 Absatz 1 und 2 und die Ausstattung mit
-einer modernen Messeinrichtung nach § 19 Absatz 3 oder die Anbindung
-seiner Erzeugungsanlagen oder der Messeinrichtung für Gas an das
-intelligente Messsystem nach § 40 zu verhindern oder nachträglich
-wieder abzuändern oder abändern zu lassen. Absatz 1 Satz 2 gilt
-entsprechend.
+Ausstattung einer Messstelle mit einem intelligenten Messsystem nach §
+29 Absatz 1 Nummer 1 und Absatz 2, mit einem intelligenten Messsystem
+und einer Steuerungseinrichtung nach § 29 Absatz 1 Nummer 2, die
+Ausstattung mit einer modernen Messeinrichtung nach § 29 Absatz 3 oder
+die Anbindung einer Messeinrichtung für Gas an das intelligente
+Messsystem nach § 40 zu verhindern oder nachträglich wieder abzuändern
+oder abändern zu lassen. Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### § 37 Informationspflichten des grundzuständigen Messstellenbetreibers
@@ -2198,11 +2225,21 @@ Oktober eines jeden Jahres Informationen zu veröffentlichen über
 
 Die Veröffentlichung hat auch Preisblätter mit voraussichtlichen
 jährlichen Preisangaben für mindestens drei Jahre zu beinhalten.
+Preisangaben für Zusatzleistungen nach § 34 Absatz 2 sind mindestens
+alle zwei Jahre zu überprüfen und erforderlichenfalls anzupassen.
 
-(2) Spätestens drei Monate vor der Ausstattung der Messstelle sind die
-betroffenen Anschlussnutzer, Anschlussnehmer, Anlagenbetreiber und
-Messstellenbetreiber zu informieren und auf die Möglichkeit zur freien
-Wahl eines Messstellenbetreibers nach den §§ 5 und 6 hinzuweisen.
+(2) Spätestens drei Monate vor der Ausstattung der Messstelle mit
+einem intelligenten Messsystem nach § 29 Absatz 1 Nummer 1 und Absatz
+2 oder mit einem intelligenten Messsystem und einer
+Steuerungseinrichtung nach § 29 Absatz 1 Nummer 2 hat der
+grundzuständige Messstellenbetreiber den betroffenen Anschlussnutzer,
+Anschlussnehmer, Anlagenbetreiber sowie Messstellenbetreiber zu
+informieren und auf die Möglichkeit zur freien Wahl eines
+Messstellenbetreibers nach den §§ 5 und 6 sowie den Anschlussnutzer
+auf die erstmalige Möglichkeit zur Wahl des Messstellenbetreibers nach
+§ 5 Absatz 1 Satz 2 zwei Jahre ab der Ausstattung der Messstelle mit
+einem intelligenten Messsystem oder mit einem intelligentem Messsystem
+und einer Steuerungseinrichtung hinzuweisen.
 
 
 #### § 38 Zutrittsrecht
@@ -2236,23 +2273,14 @@ ein Vertrag zwischen Anschlussnehmer und Messstellenbetreiber
 geschlossen.
 
 
-#### § 40 Anbindungsverpflichtung
+#### § 40 Anbindungsverpflichtung von Messeinrichtungen für Gas
 
-(1) Wird oder ist mindestens ein Zählpunkt eines Anschlussnutzers mit
-einem Smart-Meter-Gateway ausgestattet, haben grundzuständige
-Messstellenbetreiber für eine Anbindung von Erzeugungsanlagen nach dem
-Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz und
-von modernen Messeinrichtungen hinter demselben Netzanschluss an das
-Smart-Meter-Gateway zu sorgen, sofern dies ohne erhebliche bauliche
-Veränderungen möglich ist. Hinsichtlich der Kosten für die Anbindung
-von modernen Messeinrichtungen an das Smart-Meter-Gateway findet § 30
-Absatz 5 entsprechende Anwendung.
-
-(2) Neue Messeinrichtungen für Gas im Sinne von § 20 sind bei
-registrierender Leistungsmessung spätestens ab dem Jahr 2028 an
+Neue Messeinrichtungen für Gas im Sinne von § 20 sind bei
+registrierender Leistungsmessung spätestens ab dem 1. Juli 2028 an
 vorhandene Smart-Meter-Gateways anzubinden, im Übrigen ab dem
-Zeitpunkt, zu dem die Anbindung technisch möglich ist und durch die
-Anbindung dem jeweiligen Anschlussnutzer keine Mehrkosten entstehen.
+Zeitpunkt, zu dem die Anbindung technisch möglich ist und dem
+jeweiligen Anschlussnutzer durch die Anbindung keine Mehrkosten
+entstehen.
 
 
 ### Kapitel 6 - Übertragung der Grundzuständigkeit für moderne Messeinrichtungen und intelligente Messsysteme
@@ -2265,6 +2293,9 @@ für den Messstellenbetrieb von modernen Messeinrichtungen und
 intelligenten Messsystemen in ihrem Netzgebiet auf ein anderes
 Unternehmen übertragen, das über eine nach § 4 erforderliche
 Genehmigung und ein nach § 25 erforderliches Zertifikat verfügt.
+Grundzuständige Messstellenbetreiber können auch untereinander
+Kooperationen zur gemeinsamen Erfüllung der Pflichten des
+grundzuständigen Messstellenbetreibers eingehen.
 
 (2) Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt
 unberührt. Sollte im Einzelfall der Anwendungsbereich des Gesetzes
@@ -2277,7 +2308,9 @@ modernen Messeinrichtungen und intelligenten Messsystemen müssen der
 Bundesnetzagentur unverzüglich angezeigt werden. Die Bundesnetzagentur
 veröffentlicht auf ihrer Internetseite die anstehenden Verfahren zur
 Übertragung von Grundzuständigkeiten für den Messstellenbetrieb von
-modernen Messeinrichtungen und intelligenten Messsystemen.
+modernen Messeinrichtungen und intelligenten Messsystemen. Auf
+Kooperationen nach Absatz 1 Satz 2 sind die Sätze 1 und 2 entsprechend
+anwendbar.
 
 
 #### § 42 Fristen
@@ -2438,15 +2471,16 @@ Die Zahl der nach § 29 Absatz 1 in Verbindung mit Satz 1 Nummer 1
 Buchstabe c und Nummer 2 Buchstabe d, Nummer 3 Buchstabe c und Nummer
 4 Buchstabe e auszustattenden Messstellen errechnet sich aus der
 Gesamtanzahl der von der Grundzuständigkeit im Netzgebiet erfassten
-Messstellen. Übernimmt ein Unternehmen nach § 41 Absatz 1 die
-Grundzuständigkeit für mehrere Netzgebiete, so ist ab diesem Zeitpunkt
-für die Erfüllung der Ausstattungsverpflichtungen nach Satz 1 die
-Gesamtzahl der Messstellen in allen von der Grundzuständigkeit
-erfassten Netzgebieten maßgeblich. In dem zahlenmäßigen Umfang, wie
-nach § 29 Absatz 3 oder nach § 34 Absatz 2 Satz 2 Nummer 1 eine
-Ausstattung von Messstellen der Sparte Elektrizität mit intelligenten
-Messsystemen erfolgt, reduziert sich die Zahl der nach § 29 Absatz 1
-auszustattenden Messstellen.
+Messstellen. Übernimmt ein Unternehmen nach § 41 Absatz 1 Satz 1 die
+Grundzuständigkeit für mehrere Netzgebiete oder gehen mehrere
+Unternehmen eine Kooperation nach § 41 Absatz 1 Satz 2 ein, so ist ab
+diesem Zeitpunkt für die Erfüllung der Ausstattungsverpflichtungen
+nach Satz 1 die Gesamtzahl der Messstellen in allen von der
+Grundzuständigkeit erfassten Netzgebieten maßgeblich. In dem
+zahlenmäßigen Umfang, wie nach § 29 Absatz 2 oder nach § 34 Absatz 2
+Satz 2 Nummer 1 eine Ausstattung von Messstellen der Sparte
+Elektrizität mit intelligenten Messsystemen erfolgt, reduziert sich
+die Zahl der nach § 29 Absatz 1 auszustattenden Messstellen.
 
 (2) Kommt der grundzuständige Messstellenbetreiber seinen
 Verpflichtungen nach § 29 Absatz 1 nicht nach, so kann die
@@ -2520,23 +2554,25 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 #### § 47 Festlegungen der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur kann unter Beachtung der mess-, eich- und
-datenschutzrechtlichen Vorgaben und der Schutzprofile und Technischen
-Richtlinien nach § 22 Absatz 2 Entscheidungen durch Festlegungen nach
-§ 29 Absatz 1 des Energiewirtschaftsgesetzes treffen
+datenschutzrechtlichen Vorgaben sowie der Schutzprofile und
+Technischen Richtlinien nach § 22 Absatz 2 Entscheidungen durch
+Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen
 
-1.  zur Gewährleistung der Fernsteuerbarkeit nach § 21 Absatz 1 Nummer 1
-    Buchstabe b und zur Gewährleistung der Abrufbarkeit nach § 21 Absatz 1
-    Nummer 1 Buchstabe c,
+1.  im Einvernehmen mit dem Bundesamt für Sicherheit in der
+    Informationstechnik zur Gewährleistung der Fernsteuerbarkeit nach § 21
+    Absatz 1 Nummer 1 Buchstabe c und zur Gewährleistung der Abrufbarkeit
+    nach § 21 Absatz 1 Nummer 1 Buchstabe d,
 
 
 2.  zur zeitnahen Übermittlung von Netzzustandsdaten nach § 21 Absatz 1
-    Nummer 1 Buchstabe d,
+    Nummer 1 Buchstabe e,
 
 
-3.  zur Konkretisierung der Anforderungen an die Zuverlässigkeit und
-    Leistungsfähigkeit der Kommunikationstechnik nach § 21 Absatz 1 Nummer
-    3 insbesondere zur Anpassung an neue technologische und marktliche
-    Entwicklungen,
+3.  im Einvernehmen mit dem Bundesamt für Sicherheit in der
+    Informationstechnik zur Konkretisierung der Anforderungen an die
+    Zuverlässigkeit und Leistungsfähigkeit der Kommunikationstechnik nach
+    § 21 Absatz 1 Nummer 3 insbesondere zur Anpassung an neue
+    technologische und marktliche Entwicklungen,
 
 
 4.  zum maximalen Eigenstromverbrauch nach § 21 Absatz 1 Nummer 5,
@@ -2570,7 +2606,8 @@ Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen
 
 
 4.  zur Ausgestaltung der Verwaltungspflicht des grundzuständigen
-    Messstellenbetreibers nach § 11,
+    Messstellenbetreibers und zur besonderen Rolle des
+    Auffangmessstellenbetreibers nach § 11,
 
 
 5.  zur Durchführung des Wechsels des Messstellenbetreibers auf
@@ -2618,30 +2655,33 @@ Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen
     standardmäßigen Vorgabe der Zählerstandsgangmessung als nicht auf
     einen Einzelzählpunkt bezogenes Bilanzierungsverfahren für
     Letztverbraucher mit einem Jahresstromverbrauch unterhalb von 10 000
-    Kilowattstunden,
+    Kilowattstunden und
 
 
-14. im Benehmen mit dem Bundesamt für Sicherheit in der
-    Informationstechnik zu den näheren Anforderungen und zur
-    Konkretisierung der Reichweite energiewirtschaftlich relevanter Mess-
-    und Steuerungsvorgänge nach § 19 Absatz 2,
-
-
-15. zu bundesweit einheitlichen und abschließenden technischen
+14. zu bundesweit einheitlichen und abschließenden technischen
     Mindestanforderungen an den Messstellenbetrieb nach § 8 Absatz 2.
 
 
 
 
+(3) Die Bundesnetzagentur kann zum Zweck der Gewährleistung einer
+sicheren energiewirtschaftlichen Datenkommunikation als Grundlage für
+eine sichere Energieversorgung durch Festlegung nach § 29 Absatz 1 des
+Energiewirtschaftsgesetzes im Einvernehmen mit dem Bundesamt für
+Sicherheit in der Informationstechnik Regelungen zu
+energiewirtschaftlich relevanten Mess- und Steuerungsvorgängen
+treffen, einschließlich Regelungen zur Erweiterung, näheren Bestimmung
+oder Beschränkung des Katalogs nach § 19 Absatz 2 Satz 2.
+
 
 #### § 48 Analysen und Berichte des Bundesministeriums für Wirtschaft und Klimaschutz
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz legt
-spätestens zum 30. Juni 2024 und sodann mindestens alle vier Jahre
-vor:
+(1) Das Bundesministerium für Wirtschaft und Energie legt ab dem 30.
+Juni 2024 mindestens alle vier Jahre vor:
 
 1.  einen Bericht zum Rechtsrahmen und zur Entwicklung der Digitalisierung
-    der Energiewende,
+    der Energiewende, auch unter Berücksichtigung der Sparten Gas und
+    Wasserstoff,
 
 
 2.  eine Nachhaltigkeitsanalyse und -bewertung des Einbaus und der Nutzung
@@ -2652,12 +2692,14 @@ vor:
     für Verbraucherinnen und Verbraucher,
 
 
-3.  eine Analyse zur Höhe und Ausgestaltung der Preisobergrenzen nach den
-    §§ 30, 32 und 35 unter Berücksichtigung aller langfristigen,
-    gesamtwirtschaftlichen und individuellen Kosten und Vorteile,
-    einschließlich des Systemnutzens, sowie einer hierauf aufbauenden
-    Bewertung zur Ausweitung des verpflichtenden Einbaus intelligenter
-    Messsysteme auf weitere Einbaufallgruppen.
+3.  eine Analyse zur Höhe und Ausgestaltung der Preisobergrenzen und zu
+    den Vermutungstatbeständen nach den §§ 30, 32 und 35 unter
+    Berücksichtigung aller langfristigen, gesamtwirtschaftlichen und
+    individuellen Kosten und Vorteile, einschließlich des Systemnutzens,
+    sowie einer hierauf aufbauenden Bewertung zur Ausweitung des
+    verpflichtenden Einbaus intelligenter Messsysteme auf über § 29 Absatz
+    1 hinausgehende Einbaufallgruppen oder weitere Sparten, insbesondere
+    Gas und Wasserstoff.
 
 
 
@@ -2698,17 +2740,18 @@ oder der Länder ist unzulässig.
 5.  Direktvermarktungsunternehmer nach dem Erneuerbare-Energien-Gesetz,
 
 
-6.  Energielieferanten sowie
+6.  Energielieferanten,
 
 
-7.  jede Stelle, die über eine Einwilligung des Anschlussnutzers verfügt,
-    die den Anforderungen des Artikels 7 der Verordnung (EU) 2016/679 des
-    Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
-    natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum
-    freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG
-    (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314
-    vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
-    geltenden Fassung genügt.
+7.  Aggregationsverantwortliche,
+
+
+8.  Messwertweiterverarbeiter sowie
+
+
+9.  jede Stelle, die über eine Einwilligung des Anschlussnutzers verfügt,
+    die den Anforderungen des Artikels 7 der Verordnung (EU) 2016/679
+    genügt.
 
 
 
@@ -2919,8 +2962,8 @@ Datenkommunikation aufgelistet wird. Das Formblatt enthält
 insbesondere Angaben dazu, wer welche Daten von wem wie oft zu welchem
 Zweck erhält.
 
-(2) Die Bundesnetzagentur kann in Festlegungen nach § 75 Nummer 2
-bundesweit einheitliche Vorgaben zu Verträgen und einem Formblatt
+(2) Die Bundesnetzagentur kann in Festlegungen nach § 75 Satz 1 Nummer
+2 bundesweit einheitliche Vorgaben zu Verträgen und einem Formblatt
 machen.
 
 (3) Anschlussnutzer erhalten die ihre Messstelle betreffenden
@@ -2960,15 +3003,14 @@ Formblätter in Kopie.
 
 
 
-(2) Im Falle eines Lieferantenwechsels nach § 14 der
-Stromnetzzugangsverordnung ist für die Ermittlung des Verbrauchswertes
-zum Zeitpunkt des Lieferantenwechsels ein einheitliches Verfahren
-zugrunde zu legen. Sofern für die Abrechnung kein Messwert ermittelt
-werden kann, kann ihn der Messstellenbetreiber schätzen. Im Falle
-einer Schätzung ist der Verbrauch zeitanteilig zu berechnen;
-jahreszeitliche Verbrauchsschwankungen sind auf der Grundlage der für
-Haushaltskunden maßgeblichen Erfahrungswerte angemessen zu
-berücksichtigen.
+(2) Sofern für die Abrechnung kein wahrer Messwert innerhalb der
+Fristvorgaben aus diesem Gesetz oder aus Festlegungen der
+Bundesnetzagentur ermittelt werden kann, hat der Messstellenbetreiber
+im Einzelfall Ersatzwerte oder vorläufige Werte nach den anerkannten
+Regeln der Technik zu bilden. Im Falle wiederkehrender
+Messwertausfälle hat der Messstellenbetreiber unverzüglich geeignete
+strukturelle Verbesserungsmaßnahmen zur Verbesserung der
+Messwertqualität und -verfügbarkeit zu ergreifen.
 
 (3) Die Messung von Strom aus Anlagen nach dem Erneuerbare-Energien-
 Gesetz oder dem Kraft-Wärme-Kopplungsgesetz mit einer installierten
@@ -2992,9 +3034,7 @@ Anschlusspunkt zusammen, sind jeweils entnommene und eingespeiste
 sowie, soweit angeordnet, verbrauchte und erzeugte Energie in einem
 einheitlichen Verfahren zu messen.
 
-(6) Zur Identifizierung des Anschlussnutzers dürfen ausschließlich die
-OBIS-Kennzahlen nach DIN EN 62056-61, die Zählpunktbezeichnung, die
-Geräte-ID sowie die Zählwerkskennzeichnung verwendet werden.
+(6) (weggefallen)
 
 
 #### § 56 Erhebung von Netzzustandsdaten
@@ -3050,8 +3090,9 @@ erforderlichen Zeitpunkt erhoben werden, insbesondere
 
 (1) Die Messung entnommenen Gases erfolgt
 
-1.  bei Letztverbrauchern, die keine Letztverbraucher im Sinne des § 24
-    der Gasnetzzugangsverordnung sind, durch eine stündliche
+1.  bei Letztverbrauchern, bei denen keine vereinfachten Methoden
+    (Standardlastprofile) zur Anwendung kommen, sowie bei
+    Letztverbrauchern mit intelligenten Messsystemen durch eine stündliche
     registrierende Leistungsmessung,
 
 
@@ -3075,9 +3116,9 @@ berücksichtigen.
 (3) In den Fällen des Absatzes 1 Nummer 1 sind für die Messung
 Datenübertragungssysteme einzurichten, die die stündlich registrierten
 Ausspeisewerte in maschinenlesbarer Form an Transportkunden nach § 3
-Nummer 31b des Energiewirtschaftsgesetzes, an die an der Erbringung
-von Ausgleichsleistungen beteiligten Netzbetreiber und auf Verlangen
-an den Ausspeisenetzbetreiber übermitteln.
+Nummer 93 des Energiewirtschaftsgesetzes, an die an der Erbringung von
+Ausgleichsleistungen beteiligten Netzbetreiber und auf Verlangen an
+den Ausspeisenetzbetreiber übermitteln.
 
 (4) Ein Letztverbraucher im Sinne des § 24 der
 Gasnetzzugangsverordnung ist als Anschlussnutzer berechtigt, im
@@ -3119,13 +3160,13 @@ Ersatzwertbildung im Smart-Meter-Gateway, und die Datenübermittlung
 über das Smart-Meter-Gateway direkt an die berechtigten Stellen
 erfolgen, soweit das Bundesamt für Sicherheit in der
 Informationstechnik dies als technisch möglich bewertet und die
-Bundesnetzagentur auf Basis dieser Bewertung eine Festlegung nach § 75
-Nummer 4 trifft. Bis zu einer Festlegung der Bundesnetzagentur nach
-Satz 1 können auf Basis von Festlegungen der Bundesnetzagentur nach
-§ 75 Nummer 4 Datenübermittlung und Aufbereitung der Messwerte durch
-den Messstellenbetreiber ganz oder teilweise, für den Bereich Gas
-durch berechtigte Stellen nach § 49 Absatz 2 und dauerhaft, außerhalb
-des Smart-Meter-Gateways erfolgen.
+Bundesnetzagentur auf Basis dieser Bewertung eine Festlegung nach § 75
+Satz 1 Nummer 4 trifft. Bis zu einer Festlegung der Bundesnetzagentur
+nach Satz 1 können auf Basis von Festlegungen der Bundesnetzagentur
+nach § 75 Satz 1 Nummer 4 Datenübermittlung und Aufbereitung der
+Messwerte durch den Messstellenbetreiber ganz oder teilweise, für den
+Bereich Gas durch berechtigte Stellen nach § 49 Absatz 2 und
+dauerhaft, außerhalb des Smart-Meter-Gateways erfolgen.
 
 (3) Zur Erfüllung seiner energiewirtschaftlichen Verpflichtungen nach
 Absatz 1 übermittelt der Messstellenbetreiber unter Beachtung der
@@ -3173,7 +3214,7 @@ Anforderungen nach Absatz 2 und des § 52 Absatz 3 standardmäßig
 
 
     g)  bei Messstellen mit intelligenten Messsystemen, die nicht von den
-        Buchstaben a bis e erfasst sind, soweit möglich, monatlich für den
+        Buchstaben a bis f erfasst sind, soweit möglich, monatlich für den
         Vormonat in geeignet aggregierter Form die Zählerstandsgänge,
         andernfalls jährlich Jahresarbeitswerte;
 
@@ -3262,14 +3303,46 @@ Anforderungen nach Absatz 2 und des § 52 Absatz 3 standardmäßig
 
 
 
-4.  dem für die Aufbereitung abrechnungsrelevanter Messwerte einer
-    Entnahme- oder Einspeisestelle zuständigen Messstellenbetreiber
-    diejenigen Messwerte in derjenigen Auflösung und zu denjenigen
-    Zeitpunkten, die dieser seinerseits benötigt, um seinen
-    Verpflichtungen aus den Nummern 1 bis 3 unter Berücksichtigung der
-    Festlegungen der Bundesnetzagentur aus § 20 Absatz 3 des
-    Energiewirtschaftsgesetzes sowie aus den §§ 47 und 75 nachkommen zu
-    können.
+4.  dem Messwertweiterverarbeiter
+
+    a)  in den Fällen des § 55 Absatz 1 Nummer 1 bis 3 für die in § 67a Absatz
+        1 genannten Zwecke täglich für den Vortag die Last- oder
+        Zählerstandsgänge,
+
+
+    b)  in den Fällen des § 55 Absatz 3 und 4 für die in § 67a Absatz 1
+        genannten Zwecke täglich für den Vortag die Einspeise- oder
+        Zählerstandsgänge,
+
+
+    c)  bei Messstellen mit intelligenten Messsystemen, die nicht von den
+        Buchstaben a und b erfasst sind, soweit möglich, monatlich für den
+        Vormonat in geeignet aggregierter Form die Last- oder
+        Zählerstandsgänge, andernfalls jährlich Jahresarbeitswerte;
+
+
+
+
+
+5.  dem Aggregationsverantwortlichen
+
+    a)  in den Fällen des § 55 Absatz 1 Nummer 1 bis 3 für die in § 67b Absatz
+        1 genannten Zwecke täglich für den Vortag die Last- oder
+        Zählerstandsgänge,
+
+
+    b)  in den Fällen des § 55 Absatz 3 und 4 für die in § 67b Absatz 1
+        genannten Zwecke täglich für den Vortag die Einspeise- oder
+        Zählerstandsgänge,
+
+
+    c)  bei Messtellen mit intelligenten Messsystemen, die nicht von den
+        Buchstaben a und b erfasst sind, soweit möglich, monatlich für den
+        Vormonat in geeignet aggregierter Form die Last- oder
+        Zählerstandsgänge, andernfalls jährlich Jahresarbeitswerte;
+
+
+
 
 
 
@@ -3281,9 +3354,11 @@ der Bundesnetzagentur nach § 47 Absatz 2 Nummer 13 und § 75 zu
 beachten.
 
 (4) Bei intelligenten Messsystemen haben Messstellenbetreiber für eine
-entsprechende Standardkonfiguration des Smart-Meter-Gateways im Sinne
-von Absatz 3 zu sorgen. Konkretisierungen zur Standardkonfiguration
-aus Absatz 3 kann die Bundesnetzagentur nach § 75 festlegen.
+entsprechende Standardkonfiguration im Sinne von Absatz 3 zu sorgen.
+Konkretisierungen und Einschränkungen zur Standardkonfiguration nach
+Absatz 3 kann die Bundesnetzagentur im Benehmen mit dem Bundesamt für
+Sicherheit in der Informationstechnik nach § 75 Satz 1 Nummer 6
+festlegen.
 
 (5) Unter Beachtung von Absatz 4 Satz 2 und in den Grenzen der Absätze
 1 und 2 können Berechtigte vom Messstellenbetreiber jede von Absatz 3
@@ -3330,16 +3405,17 @@ kann:
 
 
 
-(2) Zur Einsichtnahme nach Absatz 1 sind die Informationen, soweit
-dies technisch möglich und wirtschaftlich vertretbar ist,
-standardmäßig innerhalb von 24 Stunden direkt vom Smart-Meter-Gateway
-an eine lokale Anzeigeeinheit zu übermitteln. Alternativ und mit
-Einwilligung des Anschlussnutzers können die Informationen,
-insbesondere wenn eine direkte Kommunikation nach Satz 1 technisch
-nicht möglich oder wirtschaftlich nicht vertretbar ist, über eine
-Anwendung in einem Online-Portal, das einen geschützten individuellen
-Zugang ermöglicht, innerhalb des gleichen Zeitraums zur Verfügung
-gestellt werden.
+(2) Zur Einsichtnahme nach Absatz 1 sind die Informationen auf
+Anforderung des Anschlussnutzers standardmäßig unter Nutzung einer
+standardisierten Schnittstelle innerhalb von 15 Minuten über eine
+Anwendung des Messstellenbetreibers für mobile Endgeräte, welche einen
+geschützten individuellen Zugang ermöglicht, zur Verfügung zu stellen.
+Alternativ, insbesondere, sofern der Anschlussnutzer der
+Bereitstellung nach Satz 1 widerspricht, können die Informationen
+direkt vom Smart-Meter-Gateway an eine vom Messstellenbetreiber gegen
+ein angemessenes Einmalentgelt bereitgestellte lokale Anzeigeeinheit
+übermittelt werden, wobei die Informationen mindestens innerhalb von
+15 Minuten zur Verfügung zu stellen sind.
 
 (3) Bei Vorhandensein einer modernen Messeinrichtung hat der
 Messstellenbetreiber dafür Sorge zu tragen, dass der Anschlussnutzer
@@ -3374,15 +3450,17 @@ folgende Informationen zeitnah zur Verfügung zu stellen:
 
 
 
-(2) Zur Einsichtnahme nach Absatz 1 sind die Informationen, soweit
-dies technisch möglich und wirtschaftlich vertretbar ist,
-standardmäßig innerhalb von 24 Stunden direkt vom Smart-Meter-Gateway
-an eine lokale Anzeigeeinheit zu übermitteln. Alternativ können die
-Informationen, insbesondere wenn eine direkte Kommunikation nach Satz
-1 technisch nicht möglich oder wirtschaftlich nicht vertretbar ist,
-über eine Anwendung in einem Online-Portal, das einen geschützten
-individuellen Zugang ermöglicht, innerhalb des gleichen Zeitraums zur
-Verfügung gestellt werden.
+(2) Zur Einsichtnahme nach Absatz 1 sind die Informationen auf
+Anforderung des Anlagenbetreibers standardmäßig unter Nutzung einer
+standardisierten Schnittstelle innerhalb von 15 Minuten über eine
+Anwendung des Messstellenbetreibers für mobile Endgeräte, welche einen
+geschützten individuellen Zugang ermöglicht, zur Verfügung zu stellen.
+Alternativ, insbesondere, sofern der Anlagenbetreiber der
+Bereitstellung nach Satz 1 widerspricht, können die Informationen
+direkt vom Smart-Meter-Gateway an eine vom Messstellenbetreiber gegen
+ein angemessenes Einmalentgelt bereitgestellte lokale Anzeigeeinheit
+übermittelt werden, wobei die Informationen mindestens innerhalb von
+15 Minuten zur Verfügung zu stellen sind.
 
 (3) Bei Vorhandensein einer modernen Messeinrichtung hat der
 Messstellenbetreiber dafür Sorge zu tragen, dass der Anlagenbetreiber
@@ -3453,21 +3531,15 @@ ist:
     Bilanzkreisabweichungen und zur Verbesserung von Standardlastprofilen,
 
 
-7.  zur Aggregation der Last- und Einspeisegänge von Einzelzählpunkten zu
-    Bilanzkreissummenzeitreihen je Bilanzkreis und Bilanzierungsgebiet für
-    die Einbeziehung in die Bilanzkreisabrechnung in den Fällen, die nicht
-    von § 67 Absatz 1 Nummer 6 erfasst sind,
+7.  zur Erhebung von Umlagen nach dem Energiefinanzierungsgesetz,
 
 
-8.  zur Erhebung von Umlagen nach dem Energiefinanzierungsgesetz,
-
-
-9.  zur Überprüfung der Verpflichtungen von Netzbetreibern zur Erstellung
+8.  zur Überprüfung der Verpflichtungen von Netzbetreibern zur Erstellung
     des Gesamtberichtes nach § 12 Absatz 2a bis 2c des
     Energiewirtschaftsgesetzes,
 
 
-10. zur Erfüllung weiterer sich aus den Festlegungen der Bundesnetzagentur
+9.  zur Erfüllung weiterer sich aus den Festlegungen der Bundesnetzagentur
     nach § 20 Absatz 3 des Energiewirtschaftsgesetzes sowie nach § 75
     dieses Gesetzes ergebender Pflichten.
 
@@ -3477,19 +3549,12 @@ ist:
 (2) Standardmäßig übermittelt der Netzbetreiber monatlich für den
 Vormonat
 
-1.  dem Energielieferanten für die in § 69 Absatz 1 Nummer 3 und 4
-    genannten Zwecke Last- und Einspeisegänge sowie Arbeitswerte von
-    Einzelzählpunkten in den Fällen, die nicht von § 67 Absatz 1 Nummer 6
-    erfasst sind,
+1.  dem Energielieferanten für die Überprüfung der Bilanzkreis- und
+    Netznutzungsabrechnung Leistungswerte sowie Arbeitswerte von
+    Einzelzählpunkten,
 
 
-2.  dem Bilanzkoordinator für den in § 67 Absatz 1 Nummer 7 genannten
-    Zweck Bilanzkreissummenzeitreihen je Bilanzkreis und
-    Bilanzierungsgebiet in den Fällen, die nicht von § 67 Absatz 1 Nummer
-    6 erfasst sind,
-
-
-3.  die zur Erfüllung weiterer, sich aus den Festlegungen der
+2.  die zur Erfüllung weiterer, sich aus den Festlegungen der
     Bundesnetzagentur nach § 75 ergebender Pflichten erforderlichen Daten.
 
 
@@ -3540,49 +3605,22 @@ dies für folgende Zwecke zwingend erforderlich ist:
     Abschätzung der maximalen Residuallast,
 
 
-6.  Aggregation der Last- und Einspeisegänge von Einzelzählpunkten an
-    Messstellen, die mit intelligenten Messsystemen ausgestattet sind, zu
-    Bilanzkreissummenzeitreihen je Bilanzkreis und Bilanzierungsgebiet für
-    die Einbeziehung in die Bilanzkreisabrechnung,
+6.  Erstattung von finanziellen Förderungen und vermiedenen Netzentgelten
+    nach § 13 des Energiefinanzierungsgesetzes,
 
 
-7.  Bilanzkoordination einschließlich der Überwachung der Bilanzkreistreue
-    und der ordnungsgemäßen Bilanzkreisbewirtschaftung zeitnah nach dem
-    Erfüllungszeitpunkt,
+7.  Erhebung von Umlagen nach dem Energiefinanzierungsgesetz,
 
 
-8.  Erstattung von finanziellen Förderungen und Erhebung von vermiedenen
-    Netzentgelten nach § 13 des Energiefinanzierungsgesetzes,
-
-
-9.  Erhebung von Umlagen nach dem Energiefinanzierungsgesetz,
-
-
-10. Erfüllung weiterer sich aus den Festlegungen der Bundesnetzagentur
+8.  Erfüllung weiterer sich aus den Festlegungen der Bundesnetzagentur
     nach § 75 ergebender Pflichten.
 
 
 
 
-(2) Standardmäßig übermittelt der Betreiber von Übertragungsnetzen
-
-1.  täglich für den Vortag den Betreibern von Verteilernetzen zu Zwecken
-    der Prognosebildung und Bilanzierung die aus den Messwerten nach
-    Absatz 1 Nummer 6 aggregierten Summenzeitreihen netzebenenscharf für
-    das jeweilige Bilanzierungsgebiet,
-
-
-2.  täglich für den Vortag für die Messwerte nach Absatz 1 Nummer 6 den
-    Bilanzkreisverantwortlichen zu Zwecken der Bilanzkreisbewirtschaftung
-    die aus den Messwerten aggregierten Summenzeitreihen für den
-    jeweiligen Bilanzkreis,
-
-
-3.  die zur Erfüllung weiterer, sich aus den Festlegungen der
-    Bundesnetzagentur nach § 75 ergebender Pflichten erforderlichen Daten.
-
-
-
+(2) Standardmäßig übermittelt der Betreiber von Übertragungsnetzen die
+zur Erfüllung von sich aus den Festlegungen der Bundesnetzagentur nach
+§ 75 ergebenden Pflichten erforderlichen Daten.
 
 (3) Der Übertragungsnetzbetreiber muss personenbezogene Messwerte
 löschen oder im Sinne von § 52 Absatz 3 Satz 2 anonymisieren, sobald
@@ -3594,7 +3632,7 @@ als nicht mehr erforderlich
 
 1.  in den Fällen des Absatzes 1 Nummer 1 bezüglich der
     Erbringungskontrolle von Regelleistung aus dezentralen Anlagen, des
-    Absatzes 1 Nummer 3 und 4 sowie des § 66 Absatz 1 Nummer 3 und 5
+    Absatzes 1 Nummer 3 und 4 sowie des § 66 Absatz 1 Nummer 3 und 4
     spätestens nach einem Jahr ab dem Schluss des Kalenderjahres, in dem
     der jeweilige Messwert erhoben wurde,
 
@@ -3604,6 +3642,73 @@ als nicht mehr erforderlich
 
 
 
+
+
+##### § 67a Messwertverarbeitung zu Zwecken des Messwertweiterverarbeiters; Übermittlungspflicht; Löschung oder Anonymisierung
+
+(1) Der Messwertweiterverarbeiter darf erhaltene Messwerte
+ausschließlich verarbeiten, soweit dies für folgende Zwecke zwingend
+erforderlich ist:
+
+1.  die Aufbereitung von zählpunktscharfen Messwerten zu
+    abrechnungsrelevanten Messwerten, insbesondere in Bezug auf
+    Entnahmestellen, Einspeisestellen oder Netzübergabestellen,
+
+
+2.  die Erfüllung weiterer Pflichten, die sich aus den Festlegungen der
+    Bundesnetzagentur nach § 75 ergeben.
+
+
+
+
+(2) Der Messwertweiterverarbeiter übermittelt die aufbereiteten
+abrechnungsrelevanten Messwerte einer Entnahme- oder Einspeisestelle
+im erforderlichen Umfang nach näherer Maßgabe einer Festlegung der
+Bundesnetzagentur nach § 75.
+
+(3) Der Messwertweiterverarbeiter muss personenbezogene Messwerte
+löschen oder im Sinne von § 52 Absatz 3 Satz 2 anonymisieren, sobald
+für seine Aufgabenwahrnehmung eine Speicherung personenbezogener
+Messwerte nicht mehr erforderlich ist. Soweit in einer Festlegung der
+Bundesnetzagentur nach § 47 Absatz 2 Nummer 13 oder nach § 75 nicht
+etwas anderes bestimmt ist, gilt eine Speicherung im Sinne von Satz 1
+fünf Jahre ab dem Schluss des Kalenderjahres, in dem der jeweilige
+Messwert vom Aggregationsverantwortlichen empfangen wurde, als nicht
+mehr erforderlich.
+
+
+##### § 67b Messwertverarbeitung zu Zwecken des Aggregationsverantwortlichen; Übermittlungspflicht; Löschung oder Anonymisierung
+
+(1) Der Aggregationsverantwortliche darf erhaltene Messwerte
+ausschließlich verarbeiten, soweit dies für folgende Zwecke zwingend
+erforderlich ist:
+
+1.  Aggregation von Last- und Einspeisegängen sowie von Profilwerten von
+    Einzelzählpunkten zum Zweck der Bilanzierung, der Bilanzkoordination,
+    der Überwachung der Bilanzkreistreue, der ordnungsgemäßen
+    Bilanzkreisbewirtschaftung sowie für die Einbeziehung in die
+    Bilanzkreisabrechnung,
+
+
+2.  Erfüllung weiterer Pflichten, die sich aus den Festlegungen der
+    Bundesnetzagentur nach § 75 ergeben.
+
+
+
+
+(2) Der Aggregationsverantwortliche übermittelt Summenzeitreihen im
+erforderlichen Umfang nach näherer Maßgabe einer Festlegung der
+Bundesnetzagentur nach § 75.
+
+(3) Der Aggregationsverantwortliche muss personenbezogene Messwerte
+löschen oder im Sinne von § 52 Absatz 3 Satz 2 anonymisieren, sobald
+für seine Aufgabenwahrnehmung eine Speicherung personenbezogener
+Messwerte nicht mehr erforderlich ist. Soweit in einer Festlegung der
+Bundesnetzagentur nach § 47 Absatz 2 Nummer 13 oder nach § 75 nicht
+etwas anderes bestimmt ist, gilt eine Speicherung im Sinne von Satz 1
+fünf Jahre ab dem Schluss des Kalenderjahres, in dem der jeweilige
+Messwert vom Aggregationsverantwortlichen empfangen wurde, als nicht
+mehr erforderlich.
 
 
 ##### § 68 Messwertverarbeitung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung oder Anonymisierung
@@ -3625,16 +3730,9 @@ erforderlich ist:
 
 
 
-(2) Standardmäßig übermittelt der Bilanzkreisverantwortliche die im
-Zusammenhang mit § 4 der Stromnetzzugangsverordnung erforderliche
-Datenkommunikation, soweit die Daten nicht auf Personen
-zurückzubeziehen sind, sowie die Daten, die zur Erfüllung von
-Pflichten aus Festlegungen der Bundesnetzagentur nach § 75
-erforderlich sind.
-
-(3) Der Energielieferant muss sämtliche personenbezogenen Messwerte
-unter Beachtung mess- und eichrechtlicher Vorgaben löschen oder im
-Sinne von § 52 Absatz 3 Satz 2 anonymisieren, sobald für seine
+(2) Der Bilanzkreisverantwortliche muss sämtliche personenbezogenen
+Messwerte unter Beachtung mess- und eichrechtlicher Vorgaben löschen
+oder im Sinne von § 52 Absatz 3 Satz 2 anonymisieren, sobald für seine
 Aufgabenwahrnehmung eine Speicherung personenbezogener Messwerte nicht
 mehr erforderlich ist. Soweit in einer Festlegung der
 Bundesnetzagentur nach § 47 Absatz 2 Nummer 13 oder nach § 75 nicht
@@ -3677,8 +3775,7 @@ ist:
 5.  Überprüfung der Bilanzkreis- und Netznutzungsabrechnung,
 
 
-6.  Erstellung der Energiemengenprognose nach § 4 der
-    Stromnetzzugangsverordnung,
+6.  Erstellung der Energiemengenprognose,
 
 
 7.  (weggefallen)
@@ -3860,7 +3957,8 @@ Energiewirtschaftsgesetzes treffen
     für Sicherheit in der Informationstechnik nach § 60 Absatz 2 zur
     Plausibilisierung und Ersatzwertbildung im Smart-Meter-Gateway und zur
     Datenübermittlung über das Smart-Meter-Gateway direkt an die
-    berechtigten Stellen sowie zu Sonderregelungen für den Bereich Gas,
+    berechtigten Stellen sowie zu Sonderregelungen für die Bereiche Gas
+    und Wasserstoff,
 
 
 5.  zu Regeln für die Marktkommunikation mit intelligenten Messsystemen,
@@ -3903,15 +4001,17 @@ Bundesnetzagentur mit ihr oder ihm ins Benehmen setzen.
 (1) Die Bundesnetzagentur kann Unternehmen oder Vereinigungen von
 Unternehmen verpflichten, ein Verhalten abzustellen, das den
 Bestimmungen dieses Gesetzes sowie den auf Grund dieses Gesetzes
-ergangenen Rechtsvorschriften entgegensteht. Sie kann hierzu alle
-erforderlichen Abhilfemaßnahmen verhaltensorientierter oder
-struktureller Art vorschreiben, die gegenüber der festgestellten
-Zuwiderhandlung verhältnismäßig und für eine wirksame Abstellung der
-Zuwiderhandlung erforderlich sind. Abhilfemaßnahmen struktureller Art
-können nur in Ermangelung einer verhaltensorientierten Abhilfemaßnahme
-von gleicher Wirksamkeit festgelegt werden oder wenn letztere im
-Vergleich zu Abhilfemaßnahmen struktureller Art mit einer größeren
-Belastung für die beteiligten Unternehmen verbunden wäre.
+ergangenen Rechtsvorschriften oder den nach § 29 Absatz 1 des
+Energiewirtschaftsgesetzes festgelegten oder genehmigten Bedingungen
+und Methoden entgegensteht. Sie kann hierzu alle erforderlichen
+Abhilfemaßnahmen verhaltensorientierter oder struktureller Art
+vorschreiben, die gegenüber der festgestellten Zuwiderhandlung
+verhältnismäßig und für eine wirksame Abstellung der Zuwiderhandlung
+erforderlich sind. Abhilfemaßnahmen struktureller Art können nur in
+Ermangelung einer verhaltensorientierten Abhilfemaßnahme von gleicher
+Wirksamkeit festgelegt werden oder wenn letztere im Vergleich zu
+Abhilfemaßnahmen struktureller Art mit einer größeren Belastung für
+die beteiligten Unternehmen verbunden wäre.
 
 (2) Kommt ein Unternehmen oder eine Vereinigung von Unternehmen seinen
 Verpflichtungen nach diesem Gesetz oder den auf Grund dieses Gesetzes
@@ -3991,7 +4091,7 @@ Messstellenbetriebs aufzunehmen. Der Bericht soll Angaben enthalten
     ortePP/pp0077V2b\_pdf.pdf
 
 
-3.  BSI: Technische Richtlinie TR-03109
+3.  BSI: Technische Richtlinie TR-03109:
 
     a)  BSI: Technische Richtlinie TR-03109-1, Anforderungen an die
         Interoperabilität der Kommunikationseinheit eines intelligenten
@@ -4011,36 +4111,13 @@ Messstellenbetriebs aufzunehmen. Der Bericht soll Angaben enthalten
         Key-Infrastruktur für Smart-Meter-Gateways,
 
 
-    e)  BSI: Technische Richtlinie TR-03109-5, Kommunikationsadapter
-        [Veröffentlichung folgt],
+    e)  BSI: Technische Richtlinie TR-03109-5, Kommunikationsadapter,
 
 
-    f)  BSI: Technische Richtlinie TR-03109-6: Smart-Meter-Gateway-
-        Administration,
+    f)  BSI: Technische Richtlinie TR-03109-6, Smart-Meter-Gateway-
+        Administration
 
-        Fundstellen:
-        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Tech
-        nischeRichtlinien/TR03109/TR03109-1.pdf
-
-        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Tech
-        nischeRichtlinien/TR03109/
-        TR-03109-2-Anforderungen\_an\_die\_Funktionalitaet.pdf
-
-        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Tech
-        nischeRichtlinien/TR03109/
-        TR-03109-2-Sicherheitsmodul\_Use\_Cases.pdf
-
-        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Tech
-        nischeRichtlinien/TR03109/
-        TR-03109-3\_Kryptographische\_Vorgaben.pdf
-
-        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Tech
-        nischeRichtlinien/TR03109/
-        TR-03109\_PKI.pdf
-
-        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Tech
-        nischeRichtlinien/TR03109/
-        TR-03109-6-Smart\_Meter\_Gateway\_Administration.pdf
+        Fundstelle: https://www.bsi.bund.de/dock/smartmeter-pp-tr
 
 
 
@@ -4066,12 +4143,3 @@ Messstellenbetriebs aufzunehmen. Der Bericht soll Angaben enthalten
 
 
 
-    Auf den Internetseiten des Bundesamtes für Sicherheit in der
-    Informationstechnik www.bsi.bund.de wurden unter dem Oberbegriff
-    „Smart Metering Systems“ folgende Unterordner eingerichtet:
-    „Schutzprofil Gateway“, „Schutzprofil Security Module“, „Smart
-    Metering PKI“ und „Technische Richtlinie“; eine Übersicht über die
-    Schutzprofile und Technischen Richtlinien nach § 22 Absatz 2 Satz 1
-    findet sich unter www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/Smart
-    Meter/UebersichtSP-TR/uebersicht\_node.html.
-[^f794956_02_BJNR203410016BJNE007900000]: 
