@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3778
 
+V aufgeh. durch
+:   Art. 8 G v. 22.12.2025 I Nr. 341 mWv 1.1.2027
+
 Geändert durch
 :   Art. 1 V v. 18.9.2009 I 3048
 
