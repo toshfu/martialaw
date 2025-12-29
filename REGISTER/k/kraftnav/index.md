@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1187
 
+Geändert durch
+:   Art. 1 V v. 23.12.2025 I Nr. 368
+
 Diese Verordnung dient u. a. der Umsetzung der Richtlinie 2005/89/EG
 des Europäischen Parlaments und des Rates vom 18. Januar 2006 über
 Maßnahmen zur Gewährleistung der Sicherheit der
@@ -40,7 +43,9 @@ S. 1970) verordnet die Bundesregierung:
 (1) Diese Verordnung regelt Bedingungen für den Netzanschluss von
 Anlagen zur Erzeugung von elektrischer Energie (Erzeugungsanlagen) mit
 einer Nennleistung ab 100 Megawatt an Elektrizitätsversorgungsnetze
-mit einer Spannung von mindestens 110 Kilovolt.
+mit einer Spannung von mindestens 110 Kilovolt. Die Verordnung findet
+keine Anwendung auf Energiespeicheranlagen im Sinne des § 3 Nummer 36
+des Energiewirtschaftsgesetzes.
 
 (2) Die Regelungen dieser Verordnung sind hinsichtlich der Pflichten
 der Netzbetreiber abschließend im Sinne des § 111 Abs. 2 Nr. 2 des
