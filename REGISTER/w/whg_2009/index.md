@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 12.8.2025 I Nr. 189
 
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                    Richtlinie 80/68/EWG des Rates
     vom 17. Dezember 1979 über den Schutz des Grundwassers gegen
@@ -837,6 +840,63 @@ andernfalls dem Träger des Vorhabens mit.
 
 
 
+
+(8) Ist für die Errichtung und für den Betrieb einer Anlage zur
+Gewinnung oder Speicherung von Erdwärme ein bergrechtlicher
+Betriebsplan erforderlich, gilt für die Erteilung der Erlaubnis oder
+Bewilligung § 57e Absatz 2 Satz 2, Absatz 5 und 6 des
+Bundesberggesetzes entsprechend.
+
+
+#### § 11b Projektmanager
+
+(1) Bei Vorhaben nach § 11a kann die zuständige Behörde auf Antrag
+oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kosten in
+jeder Stufe des Verfahrens einen Dritten als Projektmanager, der als
+Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und
+Durchführung von Verfahrensschritten beauftragen. Dies kann
+insbesondere folgende Verfahrensschritte umfassen:
+
+1.  die Erstellung von Verfahrensleitplänen unter Bestimmung von
+    Verfahrensabschnitten und Zwischenterminen,
+
+
+2.  die Fristenkontrolle,
+
+
+3.  die Koordinierung von erforderlichen Sachverständigengutachten,
+
+
+4.  das Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
+
+
+5.  bei Bewilligungsverfahren eine erste Auswertung der eingereichten
+    Stellungnahmen,
+
+
+6.  den Entwurf der Niederschrift über den Erörterungstermin,
+
+
+7.  den Entwurf der Zulassungsentscheidung sowie
+
+
+8.  die Prüfung der Vollständigkeit der Unterlagen.
+
+
+
+
+(2) Die Entscheidung über die Zulassung des Vorhabens trifft allein
+die zuständige Behörde.
+
+(3) Stimmt der Vorhabenträger zu, kann die zuständige Behörde bei der
+Beauftragung des Projektmanagers mit diesem vereinbaren, dass die
+Zahlungspflicht unmittelbar zwischen Vorhabenträger und Projektmanager
+entsteht und eine Abrechnung zwischen diesen erfolgt. Der
+Projektmanager ist verpflichtet, die Abrechnungsunterlagen ebenfalls
+der zuständigen Behörde zu übermitteln. Die zuständige Behörde prüft,
+ob die vom Projektmanager abgerechneten Leistungen dem jeweiligen
+Auftrag entsprechen, und teilt dem Vorhabenträger das Ergebnis dieser
+Prüfung unverzüglich mit.
 
 
 #### § 12 Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
@@ -2683,9 +2743,10 @@ Vorschriften in diesem Bereich zu regeln.
 (1) Keiner Erlaubnis oder Bewilligung bedarf das Entnehmen,
 Zutagefördern, Zutageleiten oder Ableiten von Grundwasser
 
-1.  für den Haushalt, für den landwirtschaftlichen Hofbetrieb, für das
-    Tränken von Vieh außerhalb des Hofbetriebs oder in geringen Mengen zu
-    einem vorübergehenden Zweck,
+1.  für den Haushalt einschließlich der Wärmeversorgung über den Entzug
+    von Wärme aus dem Wasser, für den landwirtschaftlichen Hofbetrieb, für
+    das Tränken von Vieh außerhalb des Hofbetriebs oder in geringen Mengen
+    zu einem vorübergehenden Zweck,
 
 
 2.  für Zwecke der gewöhnlichen Bodenentwässerung landwirtschaftlich,
@@ -2770,9 +2831,20 @@ Behörde einen Monat vor Beginn der Arbeiten anzuzeigen. Werden bei
 diesen Arbeiten Stoffe in das Grundwasser eingebracht, ist abweichend
 von § 8 Absatz 1 in Verbindung mit § 9 Absatz 1 Nummer 4 anstelle der
 Anzeige eine Erlaubnis nur erforderlich, wenn sich das Einbringen
-nachteilig auf die Grundwasserbeschaffenheit auswirken kann. Die
-zuständige Behörde kann für bestimmte Gebiete die Tiefe nach Satz 1
-näher bestimmen.
+nachteilig auf die Grundwasserbeschaffenheit auswirken kann. Bei der
+Errichtung, dem Betrieb und der Modernisierung von Erdwärmekollektoren
+bis zu einer Tiefe von 4 Metern und außerhalb von Wasserschutzgebieten
+ist davon auszugehen, dass die Erdwärmekollektoren keine nachteiligen
+Auswirkungen auf die Grundwasserbeschaffenheit gemäß Satz 2 haben,
+wenn sie oder ihre Anlagenteile die Anforderungen nach § 35 Absatz 2
+der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
+vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der
+Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist,
+erfüllen. Die Vermutung nach Satz 3 gilt nicht, wenn auf Grund der
+räumlichen Konzentration der Anlagen in einem Gebiet eine nachteilige
+thermische Wirkung auf das Grundwasser zu besorgen ist. Die zuständige
+Behörde kann für bestimmte Gebiete die Tiefe nach Satz 1 näher
+bestimmen.
 
 (2) Wird unbeabsichtigt Grundwasser erschlossen, ist dies der
 zuständigen Behörde unverzüglich anzuzeigen.
