@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1966, 557
 
 Zuletzt geändert durch
-:   Art. 27 G v. 23.10.2024 I Nr. 323
+:   Art. 19 G v. 22.12.2025 I Nr. 349
 
 
 ## Erster Teil - Der Patentanwalt
@@ -1029,7 +1029,7 @@ wenn Erklärender und Empfänger über ein solches verfügen. Ist die
 Erklärung von einer natürlichen Person abzugeben, so ist das Dokument
 mit einer qualifizierten elektronischen Signatur der Person zu
 versehen oder von ihr zu signieren und selbst zu versenden. Andere
-Postfächer nach § 130a Absatz 4 Satz 1 Nummer 2, 3 und 5 der
+Postfächer nach § 130a Absatz 4 Satz 1 Nummer 1, 2 und 4 der
 Zivilprozessordnung stehen dem besonderen elektronischen Bürger- und
 Organisationenpostfach nach Satz 1 gleich.
 
