@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 14.12.2023 I Nr. 367
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeines
 
