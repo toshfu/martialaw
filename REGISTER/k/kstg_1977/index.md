@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 14.7.2025 I Nr. 161
 
+Änderung durch
+:   Art. 6 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Steuerpflicht
 
@@ -603,7 +606,7 @@ Hoheitsbetrieb zusammengefasst werden.
     Lieferung von Strom aus Anlagen, für den es unter den Voraussetzungen
     des § 21 Absatz 3 des Erneuerbare-Energien-Gesetzes einen Anspruch auf
     Zahlung eines Mieterstromzuschlags hat, oder aus der Bereitstellung
-    von Strom aus Gebäudestromanlagen gemäß § 3 Nummer 20b des
+    von Strom aus Gebäudestromanlagen gemäß § 3 Nummer 53 des
     Energiewirtschaftsgesetzes zur Nutzung durch Letztverbraucher im
     Rahmen der Gemeinschaftlichen Gebäudeversorgung, erhöht sich die
     Grenze des Satzes 2 für diese Einnahmen auf 30 Prozent, wenn die
