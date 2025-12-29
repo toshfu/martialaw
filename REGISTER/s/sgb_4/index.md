@@ -25,6 +25,15 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 362 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
 
