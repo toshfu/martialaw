@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1499
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.12.2023 I Nr. 353
+:   Art. 22 G v. 22.12.2025 I Nr. 355
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -638,10 +638,10 @@ voraus, dass
 
 Stellt der Arbeitgeber der oder dem Saisonbeschäftigten eine
 Unterkunft zur Verfügung, so muss der Mietzins angemessen sein und
-darf nicht vom Lohn einbehalten werden. In diesem Fall muss der oder
-die Saisonbeschäftigte einen Mietvertrag erhalten, in dem die
-Mietbedingungen festgelegt sind. Der Arbeitgeber hat der Bundesagentur
-für Arbeit jeden Wechsel der Unterkunft des oder der
+darf nicht automatisch vom Lohn einbehalten werden. In diesem Fall
+muss der oder die Saisonbeschäftigte einen Mietvertrag erhalten, in
+dem die Mietbedingungen festgelegt sind. Der Arbeitgeber hat der
+Bundesagentur für Arbeit jeden Wechsel der Unterkunft des oder der
 Saisonbeschäftigten unverzüglich anzuzeigen.
 
 (3) Die Arbeitserlaubnis oder die Zustimmung ist zu versagen oder zu
@@ -677,10 +677,14 @@ entziehen, wenn
 
 6.  die Eröffnung eines Insolvenzverfahrens über das Vermögen des
     Unternehmens des Arbeitgebers mangels Masse abgelehnt wurde und der
-    Geschäftsbetrieb eingestellt wurde oder
+    Geschäftsbetrieb eingestellt wurde,
 
 
-7.  das Unternehmen des Arbeitgebers keine Geschäftstätigkeit ausübt.
+7.  das Unternehmen des Arbeitgebers keine Geschäftstätigkeit ausübt oder
+
+
+8.  die nach Absatz 2 vorgelegten Unterlagen in betrügerischer Weise
+    erworben, gefälscht oder manipuliert wurden.
 
 
 
@@ -692,7 +696,9 @@ Die Arbeitserlaubnis oder die Zustimmung kann versagt oder die
 Arbeitserlaubnis entzogen werden, wenn der Arbeitgeber seinen
 sozialversicherungsrechtlichen, steuerrechtlichen oder
 arbeitsrechtlichen Pflichten nicht nachgekommen ist. § 40 Absatz 1 und
-2 und § 41 des Aufenthaltsgesetzes gelten fort.
+2 Nummer 1 und 3 sowie § 41 des Aufenthaltsgesetzes mit Ausnahme der
+Tatbestände des § 40 Absatz 2 Nummer 2 und Absatz 3 des
+Aufenthaltsgesetzes gelten fort.
 
 (4) Die Arbeitserlaubnis ist vom Arbeitgeber bei der Bundesagentur für
 Arbeit zu beantragen. Die Ausländerin oder der Ausländer muss
