@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 21.2.2025 I Nr. 52
 
+Änderung durch
+:   Art. 23 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 
@@ -170,7 +173,7 @@ Im Sinn dieses Gesetzes ist oder sind
     ist,
 
 
-9.  „Bilanzkreis“ ein Bilanzkreis nach § 3 Nummer 10d des
+9.  „Bilanzkreis“ ein Bilanzkreis nach § 3 Nummer 21 des
     Energiewirtschaftsgesetzes,
 
 
@@ -1378,6 +1381,12 @@ wirtschaftlich unzumutbar ist.
 
 (1) Anlagenbetreiber dürfen den Anschluss der Anlagen von dem
 Netzbetreiber oder einer fachkundigen dritten Person vornehmen lassen.
+Soweit bei dem Anschluss nach Satz 1 eine elektrische Anlage hinter
+einer Hausanschlusssicherung im Sinne des § 13 Absatz 1 Satz 1 der
+Niederspannungsanschlussverordnung errichtet, erweitert, geändert oder
+instandgehalten wird, bleiben die dafür geltenden Anforderungen an
+eine Eintragung in das Installateursverzeichnis eines Netzbetreibers
+unberührt.
 
 (2) Die Ausführung des Anschlusses und die übrigen für die Sicherheit
 des Netzes notwendigen Einrichtungen müssen den im Einzelfall
@@ -1500,9 +1509,9 @@ Netzbetreibers zu Maßnahmen nach § 13 Absatz 1 und 2 des
 Energiewirtschaftsgesetzes nicht beschränken.
 
 (4) Regelungen zur Weitverkehrsnetzanbindung von Anlagen in einer nach
-§ 95 Nummer 2a erlassenen Verordnung sind unabhängig von den Vorgaben
-nach den Absätzen 1 bis 3 anzuwenden und lassen die sich hieraus
-ergebenden Pflichten unberührt.
+§ 19 Absatz 2 Satz 3 und 4 des Messstellenbetriebsgesetzes erlassenen
+Verordnung sind unabhängig von den Vorgaben nach den Absätzen 1 bis 3
+anzuwenden und lassen die sich hieraus ergebenden Pflichten unberührt.
 
 (5) Die Netzbetreiber stimmen untereinander bis zum Ablauf des 1. März
 2026 einheitliche, für Anlagenbetreiber und
@@ -1594,7 +1603,7 @@ den Betrieb von elektrischen Leitungen sowie von Steuer- und
 Kommunikationsleitungen (Leitungen) und sonstigen Einrichtungen zum
 Anschluss von Anlagen zur Erzeugung von Strom aus erneuerbaren
 Energien an den Verknüpfungspunkt nach § 8 Absatz 1 bis 3 sowie von
-Direktleitungen im Sinn von § 3 Nummer 12 des
+Direktleitungen im Sinn von § 3 Nummer 27 des
 Energiewirtschaftsgesetzes zu dulden. Der Betreiber der Leitung und
 von ihm Beauftragte sind berechtigt, das Grundstück zu diesem Zweck zu
 betreten und zu befahren. Die Duldungspflicht besteht nicht, soweit
@@ -2082,8 +2091,10 @@ unentgeltlichen Abnahme zugeordnet war.
 
 (2) Anlagenbetreiber dürfen den in ihren Anlagen erzeugten Strom
 prozentual auf verschiedene Veräußerungsformen nach Absatz 1
-aufteilen; in diesem Fall müssen sie die Prozentsätze nachweislich
-jederzeit einhalten. Satz 1 ist nicht für die Ausfallvergütung, die
+aufteilen. Erfolgt die prozentuale Aufteilung nicht ausschließlich auf
+die Veräußerungsformen des Absatzes 1 Satz 1 Nummer 1 und 4, müssen
+die Anlagenbetreiber die Prozentsätze nachweislich jederzeit
+einhalten. Die Sätze 1 und 2 sind nicht für die Ausfallvergütung, die
 unentgeltliche Abnahme und den Mieterstromzuschlag nach § 21 Absatz 3
 anzuwenden.
 
@@ -2156,7 +2167,7 @@ auch angeben:
 
 
 3.  bei einer prozentualen Aufteilung des Stroms auf verschiedene
-    Veräußerungsformen nach § 21b Absatz 2 Satz 1 die Prozentsätze, zu
+    Veräußerungsformen nach § 21b Absatz 2 Satz 2 die Prozentsätze, zu
     denen der Strom den Veräußerungsformen zugeordnet wird.
 
 
@@ -9773,7 +9784,8 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     Buchstabe c zu regeln,
 
 
-3.  festzulegen, wie Anlagenbetreiber die Einhaltung der Anforderungen
+3.  festzulegen, wie Wirtschaftsteilnehmer nach Artikel 2 Nummer 11 der
+    Durchführungsverordnung (EU) 2022/996 die Einhaltung der Anforderungen
     nach den Nummern 1 und 2 nachweisen müssen; dies schließt Regelungen
     ein
 
@@ -9787,14 +9799,16 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
         Nachweisführung und
 
 
-    c)  zu den Anforderungen an die Anerkennung von Systemen und unabhängigen
-        Kontrollstellen sowie zu den Maßnahmen zu ihrer Überwachung
-        einschließlich erforderlicher Auskunfts-, Einsichts-, Probenentnahme-
-        und Weisungsrechte sowie des Rechts der zuständigen Behörde oder
-        unabhängiger Kontrollstellen, während der Geschäfts- oder Betriebszeit
-        Grundstücke, Geschäfts-, Betriebs- und Lagerräume sowie
-        Transportmittel zu betreten, soweit dies für die Überwachung oder
-        Kontrolle erforderlich ist,
+    c)  zu den Anforderungen an die Anerkennung von Systemen und
+        Zertifizierungsstellen sowie zum Akkreditierungsverfahren und zu den
+        Maßnahmen zu der Überwachung von Systemen, Zertifizierungsstellen und
+        Wirtschaftsteilnehmern, einschließlich erforderlicher Einsichts-,
+        Probenentnahme- und Weisungsrechte sowie Auskunfts-, Herausgabe-,
+        Duldungs- und Mitwirkungspflichten, einschließlich des Rechts der
+        zuständigen Behörde oder Zertifizierungsstellen, während der
+        Geschäfts- oder Betriebszeit, Grundstücke, Geschäfts-, Betriebs- und
+        Lagerräume sowie Transportmittel zu betreten, soweit dies für die
+        Überwachung oder Kontrolle erforderlich ist,
 
 
 
@@ -9804,8 +9818,14 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     betrauen, die die Einhaltung der in der Rechtsverordnung nach den
     Nummern 1 bis 3 geregelten Anforderungen sicherstellen, insbesondere
     mit der näheren Bestimmung der in der Rechtsverordnung auf Grund der
-    Nummern 1 und 2 geregelten Anforderungen sowie mit der Wahrnehmung von
-    Aufgaben nach Nummer 3.
+    Nummern 1 und 2 geregelten Anforderungen sowie die Bundesanstalt für
+    Landwirtschaft und Ernährung und in Bezug auf das
+    Akkreditierungsverfahren die Stellen, die nach § 8 des
+    Akkreditierungsstellengesetz vom 31. Juli 2009 (BGBl. I S. 2625), das
+    zuletzt durch Artikel 47 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024
+    I Nr. 323) geändert worden ist, in der jeweils geltenden Fassung,
+    beliehen oder errichtet sind, mit der Wahrnehmung von Aufgaben nach
+    Nummer 3.
 
 
 
@@ -10085,28 +10105,7 @@ ohne Zustimmung des Bundesrates
 2.  (weggefallen)
 
 
-2a. unbeschadet der §§ 9, 10b sowie 100 Absatz 3, 3a und 4 Regelungen zur
-    Weitverkehrsnetzanbindung von Anlagen einschließlich
-    Steckersolargeräten, wenn deren Nutzung mit unverhältnismäßigen
-    Gefahren verbunden wäre, auch für Anlagen, die vor dem 1. Januar 2023
-    in Betrieb genommen worden sind, vorzugeben, insbesondere
-
-    a)  die von der Regelung erfassten Anlagen anhand ihrer technischen
-        Beschaffenheit einschließlich ihrer installierten Leistung näher zu
-        bestimmen,
-
-
-    b)  vorzugeben, dass Anlagen nicht an ein Weitverkehrsnetz oder nur über
-        ein Smart-Meter-Gateway im Sinn des § 2 Satz 1 Nummer 19 des
-        Messstellenbetriebsgesetzes an ein Weitverkehrsnetz angebunden werden
-        dürfen, und
-
-
-    c)  qualifizierte Anforderungen an die Anbindung an eine von Smart-Meter-
-        Gateways unabhängige Weitverkehrsnetzanbindung vorzugeben,
-
-
-
+2a. (weggefallen)
 
 
 3.  festzulegen, wann ein Gebäude nach § 48 Absatz 1 Satz 1 Nummer 1a
