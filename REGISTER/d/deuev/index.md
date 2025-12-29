@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 28 G v. 20.12.2022 I 2759
 
+Änderung durch
+:   Art. 20 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeines
 
