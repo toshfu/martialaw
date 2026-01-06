@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 22.12.2014 I 2392
 
+Änderung durch
+:   Art. 13 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -299,9 +302,9 @@ Diese Verordnung ist erstmals anzuwenden
 
 
 
-### § 12 Inkrafttreten
+### § 12 Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt am 30. Dezember 2025 außer Kraft.
 
 
 ### Schlussformel
