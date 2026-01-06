@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 22 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -345,27 +345,25 @@ und 3 folgende Aufgaben:
     Steuertransparenzgesetzes;
 
 
-5h.
-    a)  die Entgegennahme der Mindeststeuer-Berichte nach § 75 des
-        Mindeststeuergesetzes und ihre Weiterleitung an die jeweils zuständige
-        Landesfinanzbehörde,
+5h. die Entgegennahme, Ermittlung, Weiterleitung und Auswertung der
+    Meldungen nach § 3 Absatz 4 des Mindeststeuergesetzes sowie die
+    Entgegennahme, Ermittlung, Weiterleitung, Übermittlung und Auswertung
+    von Informationen nach § 75 des Mindeststeuergesetzes sowie die
+    Kommunikation mit den zuständigen Behörden und die
+    Berichtigungsaufforderung an die obersten Muttergesellschaften
+    beziehungsweise die berichtspflichtigen Geschäftseinheiten nach § 75a
+    des Mindeststeuergesetzes;
 
 
-    b)  die Entgegennahme der Meldungen nach § 3 Absatz 4 des
-        Mindeststeuergesetzes und Weiterleitung an die jeweils zuständige
-        Länderfinanzbehörde sowie
+5i. die Entgegennahme und die Übermittlung von Informationen nach § 16
+    Absatz 1 bis 3 des Kryptowerte-Steuertransparenz-Gesetzes und die
+    Durchführung der Verfahren gemäß den §§ 17 und 18 des Kryptowerte-
+    Steuertransparenz-Gesetzes;
 
 
-    c)  die Durchführung von Bußgeldverfahren nach § 98 des
-        Mindeststeuergesetzes;
-
-
-
-
-
-5i. die Auswertung der Informationen nach den Nummern 5c bis 5h im Rahmen
+5j. die Auswertung der Informationen nach den Nummern 5c bis 5i im Rahmen
     der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
-    Auswertungen der Informationen nach den Nummern 5c bis 5h durch die
+    Auswertungen der Informationen nach den Nummern 5c bis 5i durch die
     jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 
@@ -850,7 +848,11 @@ und 3 folgende Aufgaben:
 
 
 48. die Wahrnehmung der Aufgaben der Direktauszahlungsbehörde nach § 139e
-    der Abgabenordnung.
+    der Abgabenordnung;
+
+
+49. die Durchführung von Bußgeldverfahren nach § 98 des
+    Mindeststeuergesetzes.
 
 
 
@@ -866,8 +868,8 @@ Datenschutzkontrolle zu speichern.
 wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach
 § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt
 nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9,
-10, 13 bis 17, 19, 22 bis 24, 28, 28a, 28b, 29a bis 34, 36, 38, 42 bis
-45, 46 und 46b.
+10, 13 bis 17, 19, 22 bis 24, 28 bis 28b, 29a bis 34, 36, 38, 42 bis
+45, 46, 46b, 48 und 49.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher
 Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie
