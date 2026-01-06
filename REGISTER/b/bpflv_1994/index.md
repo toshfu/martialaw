@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 30.9.2025 I Nr. 231
 
+Änderung durch
+:   Art. 13b G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
