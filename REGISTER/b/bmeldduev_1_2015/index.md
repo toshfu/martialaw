@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.1.2025 I Nr. 23
 
+Änderung durch
+:   Art. 14 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -716,7 +719,7 @@ Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach
 Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer
 1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes
 vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603,
-2604, 2702 bis 2708, 2801, 2802 und 3101). Sie übermittelt der
+2604, 2702 bis 2708, 2801 und 2802). Sie übermittelt der
 Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das
 Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-
 Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern
