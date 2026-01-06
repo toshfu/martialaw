@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 8 G v. 27.8.2017 I 3295
 
 Änderung durch
-:   Art. 5 G v. 10.12.2025 I Nr. 320 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 5 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -336,8 +336,8 @@ nur Richter befugt.
 
 Alle Behörden sind auf Ersuchen des Gerichts zur Amtshilfe
 verpflichtet. Die Finanzämter haben auf Ersuchen des Gerichts
-Auskünfte über den Einheitswert oder den Wirtschaftswert land- oder
-forstwirtschaftlicher Grundstücke zu erteilen.
+Auskünfte über den Grundsteuerwert land- oder forstwirtschaftlicher
+Grundstücke zu erteilen.
 
 
 ### § 18
