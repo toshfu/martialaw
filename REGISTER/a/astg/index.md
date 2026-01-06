@@ -19,10 +19,10 @@ Zuletzt geändert durch
 :   Art. 14 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 353 mWv 1.7.2021 noch nicht berücksichtigt
+:   Art. 5 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Internationale Verflechtungen
@@ -1027,10 +1027,10 @@ tatsächlich erhoben werden.
 Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden
 Wirtschaftsjahres im Sinne des § 7 Absatz 2, für die eine ausländische
 Gesellschaft Zwischengesellschaft ist, außer Ansatz zu lassen, wenn
-die Einkünfte nicht mehr als 10 Prozent der gesamten Einkünfte der
-ausländischen Gesellschaft betragen, vorausgesetzt, dass die bei einem
-Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt
-80 000 Euro nicht übersteigen.
+die Einkünfte nicht mehr als ein Drittel der gesamten Einkünfte der
+ausländischen Gesellschaft betragen und die bei einer
+Zwischengesellschaft hiernach außer Ansatz zu lassenden Beträge
+insgesamt 100 000 Euro nicht übersteigen.
 
 
 ### § 10 Hinzurechnungsbetrag
@@ -1189,29 +1189,23 @@ nach den Absätzen 1 und 2 entsprechend anzuwenden.
 
 ### § 13 Beteiligung an Kapitalanlagegesellschaften
 
-(1) Ist ein unbeschränkt Steuerpflichtiger unmittelbar oder mittelbar
-an einer ausländischen Gesellschaft beteiligt und bestehen die
-Einkünfte der Gesellschaft aus Einkünften mit Kapitalanlagecharakter,
-die einer niedrigen Besteuerung unterliegen (§ 8 Absatz 5), sind diese
-Einkünfte bei dem unbeschränkt Steuerpflichtigen entsprechend seiner
+(1) Sind einem unbeschränkt Steuerpflichtigen allein oder zusammen mit
+ihm nach § 7 Absatz 3 und 4 Satz 1 nahestehenden Personen am Ende des
+Wirtschaftsjahres der ausländischen Gesellschaft, in dem diese
+Einkünfte nach dieser Vorschrift erzielt hat, mindestens 10 Prozent
+der Stimmrechte oder mindestens 10 Prozent der Anteile am Nennkapital
+unmittelbar oder mittelbar zuzurechnen und bestehen die Einkünfte der
+Gesellschaft aus Einkünften mit Kapitalanlagecharakter, die einer
+niedrigen Besteuerung unterliegen (§ 8 Absatz 5), sind diese Einkünfte
+bei dem unbeschränkt Steuerpflichtigen entsprechend seiner
 unmittelbaren und mittelbaren Beteiligung am Nennkapital dieser
-Gesellschaft steuerpflichtig, auch wenn die Voraussetzungen des § 7
-Absatz 1 Satz 1 im Übrigen nicht erfüllt sind. § 7 Absatz 1 Satz 2 und
-3 gilt entsprechend. Satz 1 ist nicht anzuwenden, wenn die Einkünfte
-mit Kapitalanlagecharakter nicht mehr als 10 Prozent der gesamten
+Gesellschaft steuerpflichtig, wenn die Voraussetzungen des § 7 Absatz
+1 Satz 1 im Übrigen nicht erfüllt sind. § 7 Absatz 1 Satz 2 und 3 gilt
+entsprechend. Satz 1 ist nicht anzuwenden, wenn die Einkünfte mit
+Kapitalanlagecharakter nicht mehr als ein Drittel der gesamten
 Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft
-ist, betragen und die bei einer Zwischengesellschaft oder bei einem
-Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt
-80 000 Euro nicht übersteigen. Satz 1 gilt bei einer Beteiligung von
-weniger als 1 Prozent nur, wenn die Einkünfte der ausländischen
-Gesellschaft ausschließlich oder nahezu ausschließlich aus Einkünften
-mit Kapitalanlagecharakter bestehen und mit der Hauptgattung der
-Aktien der ausländischen Gesellschaft kein wesentlicher und
-regelmäßiger Handel an einer Börse in einem Mitgliedstaat der
-Europäischen Union oder in einem Vertragsstaat des EWR-Abkommens oder
-an einer in einem anderen Staat nach § 193 Absatz 1 Satz 1 Nummer 2
-und 4 des Kapitalanlagegesetzbuchs von der Bundesanstalt für
-Finanzdienstleistungsaufsicht zugelassenen Börse stattfindet.
+ist, betragen und die bei einer Zwischengesellschaft hiernach außer
+Ansatz zu lassenden Beträge insgesamt 100 000 Euro nicht übersteigen.
 
 (2) Einkünfte mit Kapitalanlagecharakter sind Einkünfte,
 einschließlich Veräußerungsgewinne, die aus dem Halten, der
@@ -1228,7 +1222,11 @@ Einkünfte aus einer Gesellschaft im Sinne des § 16 des REIT-Gesetzes
 vom 28. Mai 2007 (BGBl. I S. 914) in der jeweils geltenden Fassung, es
 sei denn, dass mit der Hauptgattung der Aktien der ausländischen
 Gesellschaft ein wesentlicher und regelmäßiger Handel an einer Börse
-der in Absatz 1 Satz 4 genannten Art stattfindet.
+in einem Mitgliedstaat der Europäischen Union oder in einem
+Vertragsstaat des EWR-Abkommens oder an einer in einem anderen Staat
+nach § 193 Absatz 1 Satz 1 Nummer 2 und 4 des Kapitalanlagegesetzbuchs
+von der Bundesanstalt für Finanzdienstleistungsaufsicht zugelassenen
+Börse stattfindet.
 
 (4) § 8 Absatz 2 und 5 sowie die §§ 10 bis 12 gelten entsprechend. § 8
 Absatz 2 gilt nicht, wenn der Staat, in dem die Gesellschaft ihren
@@ -1440,18 +1438,22 @@ mittelbar beteiligt, so wird die gesonderte Feststellung ihnen
 gegenüber einheitlich vorgenommen; dabei ist auch festzustellen, wie
 sich die Besteuerungsgrundlagen auf die einzelnen Beteiligten
 verteilen. Die Vorschriften der Abgabenordnung, mit Ausnahme des § 180
-Abs. 3, und der Finanzgerichtsordnung über die gesonderte Feststellung
-von Besteuerungsgrundlagen sind entsprechend anzuwenden.
+Absatz 3 und des § 183, und der Finanzgerichtsordnung über die
+gesonderte Feststellung von Besteuerungsgrundlagen sind entsprechend
+anzuwenden.
 
 (2) Für die gesonderte Feststellung ist das Finanzamt zuständig, das
 bei dem Steuerpflichtigen für die Ermittlung der aus der unmittelbaren
 und mittelbaren Beteiligung bezogenen Einkünfte örtlich zuständig ist.
 Ist die gesonderte Feststellung gegenüber mehreren Personen
-einheitlich vorzunehmen, so ist das Finanzamt zuständig, das nach Satz
-1 für den Beteiligten zuständig ist, dem die höchste Beteiligung an
-der ausländischen Gesellschaft zuzurechnen ist. Läßt sich das
-zuständige Finanzamt nach den Sätzen 1 und 2 nicht feststellen, so ist
-das Finanzamt zuständig, das zuerst mit der Sache befaßt wird.
+einheitlich vorzunehmen, ist das Finanzamt zuständig, das nach Satz 1
+für den Beteiligten zuständig ist, dem die höchste Beteiligung an der
+ausländischen Gesellschaft zuzurechnen ist. Lässt sich das zuständige
+Finanzamt nach den Sätzen 1 und 2 nicht feststellen, ist das Finanzamt
+zuständig, das zuerst mit der Sache befasst wird. Soweit in den Fällen
+des § 7 Absatz 1 Satz 2 mittelbare Beteiligungen für die Steuerpflicht
+unbeachtlich sind, sind diese auch für die Ermittlung der
+Zuständigkeit nach den Sätzen 1 und 2 unbeachtlich.
 
 (3) Jeder der an der ausländischen Gesellschaft unmittelbar oder
 mittelbar beteiligten Steuerpflichtigen hat eine Erklärung zur
@@ -1558,28 +1560,36 @@ Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) bereits für den
 Veranlagungs- und Erhebungszeitraum 2020 anzuwenden.
 
 (3) Wurde ein Tatbestand des § 6 Absatz 1 in einer bis zum 30. Juni
-2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in
+2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in
 der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses
 Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von
-Satz 1 sind
+Satz 1 gilt das Folgende:
 
 1.  Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz 6 in der am
     30\. Juni 2021 geltenden Fassung auf Veräußerungen nach dem 24. März
-    2021 nicht mehr zu berücksichtigen und
+    2021 sind nicht mehr zu berücksichtigen.
 
 
 2.  Stundungen nach § 6 Absatz 4 oder 5 in einer bis zum 30. Juni 2021
-    geltenden Fassung auch zu widerrufen, soweit Gewinnausschüttungen
+    geltenden Fassung sind auch zu widerrufen, soweit Gewinnausschüttungen
     erfolgen oder eine Einlagenrückgewähr erfolgt und soweit deren
-    gemeiner Wert insgesamt mehr als ein Viertel des gemeinen Werts zum
-    Zeitpunkt der Verwirklichung des Tatbestands im Sinne des Satzes 1
-    beträgt; § 6 Absatz 7 Satz 1 und 2 in der am 30. Juni 2021 geltenden
-    Fassung ist entsprechend anzuwenden. Dies gilt nur für
-    Gewinnausschüttungen oder eine Einlagenrückgewähr, die nach dem 16.
-    August 2023 erfolgen.
+    gemeiner Wert insgesamt mehr als ein Viertel des gemeinen Werts des
+    Anteils zum Zeitpunkt der Verwirklichung des Tatbestands im Sinne des
+    Satzes 1 beträgt; § 6 Absatz 7 Satz 1 und 2 in der am 30. Juni 2021
+    geltenden Fassung ist entsprechend anzuwenden.
+
+
+3.  § 6 Absatz 3 in einer bis zum 30. Juni 2021 geltenden Fassung ist mit
+    der Maßgabe anzuwenden, dass der Steueranspruch auch nicht entfällt,
+    soweit Gewinnausschüttungen erfolgen oder eine Einlagenrückgewähr
+    erfolgt und soweit deren gemeiner Wert insgesamt mehr als ein Viertel
+    des gemeinen Werts des Anteils zum Zeitpunkt der Verwirklichung des
+    Tatbestands im Sinne des Satzes 1 beträgt.
 
 
 
+Satz 2 Nummer 2 und 3 gilt nur für Gewinnausschüttungen oder eine
+Einlagenrückgewähr, die nach dem 16. August 2023 erfolgen.
 
 (4) Die §§ 7 bis 10, 12, 13, 16 bis 18 und 20 in der am 1. Juli 2021
 geltenden Fassung und § 15 in der am 21. Dezember 2022 geltenden
@@ -1641,8 +1651,9 @@ der folgenden Fassung anzuwenden:
 
 (6) § 8 Absatz 5 in der am 28. Dezember 2023 geltenden Fassung ist
 erstmals anzuwenden für die Einkommen- und Körperschaftsteuer für den
-Veranlagungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind,
-die in einem Wirtschaftsjahr der Zwischengesellschaft oder der
+Veranlagungszeitraum und für die Gewerbesteuer für den
+Erhebungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind, die
+in einem Wirtschaftsjahr der Zwischengesellschaft oder der
 Betriebsstätte entstanden sind, das nach dem 31. Dezember 2023 endet.
 
 (7) § 6 Absatz 5 in der am 28. Dezember 2023 geltenden Fassung ist
@@ -1652,6 +1663,30 @@ für die Einkommen- und Körperschaftsteuer für den
 Veranlagungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind,
 die in einem Wirtschaftsjahr der Zwischengesellschaft oder der
 Betriebsstätte entstanden sind, das nach dem 31. Dezember 2024 endet.
+
+(8) § 13 Absatz 1 und 3 in der am 24. Dezember 2025 geltenden Fassung
+ist erstmals anzuwenden für die Einkommen- und Körperschaftsteuer für
+den Veranlagungszeitraum und für die Gewerbesteuer für den
+Erhebungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind, die
+in einem Wirtschaftsjahr der Zwischengesellschaft oder der
+Betriebsstätte entstanden sind, das nach dem 31. Dezember 2021
+beginnt.
+
+(9) Die §§ 9 und 13 Absatz 1 Satz 3 in der am 24. Dezember 2025
+geltenden Fassung sind erstmals anzuwenden für die Einkommen- und
+Körperschaftsteuer für den Veranlagungszeitraum und für die
+Gewerbesteuer für den Erhebungszeitraum, für den Zwischeneinkünfte
+beziehungsweise Einkünfte mit Kapitalanlagecharakter hinzuzurechnen
+sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der
+Betriebsstätte entstanden sind, das nach dem 31. Dezember 2025
+beginnt. § 18 Absatz 1 Satz 4 in der am 24. Dezember 2025 geltenden
+Fassung ist für Verwaltungsakte, die nach dem 23. Dezember 2025
+erlassen werden, anzuwenden. § 18 Absatz 2 in der am 24. Dezember 2025
+geltenden Fassung ist für Verwaltungsakte anzuwenden, die nach dem 23.
+Dezember 2025 erlassen werden und die Hinzurechnung von
+Zwischeneinkünften betreffen, die in einem Wirtschaftsjahr der
+Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach
+dem 31. Dezember 2021 beginnt.
 
 
 ### § 22 Neufassung des Gesetzes
