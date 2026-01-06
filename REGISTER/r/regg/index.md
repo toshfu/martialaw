@@ -662,14 +662,13 @@ verfügbaren Mittel zugerechnet werden.
 
 (1) Die Länder führen ab dem 1. Mai 2023 ein Ticket ein, das zur
 bundesweiten Nutzung des öffentlichen Personennahverkehrs berechtigt
-(Deutschlandticket). Es soll in digitaler Form erhältlich sein und für
-ein Entgelt zum Zeitpunkt der Einführung von 49 Euro je Monat in einem
-monatlich kündbaren Abonnement angeboten werden. Der maßgebliche
+(Deutschlandticket). Es soll in digitaler Form erhältlich sein und in
+einem monatlich kündbaren Abonnement angeboten werden. Der maßgebliche
 Ausgleich finanzieller Nachteile entsprechend den Regelungen der
 Verordnung (EG) Nr. 1370/2007 wird von den Ländern bzw. den
 zuständigen Behörden abgewickelt.
 
-(2) Den Ländern steht für die Kalenderjahre 2023 bis 2025 für den
+(2) Den Ländern steht für die Kalenderjahre 2023 bis 2030 für den
 Ausgleich der durch die Einführung und Umsetzung der in Absatz 1 Satz
 1 genannten Maßnahme entstandenen finanziellen Nachteile ein Betrag
 von 1 500 000 000,00 Euro für jedes Kalenderjahr aus dem
@@ -678,10 +677,13 @@ sich der Bund an der Finanzierung der durch das Deutschlandticket
 entstandenen finanziellen Nachteile. Die Länder beteiligen sich
 mindestens in gleicher Höhe. Für den Zeitraum vom 1. Mai 2023 bis 31.
 Dezember 2025 werden die tatsächlich entstandenen finanziellen
-Nachteile nach den Regelungen des Absatzes 7 ausgeglichen.
+Nachteile nach den Regelungen des Absatzes 7 ausgeglichen. Für den
+Zeitraum vom 1. Januar 2026 bis 31. Dezember 2030 werden die
+tatsächlich entstandenen finanziellen Nachteile nach den Regelungen
+des Absatzes 7a ausgeglichen.
 
-(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird wie folgt auf die
-Länder verteilt:
+(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird in den Jahren 2023
+bis 2025 wie folgt auf die Länder verteilt:
 
 *    *   Baden-Württemberg
 
@@ -765,27 +767,112 @@ Länder verteilt:
 
 
 
-(4) Der Betrag für das Jahr 2023 ist zum 15. Mai 2023 zu überweisen.
-Von den für die Jahre 2024 und 2025 jeweils zur Verfügung zu
+(3a) Der Betrag nach Absatz 2 Satz 1 wird in den Jahren 2026 bis 2030
+wie folgt auf die Länder verteilt:
+
+*    *   Baden-Württemberg
+
+    *   203 200 000 Euro
+
+
+*    *   Bayern
+
+    *   299 830 000 Euro
+
+
+*    *   Berlin
+
+    *   152 790 000 Euro
+
+
+*    *   Brandenburg
+
+    *   12 010 000 Euro
+
+
+*    *   Bremen
+
+    *   7 500 000 Euro
+
+
+*    *   Hamburg
+
+    *   99 030 000 Euro
+
+
+*    *   Hessen
+
+    *   96 940 000 Euro
+
+
+*    *   Mecklenburg-Vorpommern
+
+    *   14 770 000 Euro
+
+
+*    *   Niedersachsen
+
+    *   80 840 000 Euro
+
+
+*    *   Nordrhein-Westfalen
+
+    *   358 460 000 Euro
+
+
+*    *   Rheinland-Pfalz
+
+    *   45 650 000 Euro
+
+
+*    *   Saarland
+
+    *   7 500 000 Euro
+
+
+*    *   Sachsen
+
+    *   40 770 000 Euro
+
+
+*    *   Sachsen-Anhalt
+
+    *   17 130 000 Euro
+
+
+*    *   Schleswig-Holstein
+
+    *   42 930 000 Euro
+
+
+*    *   Thüringen
+
+    *   20 650 000 Euro.
+
+
+
+
+(4) Von den für die Jahre 2024 bis 2030 jeweils zur Verfügung zu
 stellenden Beträgen ist je ein Zwölftel zum 15. Tag eines jeden Monats
 zu überweisen.
 
-(5) Die Länder haben einvernehmlich die in Absatz 3 festgelegte
-Verteilung in einer Endabrechnung an die tatsächlich entstandenen
-finanziellen Nachteile im öffentlichen Personennahverkehr in eigener
-Verantwortung anzupassen. Der Bund wird über eine solche
-Beschlussfassung und die anschließende Umsetzung jeweils zeitnah
-unterrichtet.
+(5) Die Länder haben einvernehmlich die in den Absätzen 3 und 3a
+jeweils festgelegte Verteilung in einer Endabrechnung an die
+tatsächlich entstandenen finanziellen Nachteile im öffentlichen
+Personennahverkehr in eigener Verantwortung anzupassen. Der Bund wird
+über eine solche Beschlussfassung und die anschließende Umsetzung
+jeweils zeitnah unterrichtet.
 
 (6) Die Länder sind für die zweckentsprechende Verwendung der Beträge
-nach Absatz 3 verantwortlich und weisen dem Bund jährlich, beginnend
-mit dem Jahr 2023, die Verwendung der Mittel nach Maßgabe der Anlage 8
-bis zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind
-die dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile,
+nach den Absätzen 3 und 3a verantwortlich und weisen dem Bund
+jährlich, beginnend mit dem Jahr 2023, die Verwendung der Mittel nach
+Maßgabe der Anlage 8, ab dem Jahr 2026 nach Maßgabe der Anlage 9, bis
+zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind die
+dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile,
 unabhängig davon, in welchem Jahr diese haushaltswirksam geworden
 sind. Bei der Erstellung des Verwendungsnachweises sind Veränderungen
 der Werte der Vorjahre kenntlich zu machen und zu erläutern. Eine
-Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5
+Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5
 sowie Verrechnungen, die dies bewirken, sind nicht gestattet. Nicht
 oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu
 erstatten.
@@ -800,6 +887,10 @@ Ländern beauftragt der Bund eine Wirtschaftsprüferin, einen
 Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft mit der
 für die Prüfung erforderlichen Untersuchung der finanziellen Nachteile
 durch das Deutschlandticket.
+
+(7a) Die Mittel nach Absatz 3a stehen für den Ausgleich der
+finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3 im
+Zeitraum vom 1. Januar 2026 bis 31. Dezember 2030 zur Verfügung.
 
 (8) Die Bundesregierung hat jährlich aus den Nachweisen der Länder
 einen Gesamtbericht zu erstellen, der dem Deutschen Bundestag
@@ -4064,4 +4155,110 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    Zu den einzelnen Punkten werden geeignete inhaltliche Erläuterungen
 sowie Hinweise zur Validität (z. B. endgültige Testierung) beigefügt.
 Die Vorjahreswerte sind zu aktualisieren.
+
+(zu § 9 Absatz 6)
+
+## Anlage 9 Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 9 Absatz 3a
+
+(Fundstelle: BGBl. 2025 I Nr. 287, S. 3)
+
+
+*    *   **Nachweis über die Verwendung der zusätzlichen
+        Regionalisierungsmittel**
+
+
+*    *   für das Bundesland:
+
+    *   im Jahr
+        zum Stichtag 30. Juni
+
+
+*    *
+    *
+    *   Bereich
+
+    *   Landes-
+        haushalt
+        (Kapitel/Titel)
+
+    *   Verwendungszweck
+
+    *   Betrag
+        (in EUR)
+
+
+*    *   1
+
+    *   1.1
+
+    *   Verfügbare Mittel
+
+    *
+    *   Zuweisung nach § 9 Abs. 3a RegG
+
+    *
+
+*    *   1.2
+
+    *
+    *   Minderung/Aufstockung aufgrund Länderausgleich
+
+    *
+
+*    *   1.3
+
+    *
+    *   Landesmittel
+
+    *
+
+*    *   1.4
+
+    *
+    *   verfügbare Mittel gesamt (Summe 1.1 bis 1.3)
+
+    *
+
+*    *   2
+
+    *   2.1
+
+    *   Ausgleich von finanziellen Nachteilen im öffentlichen
+        Personennahverkehr
+
+    *
+    *   geleistete Zahlungen gemäß Landesrichtlinie
+
+    *
+
+*    *   2.2
+
+    *
+    *   geleistete Zahlungen für zusätzliche Ausgaben
+
+    *
+
+*    *   2.3
+
+    *
+    *   Summe (2.1 und 2.2)
+
+    *
+
+*    *   3
+
+    *
+    *   Differenz verfügbare Mittel/Ausgaben
+
+    *
+    *   (Differenz aus 1.4 und 2.3)
+
+    *
+
+
+
+   Dem Verwendungsnachweis sind geeignete inhaltliche Erläuterungen,
+Hinweise zur Validität (z. B. endgültige Testierung) sowie Aussagen
+zur Höhe des Mittelabflusses im Berichtsjahr beizufügen. Die
+Verwendungsnachweise der Vorjahre sind zu aktualisieren.
 
