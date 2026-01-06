@@ -62,49 +62,33 @@ Frankfurt am Main.
 ### Teil 2 - Institutioneller Rahmen
 
 
-#### § 3a Bundesanstalt für Finanzmarktstabilisierung; Trägerschaft der Finanzagentur; Organisation und Aufgaben; Verordnungsermächtigung
+#### § 3a Organisation und Aufgaben der Finanzagentur
 
-(1) Die mit diesem Gesetz in der Fassung vom 17. Oktober 2008
-errichtete Finanzmarktstabilisierungsanstalt wird mit Wirkung zum 23.
-Juli 2009 eine bundesunmittelbare, rechtsfähige Anstalt des
-öffentlichen Rechts im Geschäftsbereich des Bundesministeriums der
-Finanzen. Sie trägt die Bezeichnung „Bundesanstalt für
-Finanzmarktstabilisierung – FMSA“ (Anstalt). Die Anstalt hat ihren
-Sitz in Frankfurt am Main. Sie untersteht der Rechts- und Fachaufsicht
-des Bundesministeriums der Finanzen. Das Bundesministerium der
-Finanzen ist insbesondere befugt, alle Anordnungen zu treffen, um den
-Geschäftsbetrieb der Anstalt mit den Gesetzen, der Satzung und den
-sonstigen Bestimmungen im Einklang zu halten und die zweckmäßige
-Wahrnehmung der Aufgaben der Anstalt sicherzustellen und zu
-überprüfen. Die Bundesrepublik Deutschland – Finanzagentur GmbH
-(Finanzagentur) wird mit der Trägerschaft an der Anstalt beliehen und
-führt nach Maßgabe dieses Gesetzes Aufgaben und Befugnisse der Anstalt
-fort.
+(1) (weggefallen)
 
-(2) Die Anstalt nimmt die ihr nach § 8a übertragenen Aufgaben wahr und
-ist für die Erfüllung dieser Aufgaben verantwortlich. Die
-Finanzagentur unterstützt die Anstalt bei der Erfüllung dieser
-Aufgaben.
+(2) Die Bundesrepublik Deutschland – Finanzagentur GmbH
+(Finanzagentur) nimmt die ihr nach § 8a übertragenen Aufgaben wahr und
+ist für die Erfüllung dieser Aufgaben verantwortlich.
 
-(2a) Alle übrigen Aufgaben im Zusammenhang mit der Verwaltung des
-Fonds nimmt die Finanzagentur, auch im Namen des Fonds, als eigene
-wahr. Die Finanzagentur untersteht hinsichtlich der Wahrnehmung der
-Aufgaben nach diesem Gesetz der Rechts- und Fachaufsicht des
-Bundesministeriums der Finanzen. Das Bundesministerium der Finanzen
-kann Aufgaben und Befugnisse der Finanzagentur nach diesem Gesetz
-vorübergehend selbst wahrnehmen oder auf eine Behörde in seinem
-Geschäftsbereich oder einen Dritten übertragen, wenn auf andere Weise
-die recht- und zweckmäßige Wahrnehmung der Aufgaben nicht
-sichergestellt werden kann.
+(2a) Die Aufgaben im Zusammenhang mit der Verwaltung des Fonds nimmt
+die Finanzagentur, auch im Namen des Fonds, als eigene wahr. Die
+Finanzagentur untersteht hinsichtlich der Wahrnehmung der Aufgaben
+nach diesem Gesetz der Rechts- und Fachaufsicht des Bundesministeriums
+der Finanzen. Das Bundesministerium der Finanzen kann Aufgaben und
+Befugnisse der Finanzagentur nach diesem Gesetz vorübergehend selbst
+wahrnehmen oder auf eine Behörde in seinem Geschäftsbereich oder einen
+Dritten übertragen, wenn auf andere Weise die recht- und zweckmäßige
+Wahrnehmung der Aufgaben nicht sichergestellt werden kann.
 
 (2b) Die Finanzagentur übernimmt alle Rechte und Pflichten, Verträge
-und sonstigen Rechtsverhältnisse der Anstalt, soweit diese die auf die
-Finanzagentur nach diesem Gesetz übergegangenen Aufgaben betreffen,
-und tritt hinsichtlich der übergehenden Rechte und Pflichten in allen
-Verwaltungs- und Gerichtsverfahren, an denen die Anstalt beteiligt
-ist, an deren Stelle. Dies gilt nicht für bestehende und künftige
-Rechte und Pflichten der Anstalt, soweit sie die der Anstalt nach § 8a
-übertragenen Aufgaben betreffen. Absatz 2c bleibt unberührt.
+und sonstigen Rechtsverhältnisse der nach § 3a in der bis
+einschließlich 31. Dezember 2025 geltenden Fassung errichteten
+früheren Bundesanstalt für Finanzmarktstabilisierung – FMSA (Anstalt),
+soweit diese die auf die Finanzagentur nach diesem Gesetz
+übergegangenen Aufgaben betreffen, und tritt hinsichtlich der
+übergehenden Rechte und Pflichten in allen Verwaltungs- und
+Gerichtsverfahren, an denen die Anstalt beteiligt ist, an deren
+Stelle. Absatz 2c bleibt unberührt.
 
 (2c) Die Finanzagentur tritt zum 1. Januar 2018 in die Rechte und
 Pflichten aus den Arbeitsverhältnissen mit übergehenden Beschäftigten
@@ -112,94 +96,56 @@ ein. Als übergehende Beschäftigte im Sinne von Satz 1 gelten die bei
 der Anstalt beschäftigten Arbeitnehmerinnen und Arbeitnehmer, die
 nicht übergehende Beschäftigte im Sinne des § 18a Absatz 3 des
 Finanzdienstleistungsaufsichtsgesetzes sind und nicht zum 31. August
-2017 in der Abteilung Abwicklungsanstalten der Anstalt tätig sind. Die
-vom Übergang betroffenen Beschäftigten werden von der Anstalt bis zum
-31\. Oktober 2017 schriftlich über die rechtlichen, wirtschaftlichen
-und sozialen Folgen des Übergangs unterrichtet. Die Beschäftigten
-können dem Übergang ihrer Arbeitsverhältnisse widersprechen. Der
-Widerspruch kann gegenüber der Anstalt oder der Finanzagentur
-innerhalb eines Monats nach Zugang der Unterrichtung schriftlich
-erklärt werden.
+2017 in der Abteilung Abwicklungsanstalten der Anstalt tätig sind.
 
 (2d) Für die übergehenden Verbindlichkeiten der Anstalt haftet die
 Bundesrepublik Deutschland unbeschränkt.
 
-(3) Die Anstalt wird von einem Leitungsausschuss geleitet, der aus
-einem oder mehreren Mitgliedern bestehen kann. Der Leitungsausschuss
-ist Vorgesetzter der Mitarbeiterinnen und Mitarbeiter der Anstalt. Für
-die Ernennung und die Rechtsstellung der Mitglieder des
-Leitungsausschusses gelten die Bestimmungen des § 3c.
+(3) (weggefallen)
 
-(4) Die Anstalt weist die in ihrem Verwaltungsbereich zu erwartenden
-Einnahmen und zu leistenden Ausgaben in einem Wirtschaftsplan
-einschließlich eines Stellenplans aus. Das Haushaltsjahr ist das
-Kalenderjahr. Auf Zahlungen, die Buchführung und die Rechnungslegung
-sind die für die bundesunmittelbaren juristischen Personen geltenden
-Bestimmungen der Bundeshaushaltsordnung mit der Maßgabe anzuwenden,
-dass die Rechnungslegung aus einer die Einnahmen und Ausgaben
-nachweisenden Haushaltsrechnung besteht; die Aufstellung einer
-Vermögensrechnung ist nicht erforderlich. Näheres über
-Haushaltsführung, Rechnungslegung und Revision wird in der Satzung der
-Anstalt geregelt.
+(4) (weggefallen)
 
 (5) Die Finanzagentur kann sich nach Maßgabe einer gemäß § 4 Absatz 2
 zu erlassenden Rechtsverordnung bei der Erfüllung ihrer Aufgaben nach
-diesem Gesetz geeigneter Dritter bedienen. Für die Anstalt gelten die
-Regelungen aus § 1 Absatz 4 der Finanzmarktstabilisierungsfonds-
-Verordnung in der am 1. Januar 2018 geltenden Fassung entsprechend.
-Die Finanzagentur und die Anstalt können bei der Abwicklung ihrer
-Geschäfte die Deutsche Bundesbank im Rahmen von § 20 des
-Bundesbankgesetzes in Anspruch nehmen.
+diesem Gesetz geeigneter Dritter bedienen. Die Finanzagentur kann bei
+der Abwicklung ihrer Geschäfte die Deutsche Bundesbank im Rahmen von §
+20 des Bundesbankgesetzes in Anspruch nehmen.
 
-(6) Das Bundesministerium der Finanzen wird ermächtigt, durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-Satzung der Anstalt zu erlassen. Die Satzung kann vom
-Bundesministerium der Finanzen durch Rechtsverordnung die nicht der
-Zustimmung des Bundesrates bedarf geändert werden. In der Satzung
-sind, soweit erforderlich, insbesondere Bestimmungen über die
-Organisation der Anstalt, die Rechte und Pflichten der Finanzagentur
-als Trägerin der Anstalt und die Aufgabenverteilung im Verhältnis zur
-Finanzagentur, ihre Vertretung sowie über die Haushaltsführung,
-Wirtschaftsführung und Rechnungslegung des Fonds und der Anstalt
-aufzunehmen.
+(6) (weggefallen)
 
-(6a) Die Finanzagentur und die Anstalt betreiben keine Geschäfte, die
-einer Zulassung nach der Richtlinie 2006/48/EG des Europäischen
-Parlaments und des Rates vom 14. Juni 2006 über die Aufnahme und
-Ausübung der Tätigkeit der Kreditinstitute (ABl. L 177 vom 30.6.2006,
-S. 1) oder der Richtlinie 2004/39/EG des Europäischen Parlaments und
-des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur
-Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der
-Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und
-zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. L 145 vom
-30\.4.2004, S. 1) in der jeweils geltenden Fassung bedürfen. Die
-Finanzagentur und die Anstalt gelten bei ihrer Aufgabenwahrnehmung
-nach diesem Gesetz nicht als Kreditinstitut oder
-Finanzdienstleistungsinstitut im Sinne des Kreditwesengesetzes, als
-Wertpapierinstitut im Sinne des Wertpapierinstitutsgesetzes, als
+(6a) Die Finanzagentur betreibt keine Geschäfte, die einer Zulassung
+nach der Richtlinie 2006/48/EG des Europäischen Parlaments und des
+Rates vom 14. Juni 2006 über die Aufnahme und Ausübung der Tätigkeit
+der Kreditinstitute (ABl. L 177 vom 30.6.2006, S. 1) oder der
+Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom
+21\. April 2004 über Märkte für Finanzinstrumente, zur Änderung der
+Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie
+2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung
+der Richtlinie 93/22/EWG des Rates (ABl. L 145 vom 30.4.2004, S. 1) in
+der jeweils geltenden Fassung bedürfen. Die Finanzagentur gilt bei
+ihrer Aufgabenwahrnehmung nach diesem Gesetz nicht als Kreditinstitut
+oder Finanzdienstleistungsinstitut im Sinne des Kreditwesengesetzes,
+als Wertpapierinstitut im Sinne des Wertpapierinstitutsgesetzes, als
 Wertpapierdienstleistungsunternehmen im Sinne des
 Wertpapierhandelsgesetzes oder als Versicherungsunternehmen im Sinne
 des Versicherungsaufsichtsgesetzes.
 
-(7) Der Haushaltsausschuss und der Finanzausschuss des Deutschen
-Bundestages sind über Erlass und Änderungen der Rechtsverordnungen
-nach Absatz 6 unverzüglich zu unterrichten.
+(7) (weggefallen)
 
 
 #### § 3b Verschwiegenheitspflicht; Zusammenarbeit mit der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank
 
-(1) Die Mitglieder des Leitungsausschusses der Anstalt, der
-Geschäftsführung der Finanzagentur und die Mitarbeiterinnen und
-Mitarbeiter der Finanzagentur und der Anstalt sowie die von der
-Anstalt oder der Finanzagentur im Zusammenhang mit Aufgaben nach
-diesem Gesetz beauftragten Dritten dürfen die ihnen bei ihrer
-Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im
-Interesse des Unternehmens des Finanzsektors oder eines Dritten liegt,
-insbesondere Betriebs- und Geschäftsgeheimnisse, nicht unbefugt
-offenbaren oder verwerten, auch wenn ihre Tätigkeit bei der
-Finanzagentur oder der Anstalt beendet ist. Dies gilt auch für andere
-Personen, die durch dienstliche Berichterstattung Kenntnis von den in
-Satz 1 bezeichneten Tatsachen erhalten.
+(1) Die Mitglieder der Geschäftsführung der Finanzagentur und die
+Mitarbeiterinnen und Mitarbeiter der Finanzagentur sowie die von der
+Finanzagentur im Zusammenhang mit Aufgaben nach diesem Gesetz
+beauftragten Dritten dürfen die ihnen bei ihrer Tätigkeit bekannt
+gewordenen Tatsachen, deren Geheimhaltung im Interesse des
+Unternehmens des Finanzsektors oder eines Dritten liegt, insbesondere
+Betriebs- und Geschäftsgeheimnisse, nicht unbefugt offenbaren oder
+verwerten, auch wenn ihre Tätigkeit bei der Finanzagentur beendet ist.
+Dies gilt auch für andere Personen, die durch dienstliche
+Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen
+erhalten.
 
 (2) Ein unbefugtes Offenbaren oder Verwerten im Sinne des Absatzes 1
 liegt insbesondere dann nicht vor, wenn Tatsachen weitergegeben werden
@@ -246,160 +192,69 @@ Verschwiegenheitspflicht nach Absatz 1 entsprechend.
 (3) § 10a bleibt unberührt.
 
 (4) Die Finanzagentur im Rahmen ihrer Tätigkeit nach diesem Gesetz,
-die Anstalt, die Deutsche Bundesbank im Rahmen ihrer Tätigkeit nach
-dem Kreditwesengesetz und die Bundesanstalt für
+das Bundesministerium der Finanzen, die Deutsche Bundesbank im Rahmen
+ihrer Tätigkeit nach dem Kreditwesengesetz und die Bundesanstalt für
 Finanzdienstleistungsaufsicht haben sich Beobachtungen, Feststellungen
 und Einschätzungen, einschließlich personenbezogener Daten und
 Betriebs- und Geschäftsgeheimnissen, mitzuteilen, die zur Erfüllung
 ihrer jeweiligen Aufgaben erforderlich sind, im Fall der Finanzagentur
 insbesondere zur Prüfung von Anträgen auf Gewährung von
 Stabilisierungsmaßnahmen sowie zur Überwachung der Unternehmen, denen
-Stabilisierungsmaßnahmen gewährt worden sind, und im Fall der Anstalt
-insbesondere zur Aufsicht über Abwicklungsanstalten nach § 8a. Die in
-§ 9 Absatz 1 Satz 1 des Kreditwesengesetzes, in § 32 Satz 1 des
-Gesetzes über die Deutsche Bundesbank, in § 21 des
-Wertpapierhandelsgesetzes und in § 5 Absatz 1 und 2 des Sanierungs-
-und Abwicklungsgesetzes sowie die in Absatz 1 genannten Personen sind
-insoweit von ihren jeweiligen Verschwiegenheitspflichten befreit. Die
-Finanzagentur und die Anstalt sind berechtigt, Informationen im Sinne
-von Satz 1 auch bei der Europäischen Zentralbank anzufragen. Im
-Übrigen richtet sich der Informationsaustausch mit der Europäischen
-Zentralbank und anderen Behörden der Europäischen Union sowie anderer
-Mitgliedstaaten nach der Richtlinie 2014/59/EU des Europäischen
-Parlaments und des Rates vom 15. Mai 2014 zur Festlegung eines Rahmens
-für die Sanierung und Abwicklung von Kreditinstituten und
-Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG des Rates,
-der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG,
-2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der
-Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 des Europäischen
-Parlaments und des Rates (ABl. L 173 vom 12.6.2014, S. 190), der
-Verordnung (EU) Nr. 806/2014, der Verordnung (EU) Nr. 1024/2013 des
-Rates vom 15. Oktober 2013 zur Übertragung besonderer Aufgaben im
-Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische
-Zentralbank (ABl. L 287 vom 29.10.2013, S. 63), der Verordnung (EU)
-Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur
-Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der
-Europäischen Zentralbank und den nationalen zuständigen Behörden und
-den nationalen benannten Behörden innerhalb des einheitlichen
-Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141
-vom 14.5.2014, S. 1) sowie den sonstigen auf Grundlage der
-vorgenannten Verordnungen und Richtlinien ergangenen Rechtsakte.
+Stabilisierungsmaßnahmen gewährt worden sind, und zur Überwachung der
+Abwicklungsanstalten nach § 8a. Die in § 9 Absatz 1 Satz 1 des
+Kreditwesengesetzes, in § 32 Satz 1 des Gesetzes über die Deutsche
+Bundesbank, in § 21 des Wertpapierhandelsgesetzes und in § 5 Absatz 1
+und 2 des Sanierungs- und Abwicklungsgesetzes sowie die in Absatz 1
+genannten Personen sind insoweit von ihren jeweiligen
+Verschwiegenheitspflichten befreit. Die Finanzagentur ist berechtigt,
+Informationen im Sinne von Satz 1 auch bei der Europäischen
+Zentralbank anzufragen. Im Übrigen richtet sich der
+Informationsaustausch mit der Europäischen Zentralbank und anderen
+Behörden der Europäischen Union sowie anderer Mitgliedstaaten nach der
+Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates vom
+15\. Mai 2014 zur Festlegung eines Rahmens für die Sanierung und
+Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung
+der Richtlinie 82/891/EWG des Rates, der Richtlinien 2001/24/EG,
+2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU
+und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr.
+648/2012 des Europäischen Parlaments und des Rates (ABl. L 173 vom
+12\.6.2014, S. 190), der Verordnung (EU) Nr. 806/2014, der Verordnung
+(EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung
+besonderer Aufgaben im Zusammenhang mit der Aufsicht über
+Kreditinstitute auf die Europäische Zentralbank (ABl. L 287 vom
+29\.10.2013, S. 63), der Verordnung (EU) Nr. 468/2014 der Europäischen
+Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für
+die Zusammenarbeit zwischen der Europäischen Zentralbank und den
+nationalen zuständigen Behörden und den nationalen benannten Behörden
+innerhalb des einheitlichen Aufsichtsmechanismus (SSM-
+Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1) sowie
+den sonstigen auf Grundlage der vorgenannten Verordnungen und
+Richtlinien ergangenen Rechtsakte.
 
 (5) (weggefallen)
 
 
-#### § 3c Rechtsstellung der Mitglieder des Leitungsausschusses
-
-(1) Die Mitglieder des Leitungsausschusses der Anstalt stehen in einem
-öffentlich-rechtlichen Amtsverhältnis zum Bund. Sie müssen besondere
-fachliche Eignung besitzen und werden auf Vorschlag der
-Bundesregierung durch den Bundespräsidenten ernannt. Eine Ernennung
-soll grundsätzlich für drei Jahre, darf jedoch höchstens für fünf
-Jahre erfolgen. Wiederholte Ernennungen sind zulässig.
-
-(2) Das Amtsverhältnis der Mitglieder des Leitungsausschusses beginnt
-mit der Aushändigung der Ernennungsurkunde, wenn nicht in der Urkunde
-ein späterer Tag bestimmt ist. Es endet mit Ablauf der Amtszeit oder
-mit der Entlassung. Der Bundespräsident entlässt ein Mitglied des
-Leitungsausschusses
-
-1.  auf dessen Verlangen oder
-
-
-2.  auf Beschluss der Bundesregierung aus wichtigem Grund.
-
-
-
-Vor der Beschlussfassung der Bundesregierung ist dem Mitglied des
-Leitungsausschusses Gelegenheit zur Stellungnahme zu geben. Im Fall
-der Beendigung des Amtsverhältnisses erhält das Mitglied des
-Leitungsausschusses eine von dem Bundespräsidenten vollzogene Urkunde.
-Die Entlassung auf Verlangen wird mit der Aushändigung der Urkunde
-wirksam, wenn in der Urkunde nicht ausdrücklich ein späterer Tag
-bestimmt ist. Die Entlassung aus wichtigem Grund wird mit dem Vollzug
-des Beschlusses der Bundesregierung wirksam, wenn sie nicht
-ausdrücklich für einen späteren Tag beschlossen wird.
-
-(3) Die Mitglieder des Leitungsausschusses leisten vor dem
-Bundesminister der Finanzen folgenden Eid: „Ich schwöre, das
-Grundgesetz für die Bundesrepublik Deutschland und alle in der
-Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine
-Amtspflichten gewissenhaft zu erfüllen, so wahr mir Gott helfe. “ Der
-Eid kann auch ohne religiöse Beteuerung geleistet werden.
-
-(4) Die Mitglieder des Leitungsausschusses dürfen ohne Zustimmung des
-Bundesministeriums der Finanzen neben ihrem Amt kein anderes
-besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der
-Leitung eines auf Erwerb gerichteten Unternehmens noch einem
-Aufsichtsrat, Verwaltungsrat, Beirat oder einem anderen Gremium eines
-öffentlichen oder privaten Unternehmens, noch einer Regierung oder
-einer gesetzgebenden Körperschaft des Bundes oder eines Landes
-angehören. Sie dürfen ohne Zustimmung des Bundesministeriums der
-Finanzen nicht gegen Entgelt außergerichtliche Gutachten erstatten. §
-99 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
-
-(5) Die §§ 67 bis 69 und 71 des Bundesbeamtengesetzes gelten
-entsprechend. An die Stelle der obersten Dienstbehörde tritt das
-Bundesministerium der Finanzen.
-
-(6) Im Übrigen werden die Rechtsverhältnisse der Mitglieder des
-Leitungsausschusses durch Verträge geregelt, die das Bundesministerium
-der Finanzen mit den Mitgliedern des Leitungsausschusses schließt. Die
-Verträge bedürfen der Zustimmung der Bundesregierung.
-
-(7) Wird ein Bundesbeamter zum Mitglied des Leitungsausschusses
-ernannt, scheidet er mit Beginn des Amtsverhältnisses aus dem
-bisherigen Amt aus. Für die Dauer des Amtsverhältnisses ruhen die
-Rechte und Pflichten aus dem Beamtenverhältnis. Dies gilt nicht für
-die Pflicht zur Amtsverschwiegenheit und das Verbot der Annahme von
-Belohnungen oder Geschenken. Satz 2 gilt längstens bis zum Eintritt
-oder bis zur Versetzung in den Ruhestand.
-
-(8) Endet das Amtsverhältnis nach Absatz 1 Satz 1 und wird der
-Betroffene nicht anschließend in ein anderes öffentlich-rechtliches
-Amtsverhältnis zum Bund berufen, treten Beamtinnen und Beamte, wenn
-ihnen nicht innerhalb von drei Monaten unter den Voraussetzungen des §
-28 Absatz 2 des Bundesbeamtengesetzes oder vergleichbarer
-landesgesetzlicher Regelungen ein anderes Amt übertragen wird, mit
-Ablauf dieser Frist aus ihrem Dienstverhältnis als Beamte in den
-einstweiligen Ruhestand, sofern sie zu diesem Zeitpunkt noch nicht die
-gesetzliche Altersgrenze erreicht haben. Im Übrigen gelten die
-Vorschriften des Bundesbeamtengesetzes zum einstweiligen Ruhestand.
-Sie erhalten ein Ruhegehalt, das sie in ihrem früheren Amt unter
-Hinzurechnung der Zeit des Amtsverhältnisses nach Absatz 1 Satz 1
-erdient hätten. Die Zeit des Amtsverhältnisses nach Absatz 1 Satz 1
-ist auch ruhegehaltfähig, wenn dem Beamten nach Satz 1 ein anderes Amt
-in einem Beamtenverhältnis übertragen wird. Für die beamteten
-Mitglieder des Leitungsausschusses gilt § 107b des
-Beamtenversorgungsgesetzes entsprechend. Eine vertragliche
-Versorgungsregelung nach Absatz 6 bleibt unberührt. Die Ruhens- und
-Anrechnungsvorschriften des Beamtenversorgungsgesetzes sind sinngemäß
-anzuwenden.
-
-(9) Die Absätze 7 und 8 gelten für Richter und für Berufssoldaten
-entsprechend.
+#### § 3c (weggefallen)
 
 
 #### § 3d Deckung der Kosten
 
-Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der
-Aufgaben nach diesem Gesetz entstehen, werden durch den Bund getragen.
-Zu den Kosten der Finanzagentur und der Anstalt nach Satz 1 gehören
-die Personal- und Sachkosten sowie die Kosten Dritter, derer sich die
-Finanzagentur oder die Anstalt bei der Erfüllung ihrer Aufgaben nach
-diesem Gesetz bedient.
+Die Kosten, die der Finanzagentur in Ausübung der Aufgaben nach diesem
+Gesetz entstehen, werden durch den Bund getragen. Zu den Kosten der
+Finanzagentur nach Satz 1 gehören die Personal- und Sachkosten sowie
+die Kosten Dritter, derer sich die Finanzagentur bei der Erfüllung
+ihrer Aufgaben nach diesem Gesetz bedient.
 
 
 #### § 3e Kostenerstattungen
 
-(1) Für die Kosten, die der Finanzagentur oder der Anstalt in Ausübung
-der Aufgaben nach diesem Gesetz oder für Maßnahmen in Ausübung ihrer
-gesetzlichen Ermächtigung nach § 19 Absatz 2 bis 4 des
-Wirtschaftsstabilisierungsbeschleunigungsgesetzes entstehen, können
-die Finanzagentur und die Anstalt von den jeweiligen Adressaten eine
-Erstattung an den Bund, auch in Form von Kostenpauschalen, nach
-Maßgabe der Rechtsverordnung nach § 3f verlangen. Dies gilt
-insbesondere gegenüber
+(1) Für die Kosten, die der Finanzagentur in Ausübung der Aufgaben
+nach diesem Gesetz oder für Maßnahmen in Ausübung ihrer gesetzlichen
+Ermächtigung nach § 19 Absatz 2 bis 4 des
+Wirtschaftsstabilisierungsbeschleunigungsgesetzes entstehen, kann die
+Finanzagentur von den jeweiligen Adressaten eine Erstattung an den
+Bund, auch in Form von Kostenpauschalen, nach Maßgabe der
+Rechtsverordnung nach § 3f verlangen. Dies gilt insbesondere gegenüber
 
 1.  Unternehmen des Finanzsektors, welche Stabilisierungsmaßnahmen nach
     den §§ 6 bis 8a beantragen oder beantragt haben, auch in Bezug auf
@@ -416,8 +271,8 @@ insbesondere gegenüber
 
 
 
-(2) Die Finanzagentur und die Anstalt können die Erstattung von Kosten
-an den Bund ebenfalls von demjenigen verlangen, der die Pflicht zur
+(2) Die Finanzagentur kann die Erstattung von Kosten an den Bund
+ebenfalls von demjenigen verlangen, der die Pflicht zur
 Kostenerstattung durch Verpflichtungserklärung oder Vertrag übernommen
 hat. Verpflichtungserklärungen oder Verträge, die vor dem 1. Januar
 2018 bestanden, werden mit Wirkung zum 1. Januar 2018 dahingehend
@@ -432,12 +287,11 @@ Kostenerstattung abweichend von Satz 1 nach Maßgabe dieser
 Verpflichtungserklärung oder dieses Vertrages zu verlangen.
 
 (4) Soweit dies im Zusammenhang mit Kostenerstattungen, die die
-Finanzagentur und die Anstalt nach Absatz 1 verlangen können,
-erforderlich ist, kann die Finanzagentur Anordnungen zur Annahme oder
-Leistung von Zahlungen nach § 70 der Bundeshaushaltsordnung erteilen,
-die von der Bundeskasse ausgeführt werden. Die Bestimmungen der
-Bundeshaushaltsordnung und die dazu erlassenen Ausführungsbestimmungen
-sind entsprechend anzuwenden.
+Finanzagentur nach Absatz 1 verlangen kann, erforderlich ist, kann die
+Finanzagentur Anordnungen zur Annahme oder Leistung von Zahlungen nach
+§ 70 der Bundeshaushaltsordnung erteilen, die von der Bundeskasse
+ausgeführt werden. Die Bestimmungen der Bundeshaushaltsordnung und die
+dazu erlassenen Ausführungsbestimmungen sind entsprechend anzuwenden.
 
 
 #### § 3f Verordnungsermächtigung
@@ -479,16 +333,16 @@ Fonds. Soweit es sich um Grundsatzfragen, Angelegenheiten von
 besonderer Bedeutung sowie um Entscheidungen über wesentliche Auflagen
 nach Maßgabe einer zu § 10 dieses Gesetzes erlassenen Rechtsverordnung
 handelt, entscheidet ein interministerieller Ausschuss
-(Lenkungsausschuss) in Bezug auf Maßnahmen nach § 8a auf Vorschlag der
-Anstalt oder in allen übrigen Angelegenheiten auf Vorschlag der
-Finanzagentur. Ein Rechtsanspruch auf Leistungen des Fonds besteht
-nicht. Die Verwaltung des Fonds obliegt dem Bundesministerium der
-Finanzen. Die Leistungen sollen von Bedingungen und Auflagen abhängig
-gemacht werden; dabei sind Beschlüsse des Europäischen Rates und des
-Rates, Empfehlungen der Europäischen Bankenaufsichtsbehörde und
-Vorgaben der Europäischen Kommission, insbesondere zur Vereinbarkeit
-mit den Artikeln 107 und 108 des Vertrages über die Arbeitsweise der
-Europäischen Union, zu berücksichtigen.
+(Lenkungsausschuss) in Bezug auf Maßnahmen nach § 8a und in allen
+übrigen Angelegenheiten auf Vorschlag der Finanzagentur. Ein
+Rechtsanspruch auf Leistungen des Fonds besteht nicht. Die Verwaltung
+des Fonds obliegt dem Bundesministerium der Finanzen. Die Leistungen
+sollen von Bedingungen und Auflagen abhängig gemacht werden; dabei
+sind Beschlüsse des Europäischen Rates und des Rates, Empfehlungen der
+Europäischen Bankenaufsichtsbehörde und Vorgaben der Europäischen
+Kommission, insbesondere zur Vereinbarkeit mit den Artikeln 107 und
+108 des Vertrages über die Arbeitsweise der Europäischen Union, zu
+berücksichtigen.
 
 (1a) Vor Entscheidungen des Lenkungsausschusses über beantragte
 Stabilisierungsmaßnahmen ist die Bundesanstalt für
@@ -692,10 +546,11 @@ realisieren könnten, zu mindern. Die Höhe des Abschlags bestimmt der
 Fonds im Einzelfall. Der sich danach ergebende Wert ist der
 Fundamentalwert.
 
-(4) Über eine Garantieübernahme nach Absatz 1 entscheidet die Anstalt
-auf Antrag des übertragenden Unternehmens. § 4 Absatz 1 ist
-entsprechend anzuwenden. Der Antrag muss auch die
-Gründungsdokumentation der Zweckgesellschaft enthalten.
+(4) Über eine Garantieübernahme nach Absatz 1 entscheidet das
+Bundesministerium der Finanzen nach Anhörung der Finanzagentur auf
+Antrag des übertragenden Unternehmens. § 4 Absatz 1 ist entsprechend
+anzuwenden. Der Antrag muss auch die Gründungsdokumentation der
+Zweckgesellschaft enthalten.
 
 (5) Die näheren Bedingungen für eine Garantie nach Absatz 1 legt der
 Fonds im Einzelfall nach folgenden Maßgaben fest:
@@ -960,7 +815,8 @@ Absatz 2 unverzüglich zu unterrichten.
 
 #### § 8a Bundesrechtliche Abwicklungsanstalten
 
-(1) Die Anstalt kann auf Antrag der übertragenden Gesellschaft
+(1) Das Bundesministerium der Finanzen kann nach Anhörung der
+Finanzagentur auf Antrag der übertragenden Gesellschaft
 teilrechtsfähige Anstalten des öffentlichen Rechts errichten, auf die
 bis zum 31. Mai 2014 erworbene Risikopositionen sowie auf die
 nichtstrategienotwendige Geschäftsbereiche der übertragenden
@@ -981,18 +837,17 @@ Sie können unter ihrem eigenen Namen im rechtsgeschäftlichen Verkehr
 handeln, klagen und verklagt werden, verfügen über einen eigenen
 Rechnungs- und Buchungskreis und sind vom Registergericht unverzüglich
 ins Handelsregister einzutragen. Die Kosten der Abwicklungsanstalten
-werden aus ihrem Vermögen gedeckt. Die der Anstalt oder der
-Finanzagentur entstehenden Verwaltungskosten aus Koordinations- und
-Überwachungstätigkeiten für die Abwicklungsanstalten tragen die
-Abwicklungsanstalten selbst; § 3e bleibt unberührt. Das Vermögen einer
-Abwicklungsanstalt ist vom Vermögen anderer Abwicklungsanstalten und
-von dem übrigen Vermögen der Anstalt, ihren Rechten und
-Verbindlichkeiten getrennt zu halten. Die Anstalt, die Finanzagentur,
-der Fonds oder der Bund haften unbeschadet der Regelung nach Absatz 4
-Nummer 1 Satz 6 und Nummer 1b nicht für die Verbindlichkeiten der
-Abwicklungsanstalten; eine Abwicklungsanstalt haftet nicht für die
-Verbindlichkeiten anderer Abwicklungsanstalten. Sofern Aufgaben der
-Anstalt, der Finanzagentur nach diesem Gesetz oder der
+werden aus ihrem Vermögen gedeckt. Die der Finanzagentur entstehenden
+Verwaltungskosten aus Koordinations- und Überwachungstätigkeiten für
+die Abwicklungsanstalten tragen die Abwicklungsanstalten selbst; § 3e
+bleibt unberührt. Das Vermögen einer Abwicklungsanstalt ist vom
+Vermögen anderer Abwicklungsanstalten und von dem übrigen Vermögen des
+Bundes und des Fonds, ihren Rechten und Verbindlichkeiten getrennt zu
+halten. Die Finanzagentur, der Fonds oder der Bund haften unbeschadet
+der Regelung nach Absatz 4 Nummer 1 Satz 6 und Nummer 1b nicht für die
+Verbindlichkeiten der Abwicklungsanstalten; eine Abwicklungsanstalt
+haftet nicht für die Verbindlichkeiten anderer Abwicklungsanstalten.
+Sofern Aufgaben der Finanzagentur nach diesem Gesetz oder der
 Abwicklungsanstalten von anderen juristischen oder natürlichen
 Personen wahrgenommen werden, ist vertraglich sicherzustellen, dass
 der Bundesrechnungshof auch Erhebungsrechte bei diesen Personen hat.
@@ -1008,67 +863,46 @@ ist nicht anzuwenden. Näheres über Haushaltsführung und
 Rechnungslegung wird in der jeweiligen Satzung der
 Abwicklungsanstalten geregelt.
 
-(2) Die Anstalt überwacht die Abwicklungsanstalten. Die Überwachung
-stellt insbesondere sicher, dass die Abwicklungsanstalten die Vorgaben
-aus Gesetz und Statut einhalten. Darüber hinaus kann die Anstalt in
+(2) Das Bundesministerium der Finanzen übt die Rechtsaufsicht über die
+Abwicklungsanstalten aus und stellt insbesondere sicher, dass die
+Abwicklungsanstalten die Vorgaben dieses Gesetzes und die Statuten der
+Abwicklungsanstalten einhalten. Alle übrigen Aufgaben im Rahmen der
+Überwachung der Abwicklungsanstalten nach diesem Gesetz werden von der
+Finanzagentur wahrgenommen. Darüber hinaus kann die Finanzagentur in
 Abstimmung mit den Abwicklungsanstalten Koordinationsaufgaben für die
 Abwicklungsanstalten übernehmen, insbesondere zu Grundsätzen der
 Risikobewertung, zur Refinanzierung und zur marktschonenden
-Veräußerung übernommener Vermögenswerte; als Trägerin unterstützt die
-Finanzagentur die Anstalt bei der Wahrnehmung der Aufgaben nach den
-Sätzen 1 bis 3; im Übrigen obliegt die Verwaltung der jeweiligen
-Aktiva der Abwicklungsanstalt. Der Sitz sowie das Nähere über die
-Aufgaben, Organisation, Vertretung, Erstattung von Kosten,
-Rechnungslegung und Auflösung der Abwicklungsanstalten, einschließlich
-ihre Überwachung durch die Anstalt wird durch gesonderte Statute
-geregelt, die von der Anstalt im Benehmen mit der Abwicklungsanstalt
-beschlossen werden; § 4 Absatz 1 Satz 1 bis 3 gilt entsprechend. In
-den Statuten können auch Bestimmungen getroffen werden über
-
-1.  die Ausstattung der Abwicklungsanstalten mit Eigenmitteln,
-
-
-2.  die Aufbringung der Eigenmittel durch die unmittelbaren oder
-    mittelbaren Anteilsinhaber des übertragenden Rechtsträgers oder durch
-    Dritte sowie über die Übertragung von Anteilen oder eine sonstige
-    Beteiligung an der Abwicklungsanstalt und die mit einer Beteiligung
-    verbundenen Rechte und Pflichten,
-
-
-3.  die Aufgaben, Befugnisse und Verpflichtungen der an den Eigenmitteln
-    Beteiligten sowie
-
-
-4.  Besetzungs- oder Zustimmungsrechte für die Errichtung von
-    Leitungsgremien und die Bestellung von Leitungspersonen der
-    Abwicklungsanstalten; ein Vorschlagsrecht der an der
-    Abwicklungsanstalt Beteiligten kann vorgesehen werden; Absatz 2a
-    bleibt unberührt.
-
-
-
-Die Statuten sind im Bundesanzeiger zu veröffentlichen. Sonstige
-Veröffentlichungen erfolgen ebenfalls im Bundesanzeiger.
+Veräußerung übernommener Vermögenswerte; im Übrigen obliegt die
+Verwaltung der jeweiligen Aktiva der Abwicklungsanstalt. Der Sitz
+sowie das Nähere über die Aufgaben, die Organisation, die Vertretung,
+die Erstattung von Kosten, die Rechnungslegung und die Auflösung von
+Abwicklungsanstalten, einschließlich ihrer Überwachung wird durch
+gesonderte Statuten geregelt, die vom Bundesministerium der Finanzen
+im Benehmen mit der jeweiligen Abwicklungsanstalt und nach Anhörung
+der Finanzagentur beschlossen werden; § 4 Absatz 1 Satz 1 bis 3 gilt
+entsprechend.
 
 (2a) Die Errichtung von Leitungsgremien und die Bestellung von
-Leitungspersonen bedürfen der Zustimmung der Anstalt. Leiter von
+Leitungspersonen bedürfen der Zustimmung der Finanzagentur. Leiter von
 Abwicklungsanstalten werden für höchstens fünf Jahre bestellt. Eine
 wiederholte Bestellung oder Verlängerung der Amtszeit, jeweils für
 höchstens fünf Jahre, ist zulässig. Sie bedarf der Zustimmung der
-Anstalt und kann frühestens ein Jahr vor Ablauf der bisherigen
+Finanzagentur und kann frühestens ein Jahr vor Ablauf der bisherigen
 Amtszeit erfolgen.
 
 (3) Über die Errichtung einer Abwicklungsanstalt zur Übernahme von
 Risikopositionen oder nichtstrategienotwendigen Geschäftsbereichen
-entscheidet die Anstalt auf Antrag der übertragenden Gesellschaft, im
-Falle einer Zweckgesellschaft auf den gemeinsamen Antrag der
+entscheidet das Bundesministerium der Finanzen nach Anhörung der
+Finanzagentur auf Antrag der übertragenden Gesellschaft, im Falle
+einer Zweckgesellschaft auf den gemeinsamen Antrag der
 Zweckgesellschaft und des Kreditinstituts, dessen Risikopositionen die
 Zweckgesellschaft übernommen hat; § 4 Absatz 1 Satz 1 bis 3 gilt
 entsprechend.
 
 (4) Die näheren Bedingungen für die Errichtung von
 Abwicklungsanstalten zur Übernahme von Risikopositionen oder
-nichtstrategienotwendigen Geschäftsbereichen legt die Anstalt nach
+nichtstrategienotwendigen Geschäftsbereichen legt das
+Bundesministerium der Finanzen nach Anhörung der Finanzagentur nach
 folgenden Maßgaben fest:
 
 1.  Es ist sicherzustellen, dass eine Pflicht zum Ausgleich von Verlusten
@@ -1109,15 +943,16 @@ folgenden Maßgaben fest:
     an ihn auszuschüttenden Betrag nach Nummer 2 (Stufe 1), sodann, sofern
     der Betrag nicht ausreicht, unmittelbar durch den Verbund ausgeglichen
     werden (Stufe 2). Der kumulierte Gesamtumfang der von dem Verbund zu
-    tragenden Verluste ist auf den von der Anstalt festzusetzenden Betrag
-    begrenzt, den der Verbund am 30. Juni 2008 auf Grund der
-    Gewährträgerhaftung zu tragen hatte. Sofern Leistungen des Verbundes
-    aus den Stufen 1 und 2 nicht ausreichen, um die von ihm entsprechend
-    der Beteiligungsquote zu tragenden Verluste zu decken, wird der
-    Differenzbetrag jeweils durch den Fonds vorfinanziert und in den
-    Folgejahren durch den auf den Verbund auszuschüttenden Betrag nach
-    Nummer 2 refinanziert. Hieraus resultierende finanzielle Lasten tragen
-    der Bund und das betreffende Land im Verhältnis von
+    tragenden Verluste ist auf den von dem Bundesministerium der Finanzen
+    nach Anhörung der Finanzagentur festzusetzenden Betrag begrenzt, den
+    der Verbund am 30. Juni 2008 auf Grund der Gewährträgerhaftung zu
+    tragen hatte. Sofern Leistungen des Verbundes aus den Stufen 1 und 2
+    nicht ausreichen, um die von ihm entsprechend der Beteiligungsquote zu
+    tragenden Verluste zu decken, wird der Differenzbetrag jeweils durch
+    den Fonds vorfinanziert und in den Folgejahren durch den auf den
+    Verbund auszuschüttenden Betrag nach Nummer 2 refinanziert. Hieraus
+    resultierende finanzielle Lasten tragen der Bund und das betreffende
+    Land im Verhältnis von
     65 : 35                   ; Einzelheiten werden in einer
     Verwaltungsvereinbarung geregelt. Weitergehende landesrechtliche
     Bestimmungen bleiben unberührt.
@@ -1167,8 +1002,9 @@ folgenden Maßgaben fest:
     2 gilt entsprechend.
 
 
-4.  Unbeschadet der Nummern 1 und 2 kann die Anstalt die Gegenleistung
-    bestimmen, die für die Übernahme von Risikopositionen oder
+4.  Unbeschadet der Nummern 1 und 2 kann das Bundesministerium der
+    Finanzen nach Anhörung der Finanzagentur die Gegenleistung bestimmen,
+    die für die Übernahme von Risikopositionen oder
     nichtstrategienotwendigen Geschäftsbereichen oder deren Absicherung
     gewährt wird.
 
@@ -1176,7 +1012,8 @@ folgenden Maßgaben fest:
 5.  Die übertragende Gesellschaft muss vor einer Übertragung auf die
     Abwicklungsanstalt sämtliche Risiken bezüglich der zu übertragenden
     oder abzusichernden Risikopositionen und nichtstrategienotwendigen
-    Geschäftsbereiche gegenüber der Anstalt offenlegen.
+    Geschäftsbereiche gegenüber dem Bundesministerium der Finanzen und der
+    Finanzagentur offenlegen.
 
 
 6.  Die Übernahme von Risikopositionen oder nichtstrategienotwendigen
@@ -1202,9 +1039,9 @@ folgenden Maßgaben fest:
 8.  Für Institute, die Maßnahmen nach § 8a in Anspruch nehmen, gelten die
     Auflagen aus § 5 Absatz 2 Nummer 1 bis 5, Absatz 5 bis 9 der
     Finanzmarktstabilisierungsfonds-Verordnung in der am 1. Januar 2015
-    geltenden Fassung entsprechend. Die Anstalt kann sonstige Bedingungen
-    festlegen, die auch an Stabilisierungsmaßnahmen nach § 8 geknüpft
-    werden können.
+    geltenden Fassung entsprechend. Das Bundesministerium der Finanzen
+    kann nach Anhörung der Finanzagentur sonstige Bedingungen festlegen,
+    die auch an Stabilisierungsmaßnahmen nach § 8 geknüpft werden können.
 
 
 
@@ -1236,9 +1073,9 @@ anzuwenden.
 (5a) Soweit eine Abwicklungsanstalt wegen der Art und des Umfangs der
 von ihr betriebenen Geschäfte nicht mehr der Aufsicht bedarf, kann die
 Bundesanstalt für Finanzdienstleistungsaufsicht auf Antrag der
-Abwicklungsanstalt, welcher der Genehmigung der Anstalt bedarf, im
-Einzelfall bestimmen, dass die in Absatz 5 Satz 2 Halbsatz 1 genannten
-Regelungen ganz oder teilweise nicht anzuwenden sind.
+Abwicklungsanstalt im Einzelfall bestimmen, dass die in Absatz 5 Satz
+2 Halbsatz 1 genannten Regelungen ganz oder teilweise nicht anzuwenden
+sind.
 
 (6) Auf die Abwicklungsanstalten sind die Grundsätze der
 Wirtschaftlichkeit und Sparsamkeit sowie die §§ 55 und 109 Absatz 1
@@ -1285,14 +1122,14 @@ folgender Bestimmungen beteiligt sein:
 
 
 3.  Der Spaltungs- und Übernahmevertrag bedarf keiner Prüfung im Sinne des
-    § 125 in Verbindung mit den §§ 9 bis 12 des Umwandlungsgesetzes. Für
-    die Anstalt fasst der Leitungsausschuss den gemäß § 125 in Verbindung
-    mit § 13 des Umwandlungsgesetzes zur Wirksamkeit der Übertragung
-    erforderlichen Beschluss; er ist außerdem für die Verzichtserklärung
-    gemäß § 127 Satz 2 in Verbindung mit § 8 Absatz 3 des
-    Umwandlungsgesetzes zuständig. Der Bericht gemäß § 127 des
-    Umwandlungsgesetzes ist von dem nach dem Statut gemäß Absatz 2 für die
-    Geschäftsführung zuständigen Organ der Abwicklungsanstalt zu
+    § 125 in Verbindung mit den §§ 9 bis 12 des Umwandlungsgesetzes. Die
+    Geschäftsführung der Finanzagentur fasst als Vertreterin des Fonds den
+    gemäß § 125 in Verbindung mit § 13 des Umwandlungsgesetzes zur
+    Wirksamkeit der Übertragung erforderlichen Beschluss; sie ist außerdem
+    für die Verzichtserklärung gemäß § 127 Satz 2 in Verbindung mit § 8
+    Absatz 3 des Umwandlungsgesetzes zuständig. Der Bericht gemäß § 127
+    des Umwandlungsgesetzes ist von dem nach dem Statut gemäß Absatz 2 für
+    die Geschäftsführung zuständigen Organ der Abwicklungsanstalt zu
     erstatten.
 
 
@@ -1368,7 +1205,7 @@ Ausgliederungen und Abspaltungen nach Maßgabe der folgenden
 Bestimmungen beteiligt sein:
 
 1.  die Ausgliederung oder Abspaltung bedarf der Zustimmung der
-    Haftungsbeteiligten und der Anstalt;
+    Haftungsbeteiligten und der Finanzagentur als Vertreterin des Fonds;
 
 
 2.  Refinanzierungsverbindlichkeiten dürfen im Rahmen der Ausgliederung
@@ -1397,23 +1234,23 @@ der Abwicklungsanstalten von Absatz 2 Satz 4 und 5 nicht etwas anderes
 bestimmen.
 
 (8b) Sollen im Rahmen der Ausgliederung oder Abspaltung nach Absatz 8a
-Verbindlichkeiten übertragen werden, darf die Anstalt die Zustimmung
-nach Absatz 8a Satz 1 Nummer 1 nur erteilen, soweit es sich um
-Verbindlichkeiten handelt, die in unmittelbarem Zusammenhang mit einem
-zu übertragenden Grundgeschäft stehen oder durch den weiteren Fortgang
-des Grundgeschäfts bedingt sind. Die Anstalt darf die Zustimmung zu
-einer Abspaltung nur erteilen, wenn die Abwicklungsanstalt nachweist,
-dass eine Ausgliederung wirtschaftlich nicht sinnvoll wäre und die
-Risiken für den Fonds durch die Abspaltung nicht erhöht werden.
-Solange die Abwicklungsanstalten nach einer Ausgliederung Anteile an
-einem übernehmenden Rechtsträger halten, gelten für den übernehmenden
-Rechtsträger die Absätze 2 und 2a entsprechend. Die übernehmenden
-Rechtsträger sind in diesem Fall auch dazu verpflichtet, einen
-Abwicklungsplan aufzustellen. Satz 3 und 4 gelten auch, solange die
-Abwicklungsanstalten nach einer Abspaltung für Verbindlichkeiten des
-übernehmenden Rechtsträgers haften, es sei denn, die Träger der
-Abwicklungsanstalten verpflichten sich, die Abwicklungsanstalt von den
-Nachhaftungsansprüchen freizustellen.
+Verbindlichkeiten übertragen werden, darf die Finanzagentur die
+Zustimmung nach Absatz 8a Satz 1 Nummer 1 nur erteilen, soweit es sich
+um Verbindlichkeiten handelt, die in unmittelbarem Zusammenhang mit
+einem zu übertragenden Grundgeschäft stehen oder durch den weiteren
+Fortgang des Grundgeschäfts bedingt sind. Die Finanzagentur darf die
+Zustimmung zu einer Abspaltung nur erteilen, wenn die
+Abwicklungsanstalt nachweist, dass eine Ausgliederung wirtschaftlich
+nicht sinnvoll wäre und die Risiken für den Fonds durch die Abspaltung
+nicht erhöht werden. Solange die Abwicklungsanstalten nach einer
+Ausgliederung Anteile an einem übernehmenden Rechtsträger halten,
+gelten für den übernehmenden Rechtsträger die Absätze 2 und 2a
+entsprechend. Die übernehmenden Rechtsträger sind in diesem Fall auch
+dazu verpflichtet, einen Abwicklungsplan aufzustellen. Satz 3 und 4
+gelten auch, solange die Abwicklungsanstalten nach einer Abspaltung
+für Verbindlichkeiten des übernehmenden Rechtsträgers haften, es sei
+denn, die Träger der Abwicklungsanstalten verpflichten sich, die
+Abwicklungsanstalt von den Nachhaftungsansprüchen freizustellen.
 
 (9) Die §§ 16 bis 18 und 20 des
 Wirtschaftsstabilisierungsbeschleunigungsgesetzes sind auf die
@@ -1629,19 +1466,17 @@ gilt nicht für Ansprüche, die vor dem 1. Januar 2011 entstanden sind.
 
 (2d) Bei einem Unternehmen des Finanzsektors, das
 Stabilisierungsmaßnahmen gemäß den §§ 6 bis 8a in Anspruch nimmt,
-sollen Vertreter der Anstalt im Zusammenhang mit den ihr nach § 8a
-übertragenen Aufgaben oder Vertreter der Finanzagentur im Zusammenhang
-mit den nach diesem Gesetz auf diese übertragenen Aufgaben als
-Sachverständige oder Auskunftspersonen im Sinne des § 109 Absatz 1
-Satz 2 des Aktiengesetzes zu den Sitzungen des Aufsichtsrats und
-seiner Ausschüsse hinzugezogen werden, soweit über Gegenstände beraten
-wird, bei denen eine Beteiligung von Vertretern der Anstalt oder der
-Finanzagentur als Sachverständige oder als Vertreter der
-Eigentümerinteressen des Bundes jeweils zweckdienlich erscheint. Die
-Anstalt und die Finanzagentur können die Teilnahme ihrer Vertreter an
-solchen Sitzungen verlangen, soweit über Gegenstände beraten wird, die
-Auswirkungen auf die jeweils in ihrem Aufgabenbereich liegenden
-Stabilisierungsmaßnahmen haben können.
+sollen Vertreter der Finanzagentur im Zusammenhang mit den nach diesem
+Gesetz auf diese übertragenen Aufgaben als Sachverständige oder
+Auskunftspersonen im Sinne des § 109 Absatz 1 Satz 2 des
+Aktiengesetzes zu den Sitzungen des Aufsichtsrats und seiner
+Ausschüsse hinzugezogen werden, soweit über Gegenstände beraten wird,
+bei denen eine Beteiligung von Vertretern der Finanzagentur als
+Sachverständige oder als Vertreter der Eigentümerinteressen des Bundes
+jeweils zweckdienlich erscheint. Die Finanzagentur kann die Teilnahme
+ihrer Vertreter an solchen Sitzungen verlangen, soweit über
+Gegenstände beraten wird, die Auswirkungen auf die jeweils in ihrem
+Aufgabenbereich liegenden Stabilisierungsmaßnahmen haben können.
 
 (3) Der Haushaltsausschuss und der Finanzausschuss des Deutschen
 Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach
@@ -1655,14 +1490,14 @@ Absatz 2 unverzüglich zu unterrichten.
 (2) Das Gremium nach § 3 des Bundesschuldenwesengesetzes (Gremium)
 wird vom Bundesministerium der Finanzen laufend über alle den Fonds
 betreffenden Fragen unterrichtet. Es ist befugt, Mitglieder des
-Lenkungsausschusses und Leitungsausschusses sowie Vertreter der
-Geschäftsführung der Finanzagentur und der Organe eines von einer
-Maßnahme des Fonds begünstigten Unternehmens zu laden. Die Vertreter
-der Geschäftsführung der Finanzagentur und der Organe eines von der
-Maßnahme des Fonds begünstigten Unternehmens sind zur Auskunft vor dem
-Gremium berechtigt und verpflichtet. Das Gremium berät ferner über
-grundsätzliche und strategische Fragen und langfristige Entwicklungen
-der Finanzmarktpolitik.
+Lenkungsausschusses sowie Vertreter der Geschäftsführung der
+Finanzagentur und der Organe eines von einer Maßnahme des Fonds
+begünstigten Unternehmens zu laden. Die Vertreter der Geschäftsführung
+der Finanzagentur und der Organe eines von der Maßnahme des Fonds
+begünstigten Unternehmens sind zur Auskunft vor dem Gremium berechtigt
+und verpflichtet. Das Gremium berät ferner über grundsätzliche und
+strategische Fragen und langfristige Entwicklungen der
+Finanzmarktpolitik.
 
 (3) Das Gremium tagt geheim. Die Mitglieder des Gremiums sind zur
 Geheimhaltung aller Angelegenheiten verpflichtet, die ihnen bei ihrer
@@ -1725,7 +1560,8 @@ Zusammenhang die Übernahme von Verlustausgleichspflichten durch den
 Fonds nach § 8a Absatz 4 Satz 1 Nummer 1 und 1a. Im Falle einer
 nachträglichen Übertragung nach Satz 2 können abweichend von § 8a
 Absatz 1 Satz 1 auch Risikopositionen übertragen werden, die nach dem
-31\. Mai 2014 erworben wurden. Für die Entscheidung der Anstalt über
+31\. Mai 2014 erworben wurden. Für die Entscheidung des
+Bundesministeriums der Finanzen nach Anhörung der Finanzagentur über
 die nachträgliche Übertragung sowie die näheren Bedingungen gilt § 8a
 Absatz 3 und 4 entsprechend. Bei der Festlegung von Bedingungen nach §
 8a Absatz 4, insbesondere einer Verlustausgleichspflicht oder Haftung
@@ -1863,7 +1699,7 @@ ausschließlich die in § 6a Absatz 1 genannten Wirtschaftsgüter erwirbt
 und verwaltet (einschließlich deren Veräußerung und Wiederanlage) und
 für den Erwerb notwendige Schuldtitel begibt.
 
-(2) Die Anstalt im Sinne des § 3a Absatz 1 begründet mit Ausnahme der
+(2) Die Anstalt im Sinne des § 3a Absatz 2b begründet mit Ausnahme der
 errichteten Abwicklungsanstalten keinen Betrieb gewerblicher Art im
 Sinne des § 4 des Körperschaftsteuergesetzes und keinen Betrieb der
 öffentlichen Hand im Sinne des § 2 Absatz 1 der Gewerbesteuer-
@@ -1995,6 +1831,60 @@ entsprechend anzuwenden.
 in die landesrechtliche Abwicklungsanstalten im Sinne des § 8b
 entsprechend. § 14b Absatz 2 bis 4 ist auf die landesrechtlichen
 Abwicklungsanstalten im Sinne des § 8b entsprechend anzuwenden.
+
+
+### Teil 5 - Übergangsregelungen
+
+
+#### § 14e Auflösung der Bundesanstalt für Finanzmarktstabilisierung; Verordnungsermächtigung
+
+(1) Die mit diesem Gesetz in der am 18. Oktober 2008 geltenden Fassung
+errichtete Finanzmarktstabilisierungsanstalt, die seit dem 23. Juli
+2009 die Bezeichnung „Bundesanstalt für Finanzmarktstabilisierung“
+trägt, wird mit Wirkung zum 1. Januar 2026 aufgelöst.
+
+(2) Die Finanzagentur führt nach Maßgabe dieses Gesetzes alle Aufgaben
+und Befugnisse der Anstalt fort, soweit diese nicht nach Maßgabe
+dieses Gesetzes dem Bundesministerium der Finanzen übertragen worden
+sind.
+
+(3) Die Finanzagentur übernimmt im Rahmen der Auflösung der Anstalt
+alle noch bestehenden Rechte und Pflichten, Verträge und sonstige
+Rechtsverhältnisse der Anstalt, soweit diese nicht nach Maßgabe dieses
+Gesetzes dem Bundesministerium der Finanzen übertragen worden sind,
+und tritt hinsichtlich der übergehenden Rechte und Pflichten in allen
+Verwaltungs- und Gerichtsverfahren, an denen die Anstalt beteiligt
+ist, an deren Stelle. Absatz 5 bleibt unberührt.
+
+(4) Für im Rahmen der Auflösung übergehende Verbindlichkeiten der
+Anstalt haftet die Bundesrepublik Deutschland unbeschränkt.
+
+(5) Die Finanzagentur tritt zum 1. Januar 2026 in die Rechte und
+Pflichten aus den Arbeitsverhältnissen mit allen am 31. Dezember 2025
+Beschäftigten der Anstalt, deren Beschäftigungsverhältnis über den 31.
+Dezember 2025 fortdauert, ein. Die Beschäftigten werden von der
+Anstalt im Benehmen mit der Finanzagentur bis zum 31. Oktober 2025
+schriftlich über die rechtlichen, wirtschaftlichen und sozialen Folgen
+des Übergangs unterrichtet.
+
+(6) Die Regelungen zur Rechnungslegung der Anstalt nach § 3a Absatz 4
+dieses Gesetzes und § 10 der Satzung der Anstalt, jeweils in der bis
+einschließlich 31. Dezember 2025 geltenden Fassung, finden letztmalig
+für das Kalenderjahr 2025 mit der Maßgabe Anwendung, dass die
+Rechnungslegung durch die Finanzagentur aufzustellen ist. Das
+uneingeschränkte Prüfungsrecht des Bundesrechnungshofs bleibt
+unberührt.
+
+(7) Das Recht der Anstalt zur Geltendmachung von Kostenerstattungen
+nach § 3e dieses Gesetzes in der bis einschließlich 31. Dezember 2025
+geltenden Fassung geht mit Auflösung der Anstalt auf die Finanzagentur
+über.
+
+(8) Das Bundesministerium der Finanzen wird ermächtigt durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+nähere Bestimmungen zum Übergang der Aufgaben der Anstalt und ihrer
+Rechte, Pflichten, Verträge und sonstigen Rechtsverhältnisse zu
+erlassen.
 
 
 ## Abschnitt 2 - Wirtschaftsstabilisierung
