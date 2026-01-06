@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 30 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 6 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 7 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## - - Zu § 3a des Gesetzes
 
@@ -1685,11 +1691,12 @@ gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der
 letzte Zeitraum des Kalenderjahres ist. Für diese Vergütungszeiträume
 muss die beantragte Vergütung mindestens 50 Euro betragen.
 
-(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen ist durch
+(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen kann durch
 Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a
-Absatz 8 der Abgabenordnung bekannt zu geben. Hat der Empfänger des
-Bescheids der Bekanntgabe durch Bereitstellung zum Datenabruf nach
-Satz 1 nicht zugestimmt, ist der Bescheid schriftlich zu erteilen.
+Absatz 8 der Abgabenordnung bekannt gegeben werden. Hat der Empfänger
+des Bescheids eine einmalige oder dauerhafte postalische Bekanntgabe
+nach § 122 Absatz 2 der Abgabenordnung beantragt, ist der Bescheid,
+bis zum Widerruf des Antrags, schriftlich zu erteilen.
 
 (5) Der nach § 18 Abs. 9 des Gesetzes zu vergütende Betrag ist zu
 verzinsen. Der Zinslauf beginnt mit Ablauf von vier Monaten und zehn
@@ -1731,13 +1738,37 @@ Vermeidung von unbilligen Härten auf eine elektronische Übermittlung
 verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet
 ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem
 Vordruck beim Bundeszentralamt für Steuern zu beantragen und den
-Vergütungsantrag eigenhändig zu unterschreiben.
+Vergütungsantrag eigenhändig zu unterschreiben. Der Bescheid über die
+Vergütung von Vorsteuerbeträgen ist durch Bereitstellung zum
+Datenabruf nach § 122a in Verbindung mit § 87a Absatz 8 der
+Abgabenordnung bekannt zu geben. Abweichend von § 122a Absatz 2 der
+Abgabenordnung kann das Bundeszentralamt für Steuern nur zur
+Vermeidung von unbilligen Härten einem Antrag auf einmalige
+postalischer Bekanntgabe nach § 122a Absatz 2 der Abgabenordnung
+entsprechen und den Bescheid, bis zum Widerruf des Antrags, postalisch
+bekannt geben.
 
 (2) Die Vergütung ist binnen sechs Monaten nach Ablauf des
 Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu
-beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Die
-Vorsteuerbeträge sind durch Vorlage von Rechnungen und Einfuhrbelegen
-im Original nachzuweisen.
+beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. In
+dem Antrag sind die Vorsteuerbeträge, deren Vergütung beantragt wird,
+im Einzelnen aufzuführen (Einzelaufstellung). Die Vorsteuerbeträge
+sind
+
+1.  durch Hochladen der Rechnungen und Einfuhrbelege im Online-Portal des
+    Bundeszentralamts für Steuern oder
+
+
+2.  in Ausnahmefällen durch Vorlage der Rechnungen und Einfuhrbelege auf
+    einem Speichermedium
+
+
+
+nachzuweisen, wenn der Gesamtbetrag der Rechnung oder des
+Einfuhrbeleges 250 Euro übersteigt. Das Bundeszentralamt für Steuern
+kann verlangen, dass die Vorsteuerbeträge durch Vorlage von Rechnungen
+und Einfuhrbelegen im Original nachgewiesen werden. In diesem Fall
+gilt der in Satz 4 genannte Schwellenwert nicht.
 
 (3) Die beantragte Vergütung muss mindestens 1 000 Euro betragen. Das
 gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der
@@ -1864,12 +1895,8 @@ Die Aufzeichnungspflichten nach § 22 Abs. 2 Nr. 4, 7, 8 und 9 des
 Gesetzes bleiben unberührt.
 
 
-### § 66 Aufzeichnungspflichten bei der Anwendung allgemeiner Durchschnittssätze
+### § 66 (weggefallen)
 
-Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2
-Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren
-Vorsteuerbeträge nach einem Durchschnittssatz (§§ 69 und 70)
-berechnet.
 
 
 ### § 66a Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
@@ -1989,7 +2016,8 @@ Gesetzes bezeichneten Steuerbefreiungen wie folgt nachzuweisen:
 1.  bei Lieferungen und sonstigen Leistungen, die von einer amtlichen
     Beschaffungsstelle in Auftrag gegeben worden sind, durch eine
     Bescheinigung der amtlichen Beschaffungsstelle nach amtlich
-    vorgeschriebenem Vordruck (Abwicklungsschein);
+    vorgeschriebenem Vordruck oder eine elektronische Version des
+    Vordrucks (Abwicklungsschein);
 
 
 2.  bei Lieferungen und sonstigen Leistungen, die von einer deutschen
