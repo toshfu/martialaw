@@ -33,6 +33,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 7 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -517,35 +520,11 @@ entscheidet dieser über die Ablehnung oder Ausschließung.
 
 #### § 32 Elektronische Aktenführung; Verordnungsermächtigungen
 
-(1) Die Akten können elektronisch geführt werden. Die Bundesregierung
-und die Landesregierungen bestimmen jeweils für ihren Bereich durch
-Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch
-geführt werden. Sie können die Einführung der elektronischen
-Aktenführung dabei auf einzelne Gerichte oder Strafverfolgungsbehörden
-oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass
-Akten, die in Papierform angelegt wurden, auch nach Einführung der
-elektronischen Aktenführung in Papierform weitergeführt werden; wird
-von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
-Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
-die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
-durch Rechtsverordnung auf die zuständigen Bundes- oder
-Landesministerien übertragen werden.
-
-(1a) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor
-dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten
-Stichtag oder Ereignis in elektronischer Form weitergeführt werden.
-Die Zulassung der Weiterführung in elektronischer Form kann auf
-einzelne Gerichte oder Strafverfolgungsbehörden oder auf allgemein
-bestimmte Verfahren beschränkt werden; wird von dieser Möglichkeit
-Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass
-durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist,
-geregelt wird, in welchen Verfahren Akten in elektronischer Form
-weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
-nicht der Zustimmung des Bundesrates. Die Ermächtigung kann durch
-Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien
-übertragen werden.
+(1) Die Akten werden elektronisch geführt. Akten, die in Papierform
+angelegt wurden, können in Papierform weitergeführt werden. Sie können
+auch ab einem bestimmten Stichtag oder Ereignis in elektronischer Form
+weitergeführt werden. Der Beginn der Weiterführung der Akten in
+elektronischer Form ist aktenkundig zu machen.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen jeweils
 für ihren Bereich durch Rechtsverordnung die für die elektronische
@@ -717,14 +696,29 @@ auf die zuständigen Bundesministerien übertragen.
 Verteidiger und Rechtsanwälte sollen den Strafverfolgungsbehörden und
 Gerichten Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen als elektronisches Dokument
-übermitteln. Die Berufung und ihre Begründung, die Revision, ihre
-Begründung und die Gegenerklärung sowie die Privatklage und die
-Anschlusserklärung bei der Nebenklage müssen sie als elektronisches
-Dokument übermitteln. Ist dies aus technischen Gründen vorübergehend
-nicht möglich, ist die Übermittlung in Papierform zulässig. Die
-vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder
-unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein
-elektronisches Dokument nachzureichen.
+übermitteln. Die folgenden Dokumente müssen sie elektronisch
+übermitteln:
+
+1.  die Berufung, ihre Begründung und ihre Rücknahme,
+
+
+2.  die Revision, ihre Begründung, ihre Rücknahme und die Gegenerklärung,
+
+
+3.  den Einspruch gegen den Strafbefehl und seine Rücknahme,
+
+
+4.  die Privatklage und
+
+
+5.  die Anschlusserklärung bei der Nebenklage.
+
+
+
+Ist dies aus technischen Gründen vorübergehend nicht möglich, ist die
+Übermittlung in Papierform zulässig. Die vorübergehende Unmöglichkeit
+ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu
+machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 #### § 32e Übertragung von Dokumenten zu Aktenführungszwecken
@@ -10729,7 +10723,7 @@ Beschlüsse und Verfügungen, durch die sie betroffen werden, Beschwerde
 erheben.
 
 (3) Gegen Entscheidungen über Kosten oder notwendige Auslagen ist die
-Beschwerde nur zulässig, wenn der Wert des Beschwerdegegenstands 200
+Beschwerde nur zulässig, wenn der Wert des Beschwerdegegenstands 300
 Euro übersteigt.
 
 (4) Gegen Beschlüsse und Verfügungen des Bundesgerichtshofes ist keine
