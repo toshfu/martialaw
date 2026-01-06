@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 24.11.2023 I Nr. 332
 
+Änderung durch
+:   Art. 8 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -81,8 +84,8 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-15. das Finanzamt Saarbrücken Am Stadtgraben für im Großherzogtum
-    Luxemburg ansässige Unternehmer,
+15. das Finanzamt Saarbrücken I für im Großherzogtum Luxemburg ansässige
+    Unternehmer,
 
 
 16. das Finanzamt Berlin International für in der Republik Nordmazedonien
