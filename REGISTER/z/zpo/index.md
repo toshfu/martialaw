@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 14 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+:   Art. 8 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
@@ -5282,32 +5282,16 @@ sechs Monaten gelöscht werden.
 
 ##### § 298a Elektronische Akte; Verordnungsermächtigung
 
-(1) Die Prozessakten können elektronisch geführt werden. Die
-Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
-durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten
-geführt werden sowie die hierfür geltenden organisatorisch-technischen
-Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der
-elektronischen Akten. Die Landesregierungen können die Ermächtigung
-durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
-Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
-gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren die Akten elektronisch zu führen sind.
-
-(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Aufbewahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform weitergeführt werden. Die
-Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
-durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit
-zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen
-der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
+(1) Die Prozessakten werden elektronisch geführt. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die in Satz 2 genannte Ermächtigung durch
+Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen
+obersten Landesbehörden übertragen. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
 (2) Werden die Prozessakten elektronisch geführt, sind in Papierform
 vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
@@ -5325,19 +5309,11 @@ Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
 sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
 rückgabepflichtig sind.
 
-(3) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor
-dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten
-Stichtag oder Ereignis in elektronischer Form weitergeführt werden.
-Die Zulassung der Weiterführung in elektronischer Form kann auf
-einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
-Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt
-werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
-elektronischer Form weitergeführt werden. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die zuständigen obersten Landesbehörden übertragen.
+(3) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen.
 
 (4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates die für die Übermittlung elektronischer Akten zwischen
@@ -6371,9 +6347,7 @@ Einzelrichter. Dies gilt nicht, wenn
     Gerichts wegen der Zuordnung des Rechtsstreits zu den nachfolgenden
     Sachgebieten begründet ist:
 
-    a)  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
-        Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in
-        Presse, Rundfunk, Film und Fernsehen;
+    a)  (weggefallen)
 
 
     b)  Streitigkeiten aus Bank- und Finanzgeschäften;
@@ -6389,7 +6363,7 @@ Einzelrichter. Dies gilt nicht, wenn
         Wirtschaftsprüfer und vereidigten Buchprüfer;
 
 
-    e)  Streitigkeiten über Ansprüche aus Heilbehandlungen;
+    e)  (weggefallen)
 
 
     f)  Streitigkeiten aus Handelssachen im Sinne des § 95 des
@@ -6830,17 +6804,25 @@ Gegenstandes als bewiesen angesehen werden.
 
 ##### § 371a Beweiskraft elektronischer Dokumente
 
-(1) Auf private elektronische Dokumente, die mit einer qualifizierten
-elektronischen Signatur versehen sind, finden die Vorschriften über
-die Beweiskraft privater Urkunden entsprechende Anwendung. Der
-Anschein der Echtheit einer in elektronischer Form vorliegenden
+(1) Die Vorschriften über die Beweiskraft privater Urkunden sind
+entsprechend anzuwenden auf private elektronische Dokumente, die
+versehen sind mit
+
+1.  einer qualifizierten elektronischen Signatur oder
+
+
+2.  einer notariell beglaubigten elektronischen Unterschrift oder einem
+    notariell beglaubigten elektronischen Handzeichen.
+
+
+
+Der Anschein der Echtheit einer in elektronischer Form vorliegenden
 Erklärung, der sich auf Grund der Prüfung der qualifizierten
-elektronischen Signatur nach Artikel 32 der Verordnung (EU)
-Nr. 910/2014              des Europäischen Parlaments und des Rates
-vom 23. Juli 2014 über elektronische Identifizierung und
-Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
-zur Aufhebung der Richtlinie
-1999/93/EG              (ABl. L 257 vom 28.8.2014, S. 73) ergibt, kann
+elektronischen Signatur nach Artikel 32 der Verordnung (EU) Nr.
+910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014
+über elektronische Identifizierung und Vertrauensdienste für
+elektronische Transaktionen im Binnenmarkt und zur Aufhebung der
+Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) ergibt, kann
 nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran
 begründen, dass die Erklärung von der verantwortenden Person abgegeben
 worden ist.
@@ -6869,7 +6851,9 @@ Gleiche gilt, wenn das Dokument im Auftrag der Behörde oder der mit
 Diensteanbieter mit seiner qualifizierten elektronischen Signatur
 gemäß § 5 Absatz 5 des De-Mail-Gesetzes versehen ist und die
 Absenderbestätigung die Behörde oder die mit öffentlichem Glauben
-versehene Person als Nutzer des De-Mail-Kontos ausweist.
+versehene Person als Nutzer des De-Mail-Kontos ausweist. Auf
+ausländische öffentliche elektronische Dokumente ist § 438
+entsprechend anzuwenden.
 
 
 ##### § 371b Beweiskraft gescannter öffentlicher Urkunden
@@ -8367,7 +8351,7 @@ Abweichungen ergeben.
 #### § 495a Verfahren nach billigem Ermessen
 
 Das Gericht kann sein Verfahren nach billigem Ermessen bestimmen, wenn
-der Streitwert 600 Euro nicht übersteigt. Auf Antrag muss mündlich
+der Streitwert 1 000 Euro nicht übersteigt. Auf Antrag muss mündlich
 verhandelt werden.
 
 
@@ -8484,7 +8468,7 @@ Endurteile der Amts- und Landgerichte statt.
 
 (2) Die Berufung ist nur zulässig, wenn
 
-1.  der Wert des Beschwerdegegenstandes 600 Euro übersteigt oder
+1.  der Wert des Beschwerdegegenstandes 1 000 Euro übersteigt oder
 
 
 2.  das Gericht des ersten Rechtszuges die Berufung im Urteil zugelassen
@@ -8504,7 +8488,8 @@ werden.
     Entscheidung des Berufungsgerichts erfordert und
 
 
-2.  die Partei durch das Urteil mit nicht mehr als 600 Euro beschwert ist.
+2.  die Partei durch das Urteil mit nicht mehr als 1 000 Euro beschwert
+    ist.
 
 
 
@@ -9118,7 +9103,7 @@ unterliegt der Beschwerde (Nichtzulassungsbeschwerde).
 
 (2) Die Nichtzulassungsbeschwerde ist nur zulässig, wenn
 
-1.  der Wert der mit der Revision geltend zu machenden Beschwer 20 000
+1.  der Wert der mit der Revision geltend zu machenden Beschwer 25 000
     Euro übersteigt oder
 
 
@@ -9622,7 +9607,7 @@ wenn
 
 
 (2) Gegen Entscheidungen über Kosten ist die Beschwerde nur zulässig,
-wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt.
+wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt.
 
 (3) Der Beschwerdegegner kann sich der Beschwerde anschließen, selbst
 wenn er auf die Beschwerde verzichtet hat oder die Beschwerdefrist
@@ -10551,7 +10536,7 @@ Durchführung gelten die §§ 1087 bis 1096.
 (1) Das Mahnverfahren wird von den Amtsgerichten durchgeführt. Eine
 maschinelle Bearbeitung ist zulässig. Bei dieser Bearbeitung sollen
 Eingänge spätestens an dem Arbeitstag erledigt sein, der dem Tag des
-Eingangs folgt. Die Akten können elektronisch geführt werden (§ 298a).
+Eingangs folgt. Die Akten werden elektronisch geführt (§ 298a).
 
 (2) Ausschließlich zuständig ist das Amtsgericht, bei dem der
 Antragsteller seinen allgemeinen Gerichtsstand hat. Hat der
