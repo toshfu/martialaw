@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 25.6.2020 I 1495
 
+Änderung durch
+:   Art. 3 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Arbeitnehmer, Arbeitgeber
 
@@ -217,13 +220,16 @@ aufzuzeichnen:
 
 
 
-(2a) Der Arbeitgeber hat die nach den Absätzen 1 und 2 sowie die nach
-§ 41 des Einkommensteuergesetzes aufzuzeichnenden Daten der
+(2a) Der Arbeitgeber hat die nach den Absätzen 1 und 2, die nach § 41
+des Einkommensteuergesetzes aufzuzeichnenden Daten sowie die hierfür
+mittels Vor- und Nebensystemen ermittelten und verwendeten Daten der
 Finanzbehörde nach einer amtlich vorgeschriebenen einheitlichen Form
-über eine digitale Schnittstelle elektronisch bereitzustellen. Auf
+über eine digitale Schnittstelle elektronisch bereitzustellen. Die
+Übermittlung der Daten für dieselbe Betriebsstätte hat zusammengefasst
+in einem Datenbestand je Haupt-, Vor- und Nebensystem zu erfolgen. Auf
 Antrag des Arbeitgebers kann das Betriebsstättenfinanzamt zur
-Vermeidung unbilliger Härten zulassen, dass der Arbeitgeber die in
-Satz 1 genannten Daten in anderer auswertbarer Form bereitstellt.
+Vermeidung unbilliger Härten zulassen, dass der Arbeitgeber die Daten
+in anderer auswertbarer Form bereitstellt.
 
 (3) Das Betriebsstättenfinanzamt kann bei Arbeitgebern, die für die
 Lohnabrechnung ein maschinelles Verfahren anwenden, Ausnahmen von den
@@ -315,6 +321,9 @@ Fassung sind weiter anzuwenden im Falle einer schädlichen Verfügung
 vor dem 1. Januar 2002. Die Nachversteuerung nach § 7 Abs. 1 Satz 1
 unterbleibt, wenn der nachzufordernde Betrag 10 Euro nicht übersteigt.
 
-(3) § 4 Absatz 2a ist für ab dem 1. Januar 2018 im Lohnkonto
-aufzuzeichnende Daten anzuwenden.
+(3) § 4 Absatz 2a in der am 31. Dezember 2024 geltenden Fassung ist
+für die ab 1. Januar 2018 bis 31. Dezember 2026 im Lohnkonto
+aufzuzeichnenden Daten anzuwenden. § 4 Absatz 2a in der am 30.
+Dezember 2025 geltenden Fassung ist für die ab dem 1. Januar 2027 im
+Lohnkonto aufzuzeichnenden Daten anzuwenden.
 
