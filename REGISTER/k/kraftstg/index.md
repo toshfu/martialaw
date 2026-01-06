@@ -391,8 +391,8 @@ Absatz 1 Nummer 4 Satz 1.
 (1) Von der Steuer befreit ist das Halten von Elektrofahrzeugen im
 Sinne des § 9 Absatz 2. Die Steuerbefreiung wird bei erstmaliger
 Zulassung des Elektrofahrzeugs in der Zeit vom 18. Mai 2011 bis 31.
-Dezember 2025 für zehn Jahre ab dem Tag der erstmaligen Zulassung
-gewährt, längstens jedoch bis zum 31. Dezember 2030.
+Dezember 2030 für zehn Jahre ab dem Tag der erstmaligen Zulassung
+gewährt, längstens jedoch bis zum 31. Dezember 2035.
 
 (2) Die Steuerbefreiung nach Absatz 1 oder nach § 18 Absatz 4b wird
 für jedes Fahrzeug einmal gewährt. Soweit sie bei einem Halterwechsel
@@ -409,7 +409,7 @@ Selbstzündungsmotoren angetrieben wurden. Die Steuerbefreiung wird
 nach Maßgabe folgender Voraussetzungen gewährt:
 
 1.  das Fahrzeug ist in der Zeit vom 18. Mai 2016 bis zum 31. Dezember
-    2025 nachträglich zu einem Elektrofahrzeug im Sinne des § 9 Absatz 2
+    2030 nachträglich zu einem Elektrofahrzeug im Sinne des § 9 Absatz 2
     umgerüstet worden und
 
 
@@ -814,7 +814,8 @@ Die Steuer bemisst sich
 
 2a. Wohnmobile für je 200 Kilogramm Gesamtgewicht oder einem Teil davon,
     wenn sie nach Feststellung der Zulassungsbehörde im Sinne der Anlage
-    XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung
+    XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung in der am 1.
+    September 2023 geltenden Fassung
 
     *        *   a)
 
@@ -993,7 +994,8 @@ Die Steuer bemisst sich
     Zulassungsbehörde
 
     a)  mindestens zur Schadstoffklasse S 2 im Sinne der Anlage XIV zu § 48
-        der Straßenverkehrs-Zulassungs-Ordnung gehören, von dem Gesamtgewicht
+        der Straßenverkehrs-Zulassungs-Ordnung in der am 1. September 2023
+        geltenden Fassung gehören, von dem Gesamtgewicht
 
         *            *   bis zu 2 000 kg
 
@@ -1063,7 +1065,8 @@ Die Steuer bemisst sich
 
 
     b)  zur Schadstoffklasse S 1 im Sinne der Anlage XIV zu § 48 der
-        Straßenverkehrs-Zulassungs-Ordnung gehören, von dem Gesamtgewicht
+        Straßenverkehrs-Zulassungs-Ordnung in der am 1. September 2023
+        geltenden Fassung gehören, von dem Gesamtgewicht
 
         *            *   bis zu 2 000 kg
 
@@ -1148,7 +1151,8 @@ Die Steuer bemisst sich
 
 
     c)  zur Geräuschklasse G 1 im Sinne der Anlage XIV zu § 48 der
-        Straßenverkehrs-Zulassungs-Ordnung gehören, von dem Gesamtgewicht
+        Straßenverkehrs-Zulassungs-Ordnung in der am 1. September 2023
+        geltenden Fassung gehören, von dem Gesamtgewicht
 
         *            *   bis zu 2 000 kg
 
@@ -1690,7 +1694,104 @@ Zulassungsbehörde zuständig wird.
 (5) (weggefallen)
 
 
-## (XXXX) §§ 12a und 12b (weggefallen)
+## § 12a Steuererklärungspflicht
+
+(1) Der Steuerschuldner hat eine Steuererklärung nach amtlich
+vorgeschriebenem Vordruck abzugeben
+
+1.  für ein inländisches Fahrzeug bei der Zulassungsbehörde, wenn das
+    Fahrzeug
+
+    a)  zum Verkehr zugelassen werden soll,
+
+
+    b)  zum Verkehr zugelassen ist und der Halter wechselt oder
+
+
+    c)  während der Dauer der Steuerpflicht verändert wird und sich dadurch
+        die Höhe der Steuer ändert;
+
+
+    d)  wenn für das Fahrzeug ein Kennzeichen im Sinne des § 1 Absatz 1 Nummer
+        4 zugeteilt werden soll;
+
+
+
+
+
+2.  für ein ausländisches Fahrzeug
+
+    a)  am deutschen Teil der Grenze der Europäischen Union bei der
+        Zollstelle, die für die amtliche Abfertigung zuständig ist oder
+
+
+    b)  im Straßenverkehr innerhalb der Europäischen Union bei der Zollstelle,
+        die von der Generalzolldirektion hierzu bestimmt ist, wobei die
+        Steuererklärung vor dem Eingang des Fahrzeugs in das Inland auch auf
+        dem Postweg abgegeben werden kann, wenn die Steuer gleichzeitig mit
+        der Abgabe der Steuererklärung entrichtet wird;
+
+
+    c)  wenn der Aufenthalt des Fahrzeugs im Inland über die Zeit, für die die
+        Steuer entrichtet worden ist, hinaus andauern soll
+        (Weiterversteuerung) bei jeder Zollstelle, die mit der Festsetzung der
+        Kraftfahrzeugsteuer befasst ist;
+
+
+
+
+
+3.  bei widerrechtlicher Benutzung nach § 2 Absatz 5 unverzüglich beim
+    zuständigen Hauptzollamt, wobei das zuständige Hauptzollamt vom
+    Eigentümer, Besitzer oder vom Halter des Fahrzeugs ohne Rücksicht
+    darauf, ob er selbst Steuerschuldner ist, die Abgabe einer
+    Steuererklärung innerhalb einer durch das Hauptzollamt festzulegenden
+    Frist verlangen kann.
+
+
+
+
+(2) Als Steuererklärung im Sinne des Absatzes 1 Nummer 1 gilt auch die
+Fahrzeuganmeldung im Inland, wenn sie einen entsprechenden Hinweis
+enthält.
+
+(3) Eine Steuererklärung ist nicht erforderlich, wenn das Halten nach
+§ 3 Nummer 1 oder Nummer 2 von der Steuer befreit ist.
+
+(4) Beabsichtigt ein Steuerpflichtiger, seinen Anspruch auf
+Steuerbefreiung, auf Steuerermäßigung oder auf Nichterhebung der
+Steuer für einen Kraftfahrzeuganhänger (§ 10 Absatz 1) geltend zu
+machen, so hat er dies unter Angabe der Gründe schriftlich beim
+zuständigen Hauptzollamt zu beantragen. Der Antrag ist eine
+Steuererklärung im Sinne des § 150 der Abgabenordnung.
+
+(5) Fallen die Voraussetzungen für eine Steuervergünstigung weg, so
+hat der Steuerpflichtige unbeschadet des § 153 der Abgabenordnung dies
+dem zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen. Die
+Anzeige ist eine Steuererklärung im Sinne des § 150 der
+Abgabenordnung.
+
+(6) Ist eine Steuererklärung nach Absatz 1 Nummer 1 abzugeben, genügt
+in dieser ein entsprechender Hinweis, um eine Steuervergünstigung zu
+beantragen oder den Wegfall einer der Voraussetzungen hierfür
+anzuzeigen.
+
+(7) Der Antrag auf Erhöhung der Steuer um den Anhängerzuschlag nach §
+10 Absatz 2 gilt als Steuererklärung im Sinne des § 150 der
+Abgabenordnung und kann bei der Zulassungsbehörde zugleich mit dem
+Antrag auf verkehrsrechtliche Zulassung gestellt werden. Er ist in
+diesem Fall in die Steuererklärung nach Absatz 1 Nummer 1 mit
+aufzunehmen. In den übrigen Fällen ist der Antrag beim zuständigen
+Hauptzollamt zu stellen. Ein Antrag im Sinne des § 10 Absatz 2 ist
+auch der Antrag, den Anhängerzuschlag nicht mehr in Anspruch nehmen zu
+wollen.
+
+(8) Im Falle des Absatzes 1 Nummer 1 oder der Absätze 4, 5 und 7 kann
+die Steuererklärung gemäß den §§ 87a bis 87d der Abgabenordnung
+elektronisch übermittelt werden.
+
+
+## § 12b (weggefallen)
 
 
 ## § 13 Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung
