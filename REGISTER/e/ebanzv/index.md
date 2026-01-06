@@ -15,12 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3202
 
-Stand: Die V tritt gem. § 5 Abs. 2 am 31.12.2016 außer Kraft; die Geltung dieser V ist gem. § 4 idF d. Art. 1 Nr. 4 V v. 14.1.2015 I 16 über den 31.12.2016 hinaus bis zum 31.12.2026 verlängert worden
+Stand: Die V tritt gem. § 5 Abs. 2 am 31.12.2016 außer Kraft; die Geltung dieser V ist gem. § 4 idF d. Art. 1 Nr. 4 V v. 14.1.2015 I 16 über den 31.12.2016 hinaus bis zum 31.12.2026 verlängert worden; die Geltung dieser V ist gem. § 5 idF d. Art. 1 Nr. 2 V v. 19.12.2025 I Nr. 366 über den 31.12.2026 hinaus bis zum 31.12.2031 verlängert worden
 Zuletzt geändert durch
 :   Art. 1 V v. 14.1.2015 I 16
 
 Änderung durch
-:   Art. 1 V v. 19.12.2025 I Nr 366 noch nicht berücksichtigt
+:   Art. 1 V v. 19.12.2025 I Nr. 366 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -53,17 +53,17 @@ werden.
 
 (1) Das durch die Übertragung der Führung des Unternehmensregisters
 begründete Auftragsverhältnis kann vor Ablauf des Zeitpunkts des
-Außerkrafttretens dieser Verordnung nach § 5 Abs. 2 schriftlich von
-der Beliehenen mit einer Frist von einem Jahr, vom Bundesministerium
-der Justiz und für Verbraucherschutz mit einer Frist von höchstens
-einem Jahr gekündigt werden.
+Außerkrafttretens dieser Verordnung nach § 5 schriftlich von der
+Beliehenen mit einer Frist von einem Jahr, vom Bundesministerium der
+Justiz und für Verbraucherschutz mit einer Frist von höchstens einem
+Jahr gekündigt werden.
 
 (2) Die Kündigung nach Absatz 1 ist nur aus wichtigem Grund zulässig.
 Ein wichtiger Grund liegt vor, wenn dem Kündigenden unter
 Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der
 Interessen beider Teile die Fortsetzung des Auftragsverhältnisses bis
 zum Ablauf des Zeitpunkts des Außerkrafttretens der Verordnung nach §
-5 Abs. 2 nicht zugemutet werden kann, insbesondere wenn
+5 nicht zugemutet werden kann, insbesondere wenn
 
 1.  das Verhalten der Beliehenen geeignet ist, das Ansehen der
     Bundesrepublik Deutschland oder eines der Länder zu schädigen;
@@ -93,14 +93,38 @@ den für die Kündigung maßgebenden Tatsachen Kenntnis erlangt. Der
 Kündigende muss dem anderen Teil auf Verlangen den Kündigungsgrund
 unverzüglich schriftlich mitteilen.
 
-(4) Unbeschadet des § 5 Abs. 2 sind mit Wirksamwerden der Kündigung
-die Übertragung der Führung des Unternehmensregisters nach § 1 und die
+(4) Unbeschadet des § 5 sind mit Wirksamwerden der Kündigung die
+Übertragung der Führung des Unternehmensregisters nach § 1 und die
 Berechtigung zur Führung eines Dienstsiegels nach § 2 aufgehoben.
 
 
-## § 4 Außerkrafttreten
+## § 4 Abwicklung bei Beendigung der Beleihung
 
-Diese Verordnung tritt am 31. Dezember 2026 außer Kraft.
+(1) An dem Tag, an dem die Beleihung endet, hat die Beliehene dem
+Bundesministerium der Justiz und für Verbraucherschutz oder einer von
+diesem bestimmten Stelle unverzüglich
+
+1.  alle für den ordnungsgemäßen Weiterbetrieb des Unternehmensregisters
+    erforderliche Software und Daten zur Verfügung zu stellen und
+
+
+2.  die Rechte an dieser Software und an der für das Unternehmensregister
+    genutzten Internetadresse zu übertragen.
+
+
+
+
+(2) Die Kosten für die Abwicklung nach Absatz 1 werden nicht vom
+Bundesministerium der Justiz und für Verbraucherschutz erstattet. Das
+Bundesministerium der Justiz und für Verbraucherschutz erstattet
+solche Kosten nur, wenn es sich um Lizenz- und Übertragungsgebühren
+handelt, die Dritten zustehen, die nicht mit der Beliehenen
+gesellschaftsrechtlich verbunden sind.
+
+
+## § 5 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2031 außer Kraft.
 
 
 ## Schlussformel
