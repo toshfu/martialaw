@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 28.6.2023 I Nr. 172
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Einrichtung des Wettbewerbsregisters
 
@@ -72,34 +75,26 @@ Datenbank geführt.
     90 Tagessätzen erkannt oder eine Geldbuße von wenigstens
     zweitausendfünfhundert Euro festgesetzt worden ist:
 
-    a)  nach § 8 Absatz 1 Nummer 2, den §§ 10 bis 11 des
-        Schwarzarbeitsbekämpfungsgesetzes vom 23. Juli 2004 (BGBl. I S. 1842),
-        das zuletzt durch Artikel 1 des Gesetzes vom 6. März 2017 (BGBl. I S.
-        399) geändert worden ist,
+    a)  nach § 8 Absatz 1 Nummer 2, Absatz 2 Nummer 3 und Absatz 3 und nach
+        den §§ 9 bis 11 des Schwarzarbeitsbekämpfungsgesetzes,
 
 
     b)  nach § 404 Absatz 1 und 2 Nummer 3 des Dritten Buches Sozialgesetzbuch
         – Arbeitsförderung – (Artikel 1 des Gesetzes vom 24. März 1997, BGBl.
-        I S. 594, 595), das zuletzt durch Artikel 6 Absatz 8 des Gesetzes vom
-        23\. Mai 2017 (BGBl. I S. 1228) geändert worden ist,
+        I S. 594, 595), das zuletzt durch Artikel 60 des Gesetzes vom 23.
+        Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist,
 
 
-    c)  nach den §§ 15, 15a, 16 Absatz 1 Nummer 1, 1c, 1d, 1f und 2 des
-        Arbeitnehmerüberlassungsgesetzes in der Fassung der Bekanntmachung vom
-        3\. Februar 1995 (BGBl. I S. 158), das zuletzt durch Artikel 1 des
-        Gesetzes vom 21. Februar 2017 (BGBl. I S. 258) geändert worden ist,
+    c)  nach den §§ 15, 15a, 16 Absatz 1 Nummer 1, 1a, 1c, 1d, 1f, 2, 7b und
+        11 bis 17 des Arbeitnehmerüberlassungsgesetzes,
 
 
-    d)  nach § 21 Absatz 1 Nummer 1 bis 8, 10 und 11 sowie Absatz 2 des
-        Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt
-        durch Artikel 6 Absatz 39 des Gesetzes vom 13. April 2017 (BGBl. I S.
-        872) geändert worden ist, oder
+    d)  nach § 21 Absatz 1 Nummer 1 bis 10, 12 und 13 sowie Absatz 2 des
+        Mindestlohngesetzes,
 
 
-    e)  nach § 23 Absatz 1 Nummer 1 bis 9 und 11 sowie Absatz 2 des
-        Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das
-        zuletzt durch Artikel 6 Absatz 40 des Gesetzes vom 13. April 2017
-        (BGBl. I S. 872) geändert worden ist;
+    e)  nach § 23 Absatz 1 Nummer 1 bis 11 und 13 sowie Absatz 2 des
+        Arbeitnehmer-Entsendegesetzes;
 
 
 
