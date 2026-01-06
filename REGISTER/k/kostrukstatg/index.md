@@ -16,42 +16,33 @@ Fundstelle
 :   BGBl I: 1959, 245
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.2.2021 I 266
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.12.2025 I Nr. 354
 
 
 ## § 1
 
 (1) In den Wirtschaftsbereichen „Arzt- und Zahnarztpraxen“ sowie
-„Praxen von psychologischen Psychotherapeutinnen und -therapeuten“
-werden jährlich Kostenstrukturerhebungen als Bundesstatistik
-durchgeführt. Die jährliche Durchführung der Erhebungen erfolgt
-erstmals für das Jahr 2021. Die Erhebungen erstrecken sich auf die
-folgenden Wirtschaftszweige nach Anhang I zur Verordnung (EG) Nr.
-1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember
-2006 zur Aufstellung der statistischen Systematik der
-Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung
-(EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über
-bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1),
-die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom
-25\.7.2019, S. 241) geändert worden ist, in der jeweils geltenden
-Fassung sowie in Verbindung mit der vom Statistischen Bundesamt daraus
-erstellten Klassifikation der Wirtschaftszweige in der jeweils
-geltenden Fassung:
+„Erbringung von Dienstleistungen von Psychotherapeutinnen und
+-therapeuten, klinischen und Gesundheitspsychologinnen und
+-psychologen, ohne ärztliche Therapien“ werden jährlich
+Kostenstrukturerhebungen als Bundesstatistik durchgeführt. Die
+Erhebungen erstrecken sich auf die folgenden Wirtschaftsklassen bzw.
+-unterklassen nach Anhang I der Verordnung (EG) Nr. 1893/2006 in
+Verbindung mit der vom Statistischen Bundesamt daraus erstellten
+Klassifikation der Wirtschaftszweige:
 
-1.  86.21.0 Arztpraxen für Allgemeinmedizin,
+1.  86.21.0 – Arztpraxen für Allgemeinmedizin,
 
 
-2.  86.22.0 Facharztpraxen,
+2.  86.22.0 – Facharztpraxen,
 
 
-3.  86.23.0 Zahnarztpraxen,
+3.  86.23.0 – Zahnarztpraxen,
 
 
-4.  86.90.1 Praxen von psychologischen Psychotherapeutinnen und
-    -therapeuten.
+4.  86.93.0 – Erbringung von Dienstleistungen von Psychotherapeutinnen und
+    -therapeuten, klinischen und Gesundheitspsychologinnen und
+    -psychologen, ohne ärztliche Therapien.
 
 
 
@@ -83,8 +74,7 @@ Tatbestände:
     a)  der steuerlichen und wirtschaftlichen Einnahmen,
 
 
-    b)  der Bruttoinvestitionen in Sachanlagen und immaterielle
-        Vermögensgegenstände;
+    b)  der Bruttoinvestitionen in Sachanlagen;
 
 
 
