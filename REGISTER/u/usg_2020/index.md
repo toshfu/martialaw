@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -42,18 +45,22 @@ Veranstaltungen nach § 81 des Soldatengesetzes anzuwenden.
 1.  Grundwehrdienst Leistende nach § 5 des Wehrpflichtgesetzes,
 
 
-2.  freiwilligen zusätzlichen Wehrdienst Leistende im Anschluss an den
-    Grundwehrdienst nach § 6b des Wehrpflichtgesetzes und
+2.  Wehrübende nach § 6 des Wehrpflichtgesetzes,
 
 
-3.  unbefristeten Wehrdienst Leistende nach § 4 Absatz 1 Nummer 7 des
+3.  freiwillig verlängerten Grundwehrdienst Leistende nach § 6a des
+    Wehrpflichtgesetzes und
+
+
+4.  unbefristeten Wehrdienst Leistende nach § 4 Absatz 1 Nummer 4 des
     Wehrpflichtgesetzes.
 
 
 
 
-(4) Im Spannungs- oder Verteidigungsfall sind die §§ 12 bis 17 nicht
-anzuwenden.
+(4) Im Spannungs- oder Verteidigungsfall sind die §§ 12 bis 17a nicht
+anzuwenden. Abweichend von § 25 Absatz 1 werden die Leistungen nach §
+19 von Amts wegen gewährt.
 
 
 ### § 2 Teilzeit
@@ -153,8 +160,12 @@ Leistungen, jeweils gemindert um die gesetzlichen Abzüge, angerechnet:
 
 2.  Ruhegehälter nach § 27 Absatz 1 des Soldatenversorgungsgesetzes
     einschließlich des Unterschiedsbetrags nach § 64 Absatz 1 Satz 2 und 3
-    des Soldatenversorgungsgesetzes, die der oder dem Reservistendienst
-    Leistenden weitergewährt werden.
+    des Soldatenversorgungsgesetzes sowie Ruhegehälter nach § 4 des
+    Beamtenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach
+    § 50 Absatz 1 Satz 2 und 3 des Beamtenversorgungsgesetzes und
+    Ruhegehälter nach den entsprechenden Vorschriften der
+    Beamtenversorgungsgesetze der Länder, die der oder dem
+    Reservistendienst Leistenden weitergewährt werden.
 
 
 
@@ -257,10 +268,11 @@ wirksam, wenn
 #### § 14 Dienstgeld
 
 Reservistendienst Leistende erhalten für Dienstleistungen an einem
-Samstag, einem Sonntag und einem gesetzlichen Feiertag sowie für eine
+Samstag, einem Sonntag oder einem gesetzlichen Feiertag sowie für eine
 eintägige Dienstleistung an einem Freitag eine zweite Prämie nach
-Spalte 2 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst
-geleistet wird, wird die zweite Prämie nicht gewährt.
+Spalte 3 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst
+geleistet wird, wird die zweite Prämie nicht gewährt. Satz 1 gilt
+nicht bei Anspruch auf den Auslandsverwendungszuschlag nach § 18.
 
 
 #### § 15 Zuschlag für herausgehobene Funktionen
@@ -285,7 +297,9 @@ Erschwerniszulage nach § 47 des Bundesbesoldungsgesetzes zusteht.
 
 (2) Der Zuschlag beträgt 70 Prozent der entsprechenden Zulage nach der
 auf Grund des § 47 des Bundesbesoldungsgesetzes erlassenen
-Rechtsverordnung.
+Rechtsverordnung. Abweichend von Satz 1 beträgt der Zuschlag 100
+Prozent, wenn dieser für Soldatinnen und Soldaten nicht
+steuerpflichtig ist.
 
 
 #### § 17 Zuschlag für besondere zeitliche Belastungen
@@ -300,6 +314,24 @@ wird.
 (2) Der Zuschlag beträgt 70 Prozent der Leistungen, die
 dienstgradgleichen Besoldungsempfängerinnen und Besoldungsempfängern
 gewährt werden.
+
+
+#### § 17a Zuschlag für Fahrtkosten
+
+Reservistendienst Leistende, die aus persönlichen oder dienstlichen
+Gründen von der Pflicht zum Wohnen in einer Gemeinschaftsunterkunft
+befreit sind und täglich von der Dienststätte zu ihrer Wohnung
+zurückkehren, erhalten pro Tag der Dienstleistung einen Zuschlag in
+Höhe von 20 Cent je Kilometer der mit einem privaten Kraftfahrzeug
+zurückgelegten Strecke der einfachen Entfernung zwischen Dienststätte
+und Wohnung. Der Zuschlag ist je Tag der Dienstleistung an der
+Dienststätte auf höchstens 20 Euro begrenzt. Entstandene Kosten für
+Fahrten auf dem Land- oder Wasserweg mit regelmäßig verkehrenden
+Beförderungsmitteln werden bis zur Höhe der niedrigsten
+Beförderungsklasse entsprechend Satz 2 erstattet. Ist die Wohnung auf
+einer üblicherweise befahrenen Strecke weniger als 30 Kilometer von
+der Dienststätte entfernt oder liegt sie im Dienstort, wird der
+Zuschlag nicht gewährt.
 
 
 #### § 18 Auslandsverwendungszuschlag
@@ -407,14 +439,17 @@ die §§ 3 und 4 der Trennungsgeldverordnung und im Ausland die §§ 7 und
 ## Kapitel 3 - Verfahren
 
 
-### § 24 (weggefallen)
+### § 24 Zuständigkeit
 
+Die Aufgaben dieses Gesetzes werden in bundeseigener Verwaltung
+durchgeführt und den Behörden der Bundeswehrverwaltung übertragen, die
+dem Bundesministerium der Verteidigung unterstehen.
 
 
 ### § 25 Antrag
 
-(1) Die Leistungen nach den §§ 5 bis 9, 14 und 19 werden auf Antrag
-gewährt.
+(1) Die Leistungen nach den §§ 5 bis 9, 14, 17a und 19 werden auf
+Antrag gewährt.
 
 (2) Das Antragsrecht endet mit Ablauf des sechsten Monats nach
 Beendigung des geleisteten Reservistendienstes.
@@ -526,11 +561,11 @@ Euro geahndet werden.
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für das
 Personalmanagement der Bundeswehr.
 
-(zu § 8)
+(zu § 8 Absatz 1)
 
 ### Anlage 1 Mindestleistung
 
-(Fundstelle: BGBl. I 2019, 1184)
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 16)
 
 
 *    *
@@ -553,57 +588,47 @@ Personalmanagement der Bundeswehr.
 
 *    *
     *
-    *   Reservistendienst
-        Leistende
-        ohne Kind
+    *   Reservistendienst Leistende oder Reservistendienst Leistender
 
-    *   Reservistendienst
-        Leistende
-        mit einem unter-
-        haltsberechtigten
-        Kind
 
-    *   Reservistendienst
-        Leistende
-        mit zwei unter-
-        haltsberechtigten
-        Kindern
+*    *
+    *
+    *   ohne unterhaltsberechtigtes Kind
 
-    *   Reservistendienst
-        Leistende
-        mit drei unter-
-        haltsberechtigten
-[^F807830_01_BJNR117900019BJNE003200000]
-        Kindern
+    *   mit einem unterhaltsberechtigten Kind
+
+    *   mit zwei unterhaltsberechtigten Kindern
+
+    *[^F835163_01_BJNR117900019BJNE003201311]
+   mit drei unterhaltsberechtigten Kindern
 
 
 *    *   1
 
-    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
-        Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzer-
-        funker, Schütze, Flieger, Sanitäts-
-        soldat, Matrose, Gefreiter
+    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier,
+        Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose,
+        Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker
 
-    *   65,60 €
+    *   76,85 €
 
-    *   77,16 €
+    *   89,52 €
 
-    *   81,17 €
+    *   93,90 €
 
-    *   91,60 €
+    *   105,34 €
 
 
 *    *   2
 
     *   Obergefreiter, Hauptgefreiter
 
-    *   66,69 €
+    *   78,04 €
 
-    *   78,42 €
+    *   90,88 €
 
-    *   82,26 €
+    *   95,10 €
 
-    *   92,47 €
+    *   106,29 €
 
 
 *    *   3
@@ -611,26 +636,26 @@ Personalmanagement der Bundeswehr.
     *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker,
         Seekadett
 
-    *   67,10 €
+    *   78,48 €
 
-    *   78,87 €
+    *   91,39 €
 
-    *   82,54 €
+    *   95,40 €
 
-    *   92,61 €
+    *   106,44 €
 
 
 *    *   4
 
-    *   Stabsunteroffizier, Obermaat
+    *   Stabsunteroffizier, Obermaat, Korporal, Stabskorporal
 
-    *   68,77 €
+    *   80,31 €
 
-    *   80,61 €
+    *   93,29 €
 
-    *   83,77 €
+    *   96,76 €
 
-    *   93,35 €
+    *   107,26 €
 
 
 *    *   5
@@ -638,26 +663,26 @@ Personalmanagement der Bundeswehr.
     *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel,
         Oberbootsmann
 
-    *   70,99 €
+    *   82,74 €
 
-    *   83,12 €
+    *   96,04 €
 
-    *   86,25 €
+    *   99,48 €
 
-    *   95,75 €
+    *   109,89 €
 
 
 *    *   6
 
     *   Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See
 
-    *   74,27 €
+    *   86,35 €
 
-    *   86,81 €
+    *   100,09 €
 
-    *   89,87 €
+    *   103,44 €
 
-    *   99,33 €
+    *   113,81 €
 
 
 *    *   7
@@ -665,111 +690,110 @@ Personalmanagement der Bundeswehr.
     *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel,
         Oberstabsbootsmann, Leutnant, Leutnant zur See
 
-    *   79,12 €
+    *   91,66 €
 
-    *   92,47 €
+    *   106,29 €
 
-    *   95,50 €
+    *   109,62 €
 
-    *   104,87 €
+    *   119,88 €
 
 
 *    *   8
 
     *   Oberleutnant, Oberleutnant zur See
 
-    *   83,76 €
+    *   96,75 €
 
-    *   97,45 €
+    *   111,74 €
 
-    *   100,66 €
+    *   115,27 €
 
-    *   109,76 €
+    *   125,24 €
 
 
 *    *   9
 
     *   Hauptmann, Kapitänleutnant
 
-    *   92,96 €
+    *   106,84 €
 
-    *   107,81 €
+    *   123,11 €
 
-    *   110,90 €
+    *   126,51 €
 
-    *   120,08 €
+    *   136,56 €
 
 
 *    *   10
 
-    *   Stabshauptmann, Stabskapitän-
-        leutnant, Major, Korvettenkapitän, Stabsapotheker, Stabsarzt,
-        Stabsveterinär
+    *   Stabsarzt, Stabsapotheker, Stabsveterinär, Stabshauptmann,
+        Stabskapitänleutnant, Major, Korvettenkapitän
 
-    *   110,78 €
+    *   126,36 €
 
-    *   128,12 €
+    *   145,38 €
 
-    *   131,25 €
+    *   148,81 €
 
-    *   140,46 €
+    *   158,91 €
 
 
 *    *   11
 
-    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabs-
-        arzt, Oberstabsveterinär
+    *   Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär, Oberstleutnant,
+        Fregattenkapitän
 
-    *   113,16 €
+    *   128,97 €
 
-    *   130,91 €
+    *   148,44 €
 
-    *   134,06 €
+    *   151,90 €
 
-    *   143,06 €
+    *   161,76 €
 
 
 *    *   12
 
-    *   Oberfeldapotheker, Flottillenapo-
-        theker, Oberfeldarzt, Flottillenarzt, Oberfeldveterinär
+    *   Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker,
+        Oberfeldveterinär
 
-    *   131,40 €
+    *   148,97 €
 
-    *   153,03 €
+    *   172,69 €
 
-    *   156,09 €
+    *   176,03 €
 
-    *   164,78 €
+    *   185,57 €
 
 
 *    *   13
 
-    *   Oberst, Kapitän zur See, Oberst-
-        apotheker, Flottenapotheker, Oberstarzt, Flottenarzt, Oberstveterinär
-        und höhere Dienstgrade
+    *   Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstapotheker,
+        Flottenapotheker, Oberstveterinär und höhere Dienstgrade
 
-    *   141,51 €
+    *   160,07 €
 
-    *   165,20 €
+    *   186,02 €
 
-    *   168,22 €
+    *   189,34 €
 
-    *   176,77 €
-
+    *   189,70 €
 
 
-_\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+
+
+_\_\__\_\__\_\__
 
     Bei mehr als drei unterhaltsberechtigten Kindern wird der Tagessatz
     für jedes weitere Kind um die Differenz zwischen den Tagessätzen nach
     den Spalten 4 und 5 erhöht.
-[^F807830_01_BJNR117900019BJNE003200000]: 
-(zu den §§ 11, 14 und 19)
+[^F835163_01_BJNR117900019BJNE003201311]: 
+(zu den §§ 11, 14 und 19 Absatz 2)
 
 ### Anlage 2 Prämie, Dienstgeld, Auslandszuschlag
 
-(Fundstelle: BGBl. I 2019, 1185)
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 17)
 
 
 *    *
@@ -784,20 +808,28 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
     *   3
 
+    *   4
+
 
 *    *
     *   Dienstgrad
 
-    *   Prämie nach § 11
+    *   Prämie
+        nach § 11
+
+    *   Prämie
+        nach § 14
 
     *   Auslandszuschlag nach § 19
 
 
 *    *   1
 
-    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
-        Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker,
-        Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter
+    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier,
+        Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose,
+        Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker
+
+    *   23,53 €
 
     *   18,82 €
 
@@ -807,6 +839,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 *    *   2
 
     *   Obergefreiter, Hauptgefreiter
+
+    *   25,84 €
 
     *   20,67 €
 
@@ -818,6 +852,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
     *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker,
         Seekadett
 
+    *   26,99 €
+
     *   21,59 €
 
     *   13,25 €
@@ -825,7 +861,9 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
 *    *   4
 
-    *   Stabsunteroffizier, Obermaat
+    *   Stabsunteroffizier, Obermaat, Korporal, Stabskorporal
+
+    *   29,31 €
 
     *   23,45 €
 
@@ -837,6 +875,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
     *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel,
         Oberbootsmann
 
+    *   30,08 €
+
     *   24,06 €
 
     *   13,76 €
@@ -845,6 +885,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 *    *   6
 
     *   Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See
+
+    *   30,48 €
 
     *   24,38 €
 
@@ -856,6 +898,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
     *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel,
         Oberstabsbootsmann, Leutnant, Leutnant zur See
 
+    *   30,85 €
+
     *   24,68 €
 
     *   14,27 €
@@ -864,6 +908,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 *    *   8
 
     *   Oberleutnant, Oberleutnant zur See
+
+    *   31,61 €
 
     *   25,29 €
 
@@ -874,6 +920,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
     *   Hauptmann, Kapitänleutnant
 
+    *   32,39 €
+
     *   25,91 €
 
     *   15,29 €
@@ -881,8 +929,10 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
 *    *   10
 
-    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän,
-        Stabsapotheker, Stabsarzt, Stabsveterinär
+    *   Stabsarzt, Stabsapotheker, Stabsveterinär, Stabshauptmann,
+        Stabskapitänleutnant, Major, Korvettenkapitän
+
+    *   33,15 €
 
     *   26,52 €
 
@@ -891,8 +941,10 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
 *    *   11
 
-    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt,
-        Oberstabsveterinär
+    *   Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär, Oberstleutnant,
+        Fregattenkapitän
+
+    *   33,94 €
 
     *   27,15 €
 
@@ -901,8 +953,10 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
 *    *   12
 
-    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt,
+    *   Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker,
         Oberfeldveterinär
+
+    *   34,71 €
 
     *   27,77 €
 
@@ -911,8 +965,10 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
 *    *   13
 
-    *   Oberst, Kapitän zur See, Oberstapotheker, Flottenapotheker,
-        Oberstarzt, Flottenarzt, Oberstveterinär und höhere Dienstgrade
+    *   Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstabsapotheker,
+        Flottenapotheker, Oberstveterinär und höhere Dienstgrade
+
+    *   36,25 €
 
     *   29,00 €
 
