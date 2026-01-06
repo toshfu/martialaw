@@ -1178,10 +1178,10 @@ Kommission nach Artikel 55 Absatz 4 Unterabsatz 2 Buchstabe b der
 Richtlinie 2010/63/EU widerrufen wird.
 
 (2) Erteilt die zuständige Behörde eine Genehmigung nach Absatz 1, so
-hat sie dies dem Bundesministerium für Ernährung und Landwirtschaft
-(Bundesministerium) unverzüglich mitzuteilen. Die Mitteilung nach Satz
-1 enthält eine ausführliche Begründung für die Entscheidung der
-zuständigen Behörde im Hinblick auf das Vorliegen der jeweiligen
+hat sie dies dem Bundesministerium für Landwirtschaft, Ernährung und
+Heimat (Bundesministerium) unverzüglich mitzuteilen. Die Mitteilung
+nach Satz 1 enthält eine ausführliche Begründung für die Entscheidung
+der zuständigen Behörde im Hinblick auf das Vorliegen der jeweiligen
 Genehmigungsvoraussetzungen. Das Bundesministerium unterrichtet nach
 Eingang der Mitteilung nach Satz 1 die Europäische Kommission nach
 Artikel 55 Absatz 4 Unterabsatz 1 der Richtlinie 2010/63/EU auf der
@@ -1540,11 +1540,11 @@ nicht überschreitet und sofern seit der erstmaligen Erteilung oder
 ersten Verlängerung der Genehmigung keine Änderungen des genehmigten
 Versuchsvorhabens oder nur solche Änderungen eingetreten sind, die
 
-1.  nach § 34 Absatz 2 Satz 1 oder Absatz 3 Satz 1 angezeigt und von der
-    zuständigen Behörde nicht beanstandet oder
+1.  nach § 34 Absatz 1 Satz 1 genehmigt oder
 
 
-2.  nach § 34 Absatz 3 genehmigt
+2.  nach § 34 Absatz 2 Satz 1 oder Absatz 3 Satz 1 angezeigt und von der
+    zuständigen Behörde nicht beanstandet
 
 
 
@@ -1739,12 +1739,12 @@ Verlängerung der Genehmigung im vereinfachten Genehmigungsverfahren
 
 2.  nur solche Änderungen eingetreten sind, die
 
-    a)  nach § 37 Absatz 2 Satz 1 in Verbindung mit § 34 Absatz 1 genehmigt
-        worden sind oder
+    a)  nach § 37 Absatz 2 in Verbindung mit § 34 Absatz 1 genehmigt worden
+        sind oder
 
 
-    b)  nach § 37 Absatz 2 Satz 2 angezeigt und von der zuständigen Behörde
-        nicht beanstandet worden sind.
+    b)  nach § 34 Absatz 2 Satz 1 oder Absatz 3 Satz 1 angezeigt und von der
+        zuständigen Behörde nicht beanstandet worden sind.
 
 
 
