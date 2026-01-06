@@ -20,7 +20,10 @@ Zuletzt geändert durch
 :   Art. 8 Abs. 1 G v. 23.12.2024 I Nr. 449
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 363 noch nicht berücksichtigt
+:   Art. 9 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
 
 
 ## Inhaltsverzeichnis
@@ -6014,9 +6017,9 @@ Nicht zum Einkommen gehören
 
 
 8.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
-    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
-    Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in
-    Höhe von 3 000 Euro kalenderjährlich nicht überschreiten,
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, kalenderjährlich bis zur Höhe
+    des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 
 9.  einmalige Einnahmen aus Erbschaften, Vermächtnissen und
@@ -8795,6 +8798,21 @@ des Zehnten Buches zu.
     *   357
 
 
+*    *   1. Januar 2026
+
+    *   563
+
+    *   506
+
+    *   451
+
+    *   471
+
+    *   390
+
+    *   357
+
+
 
 
 Regelbedarfsstufe 1:
@@ -8894,6 +8912,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   2025
+
+    *   130 Euro
+
+    *   65 Euro
+
+
+*    *   2026
 
     *   130 Euro
 
