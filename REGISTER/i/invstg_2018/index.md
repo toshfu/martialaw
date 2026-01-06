@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 11 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 7 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
@@ -2046,7 +2046,9 @@ Investmentfonds entsprechend § 2 Absatz 2 Satz 1 Nummer 2 und § 23
 Absatz 3 des Einkommensteuergesetzes und gliedert sie nach den
 steuerlichen Wirkungen beim Anleger. Dabei sind insbesondere die
 Einkünfte gesondert auszuweisen, bei denen beim Anleger die Regelungen
-nach den §§ 42 bis 47 zur Anwendung kommen.
+nach den §§ 42 bis 47 zur Anwendung kommen. Hinzurechnungsbeträge nach
+§ 10 des Außensteuergesetzes sind nicht in die Ermittlung der
+Einkünfte nach Satz 1 einzubeziehen.
 
 (2) Spezial-Investmenterträge, die einem Dach-Spezial-Investmentfonds
 zufließen oder die als zugeflossen gelten, sind nach der Art der
@@ -2284,7 +2286,7 @@ ausgeschütteten oder ausschüttungsgleichen Erträge steuerfrei. Absatz
 4 Satz 2 ist entsprechend anzuwenden.
 
 
-#### § 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung, der Hinzurechnungsbesteuerung und der Teilfreistellung
+#### § 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung und der Teilfreistellung
 
 (1) Die ausgeschütteten und ausschüttungsgleichen Erträge sind bei der
 Veranlagung des Anlegers insoweit von der Bemessungsgrundlage der
@@ -3403,4 +3405,8 @@ nach dem 31. Dezember 2024 beginnen.
 
 
 
+
+(11) § 37 Absatz 1 Satz 3 in der Fassung des Artikels 7 des Gesetzes
+vom 22. Dezember 2025 (BGBl. 2025 I Nr. 353) ist erstmals anzuwenden
+für Geschäftsjahre, die nach dem 23. Dezember 2025 beginnen.
 
