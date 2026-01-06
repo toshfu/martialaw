@@ -7742,7 +7742,7 @@ Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394
 geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist das Umweltbundesamt.
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 #### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen
