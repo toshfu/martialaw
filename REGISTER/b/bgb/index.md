@@ -321,7 +321,7 @@ zufügt.
 ###### § 31a Haftung von Organmitgliedern und besonderen Vertretern
 
 (1) Sind Organmitglieder oder besondere Vertreter unentgeltlich tätig
-oder erhalten sie für ihre Tätigkeit eine Vergütung, die 840 Euro
+oder erhalten sie für ihre Tätigkeit eine Vergütung, die 3 300 Euro
 jährlich nicht übersteigt, haften sie dem Verein für einen bei der
 Wahrnehmung ihrer Pflichten verursachten Schaden nur bei Vorliegen von
 Vorsatz oder grober Fahrlässigkeit. Satz 1 gilt auch für die Haftung
@@ -341,11 +341,11 @@ wurde.
 ###### § 31b Haftung von Vereinsmitgliedern
 
 (1) Sind Vereinsmitglieder unentgeltlich für den Verein tätig oder
-erhalten sie für ihre Tätigkeit eine Vergütung, die 840 Euro jährlich
-nicht übersteigt, haften sie dem Verein für einen Schaden, den sie bei
-der Wahrnehmung der ihnen übertragenen satzungsgemäßen Vereinsaufgaben
-verursachen, nur bei Vorliegen von Vorsatz oder grober Fahrlässigkeit.
-§ 31a Absatz 1 Satz 3 ist entsprechend anzuwenden.
+erhalten sie für ihre Tätigkeit eine Vergütung, die 3 300 Euro
+jährlich nicht übersteigt, haften sie dem Verein für einen Schaden,
+den sie bei der Wahrnehmung der ihnen übertragenen satzungsgemäßen
+Vereinsaufgaben verursachen, nur bei Vorliegen von Vorsatz oder grober
+Fahrlässigkeit. § 31a Absatz 1 Satz 3 ist entsprechend anzuwenden.
 
 (2) Sind Vereinsmitglieder nach Absatz 1 Satz 1 einem anderen zum
 Ersatz eines Schadens verpflichtet, den sie bei der Wahrnehmung der
@@ -32961,7 +32961,8 @@ für die Dauer des Umgangs dessen Aufenthalt zu bestimmen. Die
 Anordnung ist zu befristen. Für den Ersatz von Aufwendungen und die
 Vergütung des Umgangspflegers gilt § 277 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend.
+freiwilligen Gerichtsbarkeit, auch in Verbindung mit § 17 des
+Vormünder- und Betreuervergütungsgesetzes, entsprechend.
 
 (4) Das Familiengericht kann das Umgangsrecht oder den Vollzug
 früherer Entscheidungen über das Umgangsrecht einschränken oder
@@ -34788,7 +34789,7 @@ gemäß § 1773 nicht mehr gegeben sind.
 ###### § 1807 Vermögensherausgabe, Schlussrechnungslegung und Fortführung der Geschäfte
 
 Bei Beendigung der Vormundschaft finden die §§ 1872 bis 1874 mit der
-Maßgabe entsprechende Anwendung, dass § 1872 Absatz 5 für Vormünder
+Maßgabe entsprechende Anwendung, dass § 1872 Absatz 4 für Vormünder
 gilt, die bei Beendigung ihres Amtes gemäß § 1801 Absatz 1 und 3
 befreit waren.
 
@@ -36441,13 +36442,13 @@ Sachverhalten zu enthalten:
 
 
 
-(4) Nach Beendigung der Betreuung hat der Betreuer einen
+(4) Bei einem Wechsel des Betreuers hat der bisherige Betreuer einen
 abschließenden Bericht (Schlussbericht) zu erstellen, in dem die seit
 dem letzten Jahresbericht eingetretenen Änderungen der persönlichen
-Verhältnisse mitzuteilen sind. Der Schlussbericht ist dem
-Betreuungsgericht zu übersenden. Er hat Angaben zur Herausgabe des der
-Verwaltung des Betreuers unterliegenden Vermögens des Betreuten und
-aller im Rahmen der Betreuung erlangten Unterlagen zu enthalten.
+Verhältnisse mitzuteilen sind. Der Schlussbericht hat Angaben zu den
+Sachverhalten nach Absatz 3 Satz 3 Nummer 1, 2 und 5 sowie über die
+Erfüllung der Herausgabepflicht nach § 1872 Absatz 3 Satz 1 zu
+enthalten. Der Schlussbericht ist dem Betreuungsgericht zu übersenden.
 
 
 ###### § 1864 Auskunfts- und Mitteilungspflichten des Betreuers
@@ -36609,63 +36610,48 @@ gelten hierfür entsprechend.
 entsprechend.
 
 
-###### § 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung
+###### § 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung; Vermögensübersicht
 
 (1) Endet die Betreuung, hat der Betreuer das seiner Verwaltung
 unterliegende Vermögen und alle im Rahmen der Betreuung erlangten
 Unterlagen an den Betreuten, dessen Erben oder sonstigen Berechtigten
-herauszugeben.
+herauszugeben und auf deren Verlangen über die Verwaltung Rechenschaft
+abzulegen.
 
-(2) Eine Schlussrechnung über die Vermögensverwaltung hat der Betreuer
-nur zu erstellen, wenn der Berechtigte nach Absatz 1 dies verlangt.
-Auf dieses Recht ist der Berechtigte durch den Betreuer vor Herausgabe
-der Unterlagen hinzuweisen. Die Frist zur Geltendmachung des Anspruchs
-beträgt sechs Wochen nach Zugang des Hinweises. Der Berechtigte hat
-dem Betreuungsgericht sein Verlangen gegenüber dem Betreuer
-mitzuteilen.
+(2) Der Betreuer hat nach Beendigung der Betreuung eine
+Vermögensübersicht mit der Versicherung der Richtigkeit und
+Vollständigkeit beim Betreuungsgericht einzureichen. Die
+Vermögensübersicht soll auch Angaben zu den regelmäßigen Einnahmen und
+Ausgaben des Betreuten enthalten.
 
-(3) Ist der Betreute sechs Monate nach Ende der Betreuung unbekannten
-Aufenthalts oder sind dessen Erben nach Ablauf dieser Frist unbekannt
-oder unbekannten Aufenthalts und ist auch kein sonstiger Berechtigter
-vorhanden, hat der Betreuer abweichend von Absatz 2 eine
-Schlussrechnung zu erstellen.
-
-(4) Bei einem Wechsel des Betreuers hat der bisherige Betreuer das
+(3) Bei einem Wechsel des Betreuers hat der bisherige Betreuer das
 seiner Verwaltung unterliegende Vermögen und alle im Rahmen der
 Betreuung erlangten Unterlagen an den neuen Betreuer herauszugeben.
 Über die Verwaltung seit der letzten beim Betreuungsgericht
 eingereichten Rechnungslegung hat er Rechenschaft durch eine
-Schlussrechnung abzulegen.
+Schlussrechnung abzulegen. Die Schlussrechnung ist beim
+Betreuungsgericht einzureichen.
 
-(5) War der Betreuer bei Beendigung seines Amtes gemäß § 1859 befreit,
-genügt zur Erfüllung der Verpflichtungen aus den Absätzen 2 und 4 Satz
-2 die Erstellung einer Vermögensübersicht mit einer Übersicht über die
-Einnahmen und Ausgaben seit der letzten Vermögensübersicht. Die
-Richtigkeit und Vollständigkeit der Vermögensübersicht ist an Eides
-statt zu versichern.
+(4) War der Betreuer bei Beendigung seines Amtes gemäß § 1859 befreit,
+genügt zur Erfüllung der Verpflichtung aus Absatz 3 Satz 2 die
+Erstellung einer Vermögensübersicht nach Absatz 2.
 
 
-###### § 1873 Rechnungsprüfung
+###### § 1873 Schlussmitteilung; Rechnungsprüfung
 
-(1) Der Betreuer hat eine nach § 1872 von ihm zu erstellende
-Schlussrechnung oder Vermögensübersicht beim Betreuungsgericht
-einzureichen. Das Betreuungsgericht übersendet diese an den
-Berechtigten, soweit dieser bekannt ist oder rechtlich vertreten wird
-und kein Fall des § 1872 Absatz 3 vorliegt.
+(1) Nach Beendigung der Betreuung hat der Betreuer dem
+Betreuungsgericht eine Schlussmitteilung mit Angaben zur Herausgabe
+des der Verwaltung des Betreuers unterliegenden Vermögens des
+Betreuten und aller im Rahmen der Betreuung erlangten Unterlagen zu
+übersenden. Sollte der Betreuer nach Beendigung der Betreuung gemäß §
+1874 tätig geworden sein, hat die Mitteilung auch Angaben zu den nach
+Beendigung der Betreuung besorgten Angelegenheiten zu enthalten.
 
-(2) Das Betreuungsgericht hat die Schlussrechnung oder die
-Vermögensübersicht sachlich und rechnerisch zu prüfen und, soweit
-erforderlich, ihre Ergänzung herbeizuführen. Das Betreuungsgericht
-übersendet das Ergebnis seiner Prüfung nach Satz 1 an den
-Berechtigten.
-
-(3) Endet die Betreuung und liegt kein Fall des § 1872 Absatz 3 vor,
-so gilt Absatz 2 nur dann, wenn der Berechtigte binnen sechs Wochen
-nach Zugang der Schlussrechnung oder der Vermögensübersicht deren
-Prüfung verlangt. Über dieses Recht ist der Berechtigte bei der
-Übersendung nach Absatz 1 Satz 2 zu belehren. Nach Ablauf der Frist
-kann eine Prüfung durch das Betreuungsgericht nicht mehr verlangt
-werden.
+(2) Liegt ein Fall des § 1872 Absatz 3 vor, hat das Betreuungsgericht
+die Schlussrechnung oder die Vermögensübersicht sachlich und
+rechnerisch zu prüfen und, soweit erforderlich, ihre Ergänzung
+herbeizuführen. Das Betreuungsgericht übersendet das Ergebnis seiner
+Prüfung nach Satz 1 an den neuen Betreuer.
 
 
 ###### § 1874 Besorgung der Angelegenheiten des Betreuten nach Beendigung der Betreuung
@@ -36758,7 +36744,7 @@ zu beziffern.
 (1) Zur Abgeltung seines Anspruchs auf Aufwendungsersatz kann der
 Betreuer für die Führung jeder Betreuung, für die er keine Vergütung
 erhält, vom Betreuten einen pauschalen Geldbetrag verlangen
-(Aufwandspauschale). Dieser entspricht für ein Jahr dem 17fachen
+(Aufwandspauschale). Dieser entspricht für ein Jahr dem 18fachen
 dessen, was einem Zeugen als Höchstbetrag der Entschädigung für eine
 Stunde versäumter Arbeitszeit (§ 22 des Justizvergütungs- und
 -entschädigungsgesetzes) gewährt werden kann. Hat der Betreuer für
@@ -36767,9 +36753,9 @@ verringert sich die Aufwandspauschale entsprechend.
 
 (2) Sind mehrere Betreuer bestellt, kann jeder Betreuer den Anspruch
 auf Aufwandspauschale geltend machen. In den Fällen der Bestellung
-eines Verhinderungsbetreuers nach § 1817 Absatz 4 kann jeder Betreuer
-den Anspruch auf Aufwandspauschale nur für den Zeitraum geltend
-machen, in dem er tatsächlich tätig geworden ist.
+eines Verhinderungsbetreuers nach § 1817 Absatz 4 kann dieser den
+Anspruch auf Aufwandspauschale nur für den Zeitraum geltend machen, in
+dem er tatsächlich tätig geworden ist.
 
 (3) Die Aufwandspauschale ist jährlich zu zahlen, erstmals ein Jahr
 nach Bestellung des Betreuers. Endet das Amt des Betreuers, ist die
