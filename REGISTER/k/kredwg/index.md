@@ -4818,7 +4818,9 @@ nicht vor, wenn Tatsachen weitergegeben werden an
     Systemrisiken,
 
 
-19. die Bundesanstalt für Finanzmarktstabilisierung, das Gremium zum
+19. die Bundesrepublik Deutschland – Finanzagentur GmbH in ihrer Funktion
+    als Verwalterin des Finanzmarktstabilisierungsfonds nach § 3a Absatz 2
+    und 2a des Stabilisierungsfondsgesetzes, das Gremium zum
     Finanzmarktstabilisierungsfonds im Sinne des § 10a Absatz 1 des
     Stabilisierungsfondsgesetzes oder den Lenkungsausschuss im Sinne des §
     4 Absatz 1 Satz 2 des Stabilisierungsfondsgesetzes,
