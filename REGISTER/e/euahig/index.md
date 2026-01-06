@@ -20,10 +20,10 @@ Zuletzt geändert durch
 :   Art. 31 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^BJNR180910013_01]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2011/16/EU des
     Rates vom 15. Februar 2011 über die Zusammenarbeit der
@@ -141,9 +141,25 @@ eine Vereinbarung, eine Mitteilung oder eine andere Maßnahme mit
     betrifft,
 
 
-4.  sich auf eine grenzüberschreitende Transaktion oder auf die Frage
-    bezieht, ob durch die Tätigkeiten, denen eine Person nicht im Inland
-    nachgeht, eine Betriebstätte begründet wird oder nicht, und
+4.  sich bezieht auf
+
+    a)  eine grenzüberschreitende Transaktion oder
+
+
+    b)  die Frage, ob
+
+        aa) durch die Tätigkeiten, denen eine Person nicht im Inland nachgeht,
+            eine Betriebsstätte begründet wird oder
+
+
+        bb) eine natürliche Person in dem Mitgliedstaat, der den Vorbescheid
+            erteilt, steuerlich ansässig ist oder nicht, und
+
+
+
+
+
+
 
 
 5.  vor den Transaktionen oder den Tätigkeiten im Ausland, die
@@ -282,6 +298,23 @@ Sachverhalt aufzuklären, und die ausgeübt werden
 
 
 
+(14) Dividenden von Unternehmen, deren Anteile nicht in einem
+Bankdepotkonto verwahrt werden, sind Dividenden oder sonstige als
+Dividenden behandelte Einkünfte, die auf ein anderes Konto als ein
+Verwahrkonto im Sinne von § 19 Nummer 26 des Gesetzes zum
+automatischen Austausch von Informationen über Finanzkonten in
+Steuersachen eingezahlt oder diesem gutgeschrieben werden.
+
+(15) Lebensversicherungsprodukte im Sinne dieses Gesetzes sind
+Versicherungsverträge im Sinne von § 19 Nummer 28 des Gesetzes zum
+automatischen Austausch von Informationen über Finanzkonten in
+Steuersachen mit Ausnahme von gemäß § 8 des Gesetzes zum automatischen
+Austausch von Informationen über Finanzkonten in Steuersachen
+meldepflichtigen rückkaufsfähigen Versicherungsverträgen im Sinne von
+§ 19 Nummer 30 des Gesetzes zum automatischen Austausch von
+Informationen über Finanzkonten in Steuersachen, bei denen Leistungen
+aus den Verträgen im Todesfall eines Versicherungsnehmers zu zahlen
+sind.
 
 
 ### § 3 Zuständigkeit und Prüfungsbefugnisse
@@ -348,17 +381,20 @@ erforderlich ist zur Anwendung und Durchsetzung
 
 2.  des Gesetzes zum automatischen Austausch von Informationen über
     Finanzkonten in Steuersachen in Bezug auf den automatischen Austausch
-    von Informationen nach § 1 Absatz 1 Nummer 1 des Gesetzes zum
+    von Informationen nach § 1 Absatz 1 Nummer 1 des Gesetzes zum
     automatischen Austausch von Informationen über Finanzkonten in
-    Steuersachen oder
+    Steuersachen;
 
 
-3.  des Plattformen-Steuertransparenzgesetzes.
+3.  des Plattformen-Steuertransparenzgesetzes oder
+
+
+4.  des Kryptowerte-Steuertransparenz-Gesetzes.
 
 
 
 Ist eine andere Finanzbehörde für die Anwendung und Durchsetzung der
-in Satz 1 Nummer 1 bis 3 genannten Gesetze zuständig, darf auch diese
+in Satz 1 Nummer 1 bis 4 genannten Gesetze zuständig, darf auch diese
 ein Ersuchen nach Satz 1 stellen.
 
 (2) § 93 Absatz 9 der Abgabenordnung findet mit der Maßgabe Anwendung,
@@ -585,8 +621,8 @@ mitteilen:
 
 (1) Das zentrale Verbindungsbüro übermittelt an andere Mitgliedstaaten
 systematisch auf elektronischem Weg, ohne vorheriges Ersuchen, alle
-verfügbaren Informationen über in anderen Mitgliedstaaten ansässige
-Personen zu
+verfügbaren Informationen zu in anderen Mitgliedstaaten ansässigen
+Personen über
 
 1.  Vergütungen aus unselbständiger Arbeit,
 
@@ -594,18 +630,22 @@ Personen zu
 2.  Aufsichtsrats- oder Verwaltungsratsvergütungen,
 
 
-3.  Lebensversicherungsprodukten, die nicht von anderen Rechtsakten der
-    Europäischen Union über den Austausch von Informationen oder
-    vergleichbaren Maßnahmen erfasst sind,
+3.  Einkünfte aus Lebensversicherungsprodukten,
 
 
-4.  Ruhegehältern, Renten und ähnlichen Zahlungen,
+4.  Ruhegehälter, Renten und ähnliche Zahlungen,
 
 
-5.  Eigentum an unbeweglichem Vermögen und Einkünften daraus und
+5.  Eigentum an unbeweglichem Vermögen und Einkünfte daraus,
 
 
-6.  Lizenzgebühren.
+6.  Lizenzgebühren und
+
+
+7.  Dividenden von Unternehmen, deren Anteile nicht in einem
+    Bankdepotkonto verwahrt werden, wenn es sich nicht um Einkünfte aus
+    Dividenden handelt, die gemäß Artikel 4, 5 oder 6 der Richtlinie
+    2011/96/EU                    von der Körperschaftsteuer befreit sind.
 
 
 
@@ -614,7 +654,7 @@ Teilsatz bei der Übermittlung der Informationen nach Satz 1 die
 Steueridentifikationsnummern übermitteln, die den in anderen
 Mitgliedstaaten ansässigen Personen durch die jeweiligen
 Mitgliedstaaten zugewiesen worden sind. Das zentrale Verbindungsbüro
-nimmt Informationen im Sinne von Satz 1 Nummer 1 bis 6, die ihm von
+nimmt Informationen im Sinne von Satz 1 Nummer 1 bis 7, die ihm von
 anderen Mitgliedstaaten systematisch auf elektronischem Weg, ohne
 vorheriges Ersuchen übermittelt wurden, entgegen, speichert sie und
 leitet sie zur Durchführung des Besteuerungsverfahrens nach Maßgabe
@@ -713,13 +753,41 @@ ausgetauscht.
 (6) Die Absätze 3 und 4 gelten nicht in Fällen, in denen ein
 grenzüberschreitender Vorbescheid ausschließlich die
 Steuerangelegenheiten einer oder mehrerer natürlicher Personen
-betrifft.
+betrifft, es sei denn, der grenzüberschreitende Vorbescheid wurde nach
+dem 1. Januar 2026 erteilt, geändert oder erneuert und
+
+1.  der Betrag der Transaktion oder der Reihe von Transaktionen des
+    grenzüberschreitenden Vorbescheids übersteigt 1 500 000 Euro, sofern
+    der Betrag der Transaktion im grenzüberschreitenden Vorbescheid
+    angegeben ist, oder
+
+
+2.  in dem grenzüberschreitenden Vorbescheid wird festgestellt, ob eine
+    Person in dem Mitgliedstaat, der den Vorbescheid erteilt, steuerlich
+    ansässig ist oder nicht.
+
+
+
+Für die Zwecke des Satzes 1 Nummer 1 umfasst der Betrag des
+grenzüberschreitenden Vorbescheids im Falle einer Reihe von
+Transaktionen, die verschiedene Waren, Dienstleistungen oder
+Vermögenswerte betrifft, unabhängig von dem im grenzüberschreitenden
+Vorbescheid genannten Betrag, den zugrunde liegenden Gesamtwert. Die
+Beträge werden nicht aggregiert, wenn dieselben Waren,
+Dienstleistungen oder Vermögenswerte Gegenstand mehrerer Transaktionen
+sind. Entgegen Satz 1 Nummer 2 schließt der Austausch von
+Informationen über grenzüberschreitende Vorbescheide, die natürliche
+Personen betreffen, keine Vorbescheide über die Quellenbesteuerung in
+Bezug auf Einkünfte Gebietsfremder aus unselbständiger Arbeit,
+Aufsichtsrats- oder Verwaltungsratsvergütungen oder Ruhegehälter ein.
 
 (7) Die vom zentralen Verbindungsbüro gemäß den Absätzen 3 und 4 zu
 übermittelnden Informationen müssen Folgendes enthalten:
 
-1.  Angaben zu der Person, mit Ausnahme von natürlichen Personen, und
-    gegebenenfalls Angaben zu der Gruppe von Personen, der sie angehört;
+1.  Angaben zu der Person und gegebenenfalls zu der Gruppe von Personen,
+    der sie angehört; dies gilt nicht für natürliche Personen, es sei
+    denn, der grenzüberschreitende Vorbescheid betrifft eine natürliche
+    Person und wird nach den Absätzen 3 und 6 übermittelt;
 
 
 2.  eine Zusammenfassung des Inhalts des grenzüberschreitenden
@@ -782,11 +850,13 @@ betrifft.
 
 
 11. gegebenenfalls Identifizierungsangaben zu allen Personen in den
-    anderen Mitgliedstaaten, mit Ausnahme von natürlichen Personen, die
-    wahrscheinlich von dem grenzüberschreitenden Vorbescheid oder der
-    Vorabverständigung über die Verrechnungspreisgestaltung betroffen
-    sind, sowie Angaben dazu, zu welchen Mitgliedstaaten die betreffenden
-    Personen in Beziehung stehen, und
+    anderen Mitgliedstaaten, die wahrscheinlich von dem
+    grenzüberschreitenden Vorbescheid oder der Vorabverständigung über die
+    Verrechnungspreisgestaltung betroffen sind, sowie Angaben dazu, zu
+    welchen Mitgliedstaaten die betreffenden Personen in Beziehung stehen;
+    dies gilt nicht für natürliche Personen, es sei denn, der
+    grenzüberschreitende Vorbescheid wird nach den Absätzen 3 und 6
+    übermittelt, und
 
 
 12. Angaben dazu, ob die übermittelten Informationen
@@ -813,7 +883,7 @@ Amtshilferichtlinie vorgesehenen ist. Ab dem Zeitpunkt seiner
 Bereitstellung ist das Zentralverzeichnis der Mitgliedstaaten gemäß
 Artikel 21 Absatz 5 der Amtshilferichtlinie zu nutzen.
 
-(8) In den Fällen der Absätze 1 bis 5 und 9 bis 14a ist gemäß § 117
+(8) In den Fällen der Absätze 1 bis 5 und 9 bis 14c ist gemäß § 117
 Absatz 4 Satz 3 der Abgabenordnung keine Anhörung der Beteiligten
 erforderlich.
 
@@ -922,8 +992,24 @@ verwiesen. Hierzu zählen auch Maßnahmen zur standardisierten
 Verfahrens zur Festlegung des Standardformats, das gemäß Artikel 20
 Absatz 4 der Amtshilferichtlinie vorgesehen ist.
 
+(14b) Das zentrale Verbindungsbüro übermittelt im Wege des
+automatischen Austauschs die ihm nach § 9 des Kryptowerte-
+Steuertransparenz-Gesetzes gemeldeten Informationen über zu meldende
+Nutzer und zu meldende beherrschende Personen an die zuständigen
+Behörden aller Mitgliedstaaten der Europäischen Union, in denen der
+jeweilige zu meldende Nutzer oder die jeweilige zu meldende
+beherrschende Person als ansässig gilt. Die Übermittlung erfolgt auf
+elektronischem Weg.
+
+(14c) Das zentrale Verbindungsbüro übermittelt im Wege des
+automatischen Austauschs die ihm nach § 75 Absatz 1 des
+Mindeststeuergesetzes gemeldeten Informationen zu Mindeststeuer-
+Berichten steuerpflichtiger Geschäftseinheiten, die Angaben für einen
+Mitgliedstaat der Europäischen Union enthalten, an die zuständigen
+Behörden aller betroffenen Mitgliedstaaten der Europäischen Union.
+
 (15) Das Bundeszentralamt für Steuern ist berechtigt, die
-Informationen gemäß den Absätzen 1 bis 5, 7 und 9 bis 14a zur
+Informationen gemäß den Absätzen 1 bis 5, 7 und 9 bis 14b zur
 Erfüllung der ihm gesetzlich übertragenen Aufgaben auszuwerten.
 Auswertungen der Informationen nach Satz 1 durch die jeweils
 zuständige Landesfinanzbehörde bleiben hiervon unberührt. Für
@@ -1013,7 +1099,7 @@ Mitgliedstaats für Zwecke des Informationsaustauschs
 Sofern angezeigt, ist die Teilnahme an behördlichen Ermittlungen,
 einschließlich der Befragung von Personen und der Prüfung von
 Aufzeichnungen, mittels elektronischer Kommunikationsmittel zu
-gestatten; § 87a Absatz 1 Satz 3 der Abgabenordnung gilt entsprechend.
+gestatten; § 87a Absatz 1 Satz 4 der Abgabenordnung gilt entsprechend.
 Das zentrale Verbindungsbüro bestätigt dem anderen Mitgliedstaat sein
 Einverständnis zu Ersuchen nach den vorstehenden Sätzen innerhalb von
 60 Tagen nach Erhalt des Ersuchens. Lehnt es das Ersuchen ab, sind dem
@@ -1254,7 +1340,7 @@ weitergeben, wenn
 
 
 3.  der Mitgliedstaat, von dem die Informationen stammen, nicht innerhalb
-    von zehn Arbeitstagen nach Eingang der Mitteilung nach Nummer 2 der
+    von 15 Kalendertagen nach Eingang der Mitteilung nach Nummer 2 der
     Weitergabe widerspricht.
 
 
@@ -1359,33 +1445,48 @@ Schutz, den die Abgabenordnung für Informationen dieser Art gewährt.
 
 (2) Diese Informationen können für folgende Zwecke verwendet werden:
 
-1.  zur Bewertung, Anwendung und Durchsetzung des nationalen Steuerrechts
-    über die in § 1 genannten Steuern sowie die Umsatzsteuer und andere
-    indirekte Steuern,
+1.  zur Bewertung, Anwendung und Durchsetzung des nationalen Rechts über
+    die in § 1 genannten Steuern sowie die Umsatzsteuer und andere
+    indirekte Steuern und Zölle,
 
 
 2.  zur Wahrnehmung gesetzlicher Kontroll- und Aufsichtsbefugnisse,
 
 
 3.  zur Festsetzung und Beitreibung anderer Steuern und Abgaben nach § 1
-    des EU-Beitreibungsgesetzes sowie
+    des EU-Beitreibungsgesetzes,
 
 
 4.  zur Verwertung im Zusammenhang mit Gerichts- und Verwaltungsverfahren,
     die Sanktionen wegen Nichtbeachtung des Steuerrechts zur Folge haben
     können; hierbei sind die allgemeinen Regelungen und Vorschriften über
     die Rechte der Personen, gegen die sich das jeweilige Verfahren
-    richtet, und Zeugen in solchen Verfahren zu beachten.
+    richtet, und Zeugen in solchen Verfahren zu beachten, und
+
+
+5.  zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung.
 
 
 
 Sollen Informationen für einen anderen Zweck verwendet werden, ist die
 Einwilligung des anderen Mitgliedstaats einzuholen. Eine Einwilligung
-ist entbehrlich, wenn der andere Mitgliedstaat der zuständigen Behörde
-eine Liste mit anderen als den in Satz 1 genannten Zwecken, für die
-Informationen und Schriftstücke gemäß seinem nationalen Recht
-verwendet werden dürfen, übermittelt hat und die beabsichtigte
-Verwendung von den in der Liste genannten Zwecken umfasst ist.
+ist entbehrlich, wenn
+
+1.  der andere Mitgliedstaat der zuständigen Behörde eine Liste mit
+    anderen als den in Satz 1 genannten Zwecken, für die Informationen und
+    Schriftstücke gemäß seinem nationalen Recht verwendet werden dürfen,
+    übermittelt hat und die beabsichtigte Verwendung von den in der Liste
+    genannten Zwecken umfasst ist oder
+
+
+2.  der Zweck der Verwendung unter einen auf Artikel 215 des Vertrags über
+    die Arbeitsweise der Europäischen Union gestützten Rechtsakt fällt.
+
+
+
+In Fällen des Satzes 3 Nummer 2 können die erhaltenen Informationen
+und Schriftstücke an die Zentralstelle für Sanktionsdurchsetzung sowie
+das Zollkriminalamt übermittelt werden.
 
 
 ### § 19a Verletzung des Schutzes personenbezogener Daten
@@ -1434,21 +1535,23 @@ jeweils geltenden Fassung, bleiben unberührt.
 
 ### § 20 Statistiken und Bewertungen
 
-(1) Die zuständige Behörde übermittelt
+(1) Die zuständige Behörde überwacht und bewertet die Wirksamkeit der
+Zusammenarbeit der Verwaltungsbehörden in Deutschland im Einklang mit
+der Amtshilferichtlinie, einschließlich in Bezug auf die Bekämpfung
+von Steuerhinterziehung und -vermeidung.
+
+(2) Die zuständige Behörde übermittelt
 
 1.  der Europäischen Kommission
 
     a)  jährlich Statistiken zum Umfang des automatischen
-        Informationsaustauschs gemäß § 7 Absatz 1, 2, 10, 11 und 14a und
-        Angaben zu den administrativen und anderen einschlägigen Kosten und
-        Nutzen des erfolgten Austauschs und zu allen möglichen Änderungen,
-        sowohl für die Steuerverwaltung als auch für Dritte,
+        Informationsaustauschs gemäß § 7 Absatz 1, 2, 10, 11, 14a und Angaben
+        zu den administrativen und anderen einschlägigen Kosten und Nutzen des
+        erfolgten Austauschs und zu allen möglichen Änderungen, sowohl für die
+        Steuerverwaltung als auch für Dritte,
 
 
-    b)  eine jährliche Bewertung der Wirksamkeit des automatischen Austauschs
-        von Informationen gemäß den Artikeln 8, 8a, 8aa, 8ab und 8ac der
-        Amtshilferichtlinie sowie einen Überblick über die erreichten
-        praktischen Ergebnisse,
+    b)  jährlich die Ergebnisse der Bewertung nach Absatz 1,
 
 
     c)  alle sachdienlichen Informationen, die für die Bewertung der
@@ -1478,7 +1581,7 @@ im Bereich der Besteuerung und zur Aufhebung der
 Durchführungsverordnung (EU) Nr. 1156/2012 (ABl. L 332 vom 18.12.2015,
 S. 19) zu berücksichtigen.
 
-(2) Das Bundesministerium der Finanzen legt im Einvernehmen mit den
+(3) Das Bundesministerium der Finanzen legt im Einvernehmen mit den
 obersten Finanzbehörden der Länder die Einzelheiten zur Übermittlung
 im Sinne des Absatzes 1 in einem Schreiben fest. Dieses Schreiben ist
 im Bundessteuerblatt zu veröffentlichen.
@@ -1487,10 +1590,13 @@ im Bundessteuerblatt zu veröffentlichen.
 ### § 21 Übergangsvorschriften
 
 (1) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 1
-ist ab dem 1. Januar 2015 vorzunehmen und erstmals auf Informationen
-der Besteuerungszeiträume ab dem 1. Januar 2014 anzuwenden. § 7 Absatz
-1 Satz 2 ist auf Besteuerungszeiträume anzuwenden, die am oder nach
-dem 1. Januar 2024 beginnen.
+Satz 1 Nummer 1 bis 6 ist ab dem 1. Januar 2015 vorzunehmen und
+erstmals auf Informationen der Besteuerungszeiträume ab dem 1. Januar
+2014 anzuwenden. Die automatische Übermittlung von Informationen nach
+§ 7 Absatz 1 Satz 1 Nummer 7 ist ab dem 1. Januar 2027 vorzunehmen und
+erstmals auf Informationen der Besteuerungszeiträume ab dem 1. Januar
+2026 anzuwenden. § 7 Absatz 1 Satz 2 ist auf Besteuerungszeiträume
+anzuwenden, die am oder nach dem 1. Januar 2024 beginnen.
 
 (1a) Ungeachtet des § 2 Absatz 2 zweiter Teilsatz unterrichtet das
 zentrale Verbindungsbüro die Europäische Kommission jährlich,
@@ -1502,7 +1608,12 @@ Verbindungsbüro die Europäische Kommission vor dem 1. Januar 2024 über
 vier oder mehr der in § 7 Absatz 1 Satz 1 Nummer 1 bis 6 genannten
 Kategorien, zu denen es Informationen für Besteuerungszeiträume, die
 am oder nach dem 1. Januar 2025 beginnen, an zuständige Behörden
-anderer Mitgliedstaaten übermittelt.
+anderer Mitgliedstaaten übermittelt. Abweichend von den Sätzen 1 und 2
+unterrichtet das zentrale Verbindungsbüro die Europäische Kommission
+bis zum 1. Januar 2026 über fünf oder mehr der in § 7 Absatz 1 Satz 1
+Nummer 1 bis 7 genannten Kategorien, zu denen es Informationen für
+Besteuerungszeiträume, die am oder nach dem 1. Januar 2026 beginnen,
+an zuständige Behörden anderer Mitgliedstaaten übermittelt.
 
 (2) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 2
 ist ab dem 30. September 2017 vorzunehmen und für zum 31. Dezember
@@ -1521,4 +1632,11 @@ anzuwenden.
 (5) § 7 Absatz 13 ist erstmals ab dem 1. Januar 2018 anzuwenden.
 
 (6) § 7 Absatz 14a ist erstmals ab dem 1. Januar 2023 anzuwenden.
+
+(7) § 7 Absatz 14b ist erstmals ab dem 1. Januar 2026 anzuwenden.
+
+(8) Die automatische Übermittlung von Informationen nach § 7 Absatz
+14c ist ab dem 1. Januar 2026 vorzunehmen und erstmals auf
+Informationen der Geschäftsjähre, die nach dem 30. Dezember 2023
+beginnen, anzuwenden.
 
