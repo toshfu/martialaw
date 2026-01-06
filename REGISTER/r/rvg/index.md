@@ -1426,7 +1426,7 @@ erstattungspflichtiger Gegner und in den Fällen des § 45 die
 Staatskasse.
 
 (3) Gegen den Beschluss nach Absatz 1 können die Antragsberechtigten
-Beschwerde einlegen, wenn der Wert des Beschwerdegegenstands 200 Euro
+Beschwerde einlegen, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
@@ -2458,26 +2458,17 @@ zur Erledigung derselben Angelegenheit vor dem 15. August 2019 erteilt
 worden ist.
 
 
-### § 61 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+### § 61 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
 
-(1) Die Bundesgebührenordnung für Rechtsanwälte in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 368-1, veröffentlichten
-bereinigten Fassung, zuletzt geändert durch Artikel 2 Absatz 6 des
-Gesetzes vom 12. März 2004 (BGBl. I S. 390), und Verweisungen hierauf
-sind weiter anzuwenden, wenn der unbedingte Auftrag zur Erledigung
-derselben Angelegenheit im Sinne des § 15 vor dem 1. Juli 2004 erteilt
-oder der Rechtsanwalt vor diesem Zeitpunkt gerichtlich bestellt oder
-beigeordnet worden ist. Ist der Rechtsanwalt am 1. Juli 2004 in
-derselben Angelegenheit und, wenn ein gerichtliches Verfahren anhängig
-ist, in demselben Rechtszug bereits tätig, gilt für das Verfahren über
-ein Rechtsmittel, das nach diesem Zeitpunkt eingelegt worden ist,
-dieses Gesetz. § 60 Absatz 2 ist entsprechend anzuwenden.
-
-(2) Auf die Vereinbarung der Vergütung sind die Vorschriften dieses
-Gesetzes auch dann anzuwenden, wenn nach Absatz 1 die Vorschriften der
-Bundesgebührenordnung für Rechtsanwälte weiterhin anzuwenden und die
-Willenserklärungen beider Parteien nach dem 1. Juli 2004 abgegeben
-worden sind.
+§ 33 ist in seiner bis einschließlich 31. Dezember 2025 geltenden
+Fassung weiter anzuwenden, wenn der unbedingte Auftrag zur Erledigung
+derselben Angelegenheit im Sinne des § 15 vor dem 1. Januar 2026
+erteilt oder der Rechtsanwalt vor diesem Zeitpunkt gerichtlich
+bestellt oder beigeordnet worden ist. Ist der Rechtsanwalt am 1.
+Januar 2026 in derselben Angelegenheit und, wenn ein gerichtliches
+Verfahren anhängig ist, in demselben Rechtszug bereits tätig, gilt
+Satz 1 nicht für das Verfahren über ein Rechtsmittel, das nach dem 31.
+Dezember 2025 eingelegt worden ist.
 
 
 ### § 62 Verfahren nach dem Therapieunterbringungsgesetz
