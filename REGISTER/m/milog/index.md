@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 28.6.2023 I Nr. 172
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Festsetzung des allgemeinen Mindestlohns
 
@@ -315,7 +318,7 @@ Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach §
 
 ### § 15 Befugnisse der Behörden der Zollverwaltung und anderer Behörden; Mitwirkungspflichten des Arbeitgebers
 
-Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des
+Die §§ 2 bis 7, 13, 14, 15 bis 20, 22 und 23 des
 Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der
 Maßgabe, dass
 
@@ -330,8 +333,9 @@ Maßgabe, dass
 
 
 
-§ 6 Absatz 3 sowie die §§ 16 bis 19 des
-Schwarzarbeitsbekämpfungsgesetzes finden entsprechende Anwendung.
+Entsandte Arbeitnehmerinnen und Arbeitnehmer können im Rahmen der
+Prüfungen nach dem Schwarzarbeitsbekämpfungsgesetz auch nach dem
+Abschluss der Entsendung kontaktiert werden.
 
 
 ### § 16 Meldepflicht
@@ -668,12 +672,12 @@ Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen
 Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerberinnen
 oder Bewerber für eine angemessene Zeit bis zur nachgewiesenen
 Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die
-wegen eines Verstoßes nach § 21 Absatz 1 Nummer 1 bis 8, 10 und 11
+wegen eines Verstoßes nach § 21 Absatz 1 Nummer 1 bis 10, 12 und 13
 oder Absatz 2 mit einer Geldbuße von wenigstens zweitausendfünfhundert
 Euro belegt worden sind.
 
 (2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach
-§ 21 Absatz 1 Nummer 1 bis 8, 10 und 11 oder Absatz 2 zuständigen
+§ 21 Absatz 1 Nummer 1 bis 10, 12 und 13 oder Absatz 2 zuständigen
 Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes
 gegen Wettbewerbsbeschränkungen und solchen Stellen, die von
 öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse
@@ -683,7 +687,7 @@ die erforderlichen Auskünfte geben.
 (3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer
 Tätigkeit beim Wettbewerbsregister Auskünfte über rechtskräftige
 Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 21 Absatz
-1 Nummer 1 bis 8, 10 und 11 oder Absatz 2 an oder verlangen von
+1 Nummer 1 bis 10, 12 und 13 oder Absatz 2 an oder verlangen von
 Bewerberinnen oder Bewerbern eine Erklärung, dass die Voraussetzungen
 für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer
 Erklärung der Bewerberin oder des Bewerbers können öffentliche
@@ -712,60 +716,72 @@ zu zahlen.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 15 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 1
-    oder 3 des Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet
-    oder bei einer Prüfung nicht mitwirkt,
+1.  entgegen § 15 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 1 des
+    Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet oder bei
+    einer Prüfung nicht mitwirkt,
 
 
-2.  entgegen § 15 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 2
-    des Schwarzarbeitsbekämpfungsgesetzes das Betreten eines Grundstücks
-    oder Geschäftsraums nicht duldet,
+2.  entgegen § 15 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 2 des
+    Schwarzarbeitsbekämpfungsgesetzes das Betreten eines Grundstücks oder
+    Geschäftsraums nicht duldet,
 
 
-3.  entgegen § 15 Satz 1 in Verbindung mit § 5 Absatz 5 Satz 1 des
-    Schwarzarbeitsbekämpfungsgesetzes Daten nicht, nicht richtig, nicht
-    vollständig, nicht in der vorgeschriebenen Weise oder nicht
-    rechtzeitig übermittelt,
+3.  entgegen § 15 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe
+    a des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte Auskunft
+    nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
+    Weise oder nicht rechtzeitig erteilt,
 
 
-4.  entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1
+4.  entgegen § 15 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe
+    b des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte Unterlage
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    bereitstellt oder nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vorlegt,
+
+
+5.  entgegen § 15 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 4 des
+    Schwarzarbeitsbekämpfungsgesetzes die Einsicht in eine dort genannte
+    Unterlage nicht, nicht richtig oder nicht rechtzeitig ermöglicht,
+
+
+6.  entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1
     eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der
     vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht,
     nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
     oder nicht rechtzeitig zuleitet,
 
 
-5.  entgegen § 16 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2
+7.  entgegen § 16 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2
     oder Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig macht,
 
 
-6.  entgegen § 17 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
+8.  entgegen § 17 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
     Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre
     aufbewahrt,
 
 
-7.  entgegen § 17 Absatz 2 eine Unterlage nicht, nicht richtig, nicht
+9.  entgegen § 17 Absatz 2 eine Unterlage nicht, nicht richtig, nicht
     vollständig oder nicht in der vorgeschriebenen Weise bereithält,
 
 
-8.  entgegen § 17 Absatz 2a Satz 1 nicht sicherstellt, dass die dort
+10. entgegen § 17 Absatz 2a Satz 1 nicht sicherstellt, dass die dort
     genannten Unterlagen zur Verfügung stehen,
 
 
-9.  entgegen § 17 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig,
+11. entgegen § 17 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig vorlegt,
 
 
-10. entgegen § 17 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht
+12. entgegen § 17 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht
     richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
     nicht rechtzeitig übermittelt oder
 
 
-11. entgegen § 20 das dort genannte Arbeitsentgelt nicht oder nicht
+13. entgegen § 20 das dort genannte Arbeitsentgelt nicht oder nicht
     rechtzeitig zahlt.
 
 
@@ -787,10 +803,11 @@ weiß, dass dieser bei der Erfüllung dieses Auftrags
 
 
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 11
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 13
 und des Absatzes 2 mit einer Geldbuße bis zu fünfhunderttausend Euro,
-in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro
-geahndet werden.
+in den Fällen des Absatzes 1 Nummer 8 mit einer Geldbuße bis zu
+fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis
+zu dreißigtausend Euro geahndet werden.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind die in § 14 genannten Behörden
