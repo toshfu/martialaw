@@ -261,7 +261,8 @@ grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden.
 
 ### § 9 Vertrauenslisten
 
-Die Bundesetzagentur ist für die Aufstellung, Führung und
+Die
+Bundesnetzagentur              ist für die Aufstellung, Führung und
 Veröffentlichung von Vertrauenslisten nach Artikel 22 Absatz 1 der
 Verordnung (EU) Nr. 910/2014 zuständig.
 
