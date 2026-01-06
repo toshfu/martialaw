@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.3.2002 I 1181;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.2.2021 I 266
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 354
 
 Änderung durch
 :   Art. 4 G v. 22.12.2025 I Nr. 354 mWv 1.1.2027 noch nicht berücksichtigt
@@ -35,6 +32,23 @@ Erden, Verarbeitendes Gewerbe, Energieversorgung, Wasserversorgung,
 Abwasser- und Abfallentsorgung und Beseitigung von
 Umweltverschmutzungen sowie Baugewerbe umfasst, werden statistische
 Erhebungen als Bundesstatistik durchgeführt.
+
+
+## § 1a Auswahl der Berichtseinheiten
+
+Die Auswahl der Berichtseinheiten für die Erhebungen nach diesem
+Gesetz erfolgt auf Grundlage der Klassifizierungen des Anhangs I der
+Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen
+Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige. Für
+Berichtszeiträume ab dem 1. Januar 2025 gilt die Klassifikation der
+Wirtschaftszweige 2025. Abweichend von Satz 2 gilt für die Erhebungen
+nach § 4 Buchstabe A Ziffer III, Buchstabe B und C Ziffer I Nummer 2
+und Ziffer II für die Berichtszeiträume bis zum Ablauf des 31.
+Dezember 2026 und für die Erhebungen nach den §§ 2 und 3 Buchstabe A
+Ziffer I und II, § 4 Buchstabe A Ziffer I und II, Buchstabe C Ziffer I
+Nummer 1, § 6 Buchstabe A und § 6a Buchstabe A für die
+Berichtszeiträume bis zum Ablauf des 31. Dezember 2027 die
+Klassifikation der Wirtschaftszweige 2008.
 
 
 ## 1. Abschnitt - Bergbau und Gewinnung von Steinen und Erden, Verarbeitendes Gewerbe
@@ -839,10 +853,8 @@ Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben für
 Sonderaufbereitungen des Bundes.
 
 
-### § 12 Übergangsregelung
+### § 12 (weggefallen)
 
-Die Erhebung nach § 2 Satz 2 Buchstabe B Ziffer II Nr. 1 bis 3 wird
-erstmals im Jahr 2008 für das Jahr 2007 durchgeführt.
 
 
 ### § 13 (Änderung von Rechtsvorschriften)
