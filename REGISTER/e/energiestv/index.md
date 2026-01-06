@@ -356,14 +356,15 @@ Kennzeichnungsstoffe in gleicher Weise (Rotfärbung) und mit
 vergleichbarer Zuverlässigkeit wie die in Absatz 1 genannten
 Kennzeichnungsstoffe das Erkennen als gekennzeichnetes
 Energieerzeugnis und die Unterscheidung von anderen
-Energieerzeugnissen ermöglichen. Das Bundesministerium der Finanzen
-bestimmt im Verwaltungswege, welche der in den anderen Mitgliedstaaten
-zugelassenen Kennzeichnungsverfahren die Voraussetzungen erfüllen.
-Weitere Voraussetzung ist, dass eine Bescheinigung in einer
-Amtssprache der Europäischen Union der für den Lieferer zuständigen
-Verbrauchsteuerverwaltung, des Herstellers oder des ausländischen
-Kennzeichners darüber vorgelegt wird, dass das Gasöl nach dem Recht
-des anderen Mitgliedstaats ordnungsgemäß gekennzeichnet ist.
+Energieerzeugnissen ermöglichen. Die Generalzolldirektion bestimmt im
+Verwaltungswege, welche der in den anderen Mitgliedstaaten
+zugelassenen Kennzeichnungsverfahren die Voraussetzungen erfüllen und
+veröffentlicht das Ergebnis auf www.zoll.de. Weitere Voraussetzung
+ist, dass eine Bescheinigung in einer Amtssprache der Europäischen
+Union der für den Lieferer zuständigen Verbrauchsteuerverwaltung, des
+Herstellers oder des ausländischen Kennzeichners darüber vorgelegt
+wird, dass das Gasöl nach dem Recht des anderen Mitgliedstaats
+ordnungsgemäß gekennzeichnet ist.
 
 
 ### § 3 Antrag auf Zulassung von Kennzeichnungseinrichtungen
@@ -767,8 +768,10 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 2.  die Erben den Tod des Erlaubnisinhabers,
 
 
-3.  die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des
-    Insolvenzverfahrens oder deren Abweisung.
+3.  die Liquidatoren, der Insolvenzverwalter und im Fall der
+    Eigenverwaltung der Erlaubnisinhaber jeweils die Eröffnung des
+    Insolvenzverfahrens oder die Abweisung des Antrags auf dessen
+    Eröffnung.
 
 
 
@@ -780,30 +783,10 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 
 ### § 9 Anlagenbegriff
 
-Als Anlage im Sinne des § 3 Absatz 1 Satz 1 Nummer 1 und 2, § 37
-Absatz 2 Satz 3 sowie der §§ 53 und 53a des Gesetzes gilt ein Verbund
-aus technischen Komponenten, mit dem der Energiegehalt von
-Energieerzeugnissen in Zielenergie umgewandelt wird. Zielenergie ist
-die Energieform, die aus einem Energieumwandlungsprozess entstehen
-soll. Als Anlage nach Satz 1 gelten insbesondere
-
-1.  KWK-Einheiten,
-
-
-2.  Stromerzeugungseinheiten,
-
-
-3.  mehrere an einem Standort unmittelbar miteinander verbundene KWK-
-    Einheiten, Stromerzeugungseinheiten oder KWK- und
-    Stromerzeugungseinheiten. Als unmittelbar miteinander verbunden gelten
-    insbesondere Erzeugungseinheiten in Modulbauweise, die sich im selben
-    baulichen Objekt befinden.
-
-
-
-Werden zu einer Anlage nach Satz 3 später weitere Einheiten im Sinn
-des Satzes 3 hinzugefügt und mit dieser unmittelbar verbunden (Zubau),
-gelten sie als Bestandteil dieser Anlage.
+§ 12b der Stromsteuer-Durchführungsverordnung gilt mit der Maßgabe
+sinngemäß, dass nur diejenigen technischen Komponenten berücksichtigt
+werden, in denen Energieerzeugnisse im Sinne des Energiesteuergesetzes
+eingesetzt werden oder eingesetzt werden können.
 
 
 ## - - Zu den §§ 3 und 53a des Gesetzes
@@ -1008,14 +991,15 @@ Steuer sofort fällig.
 
 (2) Für die nachweislich nach Absatz 1 versteuerten Energieerzeugnisse
 kann auf Antrag eine Steuerentlastung bis auf den Betrag entsprechend
-der in den §§ 3 und 3a des Gesetzes genannten Steuerermäßigungen
-gewährt werden, wenn der Antragsteller nachweist, dass er der
-Rückforderungsanordnung zwischenzeitlich nachgekommen ist. Die
-Steuerentlastung nach Satz 1 ist bei dem für den Antragsteller
-zuständigen Hauptzollamt für alle Energieerzeugnisse zu beantragen.
-Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für
-die Bemessung der Steuerentlastung erforderlich sind, und die
-Steuerentlastung selbst zu berechnen (Steueranmeldung). Die
+der in den §§ 3 und 3a des Energiesteuergesetzes genannten
+Steuerermäßigungen oder der in § 28 Absatz 2 des Energiesteuergesetzes
+genannten Steuerbefreiung gewährt werden, wenn der Antragsteller
+nachweist, dass er der Rückforderungsanordnung zwischenzeitlich
+nachgekommen ist. Die Steuerentlastung nach Satz 1 ist bei dem für den
+Antragsteller zuständigen Hauptzollamt für alle Energieerzeugnisse zu
+beantragen. Der Antragsteller hat in der Anmeldung alle Angaben zu
+machen, die für die Bemessung der Steuerentlastung erforderlich sind,
+und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die
 Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum
 Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer
 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
@@ -1269,8 +1253,10 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 2.  die Erben den Tod des Erlaubnisinhabers,
 
 
-3.  die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des
-    Insolvenzverfahrens oder deren Abweisung.
+3.  die Liquidatoren, der Insolvenzverwalter und im Fall der
+    Eigenverwaltung der Erlaubnisinhaber jeweils die Eröffnung des
+    Insolvenzverfahrens oder die Abweisung des Antrags auf dessen
+    Eröffnung.
 
 
 
@@ -1640,10 +1626,22 @@ zugelassenen Lagerstätten entnommen sind.
 
 (2) Energieerzeugnisse gelten nicht als aus dem Steuerlager entfernt
 oder als innerhalb des Steuerlagers entnommen, wenn sie nur
-kurzfristig zur Prüfung oder Eichung von Messgeräten oder als
-notwendige Proben zur Qualitätssicherung entnommen und anschließend
-wieder unmittelbar in das Steuerlager aufgenommen werden. Dies gilt
-auch für die in Absatz 1 genannten Fälle.
+kurzfristig
+
+1.  zur Prüfung oder Eichung von Messgeräten,
+
+
+2.  zur Wartung, Reparatur oder Reinigung von Rohrleitungen und
+    Lagerstätten oder
+
+
+3.  als notwendige Proben zur Qualitätssicherung
+
+
+
+entnommen und anschließend wieder unmittelbar in das Steuerlager
+aufgenommen werden. Dies gilt auch für die in Absatz 1 genannten
+Fälle.
 
 (3) In den Fällen des Absatzes 2 hat der Steuerlagerinhaber
 Aufzeichnungen über die entnommenen und wieder aufgenommenen
@@ -3489,9 +3487,14 @@ deren Kennzeichnung verzichtet worden ist (§ 8 Abs. 2), dürfen mit
 leichtem Heizöl gemischt werden.
 
 (4) Ist leichtes Heizöl versehentlich mit nicht gekennzeichneten
-Gasölen der Unterpositionen 2710 19 43 bis 2710 19 48 und der
+Gasölen der Unterpositionen 2710 19 43 bis 2710 19 48 und der
 Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur
-vermischt worden, gilt § 7 Absatz 2 Satz 6 bis 8 sinngemäß.
+vermischt worden, gilt § 7 Absatz 2 Satz 6 bis 8 sinngemäß. Handelt es
+sich um eine versehentliche Vermischung, für die der
+Verfügungsberechtigte beabsichtigt, eine Entlastung nach § 48 Absatz 1
+Satz 1 Nummer 1 zweite Alternative des Energiesteuergesetzes zu
+beantragen, so hat er die Vermischung dem Hauptzollamt unverzüglich
+anzuzeigen.
 
 (5) Die Absätze 1 bis 4 gelten sinngemäß für gekennzeichnete
 Energieerzeugnisse nach § 2 Abs. 4 des Gesetzes.
@@ -3512,18 +3515,19 @@ offenbart, ein Energieerzeugnis zu den genannten Zwecken abzugeben.
 (2) Auf Antrag kann das Hauptzollamt in den Fällen, in denen
 gasförmige Kohlenwasserstoffe, die
 
-1.  aus dem biologisch abbaubaren Anteil von Abfällen gewonnen werden,
-    oder
+1.  aus dem biologisch abbaubaren Anteil von Abfällen gewonnen werden oder
 
 
 2.  bei der Lagerung von Abfällen oder bei der Abwasserreinigung anfallen
 
 
 
-und nicht nach § 26 oder § 28 des Gesetzes von der Steuer befreit
-sind, entgegen § 23 Absatz 6 Satz 2 des Gesetzes zulassen, dass für
-die in einem Kalenderjahr entstandene Steuer eine Steuererklärung
-abzugeben ist, sofern die monatliche Steuer 200 Euro nicht übersteigt.
+und nicht nach § 26 oder § 28 des Energiesteuergesetzes von der Steuer
+befreit sind, entgegen § 23 Absatz 6 Satz 2 des Energiesteuergesetzes
+zulassen, dass für die in einem Kalenderjahr entstandene Steuer eine
+Steuererklärung abzugeben ist, sofern die monatliche Steuer 200 Euro
+nicht übersteigt. Satz 1 gilt für Biokraft- und Bioheizstoffe,
+unvermischt mit anderen Energieerzeugnissen, sinngemäß.
 
 (3) Der Steuerschuldner hat die Steuererklärung nach Absatz 2 bis zum
 15\. Januar des folgenden Jahres abzugeben und darin die Steuer selbst
@@ -3869,8 +3873,10 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 3.  die Erben den Tod des Erlaubnisinhabers,
 
 
-4.  die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des
-    Insolvenzverfahrens oder deren Abweisung.
+4.  die Liquidatoren, der Insolvenzverwalter und im Fall der
+    Eigenverwaltung der Erlaubnisinhaber jeweils die Eröffnung des
+    Insolvenzverfahrens oder die Abweisung des Antrags auf dessen
+    Eröffnung.
 
 
 
@@ -4345,8 +4351,8 @@ Steuersatz des § 2 des Gesetzes
 
 Der Erlaubnisinhaber hat dem zuständigen Hauptzollamt die Verwendung
 der Energieerzeugnisse zu den nicht steuerfreien Zwecken unverzüglich
-anzuzeigen. Das Bundesministerium der Finanzen kann im Verwaltungswege
-eine Frist für die Abgabe der Anzeige bestimmen.
+anzuzeigen. Das Hauptzollamt kann davon abweichend eine Frist für die
+Abgabe der Anzeige bestimmen.
 
 (2) In begründeten Ausnahmefällen kann das Hauptzollamt auf Antrag
 zulassen, dass Inhaber von Erlaubnissen zur steuerfreien Verwendung
@@ -4966,15 +4972,38 @@ Merkmale insbesondere ersichtlich sein müssen:
 Das zuständige Hauptzollamt kann Anordnungen zu den Aufzeichnungen
 treffen und weitere Aufzeichnungen vorschreiben, wenn sie zur
 Sicherung des Steueraufkommens oder für die Steueraufsicht
-erforderlich erscheinen. Das Hauptzollamt kann anstelle der
-Aufzeichnungen nach amtlich vorgeschriebenem Vordruck betriebliche
-Aufzeichnungen oder einfachere Aufzeichnungen zulassen, wenn die
-Steuerbelange dadurch nicht beeinträchtigt werden. Die Aufzeichnungen
-müssen so beschaffen sein, dass es einem sachverständigen Dritten
-innerhalb einer angemessenen Frist möglich ist, die Grundlagen für die
-Besteuerung festzustellen. Der Anmeldepflichtige hat dem Hauptzollamt
+erforderlich erscheinen. Der Anmeldepflichtige hat dem Hauptzollamt
 auf Verlangen die abgeschlossenen Aufzeichnungen oder die belegmäßigen
 Nachweise vorzulegen.
+
+(2a) Das Hauptzollamt kann anstelle der Aufzeichnungen nach amtlich
+vorgeschriebenem Vordruck betriebliche Aufzeichnungen, einfachere
+Aufzeichnungen oder einen belegmäßigen Nachweis zulassen, wenn die
+Steuerbelange dadurch nicht beeinträchtigt werden. Die Aufzeichnungen
+und der belegmäßige Nachweis müssen so beschaffen sein, dass es einem
+sachverständigen Dritten innerhalb einer angemessenen Frist möglich
+ist, die Grundlagen für die Besteuerung festzustellen. Der
+Anmeldepflichtige hat dem Hauptzollamt auf Verlangen die
+abgeschlossenen Aufzeichnungen oder die belegmäßigen Nachweise
+vorzulegen. Werden anstelle des amtlich vorgeschriebenen Vordrucks
+betriebliche Aufzeichnungen in elektronischer Form zugelassen, sind
+Anmeldepflichtige, die nach dem Handelsgesetzbuch oder der
+Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische
+Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen,
+verpflichtet, im Hauptbuch ein oder mehrere Energiesteuerkonten für
+Erdgas zu führen. Ausgehend von den Aufzeichnungen in den
+Energiesteuerkonten für Erdgas müssen sämtliche Geschäftsvorfälle zur
+Ermittlung der Steuer und der Grundlagen ihrer Berechnung
+nachvollziehbar und nachprüfbar sein. In den Energiesteuerkonten für
+Erdgas sind sämtliche Geschäftsvorfälle zur Ermittlung der Steuer und
+der Grundlagen ihrer Berechnung zu erfassen. Wenn ein Geschäftsjahr
+abweichend vom Kalenderjahr endet, sind zur Feststellung der
+Geschäftsvorfälle eines Veranlagungsjahres zum 31. Dezember des
+Kalenderjahres ein Buchungsstopp sowie eine Abgrenzung der laufenden
+Geschäftsvorfälle durchzuführen. Für Entnahmen von Erdgas zum
+Selbstverbrauch sind Eigenbelege zu erstellen. Die Geschäftsvorfälle
+sind aus den betrieblichen Aufzeichnungen zu extrahieren, um die
+Anforderungen an die steuerlichen Aufzeichnungen zu erfüllen.
 
 (3) Der Anmeldepflichtige hat dem Hauptzollamt Änderungen der nach §
 78 Abs. 2 angegebenen Verhältnisse sowie Überschuldung, drohende oder
@@ -4991,13 +5020,14 @@ verzichtet.
 ### § 80 Vorauszahlungen
 
 (1) Die Festsetzung der Vorauszahlungen erfolgt durch
-Vorauszahlungsbescheid. Ist die Steuer nur in einem Teil des
-vorletzten dem Veranlagungsjahr vorhergehenden Kalenderjahres
-entstanden, ist die tatsächlich entstandene Steuer in eine
-Jahressteuerschuld umzurechnen. Ist die Steuer erstmals im
-vorangegangenen oder laufenden Kalenderjahr oder bisher noch nicht
-entstanden, ist die voraussichtlich zu erwartende Jahressteuerschuld
-maßgebend.
+Vorauszahlungsbescheid. Die Mitteilungen der Schätzungen nach § 39
+Absatz 5 des Energiesteuergesetzes sind schriftlich nach amtlich
+vorgeschriebenem Vordruck vorzunehmen. Ist eine Steuer bislang noch
+nicht oder erstmals entstanden, ist die voraussichtliche
+Jahressteuerschuld für das Veranlagungsjahr maßgebend. Kann die
+voraussichtliche Jahressteuerschuld nicht auf zwölf monatliche
+Vorauszahlungen festgesetzt werden, so sind die fehlenden monatlichen
+Vorauszahlungen für die erste monatliche Vorauszahlung festzusetzen.
 
 (2) Das Hauptzollamt kann auf Antrag bei der Festsetzung der Höhe der
 Vorauszahlungen dem Steuerschuldner voraussichtlich im gleichen
@@ -5308,9 +5338,9 @@ keine Eingangsmeldung abgegeben wurde, kann ein Ersatznachweis nach §
 Fällen des § 46 Absatz 2 Satz 1 Nummer 1 des Gesetzes ist der
 Versteuerungsnachweis des anderen Mitgliedstaats vorzulegen.
 
-(4) In den Fällen des § 46 Absatz 1 Satz 1 Nummer 2 bis 4 des Gesetzes
-hat der Antragsteller das Verbringen oder die Ausfuhr durch
-eindeutige, leicht nachprüfbare Belege nachzuweisen.
+(4) In den Fällen des § 46 Absatz 1 Satz 1 Nummer 2 bis 5 des
+Energiesteuergesetzes hat der Antragsteller das Verbringen oder die
+Ausfuhr durch eindeutige, leicht nachprüfbare Belege nachzuweisen.
 
 
 ## - - Zu § 47 des Gesetzes
@@ -5362,29 +5392,36 @@ ein Kalenderjahr, als Entlastungsabschnitt zulassen.
 (3) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus
 dem sich für den Entlastungsabschnitt folgende Angaben ergeben müssen:
 
-1.  im Fall des § 47 Abs. 1 Nr. 2 Buchstabe a des Gesetzes die Art, die
-    Menge und die Herkunft der Gemische, die zu den dort genannten Zwecken
-    verwendet worden sind,
+1.  im Fall des § 47 Absatz 1 Nummer 2 Buchstabe a des Gesetzes die Art,
+    die Menge und die Herkunft der Gemische, die zu den dort genannten
+    Zwecken verwendet worden sind,
 
 
-2.  im Fall des § 47 Abs. 1 Nr. 2 Buchstabe b des Gesetzes die Art, die
-    Menge und die Herkunft der Gemische, aus denen Energieerzeugnisse im
-    Sinn des § 4 des Gesetzes hergestellt worden sind, sowie die Art und
-    die Menge der aus den Gemischen hergestellten Energieerzeugnisse.
+2.  im Fall des § 47 Absatz 1 Nummer 2 Buchstabe b des Gesetzes die Art,
+    die Menge und die Herkunft der Gemische, aus denen Energieerzeugnisse
+    im Sinne des § 4 des Gesetzes hergestellt worden sind, sowie die Art
+    und die Menge der aus den Gemischen hergestellten Energieerzeugnisse.
 
 
 
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
-(4) Das Bundesministerium der Finanzen kann zur steuerlichen
-Vereinfachung im Verwaltungswege pauschale Sätze für die in den
-gasförmigen Gemischen enthaltenen Kohlenwasserstoffanteile festlegen.
+(4) Die Generalzolldirektion kann zur steuerlichen Vereinfachung im
+Verwaltungswege pauschale Sätze für die in den gasförmigen Gemischen
+enthaltenen Kohlenwasserstoffanteile festlegen und veröffentlicht das
+Ergebnis auf www.zoll.de.
 
 
 ### § 90 Steuerentlastung bei steuerfreien Zwecken
 
-(1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 3 des Gesetzes ist
-bei dem für den Antragsteller zuständigen Hauptzollamt mit einer
-Anmeldung nach amtlich vorgeschriebenem Vordruck für alle
+(1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 3 und 4 des
+Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt
+mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle
 Energieerzeugnisse zu beantragen, die innerhalb eines
 Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in
 der Anmeldung alle für die Bemessung der Steuerentlastung
@@ -5411,6 +5448,12 @@ machen.
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus
 dem sich für den Entlastungsabschnitt die Art, die Menge, die Herkunft
 und der genaue Verwendungszweck der Energieerzeugnisse ergeben müssen.
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 
 ### § 91 Steuerentlastung für Kohle
@@ -5443,15 +5486,22 @@ die Änderungen besonders kenntlich zu machen.
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus
 dem sich für den Entlastungsabschnitt ergeben müssen:
 
-1.  im Fall des § 47 Abs. 1 Nr. 5 Buchstabe a des Gesetzes die Art, die
-    Menge und die Herkunft der in den Kohlebetrieb aufgenommenen Kohle,
+1.  im Fall des § 47 Absatz 1 Nummer 5 Buchstabe a des Gesetzes die Art,
+    die Menge und die Herkunft der in den Kohlebetrieb aufgenommenen
+    Kohle,
 
 
-2.  im Fall des § 47 Abs. 1 Nr. 5 Buchstabe b des Gesetzes die Art, die
-    Menge, die Herkunft und der genaue Verwendungszweck der Kohle.
+2.  im Fall des § 47 Absatz 1 Nummer 5 Buchstabe b des Gesetzes die Art,
+    die Menge, die Herkunft und der genaue Verwendungszweck der Kohle.
 
 
 
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 
 ### § 91a Steuerentlastung für Erdgas bei Einspeisung
@@ -5477,6 +5527,12 @@ kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 (3) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus
 dem sich für den Entlastungsabschnitt die Herkunft und die
 eingespeisten Mengen des versteuerten Erdgases ergeben müssen.
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 
 ## - - Zu § 47a des Gesetzes
@@ -5512,6 +5568,12 @@ erforderlich ist.
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus
 dem sich für den Entlastungsabschnitt die Art, die Menge, die Herkunft
 und der genaue Verwendungszweck der Energieerzeugnisse ergeben müssen.
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 
 ## - - Zu § 48 des Gesetzes
@@ -5548,14 +5610,16 @@ einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht
 kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (4) Dem Antrag sind Unterlagen über die Versteuerung und die Herkunft
-der Gemischanteile beizufügen.
+der Gemischanteile beizufügen. Das Hauptzollamt kann auf die Vorlage
+verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt
+werden.
 
 
 ## - - Zu § 49 des Gesetzes
 
 
 
-### § 93 Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse
+### § 93 Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse
 
 (1) Die Steuerentlastung nach § 49 des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -5583,21 +5647,24 @@ einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht
 kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus
-dem sich für den Entlastungsabschnitt ergeben müssen:
+dem sich für den Entlastungsabschnitt Folgendes ergeben muss:
 
-1.  im Fall des § 49 Abs. 1 des Gesetzes die Menge, die Herkunft und der
-    genaue Verwendungszweck der Gasöle,
-
-
-2.  im Fall des § 49 Abs. 2 des Gesetzes die Menge und die Herkunft der
-    Flüssiggase,
+1.  in den Fällen des § 49 Absatz 1 oder Absatz 3 des
+    Energiesteuergesetzes die Menge, die Herkunft und der genaue
+    Verwendungszweck der Energieerzeugnisse,
 
 
-3.  im Fall des § 49 Absatz 3 des Gesetzes die Menge, die Herkunft und der
-    genaue Verwendungszweck der Energieerzeugnisse.
+2.  im Fall des § 49 Absatz 2 des Energiesteuergesetzes die Menge und die
+    Herkunft der Energieerzeugnisse.
 
 
 
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 (3a) Energieerzeugnisse, für die eine Steuerentlastung nach § 49 des
 Gesetzes gewährt wird, gelten als Energieerzeugnisse, die nach § 2
@@ -5667,6 +5734,12 @@ Klasse der Klassifikation der Wirtschaftszweige zuzuordnen.
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus
 dem sich für den Entlastungsabschnitt die Art, die Menge, die Herkunft
 und der genaue Verwendungszweck der Energieerzeugnisse ergeben müssen.
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 (5) Zur Ermittlung der entlastungsfähigen Mengen sind die nach § 51
 des Gesetzes verwendeten Mengen an Energieerzeugnissen zu messen. Das
@@ -5840,20 +5913,21 @@ und ihres Anteils an der Gesamtdampferzeugung zuzurechnen.
 (3) Wird aus Energieerzeugnissen erzeugte mechanische oder thermische
 Energie von einer anderen Person als dem Verwender der
 Energieerzeugnisse zur Stromerzeugung oder zur gekoppelten Erzeugung
-von Kraft und Wärme genutzt, ist dem Antrag nach § 99 oder § 99a
-zusätzlich für jede die mechanische oder die thermische Energie
-verwendende andere Person eine Selbsterklärung dieser anderen Person
-beizufügen. Die Selbsterklärung gemäß Satz 1 ist nach amtlich
-vorgeschriebenem Vordruck abzugeben und gilt als Steuererklärung im
-Sinne der Abgabenordnung. In der Selbsterklärung hat die andere Person
-im Sinne von Satz 1 Angaben über die vollständige oder anteilige
-Nutzung der mechanischen oder thermischen Energie zur Stromerzeugung
-oder zur gekoppelten Erzeugung von Kraft und Wärme zu machen. Wer eine
-Selbsterklärung abgibt, hat Aufzeichnungen zu führen, aus denen sich
-die Verwendung der mechanischen oder thermischen Energie eindeutig
-herleiten lässt. Die Aufzeichnungen müssen so beschaffen sein, dass es
-einem sachverständigen Dritten innerhalb einer angemessenen Frist
-möglich ist, die Aufzeichnungen zu prüfen.
+von Kraft und Wärme genutzt, ist auf Verlangen des Hauptzollamts
+zusätzlich zum Antrag nach § 99 oder § 99a für jede die mechanische
+oder die thermische Energie verwendende andere Person eine
+Selbsterklärung dieser anderen Person vorzulegen. Die Selbsterklärung
+gemäß Satz 1 ist nach amtlich vorgeschriebenem Vordruck abzugeben und
+gilt als Steuererklärung im Sinne der Abgabenordnung. In der
+Selbsterklärung hat die andere Person im Sinne von Satz 1 Angaben über
+die vollständige oder anteilige Nutzung der mechanischen oder
+thermischen Energie zur Stromerzeugung oder zur gekoppelten Erzeugung
+von Kraft und Wärme zu machen. Eine andere Person im Sinne des Satzes
+1 hat Aufzeichnungen zu führen, aus denen sich die Verwendung der
+mechanischen oder thermischen Energie eindeutig herleiten lässt. Die
+Aufzeichnungen müssen so beschaffen sein, dass es einem
+sachverständigen Dritten innerhalb einer angemessenen Frist möglich
+ist, die Aufzeichnungen zu prüfen.
 
 
 ## - - Zu § 53 des Gesetzes
@@ -5892,43 +5966,24 @@ Steuerentlastung nach Satz 2 wird nur gewährt, wenn
 
 
 
-(3) Bei erstmaliger Antragstellung sind für jede Anlage anzugeben oder
-dem Antrag beizufügen:
-
-1.  der Name und die Anschrift des Betreibers sowie Angaben über die
-    erstmalige Inbetriebnahme,
-
-
-2.  ihr Standort,
-
-
-3.  der Hersteller, der Typ und die Seriennummer,
-
-
-4.  eine technische Beschreibung mit der Angabe des
-    Durchschnittsverbrauchs je Betriebsstunde,
-
-
-5.  Angaben zur elektrischen Nennleistung und zur Verwendung der
-    mechanischen Energie,
-
-
-6.  eine Darstellung der Mengenermittlung der eingesetzten
-    Energieerzeugnisse und
-
-
-7.  Angaben zur Verwendung der bezogenen Energieerzeugnisse.
-
-
-
-Das Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn
-dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht
-erforderlich ist. Bei Anlagen nach § 9 Absatz 1 Satz 3 Nummer 3 oder §
-9 Absatz 2 sind die nach den Sätzen 1 und 2 erforderlichen Angaben für
-jede zur Anlage gehörende KWK-Einheit oder Stromerzeugungseinheit
-vorzulegen. Der Antragsteller hat Änderungen der nach den Sätzen 1 bis
-3 angegebenen Verhältnisse dem Hauptzollamt mit dem nächsten Antrag
-mitzuteilen.
+(3) Bei erstmaliger Antragstellung ist dem Antrag für die Anlage eine
+Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen;
+soweit darin Daten zu Stromerzeugungseinheiten verlangt werden, die
+bereits zutreffend im Marktstammdatenregister enthalten sind, ist eine
+Angabe nicht erneut erforderlich. Weiteren Anträgen muss eine
+Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber
+den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen
+ergeben haben und Änderungen in Bezug auf die Stromerzeugungseinheiten
+nicht zutreffend im Marktstammdatenregister ersichtlich sind. Das
+Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies
+zur Sicherung des Steueraufkommens oder für die Steueraufsicht
+erforderlich ist. Bei mehreren an einem Standort unmittelbar
+miteinander verbundenen KWK-Einheiten, Stromerzeugungseinheiten oder
+KWK- und Stromerzeugungseinheiten sind die nach den Sätzen 1 bis 3
+erforderlichen Angaben für jede zur Anlage gehörende KWK-Einheit oder
+Stromerzeugungseinheit vorzulegen. Der Antragsteller hat Änderungen
+der nach den Sätzen 1 bis 4 angegebenen Verhältnisse dem Hauptzollamt
+mit dem nächsten Antrag mitzuteilen.
 
 
 ## - - Zu § 53a des Gesetzes
@@ -6007,49 +6062,24 @@ der jeweilige Monatsnutzungsgrad der Anlage nachzuweisen. Wird dagegen
 ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des
 Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen.
 
-(4) Bei erstmaliger Antragstellung sind für jede Anlage anzugeben oder
-dem Antrag beizufügen:
-
-1.  der Name und die Anschrift des Betreibers sowie Angaben über die
-    erstmalige Inbetriebnahme,
-
-
-2.  der Standort,
-
-
-3.  der Hersteller, der Typ und die Seriennummer,
-
-
-4.  Angaben zur elektrischen Nennleistung,
-
-
-5.  eine technische Beschreibung mit der Angabe des
-    Durchschnittsverbrauchs je Betriebsstunde,
-
-
-6.  eine Beschreibung der installierten und betriebsfähigen Vorrichtungen
-    zur Kraft- und Wärmenutzung,
-
-
-7.  eine Darstellung der Mengenermittlung der eingesetzten
-    Energieerzeugnisse,
-
-
-8.  Angaben zur Nutzungsgradberechnung der Anlage und
-
-
-9.  Angaben zur Verwendung der bezogenen Energieerzeugnisse.
-
-
-
-Das Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn
-dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht
-erforderlich ist. Bei Anlagen nach § 9 Absatz 1 Satz 3 Nummer 3 sind
-die nach den Sätzen 1 und 2 erforderlichen Angaben für jede zur Anlage
-gehörende KWK-Einheit oder Stromerzeugungseinheit vorzulegen. Der
-Antragsteller hat Änderungen der nach den Sätzen 1 bis 3 angegebenen
-Verhältnisse dem Hauptzollamt jeweils mit dem nächsten Antrag auf eine
-Steuerentlastung mitzuteilen.
+(4) Bei erstmaliger Antragstellung ist dem Antrag für die Anlage eine
+Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen;
+soweit darin Daten zu Stromerzeugungseinheiten verlangt werden, die
+bereits zutreffend im Marktstammdatenregister enthalten sind, ist eine
+Angabe nicht erneut erforderlich. Weiteren Anträgen muss eine
+Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber
+den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen
+ergeben haben und Änderungen in Bezug auf die Stromerzeugungseinheiten
+nicht zutreffend im Marktstammdatenregister ersichtlich sind. Das
+Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies
+zur Sicherung des Steueraufkommens oder für die Steueraufsicht
+erforderlich ist. Bei mehreren an einem Standort unmittelbar
+miteinander verbundenen KWK-Einheiten, Stromerzeugungseinheiten oder
+KWK- und Stromerzeugungseinheiten sind die nach den Sätzen 1 bis 3
+erforderlichen Angaben für jede zur Anlage gehörende KWK-Einheit oder
+Stromerzeugungseinheit vorzulegen. Der Antragsteller hat Änderungen
+der nach den Sätzen 1 bis 4 angegebenen Verhältnisse dem Hauptzollamt
+jeweils mit dem nächsten Antrag auf eine Steuerentlastung mitzuteilen.
 
 (5) Im Fall einer Steuerentlastung nach § 53a Absatz 1 des Gesetzes in
 Verbindung mit § 53a Absatz 3 des Gesetzes hat der Antragsteller auf
@@ -6171,6 +6201,12 @@ dem sich für den jeweiligen Entlastungsabschnitt ergeben müssen:
 
 
 
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des
+buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch
+nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die
+nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet
+sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 
 #### § 100a Verwendung von Wärme durch andere Unternehmen
@@ -6633,29 +6669,30 @@ zuständigen Hauptzollamt als buchmäßiger Nachweis zugelassen werden.
 
 #### § 103 Steuerentlastung für Betriebe der Land- und Forstwirtschaft
 
-(1) Der Antrag nach § 57 des Gesetzes ist bei dem für den Betrieb des
-Antragstellers zuständigen Hauptzollamt zu stellen. Hat der Inhaber
-eines Betriebs nach § 57 Abs. 2 des Gesetzes seinen Wohnsitz nicht im
-Steuergebiet und führt er im Steuergebiet Arbeiten im Sinne des § 57
-Abs. 1 des Gesetzes aus, so ist der Antrag bei dem Hauptzollamt zu
-stellen, das für die Steuerentlastung nach § 57 des Gesetzes in der
-Gemeinde, in der die Arbeiten überwiegend ausgeführt werden, zuständig
-ist.
+(1) Der Antrag nach § 57 des Energiesteuergesetzes ist bei dem für den
+Betrieb des Antragstellers zuständigen Hauptzollamt zu stellen. Hat
+der Inhaber eines Betriebs nach § 57 Absatz 2 des
+Energiesteuergesetzes seinen Wohnsitz nicht im Steuergebiet und führt
+er im Steuergebiet Arbeiten im Sinne des § 57 Absatz 1 des
+Energiesteuergesetzes aus, so ist der Antrag bei dem Hauptzollamt zu
+stellen, das für die Steuerentlastung nach § 57 des
+Energiesteuergesetzes in der Gemeinde, in der die Arbeiten überwiegend
+ausgeführt werden, zuständig ist.
 
 (2) Die Steuerentlastung ist mit einer Anmeldung nach amtlich
 vorgeschriebenem Datensatz für die innerhalb eines Kalenderjahres
 (Entlastungsabschnitt) zu begünstigten Zwecken nach § 57 Absatz 1 des
-Gesetzes verwendeten Gasöle (begünstigter Verbrauch) zu beantragen.
-Der Antragsteller hat in der Anmeldung alle für die Bemessung der
-Steuerentlastung erforderlichen Angaben zu machen und die
-Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur
-gewährt, wenn der Antrag spätestens bis zum Ablauf der
-Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der
-Abgabenordnung beim Hauptzollamt gestellt wird. Bei erstmaliger
+Energiesteuergesetzes verwendeten Energieerzeugnisse (begünstigter
+Verbrauch) zu beantragen. Der Antragsteller hat in der Anmeldung alle
+für die Bemessung der Steuerentlastung erforderlichen Angaben zu
+machen und die Steuerentlastung selbst zu berechnen. Die
+Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum
+Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer
+1 der Abgabenordnung beim Hauptzollamt gestellt wird. Bei erstmaliger
 Antragstellung sind dem Antrag beizufügen:
 
 1.  Quittungen oder Lieferbescheinigungen nach Absatz 4 über im
-    Entlastungsabschnitt insgesamt bezogenen Gasöle,
+    Entlastungsabschnitt insgesamt bezogene Energieerzeugnisse,
 
 
 2.  die Aufzeichnungen nach Absatz 5, soweit der Antragsteller zu deren
@@ -6667,8 +6704,8 @@ Antragstellung sind dem Antrag beizufügen:
 
 
 4.  Bescheinigungen nach Absatz 6 über die im Entlastungsabschnitt von
-    Betrieben im Sinne des § 57 Absatz 2 Nummer 5 des Gesetzes
-    verbrauchten Gasöle.
+    Betrieben im Sinne des § 57 Absatz 2 Nummer 5 des
+    Energiesteuergesetzes verbrauchten Energieerzeugnisse.
 
 
 
@@ -6676,41 +6713,40 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten
 Unterlagen lediglich auf Verlangen des Hauptzollamts vorzulegen.
 
 (3) Antragsberechtigt ist der Inhaber eines Betriebs im Sinne des § 57
-Absatz 2 Nummer 1 bis 4 des Gesetzes (Begünstigter). Wechselt
-innerhalb eines Entlastungsabschnitts der Inhaber eines Betriebs, so
-bleibt der bisherige Inhaber für die Zeit bis zum Inhaberwechsel
-Begünstigter.
+Absatz 2 Nummer 1 bis 4 des Energiesteuergesetzes (Begünstigter).
+Wechselt innerhalb eines Entlastungsabschnitts der Inhaber eines
+Betriebs, so bleibt der bisherige Inhaber für die Zeit bis zum
+Inhaberwechsel Begünstigter.
 
 (4) Der Begünstigte hat sich Quittungen oder Lieferbescheinigungen
 über die im Entlastungsabschnitt insgesamt für begünstigte und nicht
-begünstigte Zwecke bezogene Gasöle ausstellen zu lassen, welche die
-Anschriften des Empfängers und des Lieferers, das Datum der Lieferung,
-die gelieferte Menge und den zu zahlenden Betrag enthalten. Tankbelege
-gelten auch ohne die Anschrift des Empfängers als Lieferbescheinigung,
-wenn sie die übrigen Angaben nach Satz 1 enthalten. Der Antragsteller
-hat die Belege nach § 147 Abs. 1 und 3 der Abgabenordnung
-aufzubewahren.
+begünstigte Zwecke bezogene Energieerzeugnisse ausstellen zu lassen,
+welche die Anschriften des Empfängers und des Lieferers, das Datum der
+Lieferung, die gelieferte Menge und den zu zahlenden Betrag enthalten.
+Tankbelege gelten auch ohne die Anschrift des Empfängers als
+Lieferbescheinigung, wenn sie die übrigen Angaben nach Satz 1
+enthalten. Der Antragsteller hat die Belege nach § 147 Absatz 1 und 3
+der Abgabenordnung aufzubewahren.
 
-(5) Inhaber von Betrieben im Sinne des § 57 Abs. 2 Nr. 5 des Gesetzes
-haben für jedes oder jede der in § 57 Abs. 1 des Gesetzes genannten
-Fahrzeuge, Geräte und Maschinen geeignete Aufzeichnungen zu führen,
-aus denen das Datum und der Umfang der ausgeführten Arbeiten sowie die
-Raummenge der beim Betrieb verbrauchten Energieerzeugnisse ersichtlich
-sein müssen. Die Aufzeichnungen sind am Schluss des Kalenderjahrs
-abzuschließen.
+(5) Inhaber von Betrieben im Sinne des § 57 Absatz 2 Nummer 5 des
+Energiesteuergesetzes haben für jedes oder jede der in § 57 Absatz 1
+des Energiesteuergesetzes genannten Fahrzeuge, Geräte und Maschinen
+geeignete Aufzeichnungen zu führen, aus denen das Datum und der Umfang
+der ausgeführten Arbeiten sowie die Menge der beim Betrieb
+verbrauchten Energieerzeugnisse ersichtlich sein müssen. Die
+Aufzeichnungen sind am Schluss des Kalenderjahrs abzuschließen.
 
-(6) Für Arbeiten, die ein in § 57 Abs. 2 Nr. 5 des Gesetzes genannter
-Betrieb im Betrieb des Begünstigten unter Verwendung von selbst
-bezogenem Gasöl ausgeführt hat, hat sich der Begünstigte von dem
-ausführenden Betrieb Bescheinigungen ausstellen zu lassen, welche
-seine Anschrift, die des ausführenden Betriebs, das Datum sowie Art
-und Umfang der ausgeführten Arbeiten, die hierfür verbrauchte
-Gasölmenge und den hierfür zu zahlenden Geldbetrag enthalten.
+(6) Für Arbeiten, die ein in § 57 Absatz 2 Nummer 5 des
+Energiesteuergesetzes genannter Betrieb im Betrieb des Begünstigten
+unter Verwendung von selbst bezogenen Energieerzeugnissen ausgeführt
+hat, hat sich der Begünstigte von dem ausführenden Betrieb
+Bescheinigungen ausstellen zu lassen, welche seine Anschrift, die des
+ausführenden Betriebs, das Datum sowie Art und Umfang der ausgeführten
+Arbeiten, die hierfür verbrauchte Menge an Energieerzeugnissen und den
+hierfür zu zahlenden Geldbetrag enthalten.
 
-(7) Der Steuerentlastungsanspruch nach § 57 des Gesetzes entsteht mit
-Ablauf des Entlastungsabschnitts (Absatz 2 Satz 1).
-
-(8) (weggefallen)
+(7) Der Steuerentlastungsanspruch nach § 57 des Energiesteuergesetzes
+entsteht mit Ablauf des Entlastungsabschnitts (Absatz 2 Satz 1).
 
 
 ### - - Zu § 58 des Gesetzes
@@ -6748,7 +6784,13 @@ entnehmen sind.
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, dem
 für jede Lieferung oder Abgabe im Entlastungsabschnitt die Art, die
 Menge, die Herkunft und der Empfänger der Energieerzeugnisse oder der
-daraus erzeugten Wärme zu entnehmen sein müssen.
+daraus erzeugten Wärme zu entnehmen sein müssen. Abweichend von Satz 1
+sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises
+ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt
+werden. Satz 2 gilt nicht für Antragsteller, die nach dem
+Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind,
+ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig
+Jahresabschlüsse aufzustellen.
 
 
 ### - - Zu § 58a des Gesetzes
@@ -7391,9 +7433,9 @@ handelt, wer vorsätzlich oder leichtfertig
 12. entgegen § 34 Absatz 1 Satz 1, § 36 Absatz 4 Satz 2, auch in
     Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, entgegen § 36
     Absatz 5 Satz 1, § 36a Absatz 3 Satz 1, § 36b Absatz 3 Satz 1, § 36c
-    Absatz 3, § 36d Absatz 3 Satz 1 oder § 38c Absatz 1 eine Übermittlung
-    nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
-    Weise oder nicht rechtzeitig vornimmt,
+    Absatz 3, § 36d Absatz 3 Satz 1, § 38c Absatz 1 oder § 38e Absatz 1
+    Satz 1 eine Übermittlung nicht, nicht richtig, nicht vollständig,
+    nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
 
 13. entgegen § 36 Absatz 3 Satz 1, auch in Verbindung mit § 38f Satz 1,
@@ -7416,7 +7458,7 @@ handelt, wer vorsätzlich oder leichtfertig
     Erlaubnisschein nicht oder nicht rechtzeitig zurückgibt,
 
 
-16a. entgegen § 79 Absatz 2 Satz 5 eine Aufzeichnung oder einen Nachweis
+16a. entgegen § 79 Absatz 2a Satz 3 eine Aufzeichnung oder einen Nachweis
     nicht oder nicht rechtzeitig vorlegt oder
 
 
@@ -7812,7 +7854,8 @@ allgemein erlaubt:
 
     *   a)
 
-    *   gasförmige Energieerzeugnisse nach § 28 Absatz 1 des Gesetzes
+    *   gasförmige Energieerzeugnisse nach § 28 Absatz 1 und 2 des
+        Energiesteuergesetzes
 
     *   Verteilung und Verwendung zu steuerfreien Zwecken nach § 28 des
         Gesetzes
@@ -8209,67 +8252,59 @@ von 5 g N-Ethyl-1-(4-phenylazophenylazo)-naphthyl-2-amin (Standard-
 Farbstoff) unter gleichen Messbedingungen im Maximum decken.
 
 (zu § 110 Satz 1 Nummer 11)
-Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
-#### Anlage 5 Plus (n-Butylphenylether) in leichtem Heizöl, Kerosin und in Mischungen von leichtem Heizöl mit nicht gekennzeichnetem Dieselkraftstoff mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor
+#### Anlage 5 Bestimmung von n-Butylphenylether in Gasöl, Kerosin und steuerlich begünstigten Mineralölen mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor
 
-(Fundstelle: BGBl. 2023 I Nr. 367, 5 – 12)
+(Fundstelle: BGBl. 2025 I Nr. 340, 24 – 33)
 
 
-1   Zweck und Anwendungsbereich
+**1** **Zweck und Anwendungsbereich**
 
 
 1.1 Einleitung und Hinweise
 
-    Im Interesse des reibungslosen Funktionierens des Binnenmarktes und
+    Mit Durchführungsbeschluss (EU) 2022/197 der Kommission vom 17. Januar
+    2022 wurde ein gemeinsamer Markierstoff (ACCUTRACE
+    TM                    Plus) für Gasöle und Kerosin eingeführt. Im
+    Interesse des reibungslosen Funktionierens des Binnenmarktes und
     insbesondere zur Verhinderung von Steuerhinterziehung wurde mit der
-    Richtlinie 95/60/EG des Rates vom 27. November 1995 über die
-    steuerliche Kennzeichnung von Gasöl und Kerosin (ABl. L 291 vom
-    6\.12.1995, S. 46) ein gemeinsames Kennzeichnungssystem für Gasöle und
-    Kerosin, die einem ermäßigten Verbrauchsteuersatz unterliegen,
-    eingeführt. Mit Durchführungsbeschluss (EU) 2022/197 der Kommission
-    vom 17. Januar 2022 zur Bestimmung eines gemeinsamen Stoffes zur
-    steuerlichen Kennzeichnung von Gasölen und Kerosin (ABl. L 31 vom
-    14\.2.2022, S. 52) wurde ein neuer gemeinsamer Markierstoff für Gasöl
-    und Kerosin festgelegt.
+    Richtlinie 95/60/EG des Rates vom 27. November 1995 ein gemeinsames
+    Kennzeichnungssystem zur Identifizierung von Gasölen und Kerosin, die
+    einem ermäßigten Verbrauchsteuersatz unterliegen, eingeführt.
 
     Diese Anlage enthält eine Methode zur Bestimmung des Wirkstoffs
     n-Butylphenylether (BPE, Butoxybenzol) in ACCUTRACE
     TM                    Plus in Gasöl und Kerosin. Sie ist für die
     Untersuchung von gekennzeichneten, niedrig besteuerten Mineralölen und
-    Gemischen mit Dieselkraftstoff anzuwenden.
+    Gemischen mit Dieselkraftstoff anzuwenden und basiert auf der Methode
+    ILIADe 606 der Europäischen Zolllabore (CLEN).
 
     Der Markierstoff ist:
 
     ACCUTRACE
-    TM                    Plus bestehend aus etwa 24 % naphthenischen
+    TM                    Plus, bestehend aus etwa 24 % naphthenischen
     Kohlenwasserstoffen als Lösungsmittel und 76 % BPE (CAS #1126-79-0,
     EC# 214-426-1).
 
-
-    *        *
-        *            ![bgbl1_2023_j03670_0010.jpg](bgbl1_2023_j03670_0010.jpg)
-        *
-
-
-
-   Abbildung 1: Strukturformel von n-Butylphenylether
+    ![bgbl1_2025_j03400_0010.jpg](bgbl1_2025_j03400_0010.jpg)
+    Abbildung 1: Strukturformel von n-Butylphenylether (BPE)
 
     Die Mitgliedstaaten legen einen Kennzeichnungsstoffgehalt von
-    ACCUTRACE
-    TM                    PLUS von mindestens 12,5 Milligramm pro Liter
-    Energieerzeugnis fest. Dies entspricht einem Kennzeichnungsstoffgehalt
-    von mindestens 9,5 Milligramm BPE pro Liter des Energieerzeugnisses.
+    ACCUTRACE™ Plus von mindestens 12,5 Milligramm und nicht mehr als
+    18,75 Milligramm pro Liter Energieerzeugnis fest. Dies entspricht
+    einem Kennzeichnungsstoffgehalt von mindestens 9,5 Milligramm BPE pro
+    Liter und nicht mehr als 14,25 Milligramm pro Liter des
+    Energieerzeugnisses.
 
 
 1.2 Anwendungsbereich
 
-    Diese Methode beschreibt die Analyse von BPE (Abschnitt 3.4) im
-    Konzentrationsbereich von der Nachweisgrenze bis etwa 20 mg pro Liter
-    in Gasöl und Kerosin.
+    Diese Methode beschreibt die Analyse von BPE (Abschnitt 3.3) im
+    linearen Konzentrationsbereich von der Nachweisgrenze bis etwa 20 mg
+    pro Liter in Gasöl und Kerosin.
 
 
-2   Prinzip
+**2** **Prinzip**
 
     Die Quantifizierung von BPE erfolgt durch zweidimensionale
     Gaschromatographie in Verbindung mit einem massenselektiven Detektor
@@ -8281,101 +8316,100 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     wird mittels Massenspektrometrie bei m/z = 94 und 150 (SIM-Modus)
     nachgewiesen und quantifiziert. Nach dem Heart-Cut kann der
     Trägergasstrom umgekehrt werden, und die hochsiedenden Komponenten
-    werden durch den Injektor abgeleitet (sog. Backflush). Abbildung 2
-    zeigt ein Schema des 2D-Heart-Cut-Systems, das zur Bestimmung von BPE
-    in Kraft- und Heizstoffen verwendet wird.
+    werden durch den Injektor abgeleitet (Rückspülung). Abbildung 2 zeigt
+    ein Schema des 2D-Heart-Cut-Systems, das zur Bestimmung von BPE in
+    Kraft- und Heizstoffen verwendet wird.
 
-
-    *        *
-        *            ![bgbl1_2023_j03670_0020.jpg](bgbl1_2023_j03670_0020.jpg)
-        *
-
-
-
-   Abbildung 2: Schema des 2D Heart-Cut GC-MS-Systems
-    für den Nachweis von BPE in Mineralölen
+    ![bgbl1_2025_j03400_0020.jpg](bgbl1_2025_j03400_0020.jpg)
+    Abbildung 2: Schema des 2D-Heart-Cut GC-MS-Systems
+    für den Nachweis von BPE in Mineralölen.
 
     Grundsätzlich kann die Methode in zwei Varianten angewendet werden:
 
-    VERFAHREN A) Injektion der unverdünnten Probe und Quantifizierung mit
+    Verfahren A) Injektion der unverdünnten Probe und Quantifizierung mit
     externem Standard; und
 
-    VERFAHREN B) Quantifizierung nach aliquoter Verdünnung mit einer
+    Verfahren B) Quantifizierung nach aliquoter Verdünnung mit einer
     internen Standardlösung (ISTD).
 
-    Der ISTD ist ein am Phenylring deuteriertes BPE (d5-BPE, Abschnitt 3).
+    Der ISTD ist ein am Phenylring deuteriertes BPE (d5-BPE, Abschnitt
+    3\.4). Der Vorteil der Verwendung des ISTD ist die Kompensation von
+    präzisionsmindernden Faktoren wie schwankendem Injektionsvolumen und
+    abnehmender Empfindlichkeit des Detektors. Andererseits müssen die
+    Proben bei Verwendung des ISTD vor der Analyse verdünnt werden.
 
 
-3   Reagenzien und Materialien
+**3** **Reagenzien und Materialien**
 
 
-3.1 n-Heptan (für die Chromatographie, Reinheit*                    99 %,)
+3.1 Toluol (für die Chromatographie, Reinheit ≥ 99,9 %).
 
 
-3.2 Toluol (für die Chromatographie, Reinheit*                    99,9 %)
+3.2 Xylol-Isomerengemisch oder o-Xylol (für die Chromatographie, Reinheit
+    ≥ 98 %).
 
 
-3.3 Xylol-Isomerengemisch oder o-Xylol (für die Chromatographie, Reinheit*
-    98 %)
+3.3 BPE (Reinheit ≥ 99 %).
 
 
-3.4 BPE (Reinheit*                    99 %)
+3.4 d5-BPE (Reinheit ≥ 98 %) oder kommerzielle d5-BPE-Lösung bekannter
+    Konzentration.
 
 
-3.5 d5-BPE (Reinheit*                    98 %)
-
-
-3.6 Gasöl mit und ohne Biodiesel (zum Beispiel DK-B0 und DK-B7)
+3.5 Gasöl mit und ohne Biodiesel (z. B. Dieselkraftstoff-B0 und -B7).
 
     Alle Reagenzien sind entsprechend den Sicherheitshinweisen zu
     handhaben und zu lagern.
 
 
-4   Analysengerät und Analysenparameter
+**4** **Analysengerät und Analysenparameter**
 
 
 4.1 Gaschromatograph mit automatischem Probengeber, Split-Splitless-
     Einlass (SSL) oder temperaturprogrammierbarem Einlasssystem (PTV),
     Pneumatikschaltmodul (PSD), Flammenionisationsdetektor (FID) und
     massenselektivem Detektor (MSD) mit Ionenextraktor- oder
-    vergleichbarer Elektronenstoßionisationsquelle
+    vergleichbarer Elektronenstoßionisationsquelle.
 
 
-4.2 Personalcomputer mit Software für Datenaufnahme und -auswertung
+4.2 Personalcomputer mit Software für Datenaufnahme und -auswertung.
 
 
-4.3 Standardlaborglasgeräte
+4.3 Standardlaborglasgeräte.
 
 
-4.4 Analysenwaage (mit mindestens 4 Nachkommastellen)
+4.4 Analysenwaage (mit mindestens 4 Nachkommastellen).
 
 
-4.5 Wasserbad (thermostatisierbar auf 20*                    0,2 °C)
+4.5 Wasserbad (thermostatisierbar auf 20 ± 0,2 °C).
 
 
-4.6 Mikropipetten (zur Herstellung von Standards und gegebenenfalls
-    Verdünnung mit ISTD-Lösung)
+4.6 Mikropipetten (zur Herstellung von Standards und ggf. Verdünnung mit
+    ISTD-Lösung).
 
 
-4.7 Chromatographiebedingungen
+4.7 PTFE-Spritzenfilter (z. B. Maschenweite 0,2 µm, Durchmesser 25 mm).
+
+
+4.8 Chromatographiebedingungen
 
     Die folgenden beispielhaften Bedingungen sind erfolgreich getestet
     worden. Jedes Labor muss die Methodenparameter entsprechend seiner
     eigenen instrumentellen Ausstattung optimieren.
 
-    Berechnen Sie die entsprechenden Druck- und Flusswerte mit einem PSD-
-    Berechnungstool.
+    Die entsprechenden Druck- und Flusswerte sind mit einem PSD-
+    Berechnungsprogramm zu ermitteln.
 
     Besonderes Augenmerk ist auf die Länge des Heart-Cut-Zeitfensters zu
-    richten (On-Off-Ventil des PSD). Überprüfen Sie die Heart-Cut-
-    Parameter mindestens monatlich und auf jeden Fall nach jeder
-    Veränderung am Gerät durch Injektion einer BPE-Lösung in Höhe von
-    mindestens der höchsten Standardkonzentration in Xylol oder Toluol.
+    richten (On-Off-Ventil des PSD). Die Heart-Cut-Parameter sind
+    mindestens monatlich und auf jeden Fall nach jeder Veränderung am
+    Gerät durch Injektion einer BPE-Lösung in Höhe von mindestens der
+    höchsten Standardkonzentration in Xylol oder Toluol zu ermitteln.
 
     Eine Verschiebung der BPE-Retentionszeit oder eine Verschlechterung
-    der Peakform (zum Beispiel Tailing) in der ersten Säule würde die
-    Menge des in die zweite Säule geleiteten Analyten verringern, was zu
-    einer Unterschätzung der BPE-Konzentration führen würde, wenn das
+    der Peakform (z. B. Tailing) in der ersten Säule würde die Menge des
+    in die zweite Säule geleiteten Analyten verringern, was zu einer
+    Unterschätzung der BPE-Konzentration führen würde, wenn das
     Zeitfenster des PSD nicht entsprechend angepasst wird.
 
     Anstelle von Helium kann auch Wasserstoff als Trägergas verwendet
@@ -8395,14 +8429,17 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
         *   Injektionsvolumen:
 
-        *   1 µl (10 µl Spritze) mit 0,2 µl Luftpolster
+        *   1 µl (10 µl Spritze) mit
+            0,2 µl Luftpolster
 
-        *   0,2 µl (1 µl Spritze) mit 0,02 µl Luftpolster
+        *   0,2 µl (1 µl Spritze) mit
+            0,02 µl Luftpolster
 
 
     *        *   Lösungsmittelreinigungszyklen:
 
-        *   2 mal 8 µl vor und 5 mal 4 µl nach der Injektion
+        *   2 mal 8 µl vor und 5 mal
+            4 µl nach der Injektion
 
         *   2 mal 0,8 µl vor und 5 mal 0,4 µl nach der Injektion
 
@@ -8419,7 +8456,7 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
         *   Toluol
 
 
-    *        *   Viscositätsverzögerung:
+    *        *   Viskositätsverzögerung:
 
         *   2 s
 
@@ -8443,19 +8480,18 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
         *   Liner:
 
-        *   Ultra-inert (900 µl, split/splitless, single taper, glass wool)
+        *   Ultra-inert
+            (900 µl, split/splitless, mit Konus und Glaswolle)
 
 
     *        *   Temperatur:
 
         *   250 °C oder 300 °C
 
-        *   300 °C und bis 400 °C nach Heart Cut
+        *   300 °C und bis 400 °C nach Heart Cut (PTV)
 
 
-    *        *   Einlasssystem
-
-        *   Splitverhältnis:
+    *        *   Splitverhältnis:
 
         *   50:1 (mit ISTD),
             100:1 (ohne ISTD)
@@ -8464,13 +8500,13 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
             10:1 (ohne ISTD)
 
 
-    *        *
-        *   Anpassung des Splitverhältnisses aufgrund der Verdünnung mit ISTD
+    *        *   Anpassung des Splitverhältnisses aufgrund der Verdünnung mit ISTD.
 
 
     *        *   Trägergas:
 
-        *   Helium (104 ml/min, Gas Saver nach 3 min)
+        *   Helium (104 ml/min, Split 1:100 Gas Saver nach 3 min)
+            Helium (14 ml/min, Split 1:10, Gas Saver nach 3 min)
 
 
     *        *   Septumspülung:
@@ -8485,11 +8521,11 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
         *   Parameter
 
         *   Konfiguration 1
-            (SSL-Inlet und Backflush)
+            (SSL-Einlass und Rückspülung)
 
         *   Konfiguration 2
-            (SSL- oder PTV-Inlet mit
-            und ohne Backflush)
+            (SSL- oder PTV-Einlass mit
+            oder ohne Rückspülung)
 
 
     *        *   Kapillarsäulen
@@ -8498,43 +8534,48 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
         *   ohne
 
-        *   zum Beispiel deaktivierte Vorsäule (L: 5 m, ID: 0,25 mm)
+        *   z. B. deaktivierte Vorsäule
+            (L: 5 m, ID: 0,25 mm)
 
 
     *        *   1. Säule:
 
-        *   unpolare Kapillarsäule, zum Beispiel DB-17HT (L: 15 m, ID: 0,25 mm,
-            Film 0,15 µm)
+        *   unpolare Hochtemperaturkapillarsäule mit 50 % Phenylmethylpolysiloxan
+            (L: 15 m, ID: 0,25 mm, Film 0,15 µm)
 
-        *   unpolare Kapillarsäule, zum Beispiel DB-1HT (L: 15 m, ID: 0,25 mm,
-            Film 0,1 µm)
-
-
-    *        *
-        *   2. Restriktor zum FID:
-
-        *   zum Beispiel Leerkapillare (L: 0,64 m, ID: 0,1 mm)
-
-        *   zum Beispiel Leerkapillare (L: 0,68 m, ID: 0,1 mm)
+        *   unpolare Hochtemperaturkapillarsäule mit 100 % Polydimethylsiloxan (L:
+            15 m,
+            ID: 0,25 mm, Film 0,1 µm)
 
 
-    *        *
-        *   3. Säule:
+    *        *   2. Restriktor zum FID:
 
-        *   Kapillarsäule mit polarer Phase (L: 30 m, ID: 0,25 mm, Film 1,0 µm)
+        *   z. B. Leerkapillare
+            (L: 0,64 m, ID: 0,1 mm)
 
-        *   Kapillarsäule mit polarer Phase (L: 30 m, ID: 0,25 mm, Film 0,2 µm)
+        *   z. B. Leerkapillare
+            (L: 0,68 m, ID: 0,1 mm)
 
 
-    *        *   Säulenfluss-raten
+    *        *   3. Säule:
+
+        *   GC/MS-Kapillarsäule mit polarer Polyethylenglykolphase (L: 30 m, ID:
+            0,25 mm, Film 1,0 µm)
+
+        *   Kapillarsäule mit polar-
+            ionischer                              Flüssigphase
+            (L: 30 m, ID: 0,25 mm, Film 0,2 µm)
+
+
+    *        *   Säulenflussraten
 
         *   1. Säule:
 
-        *   1 ml/min für 5,15 min, dann
-            –1 ml/min bis 15,167 min (Backflush)
+        *   1 ml/min für 5,15 min,
+            dann –1 ml/min bis 15,167 min (Rückspülung)
 
-        *   1,075 ml/min für 4,3 min, dann –3 ml/min bis 15 min (nur für
-            Backflush)
+        *   1,075 ml/min für 4,3 min, dann -3 ml/min bis 15 min (nur für
+            Rückspülung)
 
 
     *        *   2. Restriktor zum FID:
@@ -8554,14 +8595,15 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     *        *   Säulenofen
 
         *
-        *   100 °C für 0,5 min, 10 °C/min bis 180 °C, 30 °C/min bis 260 °C, 260 °C
-            halten für 4 min; Gesamtzeit: 15,167 min
+        *   100 °C für 0,5 min, 10 °C/min bis 180 °C, 30 °C/min bis
+            260 °C,                              260 °C halten für 4 min;
+            Gesamtlaufzeit: 15,2 min
 
-        *   100 °C für 1 min, 5 °C/min bis 125 °C, 100 °C/min bis
-            260 °C,                              260 °C halten für 7,65 min;
-            Gesamtlaufzeit: 15 min **oder**                              ohne
-            **Backflush**                             : 260 °C halten für 3 min,
-            10 °C/min bis 290 °C, 290 °C halten für 6,65 min; Gesamtzeit: 20 min
+        *   100 °C für 1 min, 5 °C/min bis 125 °C, 100 °C/min bis 260 °C, 260 °C
+            halten für 7,65 min; Gesamtlaufzeit: 15 min oder ohne Rückspülung: 100
+            °C für 1 min, 5 °C/min bis 125 °C, 100 °C/min bis 260 °C, 260 °C
+            halten für 3 min, 10 °C/min bis 290 °C, 290 °C halten für 6,65 min;
+            Gesamtlaufzeit: 20 min
 
 
     *        *   PSD/
@@ -8582,7 +8624,8 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
 
     *        *   Bestimmt und regelmäßig überprüft mit BPE-Lösung auf dem Niveau von
-            mindestens der höchsten Standardkonzentration in Xylol oder Toluol
+            mindestens
+            der höchsten Standardkonzentration in Xylol oder Toluol.
 
 
     *        *   FID
@@ -8592,27 +8635,22 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
         *   285 °C
 
 
-    *        *
-        *   Air Flow:
+    *        *   Air Flow:
 
         *   400 ml/min
 
 
-    *        *
-        *   H
-            2                             -Flow:
+    *        *   H2-Flow:
 
         *   40 ml/min
 
 
-    *        *
-        *   Makeup (N2)-Flow:
+    *        *   Makeup (N2)-Flow:
 
         *   25 ml/min
 
 
-    *        *
-        *   Datenrate:
+    *        *   Datenrate:
 
         *   20 Hz
 
@@ -8624,58 +8662,49 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
         *   260 °C
 
 
-    *        *
-        *   EI-Quellentemperatur:
+    *        *   EI-Quellentemperatur:
 
         *   230 °C
 
 
-    *        *
-        *   Quadrupoltemperatur:
+    *        *   Quadrupoltemperatur:
 
         *   150 °C
 
 
-    *        *
-        *   Verstärkungsfaktor:
+    *        *   Verstärkungsfaktor:
 
         *   1,0
 
 
-    *        *
-        *   SIM Ionen BPE:
+    *        *   SIM Ionen BPE:
 
         *   m/z = 94 and 150 (Quantifier and Qualifier)
 
 
-    *        *
-        *   SIM Ionen d5-BPE:
+    *        *   SIM Ionen d5-BPE
 
         *   m/z = 99 and 155 m/z (Quantifier and Qualifier)
 
 
-    *        *
-        *   Dwell-Time:
+    *        *   Dwell-Time:
 
-        *   100 ms each
+        *   jeweils 100 ms
 
 
-    *        *
-        *   Scanrate:
+    *        *   Scanrate:
 
         *   1,562 u/s
 
 
-    *        *
-        *   Detektor an:
+    *        *   Detektor an:
 
         *   8,0 min
 
         *   6,1 min
 
 
-    *        *
-        *   Detektor aus:
+    *        *   Detektor aus:
 
         *   9,5 min
 
@@ -8684,17 +8713,19 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
 
 
-    Tabelle 1: Beispielhafte Chromatographiebedingungen
+    Tabelle 1: Chromatographiebedingungen
 
 
-5   Durchführung
+**5** **Durchführung**
 
 
 5.1 Allgemeines
 
-    Entnehmen Sie eine repräsentative Probe des zu analysierenden
-    Produkts. Für die Quantifizierung sind die Proben als Doppelbestimmung
-    zu analysieren.
+    Es ist eine repräsentative Probe des zu analysierenden Produkts zu
+    entnehmen. Für die Quantifizierung sind die Proben als
+    Doppelbestimmung zu analysieren. Probenfiltration ist nur notwendig,
+    wenn diese augenscheinlich Feststoffe enthalten. In diesem Fall, wird
+    die Verwendung von Spritzenfiltern (4.7) empfohlen.
 
 
 5.2 Voruntersuchung
@@ -8707,7 +8738,7 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     und Trennleistung verfügt, wird vor den Proben eine Kontrolllösung
     eingespritzt, die BPE in einer Gasölmatrix enthält. Es wird empfohlen,
     etwa 0,5 % der erforderlichen Konzentration in gekennzeichnetem,
-    leichtem Heizöl zu verwenden (zum Beispiel Standardlösung 9).
+    leichtem Heizöl zu verwenden (z. B. Standardlösung 9).
 
     Vorgehensweise:
 
@@ -8717,25 +8748,24 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     Die Proben sind ebenfalls unverdünnt zu analysieren.
 
     Wenn die Kontrolle erfolgreich ist und kein Signal für BPE in der
-    Probe vorliegt, kann die Probe als negativ angesehen werden und es ist
-    keine weitere Analyse erforderlich.
+    Probe detektiert wird, kann die Probe als negativ angesehen werden und
+    es ist keine weitere Analyse erforderlich.
 
-    Die Analyse der Kontrollprobe ist nach zehn unbekannten Proben zu
+    Die Analyse der Kontrollprobe ist nach 10 unbekannten Proben zu
     wiederholen.
 
 
-5.3 VERFAHREN A): Analyse ohne Zusatz eines internen Standards
+5.3 Verfahren A): Analyse ohne Zusatz eines internen Standards
 
 
 5.3.1 Probenvorbereitung für die Quantifizierung
 
-    Füllen Sie die Proben in 2-ml-Fläschchen und verschließen Sie diese
-    gut.
+    Die Proben sind in 2-ml-Fläschchen abzufüllen und gut zu verschließen.
 
 
 5.3.2 Kontrollproben
 
-    BPE-freier Dieselkraftstoff-B7 wird mit BPE versetzt, um zwei
+    BPE-freier Dieselkraftstoff wird mit BPE versetzt, um zwei
     Kontrollproben mit einem Gehalt von etwa 10 mg/l und 0,1 mg/l
     herzustellen. Die Vorbereitung kann wie bei den Standardlösungen 2 und
     8 erfolgen. Alternativ kann auch ein zertifiziertes Referenzmaterial
@@ -8761,8 +8791,7 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     etwa 150 mg/l.
 
     Vor dem Auffüllen sind die Lösungen im Wasserbad (Abschnitt 4.5)
-    mindestens für 30 Minuten auf
-    20 °C                    zu temperieren.
+    mindestens für 30 Minuten auf 20 °C zu temperieren.
 
     Die Einwaagen, Zielkonzentrationen und Endvolumina sind Richtwerte. Es
     muss eine gleichmäßige Verteilung der Konzentrationen der Standards
@@ -8783,8 +8812,8 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
         *   Verdünnt aus
             BPE-Stamm-/Standardlösung
 
-        *   Volumen
-            BPE-Stamm-/Standard
+        *   Volumen BPE-Stamm-/
+            Standard
             [ml]
 
         *   Endvolumen
@@ -8909,7 +8938,7 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     mindestens 30 Minuten lang auf 20 °C zu temperieren. Die Einwaagen,
     Zielkonzentrationen und Endvolumina sind Richtwerte.
 
-    Für die Routinekalibrierung ist die Verwendung von mindestens sechs
+    Für die Routinekalibrierung ist die Verwendung von mindestens 6
     Kalibrierpunkten (fett gedruckt) ausreichend. Die Kalibrierlösungen
     werden vor den Proben eingespritzt. Falls erforderlich, sind
     Mehrfachinjektionen der Standards möglich.
@@ -8918,10 +8947,15 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     höheren BPE-Konzentrationen ist möglich. In diesem Fall ist zu prüfen,
     ob eine lineare Regression zulässig ist.
 
+    Die Kalibrierlösungen sind mindestens einmal jährlich zu überprüfen
+    und ggf. neu anzusetzen.
+
     Die Kalibrierkurve wird durch den Koordinatenursprung gezwungen.
 
+    Übliche Chromatogramme sind aus Anhang 1 ersichtlich.
 
-5.4 VERFAHREN B): Bestimmung mit Zusatz des internen Standards
+
+5.4 Verfahren B): Bestimmung mit Zusatz des internen Standards
 
 
 5.4.1 Probenvorbereitung für die Quantifizierung
@@ -8938,45 +8972,55 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     Gesamtinjektionsvolumens und einer entsprechend angepassten
     Injektionsspritze.
 
+    Wenn die Proben sichtbare Feststoffanteile aufweisen und filtriert
+    werden müssen, ist die Filtration an der Originalprobe und nicht nach
+    Zugabe des internen Standards vorzunehmen.
+
 
 5.4.2 Kontrollproben
 
-    Siehe Abschnitt 5.3.2
+    Siehe Abschnitt 5.3.2.
 
 
 5.4.3 Interne Standardlösung mit d5-BPE in Xylol
 
     ISTD-Stammlösung I: Etwa 500 mg d5-BPE (mit einer Genauigkeit von 0,1
     mg) werden in einen 100-ml-Messkolben eingewogen und bis zur Marke mit
-    Xylol (3.3) aufgefüllt. Diese Stammlösung hat eine
-    d5-BPE-Konzentration                    von etwa 5000 mg/l.
+    Xylol (3.2) aufgefüllt. Diese Stammlösung hat eine d5-BPE-
+    Konzentration von etwa 5000 mg/l.
 
     Die Reinheit der Kalibriersubstanz gemäß dem Analysenzertifikat ist zu
     berücksichtigen.
 
     ISTD-Stammlösung II: 1000 µl der ISTD-Stammlösung I werden in einen
-    50-ml-Messkolben überführt und bis zur Marke mit Xylol (3.3)
+    50-ml-Messkolben überführt und bis zur Marke mit Xylol (3.2)
     aufgefüllt. Diese Stammlösung hat eine d5-BPE-Konzentration von etwa
     100 mg/l.
 
     ISTD-Stammlösung III: 2000 µl der ISTD-Stammlösung II werden in einen
-    100-ml-Kolben überführt und bis zur Marke mit Xylol (3.3) aufgefüllt.
+    100-ml-Kolben überführt und bis zur Marke mit Xylol (3.2) aufgefüllt.
     Diese Stammlösung hat eine d5-BPE-Konzentration von etwa 2 mg/l.
 
     Vor dem Auffüllen sind die Mischungen mindestens 30 Minuten lang im
-    Wasserbad (Abschnitt 4.6) auf 20 °C zu temperieren.
+    Wasserbad (Abschnitt 4.5) auf 20 °C zu temperieren.
+
+    Anstelle einer selbst hergestellten Lösung des internen Standards kann
+    auch ein kommerziell erhältliches Konzentrat nach entsprechender
+    Verdünnung verwendet werden.
 
 
 5.4.4 Standardlösungen mit BPE
 
-    Siehe Abschnitt 5.3.3
+    Siehe Abschnitt 5.3.3.
 
-    Für die Routinekalibrierung ist die Verwendung von mindestens sechs
+    Für die Routinekalibrierung ist die Verwendung von mindestens 6
     Kalibrierlösungen (fett gedruckt) ausreichend. Die Kalibrierlösungen
     werden vor den Proben eingespritzt. Falls erforderlich, sind
     Mehrfachinjektionen der Standards möglich.
 
     Die Kalibrierkurve wird durch den Koordinatenursprung gezwungen.
+
+    Übliche Chromatogramme sind aus Anhang 1 ersichtlich.
 
 
 5.5 Kalibrierung und Berechnung
@@ -8985,7 +9029,7 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     durchgeführt (6 Punkte und erzwungener Nullpunkt, siehe auch 5.3.3.2
     und 5.4.4).
 
-    VERFAHREN A):
+    Verfahren A):
 
     Die Kalibrierkurve wird erstellt, indem die Fläche des zu
     quantifizierenden Ions (m/z = 94) des BPE-Peaks in jedem
@@ -8993,17 +9037,11 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     Standards in mg/l aufgetragen wird. Es wird eine lineare Regression
     mit erzwungenem Nulldurchgang angewandt.
 
-    Berechnen Sie die Konzentration X (mg/l) von BPE in der Probe anhand
+    Die Konzentration X (mg/l) von BPE in der Probe wird berechnet anhand
     der linearen Gleichung:
 
-
-    *        *
-        *            ![bgbl1_2023_j03670_0030.jpg](bgbl1_2023_j03670_0030.jpg)
-        *
-
-
-
-   mit
+    ![bgbl1_2025_j03400_0030.jpg](bgbl1_2025_j03400_0030.jpg)
+    mit
 
     a   = Steigung der Regressionsgeraden
 
@@ -9014,79 +9052,70 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
 
 
-    VERFAHREN B):
+    Verfahren B):
 
     Die Kalibrierkurve wird konstruiert, indem das Verhältnis der Fläche
-    des quantifizierenden Ions
-    (m/z = 94)                    des BPE-Peaks zur Fläche des
-    quantifizierenden Ions des d5-BPE-Peaks (m/z = 99) in jedem
+    des zu quantifizierenden Ions (m/z = 94) des BPE-Peaks zur Fläche des
+    zu quantifizierenden Ions des d5-BPE-Peaks (m/z = 99) in jedem
     Standardchromatogramm gegen die genaue Konzentration des jeweiligen
     Standards in mg/l aufgetragen wird. Es wird eine lineare Regression
     mit erzwungenem Nulldurchgang angewandt. Mit Hilfe der
-    Regressionsgerade wird die Konzentration der Probe in mg/l bestimmt.
+    Regressionsgeraden wird die Konzentration der Probe in mg/l bestimmt.
 
-    Berechnen Sie die Konzentration X (mg/l) von BPE in der Probe anhand
+    Die Konzentration X (mg/l) von BPE in der Probe wird berechnet anhand
     der linearen Gleichung:
 
+    ![bgbl1_2025_j03400_0040.jpg](bgbl1_2025_j03400_0040.jpg)
+    mit
 
-    *        *
-        *            ![bgbl1_2023_j03670_0040.jpg](bgbl1_2023_j03670_0040.jpg)
-        *
-
-
-
-   mit
-
-    a   = Steigung der Regressionsgeraden
+    a   = Steigung der Regressionsgeraden
 
 
-    Y'  = Verhältnis der Fläche des zu quantifizierenden Ions des BPE (m/z =
+    Y'  = Verhältnis der Fläche des zu quantifizierenden Ions des BPE (m/z =
         94) zur Fläche des zu quantifizierenden Ions des Peaks des d5-BPE (m/z
         = 99) im Chromatogramm der Probe
 
 
 
 
-    Führen Sie die Kalibrierung regelmäßig (mindestens alle zwei Wochen)
-    und nach jeder Änderung am Gerät (z. B. MSD-Tuning, Wechsel des
-    Liners, Änderung des Heart-Cut-Zeitfensters) oder im Falle eines
-    Qualitätskontrollfehlers durch.
+    Die Kalibrierung wird regelmäßig (mindestens monatlich) und nach jeder
+    Änderung am Gerät (z. B. MSD-Tuning, Wechsel des Liners, Änderung des
+    Heart-Cut-Zeitfensters) oder im Falle eines Qualitätskontrollfehlers
+    durchgeführt.
 
     Qualitätssichernde Maßnahmen:
 
-    Nach jeder Kalibrierung werden eine n-Heptan- oder Toluol-
-    Leerwertprobe und die Kontrollproben (5.3.2) analysiert. Nach der
-    Messung von zehn Proben (als Doppelbestimmung) sind die Leer- und
-    Kontrollproben erneut zu vermessen. Die Ergebnisse sind in Regelkarten
-    zu verzeichnen. Wiederholen Sie die Kalibrierung, wenn die
-    Qualitätskontrolle versagt oder ein Trend über mehr als sieben
-    Messungen vorliegt.
+    Nach jeder Kalibrierung werden eine Toluol-Leerwertprobe und die
+    Kontrollproben (5.3.2) analysiert. Nach der Messung von 10 Proben (als
+    Doppelbestimmung) sind die Leer- und Kontrollproben erneut zu
+    vermessen. Die Ergebnisse sind in Regelkarten zu verzeichnen. Die
+    Kalibrierung ist zu wiederholen, wenn die Qualitätskontrolle versagt
+    oder ein Trend über mehr als 7 Messungen vorliegt.
 
     Die quantitative Auswertung ist nur zulässig, wenn die Signale von BPE
     und d5-BPE nicht gestört sind und das Verhältnis des Molekularpeaks
     zum Basispeak im erwarteten Bereich liegt (Qualifier-Ion).
 
 
-6   Ergebnisangabe
+**6** **Ergebnisangabe**
 
     Der Gehalt an Kennzeichnungsstoffen wird als Massenkonzentration in
-    mg/l angegeben. Bei Massenkonzentrationen*                    1,00
-    mg/l erfolgt die Ergebnisangabe auf 0,01 mg/l gerundet, oberhalb von
-    1,00 mg/l auf 0,1 mg/l gerundet.
+    mg/l angegeben. Bei Massenkonzentrationen ≤ 1,00 mg/l erfolgt die
+    Ergebnisangabe auf 0,01 mg/l gerundet, oberhalb von 1,00 mg/l auf 0,1
+    mg/l gerundet.
 
     Beim Runden auf die letzte anzugebende Stelle ist DIN 1333 zu
     berücksichtigen.
 
 
-7   Präzision
+**7** **Präzisionsbezogene Kennwerte**
 
 
-7.1 Arbeitsbereich
+7.1 Arbeitsbereich und Linearität
 
     Die Linearität der Kalibrierung wurde bis zu Konzentrationen von 20
-    mg/l geprüft. Der lineare Korrelationskoeffizient R
-    2                    sollte besser als 0,995 sein (R*
-    0,999).
+    mg/l geprüft. Der lineare Korrelationskoeffizient R² sollte besser als
+    0,998 sein (R > 0,999).
 
 
 7.2 Nachweis- und Bestimmungsgrenze
@@ -9098,29 +9127,29 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     Diese Werte sind nach dem IUPAC-Verfahren durch mindestens zehnmalige
     Messung einer Probe mit einer bekannten niedrigen Konzentration und
     Multiplikation der Standardabweichung mit 3 bzw. 10 zu schätzen. Die
-    Werte in Tabelle 3 sind Richtwerte, die mit einem modernen MSD
-    erreicht werden können.
+    Werte in Tabelle 3 sind Richtwerte, die mit beiden Säulenkombinationen
+    (4.8) und einem modernen MSD erreicht werden können.
 
     *        *
-        *   VERFAHREN A)
+        *   Verfahren A)
             ohne ISTD [mg/l]
 
-        *   VERFAHREN B)
+        *   Verfahren B)
             mit ISTD [mg/l]
 
 
     *        *   Nachweisgrenze (LOD)
 
-        *   0,009
+        *   0,01
 
-        *   0,011
+        *   0,01
 
 
     *        *   Bestimmungsgrenze (LOQ)
 
-        *   0,031
+        *   0,03
 
-        *   0,036
+        *   0,04
 
 
 
@@ -9131,7 +9160,36 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     Nachweis- und Bestimmungsgrenze.
 
 
-7.3 Wiederholbarkeit und Vergleichbarkeit
+7.3 Robustheit
+
+    Die Methode ist robust. Über einen Zeitraum von 12 Monaten wurden
+    keine signifikanten Unterschiede bei den Retentionszeiten und
+    Konzentrationen der Kontrollproben festgestellt.
+
+    Besondere Aufmerksamkeit sollte der Split-Entlüftungsleitung und dem
+    -filter gewidmet werden, da dort Gasöl kondensiert. Sie sollten
+    regelmäßig gereinigt oder ausgetauscht werden. Es ist darauf zu
+    achten, dass sich die Umgebungstemperatur während der Messungen nicht
+    wesentlich ändert.
+
+
+7.4 Spezifität und Selektivität
+
+    Die Methode ist spezifisch und selektiv. Die Analyten werden im
+    jeweiligen SIM-Chromatogramm basisliniengetrennt. Die Signale von BPE
+    und d5-BPE werden nicht gestört durch Begleitsubstanzen wie Biodiesel,
+    Rotfarbstoffe, Solvent Yellow 124 oder Basisöle in
+    Designerkraftstoffen.
+
+
+7.5 Wiederfindung
+
+    Die Wiederfindung wurde auf verschiedenen Konzentrationsniveaus
+    getestet. Die Wiederfindung lag im Bereich von 100 ± 4 %, unabhängig
+    davon, ob mit oder ohne ISTD gearbeitet wurde.
+
+
+7.6 Wiederholbarkeit und Vergleichbarkeit
 
     Es wurde festgestellt, dass die Wiederholbarkeit und die
     Vergleichbarkeit von der BPE-Konzentration abhängen und durch die
@@ -9139,84 +9197,300 @@ Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
     Mittelwert einer Doppelbestimmung ist:
 
     *        *
-        *   VERFAHREN A)
+        *   Verfahren A)
             ohne ISTD [mg/l]
 
-        *   VERFAHREN B)
+        *   Verfahren B)
             mit ISTD [mg/l]
 
 
     *        *   Wiederholbarkeit (r)
 
-        *   r = 0,036 X + 0,048
+        *   r = 0,0236 X + 0,0111
 
-        *   r = 0,0363 X – 0,0124
+        *   r = 0,0175 X + 0,0273
 
 
     *        *   Vergleichbarkeit (R)
 
-        *   R = 0,121 X + 0,055
+        *   R = 0,1107 X + 0,0442
 
-        *   R = 0,0893 X + 0,042
-
-
-    *        *   Horwitz-Vergleichbarkeit
-
-        *   R
-            Horw                              = 0,0778 X + 0,0235
+        *   R = 0,076 X + 0,0219
 
 
+    *        *   Abhängigkeit der Standardabweichung nach Horwitz-Prognose
 
-
-    Tabelle 4: Wiederhol- und Vergleichbarkeit sowie Vorhersage nach
-    Horwitz
-
-
-8.  Anhang
-
-
-8.1 Anhang 1: Chromatogramme
-
-
-    *        *
-        *            ![bgbl1_2023_j03670_0050.jpg](bgbl1_2023_j03670_0050.jpg)
-        *
+        *   SD
+            Horw                              = 0,1075 X + 0,0331
 
 
 
-   Abbildung 3: FID-Signal (ohne ISTD)
+
+    Tabelle 4: Wiederhol- und Vergleichbarkeit sowie lineare Regression
+    der prognostizierten Standardabweichung nach Horwitz
+
+
+7.7 Messunsicherheit
+
+    Die Messunsicherheit ist unter Berücksichtigung von Ringversuchsdaten
+    gemäß dem „Handbuch zur Berechnung der Messunsicherheit in
+    Umweltlaboratorien“ vom 15. März 2005 in Verbindung mit dem „Nordtest
+    Report TR 537“ (Handbuch zur Berechnung der Messunsicherheit in
+    Umweltlaboratorien, Fassung vom 13. Oktober 2003) abzuschätzen.
+
+
+**8** **Anhänge**
+
+    Anhang 1: Chromatogramme
+
+    ![bgbl1_2025_j03400_0050.jpg](bgbl1_2025_j03400_0050.jpg)
+    Abbildung 3: FID-Signal (ohne ISTD)
 
     Bei der Messung von Proben mit ISTD dominiert das Lösemittelsignal von
     Xylol das FID-Chromatogramm.
 
+    ![bgbl1_2025_j03400_0060.jpg](bgbl1_2025_j03400_0060.jpg)
+    Abbildung 4: Total-Ionen-Chromatogramm des MSD
+    (BPE ca. 0,1 mg/l, nicht genutzt für die Quantifizierung)
+
+    ![bgbl1_2025_j03400_0070.jpg](bgbl1_2025_j03400_0070.jpg)
+    Abbildung 5: SIM-Spuren des MSD
+    bei einer BPE-Konzentration von 0,12 mg/l (mit ISTD, Split 1:100)
+
+    ![bgbl1_2025_j03400_0080.jpg](bgbl1_2025_j03400_0080.jpg)
+    Abbildung 6: Typische Routinekalibriergerade mit ISTD
+
+    Anhang 2: Ringversuchsdaten zur Wiederhol- und Vergleichbarkeit
+
+    Die Daten zur Wiederhol- und Vergleichbarkeit basieren auf einer CLEN-
+    Validierungsstudie aus dem Jahr 2023.
 
     *        *
-        *            ![bgbl1_2023_j03670_0060.jpg](bgbl1_2023_j03670_0060.jpg)
-        *
+        *   ILIADe 606 Methode
+            Verfahren A
+
+        *   ILIADe 606 Methode
+            Verfahren B
+
+
+    *        *   n-Butylphenylether
+
+        *   Robuster
+            Mittelwert
+
+        *   Wiederhol-
+            barkeit
+
+        *   Vergleich-
+            barkeit
+
+        *   Robuster
+            Mittelwert
+
+        *   Wiederhol-
+            barkeit
+
+        *   Vergleich-
+            barkeit
+
+
+    *        *   xpt
+
+        *   r
+
+        *   R
+
+        *   xpt
+
+        *   r
+
+        *   R
+
+
+    *        *   Probe 1
+            (B0 ≈ 0.11 mg/l BPE)
+
+        *   0,11
+
+        *   0,00
+
+        *   0,03
+
+        *   0,12
+
+        *   0,00
+
+        *   0,03
+
+
+    *        *   Probe 2
+            (B0 ≈ 1.98 mg/l BPE, 7.3 mg/l SY 124)
+
+        *   1,98
+
+        *   0,08
+
+        *   0,25
+
+        *   1,98
+
+        *   0,08
+
+        *   0,20
+
+
+    *        *   Probe 3
+            (B0 ≈ 5.00 mg/l BPE)
+
+        *   4,91
+
+        *   0,11
+
+        *   0,42
+
+        *   4,93
+
+        *   0,14
+
+        *   0,36
+
+
+    *        *   Probe 4
+            (B0 ≈ 10.00 mg/l BPE)
+
+        *   10,31
+
+        *   0,25
+
+        *   0,81
+
+        *   10,32
+
+        *   0,14
+
+        *   0,81
+
+
+    *        *   Probe 5
+            (B0 ≈ 15.00 mg/l BPE)
+
+        *   15,01
+
+        *   0,31
+
+        *   1,46
+
+        *   15,22
+
+        *   0,25
+
+        *   1,15
+
+
+    *        *   Probe 6
+            (B0 ≈ 0.17 mg/l BPE)
+
+        *   0,17
+
+        *   0,00
+
+        *   0,03
+
+        *   0,18
+
+        *   0,00
+
+        *   0,00
+
+
+    *        *   Probe 7
+            (B10 ≈ 7.00 mg/l BPE)
+
+        *   7,02
+
+        *   0,20
+
+        *   0,84
+
+        *   7,07
+
+        *   0,17
+
+        *   0,36
+
+
+    *        *   Probe 8
+            (B0 (85 %) + HVO (15 %),
+            ≈ 12.00 mg/l BPE)
+
+        *   12,19
+
+        *   0,36
+
+        *   1,62
+
+        *   12,28
+
+        *   0,28
+
+        *   0,78
+
+
+    *        *   Probe 9
+            (Kerosin ≈ 10.00 mg/l BPE,
+            7\.3 mg/l SY 124)
+
+        *   10,07
+
+        *   0,28
+
+        *   1,68
+
+        *   10,11
+
+        *   0,20
+
+        *   1,09
+
+
+    *        *   Probe 10
+            (Designerkraftstoff
+            ≈ 8.00 mg/lBPE)
+
+        *   7,92
+
+        *   0,17
+
+        *   1,15
+
+        *   8,07
+
+        *   0,22
+
+        *   0,81
+
+
+    *        *   Probe 11
+            (B7 + BPE from JRC-GEEL
+            ≈ 11.70 mg/l BPE)
+
+        *   11,65
+
+        *   0,28
+
+        *   1,20
+
+        *   11,69
+
+        *   0,25
+
+        *   0,87
 
 
 
-   Abbildung 4: Total-Ionen-Chromatogramm des MSD (BPE ca. 0,1 mg/l,
-    nicht genutzt für die Quantifizierung)
 
-
-    *        *
-        *            ![bgbl1_2023_j03670_0070.jpg](bgbl1_2023_j03670_0070.jpg)
-        *
-
-
-
-   Abbildung 5: SIM-Spuren des MSD bei einer BPE-Konzentration von 0,12
-    mg/l (mit ISTD)
-
-
-    *        *
-        *            ![bgbl1_2023_j03670_0080.jpg](bgbl1_2023_j03670_0080.jpg)
-        *
-
-
-
-   Abbildung 6: Typische Routinekalibriergerade mit ISTD
+    Tabelle 5: Robuster Mittelwert, Wiederhol- und Vergleichbarkeit – mit
+    und ohne ISTD
 
 
 
