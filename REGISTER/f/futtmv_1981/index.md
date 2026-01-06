@@ -182,90 +182,87 @@ Gemeinschaft und der Europäischen Union:
 
 ### § 1 Begriffsbestimmungen
 
-Im Sinne dieser Verordnung sind:
+Im Sinne dieser Verordnung ist oder sind:
 
 1.  nicht der Lebensmittelgewinnung dienendes Tier: nicht der
     Lebensmittelgewinnung dienendes Tier im Sinne des Artikels 3 Absatz 2
-    Buchstabe d der Verordnung (EG) Nr. 767/2009 des Europäischen
-    Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen
-    und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG)
-    Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur
-    Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der
-    Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des
-    Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung
-    2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom
-    22\.7.2011, S. 71), die zuletzt durch die Verordnung (EU) 2017/2279
-    (ABl. L 328 vom 12.12.2017, S. 3) geändert worden ist,
+    Buchstabe d der Verordnung (EG) Nr. 767/2009 in der Fassung vom 5.
+    Dezember 2018,
 
 
 2.  Heimtier: Heimtier im Sinne des Artikels 3 Absatz 2 Buchstabe f der
-    Verordnung (EG) Nr. 767/2009,
+    Verordnung (EG) Nr. 767/2009 in der Fassung vom 5. Dezember 2018,
 
 
 3.  Ergänzungsfuttermittel: Ergänzungsfuttermittel im Sinne des Artikels 3
-    Absatz 2 Buchstabe j der Verordnung (EG) Nr. 767/2009,
+    Absatz 2 Buchstabe j der Verordnung (EG) Nr. 767/2009 in der Fassung
+    vom 5. Dezember 2018,
 
 
 4.  Futtermittel für besondere Ernährungszwecke: Futtermittel für
     besondere Ernährungszwecke im Sinne des Artikels 3 Absatz 2 Buchstabe
-    o der Verordnung (EG) Nr. 767/2009,
+    o der Verordnung (EG) Nr. 767/2009 in der Fassung vom 5. Dezember
+    2018,
 
 
-5.  Inhaltsstoffe: Stoffe – außer Futtermittelzusatzstoffen,
+5.  Arzneifuttermittel: Arzneifuttermittel im Sinne des Artikels 3 Absatz
+    2 Buchstabe a der Verordnung (EU) 2019/4 in der Fassung vom 11.
+    Dezember 2018,
+
+
+6.  Zwischenerzeugnis: Zwischenerzeugnis im Sinne des Artikels 3 Absatz 2
+    Buchstabe b der Verordnung (EU) 2019/4 in der Fassung vom 11. Dezember
+    2018,
+
+
+7.  Inhaltsstoffe: Stoffe – außer Futtermittelzusatzstoffen,
     Mittelrückständen und unerwünschten Stoffen –, die in einem
     Einzelfuttermittel oder Mischfuttermittel enthalten sind und seinen
     Futterwert beeinflussen, es sei denn, dass diese Beeinflussung nur
     unerheblich ist,
 
 
-6.  Pestizidrückstände: Pestizidrückstände im Sinne des Artikels 3 Absatz
-    2 Buchstabe c der Verordnung (EG) Nr. 396/2005 des Europäischen
-    Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an
-    Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen
-    und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG
-    des Rates (ABl. L 70 vom 16.3.2005, S. 1) in der jeweils geltenden
-    Fassung,
+8.  Pestizidrückstände: Pestizidrückstände im Sinne des Artikels 3 Absatz
+    2 Buchstabe c der Verordnung (EG) Nr. 396/2005 in der Fassung vom 27.
+    März 2025,
 
 
-7.  EG-Zulassungsverordnung: Verordnung der Europäischen Gemeinschaft oder
+9.  mobiler Mischer: mobiler Mischer im Sinne des Artikels 3 Absatz 2
+    Buchstabe f der Verordnung (EU) 2019/4 in der Fassung vom 11. Dezember
+    2018,
+
+
+10. EG-Zulassungsverordnung: Verordnung der Europäischen Gemeinschaft oder
     der Europäischen Union nach
 
     a)  Artikel 3, 9g Absatz 5, Artikel 9h Absatz 3 oder Artikel 9i Absatz 3
-        der Richtlinie 70/524/EWG unter Berücksichtigung einer Änderung nach
-        Artikel 11 der Richtlinie 70/524/EWG des Rates vom 23. November 1970
-        über Zusatzstoffe in der Tierernährung (ABl. L 270 vom 14.12.1970, S.
-        1), die zuletzt durch die Verordnung (EG) Nr. 1756/2002 (ABl. L 265
-        vom 3.10.2002, S. 1) geändert worden ist,
+        der Richtlinie 70/524/EWG in der Fassung vom 23. September 2002,
 
 
-    b)  Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1831/2003 des
-        Europäischen Parlaments und des Rates vom 22. September 2003 über
-        Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom
-        18\.10.2003, S. 29, L 192 vom 29.5.2004, S. 34, L 98 vom 13.4.2007, S.
-        29) in der jeweils geltenden Fassung,
+    b)  Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1831/2003 in
+        der Fassung vom 20. Juni 2019,
 
 
 
 
 
-8.  Einfuhr: die Überlassung zum zollrechtlich freien Verkehr im Sinne des
-    Artikels 201 der Verordnung (EU) Nr. 952/2013 des Europäischen
-    Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des
-    Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1),
+11. Einfuhr: die Überlassung zum zollrechtlich freien Verkehr im Sinne des
+    Artikels 201 der Verordnung (EU) Nr. 952/2013 in der Fassung vom 23.
+    November 2022,
 
 
-9.  Mitgliedstaat: ein Staat, der der Europäischen Union angehört,
+12. Mitgliedstaat: ein Staat, der der Europäischen Union angehört,
 
 
-10. Vertragsstaat: ein Staat, der – ohne Mitglied der Europäischen Union
+13. Vertragsstaat: ein Staat, der – ohne Mitglied der Europäischen Union
     zu sein – Vertragsstaat des Abkommens über den Europäischen
     Wirtschaftsraum ist,
 
 
-11. Drittland: Staat, der nicht Mitgliedstaat oder Vertragsstaat ist,
+14. Drittland: Staat, der nicht Mitgliedstaat oder Vertragsstaat ist,
 
 
-12. Fernabsatzvertrag: Vertrag, bei dem
+15. Fernabsatzvertrag: Vertrag, bei dem
 
     a)  ein Futtermittelunternehmer oder eine in seinem Namen oder Auftrag
         handelnde Person und
@@ -283,7 +280,7 @@ Im Sinne dieser Verordnung sind:
     Vertriebs- oder Dienstleistungssystems erfolgt,
 
 
-13. Fernkommunikationsmittel: Kommunikationsmittel, die zur Anbahnung oder
+16. Fernkommunikationsmittel: Kommunikationsmittel, die zur Anbahnung oder
     zum Abschluss eines Vertrages eingesetzt werden können, ohne dass die
     Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe,
     Kataloge, Telekopien, E-Mails oder digitale Dienste nach § 1 Absatz 4
@@ -327,10 +324,11 @@ erforderlichen Kennzeichnungsangaben nach
     Absatz 1 und 2 Buchstabe a und b, Artikel 17 Absatz 1 Buchstabe a bis
     c und Buchstabe e, dieser auch in Verbindung mit Artikel 17 Absatz 2,
     und Buchstabe f, Artikel 18 und Artikel 20, der Verordnung (EG) Nr.
-    767/2009 und
+    767/2009 in der Fassung vom 5. Dezember 2018 und
 
 
-2.  Artikel 19 der Verordnung (EG) Nr. 767/2009
+2.  Artikel 19 der Verordnung (EG) Nr. 767/2009 in der Fassung vom 5.
+    Dezember 2018
 
 
 
@@ -362,36 +360,37 @@ nicht mehr als nachstehend aufgeführt unterschreiten:
 
 (2) Bei Mischfuttermitteln für nicht der Lebensmittelgewinnung
 dienende Tiere mit Ausnahme von Pelztieren im Sinne des Artikels 3
-Absatz 2 Buchstabe e der Verordnung (EG) Nr. 767/2009 kann anstelle
-der spezifischen Bezeichnung eines Einzelfuttermittels nach Artikel 17
-Absatz 1 Buchstabe e der Verordnung (EG) Nr. 767/2009 die Gruppe nach
-Anlage 3 angegeben werden, zu der das jeweilige Einzelfuttermittel
-gehört, soweit in einem unmittelbar geltenden Rechtsakt der
-Europäischen Union auf Grund des Artikels 17 Absatz 4 der Verordnung
-(EG) Nr. 767/2009 keine abweichenden Regelungen getroffen sind.
+Absatz 2 Buchstabe e der Verordnung (EG) Nr. 767/2009 in der Fassung
+vom 5. Dezember 2018 kann anstelle der spezifischen Bezeichnung eines
+Einzelfuttermittels nach Artikel 17 Absatz 1 Buchstabe e der
+Verordnung (EG) Nr. 767/2009 in der Fassung vom 5. Dezember 2018 die
+Gruppe nach Anlage 3 angegeben werden, zu der das jeweilige
+Einzelfuttermittel gehört, soweit in einem unmittelbar geltenden
+Rechtsakt der Europäischen Union auf Grund des Artikels 17 Absatz 4
+der Verordnung (EG) Nr. 767/2009 in der Fassung vom 5. Dezember 2018
+keine abweichenden Regelungen getroffen sind.
 
 
 #### § 7 Kennzeichnung
 
 Ergänzungsfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG
-des Europäischen Parlaments und des Rates vom 7. Mai 2002 über
-unerwünschte Stoffe in der Tierernährung (ABl. L 140 vom 30.5.2002, S.
-10), die zuletzt durch die Verordnung (EU) 2017/2229 (ABl. L 319 vom
-5\.12.2017, S. 6) geändert worden ist, keine Höchstgehalte an
+in der Fassung vom 7. November 2019 keine Höchstgehalte an
 unerwünschten Stoffen festgesetzt sind, dürfen, wenn der für
 entsprechende Alleinfuttermittel festgesetzte Höchstgehalt
 überschritten wird, nur mit einem Hinweis in den Verkehr gebracht
 werden, aus dem sich der Anteil des Ergänzungsfuttermittels an der
 Tagesration ergibt, bei dessen Einhaltung die für ein entsprechendes
-Alleinfuttermittel in Anhang I der Richtlinie 2002/32/EG festgesetzten
-Höchstgehalte nicht überschritten werden.
+Alleinfuttermittel in Anhang I der Richtlinie 2002/32/EG in der
+Fassung vom 7. November 2019 festgesetzten Höchstgehalte nicht
+überschritten werden.
 
 
 #### § 8 Unerwünschte Stoffe
 
 (1) Es ist verboten, ein Futtermittel mit einem Gehalt an einem
-unerwünschten Stoff, der den in Anhang I der Richtlinie 2002/32/EG
-festgesetzten Höchstgehalt überschreitet,
+unerwünschten Stoff, der den in Anhang I der Richtlinie 2002/32/EG in
+der Fassung vom 7. November 2019 festgesetzten Höchstgehalt
+überschreitet,
 
 1.  in den Verkehr zu bringen,
 
@@ -406,25 +405,27 @@ festgesetzten Höchstgehalt überschreitet,
 
 
 (2) Wird ein Futtermittel mit einem Gehalt an einem unerwünschten
-Stoff, der den in Anhang I der Richtlinie 2002/32/EG festgesetzten
-Höchstgehalt übersteigt, einer geeigneten Behandlung zur Verminderung
-oder Entfernung (Reinigung) oder zur Inaktivierung (Dekontamination)
-des unerwünschten Stoffes unterzogen, darf der Gehalt an diesem Stoff
-nach der Behandlung den in Anhang I der Richtlinie 2002/32/EG
+Stoff, der den in Anhang I der Richtlinie 2002/32/EG in der Fassung
+vom 7. November 2019 festgesetzten Höchstgehalt übersteigt, einer
+geeigneten Behandlung zur Verminderung oder Entfernung (Reinigung)
+oder zur Inaktivierung (Dekontamination) des unerwünschten Stoffes
+unterzogen, darf der Gehalt an diesem Stoff nach der Behandlung den in
+Anhang I der Richtlinie 2002/32/EG in der Fassung vom 7. November 2019
 festgesetzten Höchstgehalt nicht überschreiten.
 
 
 #### § 9 Aktionsgrenzwerte für unerwünschte Stoffe
 
 Die Aktionsgrenzwerte für unerwünschte Stoffe sind in Anhang II der
-Richtlinie 2002/32/EG festgesetzt.
+Richtlinie 2002/32/EG in der Fassung vom 7. November 2019 festgesetzt.
 
 
 #### § 10 Ausnahmen
 
 (1) Abweichend von
 
-1.  Artikel 18 Absatz 1 der Verordnung (EG) Nr. 396/2005 und
+1.  Artikel 18 Absatz 1 der Verordnung (EG) Nr. 396/2005 in der Fassung
+    vom 27. März 2025 und
 
 
 2.  dem Verbot des § 21 Absatz 3 Satz 1 Nummer 3 des Lebensmittel- und
@@ -433,23 +434,20 @@ Richtlinie 2002/32/EG festgesetzt.
 
 
 darf ein in Spalte 2 des Anhangs VII der Verordnung (EG) Nr. 396/2005
-des Europäischen Parlaments und des Rates vom 23. Februar 2005 über
-Höchstgehalte an Pestizidrückständen in oder auf Lebens- und
-Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung
-der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1),
-die zuletzt durch die Verordnung (EU) 2016/143 (ABl. L 28 vom
-4\.2.2016, S. 12) geändert worden ist, bezeichnetes Futtermittel, das
-mit einem in Spalte 1 des Anhangs VII der Verordnung (EG) Nr. 396/2005
-genannten Wirkstoff als Begasungsmittel nach der Ernte behandelt
-worden ist und dessen Gehalt an einem dieser Wirkstoffe deshalb den
-für den Wirkstoff jeweils nach der Verordnung (EG) Nr. 396/2005
-festgelegten Rückstandshöchstgehalt überschreitet, an einen Betrieb
-nach Satz 2 abgegeben werden. Der Betrieb, an den ein Futtermittel im
-Sinne des Satzes 1 abgegeben werden darf, muss das Futtermittel so
-behandeln oder herstellen, dass bei der Abgabe des so behandelten oder
+in der Fassung vom 27. März 2025 bezeichnetes Futtermittel, das mit
+einem in Spalte 1 des Anhangs VII der Verordnung (EG) Nr. 396/2005 in
+der Fassung vom 27. März 2025 genannten Wirkstoff als Begasungsmittel
+nach der Ernte behandelt worden ist und dessen Gehalt an einem dieser
+Wirkstoffe deshalb den für den Wirkstoff jeweils nach der Verordnung
+(EG) Nr. 396/2005 in der Fassung vom 27. März 2025 festgelegten
+Rückstandshöchstgehalt überschreitet, an einen Betrieb nach Satz 2
+abgegeben werden. Der Betrieb, an den ein Futtermittel im Sinne des
+Satzes 1 abgegeben werden darf, muss das Futtermittel so behandeln
+oder herstellen, dass bei der Abgabe des so behandelten oder
 hergestellten Futtermittels an den Endverwender der Gehalt an dem
-Wirkstoff den nach der Verordnung (EG) Nr. 396/2005 jeweils
-festgelegten Rückstandshöchstgehalt nicht überschreitet.
+Wirkstoff den nach der Verordnung (EG) Nr. 396/2005 in der Fassung vom
+27\. März 2025 jeweils festgelegten Rückstandshöchstgehalt nicht
+überschreitet.
 
 (2) Ein Futtermittel im Sinne des Absatzes 1 Satz 1 darf nur abgegeben
 werden, wenn es unter Angabe der Bezeichnung des Wirkstoffs oder der
@@ -462,8 +460,9 @@ Verfütterung abgeben.“
 #### § 11 Verbotene Stoffe
 
 Es ist verboten, ein Futtermittel, das den Anforderungen nach Artikel
-6 Absatz 1 der Verordnung (EG) Nr. 767/2009 nicht entspricht, in den
-Verkehr zu bringen oder zu verfüttern.
+6 Absatz 1 der Verordnung (EG) Nr. 767/2009 in der Fassung vom 5.
+Dezember 2018 nicht entspricht, in den Verkehr zu bringen oder zu
+verfüttern.
 
 
 #### § 12 Inverkehrbringensverbote
@@ -472,49 +471,94 @@ Es ist verboten,
 
 1.  ein Futtermittel, das den Anforderungen nach Artikel 4 Absatz 3 in
     Verbindung mit Anhang I, Anhang I Nummer 1 auch in Verbindung mit
-    Artikel 32 Absatz 3, der Verordnung (EG) Nr. 767/2009 nicht
-    entspricht, in den Verkehr zu bringen,
+    Artikel 32 Absatz 3, der Verordnung (EG) Nr. 767/2009 in der Fassung
+    vom 5. Dezember 2018 nicht entspricht, in den Verkehr zu bringen,
 
 
 2.  ein Einzelfuttermittel oder ein Ergänzungsfuttermittel, das den
     Anforderungen nach Artikel 8 in Verbindung mit Artikel 32 Absatz 2 der
-    Verordnung (EG) Nr. 767/2009 nicht entspricht, in den Verkehr zu
-    bringen.
+    Verordnung (EG) Nr. 767/2009 in der Fassung vom 5. Dezember 2018 nicht
+    entspricht, in den Verkehr zu bringen.
 
 
 
 
 
-#### § 13 (weggefallen)
+### Unterabschnitt 3 - Arzneifuttermittel und Zwischenerzeugnisse
 
 
 
-### Unterabschnitt 3 - Fütterung
+#### § 13 Anzeigepflichten
+
+(1) Mobile Mischer, die in einem anderen Mitgliedstaat zugelassen sind
+und die Arzneifuttermittel in Deutschland in Verkehr bringen wollen,
+haben dies nach Maßgabe des Satzes 2 der nach Landesrecht zuständigen
+Behörde unverzüglich nach Eingang eines Auftrags zur Herstellung eines
+Arzneifuttermittels und vor Herstellungsbeginn elektronisch
+anzuzeigen. Die Anzeige hat zu enthalten:
+
+1.  Name, Anschrift und Zulassungsnummer des mobilen Mischers,
+
+
+2.  Ort und Beginn der Herstellung des Arzneifuttermittels und
+
+
+3.  das Fahrzeugkennzeichen des mobilen Mischers.
+
+
+
+
+(2) Wer als Einzelhändler Arzneifuttermittel für Heimtiere in den
+Verkehr bringen will, hat dies vor dem erstmaligen Inverkehrbringen
+der nach Landesrecht zuständigen Behörde schriftlich oder elektronisch
+unter Angabe seines Namens und seiner Anschrift sowie unter Angabe der
+Anschrift der Betriebsstätte anzuzeigen. Satz 1 gilt auch für
+Einzelhändler, die Arzneifuttermittel in verkaufsfertig bezogenen
+Verpackungen abgeben.
+
+(3) Wer als Halter von Pelztieren im Sinne des Artikels 3 Absatz 2
+Buchstabe e der Verordnung (EG) Nr. 767/2009 in der Fassung vom 5.
+Dezember 2018 diese mit Arzneifuttermitteln füttern will, hat dies
+nach Maßgabe des Satzes 2 vor Beginn der Verfütterung der nach
+Landesrecht zuständigen Behörde schriftlich oder elektronisch
+anzuzeigen. Die Anzeige hat zu enthalten:
+
+1.  Name und Anschrift des Halters des Pelztieres sowie der
+    Betriebsstätte, in der die Pelztiere gehalten werden, für die das
+    Arzneifuttermittel bestimmt ist, und
+
+
+2.  eine Kopie der tierärztlichen Verschreibung für Arzneifuttermittel im
+    Sinne von Artikel 3 Absatz 2 Buchstabe h der Verordnung (EU) 2019/4 in
+    der Fassung vom 11. Dezember 2018.
+
+
+
+
+
+### Unterabschnitt 4 - Fütterung
 
 
 
 #### § 14 Fütterungsvorschriften
 
 Einzelfuttermittel oder Mischfuttermittel, für die in Anhang I der
-Richtlinie 2002/32/EG höhere Gehalte an unerwünschten Stoffen als für
-entsprechende Alleinfuttermittel festgesetzt sind, dürfen nur zusammen
-mit anderen Einzelfuttermitteln oder Mischfuttermitteln verfüttert
-werden; dabei dürfen in der Tagesration für entsprechende
-Alleinfuttermittel für die jeweilige Tierart oder Tierkategorie
-festgesetzte Höchstgehalte in der Tagesration nicht überschritten
-werden. Entsprechendes gilt für Einzelfuttermittel und
-Ergänzungsfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG
-keine Höchstgehalte festgesetzt sind.
+Richtlinie 2002/32/EG in der Fassung vom 7. November 2019 höhere
+Gehalte an unerwünschten Stoffen als für entsprechende
+Alleinfuttermittel festgesetzt sind, dürfen nur zusammen mit anderen
+Einzelfuttermitteln oder Mischfuttermitteln verfüttert werden; dabei
+dürfen in der Tagesration für entsprechende Alleinfuttermittel für die
+jeweilige Tierart oder Tierkategorie festgesetzte Höchstgehalte in der
+Tagesration nicht überschritten werden. Entsprechendes gilt für
+Einzelfuttermittel und Ergänzungsfuttermittel, für die in Anhang I der
+Richtlinie 2002/32/EG in der Fassung vom 7. November 2019 keine
+Höchstgehalte festgesetzt sind.
 
 
 #### § 15 Ausnahmen vom Verfütterungsverbot
 
 In Anhang IV Kapitel II Buchstabe e Satz 1 der Verordnung (EG) Nr.
-999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001
-mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter
-transmissibler spongiformer Enzephalopathien (ABl. L 147 vom
-31\.5.2001, S. 1), die zuletzt durch die Verordnung (EU) 2017/893 (ABl.
-L 138 vom 25.5.2017, S. 92) geändert worden ist, genannte Futtermittel
+999/2001 in der Fassung vom 19. Februar 2025 genannte Futtermittel
 dürfen an Nutztiere verfüttert werden, soweit eine von der zuständigen
 Behörde vorgenommene Risikobewertung ergeben hat, dass in ihnen im
 Rahmen einer futtermittelrechtlichen Untersuchung nachgewiesene
@@ -522,23 +566,21 @@ Knochenspuren keine Bedenken im Hinblick auf die Übertragung
 transmissibler spongiformer Enzephalopathien hervorrufen.
 
 
-### Unterabschnitt 4 - Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+### Unterabschnitt 5 - Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 
 
 
 #### § 16 Mitwirkung
 
-(1) Das Bundesamt wirkt mit bei:
+(1) Das Bundesamt wirkt mit bei
 
 1.  der Aufnahme eines Einzelfuttermittels in den Anhang der Verordnung
-    (EU) Nr. 68/2013 der Kommission vom 16. Januar 2013 zum Katalog der
-    Einzelfuttermittel (ABl. L 29 vom 30.1.2013, S. 1) in der jeweils
-    geltenden Fassung,
+    (EU) Nr. 68/2013,
 
 
 2.  der Prüfung von Leitlinien für eine gute Verfahrenspraxis im
     Futtermittelsektor nach Artikel 20 und 22 der Verordnung (EG) Nr.
-    183/2005.
+    183/2005 in der Fassung vom 20. Juni 2019.
 
 
 
@@ -546,23 +588,8 @@ transmissibler spongiformer Enzephalopathien hervorrufen.
 (2) Das Bundesamt wirkt ferner mit bei der Koordinierung der
 Erstellung
 
-1.  von Kontrollplänen nach der Verordnung (EU) 2017/625 des Europäischen
-    Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen
-    und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des
-    Lebens- und Futtermittelrechts und der Vorschriften über
-    Tiergesundheit und Tierschutz, Pflanzengesundheit und
-    Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001,
-    (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr.
-    1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des
-    Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr.
-    1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien
-    98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des
-    Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG)
-    Nr. 882/2004 des Europäischen Parlaments und des Rates, der
-    Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG,
-    96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des
-    Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017,
-    S. 1, L 137 vom 24.5.2017, S. 40, L 48 vom 21.2.2018, S. 44) sowie
+1.  von Kontrollplänen nach der Verordnung (EU) 2017/625 in der Fassung
+    vom 27. November 2024,
 
 
 2.  sonstiger nach den gemeinschaftsrechtlichen oder den unionsrechtlichen
@@ -573,7 +600,7 @@ Erstellung
 
 
 
-### Unterabschnitt 5 - Anforderungen an Betriebe
+### Unterabschnitt 6 - Anforderungen an Betriebe
 
 
 
@@ -602,11 +629,8 @@ nicht
 
 2.  für dort bezeichnete Betriebe, die nach Artikel 10 Nummer 3 Satz 1 in
     Verbindung mit Anhang II Abschnitt Einrichtungen und Ausrüstungen
-    Nummer 10 der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments
-    und des Rates vom 12. Januar 2005 mit Vorschriften für die
-    Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008,
-    S. 71), die zuletzt durch die Verordnung (EU) 2015/1905 (ABl. L 278
-    vom 23.10.2015, S. 5) geändert worden ist, der Zulassung bedürfen.
+    Nummer 10 der Verordnung (EG) Nr. 183/2005 in der Fassung vom 20. Juni
+    2019 der Zulassung bedürfen.
 
 
 
@@ -645,23 +669,13 @@ in einem Drittland hergestellt worden sind, dürfen sie nur von in Satz
 2.  soweit sie ihren Sitz in einem Vertragsstaat haben nach Feststellung
     dieses Vertragsstaates als Vertreter des Herstellers die
     Voraussetzungen im Sinne des Kapitels I des Anhangs der Richtlinie
-    95/69/EG des Rates vom 22. Dezember 1995 zur Festlegung der
-    Bedingungen und Einzelheiten für die Zulassung und Registrierung
-    bestimmter Betriebe und zwischengeschalteter Personen des
-    Futtermittelsektors sowie zur Änderung der Richtlinien 70/524/EWG,
-    74/63/EWG, 79/373/EWG und 82/471/EWG (ABl. L 332 vom 30.12.1995, S.
-    15, L 168 vom 3.7.1999, S. 35, L 138 vom 9.6.2000, S. 31), die zuletzt
-    durch die Verordnung (EG) Nr. 806/2003 (ABl. L 122 vom 16.5.2003, S.
-    1) geändert worden ist, erfüllen.
+    95/69/EG in der Fassung vom 14. April 2003 erfüllen.
 
 
 
 
 (5) Die Zulassung von Betrieben nach der Verordnung (EG) Nr. 183/2005
-des Europäischen Parlaments und des Rates vom 12. Januar 2005 mit
-Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S.
-1, L 50 vom 23.2.2008, S. 71) in der jeweils geltenden Fassung bleibt
-unberührt.
+bleibt unberührt.
 
 
 #### § 18 Zulassung
@@ -782,7 +796,7 @@ diese zur Erfüllung der Zulassungsvoraussetzungen erforderlich sind.
 
 
 2.  aus Artikel 13 Absatz 1 und 2 Satz 1 bis 3 und Artikel 16 der
-    Verordnung (EG) Nr. 183/2005
+    Verordnung (EG) Nr. 183/2005 in der Fassung vom 20. Juni 2019
 
 
 
@@ -797,11 +811,11 @@ Betriebe nach § 17 Absatz 2 müssen durch eine prozessbegleitende
 Dokumentation nachweisen, dass ein Eintrag unerwünschter Stoffe in das
 Trockengut so weit ausgeschlossen ist, dass das Trockengut nach
 Beendigung des Trocknungsverfahrens die in Anhang I der Richtlinie
-2002/32/EG festgesetzten Höchstgehalte an unerwünschten Stoffen,
-insbesondere an Dioxinen, Furanen, Blei und Arsen, einhält und die
-Voraussetzungen für das Inverkehrbringen und Verfüttern nach § 17
-Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches erfüllt.
-Hierzu sind insbesondere
+2002/32/EG in der Fassung vom 7. November 2019 festgesetzten
+Höchstgehalte an unerwünschten Stoffen, insbesondere an Dioxinen,
+Furanen, Blei und Arsen, einhält und die Voraussetzungen für das
+Inverkehrbringen und Verfüttern nach § 17 Absatz 2 des Lebensmittel-
+und Futtermittelgesetzbuches erfüllt. Hierzu sind insbesondere
 
 1.  das Trockengut in angemessenen, regelmäßigen Abständen auf die je nach
     verwendetem Brennmaterial potenziellen Einträge an unerwünschten
@@ -963,7 +977,10 @@ Bereich die Anlage eingesetzt wird.
 
 (4) Die Absätze 1 und 3 gelten nur, soweit ein dort bezeichneter
 Betrieb keiner Zulassungs- oder Registrierungspflicht nach der
-Verordnung (EG) Nr. 183/2005 unterliegt.
+Verordnung (EG) Nr. 183/2005 in der Fassung vom 20. Juni 2019
+unterliegt. Absatz 1 gilt nicht für Futtermittelunternehmer im Sinne
+von Artikel 13 Absatz 1 der Verordnung (EU) 2019/4 in der Fassung vom
+11\. Dezember 2018.
 
 
 #### § 23 Zulassungs- und Registrierungs-Kennnummer
@@ -1053,11 +1070,15 @@ ausgeübt hat.
 Verbraucherschutz und Lebensmittelsicherheit (Bundesamt)
 
 1.  die Zulassung von Betrieben nach Artikel 10 der Verordnung (EG) Nr.
-    183/2005,
+    183/2005 in der Fassung vom 20. Juni 2019,
 
 
 2.  die Registrierung von Betrieben nach Artikel 9 der Verordnung (EG) Nr.
-    183/2005,
+    183/2005 in der Fassung vom 20. Juni 2019,
+
+
+2a. die Zulassung von Betrieben nach Artikel 13 der Verordnung (EU) 2019/4
+    in der Fassung vom 11. Dezember 2018,
 
 
 3.  die Zulassung von Betrieben nach § 18,
@@ -1075,7 +1096,7 @@ Betriebe nach Satz 1 Nummer 3 bekannt.
 
 (2) Das Bundesamt gibt ferner die Fundstelle des Verzeichnisses der
 Kommission gemäß Artikel 19 Absatz 6 der Verordnung (EG) Nr. 183/2005
-bekannt.
+in der Fassung vom 20. Juni 2019 bekannt.
 
 
 #### § 26 Status anerkannter, registrierter und angezeigter Betriebe
@@ -1138,12 +1159,13 @@ sachgerecht zu lagern und aufzubewahren.
 
 Soweit für die amtliche Untersuchung von Futtermitteln keine
 geeigneten Regeln oder Protokolle nach Artikel 34 Absatz 2 Buchstabe a
-der Verordnung (EU) 2017/625 bestehen, ist die amtliche Untersuchung
-nach Analysemethoden durchzuführen, die vom Bundesamt für
-Verbraucherschutz und Lebensmittelsicherheit nach § 64 Absatz 2 Satz 1
-des Lebensmittel- und Futtermittelgesetzbuches veröffentlicht worden
-sind. Soweit keine Methoden nach Satz 1 veröffentlicht worden sind,
-ist die amtliche Untersuchung nach den Methoden aus dem Handbuch der
+der Verordnung (EU) 2017/625 in der Fassung vom 27. November 2024
+bestehen, ist die amtliche Untersuchung nach Analysemethoden
+durchzuführen, die vom Bundesamt für Verbraucherschutz und
+Lebensmittelsicherheit nach § 64 Absatz 2 Satz 1 des Lebensmittel- und
+Futtermittelgesetzbuches veröffentlicht worden sind. Soweit keine
+Methoden nach Satz 1 veröffentlicht worden sind, ist die amtliche
+Untersuchung nach den Methoden aus dem Handbuch der
 Landwirtschaftlichen Versuchs- und Untersuchungsmethodik (VDLUFA-
 Methodenbuch), Band III „Die chemische Untersuchung von
 Futtermitteln“, 8. Ergänzungslieferung 2012, oder aus dem Handbuch
@@ -1176,10 +1198,10 @@ führen.
 
 (2) Die Buchführungspflichtigen nach Absatz 1 oder nach Artikel 5
 Absatz 1 in Verbindung mit Anhang I oder Artikel 5 Absatz 2 in
-Verbindung mit Anhang II der Verordnung (EG) Nr. 183/2005 haben die
-Bücher, Buchführungsunterlagen, Dokumentationen und Dateien fünf Jahre
-aufzubewahren. Vorschriften, die eine längere Aufbewahrungspflicht
-vorsehen, bleiben unberührt.
+Verbindung mit Anhang II der Verordnung (EG) Nr. 183/2005 in der
+Fassung vom 20. Juni 2019 haben die Bücher, Buchführungsunterlagen,
+Dokumentationen und Dateien fünf Jahre aufzubewahren. Vorschriften,
+die eine längere Aufbewahrungspflicht vorsehen, bleiben unberührt.
 
 
 ## Abschnitt 4 - (weggefallen)
@@ -1208,14 +1230,9 @@ vorsehen, bleiben unberührt.
 
 #### § 39 Straftaten
 
-Nach § 58 Absatz 3, 4 bis 6 des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
-Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai
-2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter
-transmissibler spongiformer Enzephalopathien (ABl. L 147 vom
-31\.5.2001, S. 1), die zuletzt durch die Verordnung (EU) 2017/893 (ABl.
-L 138 vom 25.5.2017, S. 92) geändert worden ist, verstößt, indem er
-vorsätzlich oder fahrlässig
+Nach § 58 Absatz 3 des Lebensmittel- und Futtermittelgesetzbuches wird
+bestraft, wer gegen die Verordnung (EG) Nr. 999/2001 in der Fassung
+vom 25. März 2024 verstößt, indem er
 
 1.  entgegen Artikel 7 Absatz 1, auch in Verbindung mit Artikel 7 Absatz
     2, ein tierisches Protein an einen Wiederkäuer oder ein dort genanntes
@@ -1223,14 +1240,15 @@ vorsätzlich oder fahrlässig
     verfüttert,
 
 
-2.  als derjenige, der Futtermittel herstellt, behandelt, in den Verkehr
+2.  entgegen Anhang IV Kapitel III Abschnitt B Nummer 1 oder Kapitel V
+    Abschnitt C Nummer 1 oder 2 ein dort genanntes Mischfuttermittel
+    herstellt,
+
+
+3.  als derjenige, der Futtermittel herstellt, behandelt, in den Verkehr
     bringt oder verfüttert, entgegen Anhang IV Kapitel V Abschnitt B
     Nummer 1 ein dort genanntes Futtermittel nicht richtig transportiert
-    oder nicht richtig lagert,
-
-
-3.  entgegen Anhang IV Kapitel V Abschnitt C Nummer 1 oder 2 ein dort
-    genanntes Mischfuttermittel herstellt oder
+    oder nicht richtig lagert oder
 
 
 4.  entgegen Anhang IV Kapitel V Abschnitt D ein dort genanntes
@@ -1250,34 +1268,37 @@ vorsätzlich oder fahrlässig
 des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
 vorsätzlich oder fahrlässig
 
-1.  (weggefallen),
-
-
-2.  entgegen § 4 oder § 7 ein dort genanntes Futtermittel in den Verkehr
+1.  entgegen § 4 oder § 7 ein dort genanntes Futtermittel in den Verkehr
     bringt, das nicht, nicht richtig, nicht vollständig oder nicht in der
     vorgeschriebenen Weise gekennzeichnet ist,
 
 
-3.  entgegen § 5 ein Futtermittel zum Verkauf anbietet,
+2.  entgegen § 5 ein Futtermittel zum Verkauf anbietet,
 
 
-4.  entgegen § 8 Absatz 1 Nummer 1 ein Futtermittel in den Verkehr bringt,
+3.  entgegen § 8 Absatz 1 Nummer 1 ein Futtermittel in den Verkehr bringt,
 
 
-5.  entgegen § 8 Absatz 1 Nummer 2 ein Futtermittel verfüttert,
+4.  entgegen § 8 Absatz 1 Nummer 2 ein Futtermittel verfüttert,
 
 
-6.  entgegen § 8 Absatz 1 Nummer 3 ein Futtermittel mischt,
+5.  entgegen § 8 Absatz 1 Nummer 3 ein Futtermittel mischt,
 
 
-7.  entgegen § 11 ein Futtermittel in den Verkehr bringt oder verfüttert,
+6.  entgegen § 11 ein Futtermittel in den Verkehr bringt oder verfüttert,
 
 
-8.  entgegen § 12 Nummer 1 ein Futtermittel in den Verkehr bringt,
+7.  entgegen § 12 Nummer 1 ein Futtermittel in den Verkehr bringt,
 
 
-9.  entgegen § 12 Nummer 2 ein dort genanntes Futtermittel in den Verkehr
+8.  entgegen § 12 Nummer 2 ein dort genanntes Futtermittel in den Verkehr
     bringt,
+
+
+9.  entgegen § 13 Absatz 1 Satz 1, Absatz 2 Satz 1, auch in Verbindung mit
+    Satz 2, oder Absatz 3 Satz 1 eine Anzeige nicht, nicht richtig, nicht
+    vollständig, nicht in der vorgeschriebenen Weise oder nicht
+    rechtzeitig erstattet,
 
 
 10. entgegen § 14 Futtermittel verfüttert,
@@ -1331,24 +1352,16 @@ Mischfuttermittel einführt.
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen Anhang IV Kapitel V Abschnitt E Nummer 2 Satz
-1 der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des
-Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und
-Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl.
-L 147 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU)
-2017/893 (ABl. L 138 vom 25.5.2017, S. 92) geändert worden ist, ein
-dort genanntes Produkt, soweit es sich um ein Futtermittel handelt,
-ausführt.
+1 der Verordnung (EG) Nr. 999/2001 in der Fassung vom 19. Februar 2025
+ein dort genanntes Produkt, soweit es sich um ein Futtermittel
+handelt, ausführt.
 
 
 #### § 41 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1831/2003
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
-Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des
-Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der
-Tierernährung (ABl. L 268 vom 18.10.2003, S. 29, L 192 vom 29.5.2004,
-S. 34, L 98 vom 13.4.2007, S. 29), die zuletzt durch die Verordnung
-(EU) 2015/2294 (ABl. L 324 vom 10.12.2015, S. 3) geändert worden ist,
+Verordnung (EG) Nr. 1831/2003 in der Fassung vom 20. Juni 2019
 verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  entgegen Artikel 3 Absatz 1 einen Futtermittelzusatzstoff in Verkehr
@@ -1378,11 +1391,8 @@ Futtermittelzusatzstoff oder eine Vormischung in Verkehr bringt.
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
-Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates
-vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl.
-L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71), die zuletzt durch
-die Verordnung (EU) 2015/1905 (ABl. L 278 vom 23.10.2015, S. 5)
-geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+Verordnung (EG) Nr. 183/2005 in der Fassung vom 20. Juni 2019
+verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  entgegen Artikel 5
 
@@ -1464,15 +1474,9 @@ geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
 Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates
 vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von
-Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des
-Europäischen Parlaments und des Rates und zur Aufhebung der
-Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission,
-82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates,
-93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung
-2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom
-22\.7.2011, S. 71), die zuletzt durch die Verordnung (EU) 2017/2279
-(ABl. L 328 vom 12.12.2017, S. 3) geändert worden ist, verstößt, indem
-er vorsätzlich oder fahrlässig
+Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 in der
+Fassung vom 5. Dezember 2018 verstößt, indem er vorsätzlich oder
+fahrlässig
 
 1.  entgegen Artikel 4 Absatz 2 Unterabsatz 1 Buchstabe a als
     Futtermittelunternehmer, der ein Futtermittel in den Verkehr bringt,
@@ -1548,8 +1552,9 @@ er vorsätzlich oder fahrlässig
 (2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen Artikel 23 Absatz 1 Satz 1 der Verordnung
-(EG) Nr. 767/2009, auch in Verbindung mit Satz 2, ein
-Einzelfuttermittel oder ein Mischfuttermittel in den Verkehr bringt.
+(EG) Nr. 767/2009 in der Fassung vom 5. Dezember 2018, auch in
+Verbindung mit Satz 2, ein Einzelfuttermittel oder ein
+Mischfuttermittel in den Verkehr bringt.
 
 
 #### § 45 (weggefallen)
@@ -1565,28 +1570,103 @@ Einzelfuttermittel oder ein Mischfuttermittel in den Verkehr bringt.
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen Artikel 6 Absatz 1 Satz 1 der Verordnung (EU)
-2015/786 der Kommission vom 19. Mai 2015 zur Festlegung von Kriterien
-für die Zulässigkeit von Entgiftungsverfahren, denen zur Tierernährung
-bestimmte Erzeugnisse unterzogen werden, gemäß der Richtlinie
-2002/32/EG des Europäischen Parlaments und des Rates (ABl. L 125 vom
-21\.5.2015, S. 10) nicht dafür sorgt, dass ein dort genannter Betrieb
-zugelassen ist.
+2015/786 in der Fassung vom 19. Mai 2015 nicht dafür sorgt, dass ein
+dort genannter Betrieb zugelassen ist.
 
 
-#### § 47 (weggefallen)
+#### § 47 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2019/4
 
+(1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
+Verordnung (EU) 2019/4 in der Fassung vom 11. Dezember 2018 verstößt,
+indem er vorsätzlich oder fahrlässig
+
+1.  als Futtermittelunternehmer entgegen Artikel 5 Absatz 1 ein
+    Arzneifuttermittel oder ein Zwischenerzeugnis herstellt, die nicht
+    gemäß Artikel 5 Absatz 1 der Verordnung (EU) 2019/6 in der Fassung vom
+    23\. November 2022 zugelassen sind,
+
+
+2.  entgegen Artikel 5 Absatz 2 Buchstabe a, b oder c eine dort genannte
+    Anforderung nicht gewährleistet,
+
+
+3.  entgegen Artikel 5 Absatz 3 nicht sicherstellt, dass das
+    Arzneifuttermittel mit der Verschreibung gemäß Artikel 16 Absatz 1
+    Buchstabe a erster Halbsatz übereinstimmt,
+
+
+4.  entgegen Artikel 8 Satz 1 ein Arzneifuttermittel oder
+    Zwischenerzeugnis an einen Tierhalter abgibt,
+
+
+5.  entgegen Artikel 11 Absatz 1 Satz 1 für ein Arzneifuttermittel oder
+    Zwischenerzeugnis wirbt,
+
+
+6.  entgegen Artikel 11 Absatz 3 oder Absatz 4 ein Arzneifuttermittel
+    vertreibt,
+
+
+7.  entgegen Artikel 13 Absatz 1 nicht gewährleistet, dass ein dort
+    genannter Betrieb zugelassen ist,
+
+
+8.  entgegen Artikel 17 Absatz 1, Absatz 2 Satz 1 erster Halbsatz oder
+    Absatz 3 ein dort genanntes Arzneifuttermittel bei Tieren im Sinne des
+    § 1 Nummer 1 verwendet,
+
+
+9.  entgegen Artikel 17 Absatz 2 Satz 1 zweiter Halbsatz nicht
+    sicherstellt, dass ein Arzneifuttermittel nur an ein dort genanntes
+    Tier verfüttert wird,
+
+
+10. entgegen Artikel 17 Absatz 2 Satz 2 nicht sicherstellt, dass ein dort
+    genanntes Arzneifuttermittel nicht verwendet wird,
+
+
+11. entgegen Artikel 17 Absatz 6 nicht sicherstellt, dass die
+    vorgeschriebene Wartezeit eingehalten wird,
+
+
+12. entgegen Artikel 17 Absatz 7 Satz 1 Buch nicht, nicht richtig oder
+    nicht vollständig führt,
+
+
+13. entgegen Artikel 17 Absatz 7 Satz 2 eine Aufzeichnung nicht oder nicht
+    mindestens fünf Jahre aufbewahrt,
+
+
+14. entgegen Anhang I Abschnitt 6 Absatz 1 in Verbindung mit Absatz 2 Satz
+    1 die dort genannten Daten nicht, nicht richtig oder nicht vollständig
+    festhält,
+
+
+15. entgegen Anhang I Abschnitt 8 Absatz 1 ein dort genanntes Dokument
+    nicht mitführt oder
+
+
+16. entgegen Anhang I Abschnitt 8 Absatz 3 ein Fahrzeug verwendet.
+
+
+
+
+(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 12 Absatz 2 der Verordnung (EU)
+2019/4 in der Fassung vom 11. Dezember 2018 nicht sicherstellt, dass
+ein Tierarzneimittel verwendet wird, das gemäß Artikel 5 Absatz 1 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 zugelassen
+ist.
 
 
 #### § 47a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2020/354
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 1 der Verordnung (EU)
-2020/354              der Kommission vom 4. März 2020 zur Erstellung
-eines Verzeichnisses der vorgesehenen Verwendungen von Futtermitteln
-für besondere Ernährungszwecke und zur Aufhebung der Richtlinie
-2008/38/EG (ABl. L 67 vom 5.3.2020, S. 1) ein Futtermittel in den
-Verkehr bringt.
+oder fahrlässig entgegen Artikel 1 der Verordnung (EU) 2020/354 in der
+Fassung vom 20. November 2024 ein Futtermittel in den Verkehr bringt.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
@@ -1704,7 +1784,7 @@ T   = Trockenmasse
 
     *   alle
 
-    *[^f795305_05_BJNR003520981BJNE005418126]
+    *[^f795305_05_BJNR003520981BJNE005419119]
    ME in MJ/kg T
         = 7,17
 
@@ -1729,7 +1809,7 @@ T   = Trockenmasse
     *
     *   + (g/kg T)
 
-    *[^f795305_06_BJNR003520981BJNE005418126]
+    *[^f795305_06_BJNR003520981BJNE005419119]
    Rohfett
 
     *   × 0,01657
@@ -1739,7 +1819,7 @@ T   = Trockenmasse
     *
     *   + (g/kg T)
 
-    *[^f795305_07_BJNR003520981BJNE005418126]
+    *[^f795305_07_BJNR003520981BJNE005419119]
    Stärke
 
     *   × 0,00200
@@ -1758,7 +1838,7 @@ T   = Trockenmasse
     *
     *   + ml
 
-    *[^f795305_08_BJNR003520981BJNE005418126]
+    *[^f795305_08_BJNR003520981BJNE005419119]
    Gasbildung
         in 200 mg Trockenmasse
 
@@ -1822,7 +1902,7 @@ T   = Trockenmasse
 
 
 
-[^f795305_05_BJNR003520981BJNE005418126]:     Soll die Angabe in NEL in MJ/kg erfolgen, ist wie folgt umzurechnen:
+[^f795305_05_BJNR003520981BJNE005419119]:     Soll die Angabe in NEL in MJ/kg erfolgen, ist wie folgt umzurechnen:
     ****              100/GE.               Dafür ist der GE-Gehalt im
     Bombenkalorimeter zu bestimmen oder wie folgt zu berechnen:
     GE (MJ/kg) =
@@ -1838,10 +1918,11 @@ Rohfaser                         N-freie Extraktstoffe
 
 
 Zu bestimmen nach HCI-Aufschluss nach Anhang III Buchstabe H der
-Verordnung (EG) Nr. 152/2009.
-[^f795305_06_BJNR003520981BJNE005418126]: Zu bestimmen nach dem polarimetrischen Verfahren nach Anhang III
-Buchstabe L der Verordnung (EG) Nr. 152/2009.
-[^f795305_07_BJNR003520981BJNE005418126]: [^f795305_08_BJNR003520981BJNE005418126]: Die Bestimmungsmethode ist folgender Quelle zu entnehmen:
+Verordnung (EG) Nr. 152/2009 in der Fassung vom 23. April 2025.
+[^f795305_06_BJNR003520981BJNE005419119]: Zu bestimmen nach dem polarimetrischen Verfahren nach Anhang III
+Buchstabe L der Verordnung (EG) Nr. 152/2009 in der Fassung vom 23.
+April 2025.
+[^f795305_07_BJNR003520981BJNE005419119]: [^f795305_08_BJNR003520981BJNE005419119]: Die Bestimmungsmethode ist folgender Quelle zu entnehmen:
 Steingass, H., K. H. Menke (1986): Übersichten Tierernährung, Band 14,
 S. 251, DLG-Verlag, Frankfurt/Main.
 
@@ -2054,12 +2135,13 @@ S. 251, DLG-Verlag, Frankfurt/Main.
     Durch eine anlagenspezifische Prozessführung muss sichergestellt sein,
     dass ein Eintrag unerwünschter Stoffe in das Trockengut so weit
     ausgeschlossen ist, dass das Trockengut nach Beendigung des
-    Trocknungsverfahrens die nach Anhang I der Richtlinie 2002/32/EG
-    festgesetzten Höchstgehalte an unerwünschten Stoffen einhält und die
-    Voraussetzungen für das Inverkehrbringen und Verfüttern nach Artikel
-    15 Absatz 1 in Verbindung mit Absatz 2 der Verordnung (EG) Nr.
-    178/2002 und nach § 17 Absatz 2 Nummer 2 und 3 des Lebensmittel- und
-    Futtermittelgesetzbuches erfüllt. Während der Trocknung muss durch
+    Trocknungsverfahrens die nach Anhang I der Richtlinie 2002/32/EG in
+    der Fassung vom 7. November 2019 festgesetzten Höchstgehalte an
+    unerwünschten Stoffen einhält und die Voraussetzungen für das
+    Inverkehrbringen und Verfüttern nach Artikel 15 Absatz 1 in Verbindung
+    mit Absatz 2 der Verordnung (EG) Nr. 178/2002 in der Fassung vom 17.
+    Januar 2024 und nach § 17 Absatz 2 Nummer 2 und 3 des Lebensmittel-
+    und Futtermittelgesetzbuches erfüllt. Während der Trocknung muss durch
     geeignete Regelungstechnik und Temperaturführung auf eine Minimierung
     des Eintrags unerwünschter Stoffe in das Trockengut hingewirkt werden.
 
