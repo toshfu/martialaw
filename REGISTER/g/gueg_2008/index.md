@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8z G v. 12.12.2023 I Nr. 359
 
+Änderung durch
+:   Art. 10 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
 
 ## Abschnitt 1 - Allgemeine Vorschriften
