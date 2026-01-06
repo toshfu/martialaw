@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 46 G v. 21.12.2020 I 3096
 
 Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 363 noch nicht berücksichtigt
+:   Art. 11 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -52,11 +52,11 @@ Sozialgesetzbuch ist eine Betätigung, die
 (2) Der Ersatz von Auslagen, die dem ehrenamtlich Tätigen durch
 Ausübung der ehrenamtlichen Tätigkeit entstehen, berührt die
 Unentgeltlichkeit nicht. Dies gilt auch, wenn der Auslagenersatz in
-pauschalierter Form erfolgt und die Pauschale 250 Euro im Monat nicht
+pauschalierter Form erfolgt und die Pauschale 275 Euro im Monat nicht
 übersteigt. Neben einer nicht steuerpflichtigen Aufwandsentschädigung,
 die der ehrenamtlich Tätige erhält, ist eine Pauschalierung des
 Auslagenersatzes nur möglich, soweit die Auslagenpauschale zusammen
-mit der nicht steuerpflichtigen Aufwandsentschädigung 250 Euro im
+mit der nicht steuerpflichtigen Aufwandsentschädigung 275 Euro im
 Monat nicht übersteigt.
 
 
