@@ -228,7 +228,7 @@ gilt § 62 des Gesetzes über Ordnungswidrigkeiten.
 
 (3) Gegen den Beschluss nach Absatz 1 können der Berechtige und die
 Staatskasse Beschwerde einlegen, wenn der Wert des
-Beschwerdegegenstands 200 Euro übersteigt oder wenn sie das Gericht,
+Beschwerdegegenstands 300 Euro übersteigt oder wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
 Beschluss zulässt.
@@ -560,7 +560,7 @@ nach billigem Ermessen zu bestimmen.
 (3) Für die Festsetzung des Stundensatzes nach Absatz 2 gilt § 4
 entsprechend mit der Maßgabe, dass die Beschwerde gegen die
 Festsetzung auch dann zulässig ist, wenn der Wert des
-Beschwerdegegenstands 200 Euro nicht übersteigt. Die Beschwerde ist
+Beschwerdegegenstands 300 Euro nicht übersteigt. Die Beschwerde ist
 nur zulässig, solange der Anspruch auf Vergütung noch nicht geltend
 gemacht worden ist.
 
@@ -1058,21 +1058,14 @@ gilt auch, wenn Vorschriften geändert werden, auf die dieses Gesetz
 verweist.
 
 
-### § 25 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+### § 25 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
 
-Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der
-Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1753),
-zuletzt geändert durch Artikel 1 Abs. 4 des Gesetzes vom 22. Februar
-2002 (BGBl. I S. 981), und das Gesetz über die Entschädigung von
-Zeugen und Sachverständigen in der Fassung der Bekanntmachung vom 1.
-Oktober 1969 (BGBl. I S. 1756), zuletzt geändert durch Artikel 1 Abs.
-5 des Gesetzes vom 22. Februar 2002 (BGBl. I S. 981), sowie
-Verweisungen auf diese Gesetze sind weiter anzuwenden, wenn der
-Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem
-1\. Juli 2004 erteilt oder der Berechtigte vor diesem Zeitpunkt
-herangezogen worden ist. Satz 1 gilt für Heranziehungen vor dem 1.
-Juli 2004 auch dann, wenn der Berechtigte in derselben Rechtssache
-auch nach dem 1. Juli 2004 herangezogen worden ist.
+Die §§ 4 und 9 sind in ihrer bis einschließlich 31. Dezember 2025
+geltenden Fassung weiter anzuwenden, wenn der Auftrag an den
+Sachverständigen, Dolmetscher oder Übersetzer vor dem 1. Januar 2026
+erteilt oder der Berechtigte vor diesem Zeitpunkt herangezogen worden
+ist. Dies gilt auch dann, wenn der Berechtigte in derselben
+Rechtssache auch nach dem 1. Januar 2026 herangezogen worden ist.
 
 
 ### Anlage 1 (zu § 9 Absatz 1 Satz 1)
