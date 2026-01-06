@@ -22,13 +22,16 @@ Neugefasst durch
 :   Art. 2 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 9 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 5 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
 
 
 ## Erster Teil - Einleitende Vorschriften
@@ -6587,90 +6590,56 @@ nachträglich eine Abschrift des Verwaltungsakts verlangen.
 
 so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen
 eine Ausfertigung unter ihrer gemeinsamen Anschrift übermittelt wird.
-Die Verwaltungsakte sind den Beteiligten einzeln bekannt zu geben,
-soweit sie dies beantragt haben oder soweit der Finanzbehörde bekannt
-ist, dass zwischen ihnen ernstliche Meinungsverschiedenheiten
-bestehen.
+Betreffen Verwaltungsakte Ehegatten oder Lebenspartner mit gemeinsamer
+Anschrift, so reicht es für die Bekanntgabe durch Bereitstellung zum
+Datenabruf nach § 122a an alle Beteiligten aus, wenn einem der
+Beteiligten eine Ausfertigung zum Datenabruf nach § 122a
+bereitgestellt wird und dieser Beteiligte nach § 122a Absatz 1 Satz 3
+informiert wurde, sofern nicht einer der Beteiligten einen Antrag nach
+§ 122a Absatz 2 gestellt hat. Die Verwaltungsakte sind den Beteiligten
+einzeln bekannt zu geben, soweit sie dies beantragt haben oder soweit
+der Finanzbehörde bekannt ist, dass zwischen ihnen ernstliche
+Meinungsverschiedenheiten bestehen.
 
 
 #### § 122a Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf
 
-(1) Verwaltungsakte können mit Einwilligung des Beteiligten oder der
-von ihm bevollmächtigten Person bekannt gegeben werden, indem sie zum
-Datenabruf durch Datenfernübertragung bereitgestellt werden.
-
-(2) Die Einwilligung kann jederzeit mit Wirkung für die Zukunft
-widerrufen werden. Der Widerruf wird der Finanzbehörde gegenüber erst
-wirksam, wenn er ihr zugeht.
-
-(3) Für den Datenabruf hat sich die abrufberechtigte Person nach
-Maßgabe des § 87a Absatz 8 zu authentisieren.
-
-(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag
-nach Absendung der elektronischen Benachrichtigung über die
-Bereitstellung der Daten an die abrufberechtigte Person als bekannt
-gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung
-nachzuweisen. Kann die Finanzbehörde den von der abrufberechtigten
-Person bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt
-der Verwaltungsakt an dem Tag als bekannt gegeben, an dem die
-abrufberechtigte Person den Datenabruf durchgeführt hat. Das Gleiche
-gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die
-Benachrichtigung nicht innerhalb von vier Tagen nach der Absendung
-erhalten zu haben.
-
-(5) Entscheidet sich die Finanzbehörde, den Verwaltungsakt im Postfach
-des Nutzerkontos nach dem Onlinezugangsgesetz zum Datenabruf
-bereitzustellen, gelten abweichend von § 9 Absatz 1 Satz 3 bis 6 des
-Onlinezugangsgesetzes die Regelungen des Absatzes 4.
-
-[^F832391_3_BJNR006130976BJNE055004123]:     § 122a gilt gemäß Artikel 3 Nummer 3 in Verbindung mit Artikel 74
-    Absatz 10 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) ab
-    1\. Januar 2026 in folgender Fassung:
-    „§ 122a                         Bekanntgabe von Verwaltungsakten durch
-    Bereitstellung zum Datenabruf
-
-
-(1) Verwaltungsakte können dem Beteiligten oder der von ihm
-bevollmächtigten Person bekannt gegeben werden, indem sie nach § 87a
+(1) Verwaltungsakte können dem Beteiligten oder der von ihm
+bevollmächtigten Person bekannt gegeben werden, indem sie nach § 87a
 Absatz 8 zum Datenabruf bereitgestellt werden. Mittels Bereitstellung
 soll insbesondere bekannt gegeben werden, wenn ein Steuerbescheid,
-Steuermessbescheid oder Feststellungsbescheid auf einer nach § 87a
+Steuermessbescheid oder Feststellungsbescheid auf einer nach § 87a
 Absatz 6 elektronisch übermittelten Steuererklärung oder
 Feststellungserklärung beruht und sie
-1\.                                                        vom
-Beteiligten selbst über ein von der Finanzverwaltung bereitgestelltes
-Nutzerkonto übermittelt wurde oder
+
+1.  vom Beteiligten selbst über ein von der Finanzverwaltung
+    bereitgestelltes Nutzerkonto übermittelt wurde oder
 
 
-2\.                                                        durch eine
-Person im Sinne des § 80 Absatz 2 übermittelt wurde, der gegenüber der
-Bescheid nach § 122 Absatz 1 Satz 4 bekanntzugeben ist.
+2.  durch eine Person im Sinne des § 80 Absatz 2 übermittelt wurde, der
+    gegenüber der Bescheid nach § 122 Absatz 1 Satz 4 bekanntzugeben ist.
 
 
 
 Die abrufberechtigte Person ist am Tag der Bereitstellung elektronisch
 über die Abrufmöglichkeit und ihre Rechtswirkungen zu benachrichtigen.
 
-(2) Absatz 1 ist nicht anzuwenden, wenn der Beteiligte eine einmalige
+(2) Absatz 1 ist nicht anzuwenden, wenn der Beteiligte eine einmalige
 oder dauerhafte postalische Bekanntgabe nach § 122 Absatz 2 beantragt
 hat. Der Antrag wirkt, ebenso wie dessen Widerruf, nur für die
 Zukunft; sie werden der Finanzbehörde gegenüber erst wirksam, wenn sie
 ihr zugehen.
 
-(3) Für den Datenabruf hat sich die abrufberechtigte Person nach
+(3) Für den Datenabruf hat sich die abrufberechtigte Person nach
 Maßgabe des § 87a Absatz 8 zu authentisieren.
 
-(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag
+(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag
 nach der Bereitstellung zum Abruf als bekannt gegeben. Im Zweifel hat
 die Behörde den Zeitpunkt der Bereitstellung zum Abruf nachzuweisen.
 
-(5) Die Absätze 1 bis 4 sind auch dann anzuwenden, wenn die
+(5) Die Absätze 1 bis 4 sind auch dann anzuwenden, wenn die
 Finanzbehörde den Verwaltungsakt im Postfach des Nutzerkontos nach dem
-Onlinezugangsgesetz zum Abruf bereitstellen will.“
-
-
-
-
+Onlinezugangsgesetz zum Abruf bereitstellen will.
 
 
 #### § 123 Bestellung eines Empfangsbevollmächtigten
@@ -7920,7 +7889,9 @@ Ereignisse eintritt:
 
 
     b)  einer abstrakt gehaltenen Beschreibung der relevanten
-        Geschäftstätigkeit oder Gestaltung des Nutzers, soweit dies nicht zur
+        Geschäftstätigkeit oder Gestaltung des Nutzers sowie aller sonstigen
+        Informationen, die den zuständigen Behörden bei der Beurteilung eines
+        Steuerrisikos helfen könnten, soweit die Beschreibung nicht zur
         Offenlegung eines Handels-, Gewerbe- oder Berufsgeheimnisses oder
         eines Geschäftsverfahrens oder von Informationen führt, deren
         Offenlegung die öffentliche Ordnung verletzen würde,
@@ -10638,10 +10609,16 @@ nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist. Dies
 gilt auch für die Berichtigung wegen offenbarer Unrichtigkeit nach §
 129\. Die Frist ist gewahrt, wenn vor Ablauf der Festsetzungsfrist
 
-1.[^F832391_5_BJNR006130976BJNE026307123]
-  der Steuerbescheid oder im Fall des § 122a die elektronische
-    Benachrichtigung den Bereich der für die Steuerfestsetzung zuständigen
-    Finanzbehörde verlassen hat oder
+1.  der Steuerbescheid
+
+    a)  im Fall des § 122 Absatz 2, 2a oder Absatz 5 den Bereich der für die
+        Steuerfestsetzung zuständigen Finanzbehörde verlassen hat oder
+
+
+    b)  im Fall des § 122a zum Abruf bereitgestellt worden ist oder
+
+
+
 
 
 2.  bei öffentlicher Zustellung nach § 10 des
@@ -10677,23 +10654,6 @@ nach, dass er durch die Tat keinen Vermögensvorteil erlangt hat und
 dass sie auch nicht darauf beruht, dass er die im Verkehr
 erforderlichen Vorkehrungen zur Verhinderung von Steuerverkürzungen
 unterlassen hat.
-
-[^F832391_5_BJNR006130976BJNE026307123]:     Nummer 1 gilt gemäß Artikel 3 Nummer 6 in Verbindung mit Artikel 74
-    Absatz 10 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) ab
-    1\. Januar 2026 in folgender Fassung:                             „1.
-    der Steuerbescheid                                         a)
-    im Fall des § 122 Absatz 2, 2a oder Absatz 5 den Bereich der für die
-    Steuerfestsetzung zuständigen Finanzbehörde verlassen hat oder
-
-
-    b)                                            im Fall des § 122a zum
-    Abruf bereitgestellt worden ist oder“.
-
-
-
-
-
-
 
 
 ###### § 170 Beginn der Festsetzungsfrist
@@ -16461,7 +16421,7 @@ einem anderen Mitgliedstaat der Europäischen Union verwaltet werden.
     nicht vollständig erstellt,
 
 
-1b.[^F832391_6_BJNR006130976BJNE047320123]
+1b.[^F832391_6_BJNR006130976BJNE047321123]
  einer Rechtsverordnung nach § 117c Absatz 1 oder einer vollziehbaren
     Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
     soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
@@ -16482,8 +16442,8 @@ einem anderen Mitgliedstaat der Europäischen Union verwaltet werden.
     1 Nummer 1 bis 7 sowie 9 und 10 oder § 138h Absatz 2, jeweils auch in
     Verbindung mit § 138f Absatz 6 Satz 1 und 2 oder § 138g Absatz 1 Satz
     1, eine Mitteilung über eine grenzüberschreitende Steuergestaltung
-    nicht oder nicht rechtzeitig macht oder zur Verfügung stehende Angaben
-    nicht vollständig mitteilt,
+    nicht, nicht richtig oder nicht rechtzeitig macht oder zur Verfügung
+    stehende Angaben nicht vollständig mitteilt,
 
 
 1f. (weggefallen)
@@ -16530,7 +16490,7 @@ kann.
 mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die
 Handlung nicht nach § 378 geahndet werden kann.
 
-[^F832391_7_BJNR006130976BJNE047320123]
+[^F832391_7_BJNR006130976BJNE047321123]
 (8) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1b kann mit einer
 Geldbuße bis zu 30 000 Euro geahndet werden, wenn die Handlung nicht
 nach § 378 geahndet werden kann.
@@ -16543,7 +16503,7 @@ nach § 378 geahndet werden kann.
     Rechtsverordnung zur Änderung der FATCA-USA-Umsetzungsverordnung in
     Kraft treten. Das Bundesministerium der Finanzen gibt den Tag des
     Inkrafttretens gesondert im Bundesgesetzblatt bekannt.
-[^F832391_6_BJNR006130976BJNE047320123]:     Gemäß Artikel 18 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr.
+[^F832391_6_BJNR006130976BJNE047321123]:     Gemäß Artikel 18 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr.
     387) wird § 379 Absatz 8 aufgehoben. Diese Rechtsänderung tritt nach
     Artikel 56 Absatz 8 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I
     Nr. 387) an dem Tag in Kraft, an dem die Vorschriften der auf
@@ -16551,7 +16511,7 @@ nach § 378 geahndet werden kann.
     Rechtsverordnung zur Änderung der FATCA-USA-Umsetzungsverordnung in
     Kraft treten. Das Bundesministerium der Finanzen gibt den Tag des
     Inkrafttretens gesondert im Bundesgesetzblatt bekannt.
-[^F832391_7_BJNR006130976BJNE047320123]: 
+[^F832391_7_BJNR006130976BJNE047321123]: 
 
 #### § 380 Gefährdung der Abzugsteuern
 
