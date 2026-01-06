@@ -340,6 +340,16 @@ Im Sinne dieses Gesetzes sind
     als Fulfilment-Dienstleister;
 
 
+11d. Lager- und Versandfläche:
+
+    alle im In- oder Ausland gelegenen Flächen, die genutzt werden, um
+    beim Vertrieb unter Verwendung von Fernkommunikationsmitteln den
+    Verkaufsprozess durch Lagerung, Kommissionierung oder Verpacken der
+    Elektro- und Elektronikgeräte für den Endnutzer zu ermöglichen oder zu
+    unterstützen; zur Lagerfläche gehört, unabhängig von der
+    Regalgrundfläche, die gesamte Fläche der einzelnen Regalböden;
+
+
 12. öffentlich-rechtlicher Entsorgungsträger:
 
     die nach Landesrecht zur Entsorgung verpflichtete juristische Person;
@@ -457,6 +467,19 @@ Im Sinne dieses Gesetzes sind
     Elektronikgerät ist;
 
 
+21a. elektronische Zigarette:
+
+    elektronische Zigarette nach Artikel 2 Nummer 16 Satz 1 der Richtlinie
+    2014/40 (EU);
+
+
+21b. elektronischer Tabakerhitzer:
+
+    ein elektronisches Heizsystem, das zum Erhitzen von neuartigen
+    Tabakerzeugnissen im Sinne des Artikels 7 Absatz 12 Unterabsatz 2 der
+    Richtlinie 2014/40/EU geeignet und bestimmt ist;
+
+
 22. Erfassung
 
     die Sammlung sowie die Rücknahme von Altgeräten;
@@ -489,9 +512,8 @@ Im Sinne dieses Gesetzes sind
     nach Anlage 2 zum Kreislaufwirtschaftsgesetz; die zerstörungsfreie
     Entnahme von Lampen aus Altgeräten bei der Erfassung gilt nicht als
     Erstbehandlung; dies gilt auch für die zerstörungsfreie Entnahme von
-    Altbatterien und Altakkumulatoren, die nicht vom Altgerät umschlossen
-    sind, und für die zerstörungsfreie Löschung oder Vernichtung von Daten
-    auf dem Altgerät;
+    Altbatterien, die nicht vom Altgerät umschlossen sind, und für die
+    zerstörungsfreie Löschung oder Vernichtung von Daten auf dem Altgerät;
 
 
 25. Entfernen:
@@ -800,14 +822,14 @@ Absatz 1, sofern die Kennzeichnung gemeinsam mit dem Symbol nach Satz
 
 ### § 10 Getrennte Erfassung
 
-(1) Besitzer von Altgeräten haben diese einer vom unsortierten
+(1) Endnutzer von Altgeräten haben diese einer vom unsortierten
 Siedlungsabfall getrennten Erfassung zuzuführen. Sie haben
-Altbatterien und Altakkumulatoren, die nicht vom Altgerät umschlossen
-sind, sowie Lampen, die zerstörungsfrei aus dem Altgerät entnommen
-werden können, vor der Abgabe an einer Erfassungsstelle vom Altgerät
-zerstörungsfrei zu trennen. Satz 2 gilt nicht, soweit nach § 14 Absatz
-4 Satz 4 oder Absatz 5 Satz 2 und 3 Altgeräte separiert werden, um sie
-für die Wiederverwendung vorzubereiten.
+Altbatterien, die nicht vom Altgerät umschlossen sind, sowie Lampen,
+die zerstörungsfrei aus dem Altgerät entnommen werden können, vor der
+Abgabe an einer Erfassungsstelle vom Altgerät zerstörungsfrei zu
+trennen. Satz 2 gilt nicht, soweit nach § 14 Absatz 4 Satz 4 oder
+Absatz 5 Satz 2 und 3 Altgeräte separiert werden, um sie für die
+Wiederverwendung vorzubereiten.
 
 (2) Die Erfassung nach Absatz 1 hat so zu erfolgen, dass die spätere
 Vorbereitung zur Wiederverwendung, die Demontage und das Recycling
@@ -842,18 +864,14 @@ festzulegen.
 
 #### § 12 Berechtigte für die Erfassung von Altgeräten aus privaten Haushalten
 
-(1) Die Erfassung von Altgeräten aus privaten Haushalten darf nur von
+Die Erfassung von Altgeräten aus privaten Haushalten darf nur von
 öffentlich-rechtlichen Entsorgungsträgern, Vertreibern, Herstellern
 oder im Fall der Bevollmächtigung nach § 8 deren Bevollmächtigten
 sowie von Betreibern von nach § 21 zertifizierten
-Erstbehandlungsanlagen vorgenommen werden. Die nach Satz 1 zur
-Erfassung Berechtigten dürfen für die Sammlung und Rücknahme auch
-Dritte beauftragen.
-
-(2) Die Berechtigten nach Absatz 1 haben gegenüber den Endnutzern ihre
-Sammel- und Rücknahmestellen durch die von der Gemeinsamen Stelle
-gemäß § 31 Absatz 1 Satz 5 entworfene einheitliche Kennzeichnung
-kenntlich zu machen.
+Erstbehandlungsanlagen vorgenommen werden. Öffentlich-rechtliche
+Entsorgungsträger, Vertreiber und Hersteller oder im Fall der
+Bevollmächtigung nach § 8 deren Bevollmächtigte dürfen mit der
+Sammlung und Rücknahme auch Dritte beauftragen.
 
 
 #### § 13 Sammlung durch die öffentlich-rechtlichen Entsorgungsträger
@@ -942,8 +960,9 @@ Brandrisiken vermieden werden. Die Altgeräte dürfen in den
 Behältnissen nicht mechanisch verdichtet werden. Die Einsortierung der
 Altgeräte, insbesondere der batteriebetriebenen Altgeräte, in die
 Behältnisse nach Absatz 1 hat an den eingerichteten Übergabestellen
-durch den öffentlich-rechtlichen Entsorgungsträger oder unter seiner
-Aufsicht zu erfolgen.
+durch den öffentlich-rechtlichen Entsorgungsträger oder bei den in
+Absatz 1 genannten Gruppen 1, 4 und 6 unter seiner Aufsicht zu
+erfolgen.
 
 (3) Die öffentlich-rechtlichen Entsorgungsträger melden der
 Gemeinsamen Stelle die zur Abholung bereitgestellten Behältnisse, wenn
@@ -964,9 +983,11 @@ Bauteilen aus oder von den Altgeräten unzulässig. Eine Veränderung des
 Inhalts der Behältnisse bis zum Eintreffen bei der
 Erstbehandlungsanlage ist unzulässig. Absatz 1 Satz 2 bleibt von dem
 Verbot nach Satz 1 unberührt. Die Sätze 1 und 2 gelten nicht, wenn die
-Altgeräte im Rahmen einer Kooperation nach § 17b einer
-Erstbehandlungsanlage zum Zwecke der Vorbereitung zur Wiederverwendung
-überlassen werden.
+Altgeräte im Rahmen einer Kooperation nach § 17b einer
+Erstbehandlungsanlage zum Zweck der Vorbereitung zur Wiederverwendung
+überlassen werden. An der Sammelstelle ist die Separierung von
+gebrauchten Geräten, die keine Altgeräte sind, zum Zweck der
+Wiederverwendung zulässig.
 
 (5) Ein nach Landesrecht für die Verwertung und Beseitigung von
 Altgeräten zuständiger öffentlich-rechtlicher Entsorgungsträger kann
@@ -1099,19 +1120,27 @@ Endnutzer
 
 
 
-(2) Absatz 1 gilt auch bei einem Vertrieb unter Verwendung von
-Fernkommunikationsmitteln. Absatz 1 Satz 2 gilt mit der Maßgabe, dass
-die unentgeltliche Abholung auf Elektro- und Elektronikgeräte der
-Kategorien 1, 2 und 4 beschränkt ist. Als Verkaufsfläche im Sinne von
-Absatz 1 Satz 1 erste Alternative gelten in diesem Fall alle Lager-
-und Versandflächen für Elektro- und Elektronikgeräte, als
-Gesamtverkaufsfläche im Sinne von Absatz 1 Satz 1 zweite Alternative
-gelten in diesem Fall alle Lager- und Versandflächen. Die Rücknahme im
-Fall eines Vertriebs unter Verwendung von Fernkommunikationsmitteln
-ist im Fall des Absatzes 1 Satz 1 Nummer 1 für Elektro- und
-Elektronikgeräte der Kategorien 3, 5 und 6 und Nummer 2 durch
-geeignete Rückgabemöglichkeiten in zumutbarer Entfernung zum
-jeweiligen Endnutzer zu gewährleisten.
+(1a) Vertreiber, die elektronische Zigaretten oder elektronische
+Tabakerhitzer im Sortiment führen oder innerhalb der letzten sechs
+Monate geführt haben, sind verpflichtet, elektronische Zigaretten oder
+elektronische Tabakerhitzer, die als Altgeräte anfallen, am Ort der
+Abgabe oder in unmittelbarer Nähe hierzu unentgeltlich zurückzunehmen.
+Die Rücknahme darf nicht an den Kauf einer elektronischen Zigarette
+oder eines elektronischen Tabakerhitzers geknüpft werden.
+
+(2) Die Absätze 1 und 1a gelten auch bei einem Vertrieb unter
+Verwendung von Fernkommunikationsmitteln. Absatz 1 Satz 2 gilt mit der
+Maßgabe, dass die unentgeltliche Abholung auf Elektro- und
+Elektronikgeräte der Kategorien 1, 2 und 4 beschränkt ist. Als
+Verkaufsfläche im Sinne von Absatz 1 Satz 1 erste Alternative gelten
+in diesem Fall alle Lager- und Versandflächen für Elektro- und
+Elektronikgeräte, als Gesamtverkaufsfläche im Sinne von Absatz 1 Satz
+1 zweite Alternative gelten in diesem Fall alle Lager- und
+Versandflächen. Die Rücknahme im Fall eines Vertriebs unter Verwendung
+von Fernkommunikationsmitteln ist im Fall des Absatzes 1 Satz 1 Nummer
+1 für Elektro- und Elektronikgeräte der Kategorien 3, 5 und 6 und
+Nummer 2 durch geeignete Rückgabemöglichkeiten in zumutbarer
+Entfernung zum jeweiligen Endnutzer zu gewährleisten.
 
 (3) Unbeschadet der Pflichten aus den Absätzen 1 und 2 dürfen
 Vertreiber Altgeräte freiwillig unentgeltlich zurücknehmen.
@@ -1120,14 +1149,13 @@ Vertreiber Altgeräte freiwillig unentgeltlich zurücknehmen.
 bis 3 entsprechend. Die Rücknahme durch die Vertreiber darf weder an
 Sammel- noch an Übergabestellen der öffentlich-rechtlichen
 Entsorgungsträger nach § 13 Absatz 1 erfolgen. Bei der Rücknahme nach
-den Absätzen 1 bis 3 gilt § 14 Absatz 2 Satz 1 entsprechend. An der
-Rücknahmestelle ist die Entfernung von Bauteilen aus oder von den
+den Absätzen 1 bis 3 gilt § 14 Absatz 2 Satz 1 und 2 entsprechend. An
+der Rücknahmestelle ist die Entfernung von Bauteilen aus oder von den
 Altgeräten unzulässig; dies gilt nicht für die Entnahme von
-Altbatterien und Altakkumulatoren sowie von Lampen. Soweit die
-Vertreiber im Rahmen einer freiwilligen Rücknahme nach Absatz 3
-zusätzlich zur Rücknahme nach den Absätzen 1 und 2 eine Abholleistung
-beim privaten Haushalt anbieten, können sie für diese ein Entgelt
-verlangen.
+Altbatterien sowie von Lampen. Soweit die Vertreiber im Rahmen einer
+freiwilligen Rücknahme nach Absatz 3 zusätzlich zur Rücknahme nach den
+Absätzen 1 und 2 eine Abholleistung beim privaten Haushalt anbieten,
+können sie für diese ein Entgelt verlangen.
 
 (5) Übergeben die Vertreiber zurückgenommene Altgeräte oder deren
 Bauteile nicht den Herstellern, im Fall der Bevollmächtigung nach § 8
@@ -1207,8 +1235,8 @@ Entsorgungsträger unentgeltlich wieder zu überlassen.
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger informieren die
 privaten Haushalte über Abfallvermeidungsmaßnahmen sowie die Pflicht
-nach § 10 Absatz 1. Sie informieren die privaten Haushalte darüber
-hinaus über
+nach § 10 Absatz 1 Satz 1 und 2. Sie informieren die privaten
+Haushalte darüber hinaus über
 
 1.  die im Gebiet des öffentlich-rechtlichen Entsorgungsträgers durch
     diesen eingerichteten und zur Verfügung stehenden Möglichkeiten der
@@ -1236,7 +1264,7 @@ hinaus über
     und Elektronikgeräten enthaltenen gefährlichen Stoffe auf die Umwelt
     und die menschliche Gesundheit haben kann; insbesondere die Gefahren
     sowie das Brandrisiko, die auf Grund nicht ordnungsgemäß bruchsicherer
-    Erfassung durch Schadstoffe entstehen können,
+    Erfassung durch Schadstoffe oder Batterien entstehen können,
 
 
 5.  die möglichen Auswirkungen auf die Umwelt und die menschliche
@@ -1265,69 +1293,79 @@ hinaus über
 
 (2) Die öffentlich-rechtlichen Entsorgungsträger haben die privaten
 Haushalte an der Sammelstelle über die Entnahmepflicht für
-Altbatterien und Altakkumulatoren sowie für Lampen nach § 10 Absatz 1
-Satz 2 und die getrennte Erfassung von batteriebetriebenen Altgeräten
-nach § 14 Absatz 1 Satz 2 zu informieren.
+Altbatterien sowie für Lampen nach § 10 Absatz 1 Satz 2 und die
+getrennte Erfassung von batteriebetriebenen Altgeräten nach § 14
+Absatz 1 Satz 2 zu informieren.
 
-(3) Vertreiber, die nach § 17 Absatz 1 Satz 1 zur Rücknahme von
-Altgeräten verpflichtet sind, haben ab dem Zeitpunkt des Anbietens von
-Elektro- oder Elektronikgeräten die privaten Haushalte durch gut
-sicht- und lesbare, im unmittelbaren Sichtbereich des Kundenstroms
-platzierte Schrift- oder Bildtafeln über Folgendes zu informieren:
+(3) Vertreiber, die nach § 17 Absatz 1 Satz 1 oder Absatz 1a zur
+Rücknahme von Altgeräten verpflichtet sind, haben ab dem Zeitpunkt des
+Anbietens von Elektro- oder Elektronikgeräten die privaten Haushalte
+durch gut sicht- und lesbare, im unmittelbaren Sichtbereich des
+Kundenstroms platzierte Schrift- oder Bildtafeln über Folgendes zu
+informieren:
 
-1.  die Pflicht der Endnutzer nach § 10 Absatz 1,
-
-
-2.  die Entnahmepflicht der Endnutzer für Altbatterien und
-    Altakkumulatoren sowie für Lampen nach § 10 Absatz 1 Satz 2,
+1.  die Pflicht der Endnutzer nach § 10 Absatz 1 Satz 1,
 
 
-3.  die Pflicht der Vertreiber zur unentgeltlichen Rücknahme von
+2.  die Entnahmepflicht der Endnutzer für Altbatterien nach § 10 Absatz 1
+    Satz 2 sowie über die Risiken beim Umgang mit lithiumhaltigen
+    Batterien,
+
+
+3.  die Entnahmepflicht für Lampen nach § 10 Absatz 1 Satz 2,
+
+
+4.  die Pflicht der Vertreiber zur unentgeltlichen Rücknahme von
     Altgeräten nach § 17 Absatz 1 und 2,
 
 
-4.  die von ihnen geschaffenen Möglichkeiten der Rückgabe von Altgeräten,
+5.  die von ihnen geschaffenen Möglichkeiten der Rückgabe von Altgeräten,
 
 
-5.  die Eigenverantwortung der Endnutzer im Hinblick auf das Löschen der
+6.  die Eigenverantwortung der Endnutzer im Hinblick auf das Löschen der
     personenbezogenen Daten auf den zu entsorgenden Altgeräten und
 
 
-6.  die Bedeutung des Symbols nach Anlage 3.
+7.  die Bedeutung des Symbols nach Anlage 3.
 
 
 
 Vertreiber, die Elektro- oder Elektronikgeräte unter Verwendung von
 Fernkommunikationsmitteln anbieten, haben die Informationen nach Satz
 1 ab dem Zeitpunkt des Anbietens von Elektro- oder Elektronikgeräten
-für die privaten Haushalte gut sichtbar in den von ihnen verwendeten
-Darstellungsmedien zu veröffentlichen oder diese der Warensendung
-schriftlich beizufügen.
+für die privaten Haushalte gut sichtbar und leicht auffindbar in den
+von ihnen verwendeten Darstellungsmedien zu veröffentlichen oder diese
+der Warensendung schriftlich beizufügen.
 
 (4) Hersteller oder im Fall der Bevollmächtigung nach § 8 deren
 Bevollmächtigte haben ab dem Zeitpunkt des Anbietens von Elektro- oder
 Elektronikgeräten die privaten Haushalte über Folgendes zu
 informieren:
 
-1.  die Pflicht der Endnutzer nach § 10 Absatz 1,
+1.  die Pflicht der Endnutzer nach § 10 Absatz 1 Satz 1,
 
 
-2.  die Entnahmepflicht der Endnutzer für Altbatterien und
-    Altakkumulatoren sowie für Lampen nach § 10 Absatz 1 Satz 2,
+2.  die Entnahmepflicht der Endnutzer für Altbatterien nach § 10 Absatz 1
+    Satz 2 sowie über die Risiken beim Umgang mit lithiumhaltigen
+    Batterien,
 
 
-3.  die Pflicht der Vertreiber zur unentgeltlichen Rücknahme von
+3.  die Entnahmepflicht der Endnutzer für Lampen nach § 10 Absatz 1 Satz
+    2,
+
+
+4.  die Pflicht der Vertreiber zur unentgeltlichen Rücknahme von
     Altgeräten nach § 17 Absatz 1 und 2,
 
 
-4.  die von ihnen geschaffenen Möglichkeiten der Rückgabe von Altgeräten,
+5.  die von ihnen geschaffenen Möglichkeiten der Rückgabe von Altgeräten,
 
 
-5.  die Eigenverantwortung der Endnutzer im Hinblick auf das Löschen der
+6.  die Eigenverantwortung der Endnutzer im Hinblick auf das Löschen der
     personenbezogenen Daten auf den zu entsorgenden Altgeräten und
 
 
-6.  die Bedeutung des Symbols nach Anlage 3.
+7.  die Bedeutung des Symbols nach Anlage 3.
 
 
 
@@ -1335,7 +1373,42 @@ Die Informationen sind den Elektro- und Elektronikgeräten in
 schriftlicher Form beizufügen. Hersteller oder im Fall der
 Bevollmächtigung nach § 8 deren Bevollmächtigte haben jährlich
 Informationen in Bezug auf die Erfüllung der quantitativen
+Zielvorgaben nach § 10 Absatz 3 und § 22 Absatz 1 zu veröffentlichen
+sowie diese Informationen zusätzlich auf der Website des Herstellers
+gut sichtbar und leicht auffindbar zu veröffentlichen. Hersteller oder
+im Fall der Bevollmächtigung nach § 8 deren Bevollmächtigte haben
+jährlich Informationen in Bezug auf die Erfüllung der quantitativen
 Zielvorgaben nach § 10 Absatz 3 und § 22 Absatz 1 zu veröffentlichen.
+
+
+#### § 18a Kennzeichnung und Hinweispflichten an Sammel- und Rücknahmestellen
+
+(1) Die nach § 12 Berechtigten haben dafür zu sorgen, dass von ihnen
+eingerichtete Sammel- und Rücknahmestellen gegenüber den Endnutzern
+durch das Symbol nach Anlage 3a kenntlich gemacht sind.
+
+(2) Vertreiber, die nach § 17 Absatz 1 Satz 1 oder Absatz 1a zur
+Rücknahme von Altgeräten verpflichtet sind, haben im Eingangsbereich
+ihres Einzelhandelsgeschäfts das Symbol nach Anlage 3a farbig sowie
+gut sicht- und lesbar mindestens im Format DIN A4 im unmittelbaren
+Sichtbereich des Kundenstroms zu platzieren. Sie haben außerdem
+darüber zu informieren, wie die Rücknahme in ihrem
+Einzelhandelsgeschäft erfolgt.
+
+(3) Vertreiber, die nach § 17 Absatz 1 Satz 1 oder Absatz 1a zur
+Rücknahme von Altgeräten verpflichtet sind, haben in ihrem
+Einzelhandelsgeschäft mit dem Symbol nach Anlage 3 in unmittelbarer
+Nähe zum Verkaufsstandort der Elektrogeräte gut sichtbar darauf
+hinzuweisen, dass Elektroaltgeräte getrennt vom unsortierten
+Siedlungsabfall zu entsorgen sind.
+
+(4) Vertreiber, die Elektro- oder Elektronikgeräte unter Verwendung
+von Fernkommunikationsmitteln anbieten, haben das Symbol nach Anlage
+3a in den von ihnen verwendeten Darstellungsmedien auf den Seiten mit
+den entsprechenden Produkten oder vor oder bei der Bestellung gut
+sicht- und lesbar zu platzieren. Sie haben außerdem darüber zu
+informieren, wie die Abholung nach § 17 Absatz 2 Satz 2 und die
+Rücknahme nach § 17 Absatz 2 Satz 4 erfolgen.
 
 
 ### Unterabschnitt 2 - Rücknahme von Altgeräten anderer Nutzer als privater Haushalte
@@ -1365,18 +1438,26 @@ tragen. Hersteller oder im Fall der Bevollmächtigung nach § 8 der
 Bevollmächtigte und Erwerber oder Endnutzer, der nicht privater
 Haushalt ist, können von Satz 1 abweichende Vereinbarungen treffen.
 
-(4) Der Hersteller und im Fall der Bevollmächtigung nach § 8 der
+(4) Der Hersteller oder im Fall der Bevollmächtigung nach § 8 der
 Bevollmächtigte ist verpflichtet, die finanziellen und
 organisatorischen Mittel vorzuhalten, um seinen Pflichten nach den
-Absätzen 1 bis 3 nachkommen zu können.
+Absätzen 1 bis 3 nachzukommen. Sie haben zur Bewertung ihrer
+Finanzverwaltung, die auch die finanziellen Mittel zur Erfüllung ihrer
+Pflichten nach dieser Vorschrift, insbesondere nach den Absätzen 1 und
+3 umfassen muss, geeignete Mechanismen zur Selbstkontrolle
+einzurichten.
 
 
 #### § 19a Informationspflichten der Hersteller
 
 Jeder Hersteller oder im Fall der Bevollmächtigung nach § 8 jeder
 Bevollmächtigte informiert die Endnutzer von Altgeräten anderer Nutzer
-als privater Haushalte über die Pflicht nach § 10 Absatz 1. Er
-informiert die Endnutzer darüber hinaus über
+als privater Haushalte über die Pflichten nach § 10 Absatz 1 Satz 1
+und 2. Die Informationen sind der Warensendung von Elektro- und
+Elektronikgeräten in schriftlicher Form beizufügen sowie zusätzlich
+gut sicht- und auffindbar in den von ihnen verwendeten
+Darstellungsmedien zu veröffentlichen. Er informiert die Endnutzer
+darüber hinaus über
 
 1.  die von ihm geschaffenen Möglichkeiten zur Rückgabe und Entsorgung der
     Altgeräte,
@@ -1737,7 +1818,7 @@ des 30. April des Folgejahres an das Umweltbundesamt. Das
 Umweltbundesamt kann die Übermittlungsform, eine bestimmte
 Verschlüsselung und einheitliche Datenformate vorgeben. Die Vorgaben
 sind auf den Internetseiten des Umweltbundesamtes zu veröffentlichen.
-Die Bundesregierung überprüft bis zum Ablauf des 31. Dezember 2024
+Die Bundesregierung überprüft bis zum Ablauf des 31. Dezember 2026
 unter Berücksichtigung des Standes der Technik und auf der Grundlage
 der abfallwirtschaftlichen Entwicklung, ob und inwieweit eine
 Recyclingquote für Kunststoffe aus Altgeräten einzuführen ist.
@@ -1938,7 +2019,7 @@ Berichtszeitraumes Folgendes gemäß den Sätzen 2 und 3 mitzuteilen:
     erforderlich ist, ist gesondert auszuweisen,
 
 
-2.  monatlich die je Geräteart ins Ausland verbrachten Elektro- und
+2.  die je Geräteart im Kalenderjahr ins Ausland verbrachten Elektro- und
     Elektronikgeräte, die zuvor vom Hersteller nach Nummer 1 in Verkehr
     gebracht worden sind; dabei sind zurückgenommene gebrauchte Elektro-
     und Elektronikgeräte, die nach der Rücknahme ins Ausland ausgeführt
@@ -1950,8 +2031,8 @@ Berichtszeitraumes Folgendes gemäß den Sätzen 2 und 3 mitzuteilen:
     abgeholten Altgeräte,
 
 
-4.  monatlich die von ihm je Geräteart nach § 16 Absatz 5 zurückgenommenen
-    Altgeräte,
+4.  die von ihm je Geräteart im Kalenderjahr nach § 16 Absatz 5
+    zurückgenommenen Altgeräte,
 
 
 5.  die von ihm je Geräteart und Kategorie im Kalenderjahr
@@ -1980,20 +2061,26 @@ Berichtszeitraumes Folgendes gemäß den Sätzen 2 und 3 mitzuteilen:
 Bei diesen Mitteilungen sind in den Kategorien 4 und 5
 Photovoltaikmodule und andere Altgeräte gesondert auszuweisen. Soweit
 der Hersteller keine Geräte in Verkehr gebracht hat, ist der Betrag
-mit null anzugeben (Nullmenge). Die Mitteilungen müssen die
+mit null anzugeben (Nullmenge). Bei der Mitteilung nach Satz 1 Nummer
+4 ist anzugeben, ob eine Anrechnung der Mengenmitteilung nach § 31
+Absatz 6 Satz 5 erfolgen soll. Die Mitteilungen müssen die
 Formatvorgaben der Gemeinsamen Stelle gemäß § 33 Absatz 1 Satz 4
 erfüllen.
 
-(2) Die Mitteilungen in den Fällen des Absatzes 1 Satz 1 Nummer 1, 2
-und 4 haben bis zum 15. des Monats, der auf den Monat folgt, für den
-die jeweiligen Angaben mitzuteilen sind, zu erfolgen. Es können
+(2) Die Mitteilungen in den Fällen des Absatzes 1 Satz 1 Nummer 1
+haben bis zum 15. des Monats, der auf den Monat folgt, für den die
+jeweiligen Angaben mitzuteilen sind, zu erfolgen. Es können
 abweichende Mitteilungszeiträume mit der Gemeinsamen Stelle vereinbart
 werden. Sofern keine Garantie nach § 7 Absatz 1 Satz 1 erforderlich
 ist, erfolgt die Mitteilung nach Absatz 1 Satz 1 Nummer 1 und 2
 jährlich bis zum 30. April des darauf folgenden Kalenderjahres. Die
-Mitteilungen nach Absatz 1 Satz 1 Nummer 5 bis 9 müssen der
+Mitteilungen nach Absatz 1 Satz 1 Nummer 2 und 4 bis 9 müssen der
 Gemeinsamen Stelle bis zum 30. April des darauf folgenden
 Kalenderjahres vorliegen.
+
+(2a) Die Mitteilungen nach Absatz 1 Satz 1 Nummer 4 können auf Wunsch
+des Herstellers auch monatlich erfolgen. In diesem Fall gelten Absatz
+1 Satz 4 und Absatz 2 Satz 1 entsprechend.
 
 (3) Bei den Mitteilungen nach Absatz 1 ist das Gewicht anzugeben.
 Soweit das nicht möglich ist, genügt eine fundierte Schätzung. Die
@@ -2161,24 +2248,27 @@ Betreiber von Erstbehandlungsanlagen in geeigneter Weise über die
 Aufgaben und Pflichten aus diesem Gesetz. Die Gemeinsame Stelle
 informiert die Endnutzer über
 
-1.  deren Pflicht nach § 10 Absatz 1,
+1.  deren Pflicht nach § 10 Absatz 1 Satz 1,
 
 
-2.  die Rückgabemöglichkeiten für Altgeräte,
+2.  deren Entnahmepflicht für Altbatterien nach § 10 Absatz 1 Satz 2 sowie
+    über die Risiken beim Umgang mit lithiumhaltigen Batterien,
 
 
-3.  die Eigenverantwortung der Endnutzer im Hinblick auf das Löschen
+3.  deren Entnahmepflicht für Lampen nach § 10 Absatz 1 Satz 2,
+
+
+4.  die Rückgabemöglichkeiten für Altgeräte,
+
+
+5.  die Eigenverantwortung der Endnutzer im Hinblick auf das Löschen
     personenbezogener Daten auf den zu entsorgenden Altgeräten und
 
 
-4.  die Bedeutung des Symbols nach Anlage 3.
+6.  die Bedeutung der Symbole nach den Anlagen 3 und 3a.
 
 
 
-Die Gemeinsame Stelle hat eine einheitliche Kennzeichnung für Sammel-
-und Rücknahmestellen zu entwerfen, diese den Sammel- und
-Rücknahmestellen unentgeltlich zur Verfügung zu stellen und bei den
-Sammel- und Rücknahmestellen dauerhaft für deren Nutzung zu werben.
 
 (2) Die Gemeinsame Stelle erfasst die Mitteilungen der zuständigen
 Behörde nach § 38 Absatz 1. Sie veröffentlicht die registrierten
@@ -2242,18 +2332,18 @@ mitgeteilten Mengen zu berücksichtigen. Berichtigungen der
 Mitteilungen nach § 27 Absatz 1 Satz 1 Nummer 1 und 2 werden
 berücksichtigt. Kommt der Hersteller seiner Meldepflicht nicht nach,
 kann die Gemeinsame Stelle die Menge seiner in Verkehr gebrachten
-Elektro- und Elektronikgeräte schätzen. Das Gewicht der von einem
-Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen
-Bevollmächtigtem nach § 27 Absatz 1 Satz 1 Nummer 4 zurückgenommenen
-Altgeräte derjenigen Gerätearten, für die eine Garantie nach § 7
-Absatz 1 nachzuweisen ist, wird auf seinen jeweiligen Anteil nach
-Absatz 5 Satz 2 oder 3 angerechnet. Satz 3 gilt entsprechend. Die
-Gemeinsame Stelle kann der zuständigen Behörde die von einzelnen
-Herstellern oder im Fall der Bevollmächtigung nach § 8 deren
-Bevollmächtigten nach § 27 Absatz 1 Satz 1 Nummer 2 und 4 mitgeteilten
-Mengen zur Entscheidung über die Berücksichtigung oder Anrechnung im
-Sinne der Sätze 2 und 5 vorlegen. Für nicht sortier- oder
-identifizierbare Altgeräte gilt Absatz 5 Satz 2 entsprechend.
+Elektro- und Elektronikgeräte schätzen. Entsprechend der Angabe nach §
+27 Absatz 1 Satz 4 wird das Gewicht der von einem Hersteller oder im
+Fall der Bevollmächtigung nach § 8 dessen Bevollmächtigtem nach § 16
+Absatz 5 zurückgenommenen Altgeräte derjenigen Gerätearten, für die
+eine Garantie nach § 7 Absatz 1 nachzuweisen ist, auf seinen
+jeweiligen Anteil nach Absatz 5 Satz 2 oder 3 angerechnet. Satz 3 gilt
+entsprechend. Die Gemeinsame Stelle kann der zuständigen Behörde die
+von einzelnen Herstellern oder im Fall der Bevollmächtigung nach § 8
+deren Bevollmächtigten nach § 27 Absatz 1 Satz 1 Nummer 2 und 4
+mitgeteilten Mengen zur Entscheidung über die Berücksichtigung oder
+Anrechnung im Sinne der Sätze 2 und 5 vorlegen. Für nicht sortier-
+oder identifizierbare Altgeräte gilt Absatz 5 Satz 2 entsprechend.
 
 (7) Die Gemeinsame Stelle berechnet die zeitlich und örtlich
 gleichmäßige Verteilung der Abholpflicht auf alle registrierten
@@ -2368,7 +2458,7 @@ Mitteilungen ist das Gewicht anzugeben. Soweit das nicht möglich ist,
 genügt eine fundierte Schätzung.
 
 (3) Darüber hinaus meldet die Gemeinsame Stelle dem Umweltbundesamt
-jährlich bis zum 1. Juli die von den öffentlich-rechtlichen
+jährlich bis zum 1. Oktober die von den öffentlich-rechtlichen
 Entsorgungsträgern nach § 26 Absatz 3, den Herstellern oder im Fall
 der Bevollmächtigung nach § 8 deren Bevollmächtigten nach § 27 Absatz
 4 und den Vertreibern nach § 29 Absatz 3 gemeldeten Mengen.
@@ -2966,6 +3056,15 @@ ist ein Widerspruchsverfahren ausgeschlossen.
     Weise oder nicht rechtzeitig informiert,
 
 
+13c. entgegen § 18a Absatz 1 nicht dafür sorgt, dass eine eingerichtete
+    Sammel- und Rücknahmestelle nach Anlage 3a kenntlich gemacht ist,
+
+
+13d. entgegen § 18a Absatz 3 oder Absatz 4 Satz 2 oder § 19a Satz 1 oder
+    Satz 3 eine Information oder einen Hinweis nicht, nicht richtig oder
+    nicht vollständig gibt,
+
+
 14. entgegen § 21 Absatz 1 ohne Zertifizierung eine Erstbehandlung
     durchführt,
 
@@ -3011,48 +3110,32 @@ der Staatskasse auferlegten Kosten trägt.
 
 ### § 46 Übergangsvorschriften
 
-(1) Abweichend von § 6 Absatz 1 Satz 3 haben Hersteller, die vor dem
-1\. Januar 2022 bereits registriert sind, bis zum Ablauf des 30. Juni
-2022 der zuständigen Behörde ein Rücknahmekonzept vorzulegen.
+(1) Vertreiber von elektronischen Zigaretten oder elektronischen
+Tabakerhitzern, die nach § 17 Absatz 1a zur Rücknahme verpflichtet
+sind, müssen die Rücknahmestellen bis zum Ablauf des 30. Juni 2026
+einrichten. Vertreiber, die nach dem 30. Juni 2026 keine
+elektronischen Zigaretten oder elektronischen Tabakerhitzer mehr
+anbieten, sind nicht zur Rücknahme verpflichtet.
 
-(2) § 6 Absatz 2 Satz 2 Nummer 2 und 3 gilt erst ab dem 1. Juli 2023.
+(2) Vertreiber, die nach § 17 Absatz 1, 1a und 2 Satz 1 zur Rücknahme
+verpflichtet sind, haben die Anforderungen nach § 18a Absatz 2 bis 4
+zur Kennzeichnung und Information an den Rücknahmestellen bis zum
+Ablauf des 30. Juni 2026 umzusetzen.
 
-(3) Abweichend von § 8 Absatz 3 Satz 4 ist eine Zulassung des
-Bevollmächtigten nach § 37 Absatz 7 erst ab dem 1. Januar 2023
-erforderlich.
-
-(4) Abweichend von § 9 Absatz 2 Satz 1 ist für Elektro- und
-Elektronikgeräte, die bis zum Ablauf des 31. Dezember 2022 in Verkehr
-gebracht werden oder wurden und für die eine Garantie nach § 7 Absatz
-1 nicht erforderlich ist, eine Kennzeichnung mit dem Symbol nach
-Anlage 3 nicht erforderlich.
-
-(5) Vertreiber von Lebensmitteln, die nach § 17 Absatz 1 und 2 zur
-Rücknahme verpflichtet sind, müssen die Rücknahmestellen bis zum
-Ablauf des 30. Juni 2022 einrichten.
-
-(6) Für Erstbehandlungsanlagen, die bis zum Ablauf des 31. Dezember
-2021 bereits nach § 21 des Elektro- und Elektronikgerätegesetzes in
-der bis zum Ablauf des 31. Dezember 2021 geltenden Fassung
-zertifiziert sind, ist § 21 Absatz 3 und 4 erstmals ab der Erneuerung
-des Zertifikats anzuwenden.
-
-(7) § 22 Absatz 4 Satz 4 gilt erstmals für das Berichtsjahr 2022.
-
-(8) Betreiber von Erstbehandlungsanlagen, die bereits nach § 25 Absatz
-4 des Elektro- und Elektronikgerätegesetzes in der bis zum Ablauf des
-31\. Dezember 2021 geltenden Fassung angezeigt sind, haben bis zum
-Ablauf des 30. Juni 2022 der zuständigen Behörde ein aktuelles
-Zertifikat vorzulegen.
-
-(9) Bei der Ermittlung der Abhol- und Aufstellungspflicht bleiben ab
+(3) Bei der Ermittlung der Abhol- und Aufstellungspflicht bleiben ab
 dem 1. Februar 2016 vorangegangene Abhol- und Aufstellungspflichten
 außer Betracht, soweit sie im Hinblick auf die Gruppen nach § 9 Absatz
-4 Satz 1 Nummer 2 bis 5 des Elektro- und Elektronikgerätegesetzes vom
-16\. März 2005 ermittelt worden sind. Satz 2 gilt für die Gruppen nach
-§ 14 Absatz 1 Nummer 1, 3 und 5 dieses Gesetzes in der Fassung vom 20.
-Oktober 2015 im Hinblick auf die vor dem 1. Dezember 2018 ermittelten
-Abhol- und Aufstellungspflichten entsprechend.
+4 Satz 1 Nummer 2 bis 5 des Elektro- und Elektronikgerätegesetzes in
+der am 16. März 2005 geltenden Fassung ermittelt worden sind. Satz 1
+gilt für die Gruppen nach § 14 Absatz 1 Satz 1 Nummer 1, 3 und 5 des
+Elektro- und Elektronikgerätegesetzes in der am 20. Oktober 2015
+geltenden Fassung im Hinblick auf die vor dem 1. Dezember 2018
+ermittelten Abhol- und Aufstellungspflichten entsprechend.
+
+(4) Die Mitteilungen nach § 27 Absatz 1 Satz 1 Nummer 2 und 4 des
+Elektro- und Elektronikgerätegesetzes in der bis zum Ablauf des 31.
+Dezember 2025 geltenden Fassung haben letztmalig bis zum 15. Januar
+2026 zu erfolgen.
 
 (zu § 2 Absatz 1)
 
@@ -3365,6 +3448,34 @@ dar (siehe unten). Dieses Symbol ist sichtbar, erkennbar und dauerhaft
 anzubringen.
 
 ![bgbl1_2015_j1739-1_0010.jpg](bgbl1_2015_j1739-1_0010.jpg)
+(zu § 18a Absatz 1, 2 und 4 und § 31 Absatz 1 Satz 4 Nummer 6)
+
+### Anlage 3a Symbol zur Kennzeichnung von Sammel- und Rücknahmestellen
+
+(Fundstelle: BGBl. 2025 I Nr. 286, S. 5)
+
+![bgbl1_2025_j02860_0010.jpg](bgbl1_2025_j02860_0010.jpg)
+Technische Beschreibung:
+
+a)  Das Logo ist vierfarbig auf weißem Fond abzubilden. Der Abstand vom
+    Inhalt zum Dateirand beträgt 1,5 mal die Stärke des Pfeils.
+
+    Die Buchstaben sind in Grau und das Zeichen in Grün abzubilden.
+
+    Für die Farbanwendungen gilt:
+    Vierfarbig nach Euroskala (4c): Grün-Anteil (cyan = 91 %, magenta = 18
+    %, yellow = 100 %, black = 4 %). Schwarz-Anteil (black = 80 %).
+    Pantone (pant): Grün-Anteil (Pantone 3298). Schwarz-Anteil (black = 80
+    %).
+    HKS (hks): Grün-Anteil (HKS 58 E). Schwarz-Anteil (black = 80 %).
+
+
+b)  Bei einfarbiger Verwendung des Logos werden die Buchstaben und der
+    Grünanteil in 100 % Schwarz abgebildet.
+
+
+
+
 (zu § 20 Absatz 2 Satz 4)
 
 ### Anlage 4 Technische Anforderungen an Standorte für die Lagerung und Behandlung von Altgeräten
