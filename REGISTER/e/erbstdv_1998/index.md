@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 19.12.2022 I 2432
 
+Änderung durch
+:   Art. 9 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -250,21 +253,30 @@ folgender Verfügungen und Schriftstücke mit einem Vordruck nach Muster
 4.  Zeugnisse über die Fortsetzung von Gütergemeinschaften,
 
 
-5.  Beschlüsse über die Einleitung oder Aufhebung einer Nachlaßpflegschaft
-    oder Nachlaßverwaltung,
+5.  Beschlüsse über die Einleitung oder Aufhebung einer
+    Nachlasspflegschaft oder Nachlassverwaltung,
 
 
 6.  beurkundete Vereinbarungen über die Abwicklung von
-    Erbauseinandersetzungen.
+    Erbauseinandersetzungen,
+
+
+7.  Eintragungsbekanntmachungen nach § 55 der Grundbuchordnung, wenn
+    aufgrund eines von einer ausländischen Stelle erteilten Europäischen
+    Nachlasszeugnisses eine Eigentumsumschreibung im Grundbuch erfolgt;
+    eine beglaubigte Abschrift des Europäischen Nachlasszeugnisses ist
+    beizufügen.
 
 
 
-Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die
+Erfolgt die Ermittlung der Erben von Amts wegen, so ist das Ergebnis
+mit einem Vordruck nach Muster 5 mitzuteilen. Eine elektronische
+Übermittlung der Anzeige nach Satz 1 oder 2 ist ausgeschlossen. Die
 Anzeige hat unverzüglich nach dem auslösenden Ereignis zu erfolgen.
-Auf der Urschrift der Mitteilung oder Anzeige ist zu vermerken, wann
-und an welches Finanzamt die Abschrift übersandt worden ist.
+Auf der Urschrift der Dokumente nach Satz 1 ist zu vermerken, wann und
+an welches Finanzamt die beglaubigte Abschrift übersandt worden ist.
 
-(2) Jede Mitteilung oder Übersendung soll die folgenden Angaben
+(2) Jede Anzeige oder Übersendung soll die folgenden Angaben
 enthalten:
 
 1.  den Namen, die Identifikationsnummer, den Geburtstag, die letzte
@@ -279,16 +291,17 @@ enthalten:
 
 (3) Soweit es den Gerichten bekannt ist, haben sie mitzuteilen:
 
-1.  den Beruf und den Familienstand des Erblassers,
+1.  den Familienstand des Erblassers,
 
 
 2.  den Güterstand bei verheirateten oder in einer Lebenspartnerschaft
     lebenden Erblassern,
 
 
-3.  die Anschriften und die Identifikationsnummern der Beteiligten sowie
-    das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder
-    Lebenspartner) zum Erblasser,
+3.  die Anschriften, die Identifikationsnummern und die Geburtstage der
+    Beteiligten sowie das persönliche Verhältnis
+    (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum
+    Erblasser,
 
 
 4.  die Höhe und die Zusammensetzung des Nachlasses in Form eines
@@ -302,8 +315,9 @@ enthalten:
 
 
 
-(4) Die Übersendung der in Absatz 1 erwähnten Abschriften und die
-Erstattung der dort vorgesehenen Anzeigen dürfen unterbleiben,
+(4) Die Übersendung der beglaubigten Abschriften nach Absatz 1 Satz 1
+und die Erstattung der in Absatz 1 vorgesehenen Anzeigen dürfen
+unterbleiben,
 
 1.  wenn die Annahme berechtigt ist, dass außer Hausrat (einschließlich
     Wäsche und Kleidungsstücke) im Wert von höchstens 12 000 Euro nur noch
@@ -329,7 +343,7 @@ Erstattung der dort vorgesehenen Anzeigen dürfen unterbleiben,
 
 
 (5) Die vorstehenden Vorschriften gelten entsprechend für Notare und
-sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlaßgerichtes
+sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlassgerichts
 übertragen sind.
 
 
@@ -817,80 +831,7 @@ Ort, Datum                              Unterschrift
 
 ### Muster 5 (§ 7 ErbStDV)
 
-(Fundstelle: BGBl. I 1998, 2667;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-..............................
-Amtsgericht/Notariat
-**Erbschaftsteuer**
-An das
-Finanzamt ....................
-- Erbschaftsteuerstelle -
-------------------------------
-Die anliegende ... beglaubigte ... Abschrift ... (Ablichtung ...
-wird/werden
-mit folgenden Bemerkungen übersandt:
-Erblasser Name, Vorname, Identifikationsnummer
-.........................
-Geburtstag
-.........................................
-letzte Anschrift
-.........................................
-Beruf
-.........................................
-Familienstand
-.........................................
-Güterstand (bei Verheirateten
-oder bei Lebenspartnern)
-.........................................
-Todestag und Sterbeort
-.........................................
-Standesamt und Sterberegister-Nr.
-......................................
-Testament/Erbvertrag vom
-.........................................
-Tag der Eröffnung
-.........................................
-Die Gebühr für die          Errichtung    I Verwahrung    I Erteilung
-eines Erbscheins
-ist berechnet nach einem              EUR I           EUR I
-EUR
-Wert von
-..............I...............I.............
-Grund der Übersendung
-Eröffnung einer   ( ) Verfügung von Todes
-wegen \*)
-Erteilung eines   ( ) Erbscheins \*) ( ) Europäischen  ( ) Testaments-
-( ) Zeugnisses
-Nachlass-         vollstrecker-     über die
-zeugnisses \*)     zeugnisses \*)     Fortsetzung
-von Güter-
-gemeinschaften
-Beurkundung einer ( ) Erbauseinandersetzung
-Beschluß über die ( ) Einleitung     ( ) Einleitung
-oder Aufhebung     oder Aufhebung
-einer Nachlaß-     einer Nachlaß-
-pflegschaft \*)     verwaltung \*)
-Die Namen und Anschriften der Beteiligten und das persönliche
-Verhältnis
-(Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser
-sowie Veränderungen in der Person der Erben, Vermächtnisnehmer,
-Testamentsvollstrecker usw. (durch Tod, Eintritt eines Ersatzerben,
-Ausschlagung, Amtsniederlegung des Testamentsvollstreckers und
-dergleichen)
-und Änderungen in den Verhältnissen dieser Personen (Namens-, Berufs-,
-Anschriftenänderungen und dergleichen)
-( ) ergeben sich aus der beiliegenden Abschrift der
-Eröffnungsverhandlung. \*)
-( ) sind auf einem gesonderten Blatt angegeben. \*)
-( ) Zur Höhe und Zusammensetzung des Nachlasses ist dem
-Gericht/Notariat folgendes bekanntgeworden: \*)
-....................................................................
-....................................................................
-( ) Ein Verzeichnis der Nachlaßgegenstände ist beigefügt. \*)
-\*) Zutreffendes ist anzukreuzen
-..............................          ............................
-Ort, Datum                              Unterschrift
+(Fundstelle: BGBl. 2025 I Nr. 372, S. 9 – 10)
 
 
 ### Muster 6 (§ 8 ErbStDV)
