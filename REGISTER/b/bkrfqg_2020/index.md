@@ -124,23 +124,7 @@ ausdrücklich bestimmt.
     Personen,
 
 
-8.  Kraftfahrzeugen im ländlichen Raum, wenn
-
-    a)  die Beförderung zur Versorgung des eigenen Unternehmens des Fahrers
-        erfolgt,
-
-
-    b)  das Führen von Kraftfahrzeugen nicht die Hauptbeschäftigung des
-        Fahrers darstellt,
-
-
-    c)  die Beförderung gelegentlich erfolgt und
-
-
-    d)  die Beförderung unter Beachtung der sonstigen
-        straßenverkehrsrechtlichen Vorschriften erfolgt oder
-
-
+8.  (weggefallen)
 
 
 
@@ -153,39 +137,7 @@ ausdrücklich bestimmt.
 
 
 
-(3) Im Sinne des Absatzes 2
-
-1.  bezeichnet eine nichtgewerbliche Beförderung eine Beförderung, die
-    keinen Zusammenhang mit einer beruflichen oder gewerblichen Tätigkeit
-    aufweist, das heißt, die Beförderung wird nicht durchgeführt, um damit
-    Einnahmen zu erzielen,
-
-
-2.  bestimmt sich der ländliche Raum anhand der Liste über die Zuordnung
-    der Stadt- und Landkreise zum städtischen oder ländlichen Raum, die
-    diesem Gesetz als Anlage beigefügt ist,
-
-
-3.  erfolgt eine Beförderung zur Versorgung des eigenen Unternehmens, wenn
-
-    a)  die beförderten Güter im Eigentum des Unternehmens stehen oder von
-        diesem verkauft, gekauft, vermietet, gemietet, hergestellt, erzeugt,
-        gewonnen, bearbeitet oder instand gesetzt worden sind und
-
-
-    b)  die Beförderung der Anlieferung dieser Güter zum Unternehmen, ihrem
-        Versand vom Unternehmen, ihrer Verbringung innerhalb oder – zum
-        Eigengebrauch – außerhalb des Unternehmens dient,
-
-
-
-
-
-4.  erfolgt eine Beförderung gelegentlich, wenn sie häufiger als einmal,
-    jedoch nicht regelmäßig oder dauerhaft erfolgt.
-
-
-
+(3) (weggefallen)
 
 
 ## Abschnitt 2 - Qualifikation, Weiterbildung
