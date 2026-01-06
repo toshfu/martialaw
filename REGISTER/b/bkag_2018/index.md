@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 17.7.2025 I Nr. 172
 
+Änderung durch
+:   Art. 14 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
@@ -1948,8 +1951,27 @@ Teilnahme am polizeilichen Informationsverbund berechtigt:
 3.  die Polizei beim Deutschen Bundestag,
 
 
-4.  mit der Wahrnehmung grenzpolizeilicher Aufgaben betraute Behörden der
-    Zollverwaltung,
+4.  die Behörden der Zollverwaltung, soweit
+
+    a)  sie betraut sind mit der Wahrnehmung grenzpolizeilicher Aufgaben,
+
+
+    b)  sie betraut sind mit der Verhütung, Aufdeckung und Verfolgung von
+        Steuerstraftaten,
+
+
+    c)  sie betraut sind mit der Bekämpfung der Schwarzarbeit und der
+        illegalen Beschäftigung oder
+
+
+    d)  dies bei der Erfüllung ihrer Aufgaben nach dem Zollverwaltungsgesetz
+        oder dem Zollfahndungsdienstgesetz zur Sicherung ihrer selbst, anderer
+        Zollbediensteter sowie von für die Durchführung der Aufgaben der
+        Bundesfinanzbehörden notwendigen Einrichtungen und Einsatzmittel
+        erforderlich ist,
+
+
+
 
 
 5.  die Zollfahndungsämter,
@@ -2153,13 +2175,26 @@ unverzüglich und, soweit technisch möglich, automatisiert mit:
 
 (3) Absatz 1 Satz 1 gilt entsprechend für die Polizeien des Bundes,
 soweit die Informationen Vorgänge betreffen, die sie in eigener
-Zuständigkeit bearbeiten. Satz 1 gilt im Bereich der Zollverwaltung
-nur für den Grenzzolldienst, soweit dieser aufgrund einer
-Rechtsverordnung nach § 68 des Bundespolizeigesetzes grenzpolizeiliche
-Aufgaben wahrnimmt. Im Übrigen richtet sich die
-Informationsübermittlung der Zollbehörden an das Bundeskriminalamt
-nach den Vorschriften der Abgabenordnung, des Zollverwaltungsgesetzes
-und des Zollfahndungsdienstgesetzes.
+Zuständigkeit bearbeiten. Satz 1 gilt im Bereich der Zollverwaltung,
+soweit
+
+1.  aufgrund einer Rechtsverordnung nach § 68 des Bundespolizeigesetzes
+    grenzpolizeiliche Aufgaben wahrgenommen werden,
+
+
+2.  die Finanzkontrolle Schwarzarbeit Ermittlungsbefugnisse nach § 14 des
+    Schwarzarbeitsbekämpfungsgesetzes wahrnimmt,
+
+
+3.  Ermittlungsbefugnisse zur Verfolgung von Steuerstraftaten nach § 369
+    der Abgabenordnung wahrgenommen werden.
+
+
+
+Im Übrigen richtet sich die Informationsübermittlung der Zollbehörden
+an das Bundeskriminalamt nach den Vorschriften der Abgabenordnung, des
+Zollverwaltungsgesetzes und des Zollfahndungsdienstgesetzes sowie des
+Schwarzarbeitsbekämpfungsgesetzes.
 
 (4) Für die im Rahmen seiner Aufgaben nach den §§ 3 bis 8 gewonnenen
 Informationen gelten für das Bundeskriminalamt die
@@ -2315,7 +2350,7 @@ und an das zentrale SIS anzuschließen
 
 
 Das Bundeskriminalamt stellt den nach § 33b Absatz 1 Satz 1 Nummer 1
-bis 18 berechtigten staatlichen Stellen das N.SIS für den Zugriff
+bis 17 berechtigten staatlichen Stellen das N.SIS für den Zugriff
 dieser Stellen auf das SIS auf Grundlage der in Satz 1 genannten
 Verordnungen zur Verfügung, damit diese Stellen Daten aus dem SIS
 abrufen sowie Ausschreibungen in das SIS eingeben und diese
@@ -2429,17 +2464,12 @@ Absatz 3 Satz 1 Nummer 1 bis 7 genannten Behörden:
     der Verordnung (EU) 2018/1861,
 
 
-17. die Hauptzollämter für die Zwecke des Artikels 34 Absatz 1 Buchstabe b
-    und c der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1
-    Buchstabe b und c der Verordnung (EU) 2018/1862 und
-
-
-18. die Staatsanwaltschaften für die Zwecke des Artikels 44 Absatz 3 der
+17. die Staatsanwaltschaften für die Zwecke des Artikels 44 Absatz 3 der
     Verordnung (EU) 2018/1862.
 
 
 
-Die in Satz 1 Nummer 1 bis 18 genannten berechtigten staatlichen
+Die in Satz 1 Nummer 1 bis 17 genannten berechtigten staatlichen
 Stellen haben einen direkten Zugriff auf das N.SIS.
 
 (2) Ausschreibungen des Bundesamtes für Verfassungsschutz, des
