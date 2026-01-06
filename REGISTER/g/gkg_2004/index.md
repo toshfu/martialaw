@@ -1811,7 +1811,7 @@ hierüber das für die Durchführung des Musterverfahrens zuständige
 Oberlandesgericht.
 
 (2) Gegen die Entscheidung über die Erinnerung findet die Beschwerde
-statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt.
+statt, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt.
 Die Beschwerde ist auch zulässig, wenn sie das Gericht, das die
 angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen
 Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss
@@ -1883,7 +1883,7 @@ muss, gilt dies auch im Beschwerdeverfahren.
 
 (1) Gegen den Beschluss, durch den der Wert für die Gerichtsgebühren
 festgesetzt worden ist (§ 63 Absatz 2), findet die Beschwerde statt,
-wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die
+wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die
 Beschwerde findet auch statt, wenn sie das Gericht, das die
 angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen
 Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss
@@ -1919,7 +1919,7 @@ sowie Absatz 6 ist entsprechend anzuwenden.
 ### § 69 Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
 
 Gegen den Beschluss nach § 38 findet die Beschwerde statt, wenn der
-Wert des Beschwerdegegenstands 200 Euro übersteigt oder das Gericht,
+Wert des Beschwerdegegenstands 300 Euro übersteigt oder das Gericht,
 das die angefochtene Entscheidung erlassen hat, die Beschwerde wegen
 der grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung
 stehenden Frage zugelassen hat. § 66 Absatz 3, 4, 5 Satz 1, 2 und 5,
@@ -2040,31 +2040,33 @@ Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig
 geworden sind.
 
 
-### § 72 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+### § 72 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
 
-Das Gerichtskostengesetz in der Fassung der Bekanntmachung vom 15.
-Dezember 1975 (BGBl. I S. 3047), zuletzt geändert durch Artikel 2
-Absatz 5 des Gesetzes vom 12. März 2004 (BGBl. I S. 390), und
-Verweisungen hierauf sind weiter anzuwenden
+Die §§ 66, 68 und 69 sind in ihrer bis einschließlich 31. Dezember
+2025 geltenden Fassung weiter anzuwenden
 
-1.  in Rechtsstreitigkeiten, die vor dem 1. Juli 2004 anhängig geworden
+1.  in Rechtsstreitigkeiten, die vor dem 1. Januar 2026 anhängig geworden
     sind; dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem
-    1\. Juli 2004 eingelegt worden ist;
+    31\. Dezember 2025 eingelegt worden ist;
 
 
 2.  in Strafsachen, in gerichtlichen Verfahren nach dem Gesetz über
     Ordnungswidrigkeiten und nach dem Strafvollzugsgesetz, wenn die über
-    die Kosten ergehende Entscheidung vor dem 1. Juli 2004 rechtskräftig
+    die Kosten ergehende Entscheidung vor dem 1. Januar 2026 rechtskräftig
     geworden ist;
 
 
-3.  in Insolvenzverfahren, Verteilungsverfahren nach der
-    Schifffahrtsrechtlichen Verteilungsordnung und Verfahren der
-    Zwangsversteigerung und Zwangsverwaltung für Kosten, die vor dem 1.
-    Juli 2004 fällig geworden sind.
+3.  in Insolvenzverfahren, in Verteilungsverfahren nach der
+    Schifffahrtsrechtlichen Verteilungsordnung, in Verfahren nach dem
+    Unternehmensstabilisierungs- und -restrukturierungsgesetz, in
+    Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+    sowie in Verfahren der Zwangsversteigerung und Zwangsverwaltung für
+    Kosten, die vor dem 1. Januar 2026 fällig geworden sind.
 
 
 
+Satz 1 gilt entsprechend bei Verweisungen auf die dort genannten
+Vorschriften.
 
 
 ### § 73 Übergangsvorschrift für die Erhebung von Haftkosten
