@@ -1,7 +1,7 @@
 ---
-Title: Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr
-  für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung
-  der Wasserstraßen und der Schifffahrtsverwaltung
+Title: Besondere Gebührenverordnung des Bundesministeriums für Verkehr für individuell
+  zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen
+  und der Schifffahrtsverwaltung
 jurabk: BMVI-WS-BGebV
 layout: default
 origslug: bmvi-ws-bgebv
@@ -9,7 +9,7 @@ slug: bmvi-ws-bgebv
 
 ---
 
-# Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung (BMVI-WS-BGebV)
+# Besondere Gebührenverordnung des Bundesministeriums für Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung (BMVI-WS-BGebV)
 
 Ausfertigungsdatum
 :   2021-10-28
@@ -19,6 +19,9 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 1 V v. 25.3.2025 I Nr. 100
+
+Änderung durch
+:   Art. 3 V v. 17.12.2025 I Nr. 381 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -31,10 +34,10 @@ Infrastruktur:
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
-Im Zuständigkeitsbereich des Bundesministeriums für Digitales und
-Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und
-Auslagen für individuell zurechenbare öffentliche Leistungen erhoben,
-die auf Grund der folgenden Vorschriften erbracht werden:
+Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die
+Wasserstraßen und die Schifffahrt werden Gebühren und Auslagen für
+individuell zurechenbare öffentliche Leistungen erhoben, die auf Grund
+der folgenden Vorschriften erbracht werden:
 
 1.  Bundeswasserstraßengesetz (WaStrG),
 
@@ -7883,7 +7886,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 8 Absatz 8 SpFV
 
-    *   27,20
+    *   28,20
 
 
 *    *   11
@@ -7893,7 +7896,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   § 3 Absatz 5 bis 7,
         § 4 Absatz 5 bis 7 SpFV
 
-    *   39,20
+    *   40,20
 
 
 *    *   12
@@ -7902,7 +7905,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 6 Absatz 4 SpFV
 
-    *   22,20
+    *   23,20
 
 
 *    *   13
@@ -7911,7 +7914,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 11 SpFV
 
-    *   39,20
+    *   40,20
 
 
 *    *   14
@@ -7920,7 +7923,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 8 Absatz 8 SpFV
 
-    *   22,60
+    *   23,60
 
 
 *    *   **2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
