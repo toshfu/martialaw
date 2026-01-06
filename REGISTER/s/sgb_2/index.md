@@ -23,10 +23,10 @@ Zuletzt geändert durch
 :   Art. 2 G v. 24.2.2025 I Nr. 57
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 363 noch nicht berücksichtigt
+:   Art. 8 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Kapitel 1 - Fördern und Fordern
@@ -1105,9 +1105,9 @@ monatlichen Teilbetrag zu berücksichtigen.
 
 
 5.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
-    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
-    Einkommensteuergesetzes steuerfrei sind, soweit diese Einnahmen einen
-    Betrag in Höhe von 3 000 Euro im Kalenderjahr nicht überschreiten,
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, bis zur Höhe des in § 3
+    Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 
 6.  Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes
@@ -1680,8 +1680,8 @@ des Dritten Kapitels des Dritten Buches erbringen:
 
 
 
-§ 1 Absatz 2 Nummer 4 sowie die §§ 36, 76 und 81 Absatz 2 und 3 des
-Dritten Buches sind entsprechend anzuwenden.
+§ 1 Absatz 2 Nummer 4 sowie die §§ 36 und 76 des Dritten Buches sind
+entsprechend anzuwenden.
 
 (2) Soweit dieses Buch nichts Abweichendes regelt, gelten für die
 Leistungen nach Absatz 1 die Regelungen des Dritten Buches mit
@@ -1691,13 +1691,7 @@ Maßgabe, dass an die Stelle des Arbeitslosengeldes das Bürgergeld nach
 § 19 Absatz 1 Satz 1 tritt. § 44 Absatz 3 Satz 3 des Dritten Buches
 gilt mit der Maßgabe, dass die Förderung aus dem Vermittlungsbudget
 auch die anderen Leistungen nach dem Zweiten Buch nicht aufstocken,
-ersetzen oder umgehen darf. Für die Teilnahme erwerbsfähiger
-Leistungsberechtigter an einer Maßnahme zur beruflichen Weiterbildung
-im Rahmen eines bestehenden Arbeitsverhältnisses werden Leistungen
-nach Absatz 1 Satz 2 Nummer 4 in Verbindung mit § 82 des Dritten
-Buches nicht gewährt, wenn die betreffende Maßnahme auf ein nach § 2
-Absatz 1 des Aufstiegsfortbildungsförderungsgesetzes förderfähiges
-Fortbildungsziel vorbereitet.
+ersetzen oder umgehen darf.
 
 (3) Abweichend von § 44 Absatz 1 Satz 1 des Dritten Buches können
 Leistungen auch für die Anbahnung und Aufnahme einer schulischen
