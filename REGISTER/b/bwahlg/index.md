@@ -76,8 +76,8 @@ eingeteilt.
 
 
 3.  Die Bevölkerungszahl eines Wahlkreises soll von der durchschnittlichen
-    Bevölkerungszahl der Wahlkreise nicht um mehr als 15 vom Hundert nach
-    oben oder unten abweichen; beträgt die Abweichung mehr als 25 vom
+    Bevölkerungszahl der Wahlkreise nicht um mehr als 10 vom Hundert nach
+    oben oder unten abweichen; beträgt die Abweichung mehr als 15 vom
     Hundert, ist eine Neuabgrenzung vorzunehmen.
 
 
