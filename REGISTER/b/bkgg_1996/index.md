@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 13 G v. 28.10.2025 I Nr. 259
 
 Änderung durch
-:   Art. 19 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 19 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Leistungen
@@ -386,9 +386,12 @@ ist, nachzuholen ist.
 
 ### § 6 Höhe des Kindergeldes
 
-(1) Das Kindergeld beträgt monatlich für jedes Kind 255 Euro.
+(1) Das Kindergeld beträgt monatlich für jedes Kind 259 Euro.
 
-(2) (weggefallen)
+(2) Werden die Freibeträge für Kinder nach § 31 Satz 1 in Verbindung
+mit § 32 Absatz 6 Satz 1 des Einkommensteuergesetzes angehoben, wird
+das Kindergeld entsprechend erhöht. Das Kindergeld ist dabei auf volle
+Euro kaufmännisch zu runden.
 
 (3) Darüber hinaus wird für jedes Kind, für das für den Monat Juli
 2022 ein Anspruch auf Kindergeld besteht, für den Monat Juli 2022 ein
@@ -742,21 +745,27 @@ angemessene Frist zur Erfüllung der Pflicht setzen.
 (2) Auszuzahlende Beträge sind auf Euro abzurunden, und zwar unter 50
 Cent nach unten, sonst nach oben.
 
-(3) § 45 Absatz 3 des Zehnten Buches Sozialgesetzbuch findet keine
+(3) Abweichend von § 47 Absatz 1 des Ersten Buches Sozialgesetzbuch
+werden das sozialrechtliche Kindergeld und der Kinderzuschlag
+ausschließlich auf das angegebene Konto bei einem Geldinstitut, für
+das die Verordnung (EU) Nr. 260/2012 gilt, überwiesen. Die Überweisung
+erfolgt kostenfrei.
+
+(4) § 45 Absatz 3 des Zehnten Buches Sozialgesetzbuch findet keine
 Anwendung.
 
-(4) Ein rechtswidriger nicht begünstigender Verwaltungsakt ist
+(5) Ein rechtswidriger nicht begünstigender Verwaltungsakt ist
 abweichend von § 44 Absatz 1 des Zehnten Buches Sozialgesetzbuch für
 die Zukunft zurückzunehmen; er kann ganz oder teilweise auch für die
 Vergangenheit zurückgenommen werden.
 
-(5) Wird ein Verwaltungsakt über die Bewilligung von Kinderzuschlag
+(6) Wird ein Verwaltungsakt über die Bewilligung von Kinderzuschlag
 aufgehoben, sind bereits erbrachte Leistungen abweichend von § 50
 Absatz 1 des Zehnten Buches Sozialgesetzbuch nicht zu erstatten,
 soweit der Bezug von Kinderzuschlag den Anspruch auf Leistungen nach
 dem Zweiten Buch Sozialgesetzbuch ausschließt oder mindert.
 
-(6) Entsprechend anwendbar sind die Vorschriften des Dritten Buches
+(7) Entsprechend anwendbar sind die Vorschriften des Dritten Buches
 Sozialgesetzbuch über
 
 1.  die Aufhebung von Verwaltungsakten (§ 330 Absatz 2, 3 Satz 1) sowie
@@ -807,12 +816,17 @@ Kindergeld und Kinderzuschlag einheitlich einer anderen Familienkasse
 die für die Durchführung zuständigen Behörden.
 
 
-### § 14 Bescheid
+### § 14 Bescheid, Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf
 
-Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
+(1) Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
 Bildung und Teilhabe abgelehnt, ist ein Bescheid zu erteilen. Das
-Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder Leistungen für
-Bildung und Teilhabe entzogen werden.
+Gleiche gilt, wenn das Kindergeld, der Kinderzuschlag oder die
+Leistungen für Bildung und Teilhabe entzogen werden.
+
+(2) Abweichend von § 37 Absatz 2a des Zehnten Buches Sozialgesetzbuch
+gilt für die Bekanntgabe von elektronischen Verwaltungsakten zum
+Kindergeld und zum Kinderzuschlag § 9 Absatz 1 des
+Onlinezugangsgesetzes.
 
 
 ### § 15 Rechtsweg
