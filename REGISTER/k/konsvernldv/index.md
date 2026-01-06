@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2183
 
+Änderung durch
+:   Art. 14 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -178,9 +181,9 @@ Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
 
-## § 9 Inkrafttreten
+## § 9 Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt am 30. Dezember 2025 außer Kraft.
 
 
 ## Schlussformel
