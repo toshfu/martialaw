@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1913, 583
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.10.2025 I Nr. 256
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 364
 
 
 ## § 1
