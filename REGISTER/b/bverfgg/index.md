@@ -719,7 +719,8 @@ handschriftlich unterzeichnete Schriftstück gemäß § 23e Absatz 2 Satz
 
 (1) Schriftlich einzureichende Anträge und Erklärungen sowie sonstige
 Schriftsätze und deren Anlagen, die durch einen Rechtsanwalt, durch
-eine Behörde oder durch eine juristische Person des öffentlichen
+einen nach § 22 Absatz 1 Satz 1 vertretungsberechtigten Rechtslehrer,
+durch eine Behörde oder durch eine juristische Person des öffentlichen
 Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
 Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
 elektronische Dokumente zu übermitteln. Ist dies aus technischen
