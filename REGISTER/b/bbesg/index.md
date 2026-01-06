@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 18 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -1909,15 +1912,15 @@ der Spezialkräfte der Bundeswehr verwendet oder für eine solche
 Verwendung ausgebildet wird, erhält Prämien nach Maßgabe der Absätze 2
 bis 4.
 
-(2) Eine Prämie in Höhe von einmalig 5 000 Euro erhält, wer ab dem 1.
-April 2008 ein Auswahlverfahren bei den Spezialkräften der Bundeswehr
-für eine Verwendung im Sinne des Absatzes 1 bestanden hat und
-ausgebildet wird. Der Anspruch entsteht mit Beginn dieser Ausbildung.
-Er erlischt rückwirkend, wenn die Ausbildung aus Gründen, die der
-Soldat zu vertreten hat, endet, bevor der Anspruch auf eine Prämie
-nach Absatz 3 entstanden ist.
+(2) Eine Prämie in Höhe von einmalig 6 000 Euro erhält, wer ein
+Auswahlverfahren bei den Spezialkräften der Bundeswehr für eine
+Verwendung im Sinne des Absatzes 1 bestanden hat und ausgebildet wird.
+Der Anspruch entsteht mit Beginn dieser Ausbildung. Er erlischt
+rückwirkend, wenn die Ausbildung aus Gründen, die der Soldat zu
+vertreten hat, endet, bevor der Anspruch auf eine Prämie nach Absatz 3
+entstanden ist.
 
-(3) Eine Prämie in Höhe von einmalig 16 000 Euro erhält, wer die
+(3) Eine Prämie in Höhe von einmalig 8 000 Euro erhält, wer die
 Ausbildung für Einsatzaufgaben der Spezialkräfte der Bundeswehr
 erfolgreich abgeschlossen hat und entsprechend verwendet wird. Der
 Anspruch entsteht mit Beginn der Verwendung. Er erlischt rückwirkend,
@@ -1928,14 +1931,29 @@ aus Gründen, die der Soldat zu vertreten hat, für einen Zeitraum von
 mehr als drei Monaten unterbrochen und dadurch die Verwendungsdauer
 von insgesamt sechs Jahren nicht erreicht wird.
 
-(4) Eine Prämie in Höhe von 9 000 Euro pro Jahr erhält, wer über sechs
-Jahre hinaus für Einsatzaufgaben der Spezialkräfte der Bundeswehr zur
-Verfügung steht. Der Zeitraum von sechs Jahren rechnet ab dem Beginn
-der Ausbildung für eine Verwendung nach Absatz 1. Der Anspruch
-entsteht zu Beginn des siebten oder eines jeden weiteren Jahres der
-Verwendung. Besteht die Verwendung aus Gründen, die der Soldat zu
-vertreten hat, nicht während des gesamten Jahres, steht nur der Teil
-der Prämie zu, der der Verwendungsdauer entspricht.
+(4) Eine jährliche Prämie erhält, wer über sechs Jahre hinaus für
+Einsatzaufgaben der Spezialkräfte der Bundeswehr zur Verfügung steht.
+Der Zeitraum von sechs Jahren rechnet ab dem Beginn der Ausbildung für
+eine Verwendung nach Absatz 1. Der Anspruch entsteht zu Beginn des
+siebten oder eines jeden weiteren Jahres der Verwendung. Besteht die
+Verwendung aus Gründen, die der Soldat zu vertreten hat, nicht während
+des gesamten Jahres, steht nur der Teil der Prämie zu, der der
+Verwendungsdauer entspricht. Die jährliche Prämie beträgt nach einer
+Dienstzeit von
+
+1.  über sechs und weniger als neun Jahren 10 000 Euro,
+
+
+2.  neun und weniger als zwölf Jahren 11 000 Euro,
+
+
+3.  zwölf und weniger als fünfzehn Jahren 12 000 Euro,
+
+
+4.  fünfzehn Jahren und länger 13 000 Euro.
+
+
+
 
 (5) (weggefallen)
 
