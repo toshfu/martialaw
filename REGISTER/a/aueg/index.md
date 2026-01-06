@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 55 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 10 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
 
 ## § 1 Arbeitnehmerüberlassung, Erlaubnispflicht
 
