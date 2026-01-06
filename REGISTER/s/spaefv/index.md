@@ -461,9 +461,9 @@ handelt, wer vorsätzlich oder leichtfertig entgegen § 4 Absatz 6 Satz
 ausstellt oder nicht richtig bestätigt.
 
 
-## § 10 Inkrafttreten
+## § 10 Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2025 außer Kraft.
 
 (zu § 3 Nummer 1)
 
