@@ -122,14 +122,14 @@ Schweizerischen Eidgenossenschaft zugewiesen ist.
 Einzelunternehmers in einem begünstigten Forschungs- und
 Entwicklungsvorhaben. Je nachgewiesener Arbeitsstunde, die der
 Einzelunternehmer mit Forschungs- und Entwicklungstätigkeiten
-beschäftigt ist, sind 70 Euro je Arbeitsstunde bei insgesamt maximal
+beschäftigt ist, sind 100 Euro je Arbeitsstunde bei insgesamt maximal
 40 Arbeitsstunden pro Woche als förderfähige Aufwendungen anzusetzen.
 Haben Gesellschafter einer anspruchsberechtigten Mitunternehmerschaft
 vertraglich vereinbart, dass ein oder mehrere Gesellschafter für
 Forschungs- und Entwicklungstätigkeiten in begünstigten Forschungs-
 und Entwicklungsvorhaben eine Tätigkeitsvergütung erhalten, dann ist
-diese Tätigkeitsvergütung förderfähiger Aufwand, soweit sie 70 Euro je
-Arbeitsstunde bei maximal 40 Arbeitsstunden pro Woche nicht
+diese Tätigkeitsvergütung förderfähiger Aufwand, soweit sie 100 Euro
+je Arbeitsstunde bei maximal 40 Arbeitsstunden pro Woche nicht
 übersteigt. Voraussetzung ist, dass die Vereinbarung zivilrechtlich
 wirksam, ernsthaft gewollt und tatsächlich durchgeführt und so
 eindeutig und klar abgefasst ist, dass sie von anderen
@@ -169,6 +169,15 @@ mindert sich der nach Satz 3 ermittelte förderfähige Aufwand um
 jeweils ein Zwölftel für jeden vollen Monat, in dem die
 Voraussetzungen nach Satz 1 nicht vorliegen.
 
+(3b) Zu den förderfähigen Aufwendungen gehört auch der pauschalisierte
+Betrag für zusätzliche Gemeinkosten und sonstige Betriebskosten nach
+Satz 2, die im Rahmen eines begünstigten Forschungs- und
+Entwicklungsvorhabens, welches nach dem 31. Dezember 2025 begonnen
+hat, entstanden sind. Die als förderfähige Aufwendungen zu
+berücksichtigenden Gemein- und Betriebskosten betragen pauschal 20
+Prozent der im Wirtschaftsjahr nach den Absätzen 1, 2, 3, 3a und 4
+entstandenen förderfähigen Aufwendungen.
+
 (4) Für vor dem 28. März 2024 in Auftrag gegebene Forschungs- und
 Entwicklungsvorhaben im Sinne des § 2 Absatz 5 betragen die
 förderfähigen Aufwendungen 60 Prozent des beim Anspruchsberechtigten
@@ -190,11 +199,15 @@ Absätze 1 bis 4. Die Bemessungsgrundlage beträgt höchstens für
 
 
 2.  nach dem 30. Juni 2020 und vor dem 28. März 2024 entstandene
-    förderfähige Aufwendungen 4 000 000 Euro und
+    förderfähige Aufwendungen 4 000 000 Euro,
 
 
-3.  nach dem 27. März 2024 entstandene förderfähige Aufwendungen
-    10 000 000 Euro.
+3.  nach dem 27. März 2024 und vor dem 1. Januar 2026 entstandene
+    förderfähige Aufwendungen 10 000 000 Euro und
+
+
+4.  nach dem 31. Dezember 2025 entstandene förderfähige Aufwendungen
+    12 000 000 Euro.
 
 
 
