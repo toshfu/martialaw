@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 18.12.2025 I Nr. 347
 
 Änderung durch
-:   Art. 2 V v. 23.12.2025 I Nr. 367 noch nicht berücksichtigt
+:   Art. 2 V v. 23.12.2025 I Nr. 367 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 [^F801042_01_BJNR389200017]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
@@ -76,16 +76,15 @@ S. 1970, 3621), das zuletzt durch Artikel 2 Absatz 6 des Gesetzes vom
 das elektrischen Strom an Letztverbraucher liefert.
 
 (2) Ein Straßenfahrzeug mit Elektroantrieb ist ein reines
-Batterieelektrofahrzeug oder ein von außen aufladbares
+Batterieelektrofahrzeug im Sinne des § 2 Nummer 2 des
+Elektromobilitätsgesetzes vom 5. Juni 2015 (BGBl. I S. 898), das
+zuletzt durch Artikel 2 Absatz 34 des Gesetzes vom 20. Dezember 2022
+(BGBl. I S. 2752) geändert worden ist, oder ein von außen aufladbares
 Hybridelektrofahrzeug der Klassen M 1 und N 1 im Sinne des § 2 Nummer
-1 der Ladesäulenverordnung vom 9. März 2016 (BGBl. I S. 457), die
-zuletzt durch Artikel 4 des Gesetzes vom 22. Mai 2023 (BGBl. 2023 I
-Nr. 133) geändert worden ist, in der jeweils geltenden Fassung.
+3 des Elektromobilitätsgesetzes.
 
 (3) Ein reines Batterieelektrofahrzeug ist ein Kraftfahrzeug im Sinne
-des § 2 Nummer 2 des Elektromobilitätsgesetzes vom 5. Juni 2015
-(BGBl. I S. 898), das zuletzt durch Artikel 2 Absatz 34 des Gesetzes
-vom 20. Dezember 2022 (BGBl. I S. 2752) geändert worden ist.
+des § 2 Nummer 2 des Elektromobilitätsgesetzes.
 
 (4) Nahrungs- und Futtermittelpflanzen sind Kulturpflanzen mit hohem
 Stärkegehalt, Zuckerpflanzen oder Ölpflanzen, die als Hauptkulturen
@@ -288,8 +287,8 @@ der Verpflichtung zur Minderung der Treibhausgasemissionen angerechnet
 werden, sofern die Entnahme im Steuergebiet des Stromsteuergesetzes
 erfolgte. Dritter im Sinne des § 37a Absatz 6 des Bundes-
 Immissionsschutzgesetzes ist der Betreiber eines Ladepunktes im Sinne
-des § 2 Nummer 8 der Ladesäulenverordnung oder eine von ihm bestimmte
-Person.
+des Artikel 2 Nummer 39 der Verordnung (EU) 2023/1804 oder eine von
+ihm bestimmte Person.
 
 (2) Die Bestimmung der Person als Dritter, die nicht der Betreiber des
 Ladepunktes ist, erfolgt durch eine Vereinbarung in Textform. In jedem
@@ -370,7 +369,8 @@ der Wert nach Absatz 4 verwendet.
 
 (1) Der Dritte führt für jedes Verpflichtungsjahr Aufzeichnungen über
 die einzelnen öffentlich zugänglichen Ladepunkte im Sinne von § 2
-Nummer 5 der Ladesäulenverordnung unter Angabe
+Nummer 2 der Ladesäulenverordnung vom 23. Dezember 2025 (BGBl. 2025 I
+Nr. 367) in der jeweils geltenden Fassung unter Angabe
 
 1.  des genauen Standortes, an dem sich der Ladepunkt befindet,
 
@@ -387,12 +387,12 @@ Nummer 5 der Ladesäulenverordnung unter Angabe
 Die zuständige Stelle nach § 20 Absatz 1 kann im Bundesanzeiger
 bekannt geben, welche weitere Angaben den Aufzeichnungen beizufügen
 sind, um nachzuweisen, dass es sich um einen öffentlich zugänglichen
-Ladepunkt im Sinne des § 2 Nummer 5 der Ladesäulenverordnung handelt.
+Ladepunkt im Sinne des § 2 Nummer 2 der Ladesäulenverordnung handelt.
 
 (2) Der Dritte fügt bei Aufbau und Außerbetriebnahme von Ladepunkten
 den Aufzeichnungen die Anzeige des Ladepunktbetreibers gegenüber der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
-Eisenbahnen gemäß § 5 Absatz 1 der Ladesäulenverordnung bei. Für
+Eisenbahnen gemäß § 4 Absatz 1 der Ladesäulenverordnung bei. Für
 bereits bestehende Ladepunkte ist die Anzeige, die zum Zeitpunkt des
 Aufbaus gegenüber der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen abgegeben wurde, beizufügen.
