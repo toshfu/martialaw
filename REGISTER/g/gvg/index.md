@@ -640,7 +640,7 @@ Rechtsstreitigkeiten, soweit sie nicht ohne Rücksicht auf den Wert des
 Streitgegenstandes den Landgerichten zugewiesen sind:
 
 1.  Streitigkeiten über Ansprüche, deren Gegenstand an Geld oder
-    Geldeswert die Summe von fünftausend Euro nicht übersteigt;
+    Geldeswert die Summe von zehntausend Euro nicht übersteigt;
 
 
 2.  ohne Rücksicht auf den Wert des Streitgegenstandes:
@@ -665,7 +665,12 @@ Streitgegenstandes den Landgerichten zugewiesen sind:
     d)  Streitigkeiten wegen Wildschadens;
 
 
-    e)  (weggefallen)
+    e)  Streitigkeiten über Ansprüche aus dem Nachbarrecht nach den §§ 910,
+        911, 923 des Bürgerlichen Gesetzbuchs und nach § 906 des Bürgerlichen
+        Gesetzbuchs sowie nach den landesgesetzlichen Vorschriften im Sinne
+        des Artikels 124 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche,
+        sofern es sich nicht um Einwirkungen von einem gewerblichen Betrieb
+        handelt;
 
 
     f)  (weggefallen)
@@ -1584,7 +1589,21 @@ Streitgegenstandes ausschließlich zuständig
 
 
 6.  für Ansprüche aus dem Unternehmensstabilisierungs- und
-    -restrukturierungsgesetz.
+    -restrukturierungsgesetz;
+
+
+7.  in Streitigkeiten über Ansprüche aus Veröffentlichungen durch
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet;
+
+
+8.  in Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt;
+
+
+9.  in Streitigkeiten aus Heilbehandlungen.
 
 
 
@@ -1644,16 +1663,22 @@ folgende Sachgebiete gebildet:
 
 
 5.  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
-    Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in
-    Presse, Rundfunk, Film und Fernsehen,
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet,
 
 
-6.  erbrechtliche Streitigkeiten und
+6.  erbrechtliche Streitigkeiten,
 
 
 7.  insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen
     nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus
-    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz.
+    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+
+8.  Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt.
 
 
 
@@ -2720,16 +2745,22 @@ für folgende Sachgebiete gebildet:
 
 
 5.  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
-    Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in
-    Presse, Rundfunk, Film und Fernsehen,
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet,
 
 
-6.  erbrechtliche Streitigkeiten und
+6.  erbrechtliche Streitigkeiten,
 
 
-7.  insolvenzrechtliche Streitigkeiten, Anfechtungssachen nach dem
-    Anfechtungsgesetz sowie Streitigkeiten aus dem
-    Unternehmensstabilisierungs- und -restrukturierungsgesetz.
+7.  insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen
+    nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus
+    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+
+8.  Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt.
 
 
 
