@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 28.6.2023 I Nr. 172
 
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
