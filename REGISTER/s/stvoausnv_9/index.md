@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 481 V v. 31.8.2015 I 1474
 
+Änderung durch
+:   Art. 2 V v. 19.12.2025 I Nr. 382 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Die geltung der v ist durch
 :   § 8 idF d. V v. 11.11.2010 I 1624 über den 31.12.2010 hinaus verlängert worden
 
@@ -67,7 +70,7 @@ zu 3,5 t als Zugfahrzeug eine Tempo-100 km/h-Zulassung nach § 18 Abs.
         Faktors nach Nummer 1 Buchstabe b auf X = 1,0 und nach Nummer 1
         Buchstabe c auf X = 1,2, wenn
 
-        aa)[^BJNR317100998BJNE000208305_01]
+        aa)[^BJNR317100998BJNE000208305_01_BJNR317100998BJNE000209123]
  der Anhänger mit einer Zugkugelkupplung mit Stabilisierungseinrichtung
             für Zentralachsanhänger (gemäß ISO 11555-1 in der Fassung vom 1. Juli
             2003
@@ -90,18 +93,18 @@ zu 3,5 t als Zugfahrzeug eine Tempo-100 km/h-Zulassung nach § 18 Abs.
 
 
 
-2.  im Falle einer nachträglichen Berichtigung der Fahrzeugpapiere des
+2.  im Falle einer nachträglichen Änderung der Fahrzeugpapiere des
     Anhängers ein amtlich anerkannter Sachverständiger oder Prüfer oder
     ein Prüfingenieur einer amtlich anerkannten Überwachungsorganisation
-    mit einem Formblatt, das vom Bundesministerium für Verkehr und
-    digitale Infrastruktur im Verkehrsblatt bekannt gegeben wird, einen
-    Vorschlag für die Berichtigung nach § 13 Abs. 1 der Fahrzeug-
-    Zulassungsverordnung in den Fällen der Nummer 1, ausgenommen Nummer 1
-    Buchstabe d Doppelbuchstabe bb, erstellt, oder, wenn eine Änderung
-    nach Nummer 1 Buchstabe d Doppelbuchstabe bb vorliegt, er den vom
-    Fahrzeugführer nach § 19 Abs. 4 Satz 1 Nr. 2 der Straßenverkehrs-
-    Zulassungs-Ordnung mitzuführenden Nachweis erstellt und bestätigt,
-    dass die Voraussetzungen dieser Verordnung vorliegen und dem
+    mit einem Formblatt, das vom Bundesministerium für Verkehr im
+    Verkehrsblatt bekannt gegeben wird, einen Vorschlag für die
+    Berichtigung nach § 15 Absatz 1 der Fahrzeug-Zulassungsverordnung in
+    den Fällen der Nummer 1, ausgenommen Nummer 1 Buchstabe d
+    Doppelbuchstabe bb, erstellt, oder, wenn eine Änderung nach Nummer 1
+    Buchstabe d Doppelbuchstabe bb vorliegt, er den vom Fahrzeugführer
+    nach § 19 Absatz 4 Satz 1 Nummer 2 der Straßenverkehrs-Zulassungs-
+    Ordnung mitzuführenden Nachweis erstellt und bestätigt, dass die
+    Voraussetzungen dieser Verordnung vorliegen und dem
     Verfügungsberechtigten ein Informationsblatt für die Einhaltung der
     Bedingungen nach § 4 dieser Verordnung ausgehändigt worden ist;
 
@@ -128,7 +131,7 @@ Buchstabe d Doppelbuchstabe bb genannten Bedingungen vorliegt und dies
 in den Fahrzeugpapieren eingetragen ist.
 ----------
 
-[^BJNR317100998BJNE000208305_01]:     Als Fundstelle und Bezugsquelle der ISO-Norm 11555-1 gilt § 73 der
+[^BJNR317100998BJNE000208305_01_BJNR317100998BJNE000209123]:     Als Fundstelle und Bezugsquelle der ISO-Norm 11555-1 gilt § 73 der
     Straßenverkehrs-Zulassungs-Ordnung mit folgendem Wortlaut:
 
 
