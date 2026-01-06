@@ -29,7 +29,10 @@ Mittelbare änderung durch
 :   Art. 14 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 364 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 364 ist berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 371 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -1652,8 +1655,10 @@ dem Asylgesetz besitzen und auf Grund des § 61 des Asylgesetzes keine
 Erwerbstätigkeit ausüben dürfen, können Leistungen nach diesem
 Unterabschnitt erbracht werden, wenn bei ihnen ein rechtmäßiger und
 dauerhafter Aufenthalt zu erwarten ist. Stammen sie aus einem sicheren
-Herkunftsstaat nach § 29a des Asylgesetzes, so wird vermutet, dass ein
-rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
+Herkunftsstaat nach § 29a des Asylgesetzes oder einer auf Grundlage
+von § 29b des Asylgesetzes erlassenen Rechtsverordnung, so wird
+vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu
+erwarten ist.
 
 
 #### Dritter Unterabschnitt - Gemeinsame Vorschriften
@@ -8671,8 +8676,10 @@ die die oder der Arbeitsuchende versteht, zu informieren über:
 10. die Möglichkeit, die Beratungsdienste der Sozialpartner und
     staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens
     beispielhaft die Beratungsstellen nach § 31 des Arbeitnehmer-
-    Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der
-    erwähnten Beratungsdienste anzugeben.
+    Entsendegesetzes oder im Fall von Staatsangehörigen aus Drittstaaten
+    mindestens beispielhaft die Beratungsstellen nach § 45b Absatz 1 Satz
+    1 und 2 des Aufenthaltsgesetzes zu nennen und die jeweils aktuellen
+    Kontaktdaten der erwähnten Beratungsdienste anzugeben.
 
 
 
@@ -10830,14 +10837,6 @@ welches den im jeweiligen Einzelfall beteiligten Leistungsträgern zur
 Verfügung gestellt werden kann, soweit dies für die Zusammenarbeit
 erforderlich ist.
 
-(2b) Um die Transparenz auf dem Arbeitsmarkt zu erhöhen und die
-Weiterbildungsbeteiligung von Arbeitnehmerinnen und Arbeitnehmern zu
-steigern, prüft die Bundesagentur den Aufbau und Betrieb eines
-Weiterbildungsportals. Abhängig von den Ergebnissen der Prüfung kann
-sie ein Weiterbildungsportal probeweise entwickeln und betreiben. Der
-Bund kann sich an den Kosten der Entwicklung des Weiterbildungsportals
-einschließlich der Prüfung nach Satz 1 beteiligen.
-
 (3) Die Bundesregierung kann der Bundesagentur durch Rechtsverordnung
 mit Zustimmung des Bundesrates weitere Aufgaben übertragen, die im
 Zusammenhang mit deren Aufgaben nach diesem Buch stehen. Die
@@ -12236,7 +12235,7 @@ Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei
 alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld
 wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende
 Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für die
-Kalenderjahre 2024 und 2025 besteht der Anspruch auf
+Kalenderjahre 2024 bis 2026 besteht der Anspruch auf
 Leistungsfortzahlung für jedes Kind längstens für jeweils 15 Tage, bei
 alleinerziehenden Arbeitslosen längstens für jeweils 30 Tage;
 Arbeitslosengeld wird insgesamt für nicht mehr als jeweils 35 Tage,
