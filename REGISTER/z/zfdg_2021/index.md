@@ -19,6 +19,9 @@ Stand: Ersetzt G 602-2 v. 16.8.2002 I 3202 (ZFdG)
 Zuletzt geändert durch
 :   Art. 26 G v. 6.5.2024 I Nr. 149
 
+Änderung durch
+:   Art. 15 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
 natürlicher Personen bei der Verarbeitung personenbezogener Daten
