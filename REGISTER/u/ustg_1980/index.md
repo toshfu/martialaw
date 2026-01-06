@@ -27,6 +27,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 4 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 u. 1.1.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
 
@@ -1305,48 +1308,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 4.  die Lieferungen von Gold an Zentralbanken;
 
 
-4a. die folgenden Umsätze:
-
-    a)  die Lieferungen der in der Anlage 1 bezeichneten Gegenstände an einen
-        Unternehmer für sein Unternehmen, wenn der Gegenstand der Lieferung im
-        Zusammenhang mit der Lieferung in ein Umsatzsteuerlager eingelagert
-        wird oder sich in einem Umsatzsteuerlager befindet. Mit der
-        Auslagerung eines Gegenstands aus einem Umsatzsteuerlager entfällt die
-        Steuerbefreiung für die der Auslagerung vorangegangene Lieferung, den
-        der Auslagerung vorangegangenen innergemeinschaftlichen Erwerb oder
-        die der Auslagerung vorangegangene Einfuhr; dies gilt nicht, wenn der
-        Gegenstand im Zusammenhang mit der Auslagerung in ein anderes
-        Umsatzsteuerlager im Inland eingelagert wird. Eine Auslagerung ist die
-        endgültige Herausnahme eines Gegenstands aus einem Umsatzsteuerlager.
-        Der endgültigen Herausnahme steht gleich der sonstige Wegfall der
-        Voraussetzungen für die Steuerbefreiung sowie die Erbringung einer
-        nicht nach Buchstabe b begünstigten Leistung an den eingelagerten
-        Gegenständen,
-
-
-    b)  die Leistungen, die mit der Lagerung, der Erhaltung, der Verbesserung
-        der Aufmachung und Handelsgüte oder der Vorbereitung des Vertriebs
-        oder Weiterverkaufs der eingelagerten Gegenstände unmittelbar
-        zusammenhängen. Dies gilt nicht, wenn durch die Leistungen die
-        Gegenstände so aufbereitet werden, dass sie zur Lieferung auf der
-        Einzelhandelsstufe geeignet sind.
-
-
-
-
-    Die Steuerbefreiung gilt nicht für Leistungen an Unternehmer, die
-    diese zur Ausführung von Umsätzen verwenden, für die die Steuer nach
-    den Durchschnittssätzen des § 24 festgesetzt ist. Die Voraussetzungen
-    der Steuerbefreiung müssen vom Unternehmer eindeutig und leicht
-    nachprüfbar nachgewiesen sein. Umsatzsteuerlager kann jedes Grundstück
-    oder Grundstücksteil im Inland sein, das zur Lagerung der in Anlage 1
-    genannten Gegenstände dienen soll und von einem Lagerhalter betrieben
-    wird. Es kann mehrere Lagerorte umfassen. Das Umsatzsteuerlager bedarf
-    der Bewilligung des für den Lagerhalter zuständigen Finanzamts. Der
-    Antrag ist schriftlich zu stellen. Die Bewilligung ist zu erteilen,
-    wenn ein wirtschaftliches Bedürfnis für den Betrieb des
-    Umsatzsteuerlagers besteht und der Lagerhalter die Gewähr für dessen
-    ordnungsgemäße Verwaltung bietet;
+4a. (weggefallen)
 
 
 4b. die einer Einfuhr vorangehende Lieferung von Gegenständen, wenn der
@@ -1978,8 +1940,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
         im Sinne des § 1 Abs. 2 und 3 des Energiesteuergesetzes und von
         Alkoholerzeugnissen im Sinne des Alkoholsteuergesetzes, wenn der
         Blinde für diese Erzeugnisse Energiesteuer oder Alkoholsteuer zu
-        entrichten hat, und für Lieferungen im Sinne der Nummer 4a Satz 1
-        Buchstabe a Satz 2,
+        entrichten hat,
 
 
     b)  die folgenden Umsätze der nicht unter Buchstabe a fallenden Inhaber
@@ -2460,19 +2421,10 @@ innerhalb eines Monats anzuzeigen.
 
 
 
-4.  der in der Anlage 1 bezeichneten Gegenstände, die im Anschluss an die
-    Einfuhr zur Ausführung von steuerfreien Umsätzen nach § 4 Nr. 4a Satz
-    1 Buchstabe a Satz 1 verwendet werden sollen; der Schuldner der
-    Einfuhrumsatzsteuer hat die Voraussetzungen der Steuerbefreiung
-    nachzuweisen;
+4.  (weggefallen)
 
 
-5.  der in der Anlage 1 bezeichneten Gegenstände, wenn die Einfuhr im
-    Zusammenhang mit einer Lieferung steht, die zu einer Auslagerung im
-    Sinne des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 führt und der Lieferer
-    oder sein Beauftragter Schuldner der Einfuhrumsatzsteuer ist; der
-    Schuldner der Einfuhrumsatzsteuer hat die Voraussetzungen der
-    Steuerbefreiung nachzuweisen;
+5.  (weggefallen)
 
 
 6.  von Erdgas über das Erdgasnetz oder von Erdgas, das von einem
@@ -3037,20 +2989,15 @@ unmittelbar mit dem Preis dieser Umsätze zusammenhängenden
 Subventionen, jedoch abzüglich der für diese Leistung gesetzlich
 geschuldeten Umsatzsteuer. Bei dem innergemeinschaftlichen Erwerb sind
 Verbrauchsteuern, die vom Erwerber geschuldet oder entrichtet werden,
-in die Bemessungsgrundlage einzubeziehen. Bei Lieferungen und dem
-innergemeinschaftlichen Erwerb im Sinne des § 4 Nr. 4a Satz 1
-Buchstabe a Satz 2 sind die Kosten für die Leistungen im Sinne des § 4
-Nr. 4a Satz 1 Buchstabe b und die vom Auslagerer geschuldeten oder
-entrichteten Verbrauchsteuern in die Bemessungsgrundlage
-einzubeziehen. Die Beträge, die der Unternehmer im Namen und für
-Rechnung eines anderen vereinnahmt und verausgabt (durchlaufende
-Posten), gehören nicht zum Entgelt. Liegen bei der Entgegennahme eines
-Mehrzweck-Gutscheins (§ 3 Absatz 15) keine Angaben über die Höhe der
-für den Gutschein erhaltenen Gegenleistung nach Satz 2 vor, so wird
-das Entgelt nach dem Gutscheinwert selbst oder nach dem in den damit
-zusammenhängenden Unterlagen angegebenen Geldwert bemessen, abzüglich
-der Umsatzsteuer, die danach auf die gelieferten Gegenstände oder die
-erbrachten Dienstleistungen entfällt.
+in die Bemessungsgrundlage einzubeziehen. Die Beträge, die der
+Unternehmer im Namen und für Rechnung eines anderen vereinnahmt und
+verausgabt (durchlaufende Posten), gehören nicht zum Entgelt. Liegen
+bei der Entgegennahme eines Mehrzweck-Gutscheins (§ 3 Absatz 15) keine
+Angaben über die Höhe der für den Gutschein erhaltenen Gegenleistung
+nach Satz 2 vor, so wird das Entgelt nach dem Gutscheinwert selbst
+oder nach dem in den damit zusammenhängenden Unterlagen angegebenen
+Geldwert bemessen, abzüglich der Umsatzsteuer, die danach auf die
+gelieferten Gegenstände oder die erbrachten Dienstleistungen entfällt.
 
 (2) Werden Rechte übertragen, die mit dem Besitz eines Pfandscheins
 verbunden sind, so gilt als vereinbartes Entgelt der Preis des
@@ -3480,12 +3427,7 @@ Umsätze:
 
 
 8.  im Fall des § 6a Abs. 4 Satz 2 in dem Zeitpunkt, in dem die Lieferung
-    ausgeführt wird;
-
-
-9.  im Fall des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 mit Ablauf des
-    Voranmeldungszeitraums, in dem der Gegenstand aus einem
-    Umsatzsteuerlager ausgelagert wird.
+    ausgeführt wird.
 
 
 
@@ -3514,11 +3456,7 @@ Umsätze:
 5.  des § 25b Abs. 2 der letzte Abnehmer;
 
 
-6.  des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 der Unternehmer, dem die
-    Auslagerung zuzurechnen ist (Auslagerer); daneben auch der Lagerhalter
-    als Gesamtschuldner, wenn er entgegen § 22 Abs. 4c Satz 2 die
-    inländische Umsatzsteuer-Identifikationsnummer des Auslagerers oder
-    dessen Fiskalvertreters nicht oder nicht zutreffend aufzeichnet;
+6.  (weggefallen)
 
 
 7.  des § 18k neben dem Unternehmer der im Gemeinschaftsgebiet ansässige
@@ -4287,11 +4225,7 @@ Voraussetzungen des Satzes 4 eingetreten sind.
 4.  die Steuer für Leistungen im Sinne des § 13b Absatz 1 und 2, die für
     sein Unternehmen ausgeführt worden sind. Soweit die Steuer auf eine
     Zahlung vor Ausführung dieser Leistungen entfällt, ist sie abziehbar,
-    wenn die Zahlung geleistet worden ist;
-
-
-5.  die nach § 13a Abs. 1 Nr. 6 geschuldete Steuer für Umsätze, die für
-    sein Unternehmen ausgeführt worden sind.
+    wenn die Zahlung geleistet worden ist.
 
 
 
@@ -5685,9 +5619,7 @@ Das Bundeszentralamt für Steuern bestätigt auf Anfrage
     Mitgliedstaat erteilt wurde;
 
 
-2.  dem Lagerhalter im Sinne des § 4 Nr. 4a die Gültigkeit der
-    inländischen Umsatzsteuer-Identifikationsnummer sowie den Namen und
-    die Anschrift des Auslagerers oder dessen Fiskalvertreters;
+2.  (weggefallen)
 
 
 3.  dem Betreiber im Sinne des § 25e Absatz 1 die Gültigkeit einer
@@ -6594,8 +6526,7 @@ zur Verfügung zu stellen.
     Angaben nach den Nummern 1 und 2 gesondert aufzuzeichnen;
 
 
-9.  die Bemessungsgrundlage für Umsätze im Sinne des § 4 Nr. 4a Satz 1
-    Buchstabe a Satz 2 sowie die hierauf entfallenden Steuerbeträge;
+9.  (weggefallen)
 
 
 10. in den Fällen des § 21a Namen und Anschriften der Versender und der
@@ -6656,13 +6587,7 @@ Identifikationsnummer zur Ausführung einer sonstigen Leistung im Sinne
 des § 3a Absatz 3 Nummer 3a Buchstabe b erhält, müssen aufgezeichnet
 werden.
 
-(4c) Der Lagerhalter, der ein Umsatzsteuerlager im Sinne des § 4 Nr.
-4a betreibt, hat Bestandsaufzeichnungen über die eingelagerten
-Gegenstände und Aufzeichnungen über Leistungen im Sinne des § 4 Nr. 4a
-Satz 1 Buchstabe b Satz 1 zu führen. Bei der Auslagerung eines
-Gegenstands aus dem Umsatzsteuerlager muss der Lagerhalter Name,
-Anschrift und die inländische Umsatzsteuer-Identifikationsnummer des
-Auslagerers oder dessen Fiskalvertreters aufzeichnen.
+(4c) (weggefallen)
 
 (4d) Im Fall der Abtretung eines Anspruchs auf die Gegenleistung für
 einen steuerpflichtigen Umsatz an einen anderen Unternehmer (§ 13c)
@@ -8200,7 +8125,7 @@ auf die Abgabe folgenden Kalenderjahres an widerrufen werden. Es ist
 nicht zulässig, den Widerruf auf einzelne Tätigkeitsbereiche oder
 Leistungen zu beschränken.
 
-(23) § 3 Absatz 13 bis 15 sowie § 10 Absatz 1 Satz 6 in der Fassung
+(23) § 3 Absatz 13 bis 15 sowie § 10 Absatz 1 Satz 5 in der Fassung
 des Artikels 9 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338)
 sind erstmals auf Gutscheine anzuwenden, die nach dem 31. Dezember
 2018 ausgestellt werden.
@@ -8532,222 +8457,8 @@ erteilte individuelle Identifikationsnummer gilt im Sinne dieses
 Gesetzes als von einem Mitgliedstaat der Europäischen Union erteilte
 individuelle Identifikationsnummer.
 
-(zu § 4 Nr. 4a)
 
-### Anlage 1 Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
-
-(Fundstelle: BGBl. I 2006, 2896 - 2897)
-
-
-*    *   Lfd. Nr.
-
-    *   Warenbezeichnung
-
-    *   Zolltarif (Kapitel, Position, Unterposition)
-
-
-*    *   1
-
-    *   Kartoffeln, frisch oder gekühlt
-
-    *   Position 0701
-
-
-*    *   2
-
-    *   Oliven, vorläufig haltbar gemacht (z. B. durch Schwefeldioxid oder in
-        Wasser, dem Salz, Schwefeldioxid oder andere vorläufig konservierend
-        wirkende Stoffe zugesetzt sind), zum unmittelbaren Genuss nicht
-        geeignet
-
-    *   Unterposition 0711 20
-
-
-*    *   3
-
-    *   Schalenfrüchte, frisch oder getrocknet, auch ohne Schalen oder
-        enthäutet
-
-    *   Positionen 0801 und 0802
-
-
-*    *   4
-
-    *   Kaffee, nicht geröstet, nicht entkoffeiniert, entkoffeiniert
-
-    *   Unterpositionen 0901 11 00 und 0901 12 00
-
-
-*    *   5
-
-    *   Tee, auch aromatisiert
-
-    *   Position 0902
-
-
-*    *   6
-
-    *   Getreide
-
-    *   Positionen 1001 bis 1005, 1007 00 und 1008
-
-
-*    *   7
-
-    *   Rohreis (Paddy-Reis)
-
-    *   Unterposition 1006 10
-
-
-*    *   8
-
-    *   Ölsamen und ölhaltige Früchte
-
-    *   Positionen 1201 00 bis 1207
-
-
-*    *   9
-
-    *   Pflanzliche Fette und Öle und deren Fraktionen, roh, auch raffiniert,
-        jedoch nicht chemisch modifiziert
-
-    *   Positionen 1507 bis 1515
-
-
-*    *   10
-
-    *   Rohzucker
-
-    *   Unterpositionen 1701 11 und 1701 12
-
-
-*    *   11
-
-    *   Kakaobohnen und Kakaobohnenbruch, roh oder geröstet
-
-    *   Position 1801 00 00
-
-
-*    *   12
-
-    *   Mineralöle (einschließlich Propan und Butan sowie Rohöle aus Erdöl)
-
-    *   Positionen 2709 00, 2710, Unterpositionen 2711 12 und 2711 13
-
-
-*    *   13
-
-    *   Erzeugnisse der chemischen Industrie
-
-    *   Kapitel 28 und 29
-
-
-*    *   14
-
-    *   Kautschuk, in Primärformen oder in Platten, Blättern oder Streifen
-
-    *   Positionen 4001 und 4002
-
-
-*    *   15
-
-    *   Chemische Halbstoffe aus Holz, ausgenommen solche zum Auflösen;
-        Halbstoffe aus Holz, durch Kombination aus mechanischem und chemischem
-        Aufbereitungsverfahren hergestellt
-
-    *   Positionen 4703 bis 4705 00 00
-
-
-*    *   16
-
-    *   Wolle, weder gekrempelt noch gekämmt
-
-    *   Position 5101
-
-
-*    *   17
-
-    *   Silber, in Rohform oder Pulver
-
-    *   aus Position 7106
-
-
-*    *   18
-
-    *   Gold, in Rohform oder als Pulver, zu nicht monetären Zwecken
-
-    *   Unterpositionen 7108 11 00 und 7108 12 00
-
-
-*    *   19
-
-    *   Platin, in Rohform oder als Pulver
-
-    *   aus Position 7110
-
-
-*    *   20
-
-    *   Eisen- und Stahlerzeugnisse
-
-    *   Positionen 7207 bis 7212, 7216, 7219, 7220, 7225 und 7226
-
-
-*    *   21
-
-    *   Nicht raffiniertes Kupfer und Kupferanoden zum elektrolytischen
-        Raffinieren; raffiniertes Kupfer und Kupferlegierungen, in Rohform;
-        Kupfervorlegierungen; Draht aus Kupfer
-
-    *   Positionen 7402 00 00, 7403, 7405 00 00 und 7408
-
-
-*    *   22
-
-    *   Nickel in Rohform
-
-    *   Position 7502
-
-
-*    *   23
-
-    *   Aluminium in Rohform
-
-    *   Position 7601
-
-
-*    *   24
-
-    *   Blei in Rohform
-
-    *   Position 7801
-
-
-*    *   25
-
-    *   Zink in Rohform
-
-    *   Position 7901
-
-
-*    *   26
-
-    *   Zinn in Rohform
-
-    *   Position 8001
-
-
-*    *   27
-
-    *   Andere unedle Metalle, ausgenommen Waren daraus und Abfälle und
-        Schrott
-
-    *   aus Positionen 8101 bis 8112
-
-
-
-Die Gegenstände dürfen nicht für die Lieferung auf der
-Einzelhandelsstufe aufgemacht sein.
+### Anlage 1 (weggefallen)
 
 (zu § 12 Absatz 2 Nummer 1, 2 und 14)
 
