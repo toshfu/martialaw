@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 18.12.2024 I Nr. 423
 
+Änderung durch
+:   Art. 10 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 17 Nr. 1 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
@@ -683,9 +686,9 @@ die Förderung kann bis zum Erreichen der jeweiligen
 Förderungshöchstdauer nach § 7 des Soldatenversorgungsgesetzes
 erfolgen.
 
-(2) Eine Maßnahme der beruflichen Bildung in Vollzeitform kann
-ausnahmsweise bis zu drei Monate vor dem Dienstzeitende gefördert
-werden, wenn
+(2) Eine Maßnahme der beruflichen Bildung in Vollzeitform kann nach §
+7 Absatz 12 des Soldatenversorgungsgesetzes ausnahmsweise bis zu drei
+Monate vor dem Dienstzeitende gefördert werden, wenn
 
 1.  der Beginn der Maßnahme unabänderlich ist und
 
@@ -815,78 +818,90 @@ werden, sind anzurechnen.
 nur bis zu folgenden Höchstbeträgen erstattet:
 
 *    *
-    *   Dauer der Förderung
-        nach § 7 Absatz 5
-        des Soldatenversorgungsgesetzes
-        in Monaten
+    *   Dauer der Förderung nach § 7 Absatz 5
+        des Soldatenversorgungsgesetzes in Monaten
 
-    *   Höchstbetrag
-        in Euro
-
-
-*    *
-    *   1
-
-    *   2
+    *   Höchstbetrag in Euro
 
 
 *    *   1
+
+    *   1
+
+    *   1 200
+
+
+*    *   2
+
+    *   2
+
+    *   2 400
+
+
+*    *   3
+
+    *   3
+
+    *   3 600
+
+
+*    *   4
 
     *   12
 
     *   5 000
 
 
-*    *   2
+*    *   5
 
     *   18
 
     *   7 000
 
 
-*    *   3
+*    *   6
 
     *   24
 
     *   9 000
 
 
-*    *   4
+*    *   7
 
     *   30
 
     *   11 000
 
 
-*    *   5
+*    *   8
 
     *   36
 
     *   13 000
 
 
-*    *   6
+*    *   9
 
     *   42
 
     *   15 000
 
 
-*    *   7
+*    *   10
 
     *   48
 
     *   17 000
 
 
-*    *   8
+*    *   11
 
     *   54
 
     *   19 000
 
 
-*    *   9
+*    *   12
 
     *   60
 
@@ -1485,13 +1500,13 @@ Absatz 6 und § 23 gelten entsprechend.
 (4) (weggefallen)
 
 
-### § 34 Berufsorientierungspraktika nach § 9 Absatz 3 des Soldatenversorgungsgesetzes
+### § 34 Berufsorientierungspraktika nach § 9 Absatz 2 des Soldatenversorgungsgesetzes
 
 (1) Über die Freistellung vom militärischen Dienst zur Teilnahme an
-einem Berufsorientierungspraktikum nach § 9 Absatz 3 des
+einem Berufsorientierungspraktikum nach § 9 Absatz 2 des
 Soldatenversorgungsgesetzes wird auf den vor dem Beginn des Praktikums
 schriftlich oder elektronisch gestellten Antrag der
-Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3
+Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3
 entschieden.
 
 (2) Grundsätzlich wird nur die Teilnahme an kostenfreien Praktika
@@ -1503,7 +1518,7 @@ für auswärtige Unterkunft und Verpflegung gilt § 23 entsprechend.
 (3) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend.
 
 
-### § 35 Berufsorientierungspraktikum nach § 9 Absatz 4 des Soldatenversorgungsgesetzes
+### § 35 Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes
 
 (1) Über die Freistellung vom militärischen Dienst nach § 9 Absatz 3
 des Soldatenversorgungsgesetzes zur Teilnahme an einem
@@ -1512,8 +1527,8 @@ Bundeswehr – Berufsförderungsdienst –; § 16 Absatz 3 gilt
 entsprechend. Der Antrag ist vor Beginn des
 Berufsorientierungspraktikums zu stellen.
 
-(2) Erhöhter Berufsorientierungsbedarf im Sinne des § 9 Absatz 4 des
-Soldatenversorgungsgesetzes liegt regelmäßig vor, wenn die
+(2) Erhöhter Berufsorientierungsbedarf im Sinne des § 9 Absatz 3 des
+Soldatenversorgungsgesetzes liegt in der Regel vor, wenn die
 Förderungsberechtigten noch keine abschließende Berufswahlentscheidung
 getroffen haben, Neigung und Eignung für bestimmte Berufe geklärt oder
 berufliche Alternativen erprobt werden sollen.
