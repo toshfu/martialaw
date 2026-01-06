@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 19.7.2023 I Nr. 197
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Art. 3 Nr. 2 G v. 18.4.2016 I 886 infolge unzureichender Bestimmtheit nicht ausführbar
 
@@ -391,7 +391,8 @@ Absatz 3 Satz 1 und 2 gestatten.
 ### § 11a
 
 Die Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln gemäß
-§ 43 Abs. 1 Satz 1 des Arzneimittelgesetzes ist dem Inhaber einer
+§ 43 Absatz 1 Satz 1 des Arzneimittelgesetzes und gemäß den §§ 43 und
+44a Absatz 2 des Tierarzneimittelgesetzes ist dem Inhaber einer
 Erlaubnis nach § 2 auf Antrag zu erteilen, wenn er schriftlich oder
 elektronisch versichert, dass er im Falle der Erteilung der Erlaubnis
 folgende Anforderungen erfüllen wird:
@@ -463,9 +464,11 @@ folgende Anforderungen erfüllen wird:
 
 
 
-Im Falle des elektronischen Handels mit apothekenpflichtigen
-Arzneimitteln gilt Satz 1 mit der Maßgabe, dass die Apotheke auch über
-die dafür geeigneten Einrichtungen und Geräte verfügen wird.
+Im Falle des elektronischen Handels mit zur Anwendung beim Menschen
+bestimmten apothekenpflichtigen Arzneimitteln sowie nicht
+verschreibungspflichtigen Tierarzneimitteln gilt Satz 1 mit der
+Maßgabe, dass die Apotheke auch über die dafür geeigneten
+Einrichtungen und Geräte verfügen wird.
 
 
 ### § 11b
@@ -1334,7 +1337,11 @@ sie nicht zu einem früheren Zeitpunkt ihre Gültigkeit verlieren.
 
 ### § 28a
 
-(weggefallen)
+Eine vor dem 1. Januar 2026 ausgestellte Erlaubnis zum Versand von
+apothekenpflichtigen Arzneimitteln gemäß § 43 Absatz 1 Satz 1 des
+Arzneimittelgesetzes gilt auch als Erlaubnis für den Versand von
+apothekenpflichtigen Tierarzneimitteln gemäß den §§ 43 und 44a Absatz
+2 des Tierarzneimittelgesetzes.
 
 
 ### § 29
