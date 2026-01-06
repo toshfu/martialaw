@@ -22,16 +22,19 @@ Zuletzt geändert durch
 :   Art. 1 G v. 14.7.2025 I Nr. 161
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 361 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 1 G v. 22.12.2025 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 1 G v. 22.12.2025 I Nr. 363 mWv 24.12.2025 noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 17 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
 
 
 ## I. - Steuerpflicht
@@ -860,7 +863,28 @@ Steuerfrei sind
     oder ihre Hinterbliebenen;
 
 
-21. (weggefallen)
+21. Einnahmen aus nichtselbständiger Arbeit nach § 19 Absatz 1 Satz 1
+    Nummer 1 bis zu einer Höhe von insgesamt 24 000 Euro im Jahr, soweit
+    die Einnahmen für vom Steuerpflichtigen ab dem Folgemonat nach
+    Erreichen der Regelaltersgrenze gemäß § 35 Satz 2 oder § 235 des
+    Sechsten Buches Sozialgesetzbuch erbrachte Leistungen zufließen und
+    der Arbeitgeber für diese Leistungen Beiträge nach § 168 Absatz 1
+    Nummer 1 oder Nummer 1d oder Absatz 3, § 172 Absatz 1 oder § 172a des
+    Sechsten Buches Sozialgesetzbuch zu entrichten hat.
+    2                   Die Steuerfreiheit gilt nicht, wenn die Einnahmen
+    bereits nach anderen Vorschriften steuerfrei sind.
+    3                   Für jeden Kalendermonat, in dem die
+    Voraussetzungen des Satzes 1 nicht vorgelegen haben, ermäßigt sich der
+    Steuerfreibetrag um ein Zwölftel.
+    4                   Beim Lohnsteuerabzug ist der Freibetrag in der
+    Steuerklasse VI nur zu berücksichtigen, wenn der Steuerpflichtige
+    gegenüber dem Arbeitgeber bestätigt hat, dass die Steuerbefreiung nach
+    Satz 1 nicht bereits in einem anderen Dienstverhältnis berücksichtigt
+    wird.
+    5                   Diese Bestätigung ist zum Lohnkonto zu nehmen.
+    6                   Im Lohnsteuerabzugsverfahren ist der
+    Steuerfreibetrag zeitanteilig zu berücksichtigen; dies gilt
+    entsprechend bei der Veranlagung zur Einkommensteuer;
 
 
 22. (weggefallen)
@@ -3199,84 +3223,8 @@ inländischen Besteuerung unterliegen als auch nachweislich der
 tatsächlichen Besteuerung in dem anderen Staat.
 
 
-#### § 4j Aufwendungen für Rechteüberlassungen
+#### § 4j (weggefallen)
 
-(1)
-1             Aufwendungen für die Überlassung der Nutzung oder des
-Rechts auf Nutzung von Rechten, insbesondere von Urheberrechten und
-gewerblichen Schutzrechten, von gewerblichen, technischen,
-wissenschaftlichen und ähnlichen Erfahrungen, Kenntnissen und
-Fertigkeiten, zum Beispiel Plänen, Mustern und Verfahren, sind
-ungeachtet eines bestehenden Abkommens zur Vermeidung der
-Doppelbesteuerung nur nach Maßgabe des Absatzes 3 abziehbar, wenn die
-Einnahmen des Gläubigers einer von der Regelbesteuerung abweichenden,
-niedrigen Besteuerung nach Absatz 2 unterliegen (Präferenzregelung)
-und der Gläubiger eine dem Schuldner nahestehende Person im Sinne des
-§ 1 Absatz 2 des Außensteuergesetzes ist.
-2             Wenn auch der Gläubiger nach Satz 1 oder eine andere dem
-Schuldner nach Satz 1 nahestehende Person im Sinne des § 1 Absatz 2
-des Außensteuergesetzes wiederum Aufwendungen für Rechte hat, aus
-denen sich die Rechte nach Satz 1 unmittelbar oder mittelbar ableiten,
-sind die Aufwendungen nach Satz 1 ungeachtet eines bestehenden
-Abkommens zur Vermeidung der Doppelbesteuerung auch dann nur nach
-Maßgabe des Absatzes 3 abziehbar, wenn die weiteren Einnahmen des
-weiteren Gläubigers einer von der Regelbesteuerung abweichenden,
-niedrigen Besteuerung nach Absatz 2 unterliegen und der weitere
-Gläubiger eine dem Schuldner nach Satz 1 nahestehende Person im Sinne
-des § 1 Absatz 2 des Außensteuergesetzes ist; dies gilt nicht, wenn
-die Abziehbarkeit der Aufwendungen beim Gläubiger oder der anderen dem
-Schuldner nahestehenden Person bereits nach dieser Vorschrift
-beschränkt ist.
-3             Als Schuldner und Gläubiger gelten auch Betriebsstätten,
-die ertragsteuerlich als Nutzungsberechtigter oder
-Nutzungsverpflichteter der Rechte für die Überlassung der Nutzung oder
-des Rechts auf Nutzung von Rechten behandelt werden.
-[^F798754_01_BJNR010050934BJNE039602123]
-4             Die Sätze 1 und 2 sind nicht anzuwenden, soweit sich die
-niedrige Besteuerung daraus ergibt, dass die Einnahmen des Gläubigers
-oder des weiteren Gläubigers einer Präferenzregelung unterliegen, die
-dem Nexus-Ansatz gemäß Kapitel 4 des Abschlussberichts 2015 zu
-Aktionspunkt 5, OECD (2016) „Wirksamere Bekämpfung schädlicher
-Steuerpraktiken unter Berücksichtigung von Transparenz und Substanz“,
-OECD/G20 Projekt Gewinnverkürzung und Gewinnverlagerung
-, entspricht.
-5             Die Sätze 1 und 2 sind insoweit nicht anzuwenden, als
-auf Grund der aus den Aufwendungen resultierenden Einnahmen ein
-Hinzurechnungsbetrag im Sinne des § 10 Absatz 1 Satz 1 des
-Außensteuergesetzes anzusetzen ist.
-
-(2)
-1             Eine niedrige Besteuerung im Sinne des Absatzes 1 liegt
-vor, wenn die von der Regelbesteuerung abweichende Besteuerung der
-Einnahmen des Gläubigers oder des weiteren Gläubigers zu einer
-Belastung durch Ertragsteuern von weniger als 15 Prozent führt;
-maßgeblich ist bei mehreren Gläubigern die niedrigste Belastung.
-2             Bei der Ermittlung, ob eine niedrige Besteuerung
-vorliegt, sind sämtliche Regelungen zu berücksichtigen, die sich auf
-die Besteuerung der Einnahmen aus der Rechteüberlassung auswirken,
-insbesondere steuerliche Kürzungen, Befreiungen, Gutschriften oder
-Ermäßigungen.
-3             Werden die Einnahmen für die Überlassung der Nutzung
-oder des Rechts auf Nutzung von Rechten einer anderen Person ganz oder
-teilweise zugerechnet oder erfolgt die Besteuerung aus anderen Gründen
-ganz oder teilweise bei einer anderen Person als dem Gläubiger oder
-dem weiteren Gläubiger, ist auf die Summe der Belastungen abzustellen.
-4             § 8 Absatz 5 Satz 2 und 3 des Außensteuergesetzes gilt
-entsprechend.
-
-(3)
-1             Aufwendungen nach Absatz 1 sind in den Fällen einer
-niedrigen Besteuerung nach Absatz 2 nur zum Teil abziehbar.
-2             Der nicht abziehbare Teil ist dabei wie folgt zu
-ermitteln:
-
-*    *        ![bgbl1_2023_j03970_0130.jpg](bgbl1_2023_j03970_0130.jpg)
-
-
-
-   Amtlicher Hinweis: Zu beziehen unter OECD Publishing, Paris,
-    http://dx.doi.org/10.1787/9789264258037-de.
-[^F798754_01_BJNR010050934BJNE039602123]: 
 
 #### § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen
 
@@ -6184,7 +6132,7 @@ vorausgegangen ist.
 (5)
 1             § 4 Absatz 5 Satz 1 Nummer 1 bis 4, 6b bis 8a, 10, 12
 und Absatz 6 gilt sinngemäß.
-2             Die §§ 4j, 4k, 6 Absatz 1 Nummer 1a und § 6e gelten
+2             Die §§ 4k, 6 Absatz 1 Nummer 1a und § 6e gelten
 entsprechend.
 
 (6)
@@ -12630,7 +12578,7 @@ geleistet, so ist die Dauer dieses Dienstes maßgebend.
 (6)
 1             Bei der Veranlagung zur Einkommensteuer wird für jedes
 zu berücksichtigende Kind des Steuerpflichtigen ein Freibetrag von
-3 336 Euro für das sächliche Existenzminimum des Kindes
+3 414 Euro für das sächliche Existenzminimum des Kindes
 (Kinderfreibetrag) sowie ein Freibetrag von 1 464 Euro für den
 Betreuungs- und Erziehungs- oder Ausbildungsbedarf des Kindes vom
 Einkommen abgezogen.
@@ -12707,40 +12655,40 @@ Ausbildungsbedarf des Kindes vorliegen.
 (1)
 1             Die tarifliche Einkommensteuer bemisst sich nach dem auf
 volle Euro abgerundeten zu versteuernden Einkommen.
-2             Sie beträgt ab dem Veranlagungszeitraum 2025
+2             Sie beträgt ab dem Veranlagungszeitraum 2026
 vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro
 für zu versteuernde Einkommen
 
-1.  bis 12 096 Euro (Grundfreibetrag):
+1.  bis 12 348 Euro (Grundfreibetrag):
 
     0;
 
 
-2.  von 12 097 Euro bis 17 443 Euro:
+2.  von 12 349 Euro bis 17 799 Euro:
 
-    (932,30*                    y + 1 400)*                    y;
-
-
-3.  von 17 444 Euro bis 68 480 Euro:
-
-    (176,64 • z + 2 397) • z + 1 015,13;
+    (914,51 • y + 1 400) • y;
 
 
-4.  von 68 481 Euro bis 277 825 Euro:
+3.  von 17 800 Euro bis 69 878 Euro:
 
-    0,42 • x – 10 911,92;
+    (173,10 • z + 2 397) • z + 1 034,87;
+
+
+4.  von 69 879 Euro bis 277 825 Euro:
+
+    0,42 • x – 11 135,63;
 
 
 5.  von 277 826 Euro an:
 
-    0,45 • x – 19 246,67.
+    0,45 • x – 19 470,38.
 
 
 
 3             Die Größe „y“ ist ein Zehntausendstel des den
 Grundfreibetrag übersteigenden Teils des auf einen vollen Euro-Betrag
 abgerundeten zu versteuernden Einkommens.
-4             Die Größe „z“ ist ein Zehntausendstel des 17 443 Euro
+4             Die Größe „z“ ist ein Zehntausendstel des 17 799 Euro
 übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu
 versteuernden Einkommens.
 5             Die Größe „x“ ist das auf einen vollen Euro-Betrag
@@ -13876,10 +13824,13 @@ Steuerpflichtigen im Veranlagungszeitraum gepflegt, wird der Pflege-
 Pauschbetrag nach der Zahl der Pflegepersonen, bei denen die
 Voraussetzungen der Sätze 1 bis 4 vorliegen, geteilt.
 
-(7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zu bestimmen, wie nachzuweisen ist, dass
-die Voraussetzungen für die Inanspruchnahme der Pauschbeträge
-vorliegen.
+(7)
+1             Die Bundesregierung wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, wie
+nachzuweisen ist, dass die Voraussetzungen für die Inanspruchnahme der
+Pauschbeträge vorliegen.
+2             Dabei ist der Nachweis vorrangig durch elektronische
+Mitteilungsverfahren zu führen.
 
 (8) Die Vorschrift des § 33b Absatz 6 ist ab Ende des Kalenderjahres
 2026 zu evaluieren.
@@ -16251,8 +16202,8 @@ zwischen dem Steuerbetrag für das Eineinviertelfache und dem
 Steuerbetrag für das Dreiviertelfache des zu versteuernden
 Jahresbetrags nach § 32a Absatz 1 ergibt; die Jahreslohnsteuer beträgt
 jedoch mindestens 14 Prozent des zu versteuernden Jahresbetrags, für
-den 13 785 Euro übersteigenden Teil des zu versteuernden Jahresbetrags
-höchstens 42 Prozent, für den 34 240 Euro übersteigenden Teil des zu
+den 14 071 Euro übersteigenden Teil des zu versteuernden Jahresbetrags
+höchstens 42 Prozent, für den 34 939 Euro übersteigenden Teil des zu
 versteuernden Jahresbetrags 42 Prozent und für den 222 260 Euro
 übersteigenden Teil des zu versteuernden Jahresbetrags 45 Prozent.
 8             Für die Lohnsteuerberechnung ist die als
@@ -17158,8 +17109,8 @@ Qualifizierungsgeld, der Zuschuss zum Mutterschaftsgeld nach dem
 Mutterschutzgesetz, der Zuschuss bei Beschäftigungsverboten für die
 Zeit vor oder nach einer Entbindung sowie für den Entbindungstag
 während einer Elternzeit nach beamtenrechtlichen Vorschriften, die
-Entschädigungen für Verdienstausfall nach dem Infektionsschutzgesetz
-vom 20. Juli 2000 (BGBl. I S. 1045), die nach § 3 Nummer 28
+Entschädigungen für Verdienstausfall nach dem Infektionsschutzgesetz,
+die nach § 3 Nummer 21 steuerfreien Einnahmen, die nach § 3 Nummer 28
 steuerfreien Aufstockungsbeträge oder Zuschläge und die nach § 3
 Nummer 28a steuerfreien Zuschüsse einzutragen.
 5             Ist während der Dauer des Dienstverhältnisses in anderen
@@ -17333,11 +17284,10 @@ der Abgabenordnung genannten Daten insbesondere folgende Angaben zu
 
 5.  das Kurzarbeitergeld, das Qualifizierungsgeld, den Zuschuss zum
     Mutterschaftsgeld nach dem Mutterschutzgesetz, die Entschädigungen für
-    Verdienstausfall nach dem Infektionsschutzgesetz vom 20. Juli 2000
-    (BGBl. I S. 1045), zuletzt geändert durch Artikel 11 § 3 des Gesetzes
-    vom 6. August 2002 (BGBl. I S. 3082), in der jeweils geltenden
-    Fassung, die nach § 3 Nummer 28 steuerfreien Aufstockungsbeträge oder
-    Zuschläge sowie die nach § 3 Nummer 28a steuerfreien Zuschüsse,
+    Verdienstausfall nach dem Infektionsschutzgesetz, die nach § 3 Nummer
+    21 steuerfreien Einnahmen, die nach § 3 Nummer 28 steuerfreien
+    Aufstockungsbeträge oder Zuschläge sowie die nach § 3 Nummer 28a
+    steuerfreien Zuschüsse,
 
 
 6.  die auf die Entfernungspauschale nach § 3 Nummer 15 Satz 3 und § 9
@@ -17528,7 +17478,7 @@ Lohnsteuer nicht nachträglich einbehalten kann, weil
 
 
 
-dem Betriebsstättenfinanzamt unverzüglich anzuzeigen.
+dem Betriebsstättenfinanzamt unverzüglich elektronisch anzuzeigen.
 2             Das Finanzamt hat die zu wenig erhobene Lohnsteuer vom
 Arbeitnehmer nachzufordern, wenn der nachzufordernde Betrag 10 Euro
 übersteigt.
@@ -17577,10 +17527,10 @@ nicht durchführen, wenn
     Mutterschutzgesetz, Zuschuss bei Beschäftigungsverboten für die Zeit
     vor oder nach einer Entbindung sowie für den Entbindungstag während
     einer Elternzeit nach beamtenrechtlichen Vorschriften, Entschädigungen
-    für Verdienstausfall nach dem Infektionsschutzgesetz vom 20. Juli 2000
-    (BGBl. I S. 1045), nach § 3 Nummer 28 steuerfreie Aufstockungsbeträge
-    oder Zuschläge oder nach § 3 Nummer 28a steuerfreie Zuschüsse bezogen
-    hat oder
+    für Verdienstausfall nach dem Infektionsschutzgesetz, nach § 3 Nummer
+    21 steuerfreie Einnahmen, nach § 3 Nummer 28 steuerfreie
+    Aufstockungsbeträge oder Zuschläge oder nach § 3 Nummer 28a
+    steuerfreie Zuschüsse bezogen hat oder
 
 
 4a. die Anzahl der im Lohnkonto oder in der Lohnsteuerbescheinigung
@@ -20292,11 +20242,17 @@ zur Abgabe von Lohnsteueranmeldungen verpflichtet ist und eine
 Veranlagung zur Einkommen- oder Körperschaftsteuer nicht in Betracht
 kommt oder der Leistende glaubhaft macht, dass im Veranlagungszeitraum
 keine zu sichernden Steueransprüche entstehen werden.
-3             Der Antrag ist nach amtlich vorgeschriebenem Muster bis
-zum Ablauf des zweiten Kalenderjahres zu stellen, das auf das Jahr
-folgt, in dem der Abzugsbetrag angemeldet worden ist; weitergehende
-Fristen nach einem Abkommen zur Vermeidung der Doppelbesteuerung
-bleiben unberührt.
+3             Der elektronische Antrag ist nach amtlich
+vorgeschriebenem Datensatz über die amtlich vorgeschriebene
+Schnittstelle bis zum Ablauf des zweiten Kalenderjahres zu
+übermitteln, das auf das Jahr folgt, in dem der Abzugsbetrag
+angemeldet worden ist; weitergehende Fristen nach einem Abkommen zur
+Vermeidung der Doppelbesteuerung bleiben unberührt.
+4             Auf Antrag kann das Finanzamt zur Vermeidung unbilliger
+Härten auf eine elektronische Übermittlung des Antrags verzichten.
+5             In diesem Fall ist der Antrag auf Erstattung des
+Abzugsbetrags vom Leistenden nach amtlich vorgeschriebenem Muster zu
+stellen.
 
 (3) Das Finanzamt kann die Anrechnung ablehnen, soweit der angemeldete
 Abzugsbetrag nicht abgeführt worden ist und Anlass zu der Annahme
@@ -22961,15 +22917,15 @@ landesrechtlicher Vorschriften.
 (1)
 1             Diese Fassung des Gesetzes ist, soweit in den folgenden
 Absätzen nichts anderes bestimmt ist, erstmals für den
-Veranlagungszeitraum 2025 anzuwenden.
+Veranlagungszeitraum 2026 anzuwenden.
 2             Beim Steuerabzug vom Arbeitslohn gilt Satz 1 mit der
 Maßgabe, dass diese Fassung erstmals auf den laufenden Arbeitslohn
-anzuwenden ist, der für einen nach dem 31. Dezember 2024 endenden
+anzuwenden ist, der für einen nach dem 31. Dezember 2025 endenden
 Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach
-dem 31. Dezember 2024 zufließen.
+dem 31. Dezember 2025 zufließen.
 3             Beim Steuerabzug vom Kapitalertrag gilt Satz 1 mit der
 Maßgabe, dass diese Fassung des Gesetzes erstmals auf Kapitalerträge
-anzuwenden ist, die dem Gläubiger nach dem 31. Dezember 2024
+anzuwenden ist, die dem Gläubiger nach dem 31. Dezember 2025
 zufließen.
 
 (2)
@@ -23267,12 +23223,16 @@ anzuwenden.
 anzuwenden, die nach dem 14. Dezember 2023 beginnen und nicht vor dem
 1\. Januar 2024 enden.
 
-(8c) § 4j in der Fassung des Artikels 1 des Gesetzes vom 27. Juni 2017
-(BGBl. I S. 2074) ist erstmals für Aufwendungen anzuwenden, die nach
-dem 31. Dezember 2017 entstehen. § 4j Absatz 2 Satz 1 und Absatz 3
-Satz 2 in der Fassung des Artikels 4 des Gesetzes vom 21. Dezember
-2023 (BGBl. 2023 I Nr. 397) sind erstmals für Aufwendungen anzuwenden,
-die nach dem 31. Dezember 2023 entstehen.
+(8c)
+1             § 4j in der Fassung des Artikels 1 des Gesetzes vom 27.
+Juni 2017 (BGBl. I S. 2074) ist erstmals für Aufwendungen anzuwenden,
+die nach dem 31. Dezember 2017 entstehen.
+2             § 4j Absatz 2 Satz 1 und Absatz 3 Satz 2 in der Fassung
+des Artikels 4 des Gesetzes vom 21. Dezember 2023 (BGBl. 2023 I Nr.
+397) sind erstmals für Aufwendungen anzuwenden, die nach dem 31.
+Dezember 2023 entstehen.
+3             § 4j ist letztmals für den Veranlagungszeitraum 2024
+anzuwenden.
 
 (8d)
 1             § 4k in der Fassung des Artikels 1 des Gesetzes vom 25.
@@ -23584,6 +23544,9 @@ Veranlagungszeiträume vor 2019 anzuwenden.
 Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für
 Aufwendungen im Sinne des § 4k anzuwenden, die nach dem 31. Dezember
 2019 entstehen.
+5             § 9 Absatz 5 Satz 2 in der Fassung des Artikels 4 des
+Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 353) ist erstmals für
+den Veranlagungszeitraum 2025 anzuwenden.
 
 (17) § 9b Absatz 2 in der Fassung des Artikels 11 des Gesetzes vom 18.
 Dezember 2013 (BGBl. I S. 4318) ist auf Mehr- und Minderbeträge
@@ -25251,13 +25214,16 @@ Kinderzulage hat.
 
 ### § 66 Höhe des Kindergeldes, Zahlungszeitraum
 
-(1) Das Kindergeld beträgt monatlich für jedes Kind 255 Euro.
+(1) Das Kindergeld beträgt monatlich für jedes Kind 259 Euro.
 
 (2) Das Kindergeld wird monatlich vom Beginn des Monats an gezahlt, in
 dem die Anspruchsvoraussetzungen erfüllt sind, bis zum Ende des
 Monats, in dem die Anspruchsvoraussetzungen wegfallen.
 
-(3) (weggefallen)
+(3) Werden die Freibeträge für Kinder nach § 31 Satz 1 in Verbindung
+mit § 32 Absatz 6 Satz 1 angehoben, wird das Kindergeld entsprechend
+erhöht. Das Kindergeld ist dabei auf volle Euro kaufmännisch zu
+runden.
 
 
 ### § 67 Antrag
