@@ -2976,7 +2976,7 @@ der Antrag auf gerichtliche Entscheidung nach § 62 zulässig. In den
 Fällen der Nummern 1 und 2 ist der Antrag innerhalb von zwei Wochen
 nach Zustellung des Bescheides zu stellen; gegen die Entscheidung des
 Gerichts ist in den Fällen der Nummer 2 sofortige Beschwerde zulässig,
-wenn der Wert des Beschwerdegegenstandes zweihundert Euro übersteigt.
+wenn der Wert des Beschwerdegegenstandes 300 Euro übersteigt.
 
 (2) Für die Vollstreckung der Kosten des Bußgeldverfahrens gelten die
 §§ 89 und 90 Abs. 1 entsprechend.
@@ -3081,35 +3081,28 @@ des Bundes das Verfahren durchführt, sonst das Land.
 
 #### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
 
-(1) Die Akten können elektronisch geführt werden. Die Bundesregierung
-und die Landesregierungen bestimmen jeweils für ihren Bereich durch
-Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch
-geführt werden. Sie können die Einführung der elektronischen
-Aktenführung dabei auf einzelne Gerichte oder Behörden oder auf
-allgemein bestimmte Verfahren beschränken und bestimmen, dass Akten,
-die in Papierform angelegt wurden, auch nach Einführung der
-elektronischen Aktenführung in Papierform weitergeführt werden; wird
-von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
-Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
-die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
-durch Rechtsverordnung auf die zuständigen Bundes- oder
-Landesministerien übertragen werden.
+(1) Die Akten werden elektronisch geführt. Akten, die in Papierform
+angelegt wurden, können in Papierform weitergeführt werden. Sie können
+auch ab einem bestimmten Stichtag oder Ereignis in elektronischer Form
+weitergeführt werden. Der Beginn der Weiterführung der Akten in
+elektronischer Form ist aktenkundig zu machen.
 
 (1a) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor
-dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten
-Stichtag oder Ereignis in elektronischer Form weitergeführt werden.
-Die Zulassung der Weiterführung in elektronischer Form kann auf
-einzelne Gerichte oder Behörden oder auf allgemein bestimmte Verfahren
-beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann
-in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren Akten in elektronischer Form weitergeführt
-werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der
-Zustimmung des Bundesrates. Die Ermächtigung kann durch
-Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien
-übertragen werden.
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von Absatz 1 Satz 1 und 2 bis einschließlich 31. Dezember 2026 in
+Papierform angelegt sowie von anderer Stelle bis einschließlich 31.
+Dezember 2026 übermittelte elektronische Akten in Papierform geführt
+oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte
+oder Behörden oder allgemein bestimmte Verfahren beschränkt werden;
+wird von dieser Möglichkeit Gebrauch gemacht, so kann in der
+Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
+die öffentlich bekanntzumachen ist, geregelt wird, in welchen
+Verfahren Akten in Papierform angelegt oder elektronisch übermittelte
+Akten in Papierform geführt oder weitergeführt werden. Die
+Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des
+Bundesrates. Die Bundesregierung und die Landesregierungen können die
+in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
+zuständigen Bundes- oder Landesministerien übertragen.
 
 (1b) Dokumente und Aktenteile, die nach den
 Verschlusssachenanweisungen des Bundes oder der Länder als
@@ -3121,38 +3114,6 @@ Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
 bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für
 die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
 bleiben unberührt.
-
-(1c) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die
-elektronisch angelegt wurden, ab einem bestimmten Ereignis bis zum 31.
-Dezember 2025 in Papierform weitergeführt werden. Die Zulassung der
-Weiterführung in Papierform kann auf einzelne Gerichte oder Behörden
-oder auf allgemein bestimmte Verfahren beschränkt werden; wird von
-dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung
-bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
-elektronischer Form weitergeführt werden. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
-Ermächtigung kann durch Rechtsverordnung auf die zuständigen Bundes-
-oder Landesministerien übertragen werden.
-
-(1d) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
-von Absatz 1 Satz 1 und 2 in der ab dem 1. Januar 2026 geltenden
-Fassung bis einschließlich 31. Dezember 2026 in Papierform angelegt
-sowie von anderer Stelle bis einschließlich 31. Dezember 2026
-übermittelte elektronische Akten in Papierform geführt oder
-weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder
-Behörden oder allgemein bestimmte Verfahren beschränkt werden; wird
-von dieser Möglichkeit Gebrauch gemacht, so kann in der
-Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
-die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren Akten in Papierform angelegt oder elektronisch übermittelte
-Akten in Papierform geführt oder weitergeführt werden. Die
-Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des
-Bundesrates. Die Bundesregierung und die Landesregierungen können die
-in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
-zuständigen Bundes- oder Landesministerien übertragen.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen jeweils
 für ihren Bereich durch Rechtsverordnung die für die elektronische
@@ -3202,12 +3163,31 @@ Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen
 entsprechend. Abweichend von § 32b Absatz 1 Satz 2 der
 Strafprozessordnung ist bei der automatisierten Herstellung eines zu
 signierenden elektronischen Dokuments statt seiner die begleitende
-Verfügung zu signieren. Abweichend von § 32e Absatz 4 Satz 1 der
-Strafprozessordnung müssen Ausgangsdokumente nicht gespeichert oder
-aufbewahrt werden, wenn die übertragenen Dokumente zusätzlich einen
-mit einer qualifizierten elektronischen Signatur versehenen Vermerk
-darüber enthalten, dass das Ausgangsdokument mit dem zur Akte zu
-nehmenden Dokument inhaltlich und bildlich übereinstimmt.
+Verfügung zu signieren. § 32d Satz 2 der Strafprozessordnung gilt mit
+der Maßgabe, dass Verteidiger und Rechtsanwälte
+
+1.  den Einspruch gegen den Bußgeldbescheid, seine Rücknahme und den
+    Verzicht auf den Einspruch,
+
+
+2.  die Rechtsbeschwerde, ihre Begründung und ihre Rücknahme,
+
+
+3.  den Antrag auf Zulassung der Rechtsbeschwerde, seine Begründung und
+    seine Rücknahme sowie
+
+
+4.  die Gegenerklärung
+
+
+
+als elektronisches Dokument übermitteln müssen. Abweichend von § 32e
+Absatz 4 Satz 1 der Strafprozessordnung müssen Ausgangsdokumente nicht
+gespeichert oder aufbewahrt werden, wenn die übertragenen Dokumente
+zusätzlich einen mit einer qualifizierten elektronischen Signatur
+versehenen Vermerk darüber enthalten, dass das Ausgangsdokument mit
+dem zur Akte zu nehmenden Dokument inhaltlich und bildlich
+übereinstimmt.
 
 
 ## Dritter Teil - Einzelne Ordnungswidrigkeiten
@@ -3731,6 +3711,11 @@ Hauptverhandlung abgesandt wird.
 (2) Die Zulässigkeit und die Zulassung von Rechtsmitteln richten sich
 nach dem Recht, das zu dem Zeitpunkt gilt, zu dem ein Urteil verkündet
 wird oder ein Beschluß bei der Geschäftsstelle eingeht.
+
+(2a) § 108 Absatz 1 Satz 2 ist in seiner bis einschließlich 31.
+Dezember 2025 geltenden Fassung weiter anzuwenden, wenn die
+anzufechtende Entscheidung bis einschließlich 31. Dezember 2025 bei
+der Geschäftsstelle eingeht.
 
 (3) Die Wiederaufnahme des Verfahrens richtet sich nach dem Recht, das
 zu dem Zeitpunkt gilt, zu dem ein Antrag bei Gericht eingeht.
