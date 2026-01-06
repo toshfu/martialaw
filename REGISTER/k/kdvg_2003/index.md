@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 28.4.2011 I 687
 
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Grundsatz
@@ -37,23 +40,22 @@ nach Artikel 12a Absatz 2 des Grundgesetzes zu leisten.
 ## § 2 Antrag
 
 (1) Über die Berechtigung, den Kriegsdienst mit der Waffe zu
-verweigern, entscheidet das Bundesamt für den Zivildienst (Bundesamt)
-auf Antrag.
+verweigern, entscheidet das Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben (Bundesamt) auf Antrag.
 
-(2) Der Antrag ist von der Antragstellerin oder vom Antragsteller
-schriftlich oder zur Niederschrift beim Kreiswehrersatzamt zu stellen.
-Er muss die Berufung auf das Grundrecht der Kriegsdienstverweigerung
-im Sinne des Artikels 4 Abs. 3 Satz 1 des Grundgesetzes enthalten. Ein
+(2) Der Antrag ist schriftlich oder zur Niederschrift beim Bundesamt
+für das Personalmanagement der Bundeswehr zu stellen. Er muss die
+Berufung auf das Grundrecht der Kriegsdienstverweigerung im Sinne des
+Artikels 4 Absatz 3 Satz 1 des Grundgesetzes enthalten. Ein
 vollständiger tabellarischer Lebenslauf und eine persönliche
-ausführliche Darlegung der Beweggründe für die Gewissensentscheidung
-sind dem Antrag beizufügen oder innerhalb eines Monats dem Bundesamt
-einzureichen.
+ausführliche Darstellung der Beweggründe für die Gewissensentscheidung
+sind dem Antrag beizufügen.
 
-(3) Schriftliche Stellungnahmen und Beurteilungen Dritter zur Person
-und zum Verhalten der Antragstellerin oder des Antragstellers können
-dem Antrag beigefügt oder beim Bundesamt eingereicht werden. Außerdem
-können Personen benannt werden, die zu Auskünften über die
-Antragstellerin oder den Antragsteller bereit sind.
+(3) Dem Antrag können Stellungnahmen und Beurteilungen Dritter zur
+Person und zum Verhalten der Antragstellerin oder des Antragstellers
+beigefügt werden. Außerdem können Personen benannt werden, die zu
+Auskünften über die Antragstellerin oder den Antragsteller bereit
+sind.
 
 (4) Der Antrag eines ungedienten Wehrpflichtigen kann frühestens sechs
 Monate vor Vollendung des 18. Lebensjahres gestellt werden. Einer
@@ -62,42 +64,45 @@ Vertreters bedarf es nicht.
 
 (5) Abweichend von Absatz 4 kann ein Wehrpflichtiger den Antrag
 frühestens sechs Monate vor Vollendung des 17. Lebensjahres stellen,
-wenn er
+wenn er dem Antrag Folgendes beifügt:
 
 1.  einen Antrag auf vorgezogene Ableistung des Zivildienstes, dem seine
     gesetzliche Vertreterin oder sein gesetzlicher Vertreter zugestimmt
     hat, oder
 
 
-2.
-    a)  den Entwurf einer Verpflichtung nach § 14c Abs. 1 des
+2.  folgende Dokumente:
+
+    a)  den Entwurf einer Verpflichtung nach § 14c Absatz 1 des
         Zivildienstgesetzes,
 
 
     b)  die Erklärung seiner gesetzlichen Vertreterin oder seines gesetzlichen
-        Vertreters, einer solchen Verpflichtung zuzustimmen, und
+        Vertreters, einer in Buchstabe a genannten Verpflichtung zuzustimmen,
+        und
 
 
-    c)  die Erklärung des Trägers nach § 14c Abs. 3 des Zivildienstgesetzes,
-        eine solche Verpflichtung mit dem Antragsteller nach dessen
-        Anerkennung als Kriegsdienstverweigerer abschließen zu wollen,
+    c)  die Erklärung nach § 14c Absatz 3 des Zivildienstgesetzes, eine solche
+        Verpflichtung mit dem Antragsteller nach dessen Anerkennung als
+        Kriegsdienstverweigerer abschließen zu wollen.
 
 
 
 
 
 
-beifügt. Wer einen Antrag nach Satz 1 gestellt hat, kann frühestens
-sechs Monate vor Vollendung des 17. Lebensjahres gemustert werden.
+Wer einen Antrag nach Satz 1 gestellt hat, kann frühestens sechs
+Monate vor Vollendung des 17. Lebensjahres gemustert werden.
 
-(6) Das Kreiswehrersatzamt bestätigt der Antragstellerin oder dem
-Antragsteller den Eingang des Antrags und leitet ihn mit der
-Personalakte (Grundakte) dem Bundesamt zu. Die Zuleitung erfolgt
-unverzüglich, bei ungedienten Wehrpflichtigen sobald der
-Musterungsbescheid unanfechtbar geworden ist. Bei Berufssoldatinnen
-und Berufssoldaten sowie bei Soldatinnen und Soldaten auf Zeit ist den
-Personalakten eine Stellungnahme der oder des Disziplinarvorgesetzten
-und der personalbearbeitenden Stelle beizufügen.
+(6) Das Bundesamt für das Personalmanagement der Bundeswehr bestätigt
+der Antragstellerin oder dem Antragsteller den Eingang des Antrags,
+nimmt diesen zur Grundakte der Personalakte und leitet die Grundakte
+dem Bundesamt zu. Die Zuleitung erfolgt unverzüglich, bei ungedienten
+Wehrpflichtigen sobald der Musterungsbescheid unanfechtbar geworden
+ist. Bei Berufssoldatinnen und Berufssoldaten sowie bei Soldatinnen
+auf Zeit und Soldaten auf Zeit ist den Personalakten eine
+Stellungnahme der oder des Disziplinarvorgesetzten und der
+personalbearbeitenden Stelle beizufügen.
 
 
 ## § 3 Folgen des Antrags
@@ -149,7 +154,7 @@ Antragsteller ist als Kriegsdienstverweigerer anzuerkennen, wenn
 
 
 
-## § 6 Anhörung
+## § 6 Anhörung; Verordnungsermächtigung
 
 (1) Hat das Bundesamt Zweifel an der Wahrheit der Angaben der
 Antragstellerin oder des Antragstellers, gibt es ihr oder ihm
@@ -183,28 +188,31 @@ durch die Bestellung einer Vertretung entstehen, erstattet, wenn die
 Fortführung des Geschäftsbetriebs oder der selbstständigen Tätigkeit
 nicht durch andere Vorkehrungen ermöglicht werden kann.
 
-(6) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-wird ermächtigt, durch Rechtsverordnung das Nähere zum Verfahren bei
-der Anhörung sowie zur Erstattung von notwendigen Auslagen,
-Verdienstausfall und notwendigen Aufwendungen zu regeln.
+(6) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+Jugend wird ermächtigt, durch Rechtsverordnung das Nähere zum
+Verfahren bei der Anhörung sowie zur Erstattung von notwendigen
+Auslagen, Verdienstausfall und notwendigen Aufwendungen zu regeln.
 
 
 ## § 7 Ablehnung des Antrags
 
 (1) Das Bundesamt lehnt den Antrag ab, wenn
 
-1.  er nicht vollständig ist (§ 2 Abs. 2) und die Antragstellerin oder der
+1.  der Antragsteller die Musterung verweigert,
+
+
+2.  er nicht vollständig ist (§ 2 Abs. 2) und die Antragstellerin oder der
     Antragsteller ihn nicht innerhalb einer Frist von einem Monat nach
     Aufforderung durch das Bundesamt vervollständigt hat,
 
 
-2.  die in ihm dargelegten Beweggründe ein Recht auf
+3.  die in ihm dargelegten Beweggründe ein Recht auf
     Kriegsdienstverweigerung auch nach schriftlicher und gegebenenfalls
     mündlicher Anhörung der Antragstellerin oder des Antragstellers nicht
     zu begründen vermögen oder
 
 
-3.  Zweifel an der Wahrheit der Angaben der Antragstellerin oder des
+4.  Zweifel an der Wahrheit der Angaben der Antragstellerin oder des
     Antragstellers trotz der schriftlichen Anhörung oder einer mündlichen
     Anhörung nicht ausgeräumt wurden.
 
@@ -283,32 +291,35 @@ entsprechend anzuwenden.
 Antragstellers im Bundesamt ist § 36 des Zivildienstgesetzes
 entsprechend anzuwenden.
 
-(2) Akten über das Anerkennungsverfahren eines anerkannten
-Kriegsdienstverweigerers, der zivildienstpflichtig ist, werden mit
-Ausnahme des Anerkennungsbescheides spätestens sechs Monate nach
-Ableistung des Zivildienstes vernichtet; wird der anerkannte
-Kriegsdienstverweigerer nicht zum Zivildienst herangezogen, werden die
-Akten nach Ablauf des Jahres, in dem er das 32. Lebensjahr vollendet
-hat, vernichtet. Akten über das Anerkennungsverfahren einer
-anerkannten Kriegsdienstverweigerin oder eines anerkannten
-Kriegsdienstverweigerers, der nicht gemäß Artikel 12a Abs. 2 des
-Grundgesetzes zivildienstpflichtig ist, werden ein Jahr nach dem
-Abschluss des Anerkennungsverfahrens vernichtet. Die gemäß § 2 Abs. 6
-übermittelten Personalakten sind der für die Personalführung
+(2) Der Anerkennungsbescheid wird vom Bundesamt so lange aufbewahrt,
+wie dies zur Erfüllung der Wehrpflicht (§ 3 Absatz 3 bis 5 des
+Wehrpflichtgesetzes) erforderlich ist. Die übrigen Akten über das
+Anerkennungsverfahren eines anerkannten Kriegsdienstverweigerers, der
+zivildienstpflichtig ist, werden spätestens sechs Monate nach
+Ableistung des Zivildienstes vernichtet oder gelöscht; wird der
+anerkannte Kriegsdienstverweigerer nicht zum Zivildienst herangezogen,
+so werden die Akten nach Ablauf des Jahres vernichtet oder gelöscht,
+in dem er das 32. Lebensjahr vollendet hat. Akten über das
+Anerkennungsverfahren einer anerkannten Kriegsdienstverweigerin oder
+eines anerkannten Kriegsdienstverweigerers, die oder der nicht gemäß
+Artikel 12a Absatz 2 des Grundgesetzes zivildienstpflichtig ist,
+werden mit Ausnahme des Anerkennungsbescheids ein Jahr nach dem
+Abschluss des Anerkennungsverfahrens vernichtet. Die gemäß § 2 Absatz
+6 übermittelten Personalakten sind der für die Personalführung
 zuständigen Dienststelle, bei Grundwehrdienstpflichtigen,
-Reservistinnen und Reservisten dem zuständigen Kreiswehrersatzamt zu
-übermitteln.
+Reservistinnen und Reservisten dem zuständigen Bundesamt für das
+Personalmanagement der Bundeswehr zu übermitteln.
 
 (3) Nachdem die Entscheidung über die Ablehnung eines Antrags oder
 über den Widerruf oder die Rücknahme einer Anerkennung unanfechtbar
 geworden ist, übermittelt das Bundesamt die Personalakte der oder des
 Betroffenen ihrer oder seiner für die Personalführung zuständigen
 Dienststelle, bei Grundwehrdienstpflichtigen, Reservistinnen und
-Reservisten dem zuständigen Kreiswehrersatzamt. Das Gleiche gilt, wenn
-die Antragstellerin oder der Antragsteller den Antrag zurücknimmt oder
-auf die Anerkennung als Kriegsdienstverweigerin oder
-Kriegsdienstverweigerer verzichtet. Eine Ausfertigung der Entscheidung
-des Bundesamtes ist beizufügen.
+Reservisten dem zuständigen Bundesamt für das Personalmanagement der
+Bundeswehr. Das Gleiche gilt, wenn die Antragstellerin oder der
+Antragsteller den Antrag zurücknimmt oder auf die Anerkennung als
+Kriegsdienstverweigerin oder Kriegsdienstverweigerer verzichtet. Eine
+Ausfertigung der Entscheidung des Bundesamtes ist beizufügen.
 
 (4) Die Akten über das Anerkennungsverfahren von Wehrpflichtigen, die
 nicht als Kriegsdienstverweigerer anerkannt worden sind, werden vom
@@ -321,7 +332,17 @@ unverzüglich zu vernichten. Die Sätze 2 und 3 gelten auch für die in
 Dateien gespeicherten personenbezogenen Daten.
 
 
-## § 13 (weggefallen)
+## § 13 Anwendungsvorschrift
 
--
+(1) Entgegen § 2 Absatz 6 Satz 2 kann die Zuleitung des Antrags bei
+ungedienten Wehrpflichtigen, die vor dem 1. Januar 2010 geboren sind,
+ohne vorherige Musterung erfolgen.
+
+(2) Über Anträge, die ohne vorherige Musterung dem Bundesamt
+zugeleitet werden, soll spätestens innerhalb von neun Monaten seit
+Eingang beim Bundesamt für das Personalmanagement der Bundeswehr
+entschieden werden.
+
+(3) § 3 Absatz 2 Satz 2 und § 11 Absatz 1 Nummer 1 sind auf Fälle nach
+Absatz 1 nicht anzuwenden.
 
