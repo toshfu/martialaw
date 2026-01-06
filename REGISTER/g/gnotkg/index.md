@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 20 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
@@ -2048,7 +2048,7 @@ anhängig war, auch insoweit zuständig, als Kosten bei den anderen
 Gerichten angesetzt worden sind.
 
 (2) Gegen die Entscheidung über die Erinnerung ist die Beschwerde
-statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro
+statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
@@ -2117,7 +2117,7 @@ bis 5 Satz 1 und 4 und Absatz 6 und 8 ist entsprechend anzuwenden.
 
 (1) Gegen den Beschluss, durch den der Geschäftswert für die
 Gerichtsgebühren festgesetzt worden ist (§ 79), ist die Beschwerde
-statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro
+statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt. Die Beschwerde ist auch statthaft, wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
@@ -3379,6 +3379,27 @@ anzuwenden:
 
 An die Stelle der Kostenordnung treten dabei die in Satz 1 genannten
 Vorschriften.
+
+
+### § 137 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+(1) Die §§ 81 und 83 sind in ihrer bis einschließlich 31. Dezember
+2025 geltenden Fassung weiter anzuwenden
+
+1.  in gerichtlichen Verfahren, die vor dem 1. Januar 2026 anhängig
+    geworden oder eingeleitet worden sind;
+
+
+2.  in gerichtlichen Verfahren über ein Rechtsmittel, das vor dem 1.
+    Januar 2026 eingelegt worden ist.
+
+
+
+
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in allen
+übrigen Fällen, in denen Absatz 1 keine Anwendung findet, gelten für
+Kosten, die vor dem 1. Januar 2026 fällig geworden sind, die §§ 81 und
+83 in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung.
 
 (zu § 3 Absatz 2)
 
@@ -7415,7 +7436,7 @@ Teil 2
         6\. Erteilung einer Bescheinigung über Veränderungen hinsichtlich der
         Personen der Gesellschafter oder des Umfangs ihrer Beteiligung (§ 40
         Abs. 2 GmbHG), wenn Umstände außerhalb der Urkunde zu prüfen sind, und
-        7\. Entgegennahme der für den Gläubiger bestimmten Ausfertigung einer
+        7\. Entgegennahme der für den Gläubiger bestimmten
         Grundpfandrechtsbestellungsurkunde zur Herbeiführung der
         Bindungswirkung gemäß § 873 Abs. 2 BGB.
 
@@ -7981,7 +8002,7 @@ Teil 2
         (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein
         elektronisches Dokument übertragenes Schriftstück gleich, insbesondere
         wenn dieses einer vom Notar gefertigten elektronischen Niederschrift
-        beigefügt ist (§ 16d BeurkG).
+        beigefügt ist (§ 12 Abs. 1 Satz 2 BeurkG).
 
     *   1,00 €
         für jede
