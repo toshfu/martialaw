@@ -1019,52 +1019,22 @@ gemäß § 52b Absatz 6 Satz 4 übertragen worden ist.
 
 #### § 52b
 
-(1) Die Prozessakten können elektronisch geführt werden. Die
-Bundesregierung und die Landesregierungen bestimmen jeweils für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die
-Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind
-die organisatorisch-technischen Rahmenbedingungen für die Bildung,
-Führung und Verwahrung der elektronischen Akten festzulegen. Die
-Landesregierungen können die Ermächtigung auf die für die
+(1) Die Prozessakten werden elektronisch geführt. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die Ermächtigung nach Satz 2 auf die für die
 Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
-Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
-gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren die Prozessakten elektronisch zu führen
-sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der
-Zustimmung des Bundesrates.
+Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung
+des Bundesrates.
 
-(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Verwahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform weitergeführt werden. Die
-Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
-auf die für die Finanzgerichtsbarkeit zuständigen obersten
-Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung
-bedürfen nicht der Zustimmung des Bundesrates.
-
-(1b) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor
-dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten
-Stichtag oder Ereignis in elektronischer Form weitergeführt werden.
-Die Zulassung der Weiterführung in elektronischer Form kann auf
-einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
-Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt
-werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
-elektronischer Form weitergeführt werden. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
-Ermächtigung kann durch Rechtsverordnung auf die zuständige oberste
-Bundesbehörde oder auf die für die Finanzgerichtsbarkeit zuständigen
-obersten Landesbehörden übertragen werden.
-
-(2) Werden die Akten in Papierform geführt, ist von einem
+(2) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen. Werden die Akten in Papierform geführt, ist von einem
 elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
 dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
 unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
@@ -1131,7 +1101,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 5 des Aufenthaltsgesetzes erfolgen kann.
 
 
-#### § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+#### § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1139,9 +1109,11 @@ durch eine Behörde oder durch eine juristische Person des öffentlichen
 Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
 Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
 elektronisches Dokument zu übermitteln. Gleiches gilt für die nach
-diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer
-Übermittlungsweg nach § 52a Absatz 4 Satz 1 Nummer 2 zur Verfügung
-steht. Ist eine Übermittlung aus technischen Gründen vorübergehend
+diesem Gesetz vertretungsberechtigten Personen und Bevollmächtigten,
+für die ein sicherer Übermittlungsweg nach § 52a Absatz 4 Satz 1
+Nummer 2 oder Nummer 4 zur Verfügung steht; ausgenommen sind nach § 62
+Absatz 2 Satz 2 Nummer 1 Halbsatz 1 oder Nummer 2 vertretungsbefugte
+Personen. Ist eine Übermittlung aus technischen Gründen vorübergehend
 nicht möglich, bleibt die Übermittlung nach den allgemeinen
 Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der
 Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf
@@ -3291,9 +3263,9 @@ werden.
 
 ### § 162
 
-(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
-des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
-DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des
+Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN
+DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
 abweichend von den §§ 52a bis 52d in Papierform erstellt, geführt und
 übermittelt werden. Dokumente und Aktenteile, die nach den
 Verschlusssachenanweisungen des Bundes oder der Länder als
@@ -3301,21 +3273,6 @@ Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
 bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in
 Papierform übermittelt werden. Die für die Handhabung von
 Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
-
-(2) Die Bundesregierung und die Landesregierungen können abweichend
-von § 52b jeweils für ihren Bereich durch Rechtsverordnung bestimmen,
-dass Akten, die elektronisch angelegt wurden, ab einem bestimmten
-Ereignis bis zum 31. Dezember 2025 in Papierform weitergeführt werden.
-Die Zulassung der Weiterführung in Papierform kann auf einzelne
-Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit
-Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass
-durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist,
-geregelt wird, in welchen Verfahren Akten in elektronischer Form
-weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
-nicht der Zustimmung des Bundesrates. Die Ermächtigung kann durch
-Rechtsverordnung auf die zuständige oberste Bundesbehörde oder auf die
-für die Finanzgerichtsbarkeit zuständigen obersten Landesbehörden
-übertragen werden.
 
 
 ### (XXXX) §§ 163 bis 183 (weggefallen)
