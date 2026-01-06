@@ -1078,7 +1078,7 @@ worden sind.
 
 (2) Gegen die Entscheidung des Familiengerichts über die Erinnerung
 findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands
-200 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das
+300 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das
 Familiengericht, das die angefochtene Entscheidung erlassen hat, wegen
 der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in
 dem Beschluss zulässt.
@@ -1134,7 +1134,7 @@ gilt dies auch im Beschwerdeverfahren.
 (1) Gegen den Beschluss des Familiengerichts, durch den der
 Verfahrenswert für die Gerichtsgebühren festgesetzt worden ist (§ 55
 Abs. 2), findet die Beschwerde statt, wenn der Wert des
-Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde findet auch
+Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde findet auch
 statt, wenn sie das Familiengericht wegen der grundsätzlichen
 Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss
 zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in §
@@ -1162,7 +1162,7 @@ Wiedereinsetzung nicht mehr beantragt werden.
 #### § 60 Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
 
 Gegen den Beschluss des Familiengerichts nach § 32 findet die
-Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro
+Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt oder das Familiengericht die Beschwerde wegen der
 grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung
 stehenden Frage zugelassen hat. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs.
@@ -1281,6 +1281,21 @@ Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des
 Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die
 Nummern 2008 und 2009 des Kostenverzeichnisses in der bis zum 27.
 Dezember 2010 geltenden Fassung anzuwenden.
+
+
+#### § 65 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+(1) Die §§ 57, 59 und 60 sind in ihrer bis einschließlich 31. Dezember
+2025 geltenden Fassung weiter anzuwenden in Verfahren, die vor dem 1.
+Januar 2026 anhängig geworden oder eingeleitet worden sind. Dies gilt
+nicht im Verfahren über ein Rechtsmittel, das nach dem 31. Dezember
+2025 eingelegt worden ist.
+
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in allen
+übrigen Fällen, in denen Absatz 1 keine Anwendung findet, gelten für
+Kosten, die vor dem 1. Januar 2026 fällig geworden sind, die §§ 57, 59
+und 60 in ihrer bis einschließlich 31. Dezember 2025 geltenden
+Fassung.
 
 (zu § 3 Abs. 2)
 
