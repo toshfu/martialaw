@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 68 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 
 ## § 1 Ziel des Gesetzes
 
