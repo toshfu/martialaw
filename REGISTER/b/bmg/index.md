@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 12 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
@@ -324,13 +327,7 @@ erforderlichen Hinweise im Melderegister:
 
     den Namen und die Anschrift des Eigentümers der Wohnung und, wenn
     dieser nicht selbst Wohnungsgeber ist, den Namen des Eigentümers der
-    Wohnung sowie den Namen und die Anschrift des Wohnungsgebers,
-
-
-11. im Spannungs- oder Verteidigungsfall für die Wehrerfassung
-
-    die Tatsache, dass ein Einwohner bereits vor der Erfassung seines
-    Jahrganges erfasst worden ist.
+    Wohnung sowie den Namen und die Anschrift des Wohnungsgebers.
 
 
 
@@ -1875,20 +1872,12 @@ Vereinbarungen, wenn Daten übermittelt werden an
 
 #### § 36 Regelmäßige Datenübermittlungen
 
-(1) Datenübermittlungen an andere öffentliche Stellen, die ohne
-Ersuchen in allgemein bestimmten Fällen regelmäßig wiederkehrend
-durchgeführt werden (regelmäßige Datenübermittlungen), sind zulässig,
-soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass
-und Zweck der Übermittlungen, der Empfänger und die zu übermittelnden
-Daten festgelegt sind.
-
-(2) Eine Datenübermittlung nach § 58c Absatz 1 Satz 1 des
-Soldatengesetzes ist nur zulässig, soweit die betroffene Person nicht
-widersprochen hat. Bei einem Widerspruch hat die betroffene Person
-gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung
-einer Übermittlungssperre. Die betroffene Person ist auf ihr
-Widerspruchsrecht bei der Anmeldung und spätestens im Oktober eines
-jeden Jahres durch ortsübliche Bekanntmachung hinzuweisen.
+Datenübermittlungen an andere öffentliche Stellen, die ohne Ersuchen
+in allgemein bestimmten Fällen regelmäßig wiederkehrend durchgeführt
+werden (regelmäßige Datenübermittlungen), sind zulässig, soweit dies
+durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass und Zweck
+der Übermittlungen, der Empfänger und die zu übermittelnden Daten
+festgelegt sind.
 
 
 #### § 37 Datenweitergabe
@@ -2283,10 +2272,12 @@ Kindern. Familienangehörige, die nicht derselben oder keiner
 öffentlich-rechtlichen Religionsgesellschaft angehören, haben das
 Recht, der Übermittlung ihrer Daten zu widersprechen; sie sind auf
 dieses Recht bei der Anmeldung nach § 17 Absatz 1 sowie einmal
-jährlich durch ortsübliche Bekanntmachung hinzuweisen. § 36 Absatz 2
-Satz 2 gilt entsprechend. Satz 2 gilt nicht, soweit Daten für Zwecke
-des Steuererhebungsrechts der jeweiligen öffentlich-rechtlichen
-Religionsgesellschaft übermittelt werden.
+jährlich durch ortsübliche Bekanntmachung hinzuweisen. Bei einem
+Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein
+Recht auf unentgeltliche Einrichtung einer Übermittlungssperre. Satz 2
+gilt nicht, soweit Daten für Zwecke des Steuererhebungsrechts der
+jeweiligen öffentlich-rechtlichen Religionsgesellschaft übermittelt
+werden.
 
 (4) Für Datenübermittlungen nach den Absätzen 1 und 2 gilt § 34 Absatz
 5 entsprechend.
@@ -2718,7 +2709,9 @@ Absatz 2 und 3 gilt entsprechend.
 (5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten
 nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der
 Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche
-Bekanntmachung hinzuweisen. § 36 Absatz 2 Satz 2 gilt entsprechend.
+Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene
+Person gegenüber der Meldebehörde ein Recht auf unentgeltliche
+Einrichtung einer Übermittlungssperre.
 
 (6) Eine Erteilung von Auskünften nach den Absätzen 1 bis 3
 unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt. Eine
