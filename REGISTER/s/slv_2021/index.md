@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.12.2024 I Nr. 418
 
+Änderung durch
+:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
 ## Kapitel 1 - Allgemeines
@@ -33,7 +36,7 @@ Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
 
 2.  Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des
-    Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 4 oder 7
+    Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 3 oder 4
     des Wehrpflichtgesetzes leisten,
 
 
