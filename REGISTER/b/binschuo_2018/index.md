@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.10.2025 I Nr. 242
 
+Änderung durch
+:   Art. 1 V v. 17.12.2025 I Nr. 381 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F804091_01_BJNR139810018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2016/1629 des
     Europäischen Parlaments und des Rates vom 14. September 2016 zur
     Festlegung technischer Vorschriften für Binnenschiffe, zur Änderung
@@ -199,13 +202,11 @@ auf der Bundeswasserstraße Rhein in Kraft gesetzt.
 2.  ES-TRIN:
 
     Europäischer Standard der technischen Vorschriften für Binnenschiffe
-    in der Ausgabe 2023/1, der vom Europäischen Ausschuss für die
-    Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI)
-    angenommen wurde (Bekanntmachung des Bundesministeriums für Digitales
-    und Verkehr vom 16. März 2023, BAnz AT 02.05.2023 B3); bei der
-    Anwendung des ES-TRIN ist unter „Mitgliedstaat“ ein Mitgliedstaat der
-    Europäischen Union oder der Zentralkommission für die Rheinschifffahrt
-    zu verstehen,
+    in der Ausgabe 2025/1 in der Fassung der vom Bundesministerium für
+    Verkehr erfolgten Bekanntmachung vom 5. Dezember 2025 (BAnz AT
+    10\.12.2025 B4); bei der Anwendung des ES-TRIN ist unter Mitgliedstaat
+    ein Mitgliedstaat der Europäischen Union oder der Zentralkommission
+    für die Rheinschifffahrt zu verstehen,
 
 
 3.  Fahrtauglichkeitsbescheinigung:
@@ -397,12 +398,12 @@ bestimmte Vorschriften verweist, bedeuten:
     II S. 249, 250) in der jeweils innerstaatlich geltenden Fassung,
 
 
-16. BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung:
+16. Besondere Gebührenverordnung Wasserstraßen und Schifffahrt:
 
-    BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung vom
-    28\. Oktober 2021 (BGBl. I S. 4744), die zuletzt durch Artikel 1 der
-    Verordnung vom 25. März 2025 (BGBl. 2025 I Nr. 100) geändert worden
-    ist, in der jeweils geltenden Fassung.
+    Besondere Gebührenverordnung Wasserstraßen und Schifffahrt vom 28.
+    Oktober 2021 (BGBl. I S. 4744), die zuletzt durch Artikel 3 der
+    Verordnung vom 17. Dezember 2025 (BGBl. 2025 I Nr. 381) geändert
+    worden ist, in der jeweils geltenden Fassung.
 
 
 
@@ -1400,8 +1401,8 @@ Personen Auszüge daraus oder beglaubigte Abschriften aushändigen.
 
 (1) Der Eigner eines Fahrzeugs oder sein Bevollmächtigter trägt die
 Kosten, die durch die Untersuchung des Fahrzeugs und die Erteilung der
-Fahrtauglichkeitsbescheinigung entstehen, nach Maßgabe der BMDV-
-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung.
+Fahrtauglichkeitsbescheinigung entstehen, nach Maßgabe der Besondere
+Gebührenverordnung Wasserstraßen und Schifffahrt.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt kann vor der
 Untersuchung einen Vorschuss bis zur Höhe der voraussichtlichen Kosten
@@ -1632,7 +1633,7 @@ Sportbootvermietungsverordnung bleibt unberührt.
 
 § 31 gilt nicht für die Beförderung von Fahrgästen
 
-1.  auf einem Gütermotorschiff im Sinne des Artikels 1.01 Nummer 1.7 ES-
+1.  auf einem Gütermotorschiff im Sinne des Artikels 1.01 Nummer 1.6 ES-
     TRIN, wenn
 
     a)  der Haupterwerbszweck die Güterbeförderung ist und
@@ -1871,9 +1872,8 @@ Eigentümers oder Ausrüsters haben dafür zu sorgen, dass
         vorgeführt wird,
 
 
-    c)  des Artikels 18.01 Nummer 7 ES-TRIN oder des Artikels 18.09 Nummer 1
-        Satz 3 Buchstabe c ES-TRIN unverzüglich zu einer Sonderprüfung
-        vorgeführt wird,
+    c)  des Artikels 18.10 Nummer 1 Satz 3 ES-TRIN unverzüglich zu einer
+        Sonderprüfung vorgeführt wird,
 
 
 
@@ -1900,16 +1900,14 @@ Eigentümers oder Ausrüsters haben dafür zu sorgen, dass
             7\.04 ES-TRIN,
 
 
-        cc) die Antriebsanlagen nach Artikel 8.03 Nummer 2 ES-TRIN,
+        cc) (weggefallen)
 
 
         dd) die Signalleuchten nach Artikel 10.17 Nummer 3 und 4 Satz 2 und 3 ES-
             TRIN,
 
 
-        ee) die elektrischen Schiffsantriebe nach Artikel 11.01 Nummer 4 Satz 1,
-            Artikel 11.05, Artikel 11.07 Nummer 5, Artikel 11.09 Nummer 2
-            Buchstabe b ES-TRIN,
+        ee) (weggefallen)
 
 
         ff) die Brandmeldeanlage nach Artikel 13.05 Nummer 3 ES-TRIN und
@@ -1930,12 +1928,10 @@ Eigentümers oder Ausrüsters haben dafür zu sorgen, dass
         aa) die Alarmanlage nach Artikel 7.09 ES-TRIN,
 
 
-        bb) die Antriebsanlagen nach Artikel 8.03 Nummer 2 ES-TRIN,
+        bb) (weggefallen)
 
 
-        cc) die elektrischen Schiffsantriebe nach Artikel 11.01 Nummer 4 Satz 3,
-            Artikel 11.07 Nummer 5 Buchstabe c und Nummer 8, Artikel 11.09 Nummer
-            2 Buchstabe d ES-TRIN,
+        cc) (weggefallen)
 
 
         dd) die Warnanlagen von Feuerlöschanlagen nach Artikel 13.05 Nummer 6
@@ -1990,22 +1986,19 @@ Eigentümers oder Ausrüsters haben dafür zu sorgen, dass
     a)  die Reffvorschrift nach Anhang II § 7.04 Nummer 3,
 
 
-    b)  die Kopie des Typgenehmigungsbogens sowie die Anleitung des
-        Motorherstellers und das Motorparameterprotokoll nach Artikel 9.01
-        Nummer 3 ES-TRIN,
+    b)  (weggefallen)
 
 
-    c)  die Bescheinigung über die Prüfung des elektrischen Schiffsantriebs
-        nach Artikel 11.08 Nummer 2 ES-TRIN,
+    c)  (weggefallen)
 
 
     d)  die Bedienungsanleitung des Kranherstellers nach Artikel 14.12 Nummer
         9 ES-TRIN,
 
 
-    e)  die Kopie des Typgenehmigungsbogens und des
-        Bordkläranlagenparameterprotokolls nach Artikel 18.01 Nummer 5 Satz 4
-        und ein Wartungsnachweis nach Nummer 9 Satz 2 ES-TRIN oder
+    e)  das Betriebsführungshandbuch nach Artikel 18.01 Nummer 6 ES-TRIN mit
+        einem Nachweis über die letzte Wartung im Sinne des Artikels 18.01
+        Nummer 11 ES-TRIN,
 
 
     f)  je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
@@ -2051,7 +2044,7 @@ Eigentümers oder Ausrüsters haben dafür zu sorgen, dass
     c)  von Druckbehältern nach Artikel 8.01 ES-TRIN,
 
 
-    d)  von elektrischen Schiffsantrieben nach Artikel 11.08 ES-TRIN,
+    d)  (weggefallen)
 
 
     e)  von tragbaren Feuerlöschern nach Artikel 13.03 Nummer 5 ES-TRIN,
@@ -2258,7 +2251,7 @@ sorgen, dass
 
 
 5.  eine stillgelegte Bordkläranlage erst dann wieder in Betrieb genommen
-    wird, wenn die nach Artikel 18.09 Nummer 5 ES-TRIN vorgeschriebene
+    wird, wenn die nach Artikel 18.10 Nummer 5 ES-TRIN vorgeschriebene
     Sonderprüfung durchgeführt worden ist,
 
 
@@ -2367,8 +2360,7 @@ einen Schwimmkörper nur führen, wenn
         worden ist,
 
 
-    c)  des Artikels 18.01 Nummer 7 ES-TRIN oder des Artikels 18.09 Nummer 1
-        Satz 3 Buchstabe c ES-TRIN in Verbindung mit dessen Nummer 3 zu einer
+    c)  des Artikels 18.10 Nummer 1 Satz 3 Buchstabe c ES-TRIN zu einer
         Sonderprüfung vorgeführt worden ist,
 
 
@@ -2400,16 +2392,15 @@ einen Schwimmkörper nur führen, wenn
             7\.04 ES-TRIN,
 
 
-        cc) die Antriebsanlagen nach Artikel 8.03 Nummer 2 ES-TRIN,
+        cc) (weggefallen)
 
 
         dd) die Signalleuchten nach Artikel 10.17 Nummer 3 und 4 Satz 2 und 3 ES-
             TRIN,
 
 
-        ee) die elektrischen Schiffsantriebe nach Artikel 11.01 Nummer 4 Satz 1,
-            Artikel 11.05, Artikel 11.07 Nummer 5, Artikel 11.09 Nummer 2
-            Buchstabe b ES-TRIN,
+        ee) die elektrischen Schiffsantriebe nach den Artikeln 11.05 und 11.07
+            Nummer 3 ES-TRIN,
 
 
         ff) die Brandmeldeanlagen nach Artikel 13.05 Nummer 3 ES-TRIN und
@@ -2430,12 +2421,10 @@ einen Schwimmkörper nur führen, wenn
         aa) die Alarmanlage nach Artikel 7.09 ES-TRIN,
 
 
-        bb) die Antriebsanlagen nach Artikel 8.03 Nummer 2 ES-TRIN,
+        bb) (weggefallen)
 
 
-        cc) die elektrischen Schiffsantriebe nach Artikel 11.01 Nummer 4 Satz 3,
-            Artikel 11.07 Nummer 5 Buchstabe c und Nummer 8, Artikel 11.09 Nummer
-            2 Buchstabe d ES-TRIN,
+        cc) (weggefallen)
 
 
         dd) die Warnanlagen von Feuerlöschanlagen nach Artikel 13.05 Nummer 6
@@ -2490,25 +2479,22 @@ einen Schwimmkörper nur führen, wenn
     a)  die Reffvorschrift nach Anhang II § 7.04 Nummer 3,
 
 
-    b)  die Kopie des Typgenehmigungsbogens sowie die Anleitung des
-        Motorherstellers und das Motorparameterprotokoll nach Artikel 9.01
-        Nummer 3 ES-TRIN,
+    b)  (weggefallen)
 
 
     c)  die genannten Unterlagen für elektrische Geräte und Anlagen nach
         Artikel 10.01 Nummer 2 Satz 1 ES-TRIN,
 
 
-    d)  die Bescheinigung über die Prüfung des elektrischen Schiffsantriebs
-        nach Artikel 11.08 Nummer 2 ES-TRIN,
+    d)  (weggefallen)
 
 
     e)  die Bedienungsanleitung des Krans nach Artikel 14.12 Nummer 9 ES-TRIN,
 
 
-    f)  die Kopie des Typgenehmigungsbogens und des
-        Bordkläranlagenparameterprotokolls nach Artikel 18.01 Nummer 5 Satz 4
-        oder ein Wartungsnachweis nach Nummer 9 Satz 2 ES-TRIN oder
+    f)  das Betriebsführungshandbuch nach Artikel 18.01 Nummer 6 ES-TRIN mit
+        einem Nachweis über die letzte Wartung im Sinne des Artikels 18.01
+        Nummer 11 ES-TRIN oder
 
 
     g)  je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
@@ -2543,7 +2529,7 @@ einen Schwimmkörper nur führen, wenn
     c)  Druckbehälter nach Artikel 8.01 ES-TRIN,
 
 
-    d)  elektrische Schiffsantriebe nach Artikel 11.08 ES-TRIN,
+    d)  (weggefallen)
 
 
     e)  tragbare Feuerlöscher nach Artikel 13.03 Nummer 5 Satz 2 ES-TRIN,
@@ -2625,28 +2611,21 @@ einen Schwimmkörper nur führen, wenn
         ES-TRIN,
 
 
-    b)  die Kopie des Typgenehmigungsbogens sowie die Anleitung des
-        Motorherstellers und das Motorparameterprotokoll nach Artikel 9.01
-        Nummer 3 ES-TRIN,
+    b)  (weggefallen)
 
 
     c)  die genannten Unterlagen für elektrische Geräte und Anlagen nach
         Artikel 10.01 Nummer 2 Satz 1 ES-TRIN,
 
 
-    d)  die Bescheinigung für elektrische Schiffsantriebe nach Artikel 11.08
-        Nummer 2 ES-TRIN,
+    d)  (weggefallen)
 
 
-    e)  die Bedienungsanleitung des Krans nach Artikel 14.12 Nummer 9 ES-TRIN,
+    e)  die Bedienungsanleitung des Krans nach Artikel 14.12 Nummer 9 ES-TRIN
+        oder
 
 
-    f)  die Kopie des Typgenehmigungsbogens und des
-        Bordkläranlagenparameterprotokolls nach Artikel 18.01 Nummer 5 Satz 4
-        oder ein Wartungsnachweis nach Nummer 9 Satz 2 ES-TRIN oder
-
-
-    g)  je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
+    f)  je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
 
 
 
