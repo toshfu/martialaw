@@ -2882,19 +2882,7 @@ Abgabeort gegenüber steht oder er dafür Mineralölprodukte erwirbt, die
 nicht unter die Vorschrift des Satzes 1 fallen. Satz 9 gilt auch für
 die nachfolgenden Abgaben des Kraftstoffs.
 
-(2) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen
-nach § 27 Absatz 2 und 3 des Energiesteuergesetzes steuerbefreiten
-oder nach § 2 Absatz 1 Nummer 3 des Energiesteuergesetzes zu
-versteuernden Flugturbinenkraftstoff der Unterposition 2710 19 21 der
-Kombinierten Nomenklatur in Verkehr bringt, hat sicherzustellen, dass
-die im gesamten Verpflichtungsjahr von ihm in Verkehr gebrachte Menge
-Kraftstoffs die Vorgaben des Absatzes 4a eingehalten werden. Als in
-Verkehr gebracht gilt Flugturbinenkraftstoff mit dem Entstehen der
-Energiesteuer nach § 8 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 und §
-19b Absatz 1 des Energiesteuergesetzes; dies gilt auch, wenn sich an
-die Entnahme ein Verfahren der Steuerbefreiung nach § 24 in Verbindung
-mit § 27 Absatz 2 und 3 des Energiesteuergesetzes anschließt. Absatz 1
-Satz 3 bis 10 gilt entsprechend.
+(2) (weggefallen)
 
 (3) Verpflichteter nach Absatz 1 Satz 1 und 2 ist der jeweilige
 Steuerschuldner im Sinne des Energiesteuergesetzes. Abweichend von
@@ -2902,22 +2890,7 @@ Satz 1 ist in den Fällen des § 7 Absatz 4 Satz 1 des
 Energiesteuergesetzes der Dritte (Einlagerer) Verpflichteter. In den
 Fällen des § 22 Absatz 1 des Energiesteuergesetzes gilt allein
 derjenige als Verpflichteter im Sinne von Satz 1, der eine der dort
-jeweils genannten Handlungen zuerst vornimmt. Verpflichteter nach
-Absatz 2 Satz 1 und 2 ist der jeweilige Steuerschuldner im Sinne des
-Energiesteuergesetzes oder der Steuerlagerinhaber, der
-Flugturbinenkraftstoff zu steuerfreien Zwecken nach § 27 Absatz 2 und
-3 des Energiesteuergesetzes abgibt. Verpflichteter ist abweichend von
-Satz 4
-
-1.  in den Fällen des § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der
-    Einlagerer,
-
-
-2.  in den Fällen des § 7 Absatz 6 des Energiesteuergesetzes derjenige,
-    der die Betankung kaufmännisch veranlasst hat.
-
-
-
+jeweils genannten Handlungen zuerst vornimmt.
 
 (4) Verpflichtete nach Absatz 1 haben sicherzustellen, dass die
 Treibhausgasemissionen der von ihnen in Verkehr gebrachten fossilen
@@ -3025,39 +2998,7 @@ Energiesteuergesetzes gewährt wurde oder wird, nicht zu
 berücksichtigen. In den Fällen des Absatzes 5 Satz 1 Nummer 2 und 3
 gilt Satz 9 unabhängig von der Person des Entlastungsberechtigten.
 
-(4a) Verpflichtete nach Absatz 2 haben einen Mindestanteil an
-Kraftstoff, der Flugturbinenkraftstoff ersetzt, aus erneuerbaren
-Energien nicht-biogenen Ursprungs sicherzustellen. Die Höhe des in
-Satz 1 genannten Anteils beträgt
-
-*    *   1.
-
-    *   ab dem Kalenderjahr 2026
-
-    *   0,5 Prozent,
-
-
-*    *   2.
-
-    *   ab dem Kalenderjahr 2028
-
-    *   1 Prozent,
-
-
-*    *   3.
-
-    *   ab dem Kalenderjahr 2030
-
-    *   2 Prozent.
-
-
-
-Die Mindestanteile von Kraftstoff aus erneuerbaren Energien nicht-
-biogenen Ursprungs beziehen sich jeweils auf den Energiegehalt der
-Menge fossilen Flugturbinenkraftstoffs zuzüglich des Energiegehalts an
-Kraftstoff aus erneuerbaren Energien nicht-biogenen Ursprungs.
-Anforderungen an diese Kraftstoffe regelt eine Rechtsverordnung nach §
-37d Absatz 2 Satz 1.
+(4a) (weggefallen)
 
 (5) Die Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit
 dem Absatz 4 können von Verpflichteten erfüllt werden durch folgende
@@ -3122,95 +3063,59 @@ Optionen (Erfüllungsoptionen):
 Erfüllungsoptionen nach Satz 1 Nummer 6 bis 8 werden mindestens mit
 dem Doppelten ihres Energiegehaltes auf die Erfüllung der
 Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit dem
-Absatz 4 angerechnet. Die Verpflichtung nach Absatz 2 in Verbindung
-mit Absatz 4a wird von Verpflichteten durch das Inverkehrbringen von
-flüssigen oder gasförmigen erneuerbaren Kraftstoffen nicht-biogenen
-Ursprungs erfüllt, soweit eine Rechtsverordnung der Bundesregierung
-nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
+Absatz 4 angerechnet.
 
-(6) Die Erfüllung von Verpflichtungen
-
-1.  nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 und
-
-
-2.  nach Absatz 2 in Verbindung mit Absatz 4a
-
-
-
-kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der
-nicht selbst Verpflichteter ist, übertragen werden. Der Vertrag muss
-mengenmäßige Angaben zum Umfang der vom Dritten gegenüber dem
-Verpflichteten eingegangenen Verpflichtung enthalten sowie Angaben,
-für welche Erfüllungsoptionen die Übertragung gilt. Außerdem muss der
-Vertrag Angaben zu den Treibhausgasemissionen der Kraftstoffe in
-Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann den
-Vertrag ausschließlich durch Erfüllungsoptionen erfüllen, die er im
-Verpflichtungsjahr einsetzt oder eingesetzt hat. Abweichend von Satz 4
-kann der Dritte Verträge nach Satz 3 auch durch Erfüllungsoptionen
-erfüllen, die er bereits im Vorjahr des Verpflichtungsjahres in
-Verkehr gebracht hat, wenn die Erfüllungsoptionen nicht bereits
-Gegenstand eines Vertrages nach Satz 1 waren und der Dritte im Vorjahr
-des Verpflichtungsjahres nicht selbst Verpflichteter gewesen ist.
-Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 5 Satz 1 und 2 gelten
-entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis
-6 ist der Verpflichtete so zu behandeln, als hätte er die vom Dritten
-eingesetzten Erfüllungsoptionen im Verpflichtungsjahr selbst in
-Verkehr gebracht. Absatz 4 Satz 3 bis 10 gelten entsprechend. Die vom
-Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung
-eingesetzten Erfüllungsoptionen können nicht zur Erfüllung der
-Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
-
-(7) Die Erfüllung von Verpflichtungen
-
-1.  nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 und
-
-
-2.  nach Absatz 2 in Verbindung mit Absatz 4a
-
-
-
-kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der
-selbst Verpflichteter ist, übertragen werden. Absatz 6 Satz 2 gilt
-entsprechend. Der Vertrag zur Erfüllung von Verpflichtungen nach
-Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 muss Angaben zum
-Umfang der vom Dritten im Verpflichtungsjahr sicherzustellenden
-Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent
-enthalten. Der Vertrag zur Erfüllung von Verpflichtungen nach Absatz 2
-Satz 1 und 2 in Verbindung mit Absatz 4a muss Angaben zum Umfang der
-vom Dritten im Verpflichtungsjahr sicherzustellenden energetischen
-Menge erneuerbarer Kraftstoffe nicht-biogenen Ursprungs nach Absatz 5
-Satz 2 in Gigajoule enthalten. Der Dritte kann Verträge ausschließlich
-durch Erfüllungsoptionen erfüllen, die er im Verpflichtungsjahr
-einsetzt oder eingesetzt hat. Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz
-5 Satz 1 und 2 gelten entsprechend. Bei Vorliegen der Voraussetzungen
-nach den Sätzen 1 bis 5 werden zugunsten des Verpflichteten
-berücksichtigt
-
-1.  im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 4 die vom
-    Dritten erreichte Treibhausgasminderungsmenge ausschließlich bei der
-    Berechnung der Treibhausgasemissionen nach Absatz 4 Satz 5 und 6 und
-
-
-2.  im Fall des Absatzes 2 in Verbindung mit Absatz 4a die vom Dritten
-    eingesetzten Erfüllungsoptionen ausschließlich bei der Ermittlung der
-    Mindestanteile von erneuerbaren Kraftstoffen nicht-biogenen Ursprungs
-    nach Absatz 4a Satz 3.
-
-
-
-Im Fall des Satzes 6 Nummer 1 berechnet sich die
-Treibhausgasminderungsmenge in entsprechender Anwendung des Absatzes 4
-Satz 3 bis 10. Die vom Dritten zur Erfüllung einer nach Satz 1
-übertragenen Verpflichtung eingesetzten Treibhausgasminderungs- und
-Kraftstoffmengen können nicht zur Erfüllung der eigenen Verpflichtung
-des Dritten oder der Verpflichtung eines weiteren Verpflichteten
+(6) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in
+Verbindung mit Absatz 4 kann durch Vertrag, der der Schriftform
+bedarf, auf einen Dritten, der nicht selbst Verpflichteter ist,
+übertragen werden. Der Vertrag muss mengenmäßige Angaben zum Umfang
+der vom Dritten gegenüber dem Verpflichteten eingegangenen
+Verpflichtung enthalten sowie Angaben, für welche Erfüllungsoptionen
+die Übertragung gilt. Außerdem muss der Vertrag Angaben zu den
+Treibhausgasemissionen der Kraftstoffe in Kilogramm Kohlenstoffdioxid-
+Äquivalent enthalten. Der Dritte kann den Vertrag ausschließlich durch
+Erfüllungsoptionen erfüllen, die er im Verpflichtungsjahr einsetzt
+oder eingesetzt hat. Abweichend von Satz 4 kann der Dritte Verträge
+nach Satz 3 auch durch Erfüllungsoptionen erfüllen, die er bereits im
+Vorjahr des Verpflichtungsjahres in Verkehr gebracht hat, wenn die
+Erfüllungsoptionen nicht bereits Gegenstand eines Vertrages nach Satz
+1 waren und der Dritte im Vorjahr des Verpflichtungsjahres nicht
+selbst Verpflichteter gewesen ist. Absatz 1 Satz 2 und Absatz 5 Satz 1
+und 2 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den
+Sätzen 1 bis 6 ist der Verpflichtete so zu behandeln, als hätte er die
+vom Dritten eingesetzten Erfüllungsoptionen im Verpflichtungsjahr
+selbst in Verkehr gebracht. Absatz 4 Satz 3 bis 10 gelten
+entsprechend. Die vom Dritten zur Erfüllung einer nach Satz 1
+übertragenen Verpflichtung eingesetzten Erfüllungsoptionen können
+nicht zur Erfüllung der Verpflichtung eines weiteren Verpflichteten
 eingesetzt werden.
 
-(8) Treibhausgasminderungs- oder Kraftstoffmengen, die den nach den
-Absätzen 4 oder 4a vorgeschriebenen Prozentsatz oder Mindestanteil für
-ein bestimmtes Verpflichtungsjahr übersteigen, werden auf Antrag des
-Verpflichteten auf den Prozentsatz oder Mindestanteil des folgenden
-Kalenderjahres angerechnet.
+(7) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in
+Verbindung mit Absatz 4 kann durch Vertrag, der der Schriftform
+bedarf, auf einen Dritten, der selbst Verpflichteter ist, übertragen
+werden. Absatz 6 Satz 2 gilt entsprechend. Der Vertrag zur Erfüllung
+von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit
+Absatz 4 muss Angaben zum Umfang der vom Dritten im Verpflichtungsjahr
+sicherzustellenden Treibhausgasminderungsmenge in Kilogramm
+Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann Verträge
+ausschließlich durch Erfüllungsoptionen erfüllen, die er im
+Verpflichtungsjahr einsetzt oder eingesetzt hat. Absatz 1 Satz 2 und
+Absatz 5 Satz 1 und 2 gelten entsprechend. Bei Vorliegen der
+Voraussetzungen nach den Sätzen 1 bis 4 wird zugunsten des
+Verpflichteten die vom Dritten erreichte Treibhausgasminderungsmenge
+ausschließlich bei der Berechnung der Treibhausgasemissionen nach
+Absatz 4 Satz 5 und 6 berücksichtigt. Im Fall des Satzes 6 Nummer 1
+berechnet sich die Treibhausgasminderungsmenge in entsprechender
+Anwendung des Absatzes 4 Satz 3 bis 10. Die vom Dritten zur Erfüllung
+einer nach Satz 1 übertragenen Verpflichtung eingesetzten
+Treibhausgasminderungs- und Kraftstoffmengen können nicht zur
+Erfüllung der eigenen Verpflichtung des Dritten oder der Verpflichtung
+eines weiteren Verpflichteten eingesetzt werden.
+
+(8) Treibhausgasminderungsmengen, die den nach Absatz 4 Satz 2
+vorgeschriebenen Prozentsatz für ein bestimmtes Verpflichtungsjahr
+übersteigen, werden auf Antrag des Verpflichteten auf den Prozentsatz
+des folgenden Kalenderjahres angerechnet.
 
 
 #### § 37b Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen
@@ -3333,8 +3238,7 @@ des 15. April des auf das Verpflichtungsjahr folgenden Kalenderjahres
 schriftlich mitzuteilen
 
 1.  die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge
-    fossilen Otto- und fossilen Dieselkraftstoffs oder fossilen
-    Flugturbinenkraftstoffs,
+    fossilen Otto- und fossilen Dieselkraftstoffs,
 
 
 2.  die im Verpflichtungsjahr von ihnen eingesetzte Menge an
@@ -3383,37 +3287,26 @@ und führt ein elektronisches Register, das für alle Verpflichteten die
 nach den Sätzen 1 bis 6 erforderlichen Angaben enthält.
 
 (2) Soweit Verpflichtete einer Verpflichtung nach § 37a Absatz 1 Satz
-1 und 2 in Verbindung mit § 37a Absatz 4 oder nach § 37a Absatz 2 Satz
-1 und 2 in Verbindung mit § 37a Absatz 4a nicht nachkommen, setzt die
-zuständige Stelle eine Abgabe fest
-
-1.  in den Fällen des § 37a Absatz 4 für die Fehlmenge der zu mindernden
-    Treibhausgasemissionen oder
-
-
-2.  in den Fällen des § 37a Absatz 4a für die nach dem Energiegehalt
-    berechnete Fehlmenge Kraftstoffs.
-
-
-
-Die Abgabenschuld des Verpflichteten entsteht mit Ablauf des 15.
-Aprils des auf das Verpflichtungsjahr folgenden Kalenderjahres. In den
-Fällen, in denen ein Verpflichteter durch eine Rechtsverordnung der
-Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 8 einen
-Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer
-Kraftstoffe in Verkehr zu bringen hat, setzt die zuständige Stelle bis
-einschließlich zum Verpflichtungsjahr 2021 eine Abgabe in Höhe von 19
-Euro pro Gigajoule und ab dem Verpflichtungsjahr 2022 eine Abgabe in
-Höhe von 45 Euro pro Gigajoule fest. In den Fällen des § 37a Absatz 4a
-beträgt die Höhe der Abgabe 70 Euro pro Gigajoule. In den Fällen des §
-37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu mindernden
-Treibhausgasemissionen berechnet und beträgt bis einschließlich zum
-Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm Kohlenstoffdioxid-
-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60 Euro pro Kilogramm
-Kohlenstoffdioxid-Äquivalent. Soweit im Falle des § 37a Absatz 6 Satz
-1 oder des § 37a Absatz 7 Satz 1 der Dritte seine vertragliche
-Verpflichtung nicht erfüllt, setzt die zuständige Stelle die Abgabe
-gegen den Verpflichteten fest.
+1 und 2 in Verbindung mit § 37a Absatz 4 nicht nachkommen, setzt die
+zuständige Stelle eine Abgabe fest für die Fehlmenge der zu mindernden
+Treibhausgasemissionen oder für die nach dem Energiegehalt berechnete
+Fehlmenge an Kraftstoff. Die Abgabenschuld des Verpflichteten entsteht
+mit Ablauf des 15. Aprils des auf das Verpflichtungsjahr folgenden
+Kalenderjahres. In den Fällen, in denen ein Verpflichteter durch eine
+Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer
+8 einen Mindestanteil bestimmter Biokraftstoffe oder anderer
+erneuerbarer Kraftstoffe in Verkehr zu bringen hat, setzt die
+zuständige Stelle bis einschließlich zum Verpflichtungsjahr 2021 eine
+Abgabe in Höhe von 19 Euro pro Gigajoule und ab dem Verpflichtungsjahr
+2022 eine Abgabe in Höhe von 45 Euro pro Gigajoule fest. In den Fällen
+des § 37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu
+mindernden Treibhausgasemissionen berechnet und beträgt bis
+einschließlich zum Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm
+Kohlenstoffdioxid-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60
+Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent. Soweit im Falle des §
+37a Absatz 6 Satz 1 oder des § 37a Absatz 7 Satz 1 der Dritte seine
+vertragliche Verpflichtung nicht erfüllt, setzt die zuständige Stelle
+die Abgabe gegen den Verpflichteten fest.
 
 (3) Soweit der Verpflichtete der zuständigen Stelle die nach Absatz 1
 Satz 1 und 3 erforderlichen Angaben nicht oder nicht ordnungsgemäß
@@ -3421,9 +3314,8 @@ mitgeteilt hat, schätzt die zuständige Stelle die vom Verpflichteten
 im Verpflichtungsjahr in Verkehr gebrachten Mengen an Kraftstoffen und
 auch die Treibhausgasminderung. Die Schätzung ist unwiderlegliche
 Basis für die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in
-Verbindung mit § 37a Absatz 4 sowie nach § 37a Absatz 2 Satz 1 und 2
-in Verbindung mit § 37a Absatz 4a. Die Schätzung unterbleibt, soweit
-der Verpflichtete im Rahmen der Anhörung zum Festsetzungsbescheid nach
+Verbindung mit § 37a Absatz 4. Die Schätzung unterbleibt, soweit der
+Verpflichtete im Rahmen der Anhörung zum Festsetzungsbescheid nach
 Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 3, 4 oder Satz 5 die
 Mitteilung nachholt. Soweit ein Dritter die nach Absatz 1 Satz 4 bis 6
 erforderlichen Angaben nicht ordnungsgemäß mitgeteilt hat, geht die
