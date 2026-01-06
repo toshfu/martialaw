@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 22.1.2025 I Nr. 23
 
+Änderung durch
+:   Art. 15 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -86,9 +89,10 @@ der Anwendung anzugeben.
 
 Die Meldebehörden übermitteln gemäß § 58c Absatz 1 des
 Soldatengesetzes an das Bundesamt für das Personalmanagement der
-Bundeswehr für die Übersendung von Informationsmaterial jährlich bis
-zum 31. März folgende Daten zu Personen mit deutscher
-Staatsangehörigkeit, die im nächsten Jahr volljährig werden:
+Bundeswehr für die Übersendung von Informationsmaterial über
+Tätigkeiten in den Streitkräften jährlich bis zum 31. März folgende
+Daten zu Personen mit deutscher Staatsangehörigkeit, die im nächsten
+Jahr volljährig werden:
 
 *    *
     *
@@ -118,8 +122,6 @@ Staatsangehörigkeit, die im nächsten Jahr volljährig werden:
 
 
 
-Die Datenübermittlung unterbleibt, wenn die betroffene Person ihr nach
-§ 36 Absatz 2 des Bundesmeldegesetzes widersprochen hat.
 
 
 ## § 5 (wegefallen)
