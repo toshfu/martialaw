@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 219
 
 Zuletzt geändert durch
-:   Art. 13 G v. 8.12.2025 I Nr. 319
+:   Art. 18 G v. 22.12.2025 I Nr. 369
 
 
 ## Erstes Buch - Handelsstand
@@ -4516,6 +4516,23 @@ auch nach Satz 1 aufbewahrt werden.
 (4) Die in Absatz 1 Nummer 1 aufgeführten Unterlagen sind zehn Jahre,
 die in Absatz 1 Nummer 4 aufgeführten Unterlagen acht Jahre und die
 sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre
+aufzubewahren. Abweichend von Satz 1 sind bei Personen oder
+Gesellschaften, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind,
+    einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes
+    unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes sind,
+
+
+
+die in Absatz 1 Nummer 4 aufgeführten Unterlagen zehn Jahre
 aufzubewahren.
 
 (5) Die Aufbewahrungsfrist beginnt mit dem Schluß des Kalenderjahrs,
@@ -10592,15 +10609,15 @@ und 8 gelten entsprechend.
 Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind die
 folgenden Vorschriften entsprechend anzuwenden:
 
-1.  § 110a Absatz 1 Satz 1 und § 110c des Gesetzes über
-    Ordnungswidrigkeiten sowie
+1.  § 110a Absatz 1 und § 110c des Gesetzes über Ordnungswidrigkeiten
+    sowie
 
 
-2.  § 110a Absatz 1 Satz 2 und 3, Absatz 2 Satz 1 und § 134 Satz 1 des
-    Gesetzes über Ordnungswidrigkeiten mit der Maßgabe, dass die
-    Landesregierung des Landes, in dem das Bundesamt seinen Sitz hat, die
-    Rechtsverordnung erlässt und die Ermächtigungen durch Rechtsverordnung
-    auf die Landesjustizverwaltung übertragen kann.
+2.  § 110a Absatz 2 Satz 1 und § 134 Satz 1 des Gesetzes über
+    Ordnungswidrigkeiten mit der Maßgabe, dass die Landesregierung des
+    Landes, in dem das Bundesamt seinen Sitz hat, die Rechtsverordnung
+    erlässt und die Ermächtigungen durch Rechtsverordnung auf die
+    Landesjustizverwaltung übertragen kann.
 
 
 
