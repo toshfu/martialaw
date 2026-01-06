@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 Abs. 4 G v. 20.12.2022 I 2730
 
+Änderung durch
+:   Art. 12 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -1386,11 +1389,13 @@ Versicherungsbetriebsstätten ausländischer Versicherungsunternehmen
 ist der Versicherungsbetriebsstätte in einem ersten Schritt ein Anteil
 an den Vermögenswerten des ausländischen Versicherungsunternehmens
 zuzuordnen, die der Bedeckung der versicherungstechnischen
-Rückstellungen und des Eigenkapitals des ausländischen
-Versicherungsunternehmens dienen. Der Anteil der
-Versicherungsbetriebsstätte bemisst sich nach dem Verhältnis der
-versicherungstechnischen Rückstellungen für Versicherungsverträge, die
-der inländischen Versicherungsbetriebsstätte zuzuordnen sind, zu den
+Rückstellungen, des Eigenkapitals und der aus
+Versicherungsverhältnissen entstandenen Verbindlichkeiten und
+Rechnungsabgrenzungsposten des ausländischen Versicherungsunternehmens
+dienen. Der Anteil der Versicherungsbetriebsstätte bemisst sich nach
+dem Verhältnis der versicherungstechnischen Rückstellungen für
+Versicherungsverträge, die der inländischen
+Versicherungsbetriebsstätte zuzuordnen sind, zu den
 versicherungstechnischen Rückstellungen, die in der Bilanz des
 ausländischen Versicherungsunternehmens insgesamt ausgewiesen sind.
 
@@ -1413,23 +1418,37 @@ Versicherungsbetriebsstätte nur zuordnen, soweit dies zu einem
 Ergebnis der inländischen Versicherungsbetriebsstätte führt, das im
 Verhältnis zum übrigen Unternehmen dem Fremdvergleichsgrundsatz auf
 Grund der ihr zugeordneten Vermögenswerte sowie der ihr zugeordneten
-Chancen und Risiken besser entspricht. Die inländische
-Versicherungsbetriebsstätte muss mindestens ein Dotationskapital
-ausweisen, das sie nach versicherungsaufsichtsrechtlichen Grundsätzen
-als Eigenkapital ausweisen müsste, wenn sie ein rechtlich
-selbständiges Versicherungsunternehmen wäre
+Chancen und Risiken besser entspricht.
+
+(4) Ungeachtet der Absätze 1 bis 3 hat die inländische
+Versicherungsbetriebsstätte mindestens ein Dotationskapital
+auszuweisen, das sie nach versicherungsaufsichtsrechtlichen
+Grundsätzen als Eigenkapital ausweisen müsste, wenn sie ein rechtlich
+selbständiges Versicherungsunternehmen wäre. Als Mindestkapital gilt
+die Mindestkapitalanforderung nach der Kapitalausstattungs-Verordnung
 (Mindestkapitalausstattungsmethode für Versicherungsbetriebsstätten).
+Wird die Mindestkapitalausstattungsmethode für
+Versicherungsbetriebsstätten angewandt, ist das Dotationskapital um 20
+Prozent der Mindestkapitalanforderung zu erhöhen, es sei denn, ein
+geringerer Zuschlag führt zu einem Ergebnis der
+Versicherungsbetriebsstätte, das dem Fremdvergleichsgrundsatz besser
+entspricht.
 
-(4) Weicht das Dotationskapital, das einer inländischen
-Versicherungsbetriebsstätte vom ausländischen Versicherungsunternehmen
-zugeordnet wurde, von dem Dotationskapital ab, das nach Absatz 2
-zuzuordnen ist, so sind die nach Absatz 1 zuzuordnenden Vermögenswerte
-dem Dotationskapital nach Absatz 2 anzupassen.
+(5) Sofern das in der inländischen Handelsbilanz der inländischen
+Versicherungsbetriebsstätte tatsächlich ausgewiesene Kapital den nach
+den Absätzen 1 bis 4 ermittelten Betrag übersteigt, ist dieses als
+Dotationskapital zuzuordnen.
 
-(5) § 12 Absatz 6 ist mit der Maßgabe anzuwenden, dass die Höhe des
+(6) § 12 Absatz 6 ist mit der Maßgabe anzuwenden, dass die Höhe des
 zuzuordnenden Dotationskapitals auch anzupassen ist, soweit dies das
-inländische Versicherungsaufsichtsrecht erfordert. Im Übrigen gilt §
-12 sinngemäß.
+inländische Versicherungsaufsichtsrecht erfordert. Im Übrigen gilt
+§ 12 sinngemäß.
+
+(7) Weicht das Dotationskapital, das einer inländischen
+Versicherungsbetriebsstätte vom ausländischen Versicherungsunternehmen
+zugeordnet wurde, von dem Dotationskapital ab, das nach den Absätzen 1
+bis 6 zuzuordnen ist, so sind die zugeordneten Vermögenswerte um den
+Unterschiedsbetrag anzupassen.
 
 
 ### § 26 Dotationskapital ausländischer Versicherungsbetriebsstätten inländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht
