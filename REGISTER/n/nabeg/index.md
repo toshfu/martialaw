@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 16 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 351 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G ist gem. Art. 7 Abs. 1 G v. 28.7.2011 I 1690 am 5.8.2011 in Kraft getreten
 
@@ -989,11 +989,7 @@ auf Grund einer überschlägigen Prüfung der insoweit
 abwägungsrelevanten Belange nach § 1 Absatz 2 und § 18 Absatz 4 als
 eindeutig vorzugswürdig erweisen könnten.
 
-(4b) Für die Änderung oder Erweiterung einer Leitung nach § 3 Nummer 1
-ist § 45c Absatz 2 Satz 1 und 2 sowie Absatz 3 des
-Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542) in der
-jeweils geltenden Fassung, unbeschadet des § 45 Absatz 7 des
-Bundesnaturschutzgesetzes, entsprechend anzuwenden.
+(4b) (weggefallen)
 
 (5) Sofern dieses Gesetz keine abweichenden Regelungen enthält, sind
 für das Planfeststellungsverfahren und daran anknüpfende Verfahren die
@@ -1441,28 +1437,32 @@ diesem Gesetz kostendeckende Gebühren und Auslagen:
     11 Absatz 2,
 
 
-2.  Entscheidungen nach § 12 Absatz 2 Satz 1,
+2.  Entscheidung nach § 12 Absatz 2 Satz 1,
 
 
-3.  Planfeststellungen nach § 24 Absatz 1,
+3.  Planfeststellung nach § 24 Absatz 1,
 
 
-4.  Entscheidungen nach § 25 Absatz 4 Satz 4,
+4.  Entscheidung nach § 25 Absatz 4 Satz 4,
 
 
-5.  Entscheidungen nach § 5a Absatz 3 Satz 1,
+5.  Entscheidung nach § 5a Absatz 3 Satz 1,
 
 
-6.  Plangenehmigungen nach § 24 Absatz 3 und
+6.  Plangenehmigung nach § 24 Absatz 3,
 
 
-7.  Erlass von Duldungsanordnungen nach § 8 Satz 4 in Verbindung mit § 44
+7.  Erlass einer Duldungsanordnung nach § 8 Satz 4 in Verbindung mit § 44
     Absatz 2 Satz 2 des Energiewirtschaftsgesetzes oder § 18 Absatz 5 in
-    Verbindung mit § 44 Absatz 2 Satz 2 des Energiewirtschaftsgesetzes.
+    Verbindung mit § 44 Absatz 2 Satz 2 des Energiewirtschaftsgesetzes und
+
+
+8.  Ausweisung von Infrastrukturgebieten nach § 12j Absatz 1 Satz 1 des
+    Energiewirtschaftsgesetzes.
 
 
 
-Wird ein Antrag auf eine der in Absatz 1 genannten Amtshandlungen nach
+Wird ein Antrag auf eine der in Satz 1 genannten Amtshandlungen nach
 Beginn der sachlichen Bearbeitung zurückgenommen, ist derjenige Teil
 der für die gesamte Amtshandlung vorgesehenen Gebühr zu erheben, der
 dem Fortschritt der Bearbeitung entspricht. Für einen Antrag, der aus
@@ -1472,17 +1472,20 @@ es kann von der Erhebung abgesehen werden, wenn dies der Billigkeit
 entspricht.
 
 (2) Die Höhe der Gebühr richtet sich nach der Länge der zu planenden
-Trasse. Bei der Durchführung der Bundesfachplanung ist die
+Trasse. Bei der Durchführung der Bundesfachplanung und der Ausweisung
+von Infrastrukturgebieten ist die nach der Luftlinie bemessene
 geographische Entfernung der durch eine Trasse zu verbindenden Orte
-(Luftlinie) maßgeblich. Die Gebühr für Amtshandlungen nach Absatz 1
-Nummer 2 beträgt 30 000 Euro je angefangenem Kilometer. Für die
-Durchführung der Planfeststellung richtet sich die Gebühr nach der
-mittleren Länge des im Rahmen der Bundesfachplanung festgelegten
-Korridors. Für Amtshandlungen nach Absatz 1 Nummer 3 beträgt die
-Gebühr 50 000 Euro je angefangenem Kilometer. Bei Entscheidungen nach
-Absatz 1 Satz 1 Nummer 1, 4 und 6 beträgt die Gebühr jeweils 10 000
-Euro je angefangenem Kilometer. Bei Entscheidungen nach Absatz 1 Satz
-1 Nummer 5 beträgt die Gebühr 5 000 Euro je angefangenem Kilometer.
+maßgeblich. Die Gebühr für Amtshandlungen nach Absatz 1 Satz 1 Nummer
+2 beträgt 30 000 Euro je angefangenen Kilometer. Für die Durchführung
+der Planfeststellung richtet sich die Gebühr nach der mittleren Länge
+des im Rahmen der Bundesfachplanung festgelegten Korridors. Für
+Amtshandlungen nach Absatz 1 Satz 1 Nummer 3 beträgt die Gebühr 50 000
+Euro je angefangenen Kilometer. Bei Entscheidungen nach Absatz 1 Satz
+1 Nummer 1, 4 und 6 beträgt die Gebühr jeweils 10 000 Euro je
+angefangenen Kilometer. Bei Entscheidungen nach Absatz 1 Satz 1 Nummer
+5 beträgt die Gebühr 5 000 Euro je angefangenen Kilometer. Die Gebühr
+für Amtshandlungen nach Absatz 1 Nummer 8 beträgt 20 000 Euro je
+angefangenen Kilometer.
 
 (3) Die Gebühren für Amtshandlungen nach Absatz 1 Nummer 2 und 3
 werden in mehreren Teilbeträgen erhoben. Von der Gebühr für die
