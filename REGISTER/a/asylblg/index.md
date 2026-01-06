@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 8 Abs. 3 G v. 23.12.2024 I Nr. 449
 
 Änderung durch
-:   Art. 10 G v. 22.12.2025 I Nr. 363 noch nicht berücksichtigt
+:   Art. 10 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Leistungsberechtigte
@@ -777,7 +777,8 @@ des notwendigen Bedarfs nach § 3a Absatz 2, jeweils in Verbindung mit
 § 3a Absatz 4. Erhält eine leistungsberechtigte Person mindestens aus
 einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26, 26a
 oder 26b des Einkommensteuergesetzes steuerfrei sind, ist abweichend
-von Satz 1 ein Betrag von bis zu 250 Euro monatlich nicht als
+von Satz 1 ein Betrag von bis zu einem Zwölftel des in § 3 Nummer 26
+des Einkommensteuergesetzes genannten Betrags monatlich nicht als
 Einkommen zu berücksichtigen. Von den Einkommen nach Absatz 1 Satz 1
 sind ferner abzusetzen
 
@@ -797,11 +798,13 @@ sind ferner abzusetzen
 
 
 
-Übersteigt das Einkommen in den Fällen von Satz 2 den Betrag von 250
-Euro monatlich, findet Satz 3 Nummer 3 und 4 mit der Maßgabe
+Übersteigt das Einkommen in den Fällen von Satz 2 den Betrag von einem
+Zwölftel des in § 3 Nummer 26 des Einkommensteuergesetzes genannten
+Betrags monatlich, findet Satz 3 Nummer 3 und 4 mit der Maßgabe
 Anwendung, dass eine Absetzung der dort genannten Aufwendungen nur
 erfolgt, soweit die oder der Leistungsberechtigte nachweist, dass die
-Summe dieser Aufwendungen den Betrag von 250 Euro monatlich
+Summe dieser Aufwendungen den Betrag von einem Zwölftel des in § 3
+Nummer 26 des Einkommensteuergesetzes genannten Betrags monatlich
 übersteigt. Die Möglichkeit zur Absetzung der Beträge nach Satz 3 von
 Einkommen aus Erwerbstätigkeit bleibt unberührt.
 
