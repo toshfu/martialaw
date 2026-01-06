@@ -1346,7 +1346,7 @@ geahndet werden.
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind
 
-1.  das Umweltbundesamt,
+1.  das Bundesamt für Justiz,
 
 
 2.  die Bundesanstalt für Finanzdienstleistungsaufsicht bei einer
