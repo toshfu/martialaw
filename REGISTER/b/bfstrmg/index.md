@@ -1665,8 +1665,7 @@ abweichend von § 3 Absatz 3 nach der Anlage 11.
 
 
         gg)
-            Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive
-                emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
+            Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A.
 
 
 
