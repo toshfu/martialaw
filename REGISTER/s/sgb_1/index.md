@@ -20,7 +20,10 @@ Zuletzt geändert durch
 :   Art. 4 G v. 19.7.2024 I Nr. 245
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 11 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -1102,7 +1105,7 @@ durchführen, die Versicherungsämter und Gemeindebehörden sowie die
 anerkannten Adoptionsvermittlungsstellen (§ 2 Absatz 3 des
 Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach diesem
 Gesetzbuch wahrnehmen, und die Stellen, die Aufgaben nach § 67c Absatz
-3 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach
+4 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach
 Beendigung ihrer Tätigkeit bei den genannten Stellen das
 Sozialgeheimnis zu wahren.
 
@@ -1446,14 +1449,18 @@ Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung
 der technischen Vorschriften und der Geschäftsanforderungen für
 Überweisungen und Lastschriften in Euro und zur Änderung der
 Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt,
-überwiesen oder, wenn der Empfänger es verlangt, an seinen Wohnsitz
-oder gewöhnlichen Aufenthalt innerhalb des Geltungsbereiches dieser
-Verordnung übermittelt. Werden Geldleistungen an den Wohnsitz oder an
-den gewöhnlichen Aufenthalt des Empfängers übermittelt, sind die
-dadurch veranlassten Kosten von den Geldleistungen abzuziehen. Dies
-gilt nicht, wenn der Empfänger nachweist, dass ihm die Einrichtung
-eines Kontos bei einem Geldinstitut ohne eigenes Verschulden nicht
-möglich ist.
+überwiesen. Abweichend von Satz 1 werden Geldleistungen kostenfrei an
+den Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers innerhalb des
+Geltungsbereiches der in Satz 1 genannten Verordnung übermittelt, wenn
+
+1.  der Empfänger nachweist, dass ihm die Einrichtung eines Kontos bei
+    einem Geldinstitut ohne eigenes Verschulden nicht möglich ist, oder
+
+
+2.  die Auszahlung im Einzelfall keinen Aufschub duldet.
+
+
+
 
 (2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1
 genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem
