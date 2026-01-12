@@ -17,22 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 6 G v. 28.10.2025 I Nr. 259
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 355 mWv 24.12.2025 bzw. 1.1.2026 bzw. 1.1.2027 bzw. 1.1.2029 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 355 mWv 1.1.2029 noch nicht berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 14 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 364 ist berücksichtigt
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 371 ist berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 371
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -1546,9 +1531,7 @@ von drei Tagen nach Kenntnis des Beendigungszeitpunktes zu melden. Die
 Pflicht zur Meldung besteht unabhängig davon, ob der Fortbestand des
 Ausbildungs- oder Arbeitsverhältnisses gerichtlich geltend gemacht
 oder vom Arbeitgeber in Aussicht gestellt wird. Die Pflicht zur
-Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis. Im
-Übrigen gelten für Ausbildung- und Arbeitsuchende die Meldepflichten
-im Leistungsverfahren nach den §§ 309 und 310 entsprechend.
+Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis.
 
 (1a) Die zuständige Agentur für Arbeit soll mit der nach Absatz 1
 arbeitsuchend gemeldeten Person unverzüglich nach der
@@ -8782,6 +8765,15 @@ oder er sich bei der nunmehr zuständigen Agentur für Arbeit
 unverzüglich zu melden.
 
 
+##### § 310a Meldepflicht für sonstige Personen
+
+Für Ratsuchende, Ausbildung- und Arbeitsuchende sowie für Arbeitslose,
+die keinen Anspruch auf Arbeitslosengeld erheben, gilt § 309
+entsprechend. Satz 1 gilt auch, wenn die Agentur für Arbeit Leistungen
+nach dem Dritten Kapitel für erwerbsfähige Leistungsberechtigte nach
+dem Zweiten Buch erbringen darf.
+
+
 #### Zweiter Unterabschnitt - Anzeige-, Nachweis- und Bescheinigungspflichten
 
 
@@ -10837,6 +10829,28 @@ welches den im jeweiligen Einzelfall beteiligten Leistungsträgern zur
 Verfügung gestellt werden kann, soweit dies für die Zusammenarbeit
 erforderlich ist.
 
+(2b) Um die Transparenz auf dem Arbeitsmarkt zu erhöhen und die
+Weiterbildungsbeteiligung von Arbeitnehmerinnen und Arbeitnehmern zu
+steigern, prüft die Bundesagentur den Aufbau und Betrieb eines
+Weiterbildungsportals. Abhängig von den Ergebnissen der Prüfung kann
+sie ein Weiterbildungsportal probeweise entwickeln und betreiben. Der
+Bund kann sich an den Kosten der Entwicklung des Weiterbildungsportals
+einschließlich der Prüfung nach Satz 1 beteiligen.
+
+(2c) Um die örtliche rechtskreisübergreifende Zusammenarbeit zwischen
+den Agenturen für Arbeit und den zugelassenen kommunalen Trägern bei
+der Förderung der beruflichen Weiterbildung nach dem Vierten Abschnitt
+des Dritten Kapitels und der Teilhabe von Menschen mit Behinderungen
+am Arbeitsleben nach dem Siebten Abschnitt des Dritten Kapitels zu
+unterstützen, entwickelt und betreibt die Bundesagentur ein IT-System,
+das an eine Schnittstelle angebunden wird, die auch den zugelassenen
+kommunalen Trägern die Anbindung ihrer IT-Systeme ermöglicht. Die
+Bundesagentur kann eine vorhandene Schnittstelle nutzen oder eine neue
+Schnittstelle entwickeln, betreiben und den zugelassenen kommunalen
+Trägern für die Anbindung ihrer IT-Systeme zur Verfügung stellen. Die
+zugelassenen kommunalen Träger müssen der Bundesagentur die hierfür
+entstehenden Aufwendungen nicht erstatten.
+
 (3) Die Bundesregierung kann der Bundesagentur durch Rechtsverordnung
 mit Zustimmung des Bundesrates weitere Aufgaben übertragen, die im
 Zusammenhang mit deren Aufgaben nach diesem Buch stehen. Die
@@ -11810,7 +11824,7 @@ indem sie oder er eine andere Unternehmerin oder einen anderen
 Unternehmer beauftragt, von dem sie oder er weiß oder fahrlässig nicht
 weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
-1.  entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 des
+1.  entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 oder 2 des
     Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt
     oder
 
@@ -11818,7 +11832,7 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 2.  eine Nachunternehmerin oder einen Nachunternehmer einsetzt oder es
     zulässt, dass eine Nachunternehmerin oder ein Nachunternehmer tätig
     wird, die oder der entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1
-    des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer
+    oder 2 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer
     beschäftigt.
 
 
@@ -11844,18 +11858,17 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
 4.  entgegen § 284 Absatz 1 oder entgegen § 4a Absatz 3 Satz 4 oder Absatz
     4, § 6 Absatz 2a, § 7 Absatz 1 Satz 4 erster Halbsatz, § 16a Absatz 3
-    Satz 1, § 16b Absatz 3, auch in Verbindung mit Absatz 7 Satz 3, § 16b
-    Absatz 5 Satz 3 zweiter Halbsatz, § 16c Absatz 2 Satz 3, § 16d Absatz
-    1 Satz 4, Absatz 3 Satz 2 oder Absatz 4 Satz 3, § 16f Absatz 3 Satz 4,
-    § 17 Absatz 3 Satz 1, § 20 Absatz 1 Satz 4, auch in Verbindung mit
-    Absatz 2 Satz 2, § 23 Absatz 1 Satz 4 erster Halbsatz, § 24 Absatz 6
-    Satz 2 erster Halbsatz oder § 25 Absatz 4 Satz 3 erster Halbsatz,
-    Absatz 4a Satz 4 erster Halbsatz oder Absatz 4b Satz 4 erster Halbsatz
-    des Aufenthaltsgesetzes eine Beschäftigung ausübt,
+    Satz 1, § 16b Absatz 3 Satz 1, auch in Verbindung mit Absatz 5 Satz 2
+    oder 3 erster Halbsatz oder Absatz 7 Satz 3, § 16c Absatz 2 Satz 3, §
+    16d Absatz 1 Satz 4, auch in Verbindung mit Absatz 6 Satz 3, § 16d
+    Absatz 3 Satz 8, Absatz 4 Satz 3 oder Absatz 5 Satz 2, § 16f Absatz 3
+    Satz 4 oder 5, § 16g Absatz 3a, § 17 Absatz 3 Satz 1, § 20a Absatz 2,
+    § 23 Absatz 1 Satz 4 erster Halbsatz oder § 25 Absatz 4 Satz 3 erster
+    Halbsatz, Absatz 4a Satz 4 erster Halbsatz oder Absatz 4b Satz 4
+    erster Halbsatz des Aufenthaltsgesetzes eine Beschäftigung ausübt,
 
 
-5.  entgegen § 39 Absatz 4 Satz 2 des Aufenthaltsgesetzes eine Auskunft
-    nicht, nicht richtig oder nicht rechtzeitig erteilt,
+5.  (weggefallen)
 
 
 6.  einer vollziehbaren Anordnung nach § 288a Abs. 1 zuwiderhandelt,
@@ -11899,7 +11912,10 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
     Bußgeldvorschrift verweist,
 
 
-17. u. 18. (weggefallen)
+17. (weggefallen)
+
+
+18. (weggefallen)
 
 
 19. entgegen
@@ -11951,24 +11967,33 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
 
 26. entgegen § 60 Absatz 1 Satz 1 Nummer 1 des Ersten Buches eine Angabe
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht
-    oder
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
 27. entgegen § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches eine Änderung in
     den Verhältnissen, die für einen Anspruch auf eine laufende Leistung
     erheblich ist, nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig mitteilt.
+    rechtzeitig mitteilt,
+
+
+28. entgegen § 39 Absatz 4 Satz 1, auch in Verbindung mit Absatz 6 Satz 1,
+    des Aufenthaltsgesetzes eine Auskunft nicht richtig erteilt oder
+
+
+29. entgegen § 39 Absatz 4 Satz 2, auch in Verbindung mit Absatz 6 Satz 1,
+    des Aufenthaltsgesetzes eine Auskunft nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erteilt.
 
 
 
 
-(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2 Nr.
-3 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des
-Absatzes 2 Nr. 1, 5 bis 9 und 11 bis 13 mit einer Geldbuße bis zu
-dreißigtausend Euro, in den Fällen des Absatzes 2 Nr. 2, 4, 16, 26 und
-27 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen Fällen
-mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2
+Nummer 3 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den
+Fällen des Absatzes 2 Nummer 1, 6 bis 9, 11 bis 13, 28 und 29 mit
+einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes
+2 Nummer 2, 4, 16, 26 und 27 mit einer Geldbuße bis zu fünftausend
+Euro und in den übrigen Fällen mit einer Geldbuße bis zu zweitausend
+Euro geahndet werden.
 
 
 #### § 405 Zuständigkeit, Vollstreckung und Unterrichtung
@@ -11980,7 +12005,7 @@ mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
     Zollverwaltung,
 
 
-2.  des § 404 Abs. 2 Nr. 1, 1a, 2, 5 bis 16 und 19 bis 25 die
+2.  des § 404 Absatz 2 Nummer 1, 1a, 2, 6 bis 16, 19 bis 25, 28 und 29 die
     Bundesagentur,
 
 
@@ -12010,11 +12035,11 @@ Buches arbeiten die Behörden nach Absatz 1 mit den in § 2 Absatz 4 des
 Schwarzarbeitsbekämpfungsgesetzes genannten Behörden zusammen.
 
 (5) Die Bundesagentur unterrichtet das Gewerbezentralregister über
-rechtskräftige Bußgeldbescheide nach § 404 Abs. 2 Nr. 1, 5 bis 16 und
-19 Buchstabe a. Die Behörden der Zollverwaltung unterrichten das
-Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404
-Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern die Geldbuße mehr als 200
-Euro beträgt.
+rechtskräftige Bußgeldbescheide nach § 404 Absatz 2 Nummer 1, 6 bis
+16, 19 Buchstabe a, Nummer 28 und 29. Die Behörden der Zollverwaltung
+unterrichten das Gewerbezentralregister über rechtskräftige
+Bußgeldbescheide nach § 404 Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern
+die Geldbuße mehr als 200 Euro beträgt.
 
 (6) Gerichte, Strafverfolgungs- oder Strafvollstreckungsbehörden
 sollen den Behörden der Zollverwaltung Erkenntnisse aus sonstigen
@@ -12298,6 +12323,16 @@ Stichprobenkontrollen zu übermitteln, indem sie diese Daten zum
 automatisierten Abruf aus ihrem Datenbestand bereitstellt.
 
 (2) § 79 Absatz 2 bis 4 des Zehnten Buches gilt entsprechend.
+
+
+#### § 421g Vorübergehende Sonderregelung für anerkennungssuchende Fachkräfte im Inland
+
+Die Bundesagentur baut durch Zusammenwirken mit den Projektträgern des
+ESF Plus-Förderprogramms „IQ – Integration durch Qualifizierung“ ab
+dem 1. Januar 2026 das für die Übernahme notwendige Fach- und
+Erfahrungswissen zur Anerkennungs- und Qualifizierungsberatung auf.
+Die Bundesagentur kann in diesem Zusammenhang in Absprache mit den
+Projektträgern auch selbst beraten.
 
 
 ### Dritter Abschnitt - Grundsätze bei Rechtsänderungen
