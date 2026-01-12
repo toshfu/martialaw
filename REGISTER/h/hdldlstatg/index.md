@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 266
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2025 I Nr. 354
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 354 mWv 1.1.2028 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 354
 
 
 ## Abschnitt 1 - Allgemeines
