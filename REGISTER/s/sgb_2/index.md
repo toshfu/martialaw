@@ -26,7 +26,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 22.12.2025 I Nr. 363 ist berücksichtigt
 
 
 ## Kapitel 1 - Fördern und Fordern
