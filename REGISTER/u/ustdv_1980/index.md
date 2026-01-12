@@ -1307,7 +1307,7 @@ Fahrausweis angegeben ist.
 
 ### § 40 Vorsteuerabzug bei unfreien Versendungen
 
-(1) Läßt ein Absender einen Gegenstand durch einen Frachtführer oder
+(1) Lässt ein Absender einen Gegenstand durch einen Frachtführer oder
 Verfrachter unfrei zu einem Dritten befördern oder eine solche
 Beförderung durch einen Spediteur unfrei besorgen, so ist für den
 Vorsteuerabzug der Empfänger der Frachtsendung als Auftraggeber dieser
