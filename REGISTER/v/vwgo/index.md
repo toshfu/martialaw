@@ -22,13 +22,13 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 6 G v. 25.11.2025 I Nr. 282
 
 Änderung durch
-:   Art. 9 G v. 8.12.2025 I Nr. 318 mWv 1.7.2026 noch nicht berücksichtigt
+:   Art. 9 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 31 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 31 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 348 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
@@ -835,6 +835,28 @@ sämtliche Streitigkeiten, die betreffen
 3b. die Errichtung, den Betrieb und die Änderung von Kraft-Wärme-
     Kopplungsanlagen im Sinne des Kraft-Wärme-Kopplungsgesetzes ab einer
     Feuerungswärmeleistung von 50 Megawatt,
+
+
+3c. die Errichtung, den Betrieb und die Änderung von
+
+    a)  Anlagen nach § 2 Nummer 1 des Geothermie-Beschleunigungsgesetzes vom
+        22\. Dezember 2025 (BGBl. 2025 I Nr. 348, S. 2) in der jeweils
+        geltenden Fassung einschließlich der Streitigkeiten nach § 10 Absatz 2
+        des Geothermie-Beschleunigungsgesetzes,
+
+
+    b)  Anlagen nach § 2 Nummer 3 des Geothermie-Beschleunigungsgesetzes mit
+        einer thermischen Leistung von mindestens 500 Kilowatt einschließlich
+        der Streitigkeiten nach § 10 Absatz 2 des Geothermie-
+        Beschleunigungsgesetzes sowie
+
+
+    c)  Leitungen nach § 2 Nummer 5 des Geothermie-Beschleunigungsgesetzes
+        einschließlich der Streitigkeiten nach § 10 Absatz 2 des Geothermie-
+        Beschleunigungsgesetzes,
+
+
+
 
 
 4.  Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes,
