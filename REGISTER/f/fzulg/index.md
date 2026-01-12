@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 14.7.2025 I Nr. 161
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 363 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anspruchsberechtigung
@@ -384,19 +384,9 @@ erforderlich sind.
 
 (5) Die Forschungszulage kann für den Teil der Bemessungsgrundlage,
 der auf Aufwendungen im Sinne des § 3 Absatz 3 Satz 1 und 2 entfällt,
-nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU) Nr.
-1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der
-Artikel 107 und 108 des Vertrags über die Arbeitsweise der
-Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom
-24\.12.2013, S. 1) (De-minimis-Verordnung) in der jeweils geltenden
-Fassung eingehalten sind. Die Forschungszulage kann insoweit erst
-gewährt werden, wenn der Anspruchsberechtigte in geeigneter Weise den
-Nachweis erbracht hat, in welcher Höhe ihm in den beiden
-vorangegangenen sowie im laufenden Veranlagungszeitraum De-minimis-
-Beihilfen gewährt worden sind, für die die vorliegende oder andere De-
-minimis-Verordnungen gelten, und nur soweit, wie die Voraussetzungen
-der De-minimis-Verordnung bei dem Unternehmen im Sinne der De-minimis-
-Verordnung eingehalten werden.
+nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU)
+2023/2831 eingehalten sind und dies durch den Anspruchsberechtigten in
+geeigneter Weise nachgewiesen wird.
 
 
 ## § 10 Festsetzung und Leistung der Forschungszulage
