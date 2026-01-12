@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1348
 
 Zuletzt geändert durch
-:   Art. 2 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.12.2025 I Nr. 369
 
 
 ## Abschnitt 1 - Festsetzung des allgemeinen Mindestlohns
