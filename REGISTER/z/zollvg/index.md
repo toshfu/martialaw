@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 16 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 16 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil I - Erfassung des Warenverkehrs
@@ -765,6 +765,38 @@ Bedingungen sind zu beachten.
 Zollverwaltung erteilen dem übermittelnden Staat auf dessen Ersuchen
 zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 übermittelten Daten verwendet wurden.
+
+
+### § 11c Datenübermittlung zu Zwecken des Risikomanagements
+
+(1) Die Dienststellen der Zollverwaltung nach § 11 Absatz 1 Satz 1
+können die in § 13 Absatz 4 des Zollfahndungsdienstgesetzes genannten
+personenbezogenen Daten im nach Absatz 2 näher bezeichneten Umfang zu
+Zwecken des Risikomanagements im Sinne des § 3 Absatz 2 des
+Zollfahndungsdienstgesetzes an das Zollkriminalamt übermitteln; die
+weitere Datenverarbeitung durch das Zollkriminalamt erfolgt nach § 13
+des Zollfahndungsdienstgesetzes. § 30 der Abgabenordnung steht der
+Übermittlung nach Satz 1 nicht entgegen.
+
+(2) Das Bundesministerium der Finanzen bestimmt durch
+Verwaltungsvorschrift die von der Zollverwaltung betriebenen oder
+genutzten Datenverarbeitungssysteme, aus denen Daten gemäß Absatz 1
+übermittelt werden dürfen und bestimmt die Sachverhalte, für die eine
+Datenübermittlung zum Zwecke der Risikoanalyse erfolgen soll. Die oder
+der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+ist vor Erlass einer Verwaltungsvorschrift anzuhören.
+
+(3) Die Einrichtung eines automatisierten Verfahrens für die
+Übermittlung der Daten an das Zollkriminalamt durch Abruf ist mit
+Zustimmung des Bundesministeriums der Finanzen zulässig, soweit diese
+Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen
+Interessen der betroffenen Personen wegen der Vielzahl der
+Übermittlungen oder ihrer besonderen Eilbedürftigkeit angemessen ist.
+Die Verantwortung für die Zulässigkeit der einzelnen Abfrage trägt das
+Zollkriminalamt. Zur Wahrung des Steuergeheimnisses und zur
+Sicherstellung von Datenschutz und Datensicherheit beim Abrufverfahren
+sind § 2 Absatz 1 und die §§ 5 bis 8 der Steuerdaten-Abrufverordnung
+entsprechend anzuwenden.
 
 
 ### § 12 Weiterleitungsbefugnis
