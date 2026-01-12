@@ -28,13 +28,13 @@ Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2025 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 363 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 1 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 17 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 17 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Steuerpflicht
@@ -634,7 +634,10 @@ Steuerfrei sind
         vergleichbare Geldleistung,
 
 
-    e)  Leistungen nach § 5 des Wehrsoldgesetzes;
+    e)  Leistungen nach § 5 des Wehrsoldgesetzes,
+
+
+    f)  Zuschüsse nach den §§ 31b und 31c des Soldatengesetzes;
 
 
 
@@ -925,18 +928,18 @@ Steuerfrei sind
     (BGBl. I S. 1045);
 
 
-26. Einnahmen aus nebenberuflichen Tätigkeiten als Übungsleiter,
-    Ausbilder, Erzieher, Betreuer oder vergleichbaren nebenberuflichen
-    Tätigkeiten, aus nebenberuflichen künstlerischen Tätigkeiten oder der
-    nebenberuflichen Pflege alter, kranker Menschen oder Menschen mit
-    Behinderungen im Dienst oder im Auftrag einer juristischen Person des
-    öffentlichen Rechts, die in einem Mitgliedstaat der Europäischen
-    Union, in einem Staat, auf den das Abkommen über den Europäischen
-    Wirtschaftsraum Anwendung findet, oder in der Schweiz belegen ist,
-    oder einer unter § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes
-    fallenden Einrichtung zur Förderung gemeinnütziger, mildtätiger und
-    kirchlicher Zwecke (§§ 52 bis 54 der Abgabenordnung) bis zur Höhe von
-    insgesamt 3 000 Euro im Jahr.
+26. Einnahmen aus nebenberuflichen Tätigkeiten zur Förderung
+    gemeinnütziger, mildtätiger und kirchlicher Zwecke (§§ 52 bis 54 der
+    Abgabenordnung) als Übungsleiter, Ausbilder, Erzieher, Betreuer oder
+    vergleichbaren nebenberuflichen Tätigkeiten, aus nebenberuflichen
+    künstlerischen Tätigkeiten oder der nebenberuflichen Pflege alter,
+    kranker Menschen oder von Menschen mit Behinderungen im Dienst oder
+    Auftrag einer juristischen Person des öffentlichen Rechts, die in
+    einem Mitgliedstaat der Europäischen Union, in einem Staat, auf den
+    das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet,
+    oder in der Schweiz belegen ist, oder einer unter § 5 Absatz 1 Nummer
+    9 des Körperschaftsteuergesetzes fallenden Einrichtung bis zur Höhe
+    von insgesamt 3 300 Euro im Jahr.
     2                   Überschreiten die Einnahmen für die in Satz 1
     bezeichneten Tätigkeiten den steuerfreien Betrag, dürfen die mit den
     nebenberuflichen Tätigkeiten in unmittelbarem wirtschaftlichen
@@ -945,14 +948,14 @@ Steuerfrei sind
     Betrag der steuerfreien Einnahmen übersteigen;
 
 
-26a. Einnahmen aus nebenberuflichen Tätigkeiten im Dienst oder Auftrag
-    einer juristischen Person des öffentlichen Rechts, die in einem
-    Mitgliedstaat der Europäischen Union, in einem Staat, auf den das
-    Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, oder
-    in der Schweiz belegen ist, oder einer unter § 5 Absatz 1 Nummer 9 des
-    Körperschaftsteuergesetzes fallenden Einrichtung zur Förderung
+26a. Einnahmen aus nebenberuflichen Tätigkeiten zur Förderung
     gemeinnütziger, mildtätiger und kirchlicher Zwecke (§§ 52 bis 54 der
-    Abgabenordnung) bis zur Höhe von insgesamt 840 Euro im Jahr.
+    Abgabenordnung) im Dienst oder Auftrag einer juristischen Person des
+    öffentlichen Rechts, die in einem Mitgliedstaat der Europäischen
+    Union, in einem Staat, auf den das Abkommen über den Europäischen
+    Wirtschaftsraum Anwendung findet, oder in der Schweiz belegen ist,
+    oder einer unter § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes
+    fallenden Einrichtung bis zur Höhe von insgesamt 960 Euro im Jahr.
     2                   Die Steuerbefreiung ist ausgeschlossen, wenn für
     die Einnahmen aus der Tätigkeit – ganz oder teilweise – eine
     Steuerbefreiung nach § 3 Nummer 12, 26 oder 26b gewährt wird.
@@ -1892,7 +1895,12 @@ Steuerfrei sind
     erzielt und sind die aus dieser Tätigkeit erzielten Einnahmen
     insgesamt steuerfrei nach Satz 1, ist kein Gewinn zu ermitteln.
     3                   In den Fällen des Satzes 2 ist § 15 Absatz 3
-    Nummer 1 nicht anzuwenden.
+    Nummer 1 nicht anzuwenden;
+
+
+73. Prämienzahlungen der Stiftung Deutsche Sporthilfe, die für
+    Platzierungen bei Olympischen oder Paralympischen Spielen gewährt
+    werden.
 
 
 
@@ -2427,9 +2435,7 @@ mindern:
     ermittelten Betrags für Fahrten zwischen Wohnung und Betriebsstätte
     und für Familienheimfahrten die auf diese Fahrten entfallenden
     tatsächlichen Aufwendungen; § 6 Absatz 1 Nummer 4 Satz 3 zweiter
-    Halbsatz gilt sinngemäß.
-    4                   § 9 Absatz 1 Satz 3 Nummer 4 Satz 8 und Nummer 5
-    Satz 9 gilt entsprechend;
+    Halbsatz gilt sinngemäß;
 
 
 6a. die Mehraufwendungen für eine betrieblich veranlasste doppelte
@@ -5347,25 +5353,15 @@ ist.
 anzuwenden.
 
 (5)
-1             Die Sonderabschreibungen nach Absatz 1 werden für
-Anspruchsberechtigte mit Einkünften im Sinne der §§ 13, 15 und 18 nur
-gewährt, soweit die Voraussetzungen der Verordnung (EU) Nr. 1407/2013
-der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel
-107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union
-auf De‑minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1) (De-
-minimis-Verordnung) in der jeweils geltenden Fassung eingehalten sind.
-2             Bei dem nach dieser De-minimis-Verordnung einzuhaltenden
-Höchstbetrag der einem einzigen Unternehmen in einem Zeitraum von drei
-Veranlagungszeiträumen zu gewährenden De-minimis-Beihilfe sind alle in
-diesem Zeitraum an das Unternehmen gewährte De-minimis-Beihilfen
-gleich welcher Art, Zielsetzung und Regelung zu berücksichtigen.
-3             Die Sonderabschreibungen werden erst gewährt, wenn der
-Anspruchsberechtigte in geeigneter Weise den Nachweis erbracht hat, in
-welcher Höhe ihm in den beiden vorangegangenen sowie im laufenden
-Veranlagungszeitraum De‑minimis‑Beihilfen gewährt worden sind, für die
-die vorliegende oder andere De-minimis-Verordnungen gelten, und nur
-soweit, wie die Voraussetzungen der De-minimis-Verordnung bei dem
-Unternehmen im Sinne der De-minimis-Verordnung eingehalten werden.
+1             Die Sonderabschreibungen nach Absatz 1 werden nur
+gewährt, soweit die Voraussetzungen der Verordnung (EU) 2023/2831
+eingehalten sind und dies durch den Anspruchsberechtigten in
+geeigneter Weise nachgewiesen wird.
+2             Satz 1 ist auf Sonderabschreibungen für neue Wohnungen,
+die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Oktober
+2029 gestellten Bauantrags oder einer in diesem Zeitraum getätigten
+Bauanzeige hergestellt werden, nur bei Anspruchsberechtigten mit
+Einkünften im Sinne der §§ 13, 15 und 18 anzuwenden.
 
 
 #### (XXXX) §§ 7c bis 7d (weggefallen)
@@ -5813,7 +5809,7 @@ erwachsen sind.
     2                   Zur Abgeltung dieser Aufwendungen ist für jeden
     Arbeitstag, an dem der Arbeitnehmer die erste Tätigkeitsstätte
     aufsucht eine Entfernungspauschale für jeden vollen Kilometer der
-    Entfernung zwischen Wohnung und erster Tätigkeitsstätte von 0,30 Euro
+    Entfernung zwischen Wohnung und erster Tätigkeitsstätte von 0,38 Euro
     anzusetzen, höchstens jedoch 4 500 Euro im Kalenderjahr; ein höherer
     Betrag als 4 500 Euro ist anzusetzen, soweit der Arbeitnehmer einen
     eigenen oder ihm zur Nutzung überlassenen Kraftwagen benutzt.
@@ -5839,24 +5835,6 @@ erwachsen sind.
     7                   Nach § 3 Nummer 37 steuerfreie Sachbezüge mindern
     den nach Satz 2 abziehbaren Betrag nicht; § 3c Absatz 1 ist nicht
     anzuwenden.
-    8                   Zur Abgeltung der Aufwendungen im Sinne des Satzes
-    1 ist für die Veranlagungszeiträume 2021 bis 2026 abweichend von Satz
-    2 für jeden Arbeitstag, an dem der Arbeitnehmer die erste
-    Tätigkeitsstätte aufsucht, eine Entfernungspauschale für jeden vollen
-    Kilometer der ersten 20 Kilometer der Entfernung zwischen Wohnung und
-    erster Tätigkeitsstätte von 0,30 Euro und für jeden weiteren vollen
-    Kilometer
-
-    a)  von 0,35 Euro für 2021,
-
-
-    b)  von 0,38 Euro für 2022 bis 2026
-
-
-
-    anzusetzen, höchstens 4 500 Euro im Kalenderjahr; ein höherer Betrag
-    als 4 500 Euro ist anzusetzen, soweit der Arbeitnehmer einen eigenen
-    oder ihm zur Nutzung überlassenen Kraftwagen benutzt.
 
 
 4a. Aufwendungen des Arbeitnehmers für beruflich veranlasste Fahrten, die
@@ -5890,36 +5868,26 @@ erwachsen sind.
     Innehaben einer Wohnung sowie eine finanzielle Beteiligung an den
     Kosten der Lebensführung voraus.
     4                   Als Unterkunftskosten für eine doppelte
-    Haushaltsführung können im Inland die tatsächlichen Aufwendungen für
-    die Nutzung der Unterkunft angesetzt werden, höchstens 1 000 Euro im
-    Monat.
+    Haushaltsführung können die tatsächlichen Aufwendungen für die Nutzung
+    der Unterkunft angesetzt werden, höchstens 1 000 Euro im Monat bei
+    einer Unterkunft im Inland und höchstens 2 000 Euro im Monat bei einer
+    Unterkunft im Ausland; die Grenze von 2 000 Euro bei einer Unterkunft
+    im Ausland gilt nicht, wenn eine Dienst- oder Werkswohnung
+    verpflichtend und zweckgebunden genutzt werden muss oder deren Kosten
+    für Zwecke des Mietzuschusses nach § 54 des Bundesbesoldungsgesetzes
+    als notwendig anerkannt worden sind.
     5                   Aufwendungen für die Wege vom Ort der ersten
     Tätigkeitsstätte zum Ort des eigenen Hausstandes und zurück
     (Familienheimfahrt) können jeweils nur für eine Familienheimfahrt
     wöchentlich abgezogen werden.
     6                   Zur Abgeltung der Aufwendungen für eine
-    Familienheimfahrt ist eine Entfernungspauschale von 0,30 Euro für
+    Familienheimfahrt ist eine Entfernungspauschale von 0,38 Euro für
     jeden vollen Kilometer der Entfernung zwischen dem Ort des eigenen
     Hausstandes und dem Ort der ersten Tätigkeitsstätte anzusetzen.
     7                   Nummer 4 Satz 3 bis 5 ist entsprechend anzuwenden.
     8                   Aufwendungen für Familienheimfahrten mit einem dem
     Steuerpflichtigen im Rahmen einer Einkunftsart überlassenen
     Kraftfahrzeug werden nicht berücksichtigt.
-    9                   Zur Abgeltung der Aufwendungen für eine
-    Familienheimfahrt ist für die Veranlagungszeiträume 2021 bis 2026
-    abweichend von Satz 6 eine Entfernungspauschale für jeden vollen
-    Kilometer der ersten 20 Kilometer der Entfernung zwischen dem Ort des
-    eigenen Hausstandes und dem Ort der ersten Tätigkeitsstätte von 0,30
-    Euro und für jeden weiteren vollen Kilometer
-
-    a)  von 0,35 Euro für 2021,
-
-
-    b)  von 0,38 Euro für 2022 bis 2026
-
-
-
-    anzusetzen.
 
 
 5a. notwendige Mehraufwendungen eines Arbeitnehmers für beruflich
@@ -6195,6 +6163,9 @@ nur bis zur Höhe der um den Versorgungsfreibetrag einschließlich des
 Zuschlags zum Versorgungsfreibetrag (§ 19 Absatz 2) geminderten
 Einnahmen, die Pauschbeträge nach Satz 1 Nummer 1 Buchstabe a und
 Nummer 3 dürfen nur bis zur Höhe der Einnahmen abgezogen werden.
+3             Beitragszahlungen an Gewerkschaften als Werbungskosten
+im Sinne des § 9 Absatz 1 Satz 3 Nummer 3 werden neben den
+Pauschbeträgen im Sinne des Satzes 1 berücksichtigt.
 
 
 ### 4a. - Umsatzsteuerrechtlicher Vorsteuerabzug
@@ -7237,8 +7208,8 @@ dieses Zeitraums nur einmal in Anspruch genommen werden.
 1             Zuwendungen an politische Parteien im Sinne des § 2 des
 Parteiengesetzes sind, sofern die jeweilige Partei nicht gemäß § 18
 Absatz 7 des Parteiengesetzes von der staatlichen Teilfinanzierung
-ausgeschlossen ist, bis zur Höhe von insgesamt 1 650 Euro und im Fall
-der Zusammenveranlagung von Ehegatten bis zur Höhe von insgesamt 3 300
+ausgeschlossen ist, bis zur Höhe von insgesamt 3 300 Euro und im Fall
+der Zusammenveranlagung von Ehegatten bis zur Höhe von insgesamt 6 600
 Euro im Kalenderjahr abzugsfähig.
 2             Sie können nur insoweit als Sonderausgaben abgezogen
 werden, als für sie nicht eine Steuerermäßigung nach § 34g gewährt
@@ -13030,8 +13001,9 @@ bleiben außer Betracht:
 
 1.  für negative Einkünfte, die im ersten Veranlagungszeitraum des
     Betrachtungszeitraums erzielt wurden, kein Verlustrücktrag nach § 10d
-    Absatz 1 Satz 1 in den letzten Veranlagungszeitraum des
-    vorangegangenen Betrachtungszeitraums vorgenommen wurde,
+    Absatz 1 Satz 1 oder Satz 2 in den letzten oder den vorletzten
+    Veranlagungszeitraum des vorangegangenen Betrachtungszeitraums
+    vorgenommen wurde,
 
 
 1a. für negative Einkünfte, die im zweiten Veranlagungszeitraum des
@@ -14596,8 +14568,8 @@ sich bei Zuwendungen an
 
 
 2             Die Ermäßigung beträgt 50 Prozent der Ausgaben,
-höchstens jeweils 825 Euro für Ausgaben nach den Nummern 1 und 2, im
-Fall der Zusammenveranlagung von Ehegatten höchstens jeweils 1 650
+höchstens jeweils 1 650 Euro für Ausgaben nach den Nummern 1 und 2, im
+Fall der Zusammenveranlagung von Ehegatten höchstens jeweils 3 300
 Euro.
 3             § 10b Absatz 3 und 4 gilt entsprechend.
 
@@ -16800,7 +16772,9 @@ er
     2 Satz 8 und 9 mit dem Sachbezugswert anzusetzen sind,
 
 
-2.  Arbeitslohn aus Anlass von Betriebsveranstaltungen zahlt,
+2.  Arbeitslohn aus Anlass von Betriebsveranstaltungen zahlt, wenn die
+    Teilnahme an der Betriebsveranstaltung allen Angehörigen des Betriebs
+    oder eines Betriebsteils offensteht,
 
 
 3.  Erholungsbeihilfen gewährt, wenn diese zusammen mit
@@ -22994,9 +22968,9 @@ zuletzt durch Artikel 1 des Gesetzes vom 10. Dezember 2007 (BGBl. I S.
 2830) geändert worden ist, in der jeweils geltenden Fassung ist § 3
 Nummer 19 in der am 31. Dezember 2010 geltenden Fassung weiter
 anzuwenden.
-10             § 3 Nummer 26 und 26a in der Fassung des Artikels 2 des
-Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist in allen offenen
-Fällen anzuwenden.
+10             § 3 Nummer 26 und 26a in der Fassung des Artikels 1 des
+Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 363) ist in allen
+offenen Fällen anzuwenden.
 11             Für die Anwendung des § 3 Nummer 34 in der Fassung des
 Artikels 3 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist
 das Zertifizierungserfordernis nach § 20 Absatz 2 Satz 2 in Verbindung
@@ -27261,12 +27235,11 @@ unberührt.
 
 ### § 101 Bemessungsgrundlage und Höhe der Mobilitätsprämie
 
-1             Steuerpflichtige können für die Veranlagungszeiträume
-2021 bis 2026 neben der Berücksichtigung der Entfernungspauschalen ab
-dem 21. vollen Entfernungskilometer gemäß § 9 Absatz 1 Satz 3 Nummer 4
-Satz 8 Buchstabe a und b, Nummer 5 Satz 9 Buchstabe a und b und § 4
-Absatz 5 Satz 1 Nummer 6 Satz 4 als Werbungskosten oder
-Betriebsausgaben eine Mobilitätsprämie beanspruchen.
+1             Steuerpflichtige können neben der Berücksichtigung der
+Entfernungspauschalen ab dem 21. vollen Entfernungskilometer gemäß § 9
+Absatz 1 Satz 3 Nummer 4 Satz 2, Nummer 5 Satz 6 und § 4 Absatz 5 Satz
+1 Nummer 6 Satz 2 als Werbungskosten oder Betriebsausgaben eine
+Mobilitätsprämie beanspruchen.
 2             Bemessungsgrundlage der Mobilitätsprämie sind die
 berücksichtigten Entfernungspauschalen im Sinne des Satzes 1, begrenzt
 auf den Betrag, um den das zu versteuernde Einkommen den
