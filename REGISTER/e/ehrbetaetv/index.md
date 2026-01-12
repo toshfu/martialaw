@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1783
 
 Zuletzt geändert durch
-:   Art. 46 G v. 21.12.2020 I 3096
-
-Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 22.12.2025 I Nr. 363
 
 
 ## Eingangsformel
