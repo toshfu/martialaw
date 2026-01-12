@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2615
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.6.2024 I Nr. 210
-
-Änderung durch
-:   Art. 1 V v. 1.12.2025 I Nr. 292 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 1.12.2025 I Nr. 292
 
 
 ## § 1 Anwendungsbereich
