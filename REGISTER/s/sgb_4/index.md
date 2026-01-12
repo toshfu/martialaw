@@ -35,10 +35,10 @@ Mittelbare änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 362 ist berücksichtigt
 
 Änderung durch
-:   Art. 12 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 12 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 21 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 21 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -1645,7 +1645,7 @@ erforderlich ist.
 
 (2) Die Sozialversicherungsträger, ihre Verbände und ihre
 Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der
-Zollverwaltung, soweit sie Aufgaben nach § 2 des
+Zollverwaltung, soweit sie Aufgaben nach § 2 oder § 25 des
 Schwarzarbeitsbekämpfungsgesetzes oder nach § 66 des Zehnten Buches
 wahrnehmen, sowie die zuständigen Aufsichtsbehörden und die
 Arbeitgeber dürfen die Betriebsnummern speichern, verändern, nutzen,
@@ -2641,29 +2641,32 @@ beschäftigen:
 3.  im Personenbeförderungsgewerbe,
 
 
-4.  im Speditions-, Transport- und damit verbundenen Logistikgewerbe,
+4.  im Speditions-, Transport- und damit verbundenen Logistikgewerbe
+    einschließlich der plattformbasierten Lieferdienste,
 
 
 5.  im Schaustellergewerbe,
 
 
-6.  bei Unternehmen der Forstwirtschaft,
+6.  im Gebäudereinigungsgewerbe,
 
 
-7.  im Gebäudereinigungsgewerbe,
-
-
-8.  bei Unternehmen, die sich am Auf- und Abbau von Messen und
+7.  bei Unternehmen, die sich am Auf- und Abbau von Messen und
     Ausstellungen beteiligen,
 
 
-9.  in der Fleischwirtschaft,
+8.  in der Fleischwirtschaft mit Ausnahme des Fleischerhandwerks nach § 2
+    Absatz 2 Satz 2 des Gesetzes zur Sicherung von Arbeitnehmerrechten in
+    der Fleischwirtschaft,
 
 
-10. im Prostitutionsgewerbe,
+9.  im Prostitutionsgewerbe,
 
 
-11. im Wach- und Sicherheitsgewerbe.
+10. im Wach- und Sicherheitsgewerbe,
+
+
+11. im Friseur- und Kosmetikgewerbe.
 
 
 
@@ -3808,7 +3811,50 @@ Datenstelle die für die Prüfung bei den Arbeitgebern erforderlichen
 Daten zu übermitteln. Sind für die Prüfung bei den Arbeitgebern Daten
 zu übermitteln, so dürfen sie auch durch Abruf im automatisierten
 Verfahren übermittelt werden, ohne dass es einer Genehmigung nach § 79
-Absatz 1 des Zehnten Buches bedarf.
+Absatz 1 des Zehnten Buches bedarf. Die Datenstelle der
+Rentenversicherung darf zur Erkennung von Risikofällen in den
+Wirtschaftsbereichen oder Wirtschaftszweigen nach § 26 Absatz 1 Satz 3
+des Schwarzarbeitsbekämpfungsgesetzes in Vorbereitung der
+automationsgestützten Analyse und Bewertung durch die Zentralstelle
+nach § 26 Absatz 1 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes nach
+Maßgabe von Satz 10 und 11 eine Datenselektion durchführen. Zu diesem
+Zweck darf die Datenstelle der Rentenversicherung die Daten nach Satz
+3 sowie die ihr nach § 18m Absatz 1 von der Bundesagentur für Arbeit
+übermittelten Betriebsnummern und Angaben nach § 18i Absatz 2 und 4
+aus dem Dateisystem der Beschäftigungsbetriebe verarbeiten. Für die
+Datenselektion verwendet die Datenstelle der Rentenversicherung die
+nach § 26 Absatz 1 Satz 1 und 2 des Schwarzarbeitsbekämpfungsgesetzes
+von ihr und der Zentralstelle im Einvernehmen sowie im Einvernehmen
+mit der oder dem Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit festgelegten Risikoindikatoren und
+Risikoparametern. Sie darf der Zentralstelle die hierdurch ermittelten
+Risikofälle einschließlich der einschlägigen Risikoindikatoren und
+Risikoparameter sowie zur eindeutigen Identifikation des Arbeitgebers
+die ihr von der Bundesagentur für Arbeit für die betroffenen
+Arbeitgeber übermittelten Daten nach § 18m Absatz 1 der betroffenen
+Arbeitgeber übermitteln. Soweit die festgelegten Risikoindikatoren und
+Risikoparameter zur Erstellung von Risikofällen einen Datenabgleich
+bei der Zentralstelle mit weiteren nach § 26 des
+Schwarzarbeitsbekämpfungsgesetzes vorliegenden Daten erfordern, darf
+die Datenstelle der Rentenversicherung zu diesem Zweck und unabhängig
+von der Datenselektion nach den Sätzen 9 bis 11 neben den Daten nach
+Satz 12 auch folgende Daten an die Zentralstelle übermitteln:
+
+1.  die Anzahl der bei dem Arbeitgeber Beschäftigten,
+
+
+2.  die monatsbezogene Anzahl der An- und Abmeldungen von Beschäftigten,
+
+
+3.  die Kennzeichnung, in wie vielen Fällen es sich bei den zu den Nummern
+    1 und 2 genannten um geringfügige Beschäftigungen handelt,
+
+
+4.  das in der Unfallversicherung beitragspflichtige Entgelt der bei dem
+    Arbeitgeber Beschäftigten als Gesamtsumme.
+
+
+
 
 (8a) Die Deutsche Rentenversicherung Bund führt für die Vorbereitung
 der Prüfung bei einem Arbeitgeber nach Absatz 1 eine automatisierte
