@@ -28,10 +28,10 @@ Neugefasst durch
 :   Art. 9 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 5 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Einleitende Vorschriften
@@ -1363,13 +1363,17 @@ Person ist zulässig, soweit sie erforderlich sind
 
 
 2.  für die Prüfung des Vorliegens oder die Geltendmachung eines Anspruchs
-    auf Rückgewähr einer Leistung aus öffentlichen Mitteln oder
+    auf Rückgewähr einer Leistung aus öffentlichen Mitteln,
 
 
 3.  für die Prüfung des Vorliegens oder die Geltendmachung eines
     gesetzlichen Anspruchs auf Schadensersatz aus einer vorsätzlich
     begangenen unerlaubten Handlung, auf Grund derer eine Leistung aus
-    öffentlichen Mitteln gewährt wurde.
+    öffentlichen Mitteln gewährt wurde oder
+
+
+4.  für die automationsgestützte Analyse und Bewertung nach § 26 Absatz 1
+    des Schwarzarbeitsbekämpfungsgesetzes.
 
 
 
@@ -2452,7 +2456,7 @@ Allgemeinheit anzuerkennen:
 20. die Förderung der Kriminalprävention;
 
 
-21. die Förderung des Sports (Schach gilt als Sport);
+21. die Förderung des Sports (Schach und E-Sport gelten als Sport);
 
 
 22. die Förderung der Heimatpflege, Heimatkunde und der Ortsverschönerung;
@@ -2616,7 +2620,7 @@ werden und wenn die folgenden Voraussetzungen gegeben sind:
     gegeben, wenn die Mittel spätestens in den auf den Zufluss folgenden
     zwei Kalender- oder Wirtschaftsjahren für die steuerbegünstigten
     satzungsmäßigen Zwecke verwendet werden. Satz 1 gilt nicht für
-    Körperschaften mit jährlichen Einnahmen von nicht mehr als 45 000
+    Körperschaften mit jährlichen Einnahmen von nicht mehr als 100 000
     Euro.
 
 
@@ -2739,7 +2743,13 @@ Die Steuervergünstigung wird nicht dadurch ausgeschlossen, dass
 10. eine Körperschaft Mittel zum Erwerb von Gesellschaftsrechten zur
     Erhaltung der prozentualen Beteiligung an Kapitalgesellschaften im
     Jahr des Zuflusses verwendet. Dieser Erwerb mindert die Höhe der
-    Rücklage nach § 62 Absatz 1 Nummer 3.
+    Rücklage nach § 62 Absatz 1 Nummer 3,
+
+
+11. eine Körperschaft Mittel für die Errichtung und den Betrieb von
+    Photovoltaikanlagen und anderen Anlagen nach dem Erneuerbare-Energien-
+    Gesetz verwendet, soweit es sich dabei nicht um den Hauptzweck der
+    Körperschaft handelt.
 
 
 
@@ -3081,9 +3091,13 @@ diese als ein wirtschaftlicher Geschäftsbetrieb behandelt.
 
 (3) Übersteigen die Einnahmen einschließlich Umsatzsteuer aus
 wirtschaftlichen Geschäftsbetrieben, die keine Zweckbetriebe sind,
-insgesamt nicht 45 000 Euro im Jahr, so unterliegen die diesen
+insgesamt nicht 50 000 Euro im Jahr, so unterliegen die diesen
 Geschäftsbetrieben zuzuordnenden Besteuerungsgrundlagen nicht der
-Körperschaftsteuer und der Gewerbesteuer.
+Körperschaftsteuer und der Gewerbesteuer. Falls die Einnahmen aus
+sämtlichen wirtschaftlichen Geschäftsbetrieben (§ 14) die Grenze nach
+Satz 1 nicht überschreiten und insgesamt ein Gewinn erzielt wird, ist
+damit eine Prüfung, ob die Voraussetzungen der §§ 65 bis 68 vorliegen,
+nicht mehr erforderlich.
 
 (4) Die Aufteilung einer Körperschaft in mehrere selbständige
 Körperschaften zum Zweck der mehrfachen Inanspruchnahme der
@@ -3174,7 +3188,7 @@ berechnet wird.
 
 (1) Sportliche Veranstaltungen eines Sportvereins sind ein
 Zweckbetrieb, wenn die Einnahmen einschließlich Umsatzsteuer insgesamt
-45 000 Euro im Jahr nicht übersteigen. Der Verkauf von Speisen und
+50 000 Euro im Jahr nicht übersteigen. Der Verkauf von Speisen und
 Getränken sowie die Werbung gehören nicht zu den sportlichen
 Veranstaltungen.
 
@@ -4907,6 +4921,15 @@ Umständen des Einzelfalls nicht geboten ist, insbesondere wenn
 
 
 
+
+(2a) Von der Anhörung soll abgesehen werden, wenn die Finanzbehörde
+bei Erlass eines Verwaltungsakts anstelle der in der Steuererklärung
+angegebenen Daten die auf Grund gesetzlicher Vorschriften von einer
+mitteilungspflichtigen Stelle (§ 93c Absatz 1) elektronisch
+übermittelten und dem Steuerpflichtigen gemäß § 93c Absatz 1 Nummer 3
+mitzuteilenden Daten verwendet; auf die Abweichung von den erklärten
+Daten ist im Verwaltungsakt hinzuweisen. § 150 Absatz 7 Satz 1 bleibt
+unberührt.
 
 (3) Eine Anhörung unterbleibt, wenn ihr ein zwingendes öffentliches
 Interesse entgegensteht.
