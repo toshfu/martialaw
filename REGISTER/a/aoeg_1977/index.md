@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 17 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 17 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
@@ -193,9 +193,13 @@ S. 1034) sind ab dem 1. Januar 2000 anzuwenden.
 
 ### § 1b Steuerpflichtige wirtschaftliche Geschäftsbetriebe
 
-§ 64 Abs. 6 der Abgabenordnung in der Fassung des Artikels 5 des
+(1) § 64 Absatz 6 der Abgabenordnung in der Fassung des Artikels 5 des
 Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) ist ab dem 1. Januar
 2000 anzuwenden.
+
+(2) § 64 Absatz 3 der Abgabenordnung in der Fassung des Artikels 5 des
+Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 363) ist erstmals für
+den Veranlagungszeitraum 2026 anzuwenden.
 
 
 ### § 1c Krankenhäuser
@@ -1225,11 +1229,8 @@ Fassung noch nicht abgelaufen ist.
 
 
 
-ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der ab dem 1. Januar
-2025 geltenden Fassung abweichend von Absatz 2 erstmals auf Unterlagen
-anzuwenden, deren Aufbewahrungsfrist nach § 147 Absatz 3 Satz 1 der
-Abgabenordnung in der bis einschließlich 31. Dezember 2024 geltenden
-Fassung am 1. Januar 2026 noch nicht abgelaufen ist.
+ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der am 31. Dezember
+2024 geltenden Fassung abweichend von Absatz 2 anzuwenden.
 
 
 ### § 19b Zugriff auf datenverarbeitungsgestützte Buchführungssysteme
