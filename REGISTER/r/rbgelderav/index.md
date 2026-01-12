@@ -18,11 +18,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3582
 
-Geändert durch
-:   Art. 17 G v. 7.7.2021 I 2363
-
-Änderung durch
-:   Art. 10 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 10 G v. 22.12.2025 I Nr. 349
 
 [^F800579_01_BJNR358200017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -90,17 +87,30 @@ einfache elektronische Signatur ersetzt werden, wenn das elektronische
 Dokument auf einem sicheren Übermittlungsweg eingereicht wird. Sichere
 Übermittlungswege sind:
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht gemäß § 4 Absatz 1 Satz 2 des De-
-    Mail-Gesetzes angemeldet ist und er sich die sichere Anmeldung gemäß §
-    5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
-    Poststelle des Bundesamtes für Justiz.
+    Poststelle des Bundesamtes für Justiz,
+
+
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Bundesamtes für Justiz,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und der elektronischen Poststelle des Bundesamtes für
+    Justiz,
+
+
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    der elektronischen Poststelle des Bundesamtes für Justiz.
 
 
 
