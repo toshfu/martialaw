@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 18 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370 ist berücksichtigt
 
 
 ## Abschnitt 1 - Elterngeld
@@ -324,9 +324,9 @@ Kalendermonate unberücksichtigt, in denen die berechtigte Person
     bedingt war, oder
 
 
-4.  Wehrdienst nach dem Wehrpflichtgesetz in der bis zum 31. Mai 2011
-    geltenden Fassung oder nach dem Vierten Abschnitt des Soldatengesetzes
-    oder Zivildienst nach dem Zivildienstgesetz geleistet hat.
+4.  Wehrdienst nach dem Wehrpflichtgesetz oder nach dem Vierten Abschnitt
+    des Soldatengesetzes oder Zivildienst nach dem Zivildienstgesetz
+    geleistet hat.
 
 
 
@@ -556,6 +556,48 @@ Ansässigkeitsstaats der Steuer unterliegt. Unterliegt das Elterngeld
 im Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der
 Steuer, so sind die Abzüge für Steuern nach den Absätzen 1 bis 6
 entsprechend zu berücksichtigen.
+
+
+### § 2f Abzüge für Sozialabgaben
+
+(1) Als Abzüge für Sozialabgaben sind Beträge für die gesetzliche
+Sozialversicherung oder für eine vergleichbare Einrichtung sowie für
+die Arbeitsförderung zu berücksichtigen. Die Abzüge für Sozialabgaben
+werden einheitlich für Einkommen aus nichtselbstständiger und
+selbstständiger Erwerbstätigkeit anhand folgender
+Beitragssatzpauschalen ermittelt:
+
+1.  9 Prozent für die Kranken- und Pflegeversicherung, falls die
+    berechtigte Person in der gesetzlichen Krankenversicherung nach § 5
+    Absatz 1 Nummer 1 bis 12 des Fünften Buches Sozialgesetzbuch
+    versicherungspflichtig gewesen ist,
+
+
+2.  10 Prozent für die Rentenversicherung, falls die berechtigte Person in
+    der gesetzlichen Rentenversicherung oder einer vergleichbaren
+    Einrichtung versicherungspflichtig gewesen ist, und
+
+
+3.  2 Prozent für die Arbeitsförderung, falls die berechtigte Person nach
+    dem Dritten Buch Sozialgesetzbuch versicherungspflichtig gewesen ist.
+
+
+
+
+(2) Bemessungsgrundlage für die Ermittlung der Abzüge für
+Sozialabgaben ist die monatlich durchschnittlich zu berücksichtigende
+Summe der Einnahmen nach § 2c und der Gewinneinkünfte nach § 2d.
+Einnahmen aus Beschäftigungen im Sinne des § 8, des § 8a oder des § 20
+Absatz 3 Satz 1 des Vierten Buches Sozialgesetzbuch werden nicht
+berücksichtigt. Für Einnahmen aus Beschäftigungsverhältnissen im Sinne
+des § 20 Absatz 2 des Vierten Buches Sozialgesetzbuch ist der Betrag
+anzusetzen, der sich nach § 344 Absatz 4 des Dritten Buches
+Sozialgesetzbuch für diese Einnahmen ergibt, wobei der Faktor im Sinne
+des § 20 Absatz 2a Satz 2 des Vierten Buches Sozialgesetzbuch unter
+Zugrundelegung der Beitragssatzpauschalen nach Absatz 1 bestimmt wird.
+
+(3) Andere Maßgaben zur Bestimmung der sozialversicherungsrechtlichen
+Beitragsbemessungsgrundlagen werden nicht berücksichtigt.
 
 
 ### § 3 Anrechnung von anderen Einnahmen
