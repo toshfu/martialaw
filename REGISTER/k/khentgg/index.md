@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 10 G v. 30.9.2025 I Nr. 231
 
 Änderung durch
-:   Art. 13a G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 13a G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1636,7 +1636,10 @@ für das Jahr 2025 zu vereinbarende Erlössumme ist unter
 Berücksichtigung des nach § 9 Absatz 1b Satz 1 zweiter Halbsatz
 vereinbarten Veränderungswerts zu vereinbaren; bis zum Ablauf des 11.
 Dezember 2024 getroffene Vereinbarungen über diese Erlössumme sind bis
-zum 12. Februar 2025 entsprechend anzupassen.
+zum 12. Februar 2025 entsprechend anzupassen. Als Ausgangsgrundlage
+für die Vereinbarung der Erlössumme für das Jahr 2027 ist die für das
+Jahr 2026 vereinbarte oder festgesetzte Erlössumme um 1,14 Prozent zu
+erhöhen.
 
 (4) Auf Verlangen der besonderen Einrichtung werden Leistungen für
 ausländische Patientinnen und Patienten, die mit dem Ziel einer
@@ -2880,10 +2883,10 @@ Absatz 3 des Fünften Buches Sozialgesetzbuch nicht unterschritten
 wird; im Falle des § 10 Absatz 6 Satz 3 ist der Veränderungswert
 ausgehend von dem nach § 10 Absatz 6 Satz 1 veröffentlichten
 Orientierungswert unter Berücksichtigung bereits anderweitig
-finanzierter Kostensteigerungen zu vereinbaren; für das Jahr 2025 ist
-der bis zum 31. Oktober 2024 vereinbarte Veränderungswert bis zum 26.
-Dezember 2024 entsprechend neu zu vereinbaren. Die Vertragsparteien
-auf Bundesebene können Empfehlungen an die Vertragsparteien auf
+finanzierter Kostensteigerungen zu vereinbaren; für das Jahr 2026
+entspricht der Veränderungswert dem nach § 10 Absatz 6 Satz 1 im Jahr
+2025 veröffentlichten Orientierungswert. Die Vertragsparteien auf
+Bundesebene können Empfehlungen an die Vertragsparteien auf
 Landesebene zur Vereinbarung der Basisfallwerte und der zu
 berücksichtigenden Tatbestände, insbesondere zur Ausschöpfung von
 Wirtschaftlichkeitsreserven nach § 10 Absatz 3 Satz 1 Nummer 3,
@@ -2957,7 +2960,10 @@ Absatz 4b des Krankenhausfinanzierungsgesetzes in Verbindung mit § 6b,
 aus § 6c oder aus § 115f des Fünften Buches Sozialgesetzbuch entsteht,
 ist im Erlösvolumen entsprechend verändernd zu berücksichtigen, so
 dass hieraus keine Veränderung des zu vereinbarenden
-Landesbasisfallwerts entsteht.
+Landesbasisfallwerts entsteht. Als Ausgangsgrundlage für die
+Vereinbarung des Landesbasisfallwerts für das Jahr 2027 ist der für
+das Jahr 2026 vereinbarte oder festgesetzte Landesbasisfallwert ohne
+Ausgleiche um 1,14 Prozent zu erhöhen.
 
 (2) (weggefallen)
 
@@ -3102,7 +3108,9 @@ mit den nach § 21 Absatz 3 Satz 1 Nummer 4 genannten Daten
 zusammenführen. Unterschreitet der Orientierungswert die
 Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
 Sozialgesetzbuch, entspricht der Veränderungswert der
-Veränderungsrate. Überschreitet der Orientierungswert die
+Veränderungsrate; hiervon abweichend entspricht der Veränderungswert
+für das Jahr 2026 dem nach Satz 1 im Jahr 2025 veröffentlichten
+Orientierungswert. Überschreitet der Orientierungswert die
 Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
 Sozialgesetzbuch, vereinbaren die Vertragsparteien auf Bundesebene den
 Veränderungswert gemäß § 9 Absatz 1b Satz 1 und § 9 Absatz 1 Nummer 5
@@ -3204,23 +3212,22 @@ Krankenhausfinanzierungsgesetzes.
 
 (10) Die Vereinbarung des Basisfallwerts oder des angeglichenen
 Basisfallwerts nach Absatz 8 Satz 5 und 7 ist bis zum 30. November
-jeden Jahres zu schließen; der bis zum 30. November 2024 zu
+jeden Jahres zu schließen; der bis zum 30. November 2025 zu
 schließende Basisfallwert ist unter Berücksichtigung des
-Veränderungswerts nach § 9 Absatz 1b Satz 1 zweiter Halbsatz und des
-Zeitpunkts der erstmaligen Abrechnung bis zum 23. Januar 2025 neu zu
-vereinbaren. Die Vertragsparteien auf Landesebene nehmen die
-Verhandlungen unverzüglich auf, nachdem eine Partei dazu schriftlich
-oder elektronisch aufgefordert hat. Die Vereinbarung kommt durch
-Einigung zwischen den Parteien zustande, die an der Verhandlung
-teilgenommen haben; sie ist schriftlich oder elektronisch
-abzuschließen und auf maschinenlesbaren Datenträgern zu dokumentieren.
-Kommt eine Vereinbarung bis zu diesem Zeitpunkt nicht zustande, setzt
-die Schiedsstelle nach § 13 den Basisfallwert auf Antrag einer
-Vertragspartei auf Landesebene unverzüglich fest. Abweichend von Satz
-4 setzt ab dem 1. Januar 2020 die Schiedsstelle den Basisfallwert ohne
-Antrag einer Vertragspartei innerhalb der Frist gemäß § 13 Absatz 2
-fest, wenn eine Vereinbarung bis zum 30. November nicht zustande
-kommt.
+Veränderungswerts nach § 9 Absatz 1b Satz 1 letzter Teilsatz bis zum
+29\. Januar 2026 neu zu vereinbaren. Die Vertragsparteien auf
+Landesebene nehmen die Verhandlungen unverzüglich auf, nachdem eine
+Partei dazu schriftlich oder elektronisch aufgefordert hat. Die
+Vereinbarung kommt durch Einigung zwischen den Parteien zustande, die
+an der Verhandlung teilgenommen haben; sie ist schriftlich oder
+elektronisch abzuschließen und auf maschinenlesbaren Datenträgern zu
+dokumentieren. Kommt eine Vereinbarung bis zu diesem Zeitpunkt nicht
+zustande, setzt die Schiedsstelle nach § 13 den Basisfallwert auf
+Antrag einer Vertragspartei auf Landesebene unverzüglich fest.
+Abweichend von Satz 4 setzt ab dem 1. Januar 2020 die Schiedsstelle
+den Basisfallwert ohne Antrag einer Vertragspartei innerhalb der Frist
+gemäß § 13 Absatz 2 fest, wenn eine Vereinbarung bis zum 30. November
+nicht zustande kommt.
 
 (11) Liegt der vereinbarte oder festgesetzte Basisfallwert nach Absatz
 10 außerhalb des einheitlichen Basisfallwertkorridors nach Absatz 9
