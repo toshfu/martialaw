@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 2739
 
 Zuletzt geändert durch
-:   Art. 12 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.12.2025 I Nr. 369
 
 
 ## § 1 Einrichtung des Wettbewerbsregisters
