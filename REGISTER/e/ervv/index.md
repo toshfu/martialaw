@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3803
 
 Zuletzt geändert durch
-:   Art. 43 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 349
 
 [^F800934_01_BJNR380300017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -494,10 +491,8 @@ genutzt werden, wenn bei diesem Postfach- und Versanddienst
 
 2.  die Identität des Nutzers des Postfach- und Versanddienstes durch ein
     Identifizierungsmittel nach § 11 Absatz 2 Satz 2 Nummer 1 oder 2 oder
-    für Nutzer des Organisationskontos im Sinne des § 2 Absatz 5 Satz 4
-    des Onlinezugangsgesetzes durch ein nach § 87a Absatz 6 der
-    Abgabenordnung in der Steuerverwaltung eingesetztes sicheres Verfahren
-    festgestellt ist,
+    durch ein nach § 87a Absatz 6 der Abgabenordnung in der
+    Steuerverwaltung eingesetztes sicheres Verfahren festgestellt ist,
 
 
 3.  der Nutzer des Postfach- und Versanddienstes sich beim Versand eines
