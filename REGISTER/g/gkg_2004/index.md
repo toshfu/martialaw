@@ -25,10 +25,10 @@ Zuletzt geändert durch
 :   Art. 11 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 24 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 24 G v. 22.12.2025 I Nr. 349 ist berücksichtigt
 
 Änderung durch
-:   Art. 25 G v. 22.12.2025 I Nr. 349 mWv 1.1.2036 noch nicht berücksichtigt
+:   Art. 25 G v. 22.12.2025 I Nr. 349 ist berücksichtigt
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1976,21 +1976,21 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass die von den Gerichten der Länder zu erhebenden
-Verfahrensgebühren über die in den Nummern 1211, 1411, 5111, 5113,
-5211, 5221, 6111, 6211, 7111, 7113 und 8211 des Kostenverzeichnisses
-bestimmte Ermäßigung hinaus weiter ermäßigt werden oder entfallen,
-wenn das gesamte Verfahren nach einer Mediation oder nach einem
-anderen Verfahren der außergerichtlichen Konfliktbeilegung durch
-Zurücknahme der Klage oder des Antrags beendet wird und in der Klage-
-oder Antragsschrift mitgeteilt worden ist, dass eine Mediation oder
-ein anderes Verfahren der außergerichtlichen Konfliktbeilegung
-unternommen wird oder beabsichtigt ist, oder wenn das Gericht den
-Parteien die Durchführung einer Mediation oder eines anderen
-Verfahrens der außergerichtlichen Konfliktbeilegung vorgeschlagen hat.
-Satz 1 gilt entsprechend für die in den Rechtsmittelzügen von den
-Gerichten der Länder zu erhebenden Verfahrensgebühren; an die Stelle
-der Klage- oder Antragsschrift tritt der Schriftsatz, mit dem das
-Rechtsmittel eingelegt worden ist.
+Verfahrensgebühren über die in den Nummern 1211, 1217, 1411, 5111,
+5113, 5211, 5221, 6111, 6211, 7111, 7113 und 8211 des
+Kostenverzeichnisses bestimmte Ermäßigung hinaus weiter ermäßigt
+werden oder entfallen, wenn das gesamte Verfahren nach einer Mediation
+oder nach einem anderen Verfahren der außergerichtlichen
+Konfliktbeilegung durch Zurücknahme der Klage oder des Antrags beendet
+wird und in der Klage- oder Antragsschrift mitgeteilt worden ist, dass
+eine Mediation oder ein anderes Verfahren der außergerichtlichen
+Konfliktbeilegung unternommen wird oder beabsichtigt ist, oder wenn
+das Gericht den Parteien die Durchführung einer Mediation oder eines
+anderen Verfahrens der außergerichtlichen Konfliktbeilegung
+vorgeschlagen hat. Satz 1 gilt entsprechend für die in den
+Rechtsmittelzügen von den Gerichten der Länder zu erhebenden
+Verfahrensgebühren; an die Stelle der Klage- oder Antragsschrift tritt
+der Schriftsatz, mit dem das Rechtsmittel eingelegt worden ist.
 
 
 ### § 70 (weggefallen)
@@ -2149,6 +2149,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *   Verfahren vor dem Bundesgerichtshof
+
+
+*    *
+    *
+    *   Unterabschnitt 4
+
+    *
+    *
+    *   Online-Verfahren nach Buch 12 Abschnitt 2 der Zivilprozessordnung
 
 
 *    *
@@ -3768,6 +3777,101 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
     *   Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände
         erfüllt sind.
 
+    *
+
+*    *   Unterabschnitt 4
+        Online-Verfahren nach Buch 12 Abschnitt 2 der Zivilprozessordnung
+
+
+*    *   1216
+
+    *   Verfahren im Allgemeinen ..........
+
+    *   2,0
+
+
+*    *
+    *   Absatz 1 der Anmerkung zu Nummer 1210 gilt entsprechend.
+
+    *
+
+*    *   1217
+
+    *   Beendigung des gesamten Verfahrens durch
+
+        1.  Zurücknahme der Klage
+
+            a)  vor dem Schluss der mündlichen Verhandlung,
+
+
+            b)  in den Fällen des § 1127 Abs. 1 Satz 1 und Abs. 2 ZPO vor dem
+                Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht, oder
+
+
+            c)  im Fall des § 1128 Abs. 2 ZPO vor Ablauf des Tages, an dem das Urteil
+                der Geschäftsstelle übermittelt wird,
+
+
+
+            wenn keine Entscheidung nach § 269 Abs. 3 Satz 3 ZPO über die Kosten
+            ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der
+            Parteien über die Kostentragung oder der Kostenübernahmeerklärung
+            einer Partei folgt,
+
+
+        2.  Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs.
+            2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält oder nur
+            deshalb Tatbestand und die Entscheidungsgründe enthält, weil zu
+            erwarten ist, dass das Urteil im Ausland geltend gemacht wird (§ 313a
+            Abs. 4 Nr. 5 ZPO),
+
+
+        3.  gerichtlichen Vergleich oder
+
+
+
+
+    *
+
+*    *
+    *
+        4.  Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über
+            die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten
+            Einigung der Parteien über die Kostentragung oder der
+            Kostenübernahmeerklärung einer Partei folgt,
+
+
+
+
+    *
+
+*    *
+    *   es sei denn, dass bereits ein anderes als eines der in Nummer 2
+        genannten Urteile vorausgegangen ist:
+
+    *
+
+*    *
+    *   Die Gebühr 1216 ermäßigt sich auf ..........
+
+    *   1,0
+
+
+*    *
+    *   Die Anmerkung zu Nummer 1211 gilt entsprechend.
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
     *
 
 *    *   Abschnitt 2
