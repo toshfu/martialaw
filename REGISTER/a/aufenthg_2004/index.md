@@ -20,20 +20,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 22.12.2025 I Nr. 355
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
-
-Stand: Bek. v. 3.9.2025 I Nr. 202 ist berücksichtigt
-Mittelbare änderung durch
-:   Art. 15 G v. 22.12.2025 I Nr. 355 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 369
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
