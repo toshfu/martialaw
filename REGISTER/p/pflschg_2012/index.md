@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 148 (1281)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 15 G v. 20.12.2022 I 2752
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 350 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.12.2025 I Nr. 350
 
 Stand: Die §§ 42 bis 44 treten gem. § 74 Abs. 9 zukünftig außer Kraft. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag des Außerkrafttretens im Bundesgesetzblatt bekannt.
 
