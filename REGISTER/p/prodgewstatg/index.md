@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.3.2002 I 1181;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.12.2025 I Nr. 354
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 354 mWv 1.1.2027 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 354
 
 
 ## § 1
