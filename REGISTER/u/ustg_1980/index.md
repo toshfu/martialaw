@@ -25,10 +25,10 @@ Mittelbare änderung durch
 :   Art. 52 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 u. 1.1.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
@@ -3275,9 +3275,8 @@ Umsätze:
     Zeitschriften oder Teile von diesen enthalten;
 
 
-15. die nach dem 30. Juni 2020 und vor dem 1. Januar 2024 erbrachten
-    Restaurant- und Verpflegungsdienstleistungen, mit Ausnahme der Abgabe
-    von Getränken.
+15. die Restaurant- und Verpflegungsdienstleistungen, mit Ausnahme der
+    Abgabe von Getränken.
 
 
 
@@ -4277,7 +4276,7 @@ innergemeinschaftlich erworbene Gegenstand verwendet wird.
 (3) Der Ausschluss vom Vorsteuerabzug nach Absatz 2 tritt nicht ein,
 wenn die Umsätze
 
-1.  in den Fällen des Absatzes 2 Nr. 1
+1.  in den Fällen des Absatzes 2 Satz 1 Nr. 1
 
     a)  nach § 4 Nr. 1 bis 7, § 25 Abs. 2 oder nach den in § 26 Abs. 5
         bezeichneten Vorschriften steuerfrei sind oder
@@ -4321,8 +4320,11 @@ im Wege einer sachgerechten Schätzung ermitteln. Eine Ermittlung des
 nicht abziehbaren Teils der Vorsteuerbeträge nach dem Verhältnis der
 Umsätze, die den Vorsteuerabzug ausschließen, zu den Gesamtumsätzen
 ist nur zulässig, wenn keine andere, präzisere wirtschaftliche
-Zuordnung möglich ist. In den Fällen des Absatzes 1b gelten die Sätze
-1 bis 3 entsprechend.
+Zuordnung möglich ist. Für Grundstücke ist dabei eine Aufteilung nach
+dem Verhältnis der Nutzflächen vorzunehmen, es sei denn, eine andere
+Methode führt zu einer demgegenüber präziseren wirtschaftlichen
+Zuordnung. In den Fällen des Absatzes 1b gelten die Sätze 1 bis 4
+entsprechend.
 
 (4a) Für Fahrzeuglieferer (§ 2a) gelten folgende Einschränkungen des
 Vorsteuerabzugs:
@@ -5656,9 +5658,11 @@ Leitet das Bundeszentralamt für Steuern den Antrag nicht an den
 Mitgliedstaat der Erstattung weiter, ist der Bescheid über die
 Ablehnung dem Antragsteller durch Bereitstellung zum Datenabruf nach
 § 122a in Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu
-geben. Hat der Empfänger des Bescheids der Bekanntgabe durch
-Bereitstellung zum Datenabruf nach Satz 4 nicht zugestimmt, ist der
-Bescheid schriftlich zu erteilen.
+geben. Abweichend von § 122a Absatz 2 der Abgabenordnung kann das
+Bundeszentralamt für Steuern nur zur Vermeidung von unbilligen Härten
+einem Antrag auf einmalige postalische Bekanntgabe nach § 122a Absatz
+2 der Abgabenordnung entsprechen und den Bescheid, bis zum Widerruf
+des Antrags, postalisch bekannt geben.
 
 
 ### § 18h Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
@@ -6440,6 +6444,57 @@ dass Einfuhrumsatzsteuer vom Sendungsempfänger der Sendung erhoben
 wurde, gilt Satz 3 entsprechend.
 
 
+### § 21b Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union
+
+(1) Bei der Nutzung der Zentralen Zollabwicklung nach Artikel 179 des
+Zollkodex der Union, bei der eine Zollanmeldung für Gegenstände, die
+im Inland gestellt werden, bei der Zollbehörde eines anderen
+Mitgliedstaats der Europäischen Union abgegeben wird, entsteht die
+Einfuhrumsatzsteuer am Ort der Gestellung. Für Gegenstände, für die
+nach zollrechtlichen Vorschriften eine Befreiung von der
+Gestellungspflicht vorgesehen ist, entsteht die Einfuhrumsatzsteuer an
+dem Ort, an dem sich die Gegenstände zum Zeitpunkt der Annahme der
+Zollanmeldung im Inland befinden.
+
+(2) Die Festsetzung und Erhebung der Einfuhrumsatzsteuer erfolgt in
+den Fällen nach Absatz 1 durch das jeweils zuständige Hauptzollamt im
+Inland.
+
+(3) Die Zollanmeldung, die nach Artikel 179 Absatz 1 des Zollkodex der
+Union bei einer Zollbehörde eines anderen Mitgliedstaats der
+Europäischen Union abgegeben wird, wirkt als Steuererklärung, wenn sie
+
+1.  der zuständigen Zollbehörde im Inland übermittelt und in bearbeitbarer
+    Weise erfasst wurde,
+
+
+2.  alle für die Festsetzung der Einfuhrumsatzsteuer maßgeblichen Angaben
+    enthält und
+
+
+3.  dem Zollanmelder oder seinem Vertreter oder, soweit zulässig, einem
+    Dritten entsprechend Artikel 109 Absatz 2 des Zollkodex der Union für
+    Zwecke der Einfuhrumsatzsteuer im Inland ein Zahlungsaufschub
+    entsprechend Artikel 110 Buchstabe b oder Buchstabe c des Zollkodex
+    der Union bewilligt und die dafür erforderlichen Daten jeweils in der
+    Zollanmeldung angegeben sind.
+
+
+
+Dies gilt für eine Änderung der Zollanmeldung entsprechend, die
+gegenüber der Zollbehörde des anderen Mitgliedstaats, in dem die
+Zollanmeldung abgegeben worden ist, erklärt wird. Anderenfalls ist
+eine Steuererklärung, die alle für die Festsetzung der
+Einfuhrumsatzsteuer maßgeblichen Angaben enthält, bei der zuständigen
+Zollstelle im Inland abzugeben.
+
+(4) Der Steuerbescheid ist auf elektronischem Wege zu erteilen oder
+durch Bereitstellung zum Datenabruf nach § 122a der Abgabenordnung
+bekannt zu geben. Der oder die Beteiligte muss den Empfang des
+Steuerbescheids über einen durch die Zollverwaltung für die
+elektronische Datenübermittlung vorgesehenen Zugang sicherstellen.
+
+
 ### § 22 Aufzeichnungspflichten
 
 (1) Der Unternehmer ist verpflichtet, zur Feststellung der Steuer und
@@ -7138,7 +7193,7 @@ festgesetzt. Ein weiterer Vorsteuerabzug ist ausgeschlossen.
 
 (2) Der Unternehmer, dessen steuerpflichtiger Umsatz, mit Ausnahme der
 Einfuhr und des innergemeinschaftlichen Erwerbs, im vorangegangenen
-Kalenderjahr 45 000 Euro überstiegen hat, kann den Durchschnittsatz
+Kalenderjahr 50 000 Euro überstiegen hat, kann den Durchschnittsatz
 nicht in Anspruch nehmen.
 
 (3) Der Unternehmer, bei dem die Voraussetzungen für die Anwendung des
@@ -8271,6 +8326,18 @@ Fassung abweichend von Satz 1 erstmals auf Unterlagen anzuwenden,
 deren Aufbewahrungsfrist nach § 14b Absatz 1 Satz 1 in der bis
 einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar 2026
 noch nicht abgelaufen ist.
+
+(40a) Für vor dem 1. Januar 2026 nach § 4 Nummer 4a Satz 1 von der
+Steuer befreite Umsätze sind § 4 Nummer 4a Satz 1 Buchstabe a und b,
+Nummer 19 Buchstabe a Satz 4, § 10 Absatz 1 Satz 4, § 13 Absatz 1
+Nummer 9, § 13a Absatz 1 Nummer 6, § 15 Absatz 1 Satz 1 Nummer 5, §
+18e Nummer 2, § 22 Absatz 2 Nummer 9 und Absatz 4c in der am 31.
+Dezember 2025 geltenden Fassung bis zur Auslagerung und für diese
+Auslagerung der jeweiligen Gegenstände weiterhin anzuwenden. Mit
+Ablauf des 30. Dezember 2029 gelten alle bis zu diesem Zeitpunkt nicht
+ausgelagerten Gegenstände als ausgelagert im Sinne des § 4 Nummer 4a
+Satz 1 Buchstabe a Satz 3 in der bis zum 31. Dezember 2025 geltenden
+Fassung.
 
 
 ### § 27a Umsatzsteuer-Identifikationsnummer
