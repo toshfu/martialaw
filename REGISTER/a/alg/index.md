@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2025 I Nr. 345
 
 Änderung durch
-:   Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -2081,12 +2081,12 @@ eines Beitragszuschusses bei jeder Bewilligung darauf hinzuweisen.
 
 Für die Führung und den Inhalt der Dateisysteme der
 landwirtschaftlichen Sozialversicherung gilt § 150 mit Ausnahme des
-Absatzes 1 Satz 1 Nummer 6 und 8 und des Absatzes 3 des Sechsten
-Buches Sozialgesetzbuch entsprechend mit der Maßgabe, dass in die
-Stammsatzdatei alle Personen und Unternehmen aufzunehmen sind, die von
-der landwirtschaftlichen Alterskasse, der landwirtschaftlichen
-Krankenkasse oder der landwirtschaftlichen Berufsgenossenschaft eine
-Mitgliedsnummer erhalten haben.
+Absatzes 1 Satz 1 Nummer 6 und 8, des Absatzes 3 und des Absatzes 3a
+des Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe,
+dass in die Stammsatzdatei alle Personen und Unternehmen aufzunehmen
+sind, die von der landwirtschaftlichen Alterskasse, der
+landwirtschaftlichen Krankenkasse oder der landwirtschaftlichen
+Berufsgenossenschaft eine Mitgliedsnummer erhalten haben.
 
 
 #### § 63 Auskünfte der Deutschen Post AG
