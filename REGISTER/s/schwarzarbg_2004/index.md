@@ -31,8 +31,8 @@ Zuletzt geändert durch
 
 ### § 1 Zweck des Gesetzes
 
-(1) Verhinderung und Bekämpfung der Schwarzarbeit und illegalen
-Beschäftigung.
+(1) Zweck des Gesetzes ist die Verhinderung und Bekämpfung der
+Schwarzarbeit und illegalen Beschäftigung.
 
 (2) Schwarzarbeit leistet, wer Dienst- oder Werkleistungen erbringt
 oder ausführen lässt und dabei
