@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1246
 
 Zuletzt geändert durch
-:   Art. 32 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 22.12.2025 I Nr. 369
 
 Änderung der inhaltsübersicht durch
 :   Art. 1 Nr. 1 V v. 23.10.2013 I 3882 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
