@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 15 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 6 G v. 9.1.2026 I Nr. 3 ist berücksichtigt
+
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
 natürlicher Personen bei der Verarbeitung personenbezogener Daten
@@ -3994,7 +3997,7 @@ konkrete Anhaltspunkte ergeben, dass jemand als Täter oder Teilnehmer
     auch in Verbindung mit § 129b Absatz 1, den §§ 130, 146, 151 bis 152a,
     211, 212, 232a Absatz 1 bis 5, den §§ 232b, 239a, 239b, 249 bis 251,
     255, 261, 305a, 306 bis 306c, 307 Absatz 1 bis 3, § 308 Absatz 1 bis
-    4, § 309 Absatz 1 bis 5, den §§ 313, 314, 315 Absatz 1, 3 oder Absatz
+    5, § 309 Absatz 1 bis 5, den §§ 313, 314, 315 Absatz 1, 3 oder Absatz
     4, § 315b Absatz 3, den §§ 316a, 316b Absatz 1 oder 3 oder § 316c
     Absatz 1 oder 3 des Strafgesetzbuches begehen will oder begeht,
 
