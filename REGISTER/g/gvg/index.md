@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 39 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
+Änderung durch
+:   Art. 4 G v. 9.1.2026 I Nr. 3 mWv 15.1.2026 noch nicht berücksichtigt
+
 
 ## Erster Titel - Gerichtsbarkeit
 
