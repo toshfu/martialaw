@@ -38,7 +38,7 @@ Mittelbare änderung durch
 :   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 8 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -2403,7 +2403,7 @@ des § 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen
 Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt
 § 172 der Verwaltungsgerichtsordnung entsprechend. Im Übrigen sind die
 Vorschriften der Strafprozessordnung und die auf der Grundlage des §
-32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 6, des § 32b Absatz 5
+32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 5, des § 32b Absatz 5
 und des § 32f Absatz 6 der Strafprozessordnung erlassenen
 Rechtsverordnungen entsprechend anzuwenden, soweit sich aus diesem
 Gesetz nichts anderes ergibt.
