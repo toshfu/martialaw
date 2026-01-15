@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.8.2025 I Nr. 182
-
-Änderung durch
-:   Art. 1 V v. 19.12.2025 I Nr. 365 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 19.12.2025 I Nr. 365
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -6768,6 +6765,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+*    *   **Zuranolon**
+
+    *   –
+
+    *   1-[(3α,5β)-3-Hydroxy-3-methyl-20-oxo-19-norpregnan-21-yl]-1
+        H                       -pyrazol-4-carbonitril
+
+
+*    *
+        -   ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der
+            Anlagen I bis III je abgeteilte Form bis zu 50 mg Zuranolon enthalten
+            -
+
+
+
+
+
 *    *
         -   die Salze und Molekülverbindungen der in dieser Anlage aufgeführten
             Stoffe, wenn sie nach den Erkenntnissen der medizinischen Wissenschaft
@@ -6796,23 +6810,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-
-
-
-
-
-*    *   **Zuranolon**
-
-    *   –
-
-    *   1-[(3α,5β)-3-Hydroxy-3-methyl-20-oxo-19-norpregnan-21-yl]-1
-        H                       -pyrazol-4-carbonitril
-
-
-*    *
-        -   ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der
-            Anlagen I bis III je abgeteilte Form bis zu 50 mg Zuranolon enthalten
-            -
 
 
 
