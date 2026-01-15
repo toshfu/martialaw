@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2006 I 152;
 
 Zuletzt geändert durch
-:   Art. 28 G v. 20.12.2022 I 2759
-
-Änderung durch
-:   Art. 20 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 20 G v. 22.12.2025 I Nr. 355
 
 
 ## Erster Abschnitt - Allgemeines
