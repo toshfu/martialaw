@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1975, 3015
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.7.2024 I Nr. 245
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.12.2025 I Nr. 355
 
 Änderung durch
 :   Art. 11 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
