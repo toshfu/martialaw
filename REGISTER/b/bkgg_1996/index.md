@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.1.2009 I 142, 3177;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 28.10.2025 I Nr. 259
-
-Änderung durch
-:   Art. 19 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 G v. 22.12.2025 I Nr. 355
 
 
 ## Erster Abschnitt - Leistungen
