@@ -31,10 +31,13 @@ Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 7 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 G v. 9.1.2026 I Nr. 3 mWv 15.1.2026 noch nicht berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -553,7 +556,7 @@ Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des
 Bundesrates technische Rahmenbedingungen für die Übermittlung und die
 Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das
 Gericht sowie das Nähere zur Verarbeitung von Daten der
-Postfachinhaber nach Absatz 4 Satz 1 Nummer 4 und 5 in einem sicheren
+Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren
 elektronischen Verzeichnis.
 
 (3) Ein Dokument, das schriftlich abzufassen, zu unterschreiben oder
@@ -569,46 +572,40 @@ Rechtsanwalt nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
-    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
     Poststelle der Behörde oder des Gerichts,
 
 
-3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
     einer juristischen Person des öffentlichen Rechts und der
     elektronischen Poststelle der Behörde oder des Gerichts,
 
 
-4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten elektronischen Postfach
     einer natürlichen oder juristischen Person oder einer sonstigen
     Vereinigung und der elektronischen Poststelle der Behörde oder des
     Gerichts,
 
 
-5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
     Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
     der elektronischen Poststelle der Behörde oder des Gerichts,
 
 
-6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
     Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
     festgelegt werden, bei denen die Authentizität und Integrität der
     Daten sowie die Barrierefreiheit gewährleistet sind.
 
 
 
-Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4
 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
@@ -2929,7 +2926,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 
     q)  Vorenthalten und Veruntreuen von Arbeitsentgelt unter den in § 266a
-        Absatz 4 Satz 2 Nummer 4 genannten Voraussetzungen,
+        Absatz 4 Satz 2 Nummer 3 oder 4 genannten Voraussetzungen,
 
 
     r)  Straftaten der Urkundenfälschung unter den in § 267 Abs. 3 Satz 2
@@ -3098,11 +3095,16 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
     a)  Straftaten nach § 51 Abs. 1 bis 3,
 
 
-    b)  Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Abs. 5
-        und 6.
+    b)  Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Absatz
+        5 und 6,
 
 
 
+
+
+12. aus dem Schwarzarbeitsbekämpfungsgesetz:
+
+    Straftaten nach § 9.
 
 
 
