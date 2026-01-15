@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 12 G v. 30.9.2025 I Nr. 231
 
 Änderung durch
-:   Art. 13b G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 13b G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -784,18 +784,18 @@ für die Vertragsparteien nach § 11 insbesondere
     vereinbart werden können,
 
 
-5.  bis zum 31. Oktober jeden Jahres den Veränderungswert nach Maßgabe des
-    § 10 Absatz 6 Satz 2 oder Satz 3 des Krankenhausentgeltgesetzes, wobei
+5.  bis zum 31. Oktober jedes Jahres den Veränderungswert nach Maßgabe des
+    § 10 Absatz 6 Satz 6 oder 7 des Krankenhausentgeltgesetzes, wobei
     bereits anderweitig finanzierte Kostensteigerungen zu berücksichtigen
     sind, soweit dadurch die Veränderungsrate nach § 71 Absatz 3 des
     Fünften Buches Sozialgesetzbuch nicht unterschritten wird; im Falle
-    des § 10 Absatz 6 Satz 3 des Krankenhausentgeltgesetzes ist der
+    des § 10 Absatz 6 Satz 7 des Krankenhausentgeltgesetzes ist der
     Veränderungswert ausgehend von dem nach § 10 Absatz 6 Satz 1 des
     Krankenhausentgeltgesetzes veröffentlichten Orientierungswert unter
     Berücksichtigung bereits anderweitig finanzierter Kostensteigerungen
-    zu vereinbaren; für das Jahr 2025 ist der bis zum 31. Oktober 2024
-    vereinbarte Veränderungswert bis zum 26. Dezember 2024 entsprechend
-    neu zu vereinbaren,
+    zu vereinbaren; für das Jahr 2026 entspricht der Veränderungswert dem
+    nach § 10 Absatz 6 Satz 1 des Krankenhausentgeltgesetzes im Jahr 2025
+    veröffentlichten Orientierungswert,
 
 
 6.  den einheitlichen Aufbau der Datensätze und das Verfahren für die
