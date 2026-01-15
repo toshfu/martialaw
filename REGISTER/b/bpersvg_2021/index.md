@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1614
 
 Zuletzt geändert durch
-:   Art. 8 G v. 20.12.2023 I Nr. 389
-
-Änderung durch
-:   Art. 11 G v. 28.10.2025 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 28.10.2025 I Nr. 259
 
 Stand: Ersetzt G 2035-4 v. 15.3.1974 I 693 (BPersVG)
 Dieses Gesetzes dient der Umsetzung der Richtlinie 2002/14/EG des
