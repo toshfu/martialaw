@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1254 (2298) (2017 I 154)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2023 I Nr. 413
+:   Art. 3 G v. 9.1.2026 I Nr. 3
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -206,7 +206,7 @@ Anhaltspunkte für den Verdacht bestehen, dass jemand
     a)  den §§ 129a bis 130 des Strafgesetzbuches sowie
 
 
-    b)  den §§ 211, 212, 239a, 239b, 306 bis 306c, 308 Abs. 1 bis 3, § 315
+    b)  den §§ 211, 212, 239a, 239b, 306 bis 306c, § 308 Absatz 1 bis 4, § 315
         Abs. 3, § 316b Abs. 3 und § 316c Abs. 1 und 3 des Strafgesetzbuches,
         soweit diese sich gegen die freiheitliche demokratische Grundordnung,
         den Bestand oder die Sicherheit des Bundes oder eines Landes richten,
