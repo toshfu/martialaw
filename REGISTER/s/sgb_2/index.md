@@ -20,13 +20,7 @@ Neugefasst durch
 :   Bek. v. 13.5.2011 I 850, 2094;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 24.2.2025 I Nr. 57
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 363 ist berücksichtigt
+:   Art. 8 G v. 22.12.2025 I Nr. 363
 
 
 ## Kapitel 1 - Fördern und Fordern
