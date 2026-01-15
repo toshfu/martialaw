@@ -34,7 +34,7 @@ Mittelbare änderung durch
 :   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 9 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Anwendungsbereich
@@ -2425,8 +2425,8 @@ erforderlich ist.
 
 #### § 77b Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz und die Landesregierungen
-bestimmen für ihren Bereich durch Rechtsverordnung,
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz und die
+Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung,
 
 1.  den Zeitpunkt, von dem an elektronische Dokumente nach § 77a Absatz 1
     eingereicht werden können,
@@ -2453,8 +2453,9 @@ bestimmen für ihren Bereich durch Rechtsverordnung,
 
 
 
-(2) Das Bundesministerium der Justiz und die Landesregierungen können
-jeweils für ihren Bereich durch Rechtsverordnung bestimmen,
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz und die
+Landesregierungen können jeweils für ihren Bereich durch
+Rechtsverordnung bestimmen,
 
 1.  dass Akten, die vor dem in Absatz 1 Nummer 3 bezeichneten Zeitpunkt in
     Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis
@@ -2467,23 +2468,23 @@ jeweils für ihren Bereich durch Rechtsverordnung bestimmen,
 
 
 
-(3) Die elektronische Aktenführung nach § 77a Absatz 4 sowie die
-Zulassung der Weiterführung in elektronischer beziehungsweise
-Papierform können jeweils auf einzelne Gerichte oder Behörden oder auf
-allgemein bestimmte Verfahren oder Verfahrensabschnitte beschränkt
-werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der
-Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
-die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren oder Verfahrensabschnitten die Akten elektronisch geführt
-werden oder geführt werden können und in welchen Verfahren oder
-Verfahrensabschnitten die Akten in elektronischer beziehungsweise
-Papierform weitergeführt werden. Die Rechtsverordnung des
-Bundesministeriums der Justiz bedarf nicht der Zustimmung des
-Bundesrates. Die Landesregierungen können die Ermächtigung durch
-Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die
-Zulassung der elektronischen Übermittlung nach § 77a Absatz 1 kann auf
-einzelne Gerichte und Behörden sowie auf einzelne Verfahren oder
-Verfahrensabschnitte beschränkt werden.
+(3) Die Rechtsverordnung des Bundesministeriums der Justiz und für
+Verbraucherschutz bedarf nicht der Zustimmung des Bundesrates. Die
+Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
+die Landesjustizverwaltungen übertragen. Die Zulassung der
+elektronischen Übermittlung nach § 77a Absatz 1 kann auf einzelne
+Gerichte und Behörden sowie auf einzelne Verfahren oder
+Verfahrensabschnitte beschränkt werden. Die elektronische Aktenführung
+nach § 77a Absatz 4 sowie die Zulassung der Weiterführung in
+elektronischer beziehungsweise Papierform können jeweils auf einzelne
+Gerichte oder Behörden oder auf allgemein bestimmte Verfahren oder
+Verfahrensabschnitte beschränkt werden; wird von dieser Möglichkeit
+Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass
+durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist,
+geregelt wird, in welchen Verfahren oder Verfahrensabschnitten die
+Akten elektronisch geführt werden oder geführt werden können und in
+welchen Verfahren oder Verfahrensabschnitten die Akten in
+elektronischer beziehungsweise Papierform weitergeführt werden.
 
 
 ### Abschnitt 2 - Schutz personenbezogener Daten im Rechtshilfeverkehr
