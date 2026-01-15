@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 1994, 1867
 
 Zuletzt geändert durch
-:   Art. 31 G v. 20.12.2022 I 2759
-
-Änderung durch
-:   Art. 21 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 22.12.2025 I Nr. 355
 
 
 ## Eingangsformel
