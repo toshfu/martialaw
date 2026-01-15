@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 28.10.2025 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 9 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F804365_01_BJNR157200018]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
@@ -1299,16 +1299,16 @@ eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1, § 58 Absatz
 1 oder Absatz 2 oder § 64 des Pflegeberufegesetzes verfügen. Für
 Prüferinnen oder Prüfer nach Satz 2 Nummer 3 können die Länder bis zum
 Jahr 2029 Ausnahmen vom Erfordernis nach Satz 3 genehmigen. Für die
-Prüfung der Kompetenzen zur selbständigen und eigenverantwortlichen
-Ausübung erweiterter heilkundlicher Tätigkeiten durch hochschulisch
-ausgebildete Pflegefachkräfte nach § 37 Absatz 2 Satz 2 des
-Pflegeberufegesetzes müssen dem Prüfungsausschuss zusätzlich zu den in
+Prüfung der Kompetenzen zur eigenverantwortlichen Wahrnehmung
+heilkundlicher Aufgaben nach § 37 Absatz 2 Satz 2 des
+Pflegeberufegesetzes durch hochschulisch ausgebildete
+Pflegefachpersonen müssen dem Prüfungsausschuss zusätzlich zu den in
 Satz 2 Nummer 1 bis 4 genannten Personen zwei ärztliche
 Fachprüferinnen oder Fachprüfer angehören; die ärztlichen
 Fachprüferinnen und Fachprüfer sollen die studierenden Personen in den
-selbständigen und eigenverantwortlichen Kompetenzen zur Ausübung
-erweiterter heilkundlicher Tätigkeiten unterrichtet haben, die
-Gegenstand der staatlichen Prüfung sind.
+Kompetenzen für die eigenverantwortliche Wahrnehmung dieser
+heilkundlichen Aufgaben unterrichtet haben, die Gegenstand der
+staatlichen Prüfung sind.
 
 (2) Die zuständige Behörde bestellt das Mitglied nach Absatz 1 Satz 2
 Nummer 1 sowie dessen Stellvertreterin oder Stellvertreter. Die
@@ -1568,21 +1568,21 @@ reflektieren. Der praktische Teil der Prüfung nach Absatz 1 Nummer 1
 schließt das entsprechende Modul ab.
 
 (2a) Der praktische Teil der Prüfung nach Absatz 1 Nummer 2 besteht
-aus einer Aufgabe zur Ausübung erweiterter heilkundlicher Tätigkeiten
-bei Patientinnen oder Patienten. Sie umfasst die Kompetenzbereiche I
-bis IV der Anlage 5 Teil B. Die zu prüfende Person übernimmt dabei
-alle Aufgaben, die Gegenstand der Behandlung sind, einschließlich der
+aus einer Aufgabe zur eigenverantwortlichen Wahrnehmung heilkundlicher
+Aufgaben nach § 37 Absatz 2 Satz 2 des Pflegeberufegesetzes bei
+Patientinnen oder Patienten. Sie umfasst die Kompetenzbereiche I bis
+IV der Anlage 5 Teil B. Die zu prüfende Person übernimmt dabei alle
+Aufgaben, die Gegenstand der Behandlung sind, einschließlich der
 Dokumentation. Die zu prüfende Person zeigt die erworbenen Kompetenzen
-im Bereich der selbständigen und eigenverantwortlichen Ausübung
-erweiterter heilkundlicher Tätigkeiten. Dabei stellt sie auch die
-Kompetenz unter Beweis, ihre Diagnose- und Behandlungsmaßnahmen zu
-erläutern und zu begründen sowie die Prüfungssituation zu
-reflektieren. Dabei hat sie nachzuweisen, dass sie in der Lage ist,
-die erworbenen Kompetenzen zur selbständigen und eigenverantwortlichen
-Ausübung erweiterter heilkundlicher Tätigkeiten in der beruflichen
-Praxis anzuwenden, und dass sie befähigt ist, die Aufgaben
-eigenverantwortlich zu lösen. Der praktische Teil der Prüfung nach
-Absatz 1 Nummer 2 schließt das entsprechende Modul ab.
+im Bereich der eigenverantwortlichen Wahrnehmung dieser heilkundlichen
+Aufgaben. Dabei stellt sie auch die Kompetenz unter Beweis, ihre
+Diagnose- und Behandlungsmaßnahmen zu erläutern und zu begründen sowie
+die Prüfungssituation zu reflektieren. Dabei hat sie nachzuweisen,
+dass sie in der Lage ist, die erworbenen Kompetenzen zur
+eigenverantwortlichen Wahrnehmung dieser heilkundlichen Aufgaben in
+der beruflichen Praxis anzuwenden, und dass sie befähigt ist, die
+Aufgaben eigenverantwortlich zu lösen. Der praktische Teil der Prüfung
+nach Absatz 1 Nummer 2 schließt das entsprechende Modul ab.
 
 (3) Die Prüfungsaufgabe nach Absatz 2 soll insbesondere den
 Versorgungsbereich berücksichtigen, in dem die zu prüfende Person im
@@ -1621,12 +1621,12 @@ ist eine angemessene Vorbereitungszeit unter Aufsicht zu gewähren.
 
 (5a) Die Prüfung nach Absatz 2a besteht aus mindestens einer
 Fallvorstellung mit einer Dauer von insgesamt maximal 20 Minuten, der
-Durchführung einer Aufgabe zur Ausübung erweiterter heilkundlicher
-Tätigkeiten aus den Kompetenzbereichen I bis IV der Anlage 5 Teil B
-und einem Prüfungsgespräch mit einer Dauer von maximal 20 Minuten. In
-dem Prüfungsgespräch hat die zu prüfende Person ihre Diagnose- und
-Behandlungsmaßnahmen zu erläutern und zu begründen sowie die
-Prüfungssituation zu reflektieren. Die Prüfung für die einzelne zu
+Durchführung einer Aufgabe zur eigenverantwortlichen Wahrnehmung
+heilkundlicher Aufgaben aus den Kompetenzbereichen I bis IV der Anlage
+5 Teil B und einem Prüfungsgespräch mit einer Dauer von maximal 20
+Minuten. In dem Prüfungsgespräch hat die zu prüfende Person ihre
+Diagnose- und Behandlungsmaßnahmen zu erläutern und zu begründen sowie
+die Prüfungssituation zu reflektieren. Die Prüfung für die einzelne zu
 prüfende Person soll einschließlich des Prüfungsgesprächs in der Regel
 nicht länger als 180 Minuten dauern und kann durch eine
 organisatorische Pause von maximal einem Werktag unterbrochen werden.
@@ -1711,9 +1711,10 @@ nach § 58 Absatz 1 des Pflegeberufegesetzes oder nach § 58 Absatz 2
 des Pflegeberufegesetzes erfüllt, so stellt die zuständige Behörde die
 Erlaubnisurkunde nach dem Muster der Anlage 13 aus. Für die Ausbildung
 nach Teil 3 des Pflegeberufegesetzes enthält die Urkunde nach § 1 Satz
-2 des Pflegeberufegesetzes einen Hinweis auf die erweiterten
-heilkundlichen Kompetenzen nach § 37 Absatz 2 Satz 2 des
-Pflegeberufegesetzes nach dem Muster der Anlage 14.
+2 des Pflegeberufegesetzes einen Hinweis auf die Kompetenzen zur
+eigenverantwortlichen Wahrnehmung heilkundlicher Aufgaben nach § 37
+Absatz 2 Satz 2 des Pflegeberufegesetzes nach dem Muster der Anlage
+14\.
 
 
 ### Abschnitt 2 - Anerkennung von ausländischen Berufsabschlüssen, erforderliche Anpassungsmaßnahmen und Erbringung von Dienstleistungen
@@ -5702,33 +5703,36 @@ B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37
     Absatz 1 Nummer 2
 
     I.  Grundlagen zur Entwicklung eines professionellen Berufs- und
-        Rollenverständnis mit erweiterter heilkundlicher Verantwortung.
+        Rollenverständnis mit Verantwortung zur eigenverantwortlichen
+        Wahrnehmung heilkundlicher Aufgaben nach § 37 Absatz 2 Satz 2 des
+        Pflegeberufegesetzes.
 
         Die Absolventinnen und Absolventen
 
         –   entwickeln ein erweitertes Rollenverständnis sowie eine professionelle
-            Haltung im Hinblick auf die Ausübung erweiterter heilkundlicher
-            Aufgaben vor einem rechtlich-ethischen Hintergrund,
+            Haltung im Hinblick auf die eigenverantwortliche Wahrnehmung der
+            heilkundlichen Aufgaben vor einem rechtlich-ethischen Hintergrund,
 
 
         –   schätzen ihre eigenen Kompetenzen und Potenziale ein und treffen eine
-            begründete Entscheidung für oder gegen die Übernahme erweiterter
-            heilkundlicher Aufgaben,
+            begründete Entscheidung für oder gegen die eigenverantwortliche
+            Wahrnehmung der heilkundlichen Aufgaben,
 
 
-        –   identifizieren und gestalten die mit den erweiterten heilkundlichen
-            Kompetenzen verbundenen Verantwortungsbereiche in verschiedenen
-            pflegeberuflichen Handlungsfeldern sowie die Spannungsfelder, die sich
-            in der Zusammenarbeit mit Ärztinnen und Ärzten, dem
-            interprofessionellen Team und den involvierten Leistungsträgern
-            ergeben können,
+        –   identifizieren und gestalten die mit der eigenverantwortlichen
+            Wahrnehmung der heilkundlichen Aufgaben verbundenen
+            Verantwortungsbereiche in verschiedenen pflegeberuflichen
+            Handlungsfeldern sowie die Spannungsfelder, die sich in der
+            Zusammenarbeit mit Ärztinnen und Ärzten, dem interprofessionellen Team
+            und den involvierten Leistungsträgern ergeben können,
 
 
-        –   übernehmen eine erweiterte Verantwortung für die Einbettung
-            heilkundlicher Tätigkeiten in den Pflege- und Therapieprozess und die
-            Steuerung von Pflege- und Therapieprozessen bei hochkomplexen
-            Pflegebedarfen, gesundheitlichen Problemlagen sowie hochbelasteten und
-            kritischen Lebens- und Pflegesituationen und Verlaufsdynamiken,
+        –   übernehmen die Verantwortung für die Einbettung der
+            eigenverantwortlich wahrgenommenen heilkundlichen Aufgaben in den
+            Pflege- und Therapieprozess und die Steuerung von Pflege- und
+            Therapieprozessen bei hochkomplexen Pflegebedarfen, gesundheitlichen
+            Problemlagen sowie hochbelasteten und kritischen Lebens- und
+            Pflegesituationen und Verlaufsdynamiken,
 
 
         –   überwachen und steuern integrierte patientenorientierte Pflege- und
@@ -5738,8 +5742,8 @@ B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37
 
 
         –   übernehmen die fachliche, wirtschaftliche, ethische und rechtliche
-            Verantwortung für die selbständig ausgeführten übertragenen
-            erweiterten heilkundlichen Aufgaben,
+            Verantwortung für die eigenverantwortlich wahrgenommenen
+            heilkundlichen Aufgaben,
 
 
         –   beteiligen sich an der wissenschaftsbasierten Weiterentwicklung der
@@ -5773,9 +5777,9 @@ B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37
 
 
 
-    II. Erweiterte heilkundliche Verantwortung für Pflege- und
-        Therapieprozesse mit Menschen aller Altersstufen in diabetischer
-        Stoffwechsellage.
+    II. Verantwortung für heilkundliche Aufgaben nach § 37 Absatz 2 Satz 2 des
+        Pflegeberufegesetzes im Rahmen von Pflege- und Therapieprozessen mit
+        Menschen aller Altersstufen in diabetischer Stoffwechsellage.
 
         Die Absolventinnen und Absolventen
 
@@ -5838,18 +5842,19 @@ B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37
             Beratungsbedarfe der am Prozess Beteiligten,
 
 
-        –   erleben und erkennen ihr durch die selbständige Übernahme erweiterter
-            heilkundlicher Aufgaben erweitertes Kompetenzprofil und gestalten die
-            Schnittstellen zu anderen mit der Diabetesproblematik befassten
+        –   erleben und erkennen ihr durch die eigenverantwortliche Wahrnehmung
+            der heilkundlichen Aufgaben erweitertes Kompetenzprofil und gestalten
+            die Schnittstellen zu anderen mit der Diabetesproblematik befassten
             Fachberufen/Gesundheitsberufen.
 
 
 
 
 
-    III. Erweiterte heilkundliche Verantwortung für Pflege- und
-        Therapieprozesse mit Menschen aller Altersstufen, die von chronischen
-        Wunden betroffen sind.
+    III. Verantwortung für heilkundliche Aufgaben nach § 37 Absatz 2 Satz 2 des
+        Pflegeberufegesetzes im Rahmen von Pflege- und Therapieprozessen mit
+        Menschen aller Altersstufen, die von chronischen Wunden betroffen
+        sind.
 
         Die Absolventinnen und Absolventen
 
@@ -5891,10 +5896,10 @@ B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37
             gesicherter Forschungsergebnisse,
 
 
-        –   wirken an der Implementierung erweiterter heilkundlicher Tätigkeiten
-            bei der medizinisch-pflegerischen Versorgung von Menschen mit
-            chronischen Wunden in unterschiedlichen Versorgungsbereichen und über
-            die Versorgungsbereiche hinweg mit,
+        –   wirken an der Implementierung der heilkundlichen Aufgaben bei der
+            medizinisch-pflegerischen Versorgung von Menschen mit chronischen
+            Wunden in unterschiedlichen Versorgungsbereichen und über die
+            Versorgungsbereiche hinweg mit,
 
 
         –   wirken an der Entwicklung, Implementierung und Evaluation von
@@ -5917,8 +5922,9 @@ B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37
 
 
 
-    IV. Erweiterte heilkundliche Verantwortung für Pflege- und
-        Therapieprozesse mit Menschen, die von einer Demenz betroffen sind.
+    IV. Verantwortung für heilkundliche Aufgaben nach § 37 Absatz 2 Satz 2 des
+        Pflegeberufegesetzes im Rahmen von Pflege- und Therapieprozessen mit
+        Menschen, die von einer Demenz betroffen sind.
 
         Die Absolventinnen und Absolventen
 
@@ -6653,11 +6659,13 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 #### Anlage 14 Anlage zur Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
 
-(Fundstelle: BGBl. 2023 I Nr. 359, S. 36 )
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 36)
 
 (Hinweis nach § 42 Satz 2 der Pflegeberufe-Ausbildungs- und
--Prüfungsverordnung über die erweiterten heilkundlichen Kompetenzen
-nach § 37 Absatz 2 Satz 2 des Pflegeberufegesetzes)
+-Prüfungsverordnung über die zur eigenverantwortlichen Wahrnehmung der
+heilkundlichen Aufgaben nach § 37 Absatz 2 Satz 2 des
+Pflegeberufegesetzes erforderlichen fachlichen und personalen
+Kompetenzen)
 
 *    *
     *
@@ -6687,10 +6695,10 @@ nach § 37 Absatz 2 Satz 2 des Pflegeberufegesetzes)
 
 
    hat im Rahmen der hochschulischen Pflegeausbildung nach Teil 3 des
-Pflegeberufegesetzes die erforderlichen Kompetenzen zur selbständigen
-und eigenverantwortlichen Ausübung erweiterter heilkundlicher
-Tätigkeiten in den Bereichen diabetische Stoffwechsellage, chronische
-Wunden und Demenz erworben.
+Pflegeberufegesetzes die erforderlichen Kompetenzen zur
+eigenverantwortlichen Wahrnehmung heilkundlicher Aufgaben nach § 37
+Absatz 2 Satz 2 des Pflegeberufegesetzes in den Bereichen diabetische
+Stoffwechsellage, chronische Wunden und Demenz erworben.
 
 
 *    *   Ort, Datum
