@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2025 I Nr. 348
 
+Änderung durch
+:   Art. 2 G v. 9.1.2026 I Nr. 4 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                    Richtlinie 80/68/EWG des Rates
     vom 17. Dezember 1979 über den Schutz des Grundwassers gegen
@@ -3660,22 +3663,29 @@ wenn ihre Eignung von der zuständigen Behörde festgestellt worden ist.
 
 (4) Folgende Anlagenteile gelten als geeignet:
 
-1.  Bauprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU)
-    Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März
-    2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von
-    Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates
-    (ABl. L 88 vom 4.4.2011, S. 5), wenn
+1.  Bauprodukte im Sinne des Artikels 2 Nummer 1 und 2 der Verordnung (EU)
+    Nr. 305/2011 und Bauprodukte im Sinne des Artikels 3 Nummer 1 der
+    Verordnung (EU) 2024/3110, wenn
 
-    a)  die Bauprodukte von einer harmonisierten Norm im Sinne von Artikel 2
-        Nummer 11 der Verordnung (EU) Nr. 305/2011 erfasst sind oder einer
-        Europäischen Technischen Bewertung im Sinne von Artikel 2 Nummer 13
-        der Verordnung (EU) Nr. 305/2011 entsprechen und die CE-Kennzeichnung
-        angebracht wurde und
+    a)  die Bauprodukte von einer harmonisierten Norm im Sinne des Artikels 2
+        Nummer 11 der Verordnung (EU) Nr. 305/2011 oder einer harmonisierten
+        technischen Spezifikation im Sinne des Artikels 3 Nummer 42 der
+        Verordnung (EU) 2024/3110 erfasst sind oder einer europäischen
+        technischen Bewertung im Sinne des Artikels 2 Nummer 13 der Verordnung
+        (EU) Nr. 305/2011 oder des Artikels 3 Nummer 19 der Verordnung (EU)
+        2024/3110 entsprechen und
 
 
-    b)  die erklärten Leistungen alle wesentlichen Merkmale der harmonisierten
-        Norm oder der Europäischen Technischen Bewertung umfassen, die dem
-        Gewässerschutz dienen,
+    b)  die CE-Kennzeichnung angebracht wurde und
+
+
+    c)  die erklärten Leistungen alle wesentlichen dem Gewässerschutz
+        dienenden Merkmale einer harmonisierten Norm im Sinne des Artikels 2
+        Nummer 11 der Verordnung (EU) Nr. 305/2011, einer harmonisierten
+        technischen Spezifikation im Sinne der Verordnung (EU) 2024/3110 oder
+        einer europäischen technischen Bewertung im Sinne des Artikels 2
+        Nummer 13 der Verordnung (EU) Nr. 305/2011 oder des Artikels 3 Nummer
+        19 der Verordnung (EU) 2024/3110 umfassen,
 
 
 
