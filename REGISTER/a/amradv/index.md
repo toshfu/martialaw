@@ -25,9 +25,8 @@ Mittelbare änderung durch
 :   Art. 3 Nr. 1a G v. 9.8.2019 I 1202 ist berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 ist berücksichtigt
 
-Stand: Berichtigung vom 21.12.2021 I 5261 (Nr. 86) ist berücksichtigt
 
 ## § 1 Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind
 
