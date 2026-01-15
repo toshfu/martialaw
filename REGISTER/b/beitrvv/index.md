@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1138
 
 Zuletzt geändert durch
-:   Art. 6b G v. 25.2.2025 I Nr. 63
-
-Änderung durch
-:   Art. 23 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 22.12.2025 I Nr. 355
 
 
 ## Eingangsformel
