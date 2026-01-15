@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 16.10.2023 I Nr. 280
 
+Änderung durch
+:   Art. 3 G v. 9.1.2026 I Nr. 4 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Die §§ 60b u. 60c treten gem. Art. 6 Abs. 2 G v. 16.10.2023 I Nr. 280 am 1.10.2024 in Kraft
 [^F812398_01_BJNR172810020]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2010/31/EU des
     Europäischen Parlaments und des Rates vom 19. Mai 2010 über die
@@ -700,20 +703,24 @@ Landesrecht zuständigen Behörde die erforderlichen Nachweise für eine
 anderweitige Bewertung vorzulegen. Satz 1 ist nicht anzuwenden auf
 Baustoffe, Bauteile und Anlagen,
 
-1.  wenn für sie die Bewertung auch im Hinblick auf die Anforderungen zur
-    Energieeinsparung im Sinne dieses Gesetzes durch die Verordnung (EU)
-    Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März
-    2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von
-    Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates
-    (ABl. L 88 vom 4.4.2011, S. 5; L 103 vom 12.4.2013, S. 10; L 92 vom
-    8\.4.2015, S. 118), die zuletzt durch die Delegierte Verordnung (EU)
-    Nr. 574/2014 (ABl. L 159 vom 28.5.2014, S. 41) geändert worden ist,
-    oder durch nationale Rechtsvorschriften zur Umsetzung oder
-    Durchführung von Rechtsvorschriften der Europäischen Union
-    gewährleistet wird, erforderliche CE-Kennzeichnungen angebracht wurden
-    und nach den genannten Vorschriften zulässige Klassen und
-    Leistungsstufen nach Maßgabe landesrechtlicher Vorschriften
-    eingehalten werden oder
+1.  wenn für sie die nachstehenden Voraussetzungen erfüllt sind:
+
+    a)  die Bewertung wird auch im Hinblick auf die Anforderungen zur
+        Energieeinsparung im Sinne dieses Gesetzes durch die Verordnung (EU)
+        Nr. 305/2011 oder die Verordnung (EU) 2024/3110 oder durch nationale
+        Rechtsvorschriften zur Umsetzung oder Durchführung von
+        Rechtsvorschriften der Europäischen Union gewährleistet,
+
+
+    b)  die erforderlichen CE-Kennzeichnungen wurden angebracht und
+
+
+    c)  die nach den in Buchstabe a genannten Vorschriften zulässigen Klassen
+        und Leistungsstufen werden nach Maßgabe landesrechtlicher Vorschriften
+        eingehalten oder
+
+
+
 
 
 2.  bei denen nach bauordnungsrechtlichen Vorschriften über die Verwendung
