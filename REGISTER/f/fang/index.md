@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 1960, 93
 
 Zuletzt geändert durch
-:   Art. 303 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 16 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 22.12.2025 I Nr. 355
 
 
 ## Inhaltsverzeichnis
