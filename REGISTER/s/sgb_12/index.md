@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 8 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
