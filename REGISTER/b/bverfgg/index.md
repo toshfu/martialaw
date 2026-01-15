@@ -2241,7 +2241,7 @@ Geschäftsordnung.
 eines Monats nach Eingang der Begründung der Verzögerungsbeschwerde
 eine Stellungnahme vorlegen.
 
-(2) Die Beschwerdekammer entscheidet mit Mehr-heit. Bei
+(2) Die Beschwerdekammer entscheidet mit Mehrheit. Bei
 Stimmengleichheit gilt die Verzögerungsbeschwerde als zurückgewiesen.
 Die Beschwerdekammer entscheidet ohne mündliche Verhandlung. Der
 Beschluss über die Verzögerungsbeschwerde bedarf keiner Begründung.
