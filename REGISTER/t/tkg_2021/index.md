@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 25 G v. 2.12.2025 I Nr. 301
+:   Art. 12 G v. 9.1.2026 I Nr. 7
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
@@ -10340,12 +10340,11 @@ beschrieben werden.
 
 Jeder Betreiber eines öffentlichen Mobilfunknetzes hat den
 berechtigten Stellen nach § 100i Absatz 1 der Strafprozessordnung, §
-53 des Bundekriminalamtsgesetzes, § 9 Absatz 4 des
-Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 5 des MAD-
-Gesetzes und § 5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe
-der Rechtsverordnung nach § 170 Absatz 5 und der Technischen
-Richtlinie nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt
-wird,
+53 des Bundekriminalamtsgesetzes, § 12 Absatz 1 des MAD-Gesetzes, § 9
+Absatz 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit §
+5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe der
+Rechtsverordnung nach § 170 Absatz 5 und der Technischen Richtlinie
+nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt wird,
 
 1.  den Einsatz von technischen Mitteln der berechtigten Stellen in seinem
     Mobilfunknetz zu ermöglichen, die der Ermittlung folgender
@@ -11008,12 +11007,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 6.  an den Militärischen Abschirmdienst, soweit dies aufgrund
-    tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter
-    Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder
-    zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der
-    Angehörigen, der Dienststellen oder Einrichtungen des
-    Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14
-    Absatz 1 des MAD-Gesetzes erforderlich ist,
+    tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben
+    nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 7.  an den Bundesnachrichtendienst, soweit dies erforderlich ist
@@ -11292,13 +11287,9 @@ Auskunft ersuchenden Stellen.
 
 
 
-6.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+6.  an den Militärischen Abschirmdienst, soweit dies aufgrund
+    tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben
+    nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 7.  den Bundesnachrichtendienst, soweit dies erforderlich ist
