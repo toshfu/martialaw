@@ -24,6 +24,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 11.1.2026 I Nr. 6 ist berücksichtigt
+
+Änderung durch
+:   Art. 5 G v. 9.1.2026 I Nr. 7 ist berücksichtigt
+
 
 ## Erster Abschnitt - Gemeinsame Vorschriften
 
@@ -145,86 +151,32 @@ werden durch Rechtsverordnung festgelegt.
 erweiterte Sicherheitsprüfungen mit Sicherheitsermittlungen gelten mit
 den Maßgaben, dass
 
-1.  die mitwirkende Behörde die betroffene Person selbst befragt, und zwar
-    – abweichend von § 12 Absatz 5 Satz 1 des
-    Sicherheitsüberprüfungsgesetzes – unabhängig davon, ob eine
-    sicherheitserhebliche Erkenntnis dies erfordert,
+1.  abweichend von § 12 Absatz 5 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes die mitwirkende Behörde die betroffene
+    Person auch dann selbst befragt, wenn eine sicherheitserhebliche
+    Erkenntnis für das Erfordernis einer solchen Befragung nicht vorliegt,
 
 
-2.  zu der betroffenen Person – abweichend von § 11 Absatz 2 und § 12
-    Absatz 3a des Sicherheitsüberprüfungsgesetzes – in jedem Fall Einsicht
-    genommen wird
-
-    a)  in öffentlich zugängliche Internetseiten und
+2.  abweichend von § 17 Absatz 1 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes der betroffenen Person bereits nach 30
+    Monaten ihre Sicherheitserklärung zur Aktualisierung zugeleitet wird,
 
 
-    b)  in den Teil ihres Profils in einem sozialen Netzwerk, der für alle
-        Mitglieder des Netzwerks sichtbar ist,
+3.  abweichend von § 17 Absatz 1 Satz 3 des
+    Sicherheitsüberprüfungsgesetzes anlässlich der Aktualisierung der
+    Sicherheitserklärung zusätzlich bei der betroffenen Person und
+    mitbetroffenen Person die Maßnahmen nach § 12 Absatz 1 Nummer 1 bis 3,
+    5 und 6 sowie Absatz 2 des Sicherheitsüberprüfungsgesetzes
+    durchgeführt werden,
 
 
+4.  abweichend von § 17 Absatz 2 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes Wiederholungsüberprüfungen bereits
+    nach fünf Jahren eingeleitet werden und
 
 
-
-3.  die betroffene Person in der Sicherheitserklärung – zusätzlich zu den
-    Angaben nach § 13 Absatz 1 des Sicherheitsüberprüfungsgesetzes –
-    anzugeben hat,
-
-    a)  welche sozialen Netzwerke sie derzeit nutzt,
-
-
-    b)  unter welchen Namen sie dort derzeit angemeldet ist,
-
-
-
-
-
-4.  die betroffene Person der Sicherheitserklärung zwei aktuelle
-    Lichtbilder mit der Angabe des Jahres der Aufnahme beizufügen hat; die
-    Lichtbilder können in elektronischer Form verlangt werden; sie dürfen
-    nicht für einen automatisierten Abgleich mit Datenbanken genutzt
-    werden; die Kosten der Lichtbilder trägt der Bund,
-
-
-5.  der betroffenen Person – abweichend von § 17 Absatz 1 Satz 1 des
-    Sicherheitsüberprüfungsgesetzes – bereits nach 30 Monaten ihre
-    Sicherheitserklärung zur Aktualisierung zugeleitet wird,
-
-
-6.  anlässlich der Aktualisierung der Sicherheitserklärung – abweichend
-    von § 17 Absatz 1 Satz 3 des Sicherheitsüberprüfungsgesetzes –
-    zusätzlich die folgenden Maßnahmen einer Wiederholungsüberprüfung
-    durchgeführt werden:
-
-    a)  bei der betroffenen Person nur
-
-        aa) die Einsichtnahme nach Nummer 2,
-
-
-        bb) die Maßnahmen nach § 12 Absatz 1 Nummer 1 bis 3 des
-            Sicherheitsüberprüfungsgesetzes und
-
-
-        cc) die Maßnahmen nach § 12 Absatz 2 des Sicherheitsüberprüfungsgesetzes
-            sowie
-
-
-
-
-
-    b)  bei der mitbetroffenen Person die Maßnahmen nach Nummer 6 Buchstabe a
-        Doppelbuchstabe bb und cc,
-
-
-
-
-
-7.  die erste und jede weitere Wiederholungsüberprüfung – abweichend von §
-    17 Absatz 2 Satz 1 des Sicherheitsüberprüfungsgesetzes – bereits nach
-    fünf Jahren eingeleitet wird und
-
-
-8.  die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der
-    Wiederholungsüberprüfung nach Nummer 6 nicht eingeleitet wird, solange
+5.  die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der
+    Wiederholungsüberprüfung nach Nummer 3 nicht eingeleitet wird, solange
 
     a)  die Wiederholungsüberprüfung noch nicht abgeschlossen ist oder
 
