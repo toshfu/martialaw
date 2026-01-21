@@ -37,7 +37,13 @@ Mittelbare änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 5 G v. 9.1.2026 I Nr. 3 mWv 15.1.2026 noch nicht berücksichtigt
+:   Art. 5 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 11.1.2026 I Nr. 6 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -2943,7 +2949,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 
     u)  gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307
-        Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, des §
+        Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis 4, des §
         310 Abs. 1, der §§ 313, 314, 315 Abs. 3, des § 315b Abs. 3 sowie der
         §§ 316a und 316c,
 
@@ -3004,7 +3010,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 5a. aus dem Ausgangsstoffgesetz:
 
-    Straftaten nach § 13 Absatz 3,
+    Straftaten nach § 13 Absatz 2,
 
 
 6.  aus dem Außenwirtschaftsgesetz:
@@ -3071,6 +3077,11 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 9a. aus dem Neue-psychoaktive-Stoffe-Gesetz:
 
     Straftaten nach § 4 Absatz 3 Nummer 1 Buchstabe a,
+
+
+9b. aus dem Sprengstoffgesetz:
+
+    Straftaten nach § 40 Absatz 3a,
 
 
 10. aus dem Völkerstrafgesetzbuch:
@@ -5377,7 +5388,7 @@ Nummer 1 oder § 13 Absatz 1 des Völkerstrafgesetzbuches oder § 129a
 Abs. 1 oder Abs. 2, auch in Verbindung mit § 129b Abs. 1, oder nach
 den §§ 176c, 176d, 211, 212, 226, 306b oder 306c des Strafgesetzbuches
 oder, soweit durch die Tat Leib oder Leben eines anderen gefährdet
-worden ist, nach § 308 Abs. 1 bis 3 des Strafgesetzbuches dringend
+worden ist, nach § 308 Absatz 1 bis 4 des Strafgesetzbuches dringend
 verdächtig ist, darf die Untersuchungshaft auch angeordnet werden,
 wenn ein Haftgrund nach Absatz 2 nicht besteht.
 
@@ -12065,11 +12076,11 @@ ohne daß es einer vorgängigen Anrufung der Staatsanwaltschaft bedarf,
 
 8.  eine Straftat nach § 142 Abs. 1 des Patentgesetzes, § 25 Abs. 1 des
     Gebrauchsmustergesetzes, § 10 Abs. 1 des Halbleiterschutzgesetzes, §
-    39 Abs. 1 des Sortenschutzgesetzes, § 143 Abs. 1, § 143a Abs. 1 und §
-    144 Abs. 1 und 2 des Markengesetzes, § 51 Abs. 1 und § 65 Abs. 1 des
-    Designgesetzes, den §§ 106 bis 108 sowie § 108b Abs. 1 und 2 des
-    Urheberrechtsgesetzes und § 33 des Gesetzes betreffend das
-    Urheberrecht an Werken der bildenden Künste und der Photographie.
+    39 Abs. 1 des Sortenschutzgesetzes, § 143 Abs. 1 und § 144 Absatz 1
+    des Markengesetzes, § 51 Abs. 1 und § 65 Abs. 1 des Designgesetzes,
+    den §§ 106 bis 108 sowie § 108b Abs. 1 und 2 des Urheberrechtsgesetzes
+    und § 33 des Gesetzes betreffend das Urheberrecht an Werken der
+    bildenden Künste und der Photographie.
 
 
 
@@ -12457,7 +12468,7 @@ verletzt ist durch eine rechtswidrige Tat nach
 
 6.  § 142 des Patentgesetzes, § 25 des Gebrauchsmustergesetzes, § 10 des
     Halbleiterschutzgesetzes, § 39 des Sortenschutzgesetzes, den §§ 143
-    bis 144 des Markengesetzes, den §§ 51 und 65 des Designgesetzes, den
+    und 144 des Markengesetzes, den §§ 51 und 65 des Designgesetzes, den
     §§ 106 bis 108b des Urheberrechtsgesetzes, § 33 des Gesetzes
     betreffend das Urheberrecht an Werken der bildenden Künste und der
     Photographie, § 16 des Gesetzes gegen den unlauteren Wettbewerb und §
@@ -16391,7 +16402,8 @@ Bundeskriminalamtgesetzes erforderlich ist. § 5 Abs. 5 Satz 1 Nr. 2
 des Waffengesetzes, § 8a Absatz 5 Satz 1 Nummer 2 des
 Sprengstoffgesetzes, § 7 Absatz 3 Satz 1 Nummer 3 des
 Luftsicherheitsgesetzes, § 12 Absatz 1 Nummer 2 des
-Sicherheitsüberprüfungsgesetzes und § 31 Absatz 4a Satz 1 des
+Sicherheitsüberprüfungsgesetzes oder eine entsprechende
+landesrechtliche Vorschrift und § 31 Absatz 4a Satz 1 des
 Geldwäschegesetzes bleiben unberührt; die Auskunft über die Eintragung
 wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die
 personenbezogenen Daten zur Eintragung in das Verfahrensregister
