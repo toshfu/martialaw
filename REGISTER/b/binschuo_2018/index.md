@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1398 (2032)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.10.2025 I Nr. 242
-
-Änderung durch
-:   Art. 1 V v. 17.12.2025 I Nr. 381 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 17.12.2025 I Nr. 381
 
 [^F804091_01_BJNR139810018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2016/1629 des
     Europäischen Parlaments und des Rates vom 14. September 2016 zur
