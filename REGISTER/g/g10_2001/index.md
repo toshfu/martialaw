@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1254 (2298) (2017 I 154)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 9.1.2026 I Nr. 3
+:   Art. 2 G v. 11.1.2026 I Nr. 6
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -137,20 +137,24 @@ sollen,
 
 
 
-Mit der Durchführung einer Beschränkungsmaßnahme dürfen nur Personen
-betraut werden, die nach Maßgabe des Satzes 1 überprüft und belehrt
-worden sind. Nach Zustimmung des Bundesministeriums des Innern, für
-Bau und Heimat, bei Beschränkungsmaßnahmen einer Landesbehörde des
-zuständigen Landesministeriums, kann der Behördenleiter der
-berechtigten Stelle oder dessen Stellvertreter die nach Absatz 1 oder
-Absatz 1a Verpflichteten schriftlich auffordern, die
-Beschränkungsmaßnahme bereits vor Abschluss der Sicherheitsüberprüfung
-durchzuführen. Der nach Absatz 1 oder Absatz 1a Verpflichtete hat
-sicherzustellen, dass die Geheimschutzmaßnahmen zum Schutz als VS-NUR
-FÜR DEN DIENSTGEBRAUCH eingestufter Informationen gemäß der nach § 35
-Absatz 1 des Sicherheitsüberprüfungsgesetzes zu erlassenden
-allgemeinen Verwaltungsvorschrift zum materiellen Geheimschutz in der
-jeweils geltenden Fassung getroffen werden.
+Der nach Absatz 1 Satz 1 oder Absatz 1a Satz 1 Verpflichtete hat
+sicherzustellen, dass in seinem Betrieb geeignetes Personal vorhanden
+ist, das dazu bereit ist, sich einer einfachen Sicherheitsüberprüfung
+nach Maßgabe des Satzes 1 Nummer 2 zu unterziehen. Mit der
+Durchführung einer Beschränkungsmaßnahme dürfen nur Personen betraut
+werden, die nach Maßgabe des Satzes 1 überprüft und belehrt worden
+sind. Nach Zustimmung des Bundesministeriums des Innern, für Bau und
+Heimat, bei Beschränkungsmaßnahmen einer Landesbehörde des zuständigen
+Landesministeriums, kann der Behördenleiter der berechtigten Stelle
+oder dessen Stellvertreter die nach Absatz 1 oder Absatz 1a
+Verpflichteten schriftlich auffordern, die Beschränkungsmaßnahme
+bereits vor Abschluss der Sicherheitsüberprüfung durchzuführen. Der
+nach Absatz 1 oder Absatz 1a Verpflichtete hat sicherzustellen, dass
+die Geheimschutzmaßnahmen zum Schutz als VS-NUR FÜR DEN DIENSTGEBRAUCH
+eingestufter Informationen gemäß der nach § 35 Absatz 1 des
+Sicherheitsüberprüfungsgesetzes zu erlassenden allgemeinen
+Verwaltungsvorschrift zum materiellen Geheimschutz in der jeweils
+geltenden Fassung getroffen werden.
 
 (3) Die Sicherheitsüberprüfung nach Absatz 2 Satz 1 Nr. 2 ist
 entsprechend dem Sicherheitsüberprüfungsgesetz durchzuführen. Für
@@ -1246,34 +1250,39 @@ Beantwortung verpflichtet oder mit der Beantwortung betraut sind oder
 hieran mitwirken, anderen nicht mitgeteilt werden.
 
 
-### § 18 Straftaten
+### § 18 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 17 eine Mitteilung macht.
 
 
-### § 19 Ordnungswidrigkeiten
+### § 19 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
-1.  einer vollziehbaren Anordnung nach § 2 Abs. 1 Satz 1 oder Absatz 1a
+1.  einer vollziehbaren Anordnung nach § 2 Absatz 1 Satz 1 oder Absatz 1a
     Satz 1 zuwiderhandelt,
 
 
-2.  entgegen § 2 Abs. 2 Satz 2 eine Person betraut oder
+2.  entgegen § 2 Absatz 2 Satz 2 nicht sicherstellt, dass dort genanntes
+    Personal vorhanden ist,
 
 
-3.  entgegen § 2 Abs. 2 Satz 3 nicht sicherstellt, dass eine
+3.  entgegen § 2 Absatz 2 Satz 3 eine Person betraut,
+
+
+4.  entgegen § 2 Absatz 2 Satz 4 nicht sicherstellt, dass eine
     Geheimschutzmaßnahme getroffen wird.
 
 
 
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfzehntausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße von bis zu
+fünfzigtausend Euro geahndet werden.
 
-(3) Bußgeldbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
-Ordnungswidrigkeiten ist die nach § 10 Abs. 1 zuständige Stelle.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist die nach § 10 Absatz 1
+zuständige Stelle.
 
 
 ## Abschnitt 7 - Schlussvorschriften
