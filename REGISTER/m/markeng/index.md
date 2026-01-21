@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 24.6.2024 I Nr. 215
 
+Änderung durch
+:   Art. 5 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 
 ## Teil 1 - Anwendungsbereich
@@ -47,7 +50,7 @@ Herkunftsangaben nach diesem Gesetz schließt die Anwendung anderer
 Vorschriften zum Schutz dieser Kennzeichen nicht aus.
 
 
-## Teil 2 - Voraussetzungen, Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen, Übertragung und Lizenz
+## Teil 2 - Voraussetzungen; Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen; weitere Zeichen; Übertragung und Lizenz
 
 
 
@@ -94,9 +97,11 @@ Der Markenschutz entsteht
 
 
 3.  durch die im Sinne des Artikels 6
-    bis                    der Pariser Verbandsübereinkunft zum Schutz des
-    gewerblichen Eigentums (Pariser Verbandsübereinkunft) notorische
-    Bekanntheit einer Marke.
+    bis                    der Pariser Verbandsübereinkunft vom 20. März
+    1883 zum Schutz des gewerblichen Eigentums in der Stockholmer Fassung
+    vom 14. Juli 1967 (BGBl. 1970 II S. 293, 391), die durch Beschluss vom
+    2\. Oktober 1979 (BGBl. 1984 II S. 799) geändert worden ist (Pariser
+    Verbandsübereinkunft), notorische Bekanntheit einer Marke.
 
 
 
@@ -140,6 +145,31 @@ Recht erworben wurde.
 (4) Kommt Rechten nach den Absätzen 2 und 3 derselbe Tag als ihr
 Zeitrang zu, so sind die Rechte gleichrangig und begründen
 gegeneinander keine Ansprüche.
+
+
+### Abschnitt 1a - Wappen, Flaggen, Hoheitszeichen, amtliche Prüf- und Gewährzeichen, Kennzeichen, Siegel und Bezeichnungen internationaler zwischenstaatlicher Organisationen
+
+
+
+#### § 6a Verbot des Gebrauchs
+
+Es ist verboten, im geschäftlichen Verkehr zur Kennzeichnung von Waren
+oder Dienstleistungen widerrechtlich in identischer oder nachgeahmter
+Form folgende Zeichen nach Artikel 6
+ter              Absatz 1 Buchstabe a und b der Pariser
+Verbandsübereinkunft zu benutzen:
+
+1.  ein Wappen, eine Flagge oder ein anderes staatliches Hoheitszeichen,
+
+
+2.  ein amtliches Prüf- oder Gewährzeichen,
+
+
+3.  ein Kennzeichen, ein Siegel oder eine Bezeichnung einer
+    internationalen zwischenstaatlichen Organisation.
+
+
+
 
 
 ### Abschnitt 2 - Voraussetzungen für den Schutz von Marken durch Eintragung
@@ -313,10 +343,10 @@ weil sie in verschiedenen Klassen der Nizza-Klassifikation erscheinen.
 #### § 10 Notorisch bekannte Marken
 
 (1) Von der Eintragung ausgeschlossen ist eine Marke, wenn sie mit
-einer im Inland im Sinne des Artikels
-6bis der Pariser Verbandsübereinkunft notorisch bekannten Marke mit
-älterem Zeitrang identisch oder dieser ähnlich ist und die weiteren
-Voraussetzungen des § 9 Abs. 1 Nr. 1, 2 oder 3 gegeben sind.
+einer im Inland im Sinne des Artikels 6
+bis              der Pariser Verbandsübereinkunft notorisch bekannten
+Marke mit älterem Zeitrang identisch oder dieser ähnlich ist und die
+weiteren Voraussetzungen des § 9 Abs. 1 Nr. 1, 2 oder 3 gegeben sind.
 
 (2) Absatz 1 findet keine Anwendung, wenn der Anmelder von dem Inhaber
 der notorisch bekannten Marke zur Anmeldung ermächtigt worden ist.
@@ -390,12 +420,12 @@ im geschäftlichen Verkehr in Bezug auf Waren oder Dienstleistungen
     genießt,
 
 
-2.  ein Zeichen zu benutzen, wenn das Zeichen mit einer Marke identisch
-    oder ihr ähnlich ist und für Waren oder Dienstleistungen benutzt wird,
-    die mit denjenigen identisch oder ihnen ähnlich sind, die von der
-    Marke erfasst werden, und für das Publikum die Gefahr einer
-    Verwechslung besteht, die die Gefahr einschließt, dass das Zeichen mit
-    der Marke gedanklich in Verbindung gebracht wird, oder
+2.  ein Zeichen zu benutzen, wenn das Zeichen mit der Marke identisch oder
+    ihr ähnlich ist und für Waren oder Dienstleistungen benutzt wird, die
+    mit denjenigen identisch oder ihnen ähnlich sind, die von der Marke
+    erfasst werden, und für das Publikum die Gefahr einer Verwechslung
+    besteht, die die Gefahr einschließt, dass das Zeichen mit der Marke
+    gedanklich in Verbindung gebracht wird, oder
 
 
 3.  ein mit der Marke identisches Zeichen oder ein ähnliches Zeichen für
@@ -440,9 +470,7 @@ insbesondere untersagt,
 
 
 7.  das Zeichen in der vergleichenden Werbung in einer der Richtlinie
-    2006/114/EG des Europäischen Parlaments und des Rates vom 12. Dezember
-    2006 über irreführende und vergleichende Werbung (ABl. L 376 vom
-    27\.12.2006, S. 21) zuwiderlaufenden Weise zu benutzen.
+    2006/114/EG zuwiderlaufenden Weise zu benutzen.
 
 
 
@@ -512,12 +540,9 @@ zu unterscheiden ist.
 Bezeichnung nach Absatz 1 erlischt, wenn während eines Verfahrens, das
 der Feststellung dient, ob eine eingetragene Marke oder eine
 geschäftliche Bezeichnung verletzt wurde, und das gemäß der Verordnung
-(EU) Nr. 608/2013 des Europäischen Parlaments und des Rates vom 12.
-Juni 2013 zur Durchsetzung der Rechte geistigen Eigentums durch die
-Zollbehörden und zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des
-Rates (ABl. L 181 vom 29.6.2013, S. 15) eingeleitet wurde, der
-zollrechtliche Anmelder oder der Besitzer der Waren nachweist, dass
-der Inhaber der eingetragenen Marke oder der geschäftlichen
+(EU) Nr. 608/2013 in der Fassung vom 12. Juni 2013 eingeleitet wurde,
+der zollrechtliche Anmelder oder der Besitzer der Waren nachweist,
+dass der Inhaber der eingetragenen Marke oder der geschäftlichen
 Bezeichnung nicht berechtigt ist, das Inverkehrbringen der Waren im
 endgültigen Bestimmungsland zu untersagen.
 
@@ -851,10 +876,11 @@ zurückzuweisen wäre,
     3),
 
 
-2.  weil die Eintragung der Marke mit älterem Zeitrang am Tag der
-    Veröffentlichung der Eintragung der Marke mit jüngerem Zeitrang wegen
-    Verfalls oder wegen absoluter Schutzhindernisse hätte für verfallen
-    oder für nichtig erklärt und gelöscht werden können (§ 51 Abs. 4),
+2.  weil die Eintragung der Marke mit älterem Zeitrang an dem für den
+    Zeitrang der Eintragung der Marke mit jüngerem Zeitrang maßgeblichen
+    Tag wegen Verfalls oder wegen absoluter Schutzhindernisse hätte für
+    verfallen oder für nichtig erklärt und gelöscht werden können (§ 51
+    Absatz 4),
 
 
 3.  weil an dem für den Zeitrang der Eintragung der jüngeren Marke
@@ -975,10 +1001,10 @@ ausschließlich für die Ausfuhr bestimmt sind.
 (5) Soweit die Benutzung innerhalb von fünf Jahren ab dem Zeitpunkt,
 ab dem kein Widerspruch mehr gegen die Marke möglich ist, erforderlich
 ist, tritt in den Fällen, in denen gegen die Eintragung Widerspruch
-erhoben worden ist, an die Stelle des Ablaufs der Widerspruchsfrist
-der Zeitpunkt, ab dem die das Widerspruchsverfahren beendende
-Entscheidung Rechtskraft erlangt hat oder der Widerspruch
-zurückgenommen wurde.
+erhoben worden ist, an die Stelle des Tages, ab dem kein Widerspruch
+mehr gegen die Marke möglich war, der Zeitpunkt, ab dem die das
+Widerspruchsverfahren beendende Entscheidung Rechtskraft erlangt hat
+oder der Widerspruch zurückgenommen wurde.
 
 
 ### Abschnitt 5 - Marken als Gegenstand des Vermögens
@@ -1434,8 +1460,8 @@ machen, gegen die Eintragung der Marke Widerspruch erhoben werden.
 gelöscht werden kann.
 
 (3) Ein Widerspruch kann auf der Grundlage eines älteren Rechts oder
-mehrerer älterer Rechte erhoben werden, wenn diese Rechte demselben
-Inhaber gehören.
+mehrerer älterer Rechte erhoben werden, wenn diese Rechte derselben
+Person als Inhaber oder Berechtigtem nach Absatz 1 zustehen.
 
 (4) Den am Widerspruchsverfahren beteiligten Parteien wird auf
 beiderseitigen Antrag eine Frist von mindestens zwei Monaten
@@ -1684,7 +1710,7 @@ erklärt und gelöscht.
 gemäß § 53 für nichtig erklärt und gelöscht, wenn ihr ein Recht im
 Sinne der §§ 9 bis 13 mit älterem Zeitrang entgegensteht. Der Antrag
 auf Erklärung der Nichtigkeit kann auch auf mehrere ältere Rechte
-desselben Inhabers gestützt werden.
+desselben Inhabers oder Berechtigten gestützt werden.
 
 (2) Die Eintragung kann aufgrund der Eintragung einer Marke mit
 älterem Zeitrang nicht für nichtig erklärt und gelöscht werden, soweit
@@ -1821,21 +1847,19 @@ vom Inhaber einer eingetragenen Marke mit älterem Zeitrang erhoben
 worden, so hat er auf Einrede des Antragsgegners nachzuweisen, dass
 die Marke innerhalb der letzten fünf Jahre vor Antragstellung gemäß §
 26 benutzt worden ist, sofern zu diesem Zeitpunkt seit mindestens fünf
-Jahren kein Widerspruch mehr gegen sie möglich war. Wurde Widerspruch
-erhoben, werden die fünf Jahre ab dem Zeitpunkt gerechnet, ab dem die
-das Widerspruchsverfahren beendende Entscheidung Rechtskraft erlangt
-hat oder der Widerspruch zurückgenommen wurde. Endet der Zeitraum von
-fünf Jahren der Nichtbenutzung nach Stellung des Antrags, so hat der
-Antragsteller auf Einrede des Antragsgegners nachzuweisen, dass die
-Marke innerhalb der letzten fünf Jahre vor der Entscheidung gemäß § 26
-benutzt worden ist. War die Marke mit älterem Zeitrang am Anmelde-
-oder Prioritätstag der Marke mit jüngerem Zeitrang bereits seit
-mindestens fünf Jahren eingetragen, so hat der Antragsteller auf
-Einrede des Antragsgegners ferner nachzuweisen, dass die Eintragung
-der Marke mit älterem Zeitrang an diesem Tag nicht nach § 49 Absatz 1
-für verfallen hätte erklärt werden können. Bei der Entscheidung werden
-nur die Waren oder Dienstleistungen berücksichtigt, für die die
-Benutzung nachgewiesen worden ist. Der Nachweis kann auch durch eine
+Jahren kein Widerspruch mehr gegen sie möglich war. Endet der Zeitraum
+von fünf Jahren der Nichtbenutzung nach Stellung des Antrags, so hat
+der Antragsteller auf Einrede des Antragsgegners nachzuweisen, dass
+die Marke innerhalb der letzten fünf Jahre vor der Entscheidung gemäß
+§ 26 benutzt worden ist. War gegen die Eintragung der Marke mit
+älterem Zeitrang am Anmelde- oder Prioritätstag der Marke mit jüngerem
+Zeitrang bereits seit mindestens fünf Jahren kein Widerspruch mehr
+möglich, so hat der Antragsteller auf Einrede des Antragsgegners
+ferner nachzuweisen, dass die Eintragung der Marke mit älterem
+Zeitrang an diesem Tag nicht nach § 49 Absatz 1 hätte für verfallen
+erklärt und gelöscht werden können. Bei der Entscheidung werden nur
+die Waren oder Dienstleistungen berücksichtigt, für die die Benutzung
+nachgewiesen worden ist. Der Nachweis kann auch durch eine
 eidesstattliche Versicherung erbracht werden.
 
 (7) Ist das durch die Eintragung der Marke begründete Recht auf einen
@@ -1883,8 +1907,8 @@ Parteien
 1.  bereits gemäß § 53 entschieden wurde,
 
 
-2.  ein Antrag gemäß § 53 beim Deutschen Patent- und Markenamt gestellt
-    wurde.
+2.  ein Antrag gemäß § 53 beim Deutschen Patent- und Markenamt anhängig
+    ist.
 
 
 
@@ -1902,8 +1926,8 @@ Parteien
 
 3.  in den Fällen des Antrags auf Erklärung der Nichtigkeit wegen des
     Bestehens einer geographischen Herkunftsangabe mit älterem Zeitrang (§
-    13 Abs. 2 Nr. 5) die nach § 8 Abs. 3 des Gesetzes gegen den unlauteren
-    Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten.
+    13 Abs. 2 Nr. 5) die aus der geographischen Herkunftsangabe zur
+    Geltendmachung von Ansprüchen Berechtigten.
 
 
 
@@ -1917,9 +1941,10 @@ Widerspruch mehr gegen sie möglich war. Endet der Zeitraum von fünf
 Jahren der Nichtbenutzung nach Erhebung der Klage, so hat der Kläger
 auf Einrede des Beklagten nachzuweisen, daß die Marke innerhalb der
 letzten fünf Jahre vor dem Schluß der mündlichen Verhandlung gemäß §
-26 benutzt worden ist. War die Marke mit älterem Zeitrang am Anmelde-
-oder Prioritätstag der jüngeren Marke bereits seit mindestens fünf
-Jahren eingetragen, so hat der Kläger auf Einrede des Beklagten ferner
+26 benutzt worden ist. War gegen die Eintragung der Marke mit älterem
+Zeitrang am Anmelde- oder Prioritätstag der Marke mit jüngerem
+Zeitrang bereits seit mindestens fünf Jahren kein Widerspruch mehr
+möglich, so hat der Kläger auf Einrede des Beklagten ferner
 nachzuweisen, dass die Eintragung der Marke mit älterem Zeitrang an
 diesem Tag nicht nach § 49 Absatz 1 hätte für verfallen erklärt und
 gelöscht werden können. Bei der Entscheidung werden nur die Waren oder
@@ -2087,13 +2112,8 @@ soweit
 
 
 2.  das schutzwürdige Interesse der betroffenen Person im Sinne des
-    Artikels 4 Nummer 1 der Verordnung (EU) 679/2016 des Europäischen
-    Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
-    Personen bei der Verarbeitung personenbezogener Daten, zum freien
-    Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
-    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
-    S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
-    offensichtlich überwiegt oder
+    Artikels 4 Nummer 1 der Verordnung (EU) 2016/679 offensichtlich
+    überwiegt oder
 
 
 3.  sie auf Akteninhalte bezogen ist, die offensichtlich gegen die
@@ -3187,28 +3207,27 @@ klagen und verklagt zu werden. Diesen Verbänden sind die juristischen
 Personen des öffentlichen Rechts gleichgestellt.
 
 
-### § 99 Eintragbarkeit von geographischen Herkunftsangaben als Kollektivmarken
+### § 99 Geografische Herkunftsangaben als Kollektivmarken
 
-Abweichend von § 8 Abs. 2 Nr. 2 können Kollektivmarken ausschließlich
-aus Zeichen oder Angaben bestehen, die im Verkehr zur Bezeichnung der
-geographischen Herkunft der Waren oder der Dienstleistungen dienen
-können.
+(1) Abweichend von § 8 Absatz 2 Nummer 2 können Kollektivmarken
+ausschließlich aus Zeichen oder Angaben bestehen, die im Verkehr zur
+Bezeichnung der geografischen Herkunft der Waren oder Dienstleistungen
+dienen können.
 
-
-### § 100 Schranken des Schutzes, Benutzung
-
-(1) Zusätzlich zu den Schutzschranken, die sich aus § 23 ergeben,
-gewährt die Eintragung einer geographischen Herkunftsangabe als
-Kollektivmarke ihrem Inhaber nicht das Recht, einem Dritten zu
+(2) Die Eintragung einer geografischen Herkunftsangabe als
+Kollektivmarke gewährt ihrem Inhaber nicht das Recht, einem Dritten zu
 untersagen, solche Angaben im geschäftlichen Verkehr zu benutzen,
-sofern die Benutzung den guten Sitten entspricht und nicht gegen § 127
-verstößt. Insbesondere kann eine solche Marke einem Dritten, der zur
-Benutzung einer geografischen Bezeichnung berechtigt ist, nicht
-entgegengehalten werden.
+sofern die Benutzung den anständigen Gepflogenheiten in Gewerbe oder
+Handel entspricht. Insbesondere kann eine solche Kollektivmarke einem
+Dritten, der zur Benutzung einer geografischen Bezeichnung berechtigt
+ist, nicht entgegengehalten werden.
 
-(2) Die ernsthafte Benutzung einer Kollektivmarke durch mindestens
-eine hierzu befugte Person oder durch den Inhaber der Kollektivmarke
-gilt als Benutzung im Sinne des § 26.
+
+### § 100 Benutzung
+
+Die ernsthafte Benutzung einer Kollektivmarke durch mindestens eine
+hierzu befugte Person oder durch den Inhaber der Kollektivmarke gilt
+als Benutzung im Sinne des § 26.
 
 
 ### § 101 Klagebefugnis, Schadensersatz
@@ -3571,11 +3590,12 @@ nach § 53.
 (1) Die Vorschriften dieses Gesetzes sind auf internationale
 Registrierungen von Marken nach dem Protokoll vom 27. Juni 1989 zum
 Madrider Abkommen über die internationale Registrierung von Marken
-(BGBl. 1995 II S. 1016, 1017), das zuletzt durch die Verordnung vom
-24\. August 2008 (BGBl. 2008 II S. 822) geändert worden ist (Protokoll
-zum Madrider Markenabkommen), die durch Vermittlung des Deutschen
-Patent- und Markenamts vorgenommen werden oder deren Schutz sich auf
-das Gebiet der Bundesrepublik Deutschland erstreckt, entsprechend
+(BGBl. 1995 II S. 1016, 1017), das durch die vom Madrider Verband in
+der Sitzung vom 24. September bis 3. Oktober 2007 beschlossene
+Änderung (BGBl. 2008 II S. 822) geändert worden ist (Protokoll zum
+Madrider Markenabkommen), die durch Vermittlung des Deutschen Patent-
+und Markenamts vorgenommen werden oder deren Schutz sich auf das
+Gebiet der Bundesrepublik Deutschland erstreckt, entsprechend
 anzuwenden, soweit in diesem Abschnitt oder im Protokoll zum Madrider
 Markenabkommen nichts anderes bestimmt ist.
 
@@ -3689,9 +3709,8 @@ Eigentum herausgegebenen Veröffentlichungsblatt.
 (2) Die Frist zur Erhebung des Widerspruchs (§ 42 Absatz 1) gegen die
 Schutzgewährung für international registrierte Marken beginnt mit dem
 ersten Tag des Monats, der dem Monat folgt, der als Ausgabemonat
-desjenigen Heftes des Veröffentlichungsblattes angegeben ist, in dem
-die Veröffentlichung der international registrierten Marke enthalten
-ist.
+desjenigen Veröffentlichungsblattes angegeben ist, in dem die
+Veröffentlichung der international registrierten Marke enthalten ist.
 
 (3) An die Stelle der Löschung der Eintragung (§ 43 Absatz 2 Satz 1)
 tritt die Verweigerung des Schutzes.
@@ -3794,11 +3813,9 @@ kann kein Widerspruch erhoben werden.
 #### § 119 Anwendung der Vorschriften dieses Gesetzes
 
 Die Vorschriften dieses Gesetzes sind auf Marken, die nach der
-Verordnung (EU) 2017/1001 des Europäischen Parlaments und des Rates
-vom 14. Juni 2017 über die Unionsmarke (ABl. L 154 vom 16.6.2017, S.
-1) angemeldet oder eingetragen worden sind, in den Fällen der Nummern
-1 und 2 unmittelbar und in den Fällen der Nummern 3 bis 6 entsprechend
-wie folgt anzuwenden:
+Verordnung (EU) 2017/1001 angemeldet oder eingetragen worden sind, in
+den Fällen der Nummern 1 und 2 unmittelbar und in den Fällen der
+Nummern 3 bis 6 entsprechend wie folgt anzuwenden:
 
 1.  für die Anwendung des § 9 (relative Schutzhindernisse) sind
     angemeldete oder eingetragene Unionsmarken mit älterem Zeitrang den
@@ -3860,9 +3877,9 @@ wie folgt anzuwenden:
 
 (1) Ist für eine angemeldete oder eingetragene Unionsmarke der
 Zeitrang einer im Register des Deutschen Patent- und Markenamts
-eingetragenen Marke nach Artikel 39 oder Artikel 40 der
-Unionsmarkenverordnung in Anspruch genommen worden und ist die im
-Register des Deutschen Patent- und Markenamts eingetragene Marke wegen
+eingetragenen Marke nach Artikel 39 oder Artikel 40 der Verordnung
+(EU) 2017/1001 in Anspruch genommen worden und ist die im Register des
+Deutschen Patent- und Markenamts eingetragene Marke wegen
 Nichtverlängerung der Schutzdauer nach § 47 Absatz 8 oder wegen
 Verzichts nach § 48 Absatz 1 gelöscht worden, so kann auf Antrag
 nachträglich die Ungültigkeit dieser Marke wegen Verfalls oder wegen
@@ -3873,9 +3890,9 @@ keine Wirkung.
 Voraussetzungen wie eine Erklärung des Verfalls oder der Nichtigkeit.
 Jedoch kann die Ungültigkeit einer Marke wegen Verfalls nach § 49 Abs.
 1 nur festgestellt werden, wenn die Voraussetzungen für die Erklärung
-des Verfalls nach dieser Vorschrift auch schon in dem Zeitpunkt
-gegeben waren, in dem die Marke wegen Nichtverlängerung der
-Schutzdauer oder wegen Verzichts gelöscht worden ist.
+des Verfalls nach dieser Vorschrift in dem Zeitpunkt gegeben waren, in
+dem die Marke wegen Nichtverlängerung der Schutzdauer oder wegen
+Verzichts gelöscht worden ist.
 
 (3) Das Verfahren zur Feststellung der Ungültigkeit richtet sich nach
 den Vorschriften, die für das Verfalls- und Nichtigkeitsverfahren
@@ -3888,7 +3905,7 @@ Feststellung ihrer Ungültigkeit tritt.
 
 (1) Ist dem Deutschen Patent- und Markenamt ein Antrag auf Umwandlung
 einer angemeldeten oder eingetragenen Unionsmarke nach Artikel 139
-Absatz 3 der Unionsmarkenverordnung übermittelt worden, so sind die
+Absatz 3 der Verordnung (EU) 2017/1001 übermittelt worden, so sind die
 Gebühr und die Klassengebühren nach dem Patentkostengesetz für das
 Umwandlungsverfahren mit Zugang des Umwandlungsantrages beim Deutschen
 Patent- und Markenamt fällig.
@@ -3898,11 +3915,11 @@ Unionsmarke eingetragen war, so wird der Umwandlungsantrag wie die
 Anmeldung einer Marke zur Eintragung in das Register des Deutschen
 Patent- und Markenamts behandelt mit der Maßgabe, dass an die Stelle
 des Anmeldetages nach § 33 Absatz 1 der Anmeldetag der Unionsmarke
-nach Artikel 32 der Unionsmarkenverordnung oder der Tag einer für die
-Unionsmarke in Anspruch genommenen Priorität tritt. War für die
+nach Artikel 32 der Verordnung (EU) 2017/1001 oder der Tag einer für
+die Unionsmarke in Anspruch genommenen Priorität tritt. War für die
 Anmeldung der Unionsmarke der Zeitrang einer im Register des Deutschen
 Patent- und Markenamts eingetragenen Marke nach Artikel 39 der
-Unionsmarkenverordnung in Anspruch genommen worden, so tritt dieser
+Verordnung (EU) 2017/1001 in Anspruch genommen worden, so tritt dieser
 Zeitrang an die Stelle des nach Satz 1 maßgeblichen Tages.
 
 (3) Betrifft der Umwandlungsantrag einer Marke, die bereits als
@@ -3917,10 +3934,10 @@ Gesetzes für die Anmeldung von Marken anzuwenden.
 
 #### § 122 Unionsmarkenstreitsachen; Unionsmarkengerichte
 
-(1) Für alle Klagen, für die nach der Unionsmarkenverordnung die
-Unionsmarkengerichte im Sinne des Artikels 123 Absatz 1 der
-Unionsmarkenverordnung zuständig sind (Unionsmarkenstreitsachen), sind
-als Unionsmarkengerichte im ersten Rechtszug die Landgerichte ohne
+(1) Für alle Klagen, für die nach der Verordnung (EU) 2017/1001 die
+Unionsmarkengerichte im Sinne des Artikels 123 Absatz 1 der Verordnung
+(EU) 2017/1001 zuständig sind (Unionsmarkenstreitsachen), sind als
+Unionsmarkengerichte im ersten Rechtszug die Landgerichte ohne
 Rücksicht auf den Streitwert ausschließlich zuständig.
 
 (2) Unionsmarkengericht zweiter Instanz ist das Oberlandesgericht, in
@@ -3951,7 +3968,7 @@ erster und zweiter Instanz mit.
 
 #### § 124 Örtliche Zuständigkeit der Unionsmarkengerichte
 
-Sind nach Artikel 125 der Unionsmarkenverordnung deutsche
+Sind nach Artikel 125 der Verordnung (EU) 2017/1001 deutsche
 Unionsmarkengerichte international zuständig, so gelten für die
 örtliche Zuständigkeit dieser Gerichte die Vorschriften entsprechend,
 die anzuwenden wären, wenn es sich um eine beim Deutschen Patent- und
@@ -3997,7 +4014,7 @@ Sachwalter an die Stelle des Insolvenzverwalters.
 #### § 125a Erteilung der Vollstreckungsklausel
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 110 Absatz 2
-Satz 3 der Unionsmarkenverordnung ist das Bundespatentgericht
+Satz 3 der Verordnung (EU) 2017/1001 ist das Bundespatentgericht
 zuständig. Die vollstreckbare Ausfertigung wird vom Urkundsbeamten der
 Geschäftsstelle des Bundespatentgerichts erteilt.
 
@@ -4057,7 +4074,7 @@ ist, den Ruf der geographischen Herkunftsangabe oder ihre
 Unterscheidungskraft ohne rechtfertigenden Grund in unlauterer Weise
 auszunutzen oder zu beeinträchtigen.
 
-(4) Die vorstehenden Absätze finden auch dann Anwendung, wenn Namen,
+(4) Die Absätze 1 bis 3 finden auch dann Anwendung, wenn Namen,
 Angaben oder Zeichen benutzt werden, die der geschützten
 geographischen Herkunftsangabe ähnlich sind oder wenn die
 geographische Herkunftsangabe mit Zusätzen benutzt wird, sofern
@@ -4073,6 +4090,31 @@ geographische Herkunftsangabe mit Zusätzen benutzt wird, sofern
 
 
 
+(5) Die Absätze 2 und 3 finden keine Anwendung auf geografische
+Herkunftsangaben
+
+1.  für Wein, Spirituosen und landwirtschaftliche Erzeugnisse,
+    einschließlich Lebensmitteln, nach Artikel 5 Absatz 1 der Verordnung
+    (EU) 2024/1143 und
+
+
+2.  für handwerkliche und industrielle Erzeugnisse nach Artikel 1
+    Buchstabe a der Verordnung (EU) 2023/2411.
+
+
+
+
+(6) Absatz 5 Nummer 1 findet keine Anwendung auf geografische Angaben,
+für die ein Antrag auf Eintragung nach Artikel 14 Absatz 1 bis 3 der
+Verordnung (EU) 2024/1143 bei der Europäischen Kommission eingereicht
+wurde, solange über diesen Antrag noch nicht entschieden oder das
+Eintragungsverfahren noch nicht auf andere Weise beendet wurde. Absatz
+5 Nummer 2 findet keine Anwendung auf geografische Angaben, für die
+ein Antrag auf Eintragung nach Artikel 22 Absatz 1 der Verordnung (EU)
+2023/2411 beim Amt der Europäischen Union für geistiges Eigentum
+eingereicht wurde, solange über diesen Antrag noch nicht entschieden
+oder das Eintragungsverfahren noch nicht auf andere Weise beendet
+wurde.
 
 
 #### § 128 Ansprüche wegen Verletzung
@@ -4099,210 +4141,435 @@ durch die Verletzung des Rechts erzielt hat, berücksichtigt werden. §
 Ansprüche nach § 128 verjähren gemäß § 20.
 
 
-### Abschnitt 2 - Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) 2024/1143
+### Abschnitt 2 - Schutz von geografischen Angaben gemäß der Verordnung (EU) 2023/2411
 
+
+
+#### § 129a Geltungsbereich
+
+Die Vorschriften dieses Abschnitts gelten für geografische Angaben
+gemäß der Verordnung (EU) 2023/2411.
 
 
 #### § 130 Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren
 
-(1) Anträge auf Eintragung einer geographischen Angabe oder einer
-Ursprungsbezeichnung in das Register der geschützten
-Ursprungsbezeichnungen und der geschützten geographischen Angaben, das
-von der Europäischen Kommission nach Artikel 22 Absatz 1 in Verbindung
-mit Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe c der Verordnung (EU)
-2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024
-über geografische Angaben für Wein, Spirituosen und
-landwirtschaftliche Erzeugnisse und über garantiert traditionelle
-Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche
-Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013,
-(EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU)
-Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in ihrer jeweils
-geltenden Fassung geführt wird, sind beim Deutschen Patent- und
-Markenamt einzureichen.
+(1) Zuständige Behörde für die Prüfung von Anträgen auf Eintragung
+einer geografischen Angabe und Entscheidungen in der nationalen Phase
+im Sinne von Kapitel 2 der Verordnung (EU) 2023/2411 ist das Deutsche
+Patent- und Markenamt. Für die Einreichung von Anträgen gilt § 32
+Absatz 1 entsprechend.
 
 (2) Für die in diesem Abschnitt geregelten Verfahren sind die im
 Deutschen Patent- und Markenamt errichteten Markenabteilungen
 zuständig.
 
-(3) Bei der Prüfung des Antrags holt das Deutsche Patent- und
-Markenamt die Stellungnahmen des Bundesministeriums für Ernährung und
-Landwirtschaft, der zuständigen Fachministerien der betroffenen
-Länder, der interessierten öffentlichen Körperschaften sowie der
-interessierten Verbände und Organisationen der Wirtschaft ein.
+(3) Bei der Prüfung des Antrags auf Eintragung einer geografischen
+Angabe nach Artikel 14 der Verordnung (EU) 2023/2411 holt das Deutsche
+Patent- und Markenamt die Stellungnahmen folgender Behörden und
+Einrichtungen ein:
 
-(4) Das Deutsche Patent- und Markenamt veröffentlicht den Antrag.
-Gegen den Antrag kann innerhalb von zwei Monaten seit Veröffentlichung
-von jeder Person mit einem berechtigten Interesse, die im Gebiet der
-Bundesrepublik Deutschland niedergelassen oder ansässig ist, beim
-Deutschen Patent- und Markenamt Einspruch eingelegt werden.
+1.  des Bundesministeriums für Wirtschaft und Energie sowie sonstiger
+    zuständiger Bundesministerien,
 
-(5) Entspricht der Antrag den Anforderungen der Verordnung (EU)
-2024/1143 und den zu ihrer Durchführung erlassenen Vorschriften,
-stellt das Deutsche Patent- und Markenamt dies durch Beschluss fest.
-Andernfalls wird der Antrag durch Beschluss zurückgewiesen. Das
-Deutsche Patent- und Markenamt veröffentlicht den stattgebenden
-Beschluss. Kommt es zu wesentlichen Änderungen der nach Absatz 4
-veröffentlichten Angaben, so werden diese zusammen mit dem
-stattgebenden Beschluss veröffentlicht. Der Beschluss nach Satz 1 und
+
+2.  der zuständigen Fachministerien der betroffenen Länder,
+
+
+3.  der zuständigen Industrie- und Handelskammern oder Handwerkskammern,
+
+
+4.  der zuständigen Institutionen und Verbände von Sprachgemeinschaften,
+    sofern der Antrag eine geografische Angabe in einer Regional- oder
+    Minderheitensprache im Sinne der Europäischen Charta der Regional-
+    oder Minderheitensprachen betrifft, sowie
+
+
+5.  sonstiger öffentlicher Körperschaften, Verbände und
+    Wirtschaftsorganisationen des betroffenen Industriebereichs oder
+    Handwerks.
+
+
+
+Hierzu kann das Deutsche Patent- und Markenamt diesen Ministerien,
+Körperschaften, Verbänden und Organisationen den Antrag übermitteln.
+
+(3a) Die ablehnende Entscheidung nach Artikel 14 Absatz 3 Satz 1 der
+Verordnung (EU) 2023/2411 ergeht durch Beschluss.
+
+(4) Erfüllt der Antrag die in Artikel 14 Absatz 1 der Verordnung (EU)
+2023/2411 genannten Anforderungen, veröffentlicht das Deutsche Patent-
+und Markenamt den Antrag. Gegen den Antrag kann innerhalb von zwei
+Monaten seit Veröffentlichung von jeder Person mit einem berechtigten
+Interesse, die im Gebiet der Bundesrepublik Deutschland niedergelassen
+oder ansässig ist, beim Deutschen Patent- und Markenamt Einspruch
+eingelegt werden.
+
+(5) Entspricht der Antrag unter Berücksichtigung des Ergebnisses des
+Einspruchsverfahrens und etwaiger Änderungen am Antrag den
+Anforderungen der Verordnung (EU) 2023/2411 und den zu ihrer
+Durchführung erlassenen Vorschriften, stellt das Deutsche Patent- und
+Markenamt dies durch Beschluss fest und reicht den Antrag beim Amt der
+Europäischen Union für geistiges Eigentum ein. Andernfalls wird der
+Antrag durch Beschluss zurückgewiesen. Der Beschluss nach Satz 1 und
 nach Satz 2 ist dem Antragsteller und denjenigen zuzustellen, die
 fristgemäß Einspruch eingelegt haben.
 
-(6) Steht rechtskräftig fest, dass der Antrag den Anforderungen der
-Verordnung (EU) 2024/1143 und den zu ihrer Durchführung erlassenen
-Vorschriften entspricht, so unterrichtet das Deutsche Patent- und
-Markenamt den Antragsteller hierüber und übermittelt den Antrag mit
-den erforderlichen Unterlagen dem Bundesministerium der Justiz und für
-Verbraucherschutz. Ferner veröffentlicht das Deutsche Patent- und
-Markenamt die Fassung der Spezifikation, auf die sich die positive
-Entscheidung bezieht. Das Bundesministerium der Justiz und für
-Verbraucherschutz übermittelt den Antrag mit den erforderlichen
-Unterlagen an die Europäische Kommission.
+(6) Das Deutsche Patent- und Markenamt macht für jedes
+Eintragungsverfahren auf seiner Internetseite Folgendes zugänglich:
 
-(7) Sofern die Spezifikation im Eintragungsverfahren bei der
-Europäischen Kommission geändert worden ist, veröffentlicht das
-Deutsche Patent- und Markenamt die der Eintragung zugrunde liegende
-Fassung der Spezifikation.
+1.  den als geografische Angabe zu schützenden Namen,
 
 
-#### § 131 Zwischenstaatliches Einspruchsverfahren
-
-(1) Einsprüche nach Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143
-gegen die beabsichtigte Eintragung von geographischen Angaben oder
-Ursprungsbezeichnungen in das von der Europäischen Kommission geführte
-Register der geschützten Ursprungsbezeichnungen und der geschützten
-geographischen Angaben sind beim Deutschen Patent- und Markenamt
-innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im
-Amtsblatt der Europäischen Union nach Artikel 15 Absatz 4 der
-Verordnung (EU) 2024/1143 vorgenommen wird.
-
-(2) Die Zahlungsfrist für die Einspruchsgebühr richtet sich nach § 6
-Abs. 1 Satz 1 des Patentkostengesetzes. Eine Wiedereinsetzung in die
-Einspruchsfrist und in die Frist zur Zahlung der Einspruchsgebühr ist
-nicht gegeben.
+2.  das Datum des Antragseingangs,
 
 
-#### § 132 Antrag auf Änderung der Spezifikation, Löschungsverfahren
+3.  die nach der Verordnung (EU) 2023/2411 zu veröffentlichenden Anträge,
+    Beschlüsse und Änderungen,
 
-(1) Für Anträge auf Änderung der Spezifikation einer geschützten
-geographischen Angabe oder einer geschützten Ursprungsbezeichnung nach
-Artikel 24 Absatz 2 der Verordnung (EU) 2024/1143 gelten die §§ 130
-und 131 entsprechend.
 
-(2) Für Anträge auf Löschung einer geschützten geographischen Angabe
-oder einer geschützten Ursprungsbezeichnung nach Artikel 25 Absatz 1
-und 2 der Verordnung (EU) 2024/1143 gelten die §§ 130 und 131
-entsprechend.
+4.  die Einspruchsfrist,
+
+
+5.  das Datum einer Übermittlung des Antrags an das Amt der Europäischen
+    Union für geistiges Eigentum sowie die Nummer, unter der die
+    geografische Angabe im Unionsregister veröffentlicht werden soll,
+
+
+6.  das Datum einer Unterrichtung des Amts der Europäischen Union für
+    geistiges Eigentum über die Anfechtung einer Entscheidung nach Absatz
+    5 und über die Rechtskraft der Erklärung der Ungültigkeit einer
+    solchen Entscheidung und
+
+
+7.  Termine öffentlicher Verhandlungen nach § 67 Absatz 2.
+
+
+
+
+(7) (weggefallen)
+
+
+#### § 131 Unionsphase
+
+(1) Fordert das Amt der Europäischen Union für geistiges Eigentum
+zusätzliche Informationen gemäß Artikel 23 Absatz 4 der Verordnung
+(EU) 2023/2411, kann das Deutsche Patent- und Markenamt den
+Antragsteller auffordern, entsprechende Informationen zu übermitteln.
+Das Deutsche Patent- und Markenamt leitet diese unverzüglich an das
+Amt der Europäischen Union für geistiges Eigentum weiter.
+
+(2) Auf Ersuchen nach Artikel 23 Absatz 6 der Verordnung (EU)
+2023/2411 fordert das Deutsche Patent- und Markenamt den Antragsteller
+unter Bestimmung einer angemessenen Frist zur Vervollständigung oder
+Berichtigung seines Antrags auf und übermittelt die Vervollständigung
+oder Berichtigung unverzüglich an das Amt der Europäischen Union für
+geistiges Eigentum.
+
+(3) Sofern die Produktspezifikation in der Unionsphase des
+Eintragungsverfahrens geändert worden ist, veröffentlicht das Deutsche
+Patent- und Markenamt die der Eintragung zugrunde liegende Fassung der
+Produktspezifikation und macht sie auf seiner Internetseite
+zugänglich.
+
+
+#### § 132 Antrag auf Änderung der Produktspezifikation; Löschungsverfahren
+
+(1) Für Anträge auf Genehmigung von Unionsänderungen im Sinne des
+Artikels 31 Absatz 2 Buchstabe a der Verordnung (EU) 2023/2411 gelten
+die §§ 130 und 131 entsprechend.
+
+(2) Für Anträge auf Genehmigung von Standardänderungen im Sinne des
+Artikels 31 Absatz 2 Buchstabe b der Verordnung (EU) 2023/2411,
+einschließlich vorübergehender Standardänderungen nach Artikel 31
+Absatz 6 der Verordnung (EU) 2023/2411, gelten die Artikel 14 bis 17
+der Verordnung (EU) 2023/2411 und § 130 entsprechend mit der Maßgabe,
+dass das Deutsche Patent- und Markenamt den Antrag nicht beim Amt der
+Europäischen Union für geistiges Eigentum einreicht.
+
+(3) Für Anträge auf Löschung der Eintragung einer geschützten
+geografischen Angabe nach Artikel 32 Absatz 1 der Verordnung (EU)
+2023/2411 gelten die §§ 130 und 131 entsprechend.
+
+(4) In den Verfahren nach dieser Vorschrift gibt das Deutsche Patent-
+und Markenamt demjenigen Antragsteller im Sinne des Artikels 37 Absatz
+2 Buchstabe c der Verordnung (EU) 2023/2411 Gelegenheit zur
+Stellungnahme, in dessen Namen die jeweils betroffene geografische
+Angabe eingetragen wurde. Beschlüsse stellt das Deutsche Patent- und
+Markenamt dem Antragsteller zu.
+
+
+#### § 132a Internationale Registrierung
+
+Für Anträge nach Artikel 2 Absatz 2 und für Anträge nach Artikel 3
+Absatz 1 Buchstabe b der Verordnung (EU) 2019/1753 ist das Deutsche
+Patent- und Markenamt zuständig.
 
 
 #### § 133 Rechtsmittel
 
-Gegen Entscheidungen, die das Deutsche Patent- und Markenamt nach den
-Vorschriften dieses Abschnitts trifft, findet die Beschwerde zum
+(1) Gegen Entscheidungen, die das Deutsche Patent- und Markenamt nach
+den Vorschriften dieses Abschnitts trifft, findet die Beschwerde zum
 Bundespatentgericht und die Rechtsbeschwerde zum Bundesgerichtshof
-statt. Gegen eine Entscheidung nach § 130 Abs. 5 Satz 1 steht die
+statt. Gegen eine Entscheidung nach § 130 Absatz 5 Satz 1 steht die
 Beschwerde denjenigen Personen zu, die gegen den Antrag fristgerecht
 Einspruch eingelegt haben oder die durch den stattgebenden Beschluss
-auf Grund der nach § 130 Abs. 5 Satz 4 veröffentlichten geänderten
-Angaben in ihrem berechtigten Interesse betroffen sind. Im Übrigen
-sind die Vorschriften dieses Gesetzes über das Beschwerdeverfahren vor
-dem Bundespatentgericht (§§ 66 bis 82) und über das
+aufgrund von Änderungen, die ihnen erst mit der Veröffentlichung nach
+Artikel 16 Absatz 2 der Verordnung (EU) 2023/2411 bekannt geworden
+sind, in ihrem legitimen Interesse betroffen sind. Im Übrigen sind die
+Vorschriften dieses Gesetzes über das Beschwerdeverfahren vor dem
+Bundespatentgericht (§§ 66 bis 82) und über das
 Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof (§§ 83 bis 90)
-entsprechend anzuwenden.
+entsprechend anzuwenden. Personen, denen der Beschluss nicht
+zugestellt wurde, haben die Beschwerde innerhalb von zwei Monaten nach
+Veröffentlichung des Beschlusses einzulegen.
+
+(2) Das Deutsche Patent- und Markenamt kann Beschwerden, die
+Änderungen betreffen, die dem Beschwerdeführer erst mit der
+Veröffentlichung nach Artikel 16 Absatz 2 der Verordnung (EU)
+2023/2411 bekannt geworden sind, als rechtzeitig eingelegte Einsprüche
+behandeln und erneut nach Artikel 15 Absatz 2 und 3 der Verordnung
+(EU) 2023/2411 und nach § 130 Absatz 5 verfahren. Wird gegen den in
+dem Verfahren nach Satz 1 ergehenden Beschluss erneut Beschwerde
+eingelegt, ist nicht erneut nach Satz 1 zu verfahren.
 
 
-#### § 134 Überwachung
+#### § 134 Kontrolle
 
-(1) Die nach der Verordnung (EU) 2024/1143 und den zu ihrer
-Durchführung erlassenen Vorschriften erforderliche Überwachung und
-Kontrolle obliegt den nach Landesrecht zuständigen Stellen.
+(1) Die Kontrolle nach Artikel 49 Absatz 2 der Verordnung (EU)
+2023/2411 obliegt den nach Landesrecht zuständigen Stellen
+(Kontrollbehörden).
 
-(2) Soweit es zur Überwachung und Kontrolle im Sinn des Absatzes 1
-erforderlich ist, können die Beauftragten der zuständigen Stellen bei
-Betrieben, die Agrarerzeugnisse oder Lebensmittel in Verkehr bringen
-oder herstellen (§ 3 Absatz 1 Nummer 1 des Lebensmittel- und
-Futtermittelgesetzbuchs) oder innergemeinschaftlich verbringen,
+(2) Soweit es für die Kontrollen nach Absatz 1 erforderlich ist,
+können die Kontrollbehörden bei Betrieben, die mit einer geografischen
+Angabe bezeichnete handwerkliche oder industrielle Erzeugnisse in
+Verkehr bringen oder herstellen oder innergemeinschaftlich verbringen,
 einführen oder ausführen, während der Geschäfts- oder Betriebszeit
 
 1.  Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
     Transportmittel betreten und dort Besichtigungen vornehmen,
 
 
-2.  Proben gegen Empfangsbescheinigung entnehmen; auf Verlangen des
-    Betroffenen ist ein Teil der Probe oder, falls diese unteilbar ist,
-    eine zweite Probe amtlich verschlossen und versiegelt zurückzulassen,
+2.  Stichproben gegen Empfangsbescheinigung entnehmen,
 
 
-3.  Geschäftsunterlagen einsehen und prüfen,
+3.  Erzeugnisse erwerben, ohne dass sie sich als Kontrollbehörde zu
+    erkennen geben,
 
 
-4.  Auskunft verlangen.
+4.  Geschäftsunterlagen einsehen und prüfen,
+
+
+5.  Auskunft verlangen.
 
 
 
-Diese Befugnisse erstrecken sich auch auf Agrarerzeugnisse oder
-Lebensmittel, die an öffentlichen Orten, insbesondere auf Märkten,
-Plätzen, Straßen oder im Umherziehen in den Verkehr gebracht werden.
+Die Befugnisse erstrecken sich auch auf handwerkliche oder
+industrielle Erzeugnisse, die an öffentlichen Orten, insbesondere auf
+Märkten, Plätzen, Straßen oder im elektronischen Handel, in den
+Verkehr gebracht werden.
 
-(3) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten
-der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
-Transportmittel sowie die dort vorzunehmenden Besichtigungen zu
-gestatten, die zu besichtigenden Agrarerzeugnisse oder Lebensmittel
-selbst oder durch andere so darzulegen, dass die Besichtigung
-ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die
-erforderliche Hilfe bei Besichtigungen zu leisten, die Proben
-entnehmen zu lassen, die geschäftlichen Unterlagen vorzulegen, prüfen
-zu lassen und Auskünfte zu erteilen.
+(3) In den Fällen des Absatzes 2 Satz 1 Nummer 2 und 3 sind die
+handwerklichen und industriellen Erzeugnisse nach erfolgter Prüfung an
+die Betriebe zurückzugeben. Für Stichproben nach Absatz 2 Satz 1
+Nummer 2 ist im Einzelfall eine Entschädigung bis zur Höhe des
+Verkaufspreises zu leisten, sofern andernfalls eine unbillige Härte
+eintreten würde. Im Fall eines Erwerbs nach Absatz 2 Satz 1 Nummer 3
+unterrichtet die Kontrollbehörde den Verkäufer nach Erhalt der Ware
+hierüber. Sie kann vom Verkäufer die Erstattung des Kaufpreises sowie
+die Versandkosten verlangen, sofern dadurch nicht eine unbillige Härte
+eintreten würde.
 
-(4) Erfolgt die Überwachung bei der Einfuhr oder bei der Ausfuhr, so
-gelten die Absätze 2 und 3 entsprechend auch für denjenigen, der die
-Agrarerzeugnisse oder Lebensmittel für den Betriebsinhaber
-innergemeinschaftlich verbringt, einführt oder ausführt.
+(4) Inhaber und Leiter der Betriebe sind verpflichtet,
 
-(5) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft
+1.  das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen
+    und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu
+    gestatten,
+
+
+2.  die zu besichtigenden handwerklichen und industriellen Erzeugnisse
+    selbst oder durch andere so darzulegen, dass die Besichtigung
+    ordnungsgemäß vorgenommen werden kann,
+
+
+3.  selbst oder durch andere die erforderliche Hilfe bei Besichtigungen zu
+    leisten,
+
+
+4.  die Entnahme von Stichproben zuzulassen,
+
+
+5.  die geschäftlichen Unterlagen auf Verlangen vorzulegen, die Prüfung
+    der Unterlagen zuzulassen und
+
+
+6.  auf Verlangen Auskünfte zu erteilen.
+
+
+
+
+(5) Erfolgt die Kontrolle bei der Einfuhr oder bei der Ausfuhr, so
+gelten die Absätze 2, 3 und 4 entsprechend auch für denjenigen, der
+die handwerklichen oder industriellen Erzeugnisse für den
+Betriebsinhaber innergemeinschaftlich verbringt, einführt oder
+ausführt.
+
+(6) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft
 auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen
-der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten
-Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines
-Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung
+bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder
+eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen
+würde.
 
-(6) Für Amtshandlungen, die nach Artikel 39 Absatz 3 der Verordnung
-(EU) 2024/1143 zu Kontrollzwecken vorzunehmen sind, werden
-kostendeckende Gebühren und Auslagen erhoben. Die kostenpflichtigen
-Tatbestände werden durch das Landesrecht bestimmt.
+(7) Als Abhilfemaßnahmen im Sinne des Artikels 51 Absatz 6, des
+Artikels 52 Absatz 4 oder des Artikels 54 Absatz 2 Satz 2 der
+Verordnung (EU) 2023/2411 können die Kontrollbehörden insbesondere
+
+1.  die zur Beseitigung der widerrechtlichen Kennzeichnung erforderlichen
+    Maßnahmen anordnen,
+
+
+2.  das Inverkehrbringen oder Handeln eines widerrechtlich
+    gekennzeichneten Erzeugnisses oder Werbematerials, auch vorläufig,
+    verbieten oder beschränken,
+
+
+3.  widerrechtlich gekennzeichnete Erzeugnisse, auch vorläufig,
+    sicherstellen.
+
+
+
+
+(8) Für Amtshandlungen, die für Kontrollen nach Absatz 1 vorzunehmen
+sind, werden kostendeckende Gebühren und Auslagen erhoben. Die
+kostenpflichtigen Tatbestände werden durch das Landesrecht bestimmt.
+
+
+#### § 134a Datenverarbeitung im Zusammenhang mit Kontrollen
+
+(1) Die Kontrollbehörden dürfen Daten einschließlich personenbezogener
+Daten verarbeiten, soweit dies für die Durchführung der Kontrollen
+nach § 134 Absatz 1 erforderlich ist. Dazu dürfen die Kontrollbehörden
+Daten einschließlich personenbezogener Daten erheben
+
+1.  von Betrieben nach § 134 Absatz 2,
+
+
+2.  von Erzeugern,
+
+
+3.  im Zusammenhang mit rechtswidrigen Online-Inhalten im Sinne des
+    Artikels 60 der Verordnung
+    (EU) 2023/2411                    von der Bundesnetzagentur in ihrer
+    Funktion als Koordinierungsstelle für digitale Dienste im Sinne des §
+    14 des Digitale-Dienste-Gesetzes, soweit Artikel 84 der Verordnung
+    (EU) 2022/2065 dem nicht entgegensteht, und
+
+
+4.  im Rahmen der gegenseitigen Amtshilfe und Zusammenarbeit nach Artikel
+    62 der Verordnung
+    (EU) 2023/2411                    von den in Artikel 62 Absatz 3 der
+    Verordnung (EU) 2023/2411 genannten Behörden und Stellen.
+
+
+
+Die in Satz 2 genannten inländischen Behörden und Stellen übermitteln
+die nach Satz 1 erforderlichen Daten an die Kontrollbehörden. Jede
+öffentliche Stelle kann den Kontrollbehörden von Amts wegen Hinweise
+auf Handlungen, gegen die eingetragene geografische Angaben nach Titel
+III der Verordnung (EU) 2023/2411 geschützt sind, mitteilen und
+dazugehörige personenbezogene Daten übermitteln.
+
+(2) Die Kontrollbehörden löschen die in Absatz 1 genannten Daten drei
+Jahre nach Ablauf des Kalenderjahres, in dem die Daten erhoben wurden.
+
+(3) Die Kontrollbehörden übermitteln personenbezogene Daten
+
+1.  an die nach Landesrecht zuständigen Stellen für die Einleitung und
+    Durchführung von Bußgeldverfahren nach § 145 Absatz 2, 3 und 4,
+
+
+2.  an die Behörden und Stellen nach Absatz 1 Satz 2 Nummer 4
+
+    a)  zur Abwehr von Verstößen gegen die Verordnung (EU) 2023/2411 im Rahmen
+        ihrer Befugnisse sowie
+
+
+    b)  im Rahmen der nach Artikel 62 der Verordnung (EU) 2023/2411
+        vorgesehenen gegenseitigen Amtshilfe und Zusammenarbeit und
+
+
+
+
+
+3.  im Rahmen ihrer Befugnisse an die Bundesnetzagentur in ihrer Funktion
+    als Koordinierungsstelle für digitale Dienste im Sinne des § 14 des
+    Digitale-Dienste-Gesetzes für die Durchsetzung und Überwachung der
+    Verordnung (EU) 2022/2065 in Bezug auf rechtswidrige Online-Inhalte im
+    Sinne des Artikels 60 Absatz 1 der Verordnung (EU) 2023/2411.
+
+
+
+Die Behörden und Stellen dürfen die ihnen nach Satz 1 Nummer 2 und 3
+übermittelten Daten im Rahmen der Wahrnehmung ihrer Befugnisse zu den
+jeweils genannten Zwecken erheben und weiterverarbeiten.
+
+
+#### § 134b Amtshilfe für Behörden anderer Mitgliedstaaten
+
+(1) Im Rahmen der den zuständigen Behörden anderer Mitgliedstaaten
+nach Artikel 62 Absatz 1 Unterabsatz 1 und Absatz 3 der Verordnung
+(EU) 2023/2411 zu leistenden Unterstützung und Kooperation stellen die
+Kontrollbehörden die erforderlichen Informationen und Unterlagen
+bereit, führen geeignete Untersuchungen oder andere angemessene
+Maßnahmen durch und beteiligen sich an Untersuchungen, die in anderen
+Mitgliedstaaten der Europäischen Union eingeleitet wurden.
+
+(2) Die Kontrollbehörden können an die zuständigen Behörden anderer
+Mitgliedstaaten personenbezogene Daten übermitteln, soweit dies der
+Durchführung der Kontrollen im jeweiligen Mitgliedstaat dient und im
+Rahmen der Unterstützung und Kooperation gemäß Artikel 62 Absatz 1
+Unterabsatz 1 und Absatz 3 der Verordnung (EU) 2023/2411 erforderlich
+ist. Die Kontrollbehörden teilen den Behörden der anderen
+Mitgliedstaaten im Sinne des Satzes 1 den Zweck der Datenübermittlung
+und den vorgesehenen Löschungszeitpunkt mit.
 
 
 #### § 135 Ansprüche wegen Verletzung
 
-(1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
-Artikel 26 der Verordnung (EU) 2024/1143 verstoßen, kann bei
+(1) Wer im geschäftlichen Verkehr widerrechtlich Handlungen vornimmt,
+die gegen Artikel 40 der Verordnung (EU) 2023/2411 verstoßen, kann bei
 Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der
-Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht.
+Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmals droht.
 Die Ansprüche nach Satz 1 stehen zu
 
-1.  den nach § 8 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb zur
-    Geltendmachung von Ansprüchen Berechtigten,
+1.  der Erzeugervereinigung, in deren Namen die geschützte geografische
+    Angabe in das Unionsregister nach Artikel 37 der Verordnung (EU)
+    2023/2411 eingetragen wurde oder in deren Tätigkeitsbereich der Schutz
+    dieser Angabe fällt,
 
 
-2.  Vereinigungen im Sinne des Artikels 32 der Verordnung (EU) 2024/1143,
+2.  Erzeugern, denen ein Nutzungsrecht an der geografischen Angabe im
+    Sinne des Artikels 47 der Verordnung (EU) 2023/2411 zusteht,
 
 
-3.  anerkannten Erzeugerorganisationen, anerkannten Vereinigungen von
-    Erzeugerorganisationen und anerkannten Branchenverbänden im Sinne der
-    Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
-    Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für
-    landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
-    (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
-    1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S.
-    261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom
-    6\.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2024/1143
-    geändert worden ist, in ihrer jeweils geltenden Fassung, wenn deren
-    Zielsetzung auch den Schutz gegen Verstöße nach Artikel 26 der
-    Verordnung (EU) 2024/1143 umfasst.
+3.  den nach der Handwerksordnung errichteten Organisationen,
+
+
+4.  den Industrie- und Handelskammern.
 
 
 
-Die §§ 18, 19, 19a und 19c gelten entsprechend.
+§ 14a Absatz 2 und die §§ 18 bis 19a und 19c gelten entsprechend.
 
-(2) § 128 Abs. 2 und 3 gilt entsprechend.
+(2) § 128 Absatz 2 und 3 gilt für Zuwiderhandlungen gegen Artikel 40
+der Verordnung (EU) 2023/2411 entsprechend. Die berechtigte
+Erzeugervereinigung nach Absatz 1 Satz 3 Nummer 1, in deren Namen die
+geografische Angabe eingetragen ist, kann die Ansprüche nach Satz 1
+mit Zustimmung der berechtigten Erzeuger in deren Namen geltend
+machen.
+
+(3) Ansprüche nach dem Gesetz gegen den unlauteren Wettbewerb bleiben
+unberührt.
 
 
 #### § 136 Verjährung
@@ -4310,47 +4577,34 @@ Die §§ 18, 19, 19a und 19c gelten entsprechend.
 Die Ansprüche nach § 135 verjähren nach § 20.
 
 
-### Abschnitt 3 - Ermächtigungen zum Erlaß von Rechtsverordnungen
+### Abschnitt 3 - Schutz von geografischen Angaben für handwerkliche und industrielle Erzeugnisse auf der Grundlage internationaler Übereinkünfte
 
 
 
-#### § 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben
+#### § 137 Schutzumfang, Kontrolle und Durchsetzung
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
-und Energie und für Ernährung und Landwirtschaft durch
-Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen
-über einzelne geographische Herkunftsangaben zu treffen.
-
-(2) In der Rechtsverordnung können
-
-1.  durch Bezugnahme auf politische oder geographische Grenzen das
-    Herkunftsgebiet,
+Die §§ 134 bis 136 und 139 sind auf geografische Angaben für
+handwerkliche und industrielle Erzeugnisse, die auf der Grundlage von
+internationalen Übereinkünften im Sinne des § 8 Absatz 2 Nummer 9 in
+der Europäischen Union einen Schutzstatus besitzen, entsprechend
+anzuwenden. Soweit nach der jeweils zugrunde liegenden internationalen
+Übereinkunft nicht bestimmt ist, gegen welche Handlungen sich der
+Schutz der geografischen Angabe richtet, sind die Artikel 40 und 41
+der Verordnung (EU) 2023/2411 entsprechend anzuwenden.
 
 
-2.  die Qualität oder sonstige Eigenschaften im Sinne des § 127 Abs. 2
-    sowie die dafür maßgeblichen Umstände, wie insbesondere Verfahren oder
-    Art und Weise der Erzeugung oder Herstellung der Waren oder der
-    Erbringung der Dienstleistungen oder Qualität oder sonstige
-    Eigenschaften der verwendeten Ausgangsmaterialien wie deren Herkunft,
-    und
-
-
-3.  die Art und Weise der Verwendung der geographischen Herkunftsangabe
+### Abschnitt 4 - Ermächtigungen zum Erlass von Rechtsverordnungen
 
 
 
-geregelt werden. Bei der Regelung sind die bisherigen lauteren
-Praktiken, Gewohnheiten und Gebräuche bei der Verwendung der
-geographischen Herkunftsangabe zu berücksichtigen.
-
-
-#### § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143
+#### § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2023/2411; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-nähere Bestimmungen über das Antrags-, Einspruchs-, Änderungs- und
-Löschungsverfahren (§§ 130 bis 132) zu treffen.
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+genauen Verfahrensmodalitäten des Antrags-, des Einspruchs-, des
+Änderungs- und des Löschungsverfahrens einschließlich der Behandlung
+von Anträgen auf internationale Registrierung und des Tragens der
+damit verbundenen Gebühren (§§ 130 bis 132a) festzulegen.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz kann
 die Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 1 durch
@@ -4358,45 +4612,73 @@ Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise
 auf das Deutsche Patent- und Markenamt übertragen.
 
 
-#### § 139 Durchführungsbestimmungen zur Verordnung (EU) 2024/1143; Verordnungsermächtigung
+#### § 139 Durchführungsbestimmungen zur Verordnung (EU) 2023/2411; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
-und Energie und dem Bundesministerium für Ernährung und Landwirtschaft
-durch Rechtsverordnung mit Zustimmung des Bundesrates weitere
-Einzelheiten des Schutzes von Ursprungsbezeichnungen und
-geographischen Angaben nach der Verordnung (EU) 2024/1143 zu regeln,
-soweit sich das Erfordernis hierfür aus der Verordnung (EU) 2024/1143
-oder den zu ihrer Durchführung erlassenen Vorschriften des Rates oder
-der Europäischen Kommission ergibt. In Rechtsverordnungen nach Satz 1
-können insbesondere Vorschriften über
+und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates
+weitere Einzelheiten des Schutzes folgender geografischer Angaben zu
+regeln:
 
-1.  die Kennzeichnung der Agrarerzeugnisse oder Lebensmittel,
+1.  geografischer Angaben nach der Verordnung (EU) 2023/2411, soweit sich
+    das Erfordernis hierfür aus der Verordnung (EU) 2023/2411 oder den zu
+    ihrer Durchführung erlassenen Vorschriften des Rates oder der
+    Europäischen Kommission ergibt,
 
 
-2.  die Berechtigung zum Verwenden der geschützten Bezeichnungen oder
+2.  geografischer Angaben, die auf der Grundlage internationaler
+    Übereinkünfte geschützt sind.
 
 
-3.  die Voraussetzungen und das Verfahren bei der Überwachung oder
-    Kontrolle beim innergemeinschaftlichen Verbringen oder bei der Einfuhr
-    oder Ausfuhr
+
+In Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften
+über
+
+1.  die Kennzeichnung der handwerklichen oder industriellen Erzeugnisse,
+
+
+2.  die Berechtigung zum Verwenden der geschützten Bezeichnungen,
+
+
+3.  die Voraussetzungen und das Verfahren bei der Kontrolle im Sinne des
+    Artikels 49 Absatz 2 der Verordnung (EU) 2023/2411 beim
+    innergemeinschaftlichen Verbringen oder bei der Einfuhr oder Ausfuhr
+    oder
+
+
+4.  das Verfahren bei der Kontrolle im Sinne des Artikels 49 Absatz 2
+    Buchstabe a der Verordnung
+    (EU) 2023/2411                    vor und nach Inverkehrbringen
 
 
 
 erlassen werden. Rechtsverordnungen nach Satz 1 können auch erlassen
 werden, wenn die Mitgliedstaaten nach den dort genannten
-gemeinschaftsrechtlichen Vorschriften befugt sind, ergänzende
-Vorschriften zu erlassen.
+unionsrechtlichen Vorschriften befugt sind, ergänzende Vorschriften zu
+erlassen.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-die Durchführung der nach Artikel 39 Absatz 3 der Verordnung (EU)
-2024/1143 erforderlichen Kontrollen zugelassenen privaten
-Kontrollstellen zu übertragen oder solche an der Durchführung dieser
-Kontrollen zu beteiligen. Die Landesregierungen können auch die
-Voraussetzungen und das Verfahren der Zulassung privater
-Kontrollstellen durch Rechtsverordnung regeln. Sie sind befugt, die
-Ermächtigung nach den Sätzen 1 und 2 durch Rechtsverordnung ganz oder
-teilweise auf andere Behörden zu übertragen.
+
+1.  nach Maßgabe des Artikels 45 Absatz 1 Unterabsatz 2 der Verordnung
+    (EU) 2023/2411 vorzusehen, dass und gegebenenfalls welche öffentlichen
+    Stellen und anderen Interessenträger in die Tätigkeit von
+    Erzeugergemeinschaften eingebunden werden, und
+
+
+2.  die Übertragung der Kontrollaufgaben auf eine oder mehrere
+    Produktzertifizierungsstellen oder natürliche Personen nach Artikel 55
+    der Verordnung (EU) 2023/2411 sowie die Voraussetzungen und das
+    Verfahren der Zulassung dieser Produktzertifizierungsstellen oder
+    natürlichen Personen zu regeln.
+
+
+
+Sie sind befugt, die Ermächtigung nach Satz 1 durch Rechtsverordnung
+ganz oder teilweise auf andere Behörden zu übertragen. Sie teilen dem
+Deutschen Patent- und Markenamt aktuelle Namen und Kontaktdaten der
+Kontrollbehörden nach § 134 Absatz 1 und der
+Produktzertifizierungsstellen und natürlichen Personen nach Artikel 55
+Absatz 1 der Verordnung (EU) 2023/2411 mit.
 
 
 ## Teil 8 - Verfahren in Kennzeichenstreitsachen
@@ -4550,12 +4832,12 @@ Bekanntmachung ist im Urteil zu bestimmen.
 (7) (weggefallen)
 
 
-#### § 143a Strafbare Verletzung der Unionsmarke
+#### § 144 Strafbare Verletzung der Unionsmarke
 
 (1) Wer die Rechte des Inhabers einer Unionsmarke nach Artikel 9
-Absatz 1 der Unionsmarkenverordnung verletzt, indem er trotz eines
-Verbotes und ohne Zustimmung des Markeninhabers im geschäftlichen
-Verkehr
+Absatz 1 der Verordnung (EU) 2017/1001 in der Fassung vom 11. April
+2024 verletzt, indem er trotz eines Verbotes und ohne Zustimmung des
+Markeninhabers im geschäftlichen Verkehr
 
 1.  ein mit der Unionsmarke identisches Zeichen für Waren oder
     Dienstleistungen benutzt, die mit denjenigen identisch sind, für die
@@ -4586,126 +4868,93 @@ bestraft.
 (2) § 143 Abs. 2 bis 6 gilt entsprechend.
 
 
-#### § 144 Strafbare Benutzung geographischer Herkunftsangaben
-
-(1) Wer im geschäftlichen Verkehr widerrechtlich eine geographische
-Herkunftsangabe, einen Namen, eine Angabe oder ein Zeichen
-
-1.  entgegen § 127 Abs. 1 oder 2, jeweils auch in Verbindung mit Abs. 4
-    oder einer Rechtsverordnung nach § 137 Abs. 1, benutzt oder
-
-
-2.  entgegen § 127 Abs. 3, auch in Verbindung mit Abs. 4, oder einer
-    Rechtsverordnung nach § 137 Abs. 1, in der Absicht benutzt, den Ruf
-    oder die Unterscheidungskraft einer geographischen Herkunftsangabe
-    auszunutzen oder zu beeinträchtigen,
-
-
-
-wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
-bestraft.
-
-(2) Ebenso wird bestraft, wer entgegen Artikel 26 Absatz 1 Buchstabe a
-oder b der Verordnung (EU) 2024/1143 des Europäischen Parlaments und
-des Rates vom 11. April 2024 über geografische Angaben für Wein,
-Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert
-traditionelle Spezialitäten und fakultative Qualitätsangaben für
-landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen
-(EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung
-der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) im
-geschäftlichen Verkehr
-
-1.  einen eingetragenen Namen für ein dort genanntes Erzeugnis verwendet
-    oder
-
-
-2.  sich einen eingetragenen Namen aneignet oder ihn nachahmt.
-
-
-
-
-(3) Der Versuch ist strafbar.
-
-(4) Bei einer Verurteilung bestimmt das Gericht, daß die
-widerrechtliche Kennzeichnung der im Besitz des Verurteilten
-befindlichen Gegenstände beseitigt wird oder, wenn dies nicht möglich
-ist, die Gegenstände vernichtet werden.
-
-(5) Wird auf Strafe erkannt, so ist, wenn das öffentliche Interesse
-dies erfordert, anzuordnen, daß die Verurteilung öffentlich
-bekanntgemacht wird. Die Art der Bekanntmachung ist im Urteil zu
-bestimmen.
-
-(6) (weggefallen)
-
-
 #### § 145 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer im geschäftlichen Verkehr
-widerrechtlich in identischer oder nachgeahmter Form
+(1) Ordnungswidrig handelt, wer
 
-1.  ein Wappen, eine Flagge oder ein anderes staatliches Hoheitszeichen
-    oder ein Wappen eines inländischen Ortes oder eines inländischen
-    Gemeinde- oder weiteren Kommunalverbandes im Sinne des § 8 Abs. 2 Nr.
-    6,
+1.  entgegen § 6a ein Zeichen benutzt,
 
 
-2.  ein amtliches Prüf- oder Gewährzeichen im Sinne des § 8 Abs. 2 Nr. 7
-    oder
+2.  entgegen § 127 Absatz 1, auch in Verbindung mit § 127 Absatz 4 Nummer
+    1, eine geografische Herkunftsangabe, einen Namen, eine Angabe oder
+    ein Zeichen benutzt,
 
 
-3.  ein Kennzeichen, ein Siegel oder eine Bezeichnung im Sinne des § 8
-    Abs. 2 Nr. 8
+3.  entgegen § 127 Absatz 2, auch in Verbindung mit § 127 Absatz 4, eine
+    geografische Herkunftsangabe, einen Namen, eine Angabe oder ein
+    Zeichen benutzt oder
+
+
+4.  entgegen § 127 Absatz 3, auch in Verbindung mit § 127 Absatz 4 Nummer
+    2, eine geografische Herkunftsangabe, einen Namen, eine Angabe oder
+    ein Zeichen benutzt, um den Ruf oder die Unterscheidungskraft einer
+    geografischen Herkunftsangabe auszunutzen oder zu beeinträchtigen.
 
 
 
-zur Kennzeichnung von Waren oder Dienstleistungen benutzt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 134 Abs. 3, auch in Verbindung mit Abs. 4,
-
-    a)  das Betreten von Geschäftsräumen, Grundstücken, Verkaufseinrichtungen
-        oder Transportmitteln oder deren Besichtigung nicht gestattet,
-
-
-    b)  die zu besichtigenden Agrarerzeugnisse oder Lebensmittel nicht so
-        darlegt, daß die Besichtigung ordnungsgemäß vorgenommen werden kann,
+1.  entgegen § 134 Absatz 4, auch in Verbindung mit § 134 Absatz 5, ein
+    Betreten oder eine Besichtigung nicht gestattet, ein Erzeugnis nicht
+    richtig darlegt, die Entnahme einer Stichprobe oder die Prüfung einer
+    geschäftlichen Unterlage nicht zulässt, eine geschäftliche Unterlage
+    nicht oder nicht rechtzeitig vorlegt oder eine Auskunft nicht oder
+    nicht rechtzeitig erteilt oder
 
 
-    c)  die erforderliche Hilfe bei der Besichtigung nicht leistet,
-
-
-    d)  Proben nicht entnehmen läßt,
-
-
-    e)  geschäftliche Unterlagen nicht oder nicht vollständig vorlegt oder
-        nicht prüfen läßt oder
-
-
-    f)  eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt oder
+2.  einer Rechtsverordnung nach § 139 Absatz 1 Satz 2 oder Absatz 2 Satz 1
+    Nummer 1, auch in Verbindung mit Satz 2, oder einer vollziehbaren
+    Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt,
+    sofern die Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist.
 
 
 
 
+(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/2411 in
+der Fassung vom 18. Oktober 2023 verstößt, indem er im geschäftlichen
+Verkehr
 
-2.  einer nach § 139 Abs. 1 erlassenen Rechtsverordnung zuwiderhandelt,
-    soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
-    verweist.
+1.  entgegen Artikel 40 Absatz 1 Buchstabe a, auch in Verbindung mit
+    Artikel 40 Absatz 3 oder 4, eine geografische Angabe für ein dort
+    genanntes Erzeugnis verwendet,
+
+
+2.  entgegen Artikel 40 Absatz 1 Buchstabe b, auch in Verbindung mit
+    Artikel 40 Absatz 3 oder 4, sich einen als geografische Angabe
+    geschützten Namen aneignet oder ihn nachahmt oder
+
+
+3.  entgegen Artikel 40 Absatz 1 Buchstabe c, auch in Verbindung mit
+    Artikel 40 Absatz 3 oder 4, eine dort genannte Angabe macht oder ein
+    Erzeugnis verpackt.
 
 
 
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer
-Geldbuße bis zu zweitausendfünfhundert Euro und in den Fällen des
-Absatzes 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(4) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
+Artikel 51 Absatz 2 Satz 1 der Verordnung (EU) 2023/2411 in der
+Fassung vom 18. Oktober 2023 eine Eigenerklärung nicht oder nicht
+rechtzeitig einreicht.
 
-(4) In den Fällen des Absatzes 1 ist § 144 Abs. 4 entsprechend
-anzuwenden.
+(5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2,
+3 und 4 und des Absatzes 3 mit einer Geldbuße bis zu fünfzigtausend
+Euro, in den Fällen der Absätze 2 und 4 mit einer Geldbuße bis zu
+zehntausend Euro und in den Fällen des Absatzes 1 Nummer 1 mit einer
+Geldbuße bis zu fünftausend Euro geahndet werden.
 
-(5) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über
-Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 das Bundesamt
-für Justiz.
+(6) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
+Nummer 1 das Bundesamt für Justiz.
+
+
+#### § 145a Beseitigung von Kennzeichnungen und Vernichtung von Gegenständen im Bußgeldverfahren
+
+In den Fällen des § 145 Absatz 1 und 3 bestimmt die
+Verwaltungsbehörde, dass die widerrechtliche Kennzeichnung der
+Gegenstände beseitigt wird oder, wenn dies nicht möglich ist, die
+Gegenstände vernichtet werden.
 
 
 ### Abschnitt 2 - Beschlagnahme von Waren bei der Einfuhr und Ausfuhr
@@ -4716,14 +4965,10 @@ für Justiz.
 
 (1) Waren, die widerrechtlich mit einer nach diesem Gesetz geschützten
 Marke oder geschäftlichen Bezeichnung versehen sind, unterliegen,
-soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen
-Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte
-geistigen Eigentums durch die Zollbehörden und zur Aufhebung der
-Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S.
-15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und
-gegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder
-Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die
-Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit
+soweit nicht die Verordnung (EU) Nr. 608/2013 anzuwenden ist, auf
+Antrag und gegen Sicherheitsleistung des Rechtsinhabers bei ihrer
+Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern
+die Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit
 anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 nur, soweit Kontrollen durch die Zollbehörden stattfinden.
@@ -4804,8 +5049,9 @@ Bestimmungen enthält, die dem entgegenstehen.
 
 #### § 151 Verfahren nach deutschem Recht bei geographischen Herkunftsangaben
 
-(1) Waren, die widerrechtlich mit einer nach diesem Gesetz oder nach
-Rechtsvorschriften der Europäischen Union geschützten geographischen
+(1) Waren, die widerrechtlich mit einer nach diesem Gesetz, nach
+Rechtsvorschriften der Europäischen Union oder auf der Grundlage einer
+internationalen Übereinkunft geschützten geographischen
 Herkunftsangabe versehen sind, unterliegen, soweit nicht die
 Verordnung (EU) Nr. 608/2013 anzuwenden ist, bei ihrer Einfuhr,
 Ausfuhr oder Durchfuhr der Beschlagnahme zum Zwecke der Beseitigung
@@ -4975,16 +5221,11 @@ genannten Vorschriften der Tag der Einlegung der Beschwerde maßgebend.
 (10) § 102 Absatz 4 gilt nicht für Kollektivmarken, die vor dem 14.
 Januar 2019 eingetragen worden sind.
 
-(11) Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
-2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
-Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
-Rates vom 21. November 2012 über Qualitätsregelungen für
-Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in
-ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden,
-sind die § 130 Absatz 1, 5 und 6 Satz 1, § 131 Absatz 1, § 132, § 134
-Absatz 1 und 6 Satz 1, § 135 Absatz 1 sowie die §§ 138, 139 und 144
-Absatz 2 in der bis zum 27. Juni 2024 geltenden Fassung weiter
-anzuwenden.
+(11) Wurden die Europäische Kommission und das Amt der Europäischen
+Union für geistiges Eigentum nach Artikel 70 Absatz 2 der Verordnung
+(EU) 2023/2411 über eine geografische Angabe unterrichtet, so ist §
+127 Absatz 6 mit der Maßgabe anzuwenden, dass die Unterrichtung der
+Einreichung eines Antrags auf Eintragung gleichsteht.
 
 
 ### § 159 Schutzdauer und Verlängerung
@@ -5009,13 +5250,12 @@ Fassung weiter anzuwenden.
 aufgrund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche
 Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts
 der Europäischen Union aufgehoben oder für nicht mehr anwendbar
-erklärt, bleibt für Straftaten und Ordnungswidrigkeiten nach den §§
-143a, 144 Absatz 2, auch in Verbindung mit den Absätzen 3 bis 5, und
-nach § 145 Absatz 2, die bis zum Zeitpunkt der Aufhebung oder der
-Nichtanwendung begangen worden sind, die bis dahin geltende
-innerstaatliche Vorschrift abweichend von § 2 Absatz 3 des
-Strafgesetzbuches und von § 4 Absatz 3 des Gesetzes über
-Ordnungswidrigkeiten weiter anwendbar.
+erklärt, so werden Straftaten nach § 144 und Ordnungswidrigkeiten nach
+§ 145 Absatz 2, 3 und 4, die bis zum Zeitpunkt der Aufhebung oder der
+Nichtanwendung begangen worden sind, abweichend von § 2 Absatz 3 des
+Strafgesetzbuches und von § 4 Absatz 3 des Gesetzes über
+Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden
+Bestimmungen geahndet.
 
 (2) Durch Rechtsverordnung ohne Zustimmung des Bundesrates kann das
 Bundesministerium der Justiz in einer innerstaatlichen Vorschrift den
@@ -5031,11 +5271,6 @@ Verweis auf eine Vorschrift in einem Rechtsakt
 
 
 
-Soweit der Rechtsakt im Sinne des Absatzes 1 den Schutz geografischer
-Angaben und Ursprungsbezeichnungen für Agrarerzeugnisse und
-Lebensmittel betrifft, ist für den Erlass der Rechtsverordnung nach
-Satz 1 das Bundesministerium für Ernährung und Landwirtschaft im
-Einvernehmen mit dem Bundesministerium der Justiz zuständig.
 
 
 ### (XXXX) §§ 161 bis 163 (weggefallen)
