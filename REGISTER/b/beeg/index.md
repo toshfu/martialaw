@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.01.2015 I 33;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 22.12.2025 I Nr. 355
-
-Änderung durch
-:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370
 
 
 ## Abschnitt 1 - Elterngeld
