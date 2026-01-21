@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3833
 
+Änderung durch
+:   Art. 6 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Eingangsformel
@@ -82,9 +85,16 @@ Schneidwaren im Sinne des § 1 sind insbesondere:
 
 
 
-## § 4 Inkrafttreten
+## § 4 Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 1995 in Kraft.
+Diese Verordnung tritt an dem Tag außer Kraft, an dem das Amt der
+Europäischen Union für geistiges Eigentum auf der Grundlage eines
+gemäß Artikel 70 Absatz 2 der Verordnung (EU) 2023/2411 gestellten
+Antrags die hiernach geschützte Angabe in das Unionsregister nach der
+Verordnung (EU) 2023/2411 einträgt oder über den Antrag anderweitig
+abschließend entscheidet. Das Bundesministerium der Justiz und für
+Verbraucherschutz gibt den Tag des Außerkrafttretens im
+Bundesgesetzblatt bekannt.
 
 
 ## Schlußformel
