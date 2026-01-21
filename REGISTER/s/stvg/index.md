@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 70 G v. 23.10.2024 I Nr. 323
+:   Art. 14 G v. 9.1.2026 I Nr. 7
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
@@ -2168,7 +2168,13 @@ erlassen:
 18. allgemeine Ausnahmen von den Verkehrsvorschriften nach Abschnitt I
     oder von auf Grund dieser Verkehrsvorschriften erlassener
     Rechtsverordnungen zur Durchführung von Versuchen, die eine
-    Weiterentwicklung dieser Rechtsnormen zum Gegenstand haben.
+    Weiterentwicklung dieser Rechtsnormen zum Gegenstand haben,
+
+
+19. die Befugnis von Personal der Bundeswehr zur dringend gebotenen
+    Verkehrsregelung bei Durchführung von militärisch notwendigen
+    Verkehrsbewegungen zur Erfüllung von Aufgaben der Landes- und
+    Bündnisverteidigung.
 
 
 
