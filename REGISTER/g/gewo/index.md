@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 19 Abs. 4 G v. 22.12.2025 I Nr. 369
+:   Art. 5 G v. 11.1.2026 I Nr. 6
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -6904,7 +6904,8 @@ bezeichneten Aufgaben obliegen.
 6.  den Verfassungsschutzbehörden des Bundes und der Länder, dem
     Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die
     diesen Behörden übertragenen Sicherheitsaufgaben nach dem
-    Sicherheitsüberprüfungsgesetz des Bundes,
+    Sicherheitsüberprüfungsgesetz des Bundes oder einer entsprechenden
+    landesrechtlichen Vorschrift,
 
 
 7.  der Zentralstelle für Sanktionsdurchsetzung,
