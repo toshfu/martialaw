@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.2.2025 I Nr. 72
+:   Art. 8 G v. 11.1.2026 I Nr. 6
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -903,7 +903,7 @@ Rechtsverordnung obersten Dienstbehörden übertragen.
 ## Abschnitt 4 - Abordnung, Versetzung und Zuweisung
 
 
-### § 27 Abordnung
+### § 27 Abordnung; Verordnungsermächtigungen
 
 (1) Eine Abordnung ist die vorübergehende Übertragung einer dem Amt
 der Beamtin oder des Beamten entsprechenden Tätigkeit bei einer
@@ -950,6 +950,31 @@ Versorgung.
 
 (6) Die Verpflichtung zur Zahlung der Besoldung hat auch der
 Dienstherr, zu dem die Abordnung erfolgt ist.
+
+(7) Die Bundesministerien werden ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates für ihren jeweiligen Geschäftsbereich
+zu regeln, dass der Bedarf an befristet von Dritten überlassenem
+Personal insgesamt oder für bestimmte Bereiche ausschließlich gedeckt
+wird durch Abordnungen von
+
+1.  Beamten,
+
+
+2.  Richtern und
+
+
+3.  sonstigen Personen, die in einem öffentlich-rechtlichen
+    Dienstverhältnis stehen.
+
+
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die Bedarfe weiterer oberster
+Bundesbehörden nach Satz 1 zu regeln, wenn diese jeweils ein
+entsprechendes Bedürfnis dargetan haben. Die Bundesregierung kann die
+in Satz 2 genannte Ermächtigung durch Rechtsverordnung auf oberste
+Bundesbehörden für eine Regelung hinsichtlich ihres jeweils eigenen
+Bedarfs übertragen.
 
 
 ### § 28 Versetzung
@@ -2988,6 +3013,66 @@ unter anderem vorgesehen werden:
 
 
 
+
+
+#### § 80a Beihilferechtliche Verfahrenserleichterungen
+
+(1) Hat die für die Gewährung der Beihilfe zuständige Stelle nicht
+innerhalb von vier Wochen nach Eingang des Beihilfeantrags über den
+Antrag entschieden, so gilt die beantragte Aufwendung mit Ablauf
+dieser Frist als erstattungsfähig. Die beantragte Aufwendung gilt
+nicht als erstattungsfähig,
+
+1.  wenn grundsätzlich eine vorherige Anerkennung der Aufwendung
+    erforderlich ist und die Anerkennung zum Zeitpunkt des Eingangs des
+    Beihilfeantrags nicht erfolgt ist, oder
+
+
+2.  wenn und soweit kein Anspruch auf Erstattung der beantragten
+    Aufwendung bestanden hätte und die beihilfeberechtigte Person dies
+    wusste oder infolge grober Außerachtlassung der gebotenen Sorgfalt
+    nicht wusste.
+
+
+
+Soweit beantragte Aufwendungen als erstattungsfähig gelten, soll die
+zuständige Stelle den Festsetzungsbescheid innerhalb von zwei Jahren
+ab Bekanntgabe überprüfen. Bei Überzahlungen widerruft sie den
+Bescheid mit Wirkung für die Vergangenheit. Die Festsetzungsstelle hat
+auf die Rückzahlungspflicht als Folge eines Widerrufs im
+Festsetzungsbescheid hinzuweisen.
+
+(2) Die Festsetzungsstelle kann bei der elektronischen
+Datenverarbeitung für Zwecke einer unverzüglichen und gleichmäßigen
+Belegprüfung und Festsetzung automationsgestützte Systeme
+(Risikomanagementsysteme) einsetzen, dabei ist der Grundsatz der
+Wirtschaftlichkeit und Sparsamkeit zu beachten. Das
+Risikomanagementsystem muss mindestens
+
+1.  sicherstellen, dass gegenüber einer vollständig manuellen Prüfung
+    keine Entscheidung zu Lasten der beihilfeberechtigten Person erfolgt,
+
+
+2.  durch Zufallsauswahl eine hinreichende Anzahl von Fällen zur
+    umfassenden Prüfung durch beihilfebearbeitende Personen bereitstellen,
+
+
+3.  die Prüfung der bereitgestellten Fälle auf die rechtmäßige Festsetzung
+    der geltend gemachten Aufwendungen durch eine beihilfebearbeitende
+    Person sicherstellen,
+
+
+4.  die Möglichkeit bieten, dass beihilfebearbeitende Personen Fälle für
+    eine umfassende Prüfung auswählen können und
+
+
+5.  die regelmäßige Überprüfung des Risikomanagementsystems auf seine
+    Zielerfüllung durch die Festsetzungsstelle ermöglichen.
+
+
+
+Einzelheiten des Risikomanagementsystems dürfen nicht veröffentlicht
+werden.
 
 
 #### § 81 Reisekosten
