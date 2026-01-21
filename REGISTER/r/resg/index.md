@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1583, 1588
 
 Zuletzt geändert durch
-:   Art. 11 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 3 G v. 20.12.2023 I Nr. 392
+:   Art. 7 G v. 9.1.2026 I Nr. 7
 
 Änderung der inhaltsübersicht durch
 :   Art. 2 Nr. 1 G v. 20.8.2021 I 3930 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
