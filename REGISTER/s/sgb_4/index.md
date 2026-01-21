@@ -20,19 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 2.12.2025 I Nr. 302
-
-Mittelbare änderung durch
-:   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 362 ist berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 362
 
 Änderung durch
 :   Art. 12 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
