@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 872
 
 Zuletzt geändert durch
-:   Art. 4 V v. 24.6.2024 I Nr. 215
+:   Art. 7 G v. 11.1.2026 I Nr. 9
 
 
 ## Eingangsformel
@@ -462,8 +462,8 @@ eingegangen.
 
 (1) Beruft sich der Anmelder auf eine im Ursprungsland eingetragene
 Marke nach Artikel 6
-quinquies der Pariser Verbandsübereinkunft, so kann die entsprechende
-Erklärung auch noch nach der Anmeldung abgegeben werden.
+quinquies              der Pariser Verbandsübereinkunft, so kann die
+entsprechende Erklärung auch noch nach der Anmeldung abgegeben werden.
 
 (2) Der Anmelder hat eine von der zuständigen Behörde ausgestellte
 Bescheinigung über die Eintragung im Ursprungsland vorzulegen.
@@ -1459,8 +1459,9 @@ herausgegebenen Formblatts eingereicht werden.
 
 #### § 48 Veröffentlichung des Antrags
 
-(1) In der Veröffentlichung des Antrags (§ 130 Abs. 4 des
-Markengesetzes) sind mindestens anzugeben:
+(1) In der Veröffentlichung des Antrags (§ 130 Absatz 4 des
+Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung) sind
+mindestens anzugeben:
 
 1.  der Name und die Anschrift des Antragstellers,
 
@@ -1483,16 +1484,18 @@ Markengesetzes) sind mindestens anzugeben:
 
 
 (2) In der Veröffentlichung ist auf die Möglichkeit des Einspruchs
-nach § 130 Abs. 4 des Markengesetzes in Verbindung mit Artikel 10
-Absatz 4 der Verordnung (EU) 2024/1143 hinzuweisen.
+nach § 130 Absatz 4 des Markengesetzes in der vor dem 16. Januar 2026
+geltenden Fassung in Verbindung mit Artikel 10 Absatz 4 der Verordnung
+(EU) 2024/1143 hinzuweisen.
 
 
 #### § 49 Nationaler Einspruch
 
-(1) Der Einspruch nach § 130 Abs. 4 des Markengesetzes in Verbindung
-mit Artikel 10 Absatz 4 der Verordnung (EU) 2024/1143 soll unter
-Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen
-Formblatts eingereicht werden.
+(1) Der Einspruch nach § 130 Absatz 4 des Markengesetzes in der vor
+dem 16. Januar 2026 geltenden Fassung in Verbindung mit Artikel 10
+Absatz 4 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom
+Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht
+werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1517,16 +1520,16 @@ Formblatts eingereicht werden.
 
 
 
-### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes
+### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren
 
 
 
 #### § 50 Einspruch
 
-(1) Der Einspruch nach § 131 des Markengesetzes in Verbindung mit
-Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143 soll unter
-Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen
-Formblatts eingereicht werden.
+(1) Der Einspruch nach § 131 des Markengesetzes in der vor dem 16.
+Januar 2026 geltenden Fassung in Verbindung mit Artikel 17 Absatz 2
+der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen
+Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1666,17 +1669,8 @@ Verordnung eingereicht worden sind, gelten die Vorschriften dieser
 Verordnung in ihrer bis dahin geltenden Fassung.
 
 
-### § 57a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
+### § 57a (weggefallen)
 
-Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
-2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
-Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
-Rates vom 21. November 2012 über Qualitätsregelungen für
-Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in
-der jeweils in Bezug genommenen Fassung weiterhin Anwendung finden,
-sind die Überschrift zu Teil 6, die §§ 47, 48 und § 49 Absatz 1, § 50
-Absatz 1 und 3, § 52 Absatz 1 und 3, § 53 Absatz 1 sowie § 54 in der
-bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 
 ### § 58 Inkrafttreten, Außerkrafttreten
