@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 4982 (5204) (2023 I Nr. 144)
 
 Zuletzt geändert durch
-:   Art. 6 V v. 14.10.2025 I Nr. 242
-
-Änderung durch
-:   Art. 2 V v. 17.12.2025 I Nr. 381 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 17.12.2025 I Nr. 381
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -748,8 +745,6 @@ Vermeidung unbilliger Härten kann die zuständige Behörde auf Antrag
 genehmigen, dass das Kleinschifferzeugnis vorübergehend auch zum
 Führen von Fahrzeugen berechtigt, die in den Anwendungsbereich der
 Richtlinie (EU) 2017/2397 fallen.
-
-(6) (weggefallen)
 
 
 #### § 15a Erweiterung des Geltungsbereichs der Befähigungszeugnisse auf Führungsebene
@@ -7721,7 +7716,8 @@ erteilt.
 ### Anlage 2 Binnenwasserstraßenabschnitte mit besonderen Risiken
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
-2021, S. 2)
+2021, S. 2;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -18807,7 +18803,8 @@ erfüllen.
 ### Anlage 15 Kompetenzen für besondere Berechtigung für Risikostrecken
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
-2021, S. 72 - 76)
+2021, S. 72 - 76;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## **Teil I. Donau – von km 2 249,00 (Liegestelle Vilshofen) bis km
@@ -21195,7 +21192,8 @@ Vorname] erfolgreich teilgenommen.
 ### Anlage 22 Zulassung von Lehrgängen für Maschinenkundige
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
-2021, S. 94 - 95)
+2021, S. 94 - 95;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## I. Voraussetzung für die Zulassung von Lehrgängen für
