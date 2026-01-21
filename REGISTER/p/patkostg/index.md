@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3656
 
 Zuletzt geändert durch
-:   Art. 2 G v. 30.8.2021 I 4074
+:   Art. 11 G v. 11.1.2026 I Nr. 9
 
 
 ## § 1 Geltungsbereich, Verordnungsermächtigungen
@@ -1852,23 +1852,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   336 200
 
-    *   Zwischenstaatliches Einspruchsverfahren (§ 131 MarkenG) . . . . . . .
-        . . .
+    *   (weggefallen)
 
-    *   120
-
+    *
 
 *    *   336 250
 
-    *   Antrag auf Änderung der Spezifikation (§ 132 Abs. 1 MarkenG) . . . . .
-        . . . . .
+    *   Antrag auf Änderung der Produktspezifikation (§ 132 Abs. 1 und 2
+        MarkenG) . . . . . . . . . .
 
     *   200
 
 
 *    *   336 300
 
-    *   Löschungsverfahren (§ 132 Abs. 2 MarkenG) . . . . . . . . . .
+    *   Löschungsverfahren (§ 132 Abs. 3 MarkenG) . . . . . . . . . .
 
     *   120
 
@@ -2270,45 +2268,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . .
 
     *   300
-
-
-*    *   **VI. Topographieschutzsachen**
-
-
-*    *   1. Anmeldeverfahren ****
-
-
-*    *
-    *   Anmeldeverfahren (§ 3 HalblSchG)
-
-    *
-
-*    *   361 000
-
-    *   – bei elektronischer Anmeldung . . . . . . . . . .
-
-    *   290
-
-
-*    *   361 100
-
-    *   – bei Anmeldung in Papierform . . . . . . . . . .
-
-    *   300
-
-
-*    *   2. Sonstige Anträge ****
-
-
-*    *   362 000
-        362 100
-
-    *   Weiterbehandlungsgebühr (§ 11 Abs. 1 HalblSchG i.V.m. § 123a PatG) . .
-        . . . . . . . .
-        Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . .
-
-    *   100
-        300
 
 
 
