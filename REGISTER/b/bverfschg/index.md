@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2970
 
 Zuletzt geändert durch
-:   Art. 1 G v. 25.10.2024 I Nr. 332
+:   Art. 3 G v. 9.1.2026 I Nr. 7
 
 
 ## Erster Abschnitt - Zusammenarbeit, Aufgaben der Verfassungsschutzbehörden
@@ -1152,14 +1152,13 @@ zulassen, sofern es nicht einer weitergehenden Auskunft zustimmt.
 hinreichend gewichtige tatsächliche Anhaltspunkte hierfür vorliegen,
 sowie über präventiven Wirtschaftsschutz.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat informiert
-die Öffentlichkeit über Bestrebungen und Tätigkeiten nach § 3 Absatz
-1, soweit hinreichend gewichtige tatsächliche Anhaltspunkte hierfür
-vorliegen, mindestens einmal jährlich in einem zusammenfassenden
-Bericht insbesondere zu aktuellen Entwicklungen. In dem Bericht sind
-die Zuschüsse des Bundeshaushaltes an das Bundesamt für
-Verfassungsschutz und den Militärischen Abschirmdienst sowie die
-jeweilige Gesamtzahl ihrer Bediensteten anzugeben.
+(2) Das Bundesministerium des Innern informiert die Öffentlichkeit
+über Bestrebungen und Tätigkeiten nach § 3 Absatz 1, soweit
+hinreichend gewichtige tatsächliche Anhaltspunkte hierfür vorliegen,
+mindestens einmal jährlich in einem zusammenfassenden Bericht
+insbesondere zu aktuellen Entwicklungen. In dem Bericht sind die
+Zuschüsse des Bundeshaushaltes an das Bundesamt für Verfassungsschutz
+sowie die Gesamtzahl seiner Bediensteten anzugeben.
 
 (3) Bei der Information nach den Absätzen 1 und 2 dürfen auch
 personenbezogene Daten bekanntgegeben werden, wenn die Bekanntgabe für
