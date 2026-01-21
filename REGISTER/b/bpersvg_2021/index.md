@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1614
 
 Zuletzt geändert durch
-:   Art. 11 G v. 28.10.2025 I Nr. 259
+:   Art. 13 G v. 9.1.2026 I Nr. 7
 
 Stand: Ersetzt G 2035-4 v. 15.3.1974 I 693 (BPersVG)
 Dieses Gesetzes dient der Umsetzung der Richtlinie 2002/14/EG des
@@ -3110,6 +3110,9 @@ von ihnen keine Anwendung, soweit militärische Gründe entgegenstehen.
 
 
 
+(6) Die Mitgliedschaft in einem Personalrat beim Bundesamt für den
+Militärischen Abschirmdienst ruht bei Personen, die zu einer
+sicherheitsempfindlichen Tätigkeit nicht zugelassen sind.
 
 
 #### Abschnitt 2 - Dienststellen des Bundes im Ausland
