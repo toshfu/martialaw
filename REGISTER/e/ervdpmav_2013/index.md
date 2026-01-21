@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 3906
 
 Zuletzt geändert durch
-:   Art. 2 V v. 7.2.2022 I 171
+:   Art. 10 G v. 11.1.2026 I Nr. 9
 
 
 ## § 1 Signaturgebundene elektronische Kommunikation
@@ -90,6 +90,17 @@ eingereicht werden können. Das Deutsche Patent- und Markenamt gibt
 diese Verfahrenshandlungen über die Internetseite www.dpma.de bekannt.
 
 (3) § 1 Absatz 2 ist anzuwenden.
+
+
+## § 2a Elektronische Kommunikation über das Amt der Europäischen Union für geistiges Eigentum
+
+In Verfahren nach dem Markengesetz, die den Schutz geografischer
+Angaben für handwerkliche und industrielle Erzeugnisse betreffen,
+können elektronische Dokumente über das Portal des Amtes der
+Europäischen Union für geistiges Eigentum beim Deutschen Patent- und
+Markenamt signaturfrei eingereicht werden. Die weiteren Anforderungen
+dieser Verordnung an die Form der Einreichung finden für die
+elektronische Kommunikation über dieses Portal keine Anwendung.
 
 
 ## § 3 Form der Einreichung
