@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.7.2017 I 2316;
 
 Zuletzt geändert durch
-:   Art. 33 G v. 6.5.2024 I Nr. 149
+:   Art. 11 G v. 9.1.2026 I Nr. 7
 
 Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
 Parlaments und des Rates vom 9. September 2015 über ein
@@ -116,9 +116,9 @@ Im Sinne dieser Verordnung ist
 
     b)  im Sinne des Teils 4 die Anordnung zur Erteilung von Auskünften über
         Verkehrsdaten nach § 100g in Verbindung mit § 101a Absatz 1 der
-        Strafprozessordnung, § 8a Absatz 1 Satz 1 Nummer 4 des
-        Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a des MAD-
-        Gesetzes oder § 3 des BND-Gesetzes, § 52 des
+        Strafprozessordnung, § 20 Absatz 1 Satz 1 Nummer 5 des MAD-Gesetzes, §
+        8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch
+        in Verbindung mit § 3 des BND-Gesetzes, § 52 des
         Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder
         nach Landesrecht;
 
@@ -154,9 +154,9 @@ Im Sinne dieser Verordnung ist
     b)  im Sinne des Teils 4 die Stelle,
 
         aa) die nach § 101a Absatz 1 in Verbindung mit § 100a Absatz 4 Satz 1 der
-            Strafprozessordnung, § 8a Absatz 1 Satz 1 Nummer 4 des
-            Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a des MAD-
-            Gesetzes oder § 3 des BND-Gesetzes, § 52 des
+            Strafprozessordnung, § 20 Absatz 1 Satz 1 Nummer 5 des MAD-Gesetzes, §
+            8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch
+            in Verbindung mit § 3 des BND-Gesetzes, § 52 des
             Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder
             nach Landesrecht auf Grund der jeweiligen Anordnung berechtigt ist,
             Auskunftsverlangen über nach den §§ 9 und 12 des Telekommunikation-
