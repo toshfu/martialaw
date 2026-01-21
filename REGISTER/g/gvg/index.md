@@ -28,7 +28,7 @@ Mittelbare änderung durch
 :   Art. 39 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Änderung durch
-:   Art. 4 G v. 9.1.2026 I Nr. 3 mWv 15.1.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -1785,7 +1785,7 @@ Landgericht erhebt.
 
 
 17. des Herbeiführens einer Sprengstoffexplosion mit Todesfolge (§ 308
-    Abs. 3 des Strafgesetzbuches),
+    Absatz 4 des Strafgesetzbuches),
 
 
 18. des Mißbrauchs ionisierender Strahlen gegenüber einer unübersehbaren
@@ -1797,11 +1797,11 @@ Landgericht erhebt.
 
 
 20. des Herbeiführens einer Überschwemmung mit Todesfolge (§ 313 in
-    Verbindung mit § 308 Abs. 3 des Strafgesetzbuches),
+    Verbindung mit § 308 Absatz 4 des Strafgesetzbuches),
 
 
 21. der gemeingefährlichen Vergiftung mit Todesfolge (§ 314 in Verbindung
-    mit § 308 Abs. 3 des Strafgesetzbuches),
+    mit § 308 Absatz 4 des Strafgesetzbuches),
 
 
 22. des räuberischen Angriffs auf Kraftfahrer mit Todesfolge (§ 316a Abs.
@@ -2921,14 +2921,14 @@ Entscheidung im ersten Rechtszug zuständig
     Strafgesetzbuchs), Brandstiftung mit Todesfolge (§ 306c des
     Strafgesetzbuchs), Herbeiführen einer Explosion durch Kernenergie in
     den Fällen des § 307 Abs. 1 und 3 Nr. 1 des Strafgesetzbuchs,
-    Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Abs. 1
-    bis 3 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den
+    Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Absatz
+    1 bis 4 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den
     Fällen des § 309 Abs. 1 bis 4 des Strafgesetzbuchs, Vorbereitung eines
     Explosions- oder Strahlungsverbrechens in den Fällen des § 310 Abs. 1
     Nr. 1 bis 3 des Strafgesetzbuchs, Herbeiführen einer Überschwemmung in
-    den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des
+    den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des
     Strafgesetzbuchs, gemeingefährlicher Vergiftung in den Fällen des §
-    314 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs
+    314 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des Strafgesetzbuchs
     und Angriff auf den Luft- und Seeverkehr in den Fällen des § 316c Abs.
     1 und 3 des Strafgesetzbuchs, wenn die Tat nach den Umständen geeignet
     ist,
