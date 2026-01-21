@@ -39,6 +39,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 16 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -1700,7 +1703,11 @@ Bevollmächtigte vor dem Verwaltungsgericht vertretungsbefugt nur
     und Prozessvertretung dieser Organisation und ihrer Mitglieder oder
     anderer Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung
     und deren Mitglieder entsprechend deren Satzung durchführt, und wenn
-    die Organisation für die Tätigkeit der Bevollmächtigten haftet.
+    die Organisation für die Tätigkeit der Bevollmächtigten haftet,
+
+
+8.  Patentanwälte in den in § 39 Absatz 1 Satz 1 des Agrargeoschutz-
+    Durchführungsgesetzes genannten Angelegenheiten.
 
 
 
