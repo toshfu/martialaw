@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 25.6.2021 I 2099
 
+Änderung durch
+:   Art. 6 G v. 11.1.2026 I Nr. 6 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -255,7 +258,8 @@ Strafprozessordnung.
 
 5b. die an Sicherheitsüberprüfungen mitwirkenden Behörden nach Maßgabe des
     § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 12 Absatz 1
-    Nummer 2 des Sicherheitsüberprüfungsgesetzes,
+    Nummer 2 des Sicherheitsüberprüfungsgesetzes oder einer entsprechenden
+    landesrechtlichen Vorschrift,
 
 
 5c. die Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe
