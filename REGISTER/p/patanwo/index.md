@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1966, 557
 
 Zuletzt geändert durch
-:   Art. 19 G v. 22.12.2025 I Nr. 349
+:   Art. 12 G v. 11.1.2026 I Nr. 9
 
 
 ## Erster Teil - Der Patentanwalt
@@ -47,8 +47,10 @@ Beratung und Vertretung.
     Anfechtung eines Patents, eines ergänzenden Schutzzertifikats, eines
     Gebrauchsmusters, eines eingetragenen Designs, des Schutzes einer
     Topographie, einer Marke, eines anderen nach dem Markengesetz
-    geschützten Kennzeichens oder eines Sortenschutzrechts (gewerbliche
-    Schutzrechte) andere zu beraten und Dritten gegenüber zu vertreten;
+    geschützten Kennzeichens, eines Agrargeoschutzes im Sinne des § 1
+    Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes oder eines
+    Sortenschutzrechts (gewerbliche Schutzrechte) andere zu beraten und
+    Dritten gegenüber zu vertreten;
 
 
 2.  in Angelegenheiten, die zum Geschäftskreis des Deutschen Patent- und
@@ -61,7 +63,15 @@ Beratung und Vertretung.
     Zwangslizenz andere vor dem Bundesgerichtshof zu vertreten;
 
 
-4.  in Angelegenheiten des Sortenschutzes andere vor dem Bundessortenamt
+4.  in Angelegenheiten des Agrargeoschutzes, die Schutzbezeichnungen im
+    Sinne des § 1 Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes
+    betreffen, andere vor der Bundesanstalt für Landwirtschaft und
+    Ernährung zu vertreten;
+
+
+
+
+5.  in Angelegenheiten des Sortenschutzes andere vor dem Bundessortenamt
     zu vertreten.
 
 
@@ -98,11 +108,11 @@ unberührt.
 
 (1) In Rechtsstreitigkeiten, in denen ein Anspruch aus einem der im
 Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im
-Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz
-oder im Sortenschutzgesetz geregelten Rechtsverhältnisse geltend
-gemacht wird, sowie in Rechtsbeschwerdeverfahren gegen Beschlüsse der
-Beschwerdesenate des Bundespatentgerichts ist auf Antrag einer Partei
-ihrem Patentanwalt das Wort zu gestatten.
+Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz,
+im Agrargeoschutzrecht in Bezug auf Schutzbezeichnungen im Sinne des
+Agrargeoschutz-Durchführungsgesetzes oder im Sortenschutzgesetz
+geregelten Rechtsverhältnisse geltend gemacht wird, ist auf Antrag
+einer Partei ihrem Patentanwalt das Wort zu gestatten.
 
 (2) Das Gleiche gilt in sonstigen Rechtsstreitigkeiten, für deren
 Entscheidung eine der in § 3 Absatz 3 Nummer 1 genannten Fragen oder
@@ -110,7 +120,8 @@ Rechtsfragen von Bedeutung ist.
 
 (3) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, ist
 der Patentanwalt in den Fällen der Absätze 1 und 2 als
-Bevollmächtigter vertretungsbefugt.
+Bevollmächtigter vertretungsbefugt. § 67 der
+Verwaltungsgerichtsordnung bleibt unberührt.
 
 
 ### § 4a Beiordnung von Patentanwälten bei Prozesskostenhilfe
@@ -1535,7 +1546,12 @@ Vertretung bestellen.
     Rechte beigeordnet ist;
 
 
-2.  in gerichtlichen Verfahren die Beratung einer Partei und die
+2.  in Verfahren vor dem Verwaltungsgericht die Vertretung von Beteiligten
+    übernehmen, wenn er ihnen nach § 39 Absatz 1 Satz 2 des
+    Agrargeoschutz-Durchführungsgesetzes beigeordnet worden ist;
+
+
+3.  in gerichtlichen Verfahren die Beratung einer Partei und die
     Unterstützung ihres Rechtsanwalts übernehmen, wenn er der Partei nach
     § 4a beigeordnet ist.
 
