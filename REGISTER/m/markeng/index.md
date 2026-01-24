@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3082 (1995 I 156); 1996, 682
 
 Zuletzt geändert durch
-:   Art. 1 V v. 24.6.2024 I Nr. 215
-
-Änderung durch
-:   Art. 5 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 11.1.2026 I Nr. 9
 
 Stand: Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 
@@ -2746,7 +2743,7 @@ Patentgesetzes entsprechend anzuwenden.
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
 Bundespatentgericht enthält, sind das Gerichtsverfassungsgesetz und
 die Zivilprozeßordnung entsprechend anzuwenden, wenn die
-Besonderheiten des Verfahrens vor dem Patentgericht dies nicht
+Besonderheiten des Verfahrens vor dem Bundespatentgericht dies nicht
 ausschließen. § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht
 anzuwenden. Im Verfahren vor dem Bundespatentgericht gilt für die
 Gebühren das Patentkostengesetz, für die Auslagen gilt das
@@ -3343,7 +3340,7 @@ gelöscht,
 
 4.  wenn eine Änderung der Kollektivmarkensatzung entgegen § 104 Abs. 2 in
     das Register eingetragen worden ist, es sei denn, daß der Inhaber der
-    Kollektivmarke die Markensatzung erneut so ändert, daß der
+    Kollektivmarke die Kollektivmarkensatzung erneut so ändert, daß der
     Löschungsgrund nicht mehr besteht.
 
 
