@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 794
 
 Zuletzt geändert durch
-:   Art. 2 V v. 20.12.2024 I Nr. 445
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 340
 
 
 ## Eingangsformel
