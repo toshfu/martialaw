@@ -36,6 +36,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 17 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Steuerpflicht
 
@@ -1410,7 +1413,8 @@ Steuerfrei sind
     b)  wenn Anwartschaften der betrieblichen Altersversorgung abgefunden
         werden, soweit das Altersvorsorgevermögen zugunsten eines auf den
         Namen des Steuerpflichtigen lautenden Altersvorsorgevertrages
-        geleistet wird,
+        geleistet wird, und in den Fällen des § 3 Absatz 2a des
+        Betriebsrentengesetzes,
 
 
     c)  wenn im Fall des Todes des Steuerpflichtigen das
