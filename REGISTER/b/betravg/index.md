@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 20.12.2022 I 2759
 
+Änderung durch
+:   Art. 1 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -200,16 +203,17 @@ gehört.
 
 (5) Soweit betriebliche Altersversorgung durch Entgeltumwandlung
 einschließlich eines möglichen Arbeitgeberzuschusses nach § 1a Absatz
-1a erfolgt, behält der Arbeitnehmer seine Anwartschaft, wenn sein
-Arbeitsverhältnis vor Eintritt des Versorgungsfalles endet; in den
-Fällen der Absätze 2 und 3
+1a oder § 20 Absatz 3 erfolgt, behält der Arbeitnehmer seine
+Anwartschaft, wenn sein Arbeitsverhältnis vor Eintritt des
+Versorgungsfalles endet; in den Fällen der Absätze 2 und 3
 
 1.  dürfen die Überschussanteile nur zur Verbesserung der Leistung
-    verwendet,
+    verwendet werden,
 
 
 2.  muss dem ausgeschiedenen Arbeitnehmer das Recht zur Fortsetzung der
-    Versicherung oder Versorgung mit eigenen Beiträgen eingeräumt und
+    Versicherung oder Versorgung mit eigenen Beiträgen eingeräumt werden
+    und
 
 
 3.  muss das Recht zur Verpfändung, Abtretung oder Beleihung durch den
@@ -424,7 +428,7 @@ Voraussetzungen der folgenden Absätze abgefunden werden.
 (2) Der Arbeitgeber kann eine Anwartschaft ohne Zustimmung des
 Arbeitnehmers abfinden, wenn der Monatsbetrag der aus der Anwartschaft
 resultierenden laufenden Leistung bei Erreichen der vorgesehenen
-Altersgrenze 1 vom Hundert, bei Kapitalleistungen zwölf Zehntel der
+Altersgrenze 1,5 vom Hundert, bei Kapitalleistungen 18 Zehntel der
 monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch
 nicht übersteigen würde. Dies gilt entsprechend für die Abfindung
 einer laufenden Leistung. Die Abfindung einer Anwartschaft bedarf der
@@ -435,6 +439,15 @@ drei Monaten nach Beendigung des Arbeitsverhältnisses seinem
 ehemaligen Arbeitgeber mitteilt. Die Abfindung ist unzulässig, wenn
 der Arbeitnehmer von seinem Recht auf Übertragung der Anwartschaft
 Gebrauch macht.
+
+(2a) Der Arbeitgeber kann eine Anwartschaft mit Zustimmung des
+Arbeitnehmers abfinden, wenn der Monatsbetrag der aus der Anwartschaft
+resultierenden laufenden Leistung bei Erreichen der vorgesehenen
+Altersgrenze 2 vom Hundert, bei Kapitalleistungen 24 Zehntel der
+monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch
+nicht übersteigen würde und der Abfindungsbetrag vom Arbeitgeber
+unmittelbar zur Zahlung von Beiträgen zur gesetzlichen
+Rentenversicherung verwendet wird.
 
 (3) Die Anwartschaft ist auf Verlangen des Arbeitnehmers abzufinden,
 wenn die Beiträge zur gesetzlichen Rentenversicherung erstattet worden
@@ -449,6 +462,13 @@ Unternehmen liquidiert wird.
 entsprechend.
 
 (6) Die Abfindung ist gesondert auszuweisen und einmalig zu zahlen.
+
+(7) Mit der Genehmigung des Beschlusses zur Auflösung einer
+Pensionskasse nach § 199 Absatz 2 Satz 1 des
+Versicherungsaufsichtsgesetzes und der Auszahlung des gebildeten
+Kapitals an den Versorgungsberechtigten gilt die Anwartschaft oder
+laufende Leistung in dem Umfang, wie sie von der Pensionskasse
+durchgeführt worden ist, als abgefunden.
 
 
 #### § 4 Übertragung
@@ -842,12 +862,15 @@ ist. § 2 Abs. 2 Satz 4 bis 6 und § 3 Abs. 5 gelten entsprechend.
 
 (1) Der Träger der Insolvenzsicherung teilt dem Berechtigten die ihm
 nach § 7 oder § 8 zustehenden Ansprüche oder Anwartschaften
-schriftlich mit. Unterbleibt die Mitteilung, so ist der Anspruch oder
-die Anwartschaft spätestens ein Jahr nach dem Sicherungsfall bei dem
-Träger der Insolvenzsicherung anzumelden; erfolgt die Anmeldung
-später, so beginnen die Leistungen frühestens mit dem Ersten des
-Monats der Anmeldung, es sei denn, daß der Berechtigte an der
-rechtzeitigen Anmeldung ohne sein Verschulden verhindert war.
+schriftlich mit; mit Einwilligung des Berechtigten kann die Mitteilung
+über ein vom Träger der Insolvenzsicherung bereitgestelltes
+technisches Verfahren erfolgen. Unterbleibt die Mitteilung, so ist der
+Anspruch oder die Anwartschaft spätestens ein Jahr nach dem
+Sicherungsfall bei dem Träger der Insolvenzsicherung anzumelden;
+erfolgt die Anmeldung später, so beginnen die Leistungen frühestens
+mit dem Ersten des Monats der Anmeldung, es sei denn, daß der
+Berechtigte an der rechtzeitigen Anmeldung ohne sein Verschulden
+verhindert war.
 
 (2) Ansprüche oder Anwartschaften des Berechtigten gegen den
 Arbeitgeber auf Leistungen der betrieblichen Altersversorgung, die den
@@ -871,11 +894,11 @@ Anwartschaften gegen den Träger der Insolvenzsicherung übersteigen,
 hat dieser den übersteigenden Teil entsprechend der Satzung der
 Unterstützungskasse zu verwenden. Bei einer Unterstützungskasse mit
 mehreren Trägerunternehmen hat der Träger der Insolvenzsicherung einen
-Anspruch gegen die Unterstützungskasse auf einen Betrag, der dem Teil
-des Vermögens der Kasse entspricht, der auf das Unternehmen entfällt,
-bei dem der Sicherungsfall eingetreten ist. Die Sätze 1 bis 3 gelten
-nicht, wenn der Sicherungsfall auf den in § 7 Abs. 1 Satz 4 Nr. 2
-genannten Gründen beruht, es sei denn, daß das Trägerunternehmen seine
+Anspruch gegen die Unterstützungskasse auf denjenigen Teil des
+Vermögens der Kasse, der auf das Unternehmen entfällt, bei dem der
+Sicherungsfall eingetreten ist. Die Sätze 1 bis 3 gelten nicht, wenn
+der Sicherungsfall auf den in § 7 Abs. 1 Satz 4 Nr. 2 genannten
+Gründen beruht, es sei denn, daß das Trägerunternehmen seine
 Betriebstätigkeit nach Eintritt des Sicherungsfall nicht fortsetzt und
 aufgelöst wird (Liquidationsvergleich).
 
@@ -902,11 +925,9 @@ Pensionskasse Finanzmittel zur Verfügung stellen. Werden nach Eintritt
 des Sicherungsfalls von der Pensionskasse garantierte Leistungen
 gekürzt, gelten die Sätze 2 bis 6 entsprechend.
 
-(3b) Absatz 3a gilt entsprechend für den Pensionsfonds. Abweichend von
-Absatz 3a Satz 2 hat die Aufsichtsbehörde bei nicht
-versicherungsförmigen Pensionsplänen stets das dem Arbeitgeber
-zuzuordnende Vermögen einschließlich der Verbindlichkeiten auf den
-Träger der Insolvenzsicherung zu übertragen.
+(3b) Bei versicherungsförmigen Pensionsplänen von Pensionsfonds gilt
+Absatz 3a entsprechend, bei nicht versicherungsförmigen Pensionsplänen
+von Pensionsfonds gilt Absatz 3 entsprechend.
 
 (4) In einem Insolvenzplan, der die Fortführung des Unternehmens oder
 eines Betriebes vorsieht, ist für den Träger der Insolvenzsicherung
@@ -922,7 +943,7 @@ erbrachten Leistungen verlangen.
 den das Insolvenzverfahren eröffnet wird, die sofortige Beschwerde zu.
 
 
-#### § 10 Beitragspflicht und Beitragsbemessung
+#### § 10 Beitragspflicht und Beitragsbemessung; Beitragsbescheid
 
 (1) Die Mittel für die Durchführung der Insolvenzsicherung werden auf
 Grund öffentlich-rechtlicher Verpflichtung durch Beiträge aller
@@ -1028,6 +1049,10 @@ findet die Zwangsvollstreckung in entsprechender Anwendung der
 Vorschriften der Zivilprozeßordnung statt. Die vollstreckbare
 Ausfertigung erteilt der Träger der Insolvenzsicherung.
 
+(5) Der Träger der Insolvenzsicherung kann seine Beitragsbescheide
+vollständig durch automatische Einrichtungen erlassen, sofern weder
+ein Ermessen noch ein Beurteilungsspielraum besteht.
+
 
 #### § 10a Säumniszuschläge, Zinsen, Verjährung
 
@@ -1070,7 +1095,17 @@ Insolvenzverwalter und die nach § 7 Berechtigten sind verpflichtet,
 dem Träger der Insolvenzsicherung alle Auskünfte zu erteilen, die zur
 Durchführung der Vorschriften dieses Abschnitts erforderlich sind,
 sowie Unterlagen vorzulegen, aus denen die erforderlichen Angaben
-ersichtlich sind.
+ersichtlich sind. Enthält die Auskunft des Arbeitgebers nach Satz 2
+keine oder eine unrichtige Betriebsnummer, kann der Träger der
+Insolvenzsicherung diese von der Bundesagentur für Arbeit anfordern
+und verarbeiten, soweit dies für die Erfüllung seiner Aufgaben nach
+diesem Abschnitt erforderlich ist. Reichen die von dem nach § 7
+Berechtigten vorgelegten Unterlagen für die Feststellung der
+Leistungen nicht aus, kann der Träger der Insolvenzsicherung die zur
+Feststellung der Leistungen erforderlichen Daten von den Trägern der
+gesetzlichen Rentenversicherung anfordern und verarbeiten, soweit dies
+für die Erfüllung seiner Aufgaben nach diesem Abschnitt erforderlich
+ist.
 
 (2) Ein beitragspflichtiger Arbeitgeber hat dem Träger der
 Insolvenzsicherung spätestens bis zum 30. September eines jeden
@@ -1421,11 +1456,12 @@ Altersversorgung werden unbeschadet des § 18 durch die §§ 1 bis 16 und
 
 gelten die §§ 2, 2a Absatz 1, 3 und 4 sowie die §§ 5, 16, 27 und 28
 nicht, soweit sich aus den nachfolgenden Regelungen nichts
-Abweichendes ergibt; § 4 gilt nicht, wenn die Anwartschaft oder die
-laufende Leistung ganz oder teilweise umlage- oder haushaltsfinanziert
-ist. Soweit die betriebliche Altersversorgung über eine der in Satz 1
-genannten Einrichtungen durchgeführt wird, finden die §§ 7 bis 15
-keine Anwendung.
+Abweichendes ergibt; § 3 Absatz 2 Satz 1, Absatz 2a bis 4 gilt nicht;
+§ 4 gilt nicht, wenn die Anwartschaft oder die laufende Leistung ganz
+oder teilweise umlage- oder haushaltsfinanziert ist. Soweit die
+betriebliche Altersversorgung über eine der in Satz 1 genannten
+Einrichtungen durchgeführt wird, finden die §§ 7 bis 15 keine
+Anwendung.
 
 (2) Bei Eintritt des Versorgungsfalles vor dem 2. Januar 2002 erhalten
 die in Absatz 1 Nummer 1 und 2 bezeichneten Personen, deren
@@ -1665,34 +1701,33 @@ tarifvertragliches Optionssystem anwenden oder auf Grund eines
 einschlägigen Tarifvertrages durch Betriebs- oder Dienstvereinbarung
 die Einführung eines Optionssystems regeln; Satz 2 gilt entsprechend.
 
+(3) Sind Entgeltansprüche nicht und werden sie auch nicht
+üblicherweise in einem einschlägigen Tarifvertrag geregelt, können
+Optionssysteme auch ohne tarifvertragliche Grundlage in einer
+Betriebs- oder Dienstvereinbarung geregelt werden, wenn der
+Arbeitgeber zusätzlich zu den Vorgaben nach Absatz 2 mindestens 20
+Prozent des umgewandelten Entgelts als Arbeitgeberzuschuss hinzugibt;
+die Verpflichtung des Arbeitgebers aus § 1a Absatz 1a gilt insoweit
+als erfüllt.
+
 
 #### Unterabschnitt 2 - Tarifvertrag und reine Beitragszusage
 
 
 
-##### § 21 Tarifvertragsparteien
+##### § 21 Tarifvertragsparteien; Sozialpartnermodell
 
-(1) Vereinbaren die Tarifvertragsparteien eine betriebliche
-Altersversorgung in Form der reinen Beitragszusage, müssen sie sich an
-deren Durchführung und Steuerung beteiligen.
+(1) Sozialpartnermodell im Sinne dieses Gesetzes ist die
+tarifvertragliche Regelung einer betrieblichen Altersversorgung in
+Form der reinen Beitragszusage.
 
-(2) Die Tarifvertragsparteien sollen im Rahmen von Tarifverträgen nach
-Absatz 1 bereits bestehende Betriebsrentensysteme angemessen
-berücksichtigen. Die Tarifvertragsparteien müssen insbesondere prüfen,
-ob auf der Grundlage einer Betriebs- oder Dienstvereinbarung oder,
-wenn ein Betriebs- oder Personalrat nicht besteht, durch schriftliche
-Vereinbarung zwischen Arbeitgeber und Arbeitnehmer, tarifvertraglich
-vereinbarte Beiträge für eine reine Beitragszusage für eine andere
-nach diesem Gesetz zulässige Zusageart verwendet werden dürfen.
+(2) Die Tarifvertragsparteien müssen sich an der Durchführung und
+Steuerung eines Sozialpartnermodells beteiligen. Eine mangelhafte
+Beteiligung führt nicht zur Unwirksamkeit der reinen Beitragszusage.
+Die Beteiligungspflicht nach Satz 1 entfällt, wenn ein Tarifvertrag
+vorsieht, sich einem bestehenden Sozialpartnermodell anzuschließen.
 
-(3) Die Tarifvertragsparteien sollen nichttarifgebundenen Arbeitgebern
-und Arbeitnehmern den Zugang zur durchführenden Versorgungseinrichtung
-nicht verwehren. Der durchführenden Versorgungseinrichtung dürfen im
-Hinblick auf die Aufnahme und Verwaltung von Arbeitnehmern
-nichttarifgebundener Arbeitgeber keine sachlich unbegründeten Vorgaben
-gemacht werden.
-
-(4) Wird eine reine Beitragszusage über eine Direktversicherung
+(3) Wird eine reine Beitragszusage über eine Direktversicherung
 durchgeführt, kann eine gemeinsame Einrichtung nach § 4 des
 Tarifvertragsgesetzes als Versicherungsnehmer an die Stelle des
 Arbeitgebers treten.
@@ -1734,13 +1769,15 @@ Recht,
 
 
 
+Bei einem Wechsel der Versorgungseinrichtung gilt Satz 1 Nummer 1
+Buchstabe b entsprechend.
 
 (4) Die bei der Versorgungseinrichtung bestehende Anwartschaft ist
 nicht übertragbar, nicht beleihbar und nicht veräußerbar. Sie darf
 vorbehaltlich des Satzes 3 nicht vorzeitig verwertet werden. Die
 Versorgungseinrichtung kann Anwartschaften und laufende Leistungen bis
-zu der Wertgrenze in § 3 Absatz 2 Satz 1 abfinden; § 3 Absatz 2 Satz 3
-gilt entsprechend.
+zu einer von den Tarifvertragsparteien festgelegten Wertgrenze
+abfinden; § 3 Absatz 2 Satz 3 gilt entsprechend.
 
 (5) Für die Verjährung der Ansprüche gilt § 18a entsprechend.
 
@@ -1757,10 +1794,38 @@ Versorgungseinrichtung weiterleiten muss, soweit der Arbeitgeber durch
 die Entgeltumwandlung Sozialversicherungsbeiträge einspart.
 
 
-##### § 24 Nichttarifgebundene Arbeitgeber und Arbeitnehmer
+##### § 24 Teilnahme Dritter an Sozialpartnermodellen
 
-Nichttarifgebundene Arbeitgeber und Arbeitnehmer können die Anwendung
-der einschlägigen tariflichen Regelung vereinbaren.
+(1) Arbeitgeber und Arbeitnehmer können die Anwendung eines
+einschlägigen Sozialpartnermodells vereinbaren.
+
+(2) Die Anwendung eines nicht einschlägigen Sozialpartnermodells
+können Arbeitgeber und Arbeitnehmer vereinbaren, wenn
+
+1.  ein für das Arbeitsverhältnis einschlägiger Tarifvertrag dies eröffnet
+    oder
+
+
+2.  die das Sozialpartnermodell tragende Gewerkschaft nach ihrer Satzung
+    für das Arbeitsverhältnis tarifzuständig ist.
+
+
+
+
+(3) Arbeitnehmer, die bei Tarifvertragsparteien beschäftigt sind, die
+ein Sozialpartnermodell abgeschlossen haben, können mit ihrem
+Arbeitgeber die Teilnahme an dem Sozialpartnermodell vereinbaren.
+
+(4) Die Teilnahme nach den Absätzen 1 bis 3 bedarf der Zustimmung der
+das Sozialpartnermodell tragenden Tarifvertragsparteien. Die
+Tarifvertragsparteien können Dritte an den Kosten, die ihnen im
+Zusammenhang mit der Durchführung und Steuerung des
+Sozialpartnermodells entstehen, angemessen beteiligen. Sie können die
+Kostenbeteiligung auch über die Beiträge und Leistungen der
+durchführenden Versorgungseinrichtung erheben lassen; an eine
+entsprechende Entscheidung ist die durchführende
+Versorgungseinrichtung bei der Kalkulation der Beiträge und Leistungen
+gebunden.
 
 
 ##### § 25 Verordnungsermächtigung
@@ -1875,8 +1940,17 @@ Bundesministerium für Arbeit und Soziales kann Dritte mit dieser
 Untersuchung beauftragen.
 
 
-### § 30a (weggefallen)
+### § 30a Evaluierung
 
+Das Bundesministerium für Arbeit und Soziales wird 2027 untersuchen,
+ob die Verbreitung der betrieblichen Altersversorgung aufgrund der
+vorgesehenen Öffnung von Sozialpartnermodellen erkennbar gestiegen
+ist. Sollte sich die Zahl der Beschäftigten, die an einem
+Sozialpartnermodell teilnehmen, bis dahin gegenüber 2025 nicht
+verdoppelt haben, muss die Bundesregierung den gesetzgebenden
+Körperschaften bis zum 31. März 2028 geeignete Maßnahmen vorschlagen,
+damit allen Unternehmen und ihren Beschäftigten der Zugang zu einem
+Sozialpartnermodell eröffnet wird.
 
 
 ### § 30b
