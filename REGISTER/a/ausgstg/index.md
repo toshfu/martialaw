@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2678
 
-Änderung durch
-:   Art. 7 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 7 G v. 9.1.2026 I Nr. 3
 
 
 ## § 1 Zweck des Gesetzes
