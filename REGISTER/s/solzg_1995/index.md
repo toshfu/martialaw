@@ -165,11 +165,11 @@ Personen nur zu erheben, wenn die Bemessungsgrundlage nach Absatz 1
 Nummer 1 und 2, vermindert um die Einkommensteuer nach § 32d Absatz 3
 und 4 des Einkommensteuergesetzes,
 
-1.  in den Fällen des § 32a Absatz 5 und 6 des Einkommensteuergesetzes
-    40 700 Euro,
+1.  in den Fällen des § 32a Absatz 5 und 6 des Einkommensteuergesetzes 40
+    700 Euro,
 
 
-2.  in anderen Fällen 20 350 Euro
+2.  in anderen Fällen 20 350 Euro
 
 
 
@@ -183,10 +183,12 @@ Lohnzahlungszeitraum
 
 1.  bei monatlicher Lohnzahlung
 
-    a)  in der Steuerklasse III mehr als 3 021,67 Euro und
+    a)  in der Steuerklasse III mehr als ein Zwölftel des in Absatz 3 Satz 1
+        Nummer 1 angegebenen Betrages und
 
 
-    b)  in den Steuerklassen I, II, IV bis VI mehr als 1 510,83 Euro,
+    b)  in den Steuerklassen I, II, IV bis VI mehr als ein Zwölftel des in
+        Absatz 3 Satz 1 Nummer 2 angegebenen Betrages,
 
 
 
@@ -194,10 +196,13 @@ Lohnzahlungszeitraum
 
 2.  bei wöchentlicher Lohnzahlung
 
-    a)  in der Steuerklasse III mehr als 705,06 Euro und
+    a)  in der Steuerklasse III mehr als sieben Dreihundertsechzigstel des in
+        Absatz 3 Satz 1 Nummer 1 angegebenen Betrages und
 
 
-    b)  in den Steuerklassen I, II, IV bis VI mehr als 352,53 Euro,
+    b)  in den Steuerklassen I, II, IV bis VI mehr als sieben
+        Dreihundertsechzigstel des in Absatz 3 Satz 1 Nummer 2 angegebenen
+        Betrages,
 
 
 
@@ -205,10 +210,13 @@ Lohnzahlungszeitraum
 
 3.  bei täglicher Lohnzahlung
 
-    a)  in der Steuerklasse III mehr als 100,72 Euro und
+    a)  in der Steuerklasse III mehr als ein Dreihundertsechzigstel des in
+        Absatz 3 Satz 1 Nummer 1 angegebenen Betrages und
 
 
-    b)  in den Steuerklassen I, II, IV bis VI mehr als 50,36 Euro beträgt.
+    b)  in den Steuerklassen I, II, IV bis VI mehr als ein
+        Dreihundertsechzigstel des in Absatz 3 Satz 1 Nummer 2 angegebenen
+        Betrages beträgt.
 
 
 
@@ -223,10 +231,11 @@ Kinderfreibetrags und des Freibetrags für den Betreuungs- und
 Erziehungs- oder Ausbildungsbedarf für jedes Kind entsprechend den
 Vorgaben in Absatz 2a folgende Beträge übersteigt:
 
-1.  in den Steuerklassen I, II, IV bis VI 18 130 Euro und
+1.  in den Steuerklassen I, II, IV bis VI den Betrag nach Absatz 3 Satz 1
+    Nummer 2 und
 
 
-2.  in der Steuerklasse III 36 260 Euro.
+2.  in der Steuerklasse III den Betrag nach Absatz 3 Satz 1 Nummer 1.
 
 
 
@@ -235,8 +244,9 @@ Einkommensteuergesetzes finden Anwendung.
 
 (5) Beim Lohnsteuer-Jahresausgleich ist der Solidaritätszuschlag nur
 zu ermitteln, wenn die Bemessungsgrundlage in Steuerklasse III mehr
-als 36 260 Euro und in den Steuerklassen I, II oder IV mehr als 18 130
-Euro beträgt.
+als den Betrag nach Absatz 3 Satz 1 Nummer 1 und in den Steuerklassen
+I, II oder IV mehr als den Betrag nach Absatz 3 Satz 1 Nummer 2
+beträgt.
 
 
 ## § 4 Zuschlagsatz
