@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2034
 
+V aufgeh. durch
+:   Art. 17 G v. 16.1.2026 I Nr. 14 mit Ablauf des 22.1.2026
+
 
 ## Eingangsformel
 
