@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2025 I Nr. 377
 
+Änderung durch
+:   Art. 11 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
 
@@ -91,9 +94,9 @@ Zuletzt geändert durch
     einschließlich Wertguthaben,
 
 
-12. Sonderzahlungen nach § 19 Absatz 1 Satz 1 Nummer 3 Satz 2 bis 4 des
-    Einkommensteuergesetzes der Arbeitgeber zur Deckung eines finanziellen
-    Fehlbetrages an die Einrichtungen, für die Satz 3 gilt,
+12. nach § 19 Absatz 1 Satz 1 Nummer 3 Satz 2 bis 4 des
+    Einkommensteuergesetzes nicht zu den Einkünften aus nichtselbständiger
+    Arbeit gehörende Sonderzahlungen des Arbeitgebers,
 
 
 13. Sachprämien nach § 37a des Einkommensteuergesetzes,
