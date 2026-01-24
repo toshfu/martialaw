@@ -1012,17 +1012,17 @@ Stelle. Satz 1 gilt entsprechend, wenn der Arbeitgeber wegen eines
 Insolvenzereignisses im Sinne von § 165 Absatz 1 Satz 2 des Dritten
 Buches Sozialgesetzbuch den Zuschuss nach Absatz 1 nicht zahlen kann.
 
-(4) Bei Personen, die nach einem nicht in der Bundesrepublik
-Deutschland ansässig sind und deren Ansässigkeitsstaat nach diesem
-Abkommen zur Vermeidung der Doppelbesteuerung das Besteuerungsrecht
-für den Zuschuss zum Mutterschaftsgeld zusteht, sind für die
-Berechnung des Zuschusses zum Mutterschaftsgeld nur die Beiträge zur
-Sozialversicherung als das durchschnittliche kalendertägliche
-Arbeitsentgelt nach Absatz 1 Satz 2 vermindernde gesetzliche Abzüge zu
-berücksichtigen. Unterliegt der Zuschuss zum Mutterschaftsgeld im
-Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der
-Steuer, sind alle gesetzlichen Abzüge nach Absatz 1 Satz 2 zu
-berücksichtigen.
+(4) Bei Personen, die nach einem Abkommen zur Vermeidung der
+Doppelbesteuerung nicht in der Bundesrepublik Deutschland ansässig
+sind und deren Ansässigkeitsstaat nach diesem Abkommen zur Vermeidung
+der Doppelbesteuerung das Besteuerungsrecht für den Zuschuss zum
+Mutterschaftsgeld zusteht, sind für die Berechnung des Zuschusses zum
+Mutterschaftsgeld nur die Beiträge zur Sozialversicherung als das
+durchschnittliche kalendertägliche Arbeitsentgelt nach Absatz 1 Satz 2
+vermindernde gesetzliche Abzüge zu berücksichtigen. Unterliegt der
+Zuschuss zum Mutterschaftsgeld im Ansässigkeitsstaat nach dessen
+maßgebenden Vorschriften nicht der Steuer, sind alle gesetzlichen
+Abzüge nach Absatz 1 Satz 2 zu berücksichtigen.
 
 
 ### § 21 Ermittlung des durchschnittlichen Arbeitsentgelts
