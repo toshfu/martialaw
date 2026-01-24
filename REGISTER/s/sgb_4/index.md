@@ -20,13 +20,10 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 362
+:   Art. 21 G v. 22.12.2025 I Nr. 369
 
 Änderung durch
-:   Art. 12 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -401,8 +398,9 @@ Eine Wertguthabenvereinbarung liegt vor, wenn
 
 #### § 7c Verwendung von Wertguthaben
 
-(1) Das Wertguthaben auf Grund einer Vereinbarung nach § 7b kann in
-Anspruch genommen werden
+(1) Das Wertguthaben auf Grund einer Vereinbarung nach § 7b kann bis
+zum Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze
+nach dem Sechsten Buch in Anspruch genommen werden
 
 1.  für gesetzlich geregelte vollständige oder teilweise Freistellungen
     von der Arbeitsleistung oder gesetzlich geregelte Verringerungen der
@@ -434,6 +432,8 @@ Anspruch genommen werden
 
     a)  die unmittelbar vor dem Zeitpunkt liegen, zu dem der Beschäftigte eine
         Rente wegen Alters nach dem Sechsten Buch bezieht oder beziehen könnte
+        oder die darüber hinaus längstens bis zum Ablauf des Kalendermonats
+        des Erreichens der Regelaltersgrenze nach dem Sechsten Buch reichen
         oder
 
 
@@ -1631,6 +1631,10 @@ von § 4 Absatz 2 des Tarifvertragsgesetzes zur weiteren Verarbeitung,
 soweit dies für die Erfüllung ihrer Aufgaben nach diesem Gesetzbuch
 erforderlich ist.
 
+(1a) In den Fällen des § 11 Absatz 1 Satz 3 des Betriebsrentengesetzes
+übermittelt die Bundesagentur für Arbeit die Betriebsnummer an den
+Träger der Insolvenzsicherung nach dem Betriebsrentengesetz.
+
 (2) Die Sozialversicherungsträger, ihre Verbände und ihre
 Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der
 Zollverwaltung, soweit sie Aufgaben nach § 2 oder § 25 des
@@ -2020,10 +2024,11 @@ auf einem Wertguthaben bis zum Zeitpunkt der nicht zweckentsprechenden
 Verwendung des Arbeitsentgelts. Bei einem nach § 7f Absatz 1 Satz 1
 Nummer 2 übertragenen Wertguthaben gelten die Sätze 1 bis 3
 entsprechend, soweit das Wertguthaben wegen der Inanspruchnahme einer
-Rente wegen verminderter Erwerbsfähigkeit, einer Rente wegen Alters
-oder wegen des Todes des Versicherten nicht mehr in Anspruch genommen
-werden kann. Wird das Wertguthaben vereinbarungsgemäß an einen
-bestimmten Wertmaßstab gebunden, ist der im Zeitpunkt der nicht
+Rente wegen verminderter Erwerbsfähigkeit, wegen Ablaufs des
+Kalendermonats des Erreichens der Regelaltersgrenze nach dem Sechsten
+Buch oder wegen des Todes des Versicherten nicht mehr in Anspruch
+genommen werden kann. Wird das Wertguthaben vereinbarungsgemäß an
+einen bestimmten Wertmaßstab gebunden, ist der im Zeitpunkt der nicht
 zweckentsprechenden Verwendung des Arbeitsentgelts maßgebende
 angepasste Betrag als Höchstbetrag der Berechnung zugrunde zu legen.
 Im Falle der Insolvenz des Arbeitgebers gilt auch als
@@ -2081,9 +2086,10 @@ Kalendermonate nach dem Kalendermonat, in dem das Arbeitsentgelt nicht
 zweckentsprechend verwendet worden ist, oder bei Aufnahme einer
 Beschäftigung in diesem Zeitraum zum Zeitpunkt des
 Beschäftigungsbeginns fällig, es sei denn, eine zweckentsprechende
-Verwendung wird vereinbart; beginnt in diesem Zeitraum eine Rente
-wegen Alters oder Todes oder tritt verminderte Erwerbsfähigkeit ein,
-gelten diese Zeitpunkte als Zeitpunkt der nicht zweckentsprechenden
+Verwendung wird vereinbart; erreicht der Versicherte in diesem
+Zeitraum die Regelaltersgrenze nach dem Sechsten Buch, tritt
+verminderte Erwerbsfähigkeit oder der Tod des Versicherten ein, gelten
+diese Zeitpunkte als Zeitpunkt der nicht zweckentsprechenden
 Verwendung.
 
 (3a) Sieht die Vereinbarung nach § 7b bereits bei ihrem Abschluss für
@@ -5408,12 +5414,24 @@ an Ort und Stelle davon zu überzeugen, dass die Wahlräume den
 Vorschriften der Wahlordnung entsprechend eingerichtet sind und dass
 bei der Wahlhandlung und bei der Ermittlung des Wahlergebnisses den
 Vorschriften dieses Gesetzes und der Wahlordnung entsprechend
-verfahren wird.
+verfahren wird. Bei der Online-Wahl sind die Wahlbeauftragten und ihre
+Stellvertreter berechtigt, die räumlichen und technischen
+Infrastrukturen, die von den Versicherungsträgern oder den von diesen
+beauftragten Dritten für die Durchführung der Wahl genutzt werden, in
+geeigneter Weise zu überprüfen. Die Wahlbeauftragten und ihre
+Stellvertreter sind befugt, Dritte mit der Überprüfung zu beauftragen.
 
 
 #### § 54 Durchführung der Wahl
 
-(1) Die Wahlberechtigten wählen durch briefliche Stimmabgabe.
+(1) Die Wahlberechtigten wählen durch briefliche Stimmabgabe. Sie
+können auch durch elektronische Stimmabgabe wählen, wenn die Satzung
+des Versicherungsträgers die Möglichkeit der Online-Wahl ergänzend
+vorsieht. Die Satzung kann ferner bestimmen, für welche Gruppen eine
+Online-Wahl durchgeführt werden kann. Bei doppelter Stimmabgabe durch
+einen Wahlberechtigten per Briefwahl und per Online-Wahl zählt nur die
+elektronisch abgegebene Stimme, die per Briefwahl abgegebene Stimme
+ist ohne weitere Prüfung ungültig.
 
 (2) Soweit Wahlunterlagen nicht übersandt, sondern ausgehändigt
 werden, hat der Arbeitgeber oder der sonst für die Aushändigung der
@@ -5429,7 +5447,8 @@ Wahlgeheimnisses vorzusehenden Einrichtungen jede Beeinflussung der
 Wahlberechtigten durch Wort, Ton, Schrift oder Bild unterbleibt.
 
 (3) Der Tag, bis zu dem die Wahlbriefe bei den Versicherungsträgern
-eingegangen sein müssen (Wahltag), ist vom Bundeswahlbeauftragten für
+eingegangen und bei einer Online-Wahl die elektronischen Stimmen
+abgegeben sein müssen (Wahltag), ist vom Bundeswahlbeauftragten für
 alle Versicherungsträger einheitlich zu bestimmen, soweit nicht
 Abweichungen geboten sind.
 
@@ -5437,6 +5456,29 @@ Abweichungen geboten sind.
 bekannt gemachten Postunternehmen als Briefsendungen ohne besondere
 Versendungsform unentgeltlich eingeliefert werden, wenn sie sich in
 amtlichen Wahlbriefumschlägen befinden.
+
+(5) Bei Online-Wahlen sind die für Sozialversicherungswahlen geltenden
+allgemeinen Wahlgrundsätze nach § 45 Absatz 2 unter Berücksichtigung
+der technischen Besonderheiten entsprechend zu wahren. Die Online-Wahl
+darf nur unter Verwendung von Online-Wahlprodukten durchgeführt
+werden, die nach dem Schutzprofil BSI-CC-PP-0121 des Bundesamtes für
+Sicherheit in der Informationstechnik in der jeweils geltenden Fassung
+zertifiziert sind. Bei der Vorbereitung und Durchführung der Online-
+Wahl sind mindestens die Anforderungen für hohen Schutzbedarf nach der
+Technischen Richtlinie TR-03169 des Bundesamtes für Sicherheit in der
+Informationstechnik in der jeweils geltenden Fassung zu beachten. Das
+Bundesamt für Sicherheit in der Informationstechnik veröffentlicht die
+jeweils geltende Fassung des Schutzprofils BSI-CC-PP-0121 und der
+Technischen Richtlinie TR-03169 auf seiner Internetseite und macht
+einen Verweis auf diese Internetseite im Bundesanzeiger bekannt. Im
+Übrigen gelten für die Online-Wahl die Vorschriften der Wahlordnung
+für die Sozialversicherung entsprechend, sofern nicht etwas
+Abweichendes bestimmt ist.
+
+(6) Versicherungsträger können die Online-Wahl mit anderen
+Versicherungsträgern gemeinsam vorbereiten und durchführen. Hierfür
+bilden sie Arbeitsgemeinschaften nach § 94 Absatz 1a Satz 1 des
+Zehnten Buches.
 
 
 #### § 55 Wahlunterlagen und Mitwirkung der Arbeitgeber
@@ -5458,12 +5500,14 @@ haben die Arbeitgeber den Unfallversicherungsträgern die hierfür
 notwendigen Angaben zu machen.
 
 
-#### § 56 Wahlordnung
+#### § 56 Wahlordnung; Verordnungsermächtigung
 
-Das Bundesministerium für Arbeit und Soziales erlässt durch
+(1) Das Bundesministerium für Arbeit und Soziales erlässt durch
 Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung
-der Wahlen erforderliche Wahlordnung. Es trifft darin insbesondere
-Vorschriften über
+der Wahlen erforderliche Wahlordnung.
+
+(2) Das Bundesministerium für Arbeit und Soziales trifft in der
+Wahlordnung insbesondere Vorschriften über
 
 1.  die Bestellung der Wahlbeauftragten, die Bildung der Wahlausschüsse
     und der Wahlleitungen sowie über die Befugnisse, die
@@ -5476,7 +5520,7 @@ Vorschriften über
 
 3.  die Vorbereitung der Wahlen einschließlich der Unterrichtung der
     Wahlberechtigten über den Zweck und den Ablauf des Wahlverfahrens
-    sowie über die zur Wahl zugelassenen Vorschlagslisten,
+    sowie über die zur Wahl zugelassenen Vorschlaglisten,
 
 
 4.  den Zeitpunkt für die Wahlen,
@@ -5492,7 +5536,7 @@ Vorschriften über
 
 
 6.  die Listenzusammenlegung, die Listenverbindung und die Zurücknahme von
-    Vorschlagslisten,
+    Vorschlaglisten,
 
 
 7.  die Wahlbezirke sowie die Wahlräume und ihre Einrichtung,
@@ -5521,6 +5565,22 @@ Vorschriften über
 
 
 14. die Kosten der Wahlen und einen Kostenausgleich.
+
+
+
+
+(3) Das Bundesministerium für Arbeit und Soziales trifft im Benehmen
+mit dem Bundesamt für Sicherheit in der Informationstechnik in der
+Wahlordnung nähere Bestimmungen zur Vorbereitung, Durchführung,
+Auswertung und Nachbereitung der Online-Wahl, insbesondere
+
+1.  ergänzende Anforderungen an das nach § 54 Absatz 5 Satz 2 zu
+    verwendende Online-Wahlprodukt,
+
+
+2.  technische und organisatorische Anforderungen, einschließlich Maßgaben
+    zur Anwendung der nach § 54 Absatz 5 Satz 3 zu beachtenden Technischen
+    Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik.
 
 
 
@@ -8934,7 +8994,7 @@ Satz 1 Nummer 2.
 
 ### § 116 Übergangsregelungen für bestehende Wertguthaben
 
-[^f772675_18_BJNR138450976BJNE022701308]
+[^f772675_18_BJNR138450976BJNE022702126]
 (1)
 Wertguthaben für Beschäftigte, die am 1. Januar 2009 abweichend von §
 7d Absatz 1 als Zeitguthaben geführt werden, können als Zeitguthaben
@@ -8943,15 +9003,15 @@ vereinbarte Wertguthabenvereinbarungen auf der Grundlage früherer
 Vereinbarungen.
 
 (2) § 7c Absatz 1 findet nur auf Wertguthabenvereinbarungen Anwendung,
-die nach dem 1. Januar 2009 geschlossen worden sind.
+die nach dem 1. Januar 2009 geschlossen worden sind. Wertguthaben
+aufgrund einer vor dem 1. Januar 2009 geschlossenen Vereinbarung
+können neben einer Inanspruchnahme einer Rente wegen Alters bis zum
+Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze nach
+dem Sechsten Buch in Anspruch genommen werden.
 
-(3) Für Wertguthabenvereinbarungen nach § 7b, die vor dem 31. Dezember
-2008 geschlossen worden sind und in denen entgegen § 7e Absatz 1 und 2
-keine Vorkehrungen für den Fall der Insolvenz des Arbeitgebers
-vereinbart sind, gilt § 7e Absatz 5 und 6 mit Wirkung ab dem 1. Juni
-2009\.
+(3) (weggefallen)
 
-[^f772675_18_BJNR138450976BJNE022701308]:     Gemäß Artikel 1 Nummer 22 in Verbindung mit Artikel 10 Absatz 8 des
+[^f772675_18_BJNR138450976BJNE022702126]:     Gemäß Artikel 1 Nummer 22 in Verbindung mit Artikel 10 Absatz 8 des
     Gesetzes vom 15. Juli 2009 (BGBl. I S. 1939) wird am 1. Oktober 2009
     nach § 116 folgender § 116a eingefügt:
     „§ 116a
