@@ -31,6 +31,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 13 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 12 G v. 16.1.2026 I Nr. 4 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -6446,9 +6449,17 @@ Versorgungsausgleichsgesetzes gelten die in der gesetzlichen
 Rentenversicherung erworbenen Anrechte.
 
 (2) Als Anrechte gleicher Art im Sinne des § 10 Absatz 2 des
-Versorgungsausgleichsgesetzes gelten nicht die in der allgemeinen
-Rentenversicherung und in der knappschaftlichen Rentenversicherung
-erworbenen Anrechte.
+Versorgungsausgleichsgesetzes gelten nicht
+
+1.  die in der allgemeinen Rentenversicherung und in der knappschaftlichen
+    Rentenversicherung erworbenen Anrechte,
+
+
+2.  die in der Rentenversicherung als Zuschläge für langjährige
+    Versicherung gewährten Entgeltpunkte und die übrigen Entgeltpunkte.
+
+
+
 
 
 ##### § 120g Externe Teilung
@@ -7924,7 +7935,8 @@ Vermittlungsstellen eingeschaltet werden dürfen, ist nur zulässig:
 
 
 14. mit den gemeinsamen Einrichtungen im Sinne von § 4 Absatz 2 des
-    Tarifvertragsgesetzes, soweit dies für die Feststellung des
+    Tarifvertragsgesetzes, soweit dies für die Ermittlung und
+    Sicherstellung der Beiträge, für die Feststellung des
     Versicherungsfalles, für die Berechnung der Betriebsrente oder die
     Prüfung des Fortbestehens des Anspruchs auf die Betriebsrente dem
     Grund oder der Höhe nach, erforderlich ist.
@@ -8055,9 +8067,10 @@ soweit dies erforderlich ist, um
     gesetzlichen Krankenversicherung überprüfen zu können,
 
 
-8.  es den Trägern der Rentenversicherung zu ermöglichen, überlebende
-    Ehegatten oder Lebenspartner auf das Bestehen eines Leistungsanspruchs
-    hinzuweisen,
+8.  es den Trägern der Rentenversicherung zu ermöglichen, einen
+    Leistungsanspruch überlebender Ehegatten oder Lebenspartner
+    festzustellen und auf das Bestehen eines solchen Leistungsanspruchs
+    hinzuweisen.
 
 
 9.  es den Trägern der Rentenversicherung und der landwirtschaftlichen
@@ -8184,28 +8197,42 @@ dies erforderlich ist, um die Ausführung des Datenschutzes,
 insbesondere zur Feststellung der Benutzer der Dateisysteme, zu
 gewährleisten.
 
-(5) Die Einrichtung eines automatisierten Abrufverfahrens für ein
-Dateisystem der Datenstelle ist nur zulässig gegenüber den in § 148
-Absatz 3 genannten Stellen, der Deutschen Rentenversicherung Bund,
-soweit sie als zentrale Stelle Aufgaben nach dem Einkommensteuergesetz
-durchführt, den Behörden der Zollverwaltung, soweit diese Aufgaben
-nach § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes durchführen
-oder Straftaten oder Ordnungswidrigkeiten verfolgen, die im
-Zusammenhang mit einem der in § 2 Absatz 1 des
-Schwarzarbeitsbekämpfungsgesetzes genannten Prüfgegenstände stehen,
-und den Unternehmen der privaten Krankenversicherung, der
-Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten,
-der Bundespolizei, den Landespolizeien, der Bundeswehr sowie den
-Trägern der freien Heilfürsorge, soweit sie Krankenversichertennummern
-nach § 290 in Verbindung mit § 362 Absatz 2 des Fünften Buches
-vergeben. Die dort enthaltenen besonderen Voraussetzungen für die
-Deutsche Post AG, für die Versicherungsämter und Gemeindebehörden und
-für Leistungsträger im Ausland müssen auch bei Satz 1 erfüllt sein.
-Die Einrichtung eines automatisierten Abrufverfahrens für ein
-Dateisystem der Datenstelle ist ferner gegenüber dem Bundesamt für
-Logistik und Mobilität, soweit dieses Aufgaben nach § 11 Absatz 2
-Nummer 3 Buchstabe a des Güterkraftverkehrsgesetzes wahrnimmt,
-zulässig.
+(5) Die Einrichtung eines automatisierten Verfahrens, das die
+Übermittlung von Sozialdaten aus Dateisystemen der Datenstelle der
+Rentenversicherung durch Abruf ermöglicht, ist nur zulässig
+
+1.  gegenüber den in § 148 Absatz 3 genannten Stellen unter den dort
+    genannten Voraussetzungen,
+
+
+2.  gegenüber der Deutschen Rentenversicherung Bund, soweit diese als
+    zentrale Stelle Aufgaben nach dem Einkommensteuergesetz durchführt,
+
+
+3.  gegenüber den Behörden der Zollverwaltung, soweit diese Aufgaben nach
+    § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes durchführen oder
+    Straftaten oder Ordnungswidrigkeiten verfolgen, die in Zusammenhang
+    mit einem der in § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes
+    genannten Prüfgegenstände stehen,
+
+
+4.  gegenüber den Unternehmen der privaten Krankenversicherung, der
+    Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten,
+    der Bundespolizei, den Landespolizeien, der Bundeswehr sowie den
+    Trägern der freien Heilfürsorge, soweit diese
+    Krankenversichertennummern nach § 290 in Verbindung mit § 362 Absatz 2
+    des Fünften Buches vergeben, und
+
+
+5.  gegenüber dem Bundesamt für Logistik und Mobilität, soweit dieses
+    Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des
+    Güterkraftverkehrsgesetzes wahrnimmt.
+
+
+
+Für die Einrichtung eines automatisierten Verfahrens auf Abruf
+gegenüber den von Satz 1 Nummer 1 erfassten Stellen ist eine
+Genehmigung nach § 79 Absatz 1 des Zehnten Buches nicht erforderlich.
 
 
 #### § 151 Auskünfte der Deutschen Post AG
@@ -8439,6 +8466,15 @@ bestimmen, insbesondere über
 
 
 
+
+
+#### § 151c Übermittlung von Sozialdaten an den Träger der Insolvenzsicherung
+
+Auf Anforderung des Trägers der Insolvenzsicherung nach § 11 Absatz 1
+Satz 4 des Betriebsrentengesetzes haben die Träger der
+Rentenversicherung dem Träger der Insolvenzsicherung die angeforderten
+Sozialdaten zu übermitteln, die zur Feststellung von Leistungen beim
+Träger der Insolvenzsicherung erforderlich sind.
 
 
 #### § 152 Verordnungsermächtigung
@@ -9609,10 +9645,10 @@ des Vierten Buches entsprechend.
 
 Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 von der
 Versicherungspflicht befreit sind, zahlen die Arbeitgeber einen
-Zuschuss in Höhe der Hälfte des Beitrags zu einer berufsständischen
-Versorgungseinrichtung, höchstens aber die Hälfte des Beitrags, der zu
-zahlen wäre, wenn die Beschäftigten nicht von der Versicherungspflicht
-in der gesetzlichen Rentenversicherung befreit worden wären.
+Zuschuss zum Beitrag zu einer berufsständischen Versorgungseinrichtung
+in Höhe des Anteils, den sie zu tragen hätten, wenn die Beschäftigten
+nicht von der Versicherungspflicht in der gesetzlichen
+Rentenversicherung befreit worden wären.
 
 
 ##### Vierter Titel - Zahlung der Beiträge
@@ -10372,9 +10408,9 @@ haben oder ab dem eine Rente wegen Alters ohne Rentenminderungen
 bezogen werden kann.
 
 (1a) Grundlage für die Ausgleichszahlung ist die Auskunft nach § 109
-Absatz 5 Satz 4. Ein berechtigtes Interesse im Sinne des § 109 Absatz
-1 Satz 3 für diese Auskunft liegt nach Vollendung des 50. Lebensjahres
-vor.
+Absatz 5 Satz 4. Ein hierfür berechtigtes Interesse im Sinne des § 109
+Absatz 1 Satz 3 für diese Auskunft liegt nur nach Vollendung des 50.
+Lebensjahres vor.
 
 (2) Beiträge können bis zu der Höhe gezahlt werden, die sich nach der
 Auskunft über die Höhe der zum Ausgleich einer Rentenminderung bei
@@ -10406,12 +10442,11 @@ Erstattung gezahlter Beiträge erfolgt nicht.
 
 ###### § 187b Zahlung von Beiträgen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
 
-(1) Versicherte, die bei Beendigung eines Arbeitsverhältnisses nach
-Maßgabe des Gesetzes zur Verbesserung der betrieblichen
-Altersversorgung eine Abfindung für eine unverfallbare Anwartschaft
-auf betriebliche Altersversorgung erhalten haben, können innerhalb
-eines Jahres nach Zahlung der Abfindung Beiträge zur allgemeinen
-Rentenversicherung bis zur Höhe der geleisteten Abfindung zahlen.
+(1) Bei Beendigung eines Arbeitsverhältnisses kann eine Abfindung für
+eine unverfallbare Anwartschaft auf betriebliche Altersversorgung nach
+Maßgabe des Betriebsrentengesetzes innerhalb eines Jahres nach Zahlung
+der Abfindung als Beitrag zur allgemeinen Rentenversicherung bis zur
+Höhe der geleisteten Abfindung gezahlt werden.
 
 (1a) Absatz 1 gilt entsprechend für die Abfindung von Anrechten, die
 bei der Versorgungsausgleichskasse begründet wurden.
@@ -10696,7 +10731,8 @@ Rentenversicherung zur Wahrnehmung ihrer Aufgaben
     Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung
     oder bei Wegzug in das Ausland, soweit möglich, den Wohnsitzstaat und
     die Zuzugsanschrift des überlebenden Ehegatten oder Lebenspartners des
-    Verstorbenen,
+    Verstorbenen und das Datum der letzten Eheschließung oder der letzten
+    Begründung der Lebenspartnerschaft,
 
 
 2.  nach § 150 Absatz 1 Satz 1 Nummer 9 bei einer Eheschließung oder einer
