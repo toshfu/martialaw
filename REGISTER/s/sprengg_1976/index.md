@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.9.2002 I 3518
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.7.2025 I Nr. 171
-
-Änderung durch
-:   Art. 1 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 9.1.2026 I Nr. 3
 
 Mit diesem Gesetz wird die Richtlinie 93/15/EWG des Rates vom 5. April
 1993 zur Harmonisierung der Bestimmungen über das Inverkehrbringen und
