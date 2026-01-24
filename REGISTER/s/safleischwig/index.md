@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2541, 2572
 
 Zuletzt geändert durch
-:   Art. 3a G v. 22.12.2020 I 3334
-
-Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.12.2025 I Nr. 369
 
 
 ## § 1 Zielsetzung
