@@ -1,6 +1,5 @@
-Analgetika-Warnhinweis-Verordnung
 ---
-Title: ''
+Title: Analgetika-Warnhinweis-Verordnung
 jurabk: AnalgetikaWarnHV
 layout: default
 origslug: analgetikawarnhv
@@ -8,7 +7,7 @@ slug: analgetikawarnhv
 
 ---
 
-#  (AnalgetikaWarnHV)
+# Analgetika-Warnhinweis-Verordnung (AnalgetikaWarnHV)
 
 Ausfertigungsdatum
 :   2018-06-18
