@@ -25,6 +25,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 8 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 15 G v. 16.1.2026 I Nr. 4 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Inhaltsverzeichnis
 
@@ -6027,12 +6030,20 @@ Nicht zum Einkommen gehören
 
 
 10. Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder
-    vergleichbare Leistungen nach landesrechtlichen Regelungen und
+    vergleichbare Leistungen nach landesrechtlichen Regelungen,
 
 
 11. Einnahmen in Geldeswert, die nicht im Rahmen einer Erwerbstätigkeit,
     des Bundesfreiwilligendienstes oder eines Jugendfreiwilligendienstes
-    zufließen.
+    zufließen, und
+
+
+12. Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches,
+    nach § 23 Absatz 6 Nummer 4 des Gesetzes über die Alterssicherung der
+    Landwirte und nach § 65 Absatz 2 Nummer 1 des Siebten Buches, soweit
+    diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des
+    Monats, in dem der Ehegatte verstorben ist, die anschließende Witwen-
+    oder Witwerrente überschreitet.
 
 
 
