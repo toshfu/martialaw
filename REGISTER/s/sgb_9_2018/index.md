@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 22.12.2025 I Nr. 355
 
+Änderung durch
+:   Art. 13 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
 
@@ -6238,8 +6241,25 @@ Neufeststellung unanfechtbar geworden ist.
 #### § 153 Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates nähere Vorschriften über die Gestaltung der
-Ausweise, ihre Gültigkeit und das Verwaltungsverfahren zu erlassen.
+Zustimmung des Bundesrates nähere Vorschriften zu erlassen über
+
+1.  das Format, die Gestaltung und die Gültigkeit der Ausweise nach § 152
+    Absatz 5,
+
+
+2.  das Format, die Ausstellung, die Gestaltung und die Gültigkeit von
+    Ausweisen für Menschen mit Behinderungen nach dem gemeinsamen
+    einheitlichen Muster der Europäischen Union,
+
+
+3.  das entsprechende Verwaltungsverfahren sowie
+
+
+4.  die Anerkennung der Ausweise nach Nummer 2, die von einem anderen
+    Mitgliedstaat ausgestellt worden sind.
+
+
+
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates die Grundsätze
