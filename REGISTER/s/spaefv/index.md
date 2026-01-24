@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2858
 
 Zuletzt geändert durch
-:   Art. 205 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.12.2025 I Nr. 340
 
 
 ## Eingangsformel
