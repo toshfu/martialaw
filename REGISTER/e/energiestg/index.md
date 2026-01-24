@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1534 (2008 I 660, 1007)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.3.2024 I Nr. 107
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.12.2025 I Nr. 340
 
 Änderung durch
 :   Art. 6 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -2971,10 +2968,11 @@ entsprechend, wenn sie
 
 
 Satz 1 Nummer 3 gilt nicht für Kohle, die in Stromerzeugungsanlagen
-mit einer elektrischen Nennleistung bis zwei Megawatt verwendet wird.
-Satz 1 Nummer 3 gilt nicht für Kohle, die in Stromerzeugungsanlagen
 verwendet wird, soweit der erzeugte Strom nach § 9 Absatz 1 Nummer 4,
-5 oder 6 des Stromsteuergesetzes von der Stromsteuer befreit ist. Das
+5 oder 6 des Stromsteuergesetzes von der Stromsteuer befreit ist. Wenn
+im Falle von Satz 1 Nr. 3 die erzeugte mechanische Energie neben der
+Stromerzeugung auch anderen Zwecken dient, ist nur der auf die
+Stromerzeugung entfallende Anteil an Kohle von der Steuer befreit. Das
 Hauptzollamt kann auf Antrag in den Fällen des Satzes 1 Nr. 3 und 4
 zulassen, dass Kohle aus betrieblichen Gründen auch zu anderen als den
 dort genannten Zwecken steuerfrei bezogen werden kann. Für diese Kohle
