@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1890, 1891
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2025 I Nr. 345
-
-Änderung durch
-:   Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369
 
 
 ## Erstes Kapitel - Versicherter Personenkreis
