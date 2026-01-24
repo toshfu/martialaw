@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 378 (2000 I 147)
 
 Zuletzt geändert durch
-:   Art. 13 G v. 22.12.2023 I Nr. 412
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.12.2025 I Nr. 340
 
 
 ## § 1 Steuergegenstand, Steuergebiet
