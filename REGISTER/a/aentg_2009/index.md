@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 799
 
 Zuletzt geändert durch
-:   Art. 1 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 22.12.2025 I Nr. 369
 
 
 ## Eingangsformel
