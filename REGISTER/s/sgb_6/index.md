@@ -32,7 +32,7 @@ Zuletzt geändert durch
 :   Art. 13 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 12 G v. 16.1.2026 I Nr. 4 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 

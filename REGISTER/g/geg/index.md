@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 1728
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.10.2023 I Nr. 280
-
-Änderung durch
-:   Art. 3 G v. 9.1.2026 I Nr. 4 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 9.1.2026 I Nr. 4
 
 Stand: Die §§ 60b u. 60c treten gem. Art. 6 Abs. 2 G v. 16.10.2023 I Nr. 280 am 1.10.2024 in Kraft
 [^F812398_01_BJNR172810020]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2010/31/EU des

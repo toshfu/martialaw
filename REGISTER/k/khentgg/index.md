@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1412, 1422
 
 Zuletzt geändert durch
-:   Art. 10 G v. 30.9.2025 I Nr. 231
-
-Änderung durch
-:   Art. 13a G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13a G v. 22.12.2025 I Nr. 371
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

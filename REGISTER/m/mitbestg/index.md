@@ -798,7 +798,7 @@ Pflichten des Aufsichtsrats bestimmen sich nach den §§ 27 bis 29, den
     den §§ 170, 171 und 268 Abs. 2 des Aktiengesetzes,
 
 
-3.  für Genossenschaften nach dem Genossenschaftsgesetz..
+3.  für Genossenschaften nach dem Genossenschaftsgesetz.
 
 
 

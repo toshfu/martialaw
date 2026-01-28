@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 874, 896
 
 Zuletzt geändert durch
-:   Art. 68 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 371
 
 
 ## § 1 Ziel des Gesetzes
