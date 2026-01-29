@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4344
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.8.2025 I Nr. 196
+:   Art. 1 V v. 22.1.2026 I Nr. 20
 
 
 ## Eingangsformel
@@ -922,10 +922,9 @@ implantatbezogenen Maßnahme um 100 Euro.
 
 (2) Die Vergütungsminderung nach Absatz 1 unterbleibt bei
 implantatbezogenen Maßnahmen in Bezug auf Endoprothesen an Hüfte und
-Knie sowie in Bezug auf Aortenklappen, die bis zum 31. Dezember 2025
-durchgeführt werden, wenn die verantwortliche Gesundheitseinrichtung
-ausschließlich ihrer Verpflichtung nicht nachkommt, der
-Vertrauensstelle den unveränderbaren Teil der
+Knie sowie in Bezug auf Aortenklappen, wenn die verantwortliche
+Gesundheitseinrichtung ausschließlich ihrer Verpflichtung nicht
+nachkommt, der Vertrauensstelle den unveränderbaren Teil der
 Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften
 Buches Sozialgesetzbuch zu übermitteln, und die betroffene Patientin
 oder der betroffene Patient bei einem privaten
