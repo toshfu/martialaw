@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 17.7.2025 I Nr. 163
-
-Änderung durch
-:   Art. 5 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 1 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
