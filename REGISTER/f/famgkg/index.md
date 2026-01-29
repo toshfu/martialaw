@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2666
 
 Zuletzt geändert durch
-:   Art. 6 G v. 7.4.2025 I Nr. 109, Nr. 139
-
-Änderung durch
-:   Art. 12 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 8.12.2025 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
