@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1877, 346
 
 Zuletzt geändert durch
-:   Art. 4 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 6 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 2 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
