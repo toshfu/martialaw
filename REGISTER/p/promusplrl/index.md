@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1968, 222
 
 Zuletzt geändert durch
-:   Erlass v. 11.1.2023 I Nr. 17
+:   Erlass v. 11.1.2026 I Nr. 17
 
 
 
