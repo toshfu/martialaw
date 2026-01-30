@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.8.2011 I 1730;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 27.2.2025 I Nr. 72
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.12.2025 I Nr. 370
 
 
 ## Abschnitt 1 - Wehrpflicht
@@ -2037,8 +2034,4 @@ Auf Wehrpflichtige, die vor dem Inkrafttreten des Gesetzes vom 31.
 Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt worden sind, ist §
 13 Absatz 1 Satz 1 in der bis dahin gültigen Fassung weiterhin
 anzuwenden.
-
-
-### § 53 (weggefallen)
-
 
