@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Konstitutive Neufassung gem. V v. 6.3.2013 I 367, in Kraft getreten am 1.4.2013
 Zuletzt geändert durch
-:   Art. 24 V v. 11.12.2024 I 411
+:   Art. 24 V v. 11.12.2024 I Nr. 411
 
 
 ## I. - Allgemeine Verkehrsregeln
