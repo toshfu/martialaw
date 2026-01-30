@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 254 (1039)
 
 Zuletzt geändert durch
-:   Art. 16 G v. 8.10.2023 I Nr. 272
-
-Änderung durch
-:   Art. 16 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 8.12.2025 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
