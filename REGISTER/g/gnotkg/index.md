@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 7 G v. 7.4.2025 I Nr. 109
-
-Änderung durch
-:   Art. 20 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 20 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 6 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
