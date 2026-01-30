@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2125; 1993, 2493
 
 Zuletzt geändert durch
-:   Art. 23 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 341
 
 Änderung durch
 :   Art. 16 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
