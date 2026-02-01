@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 2.12.2025 I Nr. 301
 
+Änderung durch
+:   Art. 1 V v. 27.1.2026 I Nr. 22 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
