@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.2002 I 3818;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.10.2020 I 2184
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 342 ist berücksichtigt
+:   Art. 1 G v. 22.12.2025 I Nr. 342
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
