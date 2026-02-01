@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1842
 
 Zuletzt geändert durch
-:   Art. 24 G v. 6.5.2024 I Nr. 149
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 20 G v. 20.12.2025 I Nr. 369
 
 
 ## Abschnitt 1 - Zweck
@@ -1148,22 +1142,23 @@ eigene oder fremde digitale Dienste nach § 1 Absatz 4 Nummer 1 des
 Digitale-Dienste-Gesetzes zur Nutzung bereithält oder den Zugang zur
 Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des
 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1
-Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes). Die
-Auskunft nach Satz 1 darf nur verlangt werden, sofern im Einzelfall
-bei der Veröffentlichung von Angeboten oder Werbemaßnahmen ohne Angabe
-von Name und Anschrift tatsächliche Anhaltspunkte für Schwarzarbeit
-oder illegale Beschäftigung nach § 1 vorliegen und die zu erhebenden
-Daten zur Identifizierung des Auftraggebers erforderlich sind, um
-Schwarzarbeit oder illegale Beschäftigung aufzudecken. Die Auskunft
-darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
-Internetprotokoll-Adresse verlangt werden (§ 22 Absatz 1 Satz 3 und 4
-des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes), wenn
-tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person
-Nutzer des digitalen Dienstes ist, bei dem die Daten erhoben werden
-sollen, mit der Maßgabe, dass ein Auskunftsverlangen die Verhütung
-einer Straftat nach den §§ 10, 10a oder 11 dieses Gesetzes oder § 266a
-des Strafgesetzbuches voraussetzt. Die rechtlichen und tatsächlichen
-Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Satz 1 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes).
+Die Auskunft nach Satz 1 darf nur verlangt werden, sofern im
+Einzelfall bei der Veröffentlichung von Angeboten oder Werbemaßnahmen
+ohne Angabe von Name und Anschrift tatsächliche Anhaltspunkte für
+Schwarzarbeit oder illegale Beschäftigung nach § 1 vorliegen und die
+zu erhebenden Daten zur Identifizierung des Auftraggebers erforderlich
+sind, um Schwarzarbeit oder illegale Beschäftigung aufzudecken. Die
+Auskunft darf auch anhand einer zu einem bestimmten Zeitpunkt
+zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 22 Absatz 1
+Satz 3 und 4 des Telekommunikation-Digitale-Dienste-Datenschutz-
+Gesetzes), wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die
+betroffene Person Nutzer des digitalen Dienstes ist, bei dem die Daten
+erhoben werden sollen, mit der Maßgabe, dass ein Auskunftsverlangen
+die Verhütung einer Straftat nach den §§ 10, 10a oder 11 dieses
+Gesetzes oder § 266a des Strafgesetzbuches voraussetzt. Die
+rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind
+aktenkundig zu machen.
 
 (3) Die betroffene Person ist in den Fällen des Absatzes 2 Satz 3 über
 die Beauskunftung zu benachrichtigen. Die Benachrichtigung erfolgt,
