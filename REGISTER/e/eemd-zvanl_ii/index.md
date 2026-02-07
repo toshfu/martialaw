@@ -1218,9 +1218,6 @@ folgenden Qualitätsparameter erfüllen:
     bestimmt.
 
 
-6.  (weggefallen)
-
-
 
 Die Einzelheiten zur Messung und Bewertung der einzelnen
 Qualitätsparameter sind in den Qualitätsparametern für EETS-Anbieter
@@ -2922,8 +2919,6 @@ Anbieter eine Vertragsstrafe von 500 Euro verhängt. Der relevante
 Betrachtungszeitraum beträgt 1 Kalendermonat.
 
 ### **3.5 Fahrspurquote (QP\_FS)**
-
-(weggefallen)
 
 Die Quote der Lieferung der Fahrspuren (QP\_FS) misst, wie viele
 Fahrspuren rechtzeitig im System des nationalen Mautbetreibers
