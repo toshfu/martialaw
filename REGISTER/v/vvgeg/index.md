@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1908, 305
 
 Zuletzt geändert durch
-:   Art. 33 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 6 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 16.1.2026 I Nr. 14
 
 
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
