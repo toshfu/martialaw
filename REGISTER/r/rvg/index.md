@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.3.2022 I 610;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 5 G v. 25.11.2025 I Nr. 282
-
-Änderung durch
-:   Art. 14 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 8.12.2025 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
