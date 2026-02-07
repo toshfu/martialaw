@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.12.2025 I Nr. 355
-
-Änderung durch
-:   Art. 14 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 16.1.2026 I Nr. 14
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
