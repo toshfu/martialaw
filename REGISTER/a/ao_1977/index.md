@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2025 I Nr. 24;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 341
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 352
 
 Änderung durch
 :   Art. 9 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
