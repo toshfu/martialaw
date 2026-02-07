@@ -2612,12 +2612,6 @@ Diese Hinweise zum Vergütungsmodell beziehen sich auf die
 Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember
 2027).
 
-## I.1 (weggefallen)
-
-## I.1.1 (weggefallen)
-
-## I.1.2 (weggefallen)
-
 ## **II. Prinzipien des Vergütungsmodells**
 
 Das Vergütungsmodell für das EETS-Gebiet BFStrMG steht im Einklang mit
@@ -3058,10 +3052,6 @@ Fahrzeuggeräte-Kommunikationskosten, da die Fahrzeuggeräte des
 Hauptdiensteanbieters nur in Ausnahmefällen im Ausland kommunizieren
 müssen, während davon ausgegangen wird, dass Fahrzeuggeräte der EETS-
 Anbieter regelmäßig im Ausland kommunizieren müssen.
-
-(weggefallen)
-
-(weggefallen)
 
 4\. Mautabrechnung und Auskehr an den Mauterheber
 
