@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.10.2024 I Nr. 328
-
-Änderung durch
-:   Art. 10 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 32 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -3077,6 +3074,7 @@ eingelegt wird.
 
 
 #### (XXXX) §§ 146 bis 148 (weggefallen)
+
 
 
 #### § 149
