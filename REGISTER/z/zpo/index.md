@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 24.10.2024 I Nr. 328
-
-Änderung durch
-:   Art. 3 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 14 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
