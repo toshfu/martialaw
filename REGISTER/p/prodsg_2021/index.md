@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 27.7.2021 I 3146
 
+Änderung durch
+:   Art. 1 G v. 3.2.2026 I Nr. 29 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 8053-8 v. 8.11.2011 I 2178, 2179; 2012 I 131 (ProdSG 2011)
 [^F816887_01_BJNR314700021]:     Dieses Gesetz dient der Umsetzung                                 1.
     der Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung
