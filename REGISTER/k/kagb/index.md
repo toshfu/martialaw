@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 27.12.2024 I Nr. 438
 
+Änderung durch
+:   Art. 7 G v. 3.2.2026 I Nr. 28 mWv 19.6.2026 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften
 
