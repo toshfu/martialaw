@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 G v. 25.11.2025 I Nr. 282
-
-Änderung durch
-:   Art. 9 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 31 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
