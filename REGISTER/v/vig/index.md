@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.10.2012 I 2166, 2725
 
 Zuletzt geändert durch
-:   Art. 8 G v. 27.7.2021 I 3146
+:   Art. 4 G v. 3.2.2026 I Nr. 29
 
 
 ## § 1 Anwendungsbereich
