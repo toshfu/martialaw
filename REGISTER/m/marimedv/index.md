@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1383
 
 Zuletzt geändert durch
-:   Art. 3 V v. 25.3.2025 I Nr. 100
+:   Art. 9 G v. 3.2.2026 I Nr. 28
 
 [^F785641_01_BJNR138310014]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/29/EWG des
     Rates vom 31. März 1992 über Mindestvorschriften für die Sicherheit
@@ -329,10 +329,9 @@ Daten unverzüglich in das Seediensttauglichkeitsverzeichnis zu
 bleibt unberührt.
 
 (2) Auf Verlangen der untersuchten Person hat der zugelassene Arzt ihr
-nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs unverzüglich
-Einsicht in die sie betreffenden Untersuchungsunterlagen zu gewähren
-und Abschriften der Unterlagen gegen Erstattung der Kosten
-herauszugeben.
+nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs Einsicht in die
+sie betreffenden Untersuchungsunterlagen zu gewähren und Abschriften
+der Untersuchungsunterlagen herauszugeben.
 
 (3) Ärztliche Aufzeichnungen über Seediensttauglichkeitsuntersuchungen
 sind für die Dauer von zehn Jahren nach Abschluss der Untersuchungen
