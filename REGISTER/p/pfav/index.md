@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 842
 
 Zuletzt geändert durch
-:   Art. 3 V v. 11.12.2024 I Nr. 414
-
-Änderung durch
-:   Art. 4 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 16.1.2026 I Nr. 14
 
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
