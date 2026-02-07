@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2167
 
 Zuletzt geändert durch
-:   Art. 6 G v. 8.12.2016 I 2838
-
-Änderung durch
-:   Art. 7 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 16.1.2026 I Nr. 14
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
