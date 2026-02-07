@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 24.10.2024 I Nr. 328
-
-Änderung durch
-:   Art. 8 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 28 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
