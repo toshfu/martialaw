@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 14 G v. 9.1.2026 I Nr. 7
 
+Änderung durch
+:   Art. 3 G v. 3.2.2026 I Nr. 30 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
 
@@ -2594,8 +2597,8 @@ die für die einzelnen Amtshandlungen, einschließlich Prüfungen,
 Abnahmen, Begutachtungen und Untersuchungen, zulässigen Gebühren auch
 erhoben werden dürfen, wenn die Amtshandlungen aus Gründen, die nicht
 von der Stelle, die die Amtshandlungen hätte durchführen sollen, zu
-vertreten sind, und ohne ausreichende Entschuldigung des Bewerbers
-oder Antragstellers am festgesetzten Termin nicht stattfinden konnten
+vertreten sind, und ohne ausreichende Entschuldigung des Adressaten
+der Amtshandlung am festgesetzten Termin nicht stattfinden konnten
 oder abgebrochen werden mussten.
 
 (5) Rechtsverordnungen über Kosten, deren Gläubiger der Bund ist,
