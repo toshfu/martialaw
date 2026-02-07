@@ -76,19 +76,17 @@ Aufzeichnungssysteme gelten
 (2) Als elektronische Aufzeichnungssysteme im Sinne des § 146a Absatz
 1 Satz 1 der Abgabenordnung gelten ebenfalls
 
-1.  Taxameter im Sinne des Anhangs IX der Richtlinie 2014/32/EU des
-    Europäischen Parlaments und des Rates vom 26. Februar 2014 zur
-    Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die
-    Bereitstellung von Messgeräten auf dem Markt (ABl. L 96 vom 29.3.2014,
-    S. 149; L 13 vom 20.1.2016, S. 57), die durch die Richtlinie 2015/13
-    (ABl. L 3 vom 7.1.2015, S. 42) geändert worden ist, in der jeweils
-    geltenden Fassung (EU-Taxameter) und
+1.  Taxameter im Sinne des Anhangs IX zu der Richtlinie 2014/32/EU (EU-
+    Taxameter) und
 
 
 2.  Wegstreckenzähler.
 
 
 
+Unter die in Satz 1 genannten Systeme fallen auch app-basierte
+Systeme, sofern diese die Funktion eines EU-Taxameters oder
+Wegstreckenzählers übernehmen.
 
 
 ## § 2 Protokollierung von digitalen Grundaufzeichnungen
@@ -98,7 +96,7 @@ Sinne des § 146a Absatz 1 Satz 1 der Abgabenordnung muss von einem
 elektronischen Aufzeichnungssystem unmittelbar eine neue Transaktion
 gestartet werden. Die Transaktion hat zu enthalten:
 
-1.  den Zeitpunkt des Vorgangbeginns,
+1.  den Zeitpunkt des Vorgangsbeginns,
 
 
 2.  eine eindeutige und fortlaufende Transaktionsnummer,
@@ -116,19 +114,24 @@ gestartet werden. Die Transaktion hat zu enthalten:
 6.  den Zeitpunkt der Vorgangsbeendigung oder des Vorgangsabbruchs,
 
 
-7.  einen Prüfwert sowie
+7.  die Prüfwerte,
 
 
 8.  die Seriennummer des elektronischen Aufzeichnungssystems und die
-    Seriennummer des Sicherheitsmoduls.
+    Seriennummer der zertifizierten technischen Sicherheitseinrichtung
+    sowie
+
+
+9.  den Signaturzähler.
 
 
 
 Die Zeitpunkte nach Satz 2 Nummer 1 und 6, die Transaktionsnummer nach
-Satz 2 Nummer 2 und der Prüfwert nach Satz 2 Nummer 7 werden
-manipulationssicher durch das Sicherheitsmodul festgelegt. Die
-Transaktionsnummer muss so zu beschaffen sein, dass Lücken in
-Transaktionsaufzeichnungen erkennbar sind.
+Satz 2 Nummer 2, die Prüfwerte nach Satz 2 Nummer 7 und der
+Signaturzähler nach Satz 2 Nummer 9 werden manipulationssicher durch
+das Sicherheitsmodul festgelegt. Die Transaktionsnummer muss so
+beschaffen sein, dass Lücken in Transaktionsaufzeichnungen erkennbar
+sind.
 
 
 ## § 3 Speicherung der Grundaufzeichnungen
@@ -158,20 +161,26 @@ nicht mehr gewährleistet ist.
 ## § 4 Einheitliche digitale Schnittstelle
 
 Die einheitliche digitale Schnittstelle ist eine Datensatzbeschreibung
+für die Anbindung der zertifizierten technischen
+Sicherheitseinrichtung an das elektronische Aufzeichnungssystem sowie
 für den standardisierten Datenexport aus dem Speichermedium nach § 3
-Absatz 1, der Anbindung an das elektronische Aufzeichnungssystem und
-dem elektronischen Aufbewahrungssystem zur Übergabe an den mit der
-Kassen-Nachschau oder Außenprüfung betrauten Amtsträger der
-Finanzbehörde. Sie stellt eine einheitliche Strukturierung und
-Bezeichnung der nach § 146a Absatz 1 der Abgabenordnung
-aufzuzeichnenden Daten in Datenschema und Datenfelderbeschreibung für
-die Protokollierung nach § 2 und die Speicherung nach § 3 sicher. Dies
-gilt unabhängig vom Programm des Herstellers. Die einheitliche
-digitale Schnittstelle für den standardisierten Export aus dem
-Speichermedium nach § 3 Absatz 1 und die einheitliche digitale
-Schnittstelle für den standardisierten Export aus dem elektronischen
-Aufzeichnungssystem können getrennt voneinander erstellt und
-veröffentlicht werden.
+Absatz 1, dem elektronischen Aufbewahrungssystem nach § 3 Absatz 3 und
+dem elektronischen Aufzeichnungssystem nach § 1 Absatz 1 Satz 1 oder
+Absatz 2 zur Übergabe an den mit der Kassen-Nachschau oder
+Außenprüfung betrauten Amtsträger der Finanzbehörde. Die einheitliche
+digitale Schnittstelle stellt eine einheitliche Dokumentation der
+Schnittstellenfunktionen mit Parametern zur Anbindung an das
+elektronische Aufzeichnungssystem sowie eine einheitliche
+Strukturierung und Bezeichnung der nach § 146a Absatz 1 der
+Abgabenordnung aufzuzeichnenden Daten in Datenschema und
+Datenfelderbeschreibung für die Protokollierung nach § 2 und die
+Speicherung nach § 3 sicher. Dies gilt unabhängig vom Programm des
+Herstellers. Die einheitliche digitale Schnittstelle für den
+standardisierten Export aus dem Speichermedium nach § 3 Absatz 1 und
+aus dem elektronischen Aufbewahrungssystem nach § 3 Absatz 3 sowie die
+einheitliche digitale Schnittstelle für den standardisierten Export
+aus dem elektronischen Aufzeichnungssystem können getrennt voneinander
+erstellt und veröffentlicht werden.
 
 
 ## § 5 Anforderungen an die technische Sicherheitseinrichtung
@@ -180,9 +189,9 @@ Das Bundesamt für Sicherheit in der Informationstechnik legt im
 Benehmen mit dem Bundesministerium der Finanzen in Technischen
 Richtlinien und Schutzprofilen die technischen Anforderungen fest an
 
-1.  die digitale Schnittstelle, soweit diese den standardisierten Export
-    aus dem Speichermedium und die Anbindung der zertifizierten
-    technischen Sicherheitseinrichtung an das elektronische
+1.  die einheitliche digitale Schnittstelle, soweit diese den
+    standardisierten Export aus dem Speichermedium und die Anbindung der
+    zertifizierten technischen Sicherheitseinrichtung an das elektronische
     Aufzeichnungssystem betreffen,
 
 
@@ -193,9 +202,13 @@ Richtlinien und Schutzprofilen die technischen Anforderungen fest an
 
 
 
-Die jeweils aktuellen Versionen werden im Bundessteuerblatt Teil I und
-auf der Internetseite des Bundesamts für Sicherheit in der
-Informationstechnik veröffentlicht.
+Die Anforderungen an das Sicherheitsmodul und die einheitliche
+digitale Schnittstelle umfassen die technischen und organisatorischen
+Anforderungen an die kryptographischen Schlüssel der technischen
+Sicherheitseinrichtung, deren zugehörige kryptographische Zertifikate
+und Zertifikatsinfrastrukturen. Die jeweils aktuellen Versionen werden
+im Bundessteuerblatt Teil I und auf der Internetseite des Bundesamts
+für Sicherheit in der Informationstechnik veröffentlicht.
 
 
 ## § 6 Anforderungen an den Beleg
@@ -206,8 +219,8 @@ Ein Beleg muss mindestens enthalten:
     Unternehmers,
 
 
-2.  das Datum der Belegausstellung und den Zeitpunkt des Vorgangbeginns im
-    Sinne des § 2 Satz 2 Nummer 1 sowie den Zeitpunkt der
+2.  das Datum der Belegausstellung und den Zeitpunkt des Vorgangsbeginns
+    im Sinne des § 2 Satz 2 Nummer 1 sowie den Zeitpunkt der
     Vorgangsbeendigung im Sinne des § 2 Satz 2 Nummer 6,
 
 
@@ -226,30 +239,37 @@ Ein Beleg muss mindestens enthalten:
 
 
 6.  die Seriennummer des elektronischen Aufzeichnungssystems sowie die
-    Seriennummer des Sicherheitsmoduls und
+    Seriennummer der zertifizierten technischen Sicherheitseinrichtung und
 
 
-7.  den Prüfwert im Sinne des § 2 Satz 2 Nummer 7 und den fortlaufenden
-    Signaturzähler, der vom Sicherheitsmodul festgelegt wird.
+7.  den Prüfwert der Vorgangsbeendigung im Sinne des § 2 Satz 2 Nummer 7
+    und den fortlaufenden Signaturzähler, der vom Sicherheitsmodul
+    festgelegt wird.
 
 
 
 Die Angaben nach Satz 1 müssen
 
-1.  für jedermann ohne maschinelle Unterstützung lesbar oder
+1.  für jedermann ohne maschinelle Unterstützung lesbar sein,
 
 
-2.  aus einem QR-Code auslesbar sein.
+2.  aus einem QR-Code auslesbar sein oder
+
+
+3.  in einer elektronischen Rechnung nach § 14 Absatz 1 Satz 3 und 6 des
+    Umsatzsteuergesetzes enthalten sein.
 
 
 
-Der QR-Code nach Satz 2 Nummer 2 hat der digitalen Schnittstelle der
+Der QR-Code nach Satz 2 Nummer 2 und der strukturierte Teil nach Satz
+2 Nummer 3 haben jeweils der digitalen Schnittstelle der
 Finanzverwaltung (DSFinV), die für die jeweils zugehörige Art des
 Aufzeichnungssystems vorgeschrieben ist, zu entsprechen. Die digitale
 Schnittstelle wird auf der Internetseite des Bundeszentralamtes für
 Steuern in der jeweils geltenden Fassung veröffentlicht. Ein Beleg
 kann in Papierform oder mit Zustimmung des Belegempfängers
-elektronisch in einem standardisierten Datenformat ausgegeben werden.
+elektronisch in einem standardisierten Datenformat ausgegeben werden;
+andere gesetzliche Vorgaben bleiben unberührt.
 
 
 ## § 7 Anforderungen an EU-Taxameter
@@ -272,7 +292,7 @@ hat zu enthalten:
 3.  eine eindeutige und fortlaufende Transaktionsnummer sowie
 
 
-4.  einen Prüfwert.
+4.  die Prüfwerte.
 
 
 
@@ -294,7 +314,7 @@ erkennbar sind.
 3.  die Transaktionsnummer nach Absatz 2 Satz 2 Nummer 3,
 
 
-4.  den Prüfwert nach Absatz 2 Satz 2 Nummer 4 und
+4.  den Prüfwert der Vorgangsbeendigung nach Absatz 2 Satz 2 Nummer 4 und
 
 
 5.  die Seriennummer des Sicherheitsmoduls.
@@ -305,12 +325,11 @@ erkennbar sind.
 mit Zustimmung des Belegempfängers elektronisch in einem
 standardisierten Datenformat ausgegeben werden.
 
-(4) Verfügt ein EU-Taxameter nicht über einen Belegdrucker, so kann
-der Beleg außerhalb des EU-Taxameters in Papierform oder mit
-Zustimmung des Belegempfängers elektronisch in einem standardisierten
-Datenformat ausgegeben werden. Die Ausstellung des Belegs kann zu
-einem späteren Zeitpunkt nach dem Geschäftsvorfall und gegenüber einem
-nicht an dem Geschäftsvorfall unmittelbar Beteiligten geschehen. Die
+(4) Verfügt ein EU-Taxameter nicht über einen Belegdrucker, so besteht
+keine Belegausgabepflicht. In diesen Fällen kann der Beleg außerhalb
+des EU-Taxameters in Papierform oder mit Zustimmung des
+Belegempfängers elektronisch in einem standardisierten Datenformat
+ausgegeben werden; andere gesetzliche Vorgaben bleiben unberührt. Die
 umsatzsteuerlichen Anforderungen an eine Rechnung bleiben unberührt.
 
 
@@ -330,7 +349,7 @@ umsatzsteuerlichen Anforderungen an eine Rechnung bleiben unberührt.
 3.  eine eindeutige und fortlaufende Transaktionsnummer sowie
 
 
-4.  einen Prüfwert
+4.  die Prüfwerte
 
 
 
@@ -351,7 +370,7 @@ Lücken in den Transaktionsaufzeichnungen erkennbar sind.
 2.  die Transaktionsnummer nach Absatz 2 Satz 1 Nummer 3,
 
 
-3.  den Prüfwert nach Absatz 2 Satz 1 Nummer 4 und
+3.  den Prüfwert der Vorgangsbeendigung nach Absatz 2 Satz 1 Nummer 4 und
 
 
 4.  die Seriennummer des Sicherheitsmoduls.
@@ -362,67 +381,89 @@ Lücken in den Transaktionsaufzeichnungen erkennbar sind.
 mit Zustimmung des Belegempfängers elektronisch in einem
 standardisierten Datenformat ausgegeben werden.
 
-(4) Bei Wegstreckenzählern kann der Beleg durch eine dem Gesetz
-entsprechende Aufzeichnung des Geschäftsvorfalls ersetzt werden, wenn
-keine digitale Schnittstelle vorhanden ist. Ist eine digitale
-Schnittstelle vorhanden, gilt § 7 Absatz 4 sinngemäß.
+(4) § 7 Absatz 4 gilt sinngemäß.
 
 
 ## § 9 Übergangsregelung für EU-Taxameter mit INSIKA-Technik
 
-(1) Soweit ein EU-Taxameter vor dem 1. Januar 2021 mit der INSIKA-
-Technik ausgerüstet wurde, ist § 7 für dieses EU-Taxameter erst ab dem
-1\. Januar 2026 anzuwenden.
-
-(2) Absatz 1 gilt nicht, sofern das EU-Taxameter aus dem Fahrzeug, in
-das es am 1. Januar 2021 eingebaut war, ausgebaut und in ein neues
-Fahrzeug eingebaut wird.
-
-(3) Das Vorliegen der Voraussetzungen nach den Absätzen 1 und 2 ist
-dem zuständigen Finanzamt bis zum 31. Januar 2024 mitzuteilen. Sofern
-ein Fall des Absatzes 2 nach dem 1. Januar 2024 vorliegt, ist dieser
-dem zuständigen Finanzamt innerhalb eines Monats mitzuteilen.
+Sofern ein EU-Taxameter vor dem 1. Januar 2021 mit der INSIKA-Technik
+ausgerüstet wurde, ist § 7 für dieses EU-Taxameter ab dem 1. Januar
+2026 anzuwenden. Satz 1 gilt nicht, sofern das EU-Taxameter aus dem
+Fahrzeug, in das es am 31. Dezember 2020 eingebaut war, ausgebaut und
+veräußert wird. Das Vorliegen der Voraussetzung für die
+Inanspruchnahme der Übergangsregelung nach Satz 1 ist dem zuständigen
+Finanzamt bis zum 31. Januar 2024 mitzuteilen.
 
 
-## § 10 Anwendungszeitpunkt für Wegstreckenzähler
+## § 10 Anwendungsregelung für Wegstreckenzähler
 
-Für Wegstreckenzähler ist § 8 ab dem Tag anzuwenden, an dem
+(1) Für Wegstreckenzähler, die nach dem 30. Juni 2024 erstmalig in
+Verkehr gebracht wurden, gilt § 8 ab dem Tag des Inverkehrbringens.
 
-1.  mindestens drei voneinander unabhängige Unternehmen Wegstreckenzähler
-    am Markt anbieten, die über eine geeignete digitale Schnittstelle im
-    Sinne der Kassensicherungsverordnung verfügen, und
+(2) Für Wegstreckenzähler,
+
+1.  die über eine digitale Schnittstelle verfügen, über die eine
+    zertifizierte technische Sicherheitseinrichtung angebunden werden kann
+    und
 
 
-2.  eine Konformitätsbewertungsstelle nach § 13 oder § 14 des Mess- und
-    Eichgesetzes die Konformität der Wegstreckenzähler nach Nummer 1 mit
-    den Anforderungen des Mess- und Eichgesetzes feststellt.
+2.  die nicht unter Absatz 1 fallen,
 
 
 
-Der Zeitpunkt nach Satz 1 ist durch das Bundesministerium der Finanzen
-im Bundessteuerblatt Teil I bekannt zu geben. Die Sätze 1 und 2 gelten
-für Wegstreckenzähler, die ab dem in Satz 1 veröffentlichten Zeitpunkt
-neu in den Verkehr gebracht werden.
+ist § 8 ab dem 1. Januar 2027 anzuwenden.
 
 
 ## § 11 Zertifizierung
 
 (1) Für die Zertifizierung technischer Sicherheitseinrichtungen gelten
-§ 52 des BSI-Gesetzes sowie die BSI-Zertifizierungs- und
--Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231) in der
-jeweils geltenden Fassung. Die Prüfung und Bewertung kann auch durch
-vom Bundesamt für Sicherheit in der Informationstechnik anerkannte
-sachverständige Stellen erfolgen, die zugleich gemäß der Verordnung
-(EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9.
-Juli 2008 über die Vorschriften für die Akkreditierung und
-Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und
-zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218
-vom 13.8.2008, S. 30) in der jeweils geltenden Fassung akkreditiert
-sind.
+§ 9 des BSI-Gesetzes, die BSI-Zertifizierungs- und
+-Anerkennungsverordnung sowie das auf den Gemeinsamen Kriterien
+beruhende Europäische System für die Cybersicherheitszertifizierung
+(EUCC) nach Maßgabe der Verordnung (EU) 2019/881. Im Rahmen der
+Zertifizierung ist die Einhaltung der vom Bundesamt für Sicherheit in
+der Informationstechnik veröffentlichten Vorgaben in den
+Schutzprofilen, Technischen Richtlinien und Testspezifikationen zu
+prüfen. Mit dem Antrag auf Zertifizierung nach einem Schutzprofil oder
+einer Technischen Richtlinie, die für die Zertifizierung einer
+technischen Sicherheitseinrichtung vorgeschrieben sind, hat der
+Antragsteller sich zu verpflichten, alle Unterlagen, die im Rahmen der
+Zertifizierung eingereicht wurden und für die Prüfung einer
+zertifizierten technischen Sicherheitseinrichtung von Bedeutung sein
+können, dem Bundesministerium der Finanzen auf dessen Verlangen zu
+übersenden. Die Prüfung und Bewertung kann auch durch vom Bundesamt
+für Sicherheit in der Informationstechnik anerkannte sachverständige
+Stellen erfolgen, die zugleich nach dem Akkreditierungsstellengesetz
+und entsprechend den Voraussetzungen der Verordnung (EG) Nr. 765/2008
+akkreditiert sind.
 
 (2) Die Kosten einer Zertifizierung trägt der Antragsteller. Die
 Besondere Gebührenverordnung BMI vom 2. September 2019 (BGBl. I S.
 1359) in der jeweils geltenden Fassung ist anzuwenden.
+
+(3) Zertifizierungsverfahren aufgrund von in Satz 2 genannten
+Schutzprofilen, die vor dem 27. Februar 2026 beantragt worden sind,
+können bis zum 26. Februar 2027 fortgeführt werden. Schutzprofile im
+Sinne des Satzes 1 sind das Schutzprofil
+
+1.  BSI-CC-PP-0104-2019, Cryptographic Service Provider (CSP) in der
+    Konfiguration nach BSI-CC-PP-0107 (Time Stamp Service and Audit) oder
+    BSI-CC-PP-0108 (Time Stamp Service, Audit and Clustering),
+
+
+2.  BSI-CC-PP-0105-2019, Security Module Application for Electronic
+    Record-keeping Systems,
+
+
+3.  BSI-CC-PP-0111-2019 (CSP Light) in der Konfiguration nach BSI-CC-
+    PP-0113 (Time Stamp Service, Audit and Clustering) oder
+
+
+4.  BSI-CC-PP-0105-V2-2020, Security Module Application for Electronic
+    Record-keeping Systems (SMAERS).
+
+
+
 
 
 ## Schlussformel
