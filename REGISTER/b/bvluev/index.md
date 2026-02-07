@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 28.5.2009 I 1220;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.11.2019 I 1862
+:   Art. 2 G v. 3.2.2026 I Nr. 29
 
 
 ## § 1
