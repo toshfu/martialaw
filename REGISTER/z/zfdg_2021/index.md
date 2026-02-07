@@ -25,6 +25,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 9.1.2026 I Nr. 3 ist berücksichtigt
 
+Änderung durch
+:   Art. 4 G v. 3.2.2026 I Nr. 27 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
 natürlicher Personen bei der Verarbeitung personenbezogener Daten
@@ -241,6 +244,32 @@ Absätzen 1 bis 7 und nach Absatz 9 sowie nach den §§ 4, 6 und 7
 (12) Das Zollkriminalamt kann auf Ersuchen von Finanzbehörden,
 Staatsanwaltschaften und Gerichten kriminaltechnische Gutachten
 erstellen.
+
+(13) Dem Zollkriminalamt obliegt es, als nationale Zentralstelle auf
+dem Gebiet der strafrechtlichen Sanktionsdurchsetzung darauf
+hinzuwirken, dass sich Strafverfolgungsbehörden und die für die
+Durchsetzung der vom Rat der Europäischen Union im Bereich der
+Gemeinsamen Außen- und Sicherheitspolitik beschlossenen
+wirtschaftlichen Sanktionsmaßnahmen zuständigen Behörden im Rahmen
+ihrer jeweiligen Zuständigkeiten und Befugnisse in Bezug auf das
+Sanktionsstrafrecht koordinieren und zusammenarbeiten. Dies umfasst
+insbesondere, dass die nationale Zentralstelle
+
+1.  auf die Verständigung über gemeinsame Prioritäten und auf ein
+    gemeinsames Verständnis der Verbindung zwischen strafrechtlicher und
+    verwaltungsrechtlicher Durchsetzung hinwirkt,
+
+
+2.  für strategische Zwecke der Auswertung und Analyse von Erkenntnissen
+    aus strafrechtlichen Ermittlungen den Informationsaustausch der
+    ermittlungsführenden Behörden im Rahmen ihrer jeweiligen Befugnisse
+    fördert und
+
+
+3.  bei einzelnen strafrechtlichen Ermittlungen berät.
+
+
+
 
 
 ### § 4 Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch das Zollkriminalamt
@@ -504,6 +533,15 @@ privaten Rechts entsprechend.
 
 
 
+4.  auf dem Gebiet strafrechtlicher Sanktionsdurchsetzung auf die
+    Koordinierung und Zusammenarbeit der Strafverfolgungsbehörden und der
+    für die Durchsetzung der vom Rat der Europäischen Union im Bereich der
+    Gemeinsamen Außen- und Sicherheitspolitik beschlossenen
+    wirtschaftlichen Sanktionsmaßnahmen zuständigen Behörden im Rahmen
+    ihrer jeweiligen Zuständigkeit und Befugnisse in Bezug auf das
+    Sanktionsstrafrecht hinwirkt (§ 3 Absatz 13),
+
+
 
 Auskunft verlangen von demjenigen, der geschäftsmäßig
 Telekommunikationsdienste erbringt oder daran mitwirkt, über
@@ -653,7 +691,7 @@ zu übermitteln.
 ##### § 11 Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3
-Absatz 1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11,
+Absatz 1, 2, 4 und 13, jeweils auch in Verbindung mit § 3 Absatz 11,
 personenbezogene Daten weiterverarbeiten von
 
 1.  Verurteilten,
@@ -773,7 +811,7 @@ wenn
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige
 Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist,
 kann das Zollkriminalamt zur Erfüllung seiner Aufgaben nach § 3 Absatz
-1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11,
+1, 2, 4 und 13, jeweils auch in Verbindung mit § 3 Absatz 11,
 personenbezogene Daten von denjenigen Personen weiterverarbeiten, bei
 denen tatsächliche Anhaltspunkte dafür vorliegen, dass
 
@@ -820,8 +858,8 @@ Absatz 1 oder Absatz 2 erfüllt.
 ##### § 13 Daten zur Beobachtung bestimmter Verkehre
 
 (1) Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben
-nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11,
-erforderlich ist, personenbezogene Daten von Personen, die am
+nach § 3 Absatz 1, 2 und 13, jeweils auch in Verbindung mit § 3 Absatz
+11, erforderlich ist, personenbezogene Daten von Personen, die am
 innerstaatlichen, grenzüberschreitenden und internationalen Waren-,
 Kapital- und Dienstleistungsverkehr teilnehmen, verarbeiten. Das
 Zollkriminalamt kann hierzu verarbeiten:
