@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2481
 
 Zuletzt geändert durch
-:   Art. 17 G v. 27.12.2024 I Nr. 438
+:   Art. 5 G v. 3.2.2026 I Nr. 28
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
