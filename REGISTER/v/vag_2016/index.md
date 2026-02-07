@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 434
 
 Zuletzt geändert durch
-:   Art. 11 G v. 27.12.2024 I Nr. 438
-
-Änderung durch
-:   Art. 3 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 16.1.2026 I Nr. 14
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
