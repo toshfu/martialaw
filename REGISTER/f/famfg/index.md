@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 3 G v. 7.4.2025 I Nr. 109
-
-Änderung durch
-:   Art. 7 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 18 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -36,6 +33,9 @@ Zuletzt geändert durch
 
 Änderung durch
 :   Art. 4 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 3.2.2026 I Nr. 27 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
@@ -8590,6 +8590,10 @@ Unternehmensrechtliche Verfahren sind die nach
 
 
 5.  § 26 Abs. 1 und 4 sowie § 206 Satz 2 und 3 des Umwandlungsgesetzes,
+
+
+5a. § 6b Absatz 1 bis 4 sowie den §§ 6d und 6e des
+    Außenwirtschaftsgesetzes,
 
 
 6.  § 66 Abs. 2, 3 und 5, § 71 Abs. 3 sowie § 74 Abs. 2 und 3 des Gesetzes
