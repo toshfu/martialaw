@@ -11903,15 +11903,8 @@ mehr oder nur noch übergangsweise eintreten können.
 
 
 
-##### § 228b Maßgebende Werte in der Anpassungsphase
+##### § 228b (weggefallen)
 
-Bei der Festsetzung von Werten für Zeiten bis einschließlich 31.
-Dezember 2024 sind, soweit Vorschriften dieses Buches auf die
-Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2
-Satz 1) oder auf das Durchschnittsentgelt abstellen, die für das
-Bundesgebiet ohne das Beitrittsgebiet ermittelten Werte maßgebend,
-sofern nicht in den nachstehenden Vorschriften etwas anderes bestimmt
-ist.
 
 
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
@@ -19325,11 +19318,8 @@ folgt festgesetzt:
 
 
 
-###### § 287f Getrennte Abrechnung
+###### § 287f (weggefallen)
 
-Die Abrechnung und die Verteilung nach § 227 Absatz 1 und 1a erfolgen
-für Zahlungen bis zum Jahr 2024 für die Bundesrepublik Deutschland
-ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt.
 
 
 ###### § 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
