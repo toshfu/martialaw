@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 1809
 
 Zuletzt geändert durch
-:   Art. 31 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.12.2025 I Nr. 352
 
 Änderung durch
 :   Art. 3 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
