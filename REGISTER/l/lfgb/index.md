@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.9.2021 I 4253, 2022 I 28;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 6.5.2024 I Nr. 149
+:   Art. 3 G v. 3.2.2026 I Nr. 29
 
 [^F775632_01_BJNR261810005]:     Das Gesetz dient der Umsetzung der in der Anlage zu Fußnote
     1               ) des Gesetzes zur Neuordnung des Lebensmittel- und
