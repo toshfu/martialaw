@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 21 G v. 22.12.2025 I Nr. 369
-
-Änderung durch
-:   Art. 9 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 16.1.2026 I Nr. 14
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -9008,8 +9005,6 @@ aufgrund einer vor dem 1. Januar 2009 geschlossenen Vereinbarung
 können neben einer Inanspruchnahme einer Rente wegen Alters bis zum
 Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze nach
 dem Sechsten Buch in Anspruch genommen werden.
-
-(3) (weggefallen)
 
 [^f772675_18_BJNR138450976BJNE022702126]:     Gemäß Artikel 1 Nummer 22 in Verbindung mit Artikel 10 Absatz 8 des
     Gesetzes vom 15. Juli 2009 (BGBl. I S. 1939) wird am 1. Oktober 2009
