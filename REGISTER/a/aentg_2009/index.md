@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 799
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2025 I Nr. 369
+:   Art. 5a G v. 3.2.2026 I Nr. 29
 
 
 ## Eingangsformel
