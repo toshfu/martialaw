@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 8.5.2024 I Nr. 152
 
+Änderung durch
+:   Art. 5 G v. 30.1.2026 I Nr. 31 mWv 1.11.2025 bzw. 7.2.2025 bzw 1.5.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 8 G v. 30.1.2026 I Nr. 31 mWv 7.2.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 8 G v. 21.2.2024 I Nr. 54 ist berücksichtigt
 
