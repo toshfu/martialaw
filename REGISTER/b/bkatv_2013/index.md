@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 2.10.2024 I Nr. 299
 
+Änderung durch
+:   Art. 3 V v. 30.1.2026 I Nr. 32 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
