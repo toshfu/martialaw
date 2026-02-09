@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 29.10.2025 I Nr. 260
 
+Änderung durch
+:   Art. 6 G v. 30.2.2026 I Nr. 31 mWv 7.2.2026 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 
