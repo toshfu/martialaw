@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 2007, 2386
 
 Stand: Zuletzt geändert Art. 2 V v. 29.10.2025 I Nr. 260
+Änderung durch
+:   Art. 1 V v. 30.1.2026 I Nr. 31 mWv 7.2.2026 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Passmuster; Ausgabe und Versand des Passes
 
