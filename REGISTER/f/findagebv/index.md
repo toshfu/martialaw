@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 28.2.2025 I Nr. 69
 
+Änderung durch
+:   Art. 58 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -908,15 +911,12 @@ tritt am 1. Januar 2022 in Kraft.
 
 *    *   3.8
 
-    *   Billigung eines Prospekts, der von einem Emittenten nach den für ihn
-        geltenden Rechtsvorschriften eines Staates, der nicht Staat des
-        Europäischen Wirtschaftsraums ist, erstellt worden ist, für ein
-        öffentliches Angebot oder die Zulassung zum Handel an einem geregelten
-        Markt und dessen Aufbewahrung
-        (Artikel 29 Absatz 1 und Artikel 28 Unterabsatz 2 i. V. m. Artikel 21
-        Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129)
+    *   Verwaltung eines Dokuments im Sinne des Artikels 1 Absatz 4 Buchstabe
+        da Ziffer iii, des Artikels 1 Absatz 4 Buchstabe db Ziffer iii oder
+        des Artikels 1 Absatz 5 Buchstabe ba Ziffer iii der Verordnung (EU)
+        2017/1129
 
-    *   nach Zeitaufwand
+    *   174
 
 
 *    *   3.9
@@ -3285,16 +3285,6 @@ tritt am 1. Januar 2022 in Kraft.
         (§ 239 Absatz 2 KAGB)
 
     *   nach Zeitaufwand
-
-
-*    *   15.1.6.2
-
-    *   Ausstellen einer Bescheinigung über die Bestellung einer Verwahrstelle
-        (§ 246 Absatz 2 KAGB;
-        § 264 Absatz 2 KAGB;
-        § 284 Absatz 1 in Verbindung mit § 246 Absatz 2 KAGB)
-
-    *   202
 
 
 *    *   15.1.7
