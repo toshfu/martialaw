@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1089
 
 Zuletzt geändert durch
-:   Art. 18 G v. 23.10.2024 I Nr. 323
+:   Art. 23 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
@@ -109,6 +109,13 @@ Stückaktien nach der Zahl der Aktien.
 (6) Diese Vorschriften gelten auch für Anteilscheine, die den
 Aktionären vor der Ausgabe der Aktien erteilt werden
 (Zwischenscheine).
+
+(7) Die Satzung kann vorsehen, dass Nennbetragsaktien einen geringeren
+Nennwert haben dürfen. In diesem Fall müssen sie auf mindestens einen
+Eurocent lauten. Für Stückaktien kann die Satzung vorsehen, dass der
+auf die einzelne Aktie entfallende anteilige Betrag des Grundkapitals
+einen Eurocent betragen darf. Im Übrigen findet Absatz 2 Satz 2 und 3
+entsprechende Anwendung.
 
 
 #### § 9 Ausgabebetrag der Aktien
