@@ -30,6 +30,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 4 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 62 Abs. 7 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
 
@@ -7133,8 +7136,9 @@ ausgeführt wurde, aufzubewahren.
     und des Rates vom 14. März 2012 zur Festlegung der technischen
     Vorschriften und der Geschäftsanforderungen für Überweisungen und
     Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr.
-    924/2009 (ABl. L 94 vom 30.3.2012, S. 22), geändert durch die
-    Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1);
+    924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die
+    Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden
+    ist;
 
 
 8.  „BIC“ eine internationale Bankleitzahl gemäß der Definition in Artikel
