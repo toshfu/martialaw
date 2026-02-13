@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 60 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt I - Allgemeine Vorschriften
 
@@ -646,7 +649,7 @@ und 3 folgende Aufgaben:
     Finanzbehörden der Länder;
 
 
-33. die Registrierung eines Vor-REIT nach § 2 des REIT-Gesetzes;
+33. (weggefallen)
 
 
 34. die Zertifizierung von Altersvorsorge- und Basisrentenverträgen nach
