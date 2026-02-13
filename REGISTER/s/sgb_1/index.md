@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1975, 3015
 
 Zuletzt geändert durch
-:   Art. 8 G v. 16.1.2026 I Nr. 14
+:   Art. 62 Abs. 3 G v. 4.2.2026 I Nr. 33
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -1442,10 +1442,12 @@ bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des
 Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung
 der technischen Vorschriften und der Geschäftsanforderungen für
 Überweisungen und Lastschriften in Euro und zur Änderung der
-Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt,
-überwiesen. Abweichend von Satz 1 werden Geldleistungen kostenfrei an
-den Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers innerhalb des
-Geltungsbereiches der in Satz 1 genannten Verordnung übermittelt, wenn
+Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die
+zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886,
+19\.3.2024) geändert worden ist, gilt, überwiesen. Abweichend von Satz
+1 werden Geldleistungen kostenfrei an den Wohnsitz oder gewöhnlichen
+Aufenthalt des Empfängers innerhalb des Geltungsbereiches der in Satz
+1 genannten Verordnung übermittelt, wenn
 
 1.  der Empfänger nachweist, dass ihm die Einrichtung eines Kontos bei
     einem Geldinstitut ohne eigenes Verschulden nicht möglich ist, oder
