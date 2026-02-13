@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2025 I Nr. 371
+:   Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -3729,12 +3729,14 @@ ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
 zur Festlegung der technischen Vorschriften und der
 Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
 zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt, überwiesen wurden, gelten als unter Vorbehalt
-erbracht. Das Geldinstitut hat sie der überweisenden Stelle oder dem
-Unfallversicherungsträger zurückzuüberweisen, wenn diese sie als zu
-Unrecht erbracht zurückfordern. Eine Verpflichtung zur Rücküberweisung
-besteht nicht, soweit über den entsprechenden Betrag bei Eingang der
-Rückforderung bereits anderweitig verfügt wurde, es sei denn, daß die
+30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886
+(ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt, überwiesen
+wurden, gelten als unter Vorbehalt erbracht. Das Geldinstitut hat sie
+der überweisenden Stelle oder dem Unfallversicherungsträger
+zurückzuüberweisen, wenn diese sie als zu Unrecht erbracht
+zurückfordern. Eine Verpflichtung zur Rücküberweisung besteht nicht,
+soweit über den entsprechenden Betrag bei Eingang der Rückforderung
+bereits anderweitig verfügt wurde, es sei denn, daß die
 Rücküberweisung aus einem Guthaben erfolgen kann. Das Geldinstitut
 darf den überwiesenen Betrag nicht zur Befriedigung eigener
 Forderungen verwenden.
