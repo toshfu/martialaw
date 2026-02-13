@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 16.1.2026 I Nr. 14
 
+Änderung durch
+:   Art. 62 Abs. 10 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
 ## Eingangsformel
@@ -1085,9 +1088,11 @@ Absatz 4, §§ 341b, 341c und 341d des Handelsgesetzbuchs).
         inländischen geschlossenen Publikums-AIF im Sinne des § 1 Absatz 3 in
         Verbindung mit Absatz 6 Satz 2 des Kapitalanlagegesetzbuchs,
 
-        aa) die direkt oder indirekt in Vermögensgegenstände nach § 231 Absatz 1
-            Nummer 1 bis 6 sowie § 235 Absatz 1 des Kapitalanlagegesetzbuchs
-            investieren und
+        aa) die direkt oder indirekt investieren in Vermögensgegenstände nach §
+            231 Absatz 1 Satz 1 Nummer 1 bis 6, 8 und Absatz 3 sowie § 235 Absatz
+            1 des Kapitalanlagegesetzbuchs und in Liquiditätsanlagen, die
+            näherungsweise den Anforderungen des § 253 Absatz 1 Satz 1 des
+            Kapitalanlagegesetzbuchs entsprechen, und
 
 
         bb) die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die
