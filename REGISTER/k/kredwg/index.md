@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 28.2.2025 I Nr. 69
 
+Änderung durch
+:   Art. 35 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 36 G v. 4.2.2026 I Nr. 33 mWv 30.12.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 37 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
@@ -141,13 +150,14 @@ Finanzdienstleistungen sind
         eigenen Kapitals,
 
 
-    b)  häufige organisierte und systematische Betreiben von Handel für eigene
-        Rechnung in erheblichem Umfang außerhalb eines organisierten Marktes
-        oder eines multilateralen oder organisierten Handelssystems, wenn
-        Kundenaufträge außerhalb eines geregelten Marktes oder eines
-        multilateralen oder organisierten Handelssystems ausgeführt werden,
-        ohne dass ein multilaterales Handelssystem betrieben wird
-        (systematische Internalisierung),
+    b)  häufige organisierte und systematische Betreiben von Handel mit
+        Aktien, Aktienzertifikaten, börsengehandelten Fonds, Zertifikaten und
+        anderen vergleichbaren Finanzinstrumenten für eigene Rechnung
+        außerhalb eines organisierten Marktes oder eines multilateralen oder
+        organisierten Handelssystems, wenn Kundenaufträge außerhalb eines
+        geregelten Marktes oder eines multilateralen oder organisierten
+        Handelssystems ausgeführt werden, ohne dass ein multilaterales
+        Handelssystem betrieben wird (systematische Internalisierung),
 
 
     c)  Anschaffen oder Veräußern von Finanzinstrumenten für eigene Rechnung
@@ -267,26 +277,15 @@ Eigengeschäft von einem Unternehmen betrieben wird, das
 Ein Unternehmen, das als Finanzdienstleistung geltendes Eigengeschäft
 nach Satz 3 betreibt, gilt als Finanzdienstleistungsinstitut. Die
 Sätze 3 und 4 gelten nicht für Abwicklungsanstalten nach § 8a Absatz 1
-Satz 1 des Stabilisierungsfondsgesetzes. Ob ein häufiger
-systematischer Handel im Sinne des Satzes 2 Nummer 4 Buchstabe b
-vorliegt, bemisst sich nach der Zahl der Geschäfte außerhalb eines
-Handelsplatzes im Sinne des § 2 Absatz 22 des
-Wertpapierhandelsgesetzes (OTC-Handel) mit einem Finanzinstrument zur
-Ausführung von Kundenaufträgen, die für eigene Rechnung durchgeführt
-werden. Ob ein Handel in erheblichem Umfang im Sinne des Satzes 2
-Nummer 4 Buchstabe b vorliegt, bemisst sich entweder nach dem Anteil
-des OTC-Handels an dem Gesamthandelsvolumen des Unternehmens in einem
-bestimmten Finanzinstrument oder nach dem Verhältnis des OTC-Handels
-des Unternehmens zum Gesamthandelsvolumen in einem bestimmten
-Finanzinstrument in der Europäischen Union. Die Voraussetzungen der
-systematischen Internalisierung sind erst dann erfüllt, wenn sowohl
-die in den Artikeln 12 bis 17 der Delegierten Verordnung (EU) 2017/565
-bestimmte Obergrenze für häufigen systematischen Handel als auch die
-in der vorgenannten Delegierten Verordnung bestimmte einschlägige
-Obergrenze für den Handel in erheblichem Umfang überschritten werden
-oder wenn ein Unternehmen sich freiwillig den für die systematische
-Internalisierung geltenden Regelungen unterworfen und einen
-entsprechenden Erlaubnisantrag bei der Bundesanstalt gestellt hat.
+Satz 1 des Stabilisierungsfondsgesetzes. Die Voraussetzungen der
+systematischen Internalisierung nach Nummer 4 Buchstabe b sind auch
+dann erfüllt, wenn ein Unternehmen sich freiwillig den für die
+systematische Internalisierung geltenden Regelungen unterworfen und
+eine Erlaubnis zum Betreiben der systematischen Internalisierung bei
+der Bundesanstalt beantragt hat. Dies gilt auch für die systematische
+Internalisierung von Schuldverschreibungen, strukturierten
+Finanzprodukten und Emissionszertifikaten sowie von den in Artikel 8a
+Absatz 2 Satz 1 der Verordnung (EU) Nr. 600/2014 genannten Derivaten.
 Kryptografische Instrumente im Sinne dieses Gesetzes sind digitale
 Darstellungen eines Wertes, der von keiner Zentralbank oder
 öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den
@@ -471,11 +470,7 @@ Drittstaaten im Sinne dieses Gesetzes sind alle anderen Staaten.
 
 (6) Ein Zentralverwahrer im Sinne dieses Gesetzes ist ein Unternehmen
 im Sinne des Artikels 2 Absatz 1 Nummer 1 der Verordnung (EU) Nr.
-909/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014
-zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der
-Europäischen Union und über Zentralverwahrer sowie zur Änderung der
-Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr.
-236/2012 (ABl. L 257 vom 28.8.2014, S. 1).
+909/2014.
 
 (7) Schwesterunternehmen sind Unternehmen, die ein gemeinsames
 Mutterunternehmen haben.
@@ -672,13 +667,9 @@ der Verordnung (EU) 2023/1114. Derivate sind
 
 (15) (weggefallen)
 
-(16) Ein System im Sinne von § 24b ist eine schriftliche Vereinbarung
-nach Artikel 2 Buchstabe a der Richtlinie 98/26/EG des Europäischen
-Parlaments und des Rates vom 19. Mai 1998 über die Wirksamkeit von
-Abrechnungen in Zahlungs- sowie Wertpapierliefer- und
--abrechnungssystemen (ABl. L 166 vom 11.6.1998, S. 45), die zuletzt
-durch die Verordnung 2009/44/EG (ABl. L 146 vom 10.6.2009, S. 37)
-geändert worden ist, einschließlich der Vereinbarung zwischen einem
+(16) Ein System im Sinne von § 24b ist eine schriftliche Vereinbarung
+nach Artikel 2 Buchstabe a der Richtlinie 98/26/EG in der Fassung vom
+13\. März 2024 einschließlich der Vereinbarung zwischen einem
 Teilnehmer und einem indirekt teilnehmenden Kreditinstitut, die von
 der Deutschen Bundesbank oder der zuständigen Stelle eines anderen
 Mitgliedstaats oder Vertragsstaats des Europäischen Wirtschaftsraums
@@ -2813,7 +2804,21 @@ Die Risikoanalyse nach Satz 1 Nummer 1 hat plausibel, umfassend und
 nachvollziehbar zu sein und ist schriftlich oder elektronisch zu
 dokumentieren. Die Bundesanstalt kann die Frist nach Satz 1 Nummer 2
 im Einzelfall um bis zu 12 Monate verlängern; der Antrag ist zu
-begründen.
+begründen. Verboten ist das Betreiben von
+
+1.  nach Satz 1 Nummer 1 ermittelten Geschäften nach Ablauf von zwölf
+    Monaten nach dem Überschreiten eines der in Absatz 2 Satz 1 genannten
+    Schwellenwerte, im Falle des Satzes 3 nach Ablauf der gewährten
+    Fristverlängerung, und
+
+
+2.  Geschäften, die nach Satz 1 Nummer 1 unter Beachtung der im Verkehr
+    erforderlichen Sorgfalt hätten ermittelt werden müssen, nach Ablauf
+    von zwölf Monaten nach dem Überschreiten eines der in Absatz 2 Satz 1
+    genannten Schwellenwerte.
+
+
+
 
 (4) Die Bundesanstalt kann einem CRR-Kreditinstitut oder einem
 Unternehmen, das einer Institutsgruppe, einer Finanzholding-Gruppe
@@ -11673,16 +11678,17 @@ Finanzdienstleistungen, soweit das Erbringen der bankartigen
 Nebendienstleistungen von der Genehmigung nach Artikel 54 Absatz 2 der
 Verordnung (EU) Nr. 909/2014 umfasst ist.
 
-(1e) Benannte Kreditinstitute im Sinne des Artikels 54 Absatz 4 der
-Verordnung (EU) Nr. 909/2014, die eine Erlaubnis nach Absatz 1 Satz 1
-zum Betreiben von Bankgeschäften nach § 1 Absatz 1 Satz 2 Nummer 1 und
-2 haben, benötigen für das Erbringen von bankartigen
-Nebendienstleistungen im Sinne des Abschnitts C des Anhangs zur
-Verordnung (EU) Nr. 909/2014 keine weitere Erlaubnis nach Absatz 1
-Satz 1 für das Betreiben von Bankgeschäften oder das Erbringen von
-Finanzdienstleistungen, soweit das Erbringen der bankartigen
-Nebendienstleistungen von der Genehmigung nach Artikel 54 Absatz 2 der
-Verordnung (EU) Nr. 909/2014 umfasst ist.
+(1e) Benannte Kreditinstitute im Sinne des Artikels 54 Absatz 4 oder
+Zentralverwahrer im Sinne des Artikels 54 Absatz 2a Unterabsatz 1
+Buchstabe b der Verordnung (EU) Nr. 909/2014, die eine Erlaubnis nach
+Absatz 1 Satz 1 zum Betreiben von Bankgeschäften nach § 1 Absatz 1
+Satz 2 Nummer 1 und 2 haben, benötigen für das Erbringen von
+bankartigen Nebendienstleistungen im Sinne des Abschnitts C des
+Anhangs zur Verordnung (EU) Nr. 909/2014 keine weitere Erlaubnis nach
+Absatz 1 Satz 1 für das Betreiben von Bankgeschäften oder das
+Erbringen von Finanzdienstleistungen, soweit das Erbringen der
+bankartigen Nebendienstleistungen von der Genehmigung nach Artikel 54
+Absatz 2 der Verordnung (EU) Nr. 909/2014 umfasst ist.
 
 (1f) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in
 kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, als
@@ -11730,6 +11736,15 @@ organisiertes Handelssystem betreiben, die Tätigkeit als
 Datenbereitstellungsdienst gestattet, sofern festgestellt wurde, dass
 sie den Anforderungen des Titels IVa der Verordnung (EU) Nr. 600/2014
 genügen. Diese Dienstleistungen sind in ihre Erlaubnis eingeschlossen.
+
+(1g) Ein Unternehmen mit Sitz in einem Drittstaat bedarf für das
+Betreiben des Eigenhandels im Sinne des § 1 Absatz 1a Satz 2 Nummer 4
+Buchstabe a keiner schriftlichen Erlaubnis nach Absatz 1, wenn es den
+Eigenhandel als Mitglied einer Börse oder als Teilnehmer eines
+Handelsplatzes betreibt; dies gilt bis zu einer Entscheidung der
+Europäischen Wertpapier- und Marktaufsichtsbehörde über eine
+Eintragung des Unternehmens in das Register nach Artikel 48 der
+Verordnung (EU) Nr. 600/2014.
 
 (2) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die
 sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen.
@@ -12147,7 +12162,7 @@ Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
 6.  das Institut nachhaltig gegen Bestimmungen dieses Gesetzes, des
     Geldwäschegesetzes, des Wertpapierhandelsgesetzes, der Verordnung (EU)
-    2015/847 oder die zur Durchführung dieser Gesetze erlassenen
+    2023/1113 oder die zur Durchführung dieser Gesetze erlassenen
     Verordnungen oder Anordnungen verstoßen hat;
 
 
@@ -12219,7 +12234,7 @@ des Satzes 1 ist § 35 Abs. 2 Nr. 4 mit der Maßgabe anzuwenden, dass
 bei der Berechnung der Höhe des Verlustes Bilanzierungshilfen, mittels
 derer ein Verlustausweis vermindert oder vermieden wird, nicht
 berücksichtigt werden. Im Falle eines Verstoßes gegen die §§ 25i, 25k
-oder 25m oder gegen die Verordnung (EU) 2015/847 kann die
+oder 25m oder gegen die Verordnung (EU) 2023/1113 kann die
 Bundesanstalt den dafür verantwortlichen Geschäftsleitern auch die
 Ausübung ihrer Tätigkeit bei Verpflichteten nach § 2 Absatz 1 des
 Geldwäschegesetzes untersagen.
@@ -12399,10 +12414,10 @@ kann ihr die Aufsichtsbehörde eine künftige Tätigkeit als
 Geschäftsleiter bei einem Institut in der Rechtsform einer
 juristischen Person dauerhaft untersagen. § 36 Absatz 1 und 2 bleibt
 unberührt. Im Falle eines Verstoßes gegen die §§ 25i, 25k oder 25m
-oder gegen die Verordnung (EU) 2015/847 kann die Aufsichtsbehörde auch
-einer für den Verstoß verantwortlichen natürlichen Person, die zum
-Zeitpunkt des Verstoßes nicht Geschäftsleiter war, vorübergehend für
-einen Zeitraum von bis zu zwei Jahren eine künftige Tätigkeit als
+oder gegen die Verordnung (EU) 2023/1113 kann die Aufsichtsbehörde
+auch einer für den Verstoß verantwortlichen natürlichen Person, die
+zum Zeitpunkt des Verstoßes nicht Geschäftsleiter war, vorübergehend
+für einen Zeitraum von bis zu zwei Jahren eine künftige Tätigkeit als
 Geschäftsleiter bei Verpflichteten nach § 2 Absatz 1 des
 Geldwäschegesetzes untersagen.
 
@@ -12452,9 +12467,9 @@ wenn
 
 
 4.  ohne die nach Artikel 25 Absatz 2 der Verordnung (EU) Nr. 909/2014
-    erforderliche Anerkennung die in Abschnitt A des Anhangs zur
-    Verordnung (EU) Nr. 909/2014 genannten Kerndienstleistungen erbracht
-    werden,
+    erforderliche Anerkennung die in Abschnitt A Nummer 1 oder Nummer 2
+    des Anhangs zur Verordnung (EU) Nr. 909/2014 genannten
+    Kerndienstleistungen erbracht werden,
 
 
 5.  ohne die nach Artikel 12 Absatz 1 der Verordnung (EU) 2020/1503
@@ -12910,10 +12925,10 @@ Unternehmen
     der Verordnung (EU) Nr. 909/2014 erforderliche Zulassung ausübt,
 
 
-3.  als Zentralverwahrer die in Abschnitt A des Anhangs zur Verordnung
-    (EU) Nr. 909/2014 genannten Kerndienstleistungen ohne die nach Artikel
-    25 Absatz 2 der Verordnung (EU) Nr. 909/2014 erforderliche Anerkennung
-    erbringt,
+3.  als Zentralverwahrer die in Abschnitt A Nummer 1 oder Nummer 2 des
+    Anhangs zur Verordnung (EU) Nr. 909/2014 genannten
+    Kerndienstleistungen ohne die nach Artikel 25 Absatz 2 der Verordnung
+    (EU) Nr. 909/2014 erforderliche Anerkennung erbringt,
 
 
 4.  Schwarmfinanzierungsdienstleistungen im Sinne der Verordnung (EU)
@@ -15945,17 +15960,17 @@ Aufgaben nach § 6 Absatz 1c entsprechend.
 Die Bundesanstalt kann unbeschadet der anderen Bestimmungen dieses
 Gesetzes gegenüber einem Zentralverwahrer im Sinne des Artikels 2
 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 909/2014, gegenüber einem
-benannten Kreditinstitut im Sinne des Artikels 54 Absatz 2 Buchstabe b
-der Verordnung (EU) Nr. 909/2014, gegenüber deren übergeordneten
-Unternehmen sowie gegenüber Mitgliedern, deren Organe, deren
-Beschäftigten und anderen natürlichen oder juristischen Personen, die
-deren Geschäfte tatsächlich kontrollieren oder auf die Tätigkeiten im
-Sinne des Artikels 30 der Verordnung (EU) Nr. 909/2014 ausgelagert
-worden sind oder die ansonsten der Verordnung (EU) Nr. 909/2014
-unterliegen, alle Anordnungen treffen, die geeignet und erforderlich
-sind, die Einhaltung der Anforderungen der Verordnung (EU) Nr.
-909/2014, der darauf basierenden delegierten Rechtsakte sowie der auf
-Zentralverwahrer anwendbaren Bestimmungen dieses Gesetzes
+benannten Kreditinstitut oder Zentralverwahrer im Sinne des Artikels
+54 Absatz 2a der Verordnung (EU) Nr. 909/2014, gegenüber deren
+übergeordneten Unternehmen sowie gegenüber Mitgliedern, deren Organe,
+deren Beschäftigten und anderen natürlichen oder juristischen
+Personen, die deren Geschäfte tatsächlich kontrollieren oder auf die
+Tätigkeiten im Sinne des Artikels 30 der Verordnung (EU) Nr. 909/2014
+ausgelagert worden sind oder die ansonsten der Verordnung (EU) Nr.
+909/2014 unterliegen, alle Anordnungen treffen, die geeignet und
+erforderlich sind, die Einhaltung der Anforderungen der Verordnung
+(EU) Nr. 909/2014, der darauf basierenden delegierten Rechtsakte sowie
+der auf Zentralverwahrer anwendbaren Bestimmungen dieses Gesetzes
 sicherzustellen.
 
 
@@ -16045,7 +16060,9 @@ anzuwenden, die auf einer Erlaubnis nach der Verordnung (EU) Nr.
 sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache
 vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder
 Teile davon ausschließlich in englischer Sprache erstellt und
-vorgelegt werden.
+vorgelegt werden. Sofern die Bundesanstalt eine Vorlage in beiden
+Sprachen verlangt, ist allein die deutschsprachige Fassung rechtlich
+maßgeblich.
 
 (2) Anträge nach der Verordnung (EU) 2022/858 sind der Bundesanstalt
 elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von
@@ -16073,8 +16090,8 @@ nach der Verordnung (EU) 2022/858 betroffen sind.
 
 (1) Wer
 
-1.  Geschäfte betreibt, die nach § 3, auch in Verbindung mit § 53b Absatz
-    3 Satz 1 oder Satz 2, verboten sind,
+1.  entgegen § 3 Absatz 1 oder Absatz 3 Satz 4 ein dort genanntes Geschäft
+    betreibt,
 
 
 2.  ohne Erlaubnis nach § 32 Absatz 1 Satz 1 Bankgeschäfte betreibt oder
@@ -16472,8 +16489,8 @@ Kryptowerte und zur Änderung der Richtlinie 2015/849 (ABl. L 150 vom
 fahrlässig
 
 1.  entgegen Artikel 4 Absatz 1, auch in Verbindung mit den Artikeln 5 und
-    6, nicht sicherstellt, dass die vorgeschriebenen Angaben zum
-    Auftraggeber vollständig übermittelt werden,
+    6, nicht sicherstellt, dass die vorgeschriebenen Angaben zum Zahler
+    vollständig übermittelt werden,
 
 
 2.  entgegen Artikel 4 Absatz 2, auch in Verbindung mit Artikel 5 Absatz
@@ -16495,13 +16512,13 @@ fahrlässig
 
 
 6.  entgegen Artikel 7 Absatz 3, auch in Verbindung mit Absatz 5, die
-    Richtigkeit der Angaben zum Begünstigten nicht oder nicht rechtzeitig
-    überprüft,
+    Richtigkeit der Angaben zum Zahlungsempfänger nicht oder nicht
+    rechtzeitig überprüft,
 
 
 7.  entgegen Artikel 7 Absatz 4, auch in Verbindung mit Absatz 5, die
-    Richtigkeit der Angaben zum Begünstigten nicht oder nicht rechtzeitig
-    überprüft,
+    Richtigkeit der Angaben zum Zahlungsempfänger nicht oder nicht
+    rechtzeitig überprüft,
 
 
 8.  entgegen Artikel 8 Absatz 1 Satz 1 keine wirksamen risikobasierten
@@ -16510,7 +16527,7 @@ fahrlässig
 
 9.  entgegen Artikel 8 Absatz 2 Satz 2 den Transferauftrag nicht oder
     nicht rechtzeitig zurückweist oder die vorgeschriebenen Angaben zum
-    Auftraggeber und zum Begünstigten nicht oder nicht rechtzeitig
+    Zahler oder zum Zahlungsempfänger nicht oder nicht rechtzeitig
     anfordert,
 
 
@@ -16521,9 +16538,9 @@ fahrlässig
     Maßnahmen nicht meldet,
 
 
-12. entgegen Artikel 10 nicht dafür sorgt, dass alle Angaben zum
-    Auftraggeber und zum Begünstigten, die bei einem Geldtransfer
-    übermittelt werden, bei der Weiterleitung erhalten bleiben,
+12. entgegen Artikel 10 nicht dafür sorgt, dass alle Angaben zum Zahler
+    oder zum Zahlungsempfänger, die bei einem Geldtransfer übermittelt
+    werden, bei der Weiterleitung erhalten bleiben,
 
 
 13. entgegen Artikel 11 Absatz 1 keine wirksamen Verfahren zur
@@ -16540,7 +16557,7 @@ fahrlässig
 
 16. entgegen Artikel 12 Absatz 1 Satz 2 den Transferauftrag nicht oder
     nicht rechtzeitig zurückweist oder die vorgeschriebenen Angaben zum
-    Auftraggeber und zum Begünstigten nicht oder nicht rechtzeitig
+    Zahler oder zum Zahlungsempfänger nicht oder nicht rechtzeitig
     anfordert,
 
 
@@ -16551,8 +16568,9 @@ fahrlässig
     ergriffenen Maßnahmen nicht meldet oder
 
 
-19. entgegen Artikel 16 Absatz 1 Satz 2 Angaben zum Auftraggeber und zum
-    Begünstigten nicht mindestens fünf Jahre aufbewahrt.
+19. entgegen Artikel 26 Absatz 1 Satz 2 eine dort genannte Aufzeichnung
+    nicht oder nicht mindestens fünf Jahre nach Durchführung des
+    Geldtransfers aufbewahrt.
 
 
 
@@ -16699,11 +16717,7 @@ fahrlässig
 
 
 (4f) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
-909/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014
-zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der
-Europäischen Union und über Zentralverwahrer sowie zur Änderung der
-Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr.
-236/2012 (ABl. L 257 vom 28.8.2014, S. 1) verstößt, indem er
+909/2014 in der Fassung vom 13. Dezember 2023 verstößt, indem er
 vorsätzlich oder leichtfertig
 
 1.  entgegen Artikel 16 Absatz 2 nichtbankartige Nebendienstleistungen
@@ -16721,6 +16735,13 @@ vorsätzlich oder leichtfertig
     der Zulassung erforderlichen Angaben nicht, nicht richtig oder nicht
     vollständig macht oder in dem vorgenannten Verfahren wesentliche
     Umstände gegenüber der Bundesanstalt verschweigt,
+
+
+3a  entgegen Artikel 22a Absatz 5 Satz 2 einen dort genannten Plan nicht,
+    nicht richtig, nicht vollständig oder nicht bis zum Ablauf einer von
+    der Bundesanstalt gesetzten Frist, spätestens aber zwei Jahre nach der
+    letzten Übermittlung eines solchen Plans, an die Bundesanstalt
+    übermittelt,
 
 
 4.  entgegen Artikel 25 Absatz 2 ohne die erforderliche Anerkennung
@@ -16765,13 +16786,33 @@ vorsätzlich oder leichtfertig
 13. entgegen Artikel 27 Absatz 3 Vergütungsabreden trifft,
 
 
-14. entgegen Artikel 27 Absatz 7 Buchstabe a Eigentumsverhältnisse nicht,
-    nicht richtig oder nicht vollständig vorlegt oder veröffentlicht,
+14. entgegen Artikel 27 Absatz 11 Buchstabe a eine dort genannte Angabe
+    nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach
+    Kenntniserlangung zur Verfügung stellt,
 
 
-15. entgegen Artikel 27 Absatz 7 Buchstabe b die Bundesanstalt nicht,
-    nicht richtig oder nicht vollständig über die Entscheidung,
-    Eigentumsrechte zu übertragen, unterrichtet,
+14a. entgegen Artikel 27 Absatz 11 Buchstabe b eine dort genannte Angabe
+    nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach
+    Kenntniserlangung öffentlich macht,
+
+
+15. entgegen Artikel 27a Absatz 1 Unterabsatz 1 die Bundesanstalt nicht,
+    nicht richtig, nicht vollständig oder nicht unverzüglich nach
+    Kenntniserlangung unterrichtet,
+
+
+15a. entgegen Artikel 27a Absatz 2 Unterabsatz 1 oder Unterabsatz 2 Satz 2
+    eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+    unverzüglich nach Beschlussfassung macht,
+
+
+15b. entgegen Artikel 27a Absatz 2 Unterabsatz 2 Satz 1 die Bundesanstalt
+    nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach
+    Beschlussfassung unterrichtet,
+
+
+15c. einer vollziehbaren Anordnung nach Artikel 27a Absatz 4 Unterabsatz 1
+    Satz 1 zuwiderhandelt,
 
 
 16. entgegen Artikel 28 Absatz 1 Satz 1 einen dort vorgeschriebenen
@@ -16921,13 +16962,10 @@ vorsätzlich oder leichtfertig
     Eigenkapitalanforderungen nachhaltig verletzt,
 
 
-51. entgegen Artikel 47 Absatz 2 Satz 1 und 2 einen dort vorgeschriebenen
-    Kapitalplan nicht vorhält,
+51. (weggefallen)
 
 
-52. entgegen Artikel 47 Absatz 2 Satz 3 der Bundesanstalt die erfolgte
-    Aktualisierung des Kapitalplans nicht, nicht vollständig oder nicht
-    richtig mitteilt,
+52. (weggefallen)
 
 
 53. entgegen Artikel 48 Absatz 2 eine Zentralverwahrer-Verbindung ohne
@@ -17678,12 +17716,13 @@ Geschäftsleiter eines Instituts oder Unternehmens verhängte und
 bestandskräftig gewordene Maßnahme, die sie wegen eines Verstoßes
 gegen dieses Gesetz, die dazu erlassenen Rechtsverordnungen oder die
 Bestimmungen der Verordnung (EU) Nr. 575/2013 oder der Verordnung (EU)
-2015/847 verhängt hat, jede unanfechtbar gewordene Bußgeldentscheidung
-und jede bestandskräftige Maßnahme nach § 28 Absatz 1 Satz 2, 4 und 5,
-Absatz 2 Satz 1 nach Maßgabe der Absätze 2 bis 4 unverzüglich auf
-ihren Internetseiten öffentlich bekannt machen und dabei auch
-Informationen zu Art und Charakter des Verstoßes mitteilen. Die Rechte
-der Bundesanstalt nach § 37 Absatz 1 Satz 3 bleiben unberührt.
+2023/1113 verhängt hat, jede unanfechtbar gewordene
+Bußgeldentscheidung und jede bestandskräftige Maßnahme nach § 28
+Absatz 1 Satz 2, 4 und 5, Absatz 2 Satz 1 nach Maßgabe der Absätze 2
+bis 4 unverzüglich auf ihren Internetseiten öffentlich bekannt machen
+und dabei auch Informationen zu Art und Charakter des Verstoßes
+mitteilen. Die Rechte der Bundesanstalt nach § 37 Absatz 1 Satz 3
+bleiben unberührt.
 
 (2) Die Bekanntmachung einer unanfechtbar gewordenen
 Bußgeldentscheidung nach § 56 Absatz 4c darf keine personenbezogenen
