@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 19.12.2018 I 2672
 
+Änderung durch
+:   Art. 57 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
