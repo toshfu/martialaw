@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 18.12.2025 I Nr. 347
 
+Änderung durch
+:   Art. 19 G v. 4.2.2026 I Nr. 33 mWv 10.2.206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 20 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 bzw. 4.12.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 21 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
+
 Dieses Gesetz dient der Umsetzung
 
 -   der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates
@@ -189,23 +198,29 @@ Kalenderjahren weniger als 200 Millionen Euro betrug. Nähere
 Bestimmungen enthalten die Artikel 77 bis 79 der Delegierten
 Verordnung (EU) 2017/565.
 
+(10a) Auslagerungsunternehmen im Sinne dieses Gesetzes sind
+Unternehmen, auf die ein Börsenträger Aktivitäten und Prozesse zur
+Durchführung des Börsenbetriebs ausgelagert hat, sowie deren
+Subunternehmen bei Weiterverlagerungen von Aktivitäten und Prozessen,
+die für die Durchführung des Börsenbetriebs wesentlich sind.
+
 (11) In verwaltungsgerichtlichen Verfahren kann die Börse unter ihrem
 Namen klagen und verklagt werden.
 
 
 ### § 3 Aufgaben und Befugnisse der Börsenaufsichtsbehörde
 
-(1) Die zuständige oberste Landesbehörde (Börsenaufsichtsbehörde) übt
-die Aufsicht über die Börse nach den Vorschriften dieses Gesetzes aus.
-Ihrer Aufsicht unterliegen insbesondere der Börsenrat, die
-Börsengeschäftsführung, der Sanktionsausschuss und die
-Handelsüberwachungsstelle (Börsenorgane) sowie der Börsenträger, die
-Einrichtungen, die sich auf den Börsenverkehr einschließlich der nach
-§ 5 Abs. 3 ausgelagerten Bereiche beziehen, und der Freiverkehr. Die
-Aufsicht erstreckt sich auf die Einhaltung der börsenrechtlichen
-Vorschriften und Anordnungen, die ordnungsmäßige Durchführung des
-Handels an der Börse sowie die ordnungsmäßige Erfüllung der
-Börsengeschäfte (Börsengeschäftsabwicklung).
+(1) Die Börsenaufsichtsbehörde übt die Aufsicht über die Börse nach
+den Vorschriften dieses Gesetzes aus. Ihrer Aufsicht unterliegen
+insbesondere der Börsenrat, die Börsengeschäftsführung, der
+Sanktionsausschuss und die Handelsüberwachungsstelle (Börsenorgane)
+sowie der Börsenträger, die Einrichtungen, die sich auf den
+Börsenverkehr einschließlich der nach § 5 Abs. 3 ausgelagerten
+Bereiche beziehen, und der Freiverkehr. Die Aufsicht erstreckt sich
+auf die Einhaltung der börsenrechtlichen Vorschriften und Anordnungen,
+die ordnungsmäßige Durchführung des Handels an der Börse sowie die
+ordnungsmäßige Erfüllung der Börsengeschäfte
+(Börsengeschäftsabwicklung).
 
 (2) Die Börsenaufsichtsbehörde ist berechtigt, an den Beratungen der
 Börsenorgane teilzunehmen. Die Börsenorgane sind verpflichtet, die
@@ -217,21 +232,25 @@ zugewiesenen Aufgaben und Befugnisse nur im öffentlichen Interesse
 wahr.
 
 (4) Die Börsenaufsichtsbehörde kann, soweit dies zur Erfüllung ihrer
-Aufgaben erforderlich ist, auch ohne besonderen Anlass von der Börse
-und dem Börsenträger sowie von den Handelsteilnehmern, von mittelbaren
-Handelsteilnehmern und von den Emittenten der zum regulierten Markt
-zugelassenen Wertpapiere Auskünfte und die Vorlage von Unterlagen
-verlangen sowie Prüfungen vornehmen. Die Börsenaufsichtsbehörde kann
-verlangen, dass die Übermittlung der Auskünfte und Unterlagen auf
-automatisiert verarbeitbaren Datenträgern erfolgt. Sofern
-Anhaltspunkte vorliegen, welche die Annahme rechtfertigen, dass
-börsenrechtliche Vorschriften oder Anordnungen verletzt werden oder
-sonstige Missstände vorliegen, welche die ordnungsmäßige Durchführung
-des Handels an der Börse oder die Börsengeschäftsabwicklung
-beeinträchtigen können, kann die Börsenaufsichtsbehörde von jedermann
-Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien
-verlangen sowie Personen laden und vernehmen, soweit dies zur
-Erfüllung ihrer Aufgaben erforderlich ist. Sie kann in diesen Fällen
+Aufgaben erforderlich ist, auch ohne besonderen Anlass, bei der Börse,
+bei dem Börsenträger und, soweit Aktivitäten und Prozesse ausgelagert
+wurden, bei Auslagerungsunternehmen sowie bei Handelsteilnehmern,
+mittelbaren Handelsteilnehmern und bei den Emittenten der zum
+regulierten Markt zugelassenen Wertpapiere Prüfungen vornehmen; sie
+kann gegenüber dem Börsenträger zudem die Durchführung einer Prüfung
+auf dessen Kosten durch einen geeigneten durch den Börsenträger im
+Einvernehmen mit der Börsenaufsichtsbehörde zu bestellenden externen
+Prüfer anordnen. Die Börsenaufsichtsbehörde kann von jedermann
+Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die
+Überlassung von Kopien verlangen sowie Personen laden und vernehmen,
+um zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der
+in § 1 Absatz 1 Satz 1 genannten Verordnungen eingehalten werden. Die
+Börsenaufsichtsbehörde kann verlangen, dass die Übermittlung der
+Auskünfte und Unterlagen auf automatisiert verarbeitbaren Datenträgern
+erfolgt. Sie kann zur Aufklärung, ob börsenrechtliche Vorschriften
+oder Anordnungen verletzt werden oder sonstige Missstände drohen oder
+vorliegen, welche die ordnungsmäßige Durchführung des Handels an der
+Börse oder die Börsengeschäftsabwicklung beeinträchtigen können,
 insbesondere
 
 1.  von den Handelsteilnehmern die Angabe der Identität der Auftraggeber
@@ -260,7 +279,7 @@ insbesondere
 
 
 5.  von den Handelsteilnehmern, die den algorithmischen Handel im Sinne
-    des § 33 Absatz 1a Satz 1 des Wertpapierhandelsgesetzes betreiben,
+    des § 80 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes betreiben,
     jederzeit Informationen über ihren algorithmischen Handel, die für
     diesen Handel eingesetzten Systeme sowie eine Beschreibung der
     algorithmischen Handelsstrategien und der Einzelheiten zu den
@@ -305,10 +324,11 @@ erhalten.
 Ordnung und für den Geschäftsverkehr an der Börse Anordnungen zu
 erlassen. Sie kann gegenüber jedermann Anordnungen treffen, die
 geeignet und erforderlich sind, Verstöße gegen börsenrechtliche
-Vorschriften und Anordnungen zu verhindern oder Missstände zu
-beseitigen, welche die ordnungsgemäße Durchführung des Handels an der
-Börse, der Börsengeschäftsabwicklung oder deren Überwachung
-beeinträchtigen können. Sie kann zu diesem Zweck insbesondere
+Vorschriften und Anordnungen zu unterbinden oder Missstände zu
+verhindern oder zu beseitigen, welche die ordnungsgemäße Durchführung
+des Handels an der Börse, der Börsengeschäftsabwicklung oder deren
+Überwachung beeinträchtigen können. Sie kann zu diesem Zweck
+insbesondere
 
 1.  die Aussetzung oder Einstellung des Börsenhandels mit einzelnen oder
     mehreren Finanzinstrumenten, Rechten oder Wirtschaftsgütern anordnen,
@@ -532,6 +552,64 @@ Strafprozessordnung werden durch die Einrichtung des Systems zur
 Meldung von Verstößen nach Absatz 1 nicht eingeschränkt.
 
 
+### § 3c Abberufungsverlangen beim Börsenträger
+
+(1) Die Börsenaufsichtsbehörde kann die Abberufung eines
+Geschäftsleiters eines Börsenträgers verlangen, wenn
+
+1.  Tatsachen vorliegen, aus denen sich ergibt, dass die Person die
+    Voraussetzungen des § 4a Absatz 1 nicht erfüllt, oder
+
+
+2.  die Person als Geschäftsleiter gegen die Bestimmungen dieses Gesetzes
+    oder gegen Anordnungen der Börsenaufsichtsbehörde verstoßen hat und
+    sie trotz Verwarnung durch die Börsenaufsichtsbehörde dieses Verhalten
+    vorsätzlich oder leichtfertig fortsetzt.
+
+
+
+
+(2) Die Börsenaufsichtsbehörde kann die Abberufung eines Mitglieds
+eines Verwaltungs- oder Aufsichtsorgans verlangen, wenn
+
+1.  Tatsachen vorliegen, aus denen sich ergibt, dass die Person die
+    Voraussetzungen des § 4b Absatz 1 Satz 1 nicht erfüllt,
+
+
+2.  der Person wesentliche Verstöße des Börsenträgers gegen die Grundsätze
+    einer ordnungsgemäßen Geschäftsführung wegen sorgfaltswidriger
+    Ausübung ihrer Überwachungs- und Kontrollfunktion verborgen geblieben
+    sind und sie dieses Verhalten trotz Verwarnung durch die
+    Börsenaufsichtsbehörde vorsätzlich oder leichtfertig fortsetzt oder
+
+
+3.  die Person nicht alles Erforderliche zur Beseitigung festgestellter
+    Verstöße veranlasst hat und dies trotz Verwarnung durch die
+    Börsenaufsichtsbehörde auch weiterhin vorsätzlich oder leichtfertig
+    unterlässt.
+
+
+
+
+
+### § 3d Abberufungsverlangen bei der Börse
+
+Die Börsenaufsichtsbehörde kann die Abberufung eines Geschäftsführers
+der Börse verlangen, wenn
+
+1.  Tatsachen vorliegen, aus denen sich ergibt, dass die Person die
+    Voraussetzungen des § 15 Absatz 1 Satz 3 nicht erfüllt, oder
+
+
+2.  die Person als Geschäftsführer gegen die Bestimmungen dieses Gesetzes
+    oder gegen Anordnungen der Börsenaufsichtsbehörde verstoßen hat und
+    sie trotz Verwarnung durch die Börsenaufsichtsbehörde dieses Verhalten
+    vorsätzlich oder leichtfertig fortsetzt.
+
+
+
+
+
 ### § 4 Erlaubnis
 
 (1) Die Errichtung einer Börse bedarf der schriftlichen Erlaubnis der
@@ -548,7 +626,7 @@ zu erfolgen. Der Antrag muss enthalten:
 
 
 2.  die Namen der Geschäftsleiter und der Mitglieder des Verwaltungs- oder
-    Aufsichts\*organs des Börsenträgers sowie die Angaben, die für die
+    Aufsichtsorgans des Börsenträgers sowie die Angaben, die für die
     Beurteilung der Anforderungen nach den §§ 4a und 4b erforderlich sind,
 
 
@@ -577,7 +655,7 @@ diese erforderlich sind, um zu prüfen, ob der Antragsteller die
 Einhaltung der Vorschriften dieses Gesetzes gewährleistet. Handelt es
 sich bei den Geschäftsleitern des Trägers der Börse um solche eines
 organisierten Marktes, kann der Antragsteller hinsichtlich dieser
-Personen von den Angaben nach Satz 2 Nr. 2 und 5 absehen.
+Personen von den Angaben nach Satz 3 Nr. 2 und 5 absehen.
 
 (3) Die Erlaubnis ist insbesondere zu versagen, wenn
 
@@ -586,7 +664,7 @@ Personen von den Angaben nach Satz 2 Nr. 2 und 5 absehen.
 
 
 2.  Tatsachen vorliegen, aus denen sich ergibt, dass eine der in Absatz 2
-    Satz 2 Nummer 2 genannten Personen den Anforderungen nach den §§ 4a
+    Satz 3 Nummer 2 genannten Personen den Anforderungen nach den §§ 4a
     und 4b nicht entspricht,
 
 
@@ -650,8 +728,8 @@ Börsenaufsichtsbehörde übertragen.
 
 (7) Der Börsenträger hat der Börsenaufsichtsbehörde einen Wechsel bei
 den Personen der Geschäftsleitung sowie wesentliche Änderungen
-hinsichtlich der nach Absatz 2 Satz 2 Nr. 1 bis 5 gemachten Angaben
-unverzüglich anzuzeigen. Absatz 2 Satz 3 und 4 gilt entsprechend.
+hinsichtlich der nach Absatz 2 Satz 3 Nummer 1 bis 5 gemachten Angaben
+unverzüglich anzuzeigen. Absatz 2 Satz 4 und 5 gilt entsprechend.
 
 
 ### § 4a Geschäftsleitung des Börsenträgers
@@ -840,18 +918,23 @@ Börsenbetriebs erforderlichen finanziellen, personellen und sachlichen
 Mittel zur Verfügung zu stellen.
 
 (2) Der Börsenträger ist verpflichtet, die aktuellen Angaben zu seiner
-Eigentümerstruktur in dem nach § 4 Abs. 2 Satz 2 Nr. 4 erforderlichen
-Umfang auf seiner Internetseite zu veröffentlichen.
+Eigentümerstruktur in dem nach § 4 Absatz 2 Satz 3 Nr. 4
+erforderlichen Umfang auf seiner Internetseite zu veröffentlichen.
 
 (3) Die Auslagerung von Bereichen, die für die Durchführung des
-Börsenbetriebs wesentlich sind, auf ein anderes Unternehmen darf weder
-die ordnungsmäßige Durchführung des Handels an der Börse und der
+Börsenbetriebs wesentlich sind, auf ein Auslagerungsunternehmen darf
+weder die ordnungsgemäße Durchführung des Handels an der Börse und der
 Börsengeschäftsabwicklung noch die Aufsicht über die Börse
 beeinträchtigen. Der Börsenträger hat sich insbesondere die
 erforderlichen Weisungsbefugnisse vertraglich zu sichern und die
 ausgelagerten Bereiche in seine internen Kontrollverfahren
-einzubeziehen. Der Börsenträger hat die Absicht der Auslagerung sowie
-ihren Vollzug der Börsenaufsichtsbehörde unverzüglich anzuzeigen.
+einzubeziehen. Der Börsenträger hat die Absicht einer wesentlichen
+Auslagerung und deren Vollzug sowie wesentliche Änderungen und
+schwerwiegende Vorfälle im Rahmen von bestehenden wesentlichen
+Auslagerungen, die die ordnungsgemäße Durchführung des Handels an der
+Börse oder die Börsengeschäftsabwicklung beeinträchtigen oder
+beeinträchtigen können, der Börsenaufsichtsbehörde unverzüglich
+anzuzeigen.
 
 (4) Der Börsenträger ist verpflichtet,
 
@@ -866,13 +949,19 @@ ihren Vollzug der Börsenaufsichtsbehörde unverzüglich anzuzeigen.
 2.  angemessene Vorkehrungen und Systeme zur Ermittlung und zum Umgang mit
     den wesentlichen Risiken des Börsenbetriebs, einschließlich der IKT-
     Risiken gemäß Kapitel II der Verordnung (EU) 2022/2554 zu schaffen, um
-    diese wirksam zu begrenzen, und
+    diese wirksam zu begrenzen,
 
 
 3.  die technische Funktionsfähigkeit der Börsenhandels- und
     Abwicklungssysteme sicherzustellen und einen reibungslosen und
     zeitnahen Abschluss der im Handelssystem geschlossenen Geschäfte zu
-    schaffen.
+    schaffen und
+
+
+4.  sicherzustellen, dass die Börse über mindestens drei aktive
+    Handelsteilnehmer verfügt, denen es jeweils möglich ist, mit allen
+    übrigen Handelsteilnehmern zum Zwecke der Preisbildung in Verbindung
+    zu treten.
 
 
 
@@ -905,9 +994,17 @@ Handelssysteme
 
 
 (4b) Der Börsenträger muss über Systeme und Verfahren verfügen, um
-Aufträge abzulehnen, die die im Voraus festgelegten Grenzen für
-Volumina und Kurse überschreiten oder eindeutig irrtümlich zustande
-kamen.
+
+1.  sicherzustellen, dass er die in Artikel 22b der Verordnung (EU) Nr.
+    600/2014 festgelegten Standards für die Datenqualität erfüllt, und
+
+
+2.  Aufträge abzulehnen, die die im Voraus festgelegten Grenzen für
+    Volumina und Kurse überschreiten oder eindeutig irrtümlich zustande
+    kamen.
+
+
+
 
 (5) Der Börsenträger muss über ausreichende finanzielle Mittel für
 eine ordnungsgemäße Durchführung des Börsenbetriebs verfügen, wobei
@@ -937,6 +1034,10 @@ Wertpapierhandelsgesetz oder gegen die auf Grund des
 Wertpapierhandelsgesetzes erlassenen Rechtsverordnungen sowie etwaige
 strafbare Handlungen innerhalb des Unternehmens an geeignete Stellen
 zu berichten.
+
+(9) Der Börsenträger hat der Börsenaufsichtsbehörde Systemstörungen in
+Bezug auf ein Finanzinstrument unverzüglich mitzuteilen und diese bei
+ihren Untersuchungen umfassend zu unterstützen.
 
 
 ### § 6 Inhaber bedeutender Beteiligungen
@@ -1128,29 +1229,34 @@ erteilen, wenn hierdurch die Erfüllung der Überwachungsaufgaben der
 Handelsüberwachungsstelle nicht beeinträchtigt wird.
 
 (3) Der Handelsüberwachungsstelle stehen die Befugnisse der
-Börsenaufsichtsbehörde nach § 3 Abs. 4 Satz 1 bis 5 zu; § 3 Abs. 4
-Satz 9 und 10 und Abs. 9 gilt entsprechend.
+Börsenaufsichtsbehörde nach § 3 Absatz 4 Satz 1 bis 5 zu; § 3 Absatz 4
+Satz 9 bis 11 und Absatz 9 gilt entsprechend.
 
 (4) Die Handelsüberwachungsstelle kann Daten über Geschäftsabschlüsse
-der Geschäftsführung und der Handelsüberwachungsstelle einer anderen
-Börse übermitteln, soweit sie für die Erfüllung der Aufgaben dieser
-Stellen erforderlich sind. Die Handelsüberwachungsstelle kann Daten
-über Geschäftsabschlüsse auch den zur Überwachung des Handels an
-ausländischen organisierten Märkten oder entsprechenden Märkten mit
-Sitz außerhalb der Europäischen Union oder eines Vertragstaates des
-Abkommens über den Europäischen Wirtschaftsraum zuständigen Stellen
-übermitteln und solche Daten von diesen Stellen empfangen, soweit sie
-zur ordnungsgemäßen Durchführung des Handels und der
-Börsengeschäftsabwicklung erforderlich sind. An diese Stellen dürfen
-solche Daten nur übermittelt werden, wenn diese Stellen und die von
-ihnen beauftragten Personen einer der Regelung des § 10 gleichwertigen
-Verschwiegenheitspflicht unterliegen. Diese Stellen sind darauf
-hinzuweisen, dass sie die Daten nur zu dem Zweck verwenden dürfen, zu
-dessen Erfüllung sie ihnen übermittelt werden. Die
+sowie Beobachtungen und Feststellungen einschließlich
+personenbezogener Daten der Geschäftsführung und der
+Handelsüberwachungsstelle einer anderen Börse übermitteln, soweit sie
+für die Erfüllung der Aufgaben dieser Stellen erforderlich sind. Die
+Handelsüberwachungsstelle kann Daten über Geschäftsabschlüsse sowie
+Beobachtungen und Feststellungen einschließlich personenbezogener
+Daten auch solchen Stellen übermitteln, die kraft Gesetzes oder im
+öffentlichen Auftrag mit der Überwachung von Börsen oder anderen
+Märkten, an denen Finanzinstrumente oder andere Wirtschaftsgüter
+gehandelt werden, oder die mit der Überwachung von börsengehandelten
+Finanzinstrumenten oder anderen Wirtschaftsgütern betraut sind, soweit
+sie für die Erfüllung der Aufgaben dieser Stellen erforderlich sind.
+Die Handelsüberwachungsstelle kann auch solche Daten von diesen
+Stellen empfangen, soweit sie zur ordnungsgemäßen Durchführung des
+Handels und der Börsengeschäftsabwicklung erforderlich sind. An diese
+Stellen dürfen solche Daten nur übermittelt werden, wenn diese Stellen
+und die von ihnen beauftragten Personen einer der Regelung des § 10
+gleichwertigen Verschwiegenheitspflicht unterliegen. Diese Stellen
+sind darauf hinzuweisen, dass sie die Daten nur zu dem Zweck verwenden
+dürfen, zu dessen Erfüllung sie ihnen übermittelt werden. Die
 Handelsüberwachungsstelle hat der Börsenaufsichtsbehörde, der
-Geschäftsführung und der Bundesanstalt mitzuteilen, mit welchen
-zuständigen Stellen in anderen Staaten sie welche Art von Daten
-auszutauschen beabsichtigt.
+Geschäftsführung und im Rahmen ihrer Zuständigkeit der Bundesanstalt
+mitzuteilen, mit welchen zuständigen Stellen in anderen Staaten sie
+welche Art von Daten auszutauschen beabsichtigt.
 
 (5) Stellt die Handelsüberwachungsstelle Tatsachen fest, welche die
 Annahme rechtfertigen, dass börsenrechtliche Vorschriften oder
@@ -1171,7 +1277,32 @@ erfolgen, wenn die Handelsüberwachungsstelle Tatsachen feststellt,
 deren Kenntnis für die Verfolgung von Verstößen gegen das Verbot von
 Insidergeschäften nach Artikel 14 der Verordnung (EU) Nr. 596/2014
 oder das Verbot der Marktpreismanipulation nach Artikel 15 der
-Verordnung (EU) Nr. 596/2014 erforderlich ist.
+Verordnung (EU) Nr. 596/2014 erforderlich ist. Die
+Handelsüberwachungsstelle hat die Börsenaufsichtsbehörde über
+Unterrichtungen nach Satz 5 zu informieren. Die Sätze 4 und 5 gelten
+in Bezug auf die Agentur für die Zusammenarbeit der
+Energieregulierungsbehörden, die Bundesnetzagentur und die
+Regulierungsbehörden anderer Mitgliedstaaten entsprechend mit der
+Maßgabe, dass diese insbesondere über solche Daten über
+Geschäftsabschlüsse sowie Beobachtungen und Feststellungen
+einschließlich personenbezogener Daten zu unterrichten sind, deren
+Kenntnis für die Verfolgung von Verstößen gegen Vorschriften der
+Verordnung (EU) Nr. 1227/2011 erforderlich sind. Die
+Handelsüberwachungsstelle kann ferner Daten über Geschäftsabschlüsse
+sowie Beobachtungen und Feststellungen einschließlich
+personenbezogener Daten an eine Stelle in einem anderen Staat
+übermitteln, die der Bundesanstalt oder der Bundesnetzagentur
+vergleichbare Überwachungsaufgaben bezüglich Marktmissbrauch oder
+Insiderhandel wahrnimmt, soweit die Handelsüberwachungsstelle
+Tatsachen feststellt, deren Kenntnis für die Erfüllung der Aufgaben
+dieser Stelle erforderlich sind und die bei dieser Stelle
+Beschäftigten einer der Regelung des § 10 gleichwertigen
+Verschwiegenheitspflicht unterliegen. Die Übermittlung
+personenbezogener Daten muss im Einklang mit Kapitel V der Verordnung
+(EU) 2016/679 und mit den sonstigen allgemeinen datenschutzrechtlichen
+Vorschriften stehen. Diese Stelle ist darauf hinzuweisen, dass sie die
+Daten nur zu dem Zweck verwenden darf, zu dessen Erfüllung sie ihr
+übermittelt werden.
 
 (6) Die Handelsüberwachungsstelle nimmt die ihr nach diesem Gesetz
 zugewiesenen Aufgaben und Befugnisse nur im öffentlichen Interesse
@@ -1199,6 +1330,16 @@ erteilte Genehmigungen.
 regelmäßig und auf eine einheitliche und vergleichbare Art über die
 gemäß § 24 Absatz 2b festgelegten Parameter für eine
 Volatilitätsunterbrechung.
+
+(4a) Die Börsenaufsichtsbehörde hat der Bundesanstalt Unterrichtungen
+nach § 5 Absatz 9, § 7 Absatz 5 Satz 1 sowie § 15 Absatz 5a zur
+weiteren Übermittlung an die Europäische Wertpapier- und
+Marktaufsichtsbehörde und die zuständigen Behörden der anderen
+Mitgliedstaaten der Europäischen Union und der Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum zu übermitteln. Die
+Übermittlung von Unterrichtungen zu möglichen Verstößen gegen
+börsenrechtliche Vorschriften oder Anordnungen nach § 7 Absatz 5 Satz
+1 erfolgt nur in schwerwiegenden Fällen.
 
 (5) Die Börsenaufsichtsbehörde und die für die Durchführung der
 Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
@@ -1263,10 +1404,20 @@ Informationen weitergegeben werden an
     Wertpapierinstituten, Kapitalverwaltungsgesellschaften, extern
     verwalteten Investmentgesellschaften, Finanzunternehmen,
     Versicherungsunternehmen, Versicherungsvermittlern oder den
-    Vermittlern von Anteilen an Investmentvermögen im Sinne des § 2a Abs.
-    1 Nr. 7 des Wertpapierhandelsgesetzes oder mit der Überwachung des
-    Handels mit Finanzinstrumenten oder Devisen betraute Stellen sowie von
-    diesen beauftragten Personen,
+    Vermittlern von Anteilen an Investmentvermögen im Sinne des § 3 Absatz
+    1 Satz 1 Nummer 7 des Wertpapierhandelsgesetzes oder mit der
+    Überwachung des Handels mit Finanzinstrumenten oder Devisen betraute
+    Stellen sowie von diesen beauftragten Personen,
+
+
+2a. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von
+    Waren oder Märkten für Waren oder Warentermingeschäfte wie
+    beispielsweise Energie oder Energieanlagen im Sinne von § 3 Nummer 14
+    und 15 des Energiewirtschaftsgesetzes oder von
+    Treibhausgasemissionszertifikaten oder Derivaten darauf oder mit der
+    Überwachung von Teilnehmern an diesen Märkten betraute Stellen sowie
+    von diesen beauftragte Personen unabhängig davon, ob diese Produkte
+    als Finanzinstrumente zu qualifizieren sind,
 
 
 3.  Zentralnotenbanken, das Europäische System der Zentralbanken oder die
@@ -1276,7 +1427,7 @@ Informationen weitergegeben werden an
 
 
 4.  mit der Liquidation oder dem Insolvenzverfahren über das Vermögen
-    eines Wertpapierdienstleistungsunternehmens im Sinne des § 2 Abs. 4
+    eines Wertpapierdienstleistungsunternehmens im Sinne des § 2 Absatz 10
     des Wertpapierhandelsgesetzes, eines Börsenträgers oder eines
     organisierten Marktes mit Sitz im Ausland oder dessen Betreiber
     befasste Stellen, und an
@@ -1301,12 +1452,7 @@ weitergegeben werden, wenn die bei dieser Stelle beschäftigten und von
 dieser Stelle beauftragten Personen einer dem Satz 1 entsprechenden
 Verschwiegenheitspflicht unterliegen.
 
-(2) Für die Mitglieder der Börsenorgane sowie die beim Träger der
-Börse Beschäftigten oder unmittelbar oder mittelbar in seinem Auftrag
-handelnden Personen gilt § 10 Absatz 1 Satz 2 des
-Wertpapierhandelsgesetzes entsprechend.
-
-(3) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit §
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit §
 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in
 Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die
 Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
@@ -1345,16 +1491,15 @@ zumindest auch um eine Wertpapierbörse, müssen im Börsenrat über die
 in Satz 2 genannten Unternehmen hinaus auch die Skontroführer, die
 Versicherungsunternehmen, deren emittierte Wertpapiere an der Börse
 zum Handel zugelassen sind, und andere Emittenten solcher Wertpapiere
-vertreten sein. Die Zahl der Vertreter der Kreditinstitute
-einschließlich der Wertpapierhandelsbanken sowie der mit den
-Kreditinstituten verbundenen Kapitalverwaltungsgesellschaften und
-sonstigen Unternehmen darf insgesamt nicht mehr als die Hälfte der
-Mitglieder des Börsenrates betragen. Die nach § 13 Absatz 4 zu
-erlassende Rechtsverordnung kann für einzelne Börsen Ausnahmen von den
-Bestimmungen der Sätze 2 bis 5 zulassen. Sie kann insbesondere
-vorsehen, dass sonstige betroffene Wirtschaftsgruppen im Börsenrat
-vertreten sind, und die Entsendung der Vertreter der nicht zum
-Börsenhandel zugelassenen Unternehmen regeln.
+vertreten sein. Die Zahl der Vertreter der Kreditinstitute und der
+Wertpapierinstitute sowie der mit den Kreditinstituten verbundenen
+Kapitalverwaltungsgesellschaften und sonstigen Unternehmen darf
+insgesamt nicht mehr als die Hälfte der Mitglieder des Börsenrates
+betragen. Die nach § 13 Absatz 4 zu erlassende Rechtsverordnung kann
+für einzelne Börsen Ausnahmen von den Bestimmungen der Sätze 2 bis 5
+zulassen. Sie kann insbesondere vorsehen, dass sonstige betroffene
+Wirtschaftsgruppen im Börsenrat vertreten sind, und die Entsendung der
+Vertreter der nicht zum Börsenhandel zugelassenen Unternehmen regeln.
 
 (2) Dem Börsenrat obliegt insbesondere
 
@@ -1415,7 +1560,7 @@ Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 ### § 13 Wahl des Börsenrates
 
 (1) Die Mitglieder des Börsenrates werden für die Dauer von bis zu
-drei Jahren von den in § 12 Absatz 1 Satz 2 bis 4 genannten Gruppen
+vier Jahren von den in § 12 Absatz 1 Satz 2 bis 4 genannten Gruppen
 jeweils aus ihrer Mitte gewählt; die Vertreter der Anleger werden von
 den übrigen Mitgliedern des Börsenrates hinzugewählt.
 
@@ -1456,9 +1601,9 @@ Aufgaben ausreichend Zeit widmen und die für die Leitung der Börse
 erforderliche fachliche Eignung besitzen. Sie werden für höchstens
 fünf Jahre bestellt; die wiederholte Bestellung ist zulässig. Die
 Bestellung eines Geschäftsführers ist unverzüglich der
-Börsenaufsichtsbehörde anzuzeigen. Die Anzeige muss die in § 4 Abs. 2
-Satz 2 Nr. 2 genannten Angaben enthalten. § 4 Abs. 2 Satz 3 und 4 gilt
-entsprechend.
+Börsenaufsichtsbehörde anzuzeigen. Die Anzeige muss die in § 4 Absatz
+2 Satz 3 Nummer 2 genannten Angaben enthalten. § 4 Absatz 2 Satz 4 und
+5 gilt entsprechend.
 
 (2) Die Börsenaufsichtsbehörde hat ihr Einvernehmen zu der Bestellung
 der Geschäftsführer zu verweigern, wenn aus objektiven und
@@ -1485,6 +1630,11 @@ Handelsteilnehmer und der für sie tätigen Personen. Sie trifft
 geeignete Vorkehrungen, die eine wirksame und dauerhafte Überwachung
 der Pflichten nach Satz 1 gewährleisten. Die Aufgaben der
 Handelsüberwachungsstelle nach § 7 bleiben unberührt.
+
+(5a) Die Geschäftsführung hat der Börsenaufsichtsbehörde
+schwerwiegende Verstöße gegen das Regelwerk der Börse und
+marktstörende Handelsbedingungen unverzüglich mitzuteilen und sie bei
+ihren Untersuchungen umfassend zu unterstützen.
 
 (6) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 4
 haben keine aufschiebende Wirkung.
@@ -1533,14 +1683,20 @@ Bestimmungen enthalten über
 
 
 2.  die Sicherstellung der Börsengeschäftsabwicklung und die zur Verfügung
-    stehenden Abwicklungssysteme nach Maßgabe des § 21 und
+    stehenden Abwicklungssysteme nach Maßgabe des § 21,
 
 
 3.  die Kennzeichnung der durch algorithmischen Handel im Sinne des § 80
     Absatz 2 Satz 1 des Wertpapierhandelsgesetzes erzeugten Aufträge durch
     die Handelsteilnehmer, die Kenntlichmachung der hierfür jeweils
     verwendeten Handelsalgorithmen sowie die Kenntlichmachung der
-    Personen, die diese Aufträge initiiert haben.
+    Personen, die diese Aufträge initiiert haben, und
+
+
+4.  die Sicherstellung der Anforderung, dass die Börse über mindestens
+    drei aktive Handelsteilnehmer verfügen muss, denen es jeweils möglich
+    sein muss, mit allen übrigen Handelsteilnehmern zum Zwecke der
+    Preisbildung in Verbindung zu treten.
 
 
 
@@ -1753,7 +1909,8 @@ außerhalb der Mitgliedstaaten der Europäischen Union oder der anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 das Ruhen der Zulassung längstens für die Dauer von sechs Monaten
 anordnen oder die Zulassung widerrufen, wenn die Erfüllung der
-Meldepflichten nach § 9 des Wertpapierhandelsgesetzes oder der
+Meldepflichten nach Artikel 26 der Verordnung (EU) Nr. 600/2014 in
+Verbindung mit § 22 des Wertpapierhandelsgesetzes oder der
 Informationsaustausch zum Zwecke der Überwachung der Verbote von
 Insidergeschäften oder des Verbots der Marktmanipulation mit den in
 diesem Staat zuständigen Stellen nicht gewährleistet erscheint. Die
@@ -1895,15 +2052,7 @@ Zulassung nicht zurückzunehmen oder zu widerrufen ist, so verweist sie
 das Verfahren an den Sanktionsausschuss zurück.
 
 
-### § 22a Synchronisierung von im Geschäftsverkehr verwendeten Uhren
-
-Börse und Handelsteilnehmer müssen die von ihnen im Geschäftsverkehr
-verwendeten Uhren synchronisieren. Zum Verfahren wird auf die
-Delegierte Verordnung (EU) 2017/574 der Kommission vom 7. Juni 2016
-zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments
-und des Rates durch technische Regulierungsstandards für den Grad an
-Genauigkeit von im Geschäftsverkehr verwendeten Uhren (ABl. L 87 vom
-31\.3.2017, S. 148), in der jeweils geltenden Fassung, verwiesen.
+### § 22a (weggefallen)
 
 
 ### § 22b Verarbeitung personenbezogener Daten
@@ -2016,35 +2165,33 @@ den Handelsteilnehmern insbesondere Angebote zugänglich und die
 Annahme der Angebote möglich sein. Bei der Ermittlung des
 Börsenpreises können auch Preise einer anderen Börse, eines
 organisierten Marktes mit Sitz im Ausland oder eines multilateralen
-Handelssystems im Sinne des § 2 Abs. 3 Satz 1 Nr. 8 des
+Handelssystems im Sinne des § 2 Absatz 8 Satz 1 Nummer 8 des
 Wertpapierhandelsgesetzes berücksichtigt werden. Die Börse trifft
 nähere Bestimmungen über die Aufhebung, Änderung und Berichtigung von
 Geschäften durch die Geschäftsführung, insbesondere auch für den Fall,
 dass Börsenpreise auf Grund erheblicher Preisschwankungen nicht
 ordnungsgemäß zustande gekommen sind.
 
-(2a) Die Börse hat geeignete Vorkehrungen zu treffen, um auch bei
-erheblichen Preisschwankungen eine ordnungsgemäße Ermittlung des
-Börsenpreises sicherzustellen. Geeignete Vorkehrungen im Sinne des
-Satzes 1 sind insbesondere kurzfristige Änderungen des Marktmodells
-und kurzzeitige Volatilitätsunterbrechungen unter Berücksichtigung
-statischer oder dynamischer Preiskorridore oder Limitsysteme der mit
-der Preisfeststellung betrauten Handelsteilnehmer.
+(2a) (weggefallen)
 
 (2b) Die Börse hat geeignete Vorkehrungen zu treffen, um auch bei
 erheblichen Preisschwankungen eine ordnungsgemäße Preisermittlung
-sicherzustellen; geeignete Vorkehrungen sind insbesondere kurzfristige
+sicherzustellen. Geeignete Vorkehrungen sind insbesondere kurzfristige
 Änderungen des Marktmodells, kurzzeitige Volatilitätsunterbrechungen
 unter Berücksichtigung statischer oder dynamischer Preiskorridore und
 Limitsysteme der mit der Preisfeststellung betrauten
 Handelsteilnehmer, wobei es der Börse in Ausnahmefällen möglich sein
-muss, jedes Geschäft aufzuheben, zu ändern oder zu berichtigen; die
+muss, jedes Geschäft aufzuheben, zu ändern oder zu berichtigen. Die
 Parameter für solche Volatilitätsunterbrechungen müssen der Liquidität
 der einzelnen Kategorien und Teilkategorien der betreffenden
 Finanzinstrumente, der Art des Marktmodells und der Art der
 Handelsteilnehmer Rechnung tragen und ermöglichen, dass wesentliche
-Störungen eines ordnungsgemäßen Börsenhandels unterbunden werden; die
-Börse hat der Börsenaufsichtsbehörde diese Parameter mitzuteilen.
+Störungen eines ordnungsgemäßen Börsenhandels unterbunden werden. Die
+Börse hat der Börsenaufsichtsbehörde diese Parameter mitzuteilen und
+auf ihrer Internetseite Angaben zu den Umständen, die zur
+Unterbrechung oder Beschränkung des Handels führen, und die Grundsätze
+für die Festlegung der wichtigsten technischen Parameter, die dazu
+verwendet werden, zu veröffentlichen.
 
 (3) Soweit in Titel II der Verordnung (EU) Nr. 600/2014 nichts anderes
 bestimmt ist, müssen Börsenpreise und die ihnen zugrunde liegenden
@@ -2069,8 +2216,9 @@ kennzeichnen.
 (1) Die Geschäftsführung kann den Handel von Finanzinstrumenten,
 Wirtschaftsgütern oder Rechten
 
-1.  aussetzen, wenn ein ordnungsgemäßer Börsenhandel zeitweilig gefährdet
-    oder wenn dies zum Schutz des Publikums geboten erscheint; und
+1.  aussetzen, wenn ein ordnungsgemäßer Börsenhandel zeitweilig auf Grund
+    einer Notfallsituation gefährdet oder wenn dies zum Schutz des
+    Publikums geboten erscheint; und
 
 
 2.  einstellen, wenn ein ordnungsgemäßer Börsenhandel nicht mehr
@@ -2149,18 +2297,35 @@ treffen.
 Die Börse ist verpflichtet, eine angemessene Größe der
 kleinstmöglichen Preisänderung bei den gehandelten Finanzinstrumenten
 festzulegen, um negative Auswirkungen auf die Marktintegrität und
--liquidität zu verringern. Bei der Festlegung der Mindestgröße nach
-Satz 1 ist insbesondere zu berücksichtigen, dass diese den
-Preisfindungsmechanismus und das Ziel eines angemessenen Order-
-Transaktions-Verhältnisses im Sinne des § 26a nicht beeinträchtigt.
-Wegen der einzelnen Anforderungen an die Festlegung der
-Mindestpreisänderungsgröße wird auf die Delegierte Verordnung (EU)
-2017/588 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie
-2014/65/EU des Europäischen Parlaments und des Rates durch technische
-Regulierungsstandards für das Tick-Größen-System für Aktien,
-Aktienzertifikate und börsengehandelte Fonds (ABl. L 87 vom 31.3.2017,
-S. 411) in der jeweils geltenden Fassung verwiesen. Nähere
-Bestimmungen kann die Börsenordnung treffen.
+-liquidität zu verringern. Die Börse kann für den Handel in einer
+Aktie die gleiche angemessene Größe der kleinstmöglichen Preisänderung
+festlegen wie ein Handelsplatz in einem Drittstaat, sofern dieser
+Handelsplatz in Bezug auf die Liquidität der Aktie der wichtigste
+Markt ist und die Aktie eine internationale Wertpapierkennnummer hat,
+die
+
+1.  außerhalb des Europäischen Wirtschaftsraums vergeben wurde oder
+
+
+2.  im Europäischen Wirtschaftsraum vergeben wurde und die Aktie an diesem
+    Handelsplatz in der Landeswährung des Drittstaats oder in einer
+    anderen, nicht dem Europäischen Wirtschaftsraum zuzuordnenden Währung
+    im Sinne des Artikels 23 Absatz 1 Buchstabe a der Verordnung (EU) Nr.
+    600/2014 gehandelt wird.
+
+
+
+Bei der Festlegung der Mindestgröße nach Satz 1 ist insbesondere zu
+berücksichtigen, dass diese den Preisfindungsmechanismus und das Ziel
+eines angemessenen Order-Transaktions-Verhältnisses im Sinne des § 26a
+nicht beeinträchtigt. Wegen der einzelnen Anforderungen an die
+Festlegung der Mindestpreisänderungsgröße wird auf die Delegierte
+Verordnung (EU) 2017/588 der Kommission vom 14. Juli 2016 zur
+Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und
+des Rates durch technische Regulierungsstandards für das Tick-Größen-
+System für Aktien, Aktienzertifikate und börsengehandelte Fonds (ABl.
+L 87 vom 31.3.2017, S. 411) in der jeweils geltenden Fassung
+verwiesen. Nähere Bestimmungen kann die Börsenordnung treffen.
 
 
 ### § 26c Market-Making-Systeme
@@ -2231,35 +2396,22 @@ organisatorischen Anforderungen an Handelsplätze (ABl. L 87 vom
 31\.3.2017, S. 350) in der jeweils geltenden Fassung verwiesen.
 
 
-### § 26e Informationen über die Ausführungsqualität
-
-Börsen müssen für jedes Finanzinstrument, das an ihnen gehandelt wird,
-mindestens einmal jährlich gebührenfrei Informationen über die
-Qualität der Ausführung von Aufträgen veröffentlichen. Die
-Veröffentlichungen müssen ausführliche Angaben zum Preis, den mit
-einer Auftragsausführung verbundenen Kosten, der Geschwindigkeit und
-der Wahrscheinlichkeit der Ausführung enthalten. Wegen der einzelnen
-Anforderungen an Inhalt und Form der Veröffentlichungen nach den
-Sätzen 1 und 2 wird auf die Delegierte Verordnung (EU) 2017/575 der
-Kommission vom 8. Juni 2016 zur Ergänzung der Richtlinie 2014/65/EU
-des Europäischen Parlaments und des Rates über Märkte für
-Finanzinstrumente durch technische Regulierungsstandards bezüglich der
-Daten, die Ausführungsplätze zur Qualität der Ausführung von
-Geschäften veröffentlichen müssen (ABl. L 87 vom 31.3.2017, S. 152),
-in der jeweils geltenden Fassung, verwiesen.
+### § 26e (weggefallen)
 
 
 ### § 26f Positionsmanagementkontrollen
 
-(1) Eine Börse, an der Warenderivate gehandelt werden, muss Verfahren
-zur Überwachung der Einhaltung der nach § 54 Absatz 1 bis 5 und § 55
-des Wertpapierhandelsgesetzes festgelegten Positionslimits
-(Positionsmanagementkontrollen) einrichten. Diese müssen transparent
-und diskriminierungsfrei ausgestaltet werden, festlegen, wie sie
-anzuwenden sind und der Art und Zusammensetzung der Handelsteilnehmer
-sowie deren Nutzung der zum Handel zugelassenen Kontrakte Rechnung
-tragen. Im Rahmen von Kontrollen nach den Sätzen 1 und 2 hat die Börse
-insbesondere sicherzustellen, dass sie das Recht hat,
+(1) Eine Börse, an der Warenderivate oder Derivate von
+Emissionszertifikaten gehandelt werden, muss Verfahren einrichten, um
+ungeordneten Handel zu verhindern und zu korrigieren, geordnete Preis-
+und Abrechnungsbedingungen zu fördern und die Effizienz der Märkte
+sicherzustellen (Positionsmanagementkontrollen). Diese müssen
+transparent und diskriminierungsfrei ausgestaltet werden, festlegen,
+wie sie anzuwenden sind und der Art und Zusammensetzung der
+Handelsteilnehmer sowie deren Nutzung der zum Handel zugelassenen
+Kontrakte Rechnung tragen. Im Rahmen von Kontrollen nach den Sätzen 1
+und 2 hat die Börse insbesondere sicherzustellen, dass sie das Recht
+hat,
 
 1.  die offenen Kontraktpositionen jedes Handelsteilnehmers zu überwachen,
 
@@ -2305,9 +2457,22 @@ Marktaufsichtsbehörde.
 ### § 26g Übermittlung von Daten
 
 Die Geschäftsführung kann von den Handelsteilnehmern die Übermittlung
-von Daten in Bezug auf deren Finanzinstrumente verlangen, soweit dies
-zur Erfüllung der Anforderungen aus Artikel 25 Absatz 2 der Verordnung
-(EU) Nr. 600/2014 erforderlich ist.
+von Daten in Bezug auf deren Aufträge für Finanzinstrumente verlangen,
+soweit dies zur Erfüllung der Anforderungen aus Artikel 25 Absatz 2
+der Verordnung (EU) Nr. 600/2014 erforderlich ist.
+
+
+### § 26h Datenübermittlungsverlangen; Satzungsermächtigung
+
+(1) Die Geschäftsführung der Börse kann von den Handelsteilnehmern die
+Übermittlung von Daten in Bezug auf Finanzinstrumente verlangen,
+soweit dies zur Erfüllung der Anforderungen aus Artikel 26 Absatz 5
+der Verordnung (EU) Nr. 600/2014 erforderlich ist.
+
+(2) Der Börsenrat kann eine Satzung erlassen, die Handelsteilnehmer
+zur wiederholten oder regelmäßigen Übermittlung von wiederholt oder
+regelmäßig erforderlichen Daten im Sinne des Absatzes 1 an die
+Geschäftsführung verpflichtet.
 
 
 ## Abschnitt 3 - Skontroführung und Transparenzanforderungen an Wertpapierbörsen
@@ -3302,8 +3467,8 @@ solchen Geschäft verleitet.
 
 1.  einer vollziehbaren Anordnung nach
 
-    a)  § 3 Absatz 4 Satz 1 oder Satz 3, jeweils auch in Verbindung mit § 7
-        Absatz 3, oder § 3 Absatz 5 Satz 2 oder
+    a)  § 3 Absatz 4 Satz 1 zweiter Halbsatz, Satz 2 oder 4, jeweils auch in
+        Verbindung mit § 7 Absatz 3, oder § 3 Absatz 5 Satz 2 oder
 
 
     b)  § 6 Absatz 2 Satz 1 oder Absatz 4 Satz 1
@@ -3322,7 +3487,7 @@ solchen Geschäft verleitet.
 
 
 4.  bei der Antragstellung nach § 4 Absatz 2 Satz 1 unrichtige Angaben zu
-    den in § 4 Absatz 2 Satz 2 oder 3 genannten Tatsachen macht,
+    den in § 4 Absatz 2 Satz 3 oder 4 genannten Tatsachen macht,
 
 
 5.  entgegen § 4 Absatz 7 Satz 1 einen Wechsel bei einer dort genannten
@@ -3352,36 +3517,40 @@ solchen Geschäft verleitet.
     die Einsetzung eines Nominierungsausschusses hinwirkt,
 
 
-10. entgegen § 5 Absatz 4 Nummer 1 keine oder keine hinreichenden
+10. entgegen § 5 Absatz 3 Satz 3 eine Anzeige nicht oder nicht rechtzeitig
+    erstattet,
+
+
+11. entgegen § 5 Absatz 4 Nummer 1 keine oder keine hinreichenden
     Vorkehrungen trifft, um dort genannte Konflikte zu erkennen und zu
     verhindern,
 
 
-11. entgegen § 5 Absatz 4 Nummer 2 keine angemessenen Vorkehrungen und
+12. entgegen § 5 Absatz 4 Nummer 2 keine angemessenen Vorkehrungen und
     Systeme schafft,
 
 
-12. entgegen § 5 Absatz 4 Nummer 3 nicht die technische Funktionsfähigkeit
+13. entgegen § 5 Absatz 4 Nummer 3 nicht die technische Funktionsfähigkeit
     der betreffenden Systeme sicherstellt oder keine technischen
     Vorkehrungen für den reibungslosen und zeitnahen Abschluss der
     betreffenden Geschäfte schafft,
 
 
-13. als Börsenträger eine Börse betreibt, ohne über die in § 5 Absatz 4a
+14. als Börsenträger eine Börse betreibt, ohne über die in § 5 Absatz 4a
     genannten Systeme und Verfahren zu verfügen,
 
 
-14. als Börsenträger eine Börse betreibt, ohne über ausreichende
+15. als Börsenträger eine Börse betreibt, ohne über ausreichende
     finanzielle Mittel im Sinne des § 5 Absatz 5 zu verfügen,
 
 
-15. als Börsenträger entgegen § 5 Absatz 7 an einer von ihm betriebenen
+16. als Börsenträger entgegen § 5 Absatz 7 an einer von ihm betriebenen
     Börse Kundenaufträge unter Einsatz seines eigenen Kapitals ausführt
     oder auf die Zusammenführung sich deckender Kundenaufträge
     zurückgreift,
 
 
-16. entgegen
+17. entgegen
 
     a)  § 6 Absatz 1 Satz 1, 5 oder 6 oder
 
@@ -3395,31 +3564,31 @@ solchen Geschäft verleitet.
     rechtzeitig erstattet,
 
 
-17. einer vollziehbaren Anordnung der Börsenaufsichtsbehörde nach § 6
+18. einer vollziehbaren Anordnung der Börsenaufsichtsbehörde nach § 6
     Absatz 1 Satz 7 zuwiderhandelt,
 
 
-18. entgegen § 6 Absatz 6 Satz 2 eine Veröffentlichung nicht oder nicht
+19. entgegen § 6 Absatz 6 Satz 2 eine Veröffentlichung nicht oder nicht
     rechtzeitig vornimmt,
 
 
-19. entgegen § 26c Absatz 2 Satz 1 kein Market-Making-System einrichtet,
+20. entgegen § 26c Absatz 2 Satz 1 kein Market-Making-System einrichtet,
 
 
-20. als Handelsteilnehmer bei der Teilnahme am Börsenhandel einen
+21. als Handelsteilnehmer bei der Teilnahme am Börsenhandel einen
     Algorithmus im Sinne von § 26d Absatz 2 einsetzt, ohne diesen zuvor
     auf etwaige marktstörende Auswirkungen getestet zu haben,
 
 
-21. als Börsenträger entgegen § 26e Satz 1 die dort genannte
+22. als Börsenträger entgegen § 26e Satz 1 die dort genannte
     Veröffentlichung nicht mindestens einmal jährlich vornimmt,
 
 
-22. als Börsenträger entgegen § 26f Absatz 1 keine
+23. als Börsenträger entgegen § 26f Absatz 1 keine
     Positionsmanagementkontrollen einrichtet oder
 
 
-23. als Handelsteilnehmer entgegen § 26g die von der Geschäftsführung
+24. als Handelsteilnehmer entgegen § 26g die von der Geschäftsführung
     verlangten Daten nicht übermittelt.
 
 
@@ -3461,19 +3630,14 @@ S. 1) verstößt, indem er vorsätzlich oder leichtfertig
 
 
 
-(5) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 600/2014
-des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte
-für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr.
-648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L
-270 vom 15.10.2015, S. 4), die durch die Verordnung (EU) 2016/1033
-(ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, verstößt, indem
-er vorsätzlich oder leichtfertig als Marktbetreiber im Sinne des
-Artikels 4 Absatz 1 Nummer 18 der Richtlinie
-2014/65/EU              oder als Börsenträger, der ein multilaterales
-Handelssystem im Sinne des Artikels 4 Absatz 1 Nummer 22 der
-Richtlinie 2014/65/EU oder ein organisiertes Handelssystem im Sinne
-des Artikels 4 Absatz 1 Nummer 23 der Richtlinie
-2014/65/EU              betreibt,
+(5) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 600/2014 in
+der Fassung vom 23. Oktober 2024 verstößt indem er vorsätzlich oder
+leichtfertig als Marktbetreiber im Sinne des Artikels 4 Absatz 1
+Nummer 18 der Richtlinie 2014/65/EU oder als Börsenträger, der ein
+multilaterales Handelssystem im Sinne des Artikels 4 Absatz 1 Nummer
+22 der Richtlinie 2014/65/EU oder ein organisiertes Handelssystem im
+Sinne des Artikels 4 Absatz 1 Nummer 23 der Richtlinie 2014/65/EU
+betreibt,
 
 1.  entgegen
 
@@ -3486,17 +3650,20 @@ des Artikels 4 Absatz 1 Nummer 23 der Richtlinie
     c)  Artikel 8 Absatz 1,
 
 
-    d)  Artikel 8 Absatz 4,
+    d)  Artikel 8a Absatz 1 oder Absatz 2,
 
 
-    e)  Artikel 10 Absatz 1,
+    e)  Artikel 8b Absatz 1,
 
 
-    f)  Artikel 11 Absatz 3 Unterabsatz 3 in Verbindung mit Artikel 10 Absatz
-        1 oder
+    f)  Artikel 10 Absatz 1,
 
 
-    g)  Artikel 31 Absatz 2
+    g)  Artikel 11 Absatz 1a Unterabsatz 2, Absatz 1b Unterabsatz 2 oder
+        Absatz 3 Unterabsatz 4 oder
+
+
+    h)  Artikel 11a Absatz 1 Unterabsatz 4
 
 
 
@@ -3515,74 +3682,96 @@ des Artikels 4 Absatz 1 Nummer 23 der Richtlinie
         beschriebenen Weise Zugang zu den betreffenden Systemen gewährt,
 
 
-    b)  Artikel 7 Absatz 1 Unterabsatz 3 Satz 1 oder Artikel 11 Absatz 1
-        Unterabsatz 3 Satz 1 eine Genehmigung nicht oder nicht rechtzeitig
-        einholt oder auf geplante Regelungen nicht, nicht richtig, nicht
-        vollständig, nicht in der vorgeschriebenen Weise oder nicht
-        rechtzeitig hinweist,
+    b)  Artikel 5 Absatz 1 Satz 1 in Verbindung mit Satz 2 eine dort genannte
+        Ausnahme nicht oder nicht rechtzeitig aussetzt,
 
 
-    c)  Artikel 8 Absatz 3 oder Artikel 10 Absatz 2 nicht in der dort
+    c)  Artikel 5 Absatz 7 ein dort genanntes System oder ein dort genanntes
+        Verfahren nicht oder nicht unverzüglich nach Betriebsaufnahme
+        einrichtet,
+
+
+    d)  Artikel 7 Absatz 1 Unterabsatz 3 Satz 1 eine Genehmigung nicht oder
+        nicht rechtzeitig einholt,
+
+
+    e)  Artikel 8 Absatz 3 oder Artikel 10 Absatz 2 nicht in der dort
         beschriebenen Weise Zugang zu den betreffenden Regelungen gewährt,
 
 
-    d)  Artikel 12 Absatz 1 eine Information nicht, nicht richtig, nicht
+    f)  Artikel 11 Absatz 1 Unterabsatz 2 Satz 1 einen Hinweis nicht, nicht
+        richtig, nicht vollständig oder nicht unverzüglich nach Feststehen
+        einer dort genannten Regelung gibt,
+
+
+    g)  Artikel 12 Absatz 1 eine Information nicht, nicht richtig, nicht
         vollständig, nicht in der vorgeschriebenen Weise oder nicht
         rechtzeitig offenlegt,
 
 
-    e)  Artikel 13 Absatz 1 eine Angabe oder Information nicht, nicht richtig,
-        nicht in der vorgeschriebenen Weise oder nicht rechtzeitig offenlegt
-        oder bereitstellt oder keinen diskriminierungsfreien Zugang zu den
-        Informationen sicherstellt,
+    h)  Artikel 13 Absatz 1 Unterabsatz 2 Satz 1 einen dort genannten Zugang
+        nicht sicherstellt,
 
 
-    f)  Artikel 22 Absatz 2 erforderliche Daten nicht für einen ausreichend
+    i)  Artikel 13 Absatz 1 Unterabsatz 2 Satz 2 die Datenpolitik nicht oder
+        nicht in der vorgeschriebenen Weise zur Verfügung stellt,
+
+
+    j)  Artikel 13 Absatz 2 eine dort genannte Information nicht oder nicht
+        rechtzeitig zur Verfügung stellt,
+
+
+    k)  Artikel 22 Absatz 2 erforderliche Daten nicht für einen ausreichend
         langen Zeitraum speichert,
 
 
-    g)  Artikel 25 Absatz 2 die einschlägigen Daten eines Auftrags nicht für
-        mindestens fünf Jahre zur Verfügung hält,
+    l)  Artikel 22a Absatz 1 Satz 1 Daten nicht, nicht richtig, nicht
+        vollständig, nicht in der vorgeschriebenen Weise oder nicht
+        rechtzeitig übermittelt,
 
 
-    h)  Artikel 29 Absatz 1 nicht sicherstellt, dass Geschäfte von einer
+    m)  Artikel 25 Absatz 2 Satz 1 in Verbindung mit Satz 3 dort genannte
+        Daten nicht oder nicht mindestens fünf Jahre zur Verfügung hält,
+
+
+    n)  Artikel 29 Absatz 1 nicht sicherstellt, dass Geschäfte von einer
         zentralen Gegenpartei gecleart werden,
 
 
-    i)  Artikel 29 Absatz 2 Unterabsatz 1 nicht über die dort bezeichneten
+    o)  Artikel 29 Absatz 2 Unterabsatz 1 nicht über die dort bezeichneten
         Systeme, Verfahren und Vorkehrungen verfügt,
 
 
-    j)  Artikel 31 Absatz 3 Satz 1 eine Aufzeichnung nicht, nicht richtig,
+    p)  Artikel 31 Absatz 3 Satz 1 eine Aufzeichnung nicht, nicht richtig,
         nicht vollständig oder nicht in der vorgeschriebenen Weise führt,
 
 
-    k)  Artikel 31 Absatz 3 Satz 2 eine Aufzeichnung nicht, nicht vollständig
+    q)  Artikel 31 Absatz 3 Satz 2 eine Aufzeichnung nicht, nicht vollständig
         oder nicht rechtzeitig zur Verfügung stellt,
 
 
-    l)  Artikel 35 Absatz 2 einen Antrag nicht, nicht vollständig oder nicht
+    r)  Artikel 35 Absatz 2 einen Antrag nicht, nicht vollständig oder nicht
         in der vorgeschriebenen Weise an eine zuständige Behörde übermittelt,
 
 
-    m)  Artikel 36 Absatz 1 Handelsdaten nicht auf diskriminierungsfreier und
+    s)  Artikel 36 Absatz 1 Handelsdaten nicht auf diskriminierungsfreier und
         transparenter Basis bereitstellt,
 
 
-    n)  Artikel 36 Absatz 3 Satz 1 nicht, nicht in der vorgeschriebenen Weise
+    t)  Artikel 36 Absatz 3 Satz 1 nicht, nicht in der vorgeschriebenen Weise
         oder nicht rechtzeitig antwortet,
 
 
-    o)  Artikel 36 Absatz 3 Satz 2 einen Zugang verweigert,
+    u)  Artikel 36 Absatz 3 Satz 2 einen Zugang verweigert,
 
 
-    p)  Artikel 36 Absatz 3 Satz 3, auch in Verbindung mit Satz 4, eine
+    v)  Artikel 36 Absatz 3 Satz 3, auch in Verbindung mit Satz 4, eine
         Untersagung nicht ausführlich begründet oder eine Unterrichtung oder
         Mitteilung nicht oder nicht in der vorgeschriebenen Weise vornimmt
         oder
 
 
-    q)  Artikel 36 Absatz 3 Satz 5 einen Zugang nicht oder nicht rechtzeitig
+    w)  Artikel 36 Absatz 3 Satz 5 einen Zugang nicht oder nicht rechtzeitig
         ermöglicht.
 
 
@@ -3592,7 +3781,8 @@ des Artikels 4 Absatz 1 Nummer 23 der Richtlinie
 
 
 (6) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 600/2014
-verstößt, indem er vorsätzlich oder fahrlässig
+in der Fassung vom 23. Oktober 2024 verstößt, indem er vorsätzlich
+oder fahrlässig
 
 1.  als Marktbetreiber im Sinne des Artikels 4 Absatz 1 Nummer 18 der
     Richtlinie 2014/65/EU,
@@ -3634,7 +3824,7 @@ digitale operationale Resilienz im Finanzsektor und zur Änderung der
 Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
 (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
 durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
-Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
 werden.
 
 (8) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2
