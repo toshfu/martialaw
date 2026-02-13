@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 18 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 62 Abs. 2 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -704,13 +707,14 @@ Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März
 2012 zur Festlegung der technischen Vorschriften und der
 Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
 zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt. Die Übermittlungskosten mit Ausnahme der
-Kosten für die Gutschrift auf dem Konto des Empfängers trägt der
-Dienstherr, die Kontoeinrichtungs-, Kontoführungs- oder
-Buchungsgebühren trägt der Empfänger. Eine Auszahlung auf andere Weise
-kann nur zugestanden werden, wenn dem Empfänger die Einrichtung oder
-Benutzung eines Kontos aus wichtigem Grund nicht zugemutet werden
-kann.
+30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886
+(ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt. Die
+Übermittlungskosten mit Ausnahme der Kosten für die Gutschrift auf dem
+Konto des Empfängers trägt der Dienstherr, die Kontoeinrichtungs-,
+Kontoführungs- oder Buchungsgebühren trägt der Empfänger. Eine
+Auszahlung auf andere Weise kann nur zugestanden werden, wenn dem
+Empfänger die Einrichtung oder Benutzung eines Kontos aus wichtigem
+Grund nicht zugemutet werden kann.
 
 
 ### § 17b Lebenspartnerschaft
