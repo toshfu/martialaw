@@ -39,6 +39,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 29 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Steuerpflicht
 
@@ -1699,111 +1702,7 @@ Steuerfrei sind
     I S. 972) gewährten Leistungen;
 
 
-70. die Hälfte
-
-    a)  der Betriebsvermögensmehrungen oder Einnahmen aus der Veräußerung von
-        Grund und Boden und Gebäuden, die am 1. Januar 2007 mindestens fünf
-        Jahre zum Anlagevermögen eines inländischen Betriebsvermögens des
-        Steuerpflichtigen gehören, wenn diese auf Grund eines nach dem 31.
-        Dezember 2006 und vor dem 1. Januar 2010 rechtswirksam abgeschlossenen
-        obligatorischen Vertrages an eine REIT-Aktiengesellschaft oder einen
-        Vor-REIT veräußert werden,
-
-
-    b)  der Betriebsvermögensmehrungen, die auf Grund der Eintragung eines
-        Steuerpflichtigen in das Handelsregister als REIT-Aktiengesellschaft
-        im Sinne des REIT-Gesetzes vom 28. Mai 2007 (BGBl. I S. 914) durch
-        Anwendung des § 13 Absatz 1 und 3 Satz 1 des
-        Körperschaftsteuergesetzes auf Grund und Boden und Gebäude entstehen,
-        wenn diese Wirtschaftsgüter vor dem 1. Januar 2005 angeschafft oder
-        hergestellt wurden, und die Schlussbilanz im Sinne des § 13 Absatz 1
-        und 3 des Körperschaftsteuergesetzes auf einen Zeitpunkt vor dem 1.
-        Januar 2010 aufzustellen ist.
-
-
-
-    2                   Satz 1 ist nicht anzuwenden,
-
-    a)  wenn der Steuerpflichtige den Betrieb veräußert oder aufgibt und der
-        Veräußerungsgewinn nach § 34 besteuert wird,
-
-
-    b)  soweit der Steuerpflichtige von den Regelungen der §§ 6b und 6c
-        Gebrauch macht,
-
-
-    c)  soweit der Ansatz des niedrigeren Teilwerts in vollem Umfang zu einer
-        Gewinnminderung geführt hat und soweit diese Gewinnminderung nicht
-        durch den Ansatz eines Werts, der sich nach § 6 Absatz 1 Nummer 1 Satz
-        4 ergibt, ausgeglichen worden ist,
-
-
-    d)  wenn im Fall des Satzes 1 Buchstabe a der Buchwert zuzüglich der
-        Veräußerungskosten den Veräußerungserlös oder im Fall des Satzes 1
-        Buchstabe b der Buchwert den Teilwert übersteigt.
-        2                         Ermittelt der Steuerpflichtige den Gewinn
-        nach § 4 Absatz 3, treten an die Stelle des Buchwerts die
-        Anschaffungs- oder Herstellungskosten verringert um die vorgenommenen
-        Absetzungen für Abnutzung oder Substanzverringerung,
-
-
-    e)  soweit vom Steuerpflichtigen in der Vergangenheit Abzüge bei den
-        Anschaffungs- oder Herstellungskosten von Wirtschaftsgütern im Sinne
-        des Satzes 1 nach § 6b oder ähnliche Abzüge voll steuerwirksam
-        vorgenommen worden sind,
-
-
-    f)  wenn es sich um eine Übertragung im Zusammenhang mit Rechtsvorgängen
-        handelt, die dem Umwandlungssteuergesetz unterliegen und die
-        Übertragung zu einem Wert unterhalb des gemeinen Werts erfolgt.
-
-
-
-    3                   Die Steuerbefreiung entfällt rückwirkend, wenn
-
-    a)  innerhalb eines Zeitraums von vier Jahren seit dem Vertragsschluss im
-        Sinne des Satzes 1 Buchstabe a der Erwerber oder innerhalb eines
-        Zeitraums von vier Jahren nach dem Stichtag der Schlussbilanz im Sinne
-        des Satzes 1 Buchstabe b die REIT-Aktiengesellschaft den Grund und
-        Boden oder das Gebäude veräußert,
-
-
-    b)  der Vor-REIT oder ein anderer Vor-REIT als sein Gesamtrechtsnachfolger
-        den Status als Vor-REIT gemäß § 10 Absatz 3 Satz 1 des REIT-Gesetzes
-        verliert,
-
-
-    c)  die REIT-Aktiengesellschaft innerhalb eines Zeitraums von vier Jahren
-        seit dem Vertragsschluss im Sinne des Satzes 1 Buchstabe a oder nach
-        dem Stichtag der Schlussbilanz im Sinne des Satzes 1 Buchstabe b in
-        keinem Veranlagungszeitraum die Voraussetzungen für die
-        Steuerbefreiung erfüllt,
-
-
-    d)  die Steuerbefreiung der REIT-Aktiengesellschaft innerhalb eines
-        Zeitraums von vier Jahren seit dem Vertragsschluss im Sinne des Satzes
-        1 Buchstabe a oder nach dem Stichtag der Schlussbilanz im Sinne des
-        Satzes 1 Buchstabe b endet,
-
-
-    e)  das Bundeszentralamt für Steuern dem Erwerber im Sinne des Satzes 1
-        Buchstabe a den Status als Vor-REIT im Sinne des § 2 Satz 4 des REIT-
-        Gesetzes vom 28. Mai 2007 (BGBl. I S. 914) bestandskräftig aberkannt
-        hat.
-
-
-
-    4                   Die Steuerbefreiung entfällt auch rückwirkend,
-    wenn die Wirtschaftsgüter im Sinne des Satzes 1 Buchstabe a vom
-    Erwerber an den Veräußerer oder eine ihm nahe stehende Person im Sinne
-    des § 1 Absatz 2 des Außensteuergesetzes überlassen werden und der
-    Veräußerer oder eine ihm nahe stehende Person im Sinne des § 1 Absatz
-    2 des Außensteuergesetzes nach Ablauf einer Frist von zwei Jahren seit
-    Eintragung des Erwerbers als REIT-Aktiengesellschaft in das
-    Handelsregister an dieser mittelbar oder unmittelbar zu mehr als 50
-    Prozent beteiligt ist.
-    5                   Der Grundstückserwerber haftet für die sich aus
-    dem rückwirkenden Wegfall der Steuerbefreiung ergebenden Steuern;
+70. (weggefallen)
 
 
 71. der aus einer öffentlichen Kasse gezahlte Zuschuss
@@ -4636,7 +4535,7 @@ bezeichneten Erwerber erfolgt ist.
 1             Steuerpflichtige, die keine Körperschaften,
 Personenvereinigungen oder Vermögensmassen sind, können Gewinne aus
 der Veräußerung von Anteilen an Kapitalgesellschaften bis zu einem
-Betrag von 500 000 Euro auf die im Wirtschaftsjahr der Veräußerung
+Betrag von 2 000 000 Euro auf die im Wirtschaftsjahr der Veräußerung
 oder in den folgenden zwei Wirtschaftsjahren angeschafften Anteile an
 Kapitalgesellschaften oder angeschafften oder hergestellten
 abnutzbaren beweglichen Wirtschaftsgüter oder auf die im
@@ -4656,7 +4555,7 @@ der Anteile an Kapitalgesellschaften in Höhe des Veräußerungsgewinns
 einschließlich des nach § 3 Nummer 40 Satz 1 Buchstabe a und b in
 Verbindung mit § 3c Absatz 2 steuerbefreiten Betrags.
 4             Absatz 2, Absatz 4 Satz 1 Nummer 1, 2, 3, 5 und Satz 2
-sowie Absatz 5 sind sinngemäß anzuwenden.
+sowie Absatz 6 sind sinngemäß anzuwenden.
 5             Soweit Steuerpflichtige den Abzug nach den Sätzen 1 bis
 4 nicht vorgenommen haben, können sie eine Rücklage nach Maßgabe des
 Satzes 1 einschließlich des nach § 3 Nummer 40 Satz 1 Buchstabe a und
@@ -23391,6 +23290,10 @@ Jahr, wenn die Rücklage wegen § 6b Absatz 3 Satz 5, Absatz 8 Satz 1
 Nummer 1 in Verbindung mit Absatz 3 Satz 5 oder Absatz 10 Satz 8 am
 Schluss des nach dem 31. Dezember 2021 und vor dem 1. Januar 2023
 endenden Wirtschaftsjahres aufzulösen wäre.
+7             § 6b Absatz 10 Satz 1 in der am 10. Februar 2026
+geltenden Fassung ist erstmals auf Gewinne aus der Veräußerung von
+Anteilen an Kapitalgesellschaften anzuwenden, die in nach dem 10.
+Februar 2026 beginnenden Wirtschaftsjahren entstanden sind.
 
 (14a) § 6e in der Fassung des Artikels 1 des Gesetzes vom 12. Dezember
 2019 (BGBl. I S. 2451) ist auch in Wirtschaftsjahren anzuwenden, die
