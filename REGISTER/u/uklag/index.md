@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 8.12.2025 I Nr. 318
+:   Art. 62 G v. 4.2.2026 I Nr. 33
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen
@@ -1293,8 +1293,8 @@ allgemeinen Vorschriften tritt.
         Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften
         und der Geschäftsanforderungen für Überweisungen und Lastschriften in
         Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-        30\.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L
-        84 vom 20.3.2014, S. 1) geändert worden ist,
+        30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) Nr. 2024/886
+        (ABl. L, 2024/886, 19.3.2024) geändert worden ist,
 
 
     d)  der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates
