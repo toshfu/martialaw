@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.11.2022 I 2087
 
+Änderung durch
+:   Art. 41 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
     Diese Verordnung dient der weiteren Umsetzung der aufsichtsrechtlichen
     Vorschriften der Richtlinie 2007/64/EG des Europäischen Parlaments und
     des Rates vom 13. November 2007 über Zahlungsdienste im Binnenmarkt,
@@ -771,12 +774,17 @@ Maßgeblich ist das Datum der Ausstellung des Führungszeugnisses. § 5c
 Absatz 3 bis 5 der Anzeigenverordnung finden entsprechende Anwendung.
 
 (4) Die in der Absichtsanzeige nach § 28 Absatz 1 Nummer 1 des
-Zahlungsdiensteaufsichtsgesetzes genannten Personen haben bei der
-Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150
-der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person
-keinen Wohnsitz in Deutschland hat oder gehabt hat oder keine
-berufliche Tätigkeit in Deutschland ausübt oder ausgeübt hat. Absatz 3
-Satz 2 und 3 finden entsprechende Anwendung.
+Zahlungsdiensteaufsichtsgesetzes genannten Personen haben beim
+Bundesamt für Justiz einen Auszug aus dem Gewerbezentralregister nach
+§ 150 Absatz 5 der Gewerbeordnung zur Vorlage bei der Bundesanstalt zu
+beantragen. Satz 1 gilt nicht, wenn die Person weder in den letzten
+zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatte
+noch in den letzten zehn Jahren in der Bundesrepublik Deutschland eine
+berufliche Tätigkeit ausgeübt hat. Sofern der Bundesanstalt bereits
+ein Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der
+Gewerbeordnung vorliegt, dessen Beantragung nicht mehr als zwölf
+Monate zurückliegt, ist keine erneute Beantragung beim Bundesamt für
+Justiz erforderlich.
 
 (5) Der Anzeige sind der Anstellungsvertrag sowie das geplante
 Anfangsdatum und die geplante Dauer des Mandats, eine Beschreibung der
