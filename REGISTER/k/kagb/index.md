@@ -19,7 +19,10 @@ Zuletzt geändert durch
 :   Art. 6 G v. 27.12.2024 I Nr. 438
 
 Änderung durch
-:   Art. 7 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 50 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 51 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften
@@ -265,6 +268,22 @@ folgt bestimmt:
     in vollem Umfang zuzurechnen.
 
 
+6a. Die Bewirtschaftung von erneuerbaren Energien im Sinne dieses Gesetzes
+    umfasst die Erzeugung, die Umwandlung, den Transport oder die
+    Speicherung von erneuerbaren Energien nach § 3 Nummer 21 des
+    Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das
+    zuletzt durch Artikel 23 des Gesetzes vom 18. Dezember 2025 (BGBl.
+    2025 I Nr. 347) geändert worden ist, in der jeweils geltenden Fassung,
+    oder Wärme aus erneuerbaren Energien nach § 3 Absatz 1 Nummer 15 des
+    Wärmeplanungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394),
+    das zuletzt durch Artikel 9 des Gesetzes vom 22. Dezember 2025 (BGBl.
+    2025 I Nr. 348) geändert worden ist, in der jeweils geltenden Fassung,
+    sowie den Transport oder die Speicherung von technisch unvermeidbarer
+    Abwärme nach § 3 Nummer 27 des Energieeffizienzgesetzes vom 13.
+    November 2023 (BGBl. 2023 I Nr. 209), in der jeweils geltenden
+    Fassung.
+
+
 7.  Carried interest ist der Anteil an den Gewinnen des AIF, den eine AIF-
     Verwaltungsgesellschaft als Vergütung für die Verwaltung des AIF
     erhält; der carried interest umfasst nicht den Anteil der AIF-
@@ -438,9 +457,8 @@ folgt bestimmt:
 
 
 22. Immobilien-Gesellschaften sind Gesellschaften, die nach dem
-    Gesellschaftsvertrag oder der Satzung nur Immobilien sowie die zur
-    Bewirtschaftung der Immobilien erforderlichen Gegenstände erwerben
-    dürfen.
+    Gesellschaftsvertrag oder der Satzung nur Immobilien sowie die in §
+    231 Absatz 3 genannten Gegenstände erwerben dürfen.
 
 
 23. Immobilien-Sondervermögen sind Sondervermögen, die nach den
@@ -15357,7 +15375,18 @@ Sondervermögen nur folgende Vermögensgegenstände erwerben:
     Sondervermögens nicht übersteigen;
 
 
-7.  die in den §§ 234 und 253 genannten Vermögensgegenstände.
+7.  die in den §§ 234 und 253 genannten Vermögensgegenstände;
+
+
+8.  Beteiligungen an Infrastruktur-Projektgesellschaften, deren
+    Unternehmensgegenstand im Gesellschaftsvertrag oder in der Satzung
+    darauf beschränkt ist, Anlagen zu errichten, zu erwerben, zu
+    betreiben, zu bewirtschaften oder zu halten, die zur Bewirtschaftung
+    von erneuerbaren Energien im Sinne von § 1 Absatz 19 Nummer 6a
+    bestimmt und geeignet sind, wenn zur Zeit des Erwerbs der Beteiligung
+    ihr Wert zusammen mit dem Wert weiterer solcher Beteiligungen, die
+    sich bereits in dem Sondervermögen befinden, 15 Prozent des Wertes des
+    Sondervermögens nicht übersteigt.
 
 
 
@@ -15408,19 +15437,36 @@ Vereinbarungen über die Bemessung des Erbbauzinses und über dessen
 etwaige spätere Änderung.
 
 (3) Für ein Immobilien-Sondervermögen dürfen auch Gegenstände erworben
-werden, die zur Bewirtschaftung der Vermögensgegenstände des
-Immobilien-Sondervermögens erforderlich sind.
+werden, die
+
+1.  zur Bewirtschaftung der Vermögensgegenstände des Immobilien-
+    Sondervermögens erforderlich sind,
+
+
+2.  der Bewirtschaftung von erneuerbaren Energien im Sinne von § 1 Absatz
+    19 Nummer 6a dienen, oder
+
+
+3.  für den Betrieb von Ladestationen für Elektromobilität erforderlich
+    sind.
+
+
+
 
 (4) Bei der Berechnung des Wertes des Sondervermögens gemäß Absatz 1
-Satz 1 Nummer 2, 3, 5 und 6, § 232 Absatz 4 sowie bei der Angabe des
-Anteils des Sondervermögens gemäß § 233 Absatz 1 Nummer 3 werden die
-aufgenommenen Darlehen nicht abgezogen.
+Satz 1 Nummer 2, 3, 5, 6 und 8, § 232 Absatz 4 sowie bei der Angabe
+des Anteils des Sondervermögens gemäß § 233 Absatz 1 Nummer 3 werden
+die aufgenommenen Darlehen nicht abgezogen.
 
 (5) Im Fall des § 234 sind die von der Immobilien-Gesellschaft
 gehaltenen Vermögensgegenstände bei dem Immobilien-Sondervermögen bei
 der Anwendung der in den Absätzen 1 und 2, §§ 232 und 233 genannten
 Anlagebeschränkungen und der Berechnung der dort genannten Grenzen
 entsprechend der Beteiligungshöhe zu berücksichtigen.
+
+(6) Gegenstände nach Absatz 3 dürfen auch von der
+Kapitalverwaltungsgesellschaft für das Immobilien-Sondervermögen
+betrieben werden.
 
 
 ##### § 232 Erbbaurechtsbestellung
@@ -16618,8 +16664,8 @@ geschlossenen inländischen Publikums-AIF nur investieren in
 3.  Luftfahrzeuge, Luftfahrzeugbestand- und -ersatzteile,
 
 
-4.  Anlagen zur Erzeugung, zum Transport und zur Speicherung von Strom,
-    Gas oder Wärme aus erneuerbaren Energien,
+4.  Anlagen zur Bewirtschaftung von erneuerbaren Energien im Sinne von § 1
+    Absatz 19 Nummer 6a,
 
 
 5.  Schienenfahrzeuge, Schienenfahrzeugbestand- und -ersatzteile,
@@ -17993,8 +18039,7 @@ bis 211, 218 bis 224 und 230 bis 260d abweichen, wenn
     f)  Beteiligungen an Immobilien-Gesellschaften,
 
 
-    g)  Anteile oder Aktien an inländischen offenen Investmentvermögen sowie
-        an entsprechenden offenen EU- oder ausländischen Investmentvermögen,
+    g)  Anteile oder Aktien an Investmentvermögen,
 
 
     h)  Beteiligungen an ÖPP-Projektgesellschaften und Infrastruktur-
@@ -23748,10 +23793,10 @@ gemeinsame Anlagen und zur Änderung der Verordnungen (EU) Nr.
 (6h) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des
 Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die
 digitale operationale Resilienz im Finanzsektor und zur Änderung der
-Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
+Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
 (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
 durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
-Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
 werden.
 
 (7) Die Ordnungswidrigkeit kann wie folgt geahndet werden:
