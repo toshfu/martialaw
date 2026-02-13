@@ -34,6 +34,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 12 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -6076,19 +6079,15 @@ von ihm mit der Zahlung beauftragten Geldinstitut.
 
 (3) Geldleistungen, die für die Zeit nach dem Tod des Berechtigten auf
 ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
-260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012
-zur Festlegung der technischen Vorschriften und der
-Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
-zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt, überwiesen wurden, gelten als unter Vorbehalt
-erbracht. Das Geldinstitut hat sie der überweisenden Stelle oder dem
-Träger der Rentenversicherung zurückzuüberweisen, wenn diese sie als
-zu Unrecht erbracht zurückfordern. Eine Verpflichtung zur
-Rücküberweisung besteht nicht, soweit über den entsprechenden Betrag
-bei Eingang der Rückforderung bereits anderweitig verfügt wurde, es
-sei denn, dass die Rücküberweisung aus einem Guthaben erfolgen kann.
-Das Geldinstitut darf den überwiesenen Betrag nicht zur Befriedigung
-eigener Forderungen verwenden.
+260/2012 gilt, überwiesen wurden, gelten als unter Vorbehalt erbracht.
+Das Geldinstitut hat sie der überweisenden Stelle oder dem Träger der
+Rentenversicherung zurückzuüberweisen, wenn diese sie als zu Unrecht
+erbracht zurückfordern. Eine Verpflichtung zur Rücküberweisung besteht
+nicht, soweit über den entsprechenden Betrag bei Eingang der
+Rückforderung bereits anderweitig verfügt wurde, es sei denn, dass die
+Rücküberweisung aus einem Guthaben erfolgen kann. Das Geldinstitut
+darf den überwiesenen Betrag nicht zur Befriedigung eigener
+Forderungen verwenden.
 
 (4) Soweit Geldleistungen für die Zeit nach dem Tod des Berechtigten
 zu Unrecht erbracht worden sind, sind sowohl die Personen, die die
