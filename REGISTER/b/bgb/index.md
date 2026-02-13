@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2025 I Nr. 364
+:   Art. 2 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
 :   Art. 1 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -4643,10 +4643,14 @@ ihrer Geltung einverstanden ist,
         Telekommunikationsdienstleistung in einem Mal erbracht werden, wenn
         die Allgemeinen Geschäftsbedingungen der anderen Vertragspartei nur
         unter unverhältnismäßigen Schwierigkeiten vor dem Vertragsschluss
-        zugänglich gemacht werden können.
+        zugänglich gemacht werden können,
 
 
 
+
+
+3.  die genehmigten Anlagebedingungen von
+    Kapitalverwaltungsgesellschaften.
 
 
 
