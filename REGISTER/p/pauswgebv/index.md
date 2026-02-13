@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 10 V v. 30.10.2023 I Nr. 290
 
 Änderung durch
-:   Art. 4 V v. 30.1.2026 I Nr. 31 mWv 7.2.2026 noch nicht berücksichtigt
+:   Art. 4 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -36,11 +36,11 @@ das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
 (1) Für die Ausstellung eines Personalausweises sind folgende Gebühren
 zu erheben:
 
-1.  22,80 Euro für einen Personalausweis, dessen Inhaber im Zeitpunkt der
-    Antragstellung noch nicht 24 Jahre alt ist,
+1.  27,60 Euro Euro für einen Personalausweis, dessen Inhaber im Zeitpunkt
+    der Antragstellung noch nicht 24 Jahre alt ist,
 
 
-2.  37 Euro in allen anderen Fällen.
+2.  46 Euro in allen anderen Fällen.
 
 
 
@@ -69,7 +69,7 @@ antragstellenden Person
     im Ausland hat, vorgenommen wird,
 
 
-2.  um 41 Euro, wenn die Amtshandlung von einer konsularischen oder
+2.  um 43 Euro, wenn die Amtshandlung von einer konsularischen oder
     diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland
     vorgenommen wird,
 
@@ -88,7 +88,10 @@ antragstellenden Person
 Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 
 (6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden,
-wenn die Person, die die Gebühr schuldet, bedürftig ist.
+wenn die Person, die die Gebühr schuldet, bedürftig ist. Eine
+Bedürftigkeit im Sinne von Satz 1 liegt nicht schon dann vor, wenn
+Leistungen nach dem Zweiten Buch Sozialgesetzbuch oder nach dem
+Zwölften Buch Sozialgesetzbuch bezogen werden.
 
 
 ## § 2 Gebühr für die eID-Karte
