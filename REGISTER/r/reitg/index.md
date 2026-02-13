@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 914
 
 Zuletzt geändert durch
-:   Art. 63 G v. 10.8.2021 I 3436
+:   Art. 25 G v. 4.2.2026 I Nr. 33
 
 
 
@@ -105,23 +105,7 @@ Abschlussprüfers oder Konzernabschlussprüfers ist § 323 des
 Handelsgesetzbuchs entsprechend anzuwenden.
 
 
-### § 2 Vor-REIT
-
-Ein Vor-REIT ist eine Aktiengesellschaft mit Sitz im Geltungsbereich
-dieses Gesetzes, die beim Bundeszentralamt für Steuern als Vor-REIT
-registriert ist. Zum Ende des auf die Registrierung folgenden
-Geschäftsjahres hat der Vor-REIT gegenüber dem Bundeszentralamt für
-Steuern nachzuweisen, dass sein Unternehmensgegenstand im Sinne des §
-1 Abs. 1 erster Halbsatz beschränkt ist. Zum Ende des dem Jahr der
-Anmeldung folgenden und jedes darauf folgenden Geschäftsjahres hat der
-Vor-REIT auf Aufforderung des Bundeszentralamts für Steuern innerhalb
-einer in der Aufforderung bestimmten Frist durch Vorlage von
-geeigneten, von einem Wirtschaftsprüfer testierten Unterlagen
-nachzuweisen, dass er die Voraussetzungen des § 12 erfüllt. Erfüllt
-der Vor-REIT zum Ende des dem Jahr der Anmeldung folgenden oder eines
-späteren Geschäftsjahres die Voraussetzungen des § 12 und des § 1 Abs.
-1 erster Halbsatz nicht oder nicht mehr, entfällt der Status als Vor-
-REIT zum Ende dieses Geschäftsjahres.
+### § 2 (weggefallen)
 
 
 ### § 3 Begriffsbestimmung
@@ -133,11 +117,29 @@ Gesellschaftsvertrag nur Vermögensgegenstände im Sinne des Absatzes 7
 mit Ausnahme von Beteiligungen an Auslandsobjektgesellschaften und
 REIT-Dienstleistungsgesellschaften erwerben dürfen.
 
-(2) REIT-Dienstleistungsgesellschaften sind Kapitalgesellschaften,
-deren sämtliche Anteile von der REIT-Aktiengesellschaft gehalten
-werden und deren Unternehmensgegenstand darauf beschränkt ist,
-entgeltliche immobiliennahe Nebentätigkeiten im Auftrag der REIT-
-Aktiengesellschaft für Dritte zu erbringen.
+(2) REIT-Dienstleistungsgesellschaften sind Kapitalgesellschaften, an
+denen die REIT-Aktiengesellschaft mindestens 25 Prozent der Anteile
+hält und deren Unternehmensgegenstand darauf beschränkt ist,
+
+1.  entgeltliche immobiliennahe Nebentätigkeiten im Auftrag der REIT-
+    Aktiengesellschaft für Dritte zu erbringen,
+
+
+2.  Anlagen zur Bewirtschaftung von erneuerbaren Energien im Sinne von § 1
+    Absatz 19 Nummer 6a des Kapitalanlagegesetzbuchs in, an oder auf dem
+    direkt oder indirekt gehaltenen Immobilienbestand der REIT-
+    Aktiengesellschaft zu betreiben und die Energie oder die Energieträger
+    entgeltlich oder unentgeltlich an die REIT-Aktiengesellschaft, die
+    Nutzer der Immobilien der REIT-Aktiengesellschaft sowie an die Nutzer
+    der Immobilien der mit der REIT-Aktiengesellschaft verbundenen
+    Unternehmen oder an Dritte zu liefern oder
+
+
+3.  im oder am direkt oder indirekt gehaltenen Immobilienbestand der REIT-
+    Aktiengesellschaft Ladestationen für Elektromobilität zu betreiben.
+
+
+
 
 (3) Auslandsobjektgesellschaften sind Kapitalgesellschaften, deren
 sämtliche Anteile von der REIT-Aktiengesellschaft gehalten werden und
@@ -172,14 +174,18 @@ Projektentwicklung).
 
 (7) Vermögensgegenstände im Sinne dieses Gesetzes sind unbewegliches
 Vermögen im Sinne des Absatzes 8, ferner zu dessen Bewirtschaftung
-erforderliche Gegenstände sowie Bankguthaben, Geldmarktinstrumente,
-Forderungen und Verbindlichkeiten, die aus der Nutzung oder
-Veräußerung des unbeweglichen Vermögens stammen oder zum Zwecke der
-Wertsicherung, Bewirtschaftung oder Bestandsveränderung dieser
-Vermögensgegenstände bereitgehalten, eingegangen oder begründet
-werden, sowie Beteiligungen an Immobilienpersonengesellschaften,
-Auslandsobjektgesellschaften, REIT-Dienstleistungsgesellschaften sowie
-Kapitalgesellschaften im Sinne des § 1 Abs. 1 Nr. 5.
+erforderliche Gegenstände, Gegenstände zur Bewirtschaftung von
+erneuerbaren Energien im Sinne von § 1 Absatz 19 Nummer 6a des
+Kapitalanlagegesetzbuchs oder Gegenstände, die für den Betrieb von
+Ladestationen für Elektromobilität erforderlich sind, sowie
+Bankguthaben, Geldmarktinstrumente, Forderungen und Verbindlichkeiten,
+die aus der Nutzung oder Veräußerung des unbeweglichen Vermögens
+stammen oder zum Zwecke der Wertsicherung, Bewirtschaftung oder
+Bestandsveränderung dieser Vermögensgegenstände bereitgehalten,
+eingegangen oder begründet werden, sowie Beteiligungen an
+Immobilienpersonengesellschaften, Auslandsobjektgesellschaften, REIT-
+Dienstleistungsgesellschaften sowie Kapitalgesellschaften im Sinne des
+§ 1 Abs. 1 Nr. 5.
 
 (8) Unbewegliches Vermögen sind Grundstücke und grundstücksgleiche
 Rechte sowie vergleichbare Rechte nach dem Recht anderer Staaten.
@@ -275,9 +281,11 @@ Aktiengesellschaft zustehen. Die Berechnung richtet sich nach den §§
 
 (2) Die REIT-Aktiengesellschaft hat jährlich zum 31. Dezember
 gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht die
-Streubesitzquote ihrer Aktionäre mitzuteilen. Die Bundesanstalt für
-Finanzdienstleistungsaufsicht teilt dem Bundeszentralamt für Steuern
-mit, wenn die Quote von 15 Prozent unterschritten wird.
+Streubesitzquote ihrer Aktionäre sowie das für die Besteuerung ihres
+Einkommens nach § 20 der Abgabenordnung zuständige Finanzamt
+mitzuteilen. Die Bundesanstalt für Finanzdienstleistungsaufsicht teilt
+diesem Finanzamt mit, wenn die Streubesitzquote von 15 Prozent
+unterschritten wird.
 
 (3) Die REIT-Aktiengesellschaft hat in ihrer Satzung für den Fall der
 Beendigung der Steuerbefreiung gemäß § 18 Abs. 3 eine Entschädigung
@@ -317,14 +325,14 @@ Konzernabschluss nach Absatz 1 abzüglich der
 Ausschüttungsverpflichtung im Sinne des § 13 Abs. 1 und der Rücklagen
 im Sinne des § 13 Abs. 3
 
-a)  müssen zum Ende eines jeden Geschäftsjahres mindestens 75 Prozent der
+1.  müssen zum Ende eines jeden Geschäftsjahres mindestens 65 Prozent der
     Aktiva zum unbeweglichen Vermögen gehören und
 
 
-b)  dürfen die Aktiva, die zum Vermögen von in den Konzernabschluss der
+2.  dürfen die Aktiva, die zum Vermögen von in den Konzernabschluss der
     REIT-Aktiengesellschaft einzubeziehenden REIT-
     Dienstleistungsgesellschaften gehören, zum Ende eines jeden
-    Geschäftsjahres höchstens 20 Prozent ausmachen.
+    Geschäftsjahres höchstens 30 Prozent ausmachen.
 
 
 
@@ -333,16 +341,16 @@ b)  dürfen die Aktiva, die zum Vermögen von in den Konzernabschluss der
 Erträge aus unbeweglichem Vermögen eines Geschäftsjahres gemäß Einzel-
 bzw. Konzernabschluss nach Absatz 1
 
-a)  müssen mindestens 75 Prozent der Umsatzerlöse zuzüglich der sonstigen
+1.  müssen mindestens 65 Prozent der Umsatzerlöse zuzüglich der sonstigen
     Erträge aus unbeweglichem Vermögen eines Geschäftsjahres aus
     Vermietung, Leasing, Verpachtung einschließlich immobiliennaher
     Tätigkeiten oder Veräußerung von unbeweglichem Vermögen stammen und
 
 
-b)  darf die Summe der Umsatzerlöse zuzüglich der sonstigen Erträge aus
+2.  darf die Summe der Umsatzerlöse zuzüglich der sonstigen Erträge aus
     unbeweglichem Vermögen eines Geschäftsjahres von REIT-
     Dienstleistungsgesellschaften, die in den Konzernabschluss der REIT-
-    Aktiengesellschaft einzubeziehen sind, höchstens 20 Prozent ausmachen.
+    Aktiengesellschaft einzubeziehen sind, höchstens 30 Prozent ausmachen.
 
 
 
@@ -456,20 +464,20 @@ Doppelbesteuerungsabkommen. Die Vorschriften des
 Wertpapierhandelsgesetzes bleiben unberührt.
 
 (3) Besteht das gesamte Vermögen der inländischen REIT-
-Aktiengesellschaft zum Ende eines Wirtschaftsjahres zu weniger als 75
+Aktiengesellschaft zum Ende eines Wirtschaftsjahres zu weniger als 65
 Prozent aus unbeweglichem Vermögen gemäß der Berechnung nach § 12,
 setzt die zuständige Finanzbehörde eine Zahlung gegen die
 Aktiengesellschaft fest. Die Zahlung beträgt mindestens 1 Prozent und
 höchstens 3 Prozent des Betrages, um den der Anteil des unbeweglichen
-Vermögens hinter dem Anteil von 75 Prozent zurückbleibt. Bei der
+Vermögens hinter dem Anteil von 65 Prozent zurückbleibt. Bei der
 Festsetzung der Zahlung berücksichtigt die Finanzbehörde, ob und wie
 oft bereits in früheren Wirtschaftsjahren das unbewegliche Vermögen
-hinter der Vorgabe von 75 Prozent zurückgeblieben ist. Eine Zahlung
+hinter der Vorgabe von 65 Prozent zurückgeblieben ist. Eine Zahlung
 nach diesem Absatz kann auch neben einer Zahlung nach Absatz 4 oder 5
 festgesetzt werden, wenn jeweils die Voraussetzungen für die Zahlung
 erfüllt sind.
 
-(4) Stammen in einem Wirtschaftsjahr weniger als 75 Prozent der
+(4) Stammen in einem Wirtschaftsjahr weniger als 65 Prozent der
 Bruttoerträge der inländischen REIT-Aktiengesellschaft aus der
 Vermietung und Verpachtung oder der Veräußerung von unbeweglichem
 Vermögen gemäß der Berechnung nach § 12, setzt die zuständige
@@ -477,7 +485,7 @@ Finanzbehörde eine Zahlung gegen die Aktiengesellschaft fest. Die
 Zahlung beträgt mindestens 10 Prozent und höchstens 20 Prozent des
 Betrages, um den die Bruttoerträge aus der Vermietung und Verpachtung
 oder der Veräußerung von unbeweglichem Vermögen hinter der Vorgabe von
-75 Prozent der Bruttoerträge zurückbleiben. Absatz 3 Satz 3 und 4 ist
+65 Prozent der Bruttoerträge zurückbleiben. Absatz 3 Satz 3 und 4 ist
 entsprechend anzuwenden.
 
 (5) Schüttet eine inländische REIT-Aktiengesellschaft bis zum Ende des
