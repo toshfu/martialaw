@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 1354 (2019 I 400)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 17.7.2025 I Nr. 172
-
-Änderung durch
-:   Art. 14 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 22.12.2025 I Nr. 369
 
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
