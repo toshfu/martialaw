@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3822
 
 Zuletzt geändert durch
-:   Art. 8 G v. 11.12.2023 I Nr. 354
+:   Art. 13 G v. 4.2.2026 I Nr. 33
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
