@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 896
 
 Zuletzt geändert durch
-:   Art. 3 V v. 28.4.2022 I 700
-
-Änderung durch
-:   Art. 9 Abs. 3 G v. 30.9.2025 I Nr. 233 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 Abs. 3 G v. 30.9.2025 I Nr. 233
 
 Stand: § 4 Abs. 2 und § 6 Abs. 1 u. 3 bis 6 treten gem. § 15 Abs. 2 dieser V am 1.1.2019 in Kraft
 Stand: Ersetzt V 2129-27-2-15 v. 19.6.2002 I 1938 (GewAbfV)
