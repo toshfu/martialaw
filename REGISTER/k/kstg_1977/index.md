@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 30 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Steuerpflicht
 
@@ -1361,12 +1364,15 @@ oder Aufgabe eines Mitunternehmeranteils auf Anteile im Sinne des
 Absatzes 2 entfallen.
 2             Die Absätze 1 bis 5 gelten für Bezüge und Gewinne, die
 einem Betrieb gewerblicher Art einer juristischen Person des
-öffentlichen Rechts über andere juristische Personen des öffentlichen
-Rechts zufließen, über die sie mittelbar an der leistenden
-Körperschaft, Personenvereinigung oder Vermögensmasse beteiligt ist
-und bei denen die Leistungen nicht im Rahmen eines Betriebs
-gewerblicher Art erfasst werden, und damit in Zusammenhang stehende
-Gewinnminderungen entsprechend.
+öffentlichen Rechts oder einer Kapitalgesellschaft, die auf Grund
+ihrer Satzung eine am Gemeinwohl orientierte Aufgabenstellung im
+Kreditwesen aufweist und deren Schwerpunkt der Geschäftstätigkeit in
+dem Wirtschaftsraum liegt, in dem sie ihren Sitz hat, über eine oder
+mehrere juristische Personen des öffentlichen Rechts zufließen, über
+die sie mittelbar an der leistenden Körperschaft, Personenvereinigung
+oder Vermögensmasse beteiligt ist und bei denen die Leistungen nicht
+im Rahmen eines Betriebs gewerblicher Art erfasst werden, und damit in
+Zusammenhang stehende Gewinnminderungen entsprechend.
 
 (7)
 1             Die Absätze 1 bis 6 sind nicht auf Anteile anzuwenden,
@@ -3478,7 +3484,14 @@ offenen Fälle anzuwenden.
 5             § 8b Absatz 4 Satz 8 in der Fassung des Artikels 6 des
 Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Veranlagungszeitraum 2018 anzuwenden.
-6             § 8b Absatz 7 Satz 1 in der am 1. Januar 2017 geltenden
+6             § 8b Absatz 6 Satz 2 in der am 10. Februar 2026
+geltenden Fassung ist erstmals für den Veranlagungszeitraum 2026
+anzuwenden.
+7             Auf Antrag des Steuerpflichtigen ist § 8b Absatz 6 Satz
+2 in der am 10. Februar 2026 geltenden Fassung auch für frühere
+Veranlagungszeiträume anzuwenden; der Antrag ist unwiderruflich und
+gilt für alle noch nicht bestandskräftig veranlagten Zeiträume.
+8             § 8b Absatz 7 Satz 1 in der am 1. Januar 2017 geltenden
 Fassung ist erstmals für den Veranlagungszeitraum 2017 anzuwenden; §
 8b Absatz 7 Satz 2 in der am 1. Januar 2017 geltenden Fassung ist
 anzuwenden auf Anteile, die nach dem 31. Dezember 2016 dem
