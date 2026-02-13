@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 16.1.2026 I Nr. 14
 
+Änderung durch
+:   Art. 54 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 55 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 56 G v. 4.2.2026 I Nr. 33 mWv 10.1.2028 bzw. 10.1.2030 noch nicht berücksichtigt
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
 die Aufnahme und Ausübung der Versicherungs- und der
@@ -74,9 +83,9 @@ Erreichen einer Mindestverzinsung abgeben.
 öffentlichen Dienstes oder der Kirchen, die ausschließlich die
 Alters-, Invaliditäts- oder Hinterbliebenenversorgung zum Gegenstand
 haben, gelten nur § 12 Absatz 1, die §§ 13, 37 Absatz 1, § 38 Absatz
-1, die §§ 39, 47 Nummer 12 sowie die §§ 294 bis 298, 300, 302, 305 bis
-307, §§ 310 bis 312 und 314. Für die nach Landesrecht errichteten und
-der Landesaufsicht unterliegenden Versicherungsunternehmen kann das
+1, § 39 sowie die §§ 294 bis 298, 300, 302, 305 bis 307, §§ 310 bis
+312 und 314. Für die nach Landesrecht errichteten und der
+Landesaufsicht unterliegenden Versicherungsunternehmen kann das
 Landesrecht Abweichendes bestimmen.
 
 (4) Für Einrichtungen der in § 140 Absatz 1 des Siebten Buches
@@ -881,7 +890,7 @@ Rückstellungen nach dem Handelsgesetzbuch abzugeben.
     Unternehmen hinweisen;
 
 
-4.  für Pflichtversicherungen die allgemeinen Versicherungsbedingungen;
+4.  (weggefallen)
 
 
 5.  für die Krankenversicherung im Sinne des § 146 Absatz 1
@@ -3111,7 +3120,7 @@ Folgendes anzuzeigen:
 
 
 9.  nach Vertragsschluss eingetretene wesentliche Umstände in Bezug auf
-    wichtige ausgegliederte Funktionen und Versicherungstätigkeiten,
+    wichtige ausgegliederte Funktionen und Versicherungstätigkeiten und
 
 
 10. die mittelbare oder unmittelbare Absicherung von Schadenrisiken oder
@@ -3121,24 +3130,7 @@ Folgendes anzuzeigen:
     dabei sind der Emissionsprospekt, die dem Risikotransfer zugrunde
     liegenden vertraglichen Regelungen sowie eine Aufstellung der
     identifizierten Risiken der Transaktion für das
-    Versicherungsunternehmen beizufügen,
-
-
-11. wenn es sich um ein Erstversicherungsunternehmen handelt, den Erwerb
-    von Beteiligungen, bei Beteiligungen in Aktien oder sonstigen Anteilen
-    jedoch nur, wenn die Beteiligung 10 Prozent des Nennkapitals der
-    fremden Gesellschaft übersteigt; dabei werden Beteiligungen mehrerer
-    zu einem Konzern im Sinne des § 18 des Aktiengesetzes gehörender
-    Versicherungsunternehmen und des herrschenden Unternehmens an einer
-    Gesellschaft zusammengerechnet,
-
-
-12. wenn es sich um ein Erstversicherungsunternehmen handelt, Anlagen bei
-    einem im Sinne des § 15 des Aktiengesetzes verbundenen Unternehmen und
-
-
-13. bei Pflichtversicherungen die beabsichtigte Verwendung neuer oder
-    geänderter allgemeiner Versicherungsbedingungen unter deren Beifügung.
+    Versicherungsunternehmen beizufügen.
 
 
 
@@ -3938,11 +3930,10 @@ des Herkunftsstaats der Bundesanstalt die in Artikel 148 Absatz 1 und
 2 der Richtlinie 2009/138/EG bezeichneten Angaben übermittelt und das
 Unternehmen hiervon in Kenntnis gesetzt hat.
 
-(4) Der Betrieb der Krankenversicherung im Sinne des § 146 Absatz 1
-sowie von Pflichtversicherungen in den in den Absätzen 2 und 3
-bezeichneten Fällen ist erst zulässig, wenn das Unternehmen der
-Bundesanstalt die allgemeinen Versicherungsbedingungen eingereicht
-hat.
+(4) Der Betrieb der Krankenversicherung im Sinne des § 146 Absatz 1 in
+den in den Absätzen 2 und 3 bezeichneten Fällen ist erst zulässig,
+wenn das Unternehmen der Bundesanstalt die allgemeinen
+Versicherungsbedingungen eingereicht hat.
 
 (5) Die Bundesanstalt unterrichtet die Aufsichtsbehörden der anderen
 Mitglied- oder Vertragsstaaten fortlaufend über solche
@@ -7663,7 +7654,8 @@ Für die Berechnung der Deckungsrückstellung von Renten in der
 Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-
 Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der
 Allgemeinen Unfallversicherung ohne Rückgewähr der Prämie sind § 141
-Absatz 1 bis 3, 5 und 6 sowie § 145 Absatz 4 entsprechend anzuwenden.
+Absatz 1 bis 3, 5 und 6 Nummer 1 sowie § 145 Absatz 4 entsprechend
+anzuwenden.
 
 
 ##### § 163 Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung
@@ -9515,7 +9507,7 @@ Rechnung. Er ermittelt unverzüglich den für die vollständige Bedeckung
 der Verpflichtungen aus den Versicherungsverträgen erforderlichen
 Betrag und stellt geeignete qualifizierte Vermögensgegenstände bereit.
 § 15 Absatz 1, § 23 Absatz 1 und 2 bis 6, § 26 Absatz 2, 5 und 6, § 28
-Absatz 2 sowie die §§ 30, 32, 47 Nummer 8 bis 11, § 88 Absatz 3, die
+Absatz 2 sowie die §§ 30, 32, 47 Nummer 8 bis 10, § 88 Absatz 3, die
 §§ 124, 138, 139, 141, 142, 143 zweiter Halbsatz, die §§ 146 bis 160
 und 336 sowie die auf Grundlage des § 39 Absatz 1 Satz 1 Nummer 1 bis
 4, 6 und 7 erlassenen Rechtsverordnungen gelten insoweit entsprechend.
@@ -9663,7 +9655,7 @@ entsprechend Anwendung:
     dieser Personen bezieht, und
 
 
-10. § 47 Nummer 5 bis 7 und 12.
+10. § 47 Nummer 5 bis 7.
 
 
 
@@ -13687,9 +13679,14 @@ anzuwenden.
 Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16
 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306,
 310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a
-entsprechend; § 299 bleibt unberührt. Für Unternehmen, die auch das
-Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2
-nur die Vorschriften über die Beaufsichtigung von Erst- oder
+entsprechend; § 299 bleibt unberührt. Die §§ 17 und 18 sind nicht
+anzuwenden, sofern zugleich die Absicht des Erwerbs, der Erhöhung, der
+Aufgabe oder der Verringerung einer bedeutenden Beteiligung an einem
+Versicherungsunternehmen besteht oder unabsichtlich eine bedeutende
+Beteiligung an einem Versicherungsunternehmen erworben, erhöht,
+aufgegeben oder verringert wurde. Für Unternehmen, die auch das Erst-
+oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur
+die Vorschriften über die Beaufsichtigung von Erst- oder
 Rückversicherungsunternehmen.
 
 (2) In den Fällen des § 287 kann die Aufsichtsbehörde die
@@ -13712,10 +13709,10 @@ Unternehmen nach Absatz 4 gelten die Vorgaben der Verordnung (EU)
 2022/2554, die Vorgaben der auf Grundlage der Verordnung (EU)
 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses
 Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen.
-Anstelle der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 gilt
-der vereinfachte              Informations- und
-Kommunikationstechnologien-Risikomanagementrahmen (IKT-
-Risikomanagementrahmen) nach Artikel 16 der Verordnung (EU) 2022/2554.
+Anstelle der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 gilt der
+vereinfachte Informations- und Kommunikationstechnologien-
+Risikomanagementrahmen (IKT-Risikomanagementrahmen) nach Artikel 16
+der Verordnung (EU) 2022/2554.
 
 
 ## Teil 6 - Aufsicht: Aufgaben und allgemeine Befugnisse, Organisation
@@ -16104,7 +16101,7 @@ bestraft, wer
 
 2.  entgegen § 61 Absatz 2 Satz 2 oder Satz 5, Absatz 3 oder Absatz 4 eine
     dort genannte Geschäftstätigkeit aufnimmt, erweitert oder ändert oder
-    eine Krankenversicherung oder eine Pflichtversicherung betreibt.
+    eine Krankenversicherung betreibt.
 
 
 
@@ -16747,7 +16744,7 @@ digitale operationale Resilienz im Finanzsektor und zur Änderung der
 Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
 (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
 durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
-Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
 werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h
