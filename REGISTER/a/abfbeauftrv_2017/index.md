@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2789
 
 Zuletzt geändert durch
-:   Art. 4 V v. 28.4.2022 I 700
-
-Änderung durch
-:   Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
 
 Stand: Ersetzt V 2129-6-3 v. 26.10.1977 I 1913 (AbfBeauftrV)
 
@@ -393,7 +390,8 @@ der zuständigen Behörde anerkannten Lehrgang gemäß § 9 Absatz 1 Nummer
 
 ### Anlage 1 Lehrgangsinhalte
 
-(Fundstelle: BGBl. I 2016, 2792 - 2793)
+(Fundstelle: BGBl. I 2016, 2792 - 2793;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Lehrgänge sollen Kenntnisse vermitteln, die für die Erfüllung der
 Aufgaben eines Abfallbeauftragten bei dem Anlagenbetreiber oder
@@ -473,7 +471,7 @@ I. Kenntnisse des Abfallrechts und der Abfalltechnik
 
 
     b)  Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-
-        Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233)
+        Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233),
 
 
     c)  das Verpackungsgesetz,
