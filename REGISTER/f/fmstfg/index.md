@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 30.9.2025 I Nr. 231
 
+Änderung durch
+:   Art. 31 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Finanzmarktstabilisierung
 
