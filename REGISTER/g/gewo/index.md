@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 11.1.2026 I Nr. 6
 
+Änderung durch
+:   Art. 34 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Titel I - Allgemeine Bestimmungen
 
@@ -6812,8 +6815,10 @@ Unternehmung, auf öffentliche Bestellung und Vereidigung nach § 36,
 auf Erteilung eines Befähigungsscheins nach § 20 des
 Sprengstoffgesetzes oder zur Überprüfung der Zuverlässigkeit nach § 38
 Abs. 1 kann die Auskunft auch zur Vorlage bei einer Behörde beantragt
-werden. Wird die Auskunft zur Vorlage bei einer Behörde beantragt, ist
-sie der Behörde unmittelbar zu übersenden.
+werden. Dies gilt auch für Zwecke einer Zuverlässigkeitsüberprüfung
+durch die Bundesanstalt für Finanzdienstleistungsaufsicht. Wird die
+Auskunft zur Vorlage bei einer Behörde beantragt, ist sie der Behörde
+unmittelbar zu übersenden.
 
 
 ### § 150a Auskunft an Behörden oder öffentliche Auftraggeber
