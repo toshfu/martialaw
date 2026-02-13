@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 Abs. 1 G v. 3.6.2021 I 1534
 
+Änderung durch
+:   Art. 42 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dies Gesetz dient der Umsetzung der Richtlinie 2011/89/EU des
 Europäischen Parlaments und des Rates vom 16. November 2011 zur
 Änderung der Richtlinien 98/78/EG, 2002/87/EG, 2006/48/EG und
