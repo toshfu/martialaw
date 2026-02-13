@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 1505
 
 Zuletzt geändert durch
-:   Art. 17 G v. 24.6.2022 I 959
-
-Änderung durch
-:   Art. 4 G v. 30.9.2025 I Nr. 233 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 30.9.2025 I Nr. 233
 
 
 ## § 1
