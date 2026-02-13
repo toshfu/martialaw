@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1423
 
-Geändert durch
-:   Art. 16 G v. 11.12.2023 I Nr. 354
+Zuletzt geändert durch
+:   Art. 26 G v. 4.2.2026 I Nr. 33
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -831,53 +831,7 @@ zu stellen:
 
 
 
-### § 20 Liste der Kryptowertpapiere bei der Aufsichtsbehörde
-
-(1) Der Emittent hat der Aufsichtsbehörde unverzüglich mitzuteilen:
-
-1.  die Eintragung eines Kryptowertpapiers in ein
-    Kryptowertpapierregister,
-
-
-2.  die Änderung der in Absatz 2 genannten Angaben eines eingetragenen
-    Kryptowertpapiers sowie
-
-
-3.  die Löschung eines eingetragenen Kryptowertpapiers.
-
-
-
-
-(2) Die Aufsichtsbehörde führt über die ihr nach Absatz 1 Nummer 1
-mitgeteilten Kryptowertpapiere eine öffentliche Liste im Internet. Die
-Liste enthält zu jedem Kryptowertpapier jeweils folgende Angaben:
-
-1.  den Emittenten,
-
-
-2.  die registerführende Stelle,
-
-
-3.  Informationen zum Kryptowertpapierregister,
-
-
-4.  den wesentlichen Inhalt des Rechts einschließlich einer eindeutigen
-    Kennnummer und der Kennzeichnung als Wertpapier,
-
-
-5.  das Datum der Eintragung des Kryptowertpapiers in das
-    Kryptowertpapierregister,
-
-
-6.  bei nach Absatz 1 Nummer 2 mitgeteilten Änderungen das Datum und den
-    wesentlichen Inhalt der jeweiligen Änderungen,
-
-
-7.  bei nach Absatz 1 Nummer 3 mitgeteilten Löschungen das Datum der
-    Löschung.
-
-
-
+### § 20 (weggefallen)
 
 
 ### § 21 Pflichten des Emittenten
@@ -1001,45 +955,36 @@ Bundesrates bedarf, nähere Bestimmungen erlassen über
 19. die Daten, die im Aufzeichnungssystem gespeichert werden müssen,
 
 
-20. die Art und Weise, das Format und den Inhalt der Mitteilung nach § 20
-    Absatz 1,
-
-
-21. die Voraussetzungen für die Aufnahme und die Löschung von
-    Kryptowertpapieren, das Format, den Inhalt und die Führung der Liste
-    durch die Aufsichtsbehörde gemäß § 20 Absatz 2,
-
-
-22. die Informationen, die die registerführende Stelle mit den
+20. die Informationen, die die registerführende Stelle mit den
     Informationen im Aufzeichnungssystem abgleichen oder ergänzen muss und
     speichern muss,
 
 
-23. die Kriterien für eine Teilnahme am Register, die einen fairen und
+21. die Kriterien für eine Teilnahme am Register, die einen fairen und
     offenen Zugang ermöglichen,
 
 
-24. die Kommunikationsverfahren mit den Teilnehmern einschließlich der
+22. die Kommunikationsverfahren mit den Teilnehmern einschließlich der
     Schnittstellen, über die diese mit der registerführenden Stelle sowie
     dem Aufzeichnungssystem verbunden sind,
 
 
-25. die Anforderungen an die erforderlichen technischen und
+23. die Anforderungen an die erforderlichen technischen und
     organisatorischen Maßnahmen des Emittenten nach § 21 Absatz 1,
 
 
-26. die Details bezüglich des Verfahrens für den Wechsel des
+24. die Details bezüglich des Verfahrens für den Wechsel des
     Wertpapierregisters nach § 21 Absatz 2 und § 22,
 
 
-27. die Dokumentation und die Beschreibung des Registers,
+25. die Dokumentation und die Beschreibung des Registers,
 
 
-28. die Anforderungen an die Geschäftsorganisation bei der Führung des
+26. die Anforderungen an die Geschäftsorganisation bei der Führung des
     Registers und
 
 
-29. die Art, das Format und den Inhalt des Registerauszugs gemäß § 19.
+27. die Art, das Format und den Inhalt des Registerauszugs gemäß § 19.
 
 
 
@@ -1211,18 +1156,8 @@ Aktiengesetzes ist nicht anzuwenden.
 
 ### § 31 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer
-
-1.  entgegen § 20 Absatz 1, auch in Verbindung mit einer Rechtsverordnung
-    nach § 23 Absatz 1 Satz 1 Nummer 20, eine Mitteilung nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig macht oder
-
-
-2.  einer vollziehbaren Anordnung nach § 21 Absatz 2 Satz 2
-    zuwiderhandelt.
-
-
-
+(1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach
+§ 21 Absatz 2 Satz 2 zuwiderhandelt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1302,7 +1237,7 @@ Aktiengesetzes ist nicht anzuwenden.
 
 
 15. entgegen § 19, auch in Verbindung mit einer Rechtsverordnung nach § 23
-    Absatz 1 Satz 1 Nummer 29, einen Registerauszug nicht, nicht richtig,
+    Absatz 1 Satz 1 Nummer 27, einen Registerauszug nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
 
