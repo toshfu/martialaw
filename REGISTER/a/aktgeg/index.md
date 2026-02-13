@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1185
 
 Zuletzt geändert durch
-:   Art. 19 G v. 23.10.2024 I Nr. 323
+:   Art. 24 G v. 4.2.2026 I Nr. 33
 
 
 ## Übersicht
