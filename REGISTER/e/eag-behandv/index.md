@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1841
 
-Änderung durch
-:   Art. 9 Abs. 6 G v. 30.9.2025 I Nr. 233 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 9 Abs. 6 G v. 30.9.2025 I Nr. 233
 
 [^F817032_01_BJNR184100021]:     Diese Verordnung dient der Umsetzung der Richtlinie 2012/19/EU des
     Europäischen Parlaments und des Rates vom 4. Juli 2012 über Elektro-
