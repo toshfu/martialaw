@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2832;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 11.12.2023 I Nr. 354
+:   Art. 5 G v. 4.2.2026 I Nr. 33
 
 
 ## Erstes Kapitel - Zulassung von Wertpapieren zur regulierten Notierung
@@ -43,31 +43,21 @@ Emittent seinen Sitz hat.
 (1) Der voraussichtliche Kurswert der zuzulassenden Aktien oder, falls
 seine Schätzung nicht möglich ist, das Eigenkapital der Gesellschaft
 im Sinne des § 266 Abs. 3 Buchstabe A des Handelsgesetzbuchs, deren
-Aktien zugelassen werden sollen, muß mindestens 1 000 000 Euro
+Aktien zugelassen werden sollen, muss mindestens 1 000 000 Euro
 betragen. Dies gilt nicht, wenn Aktien derselben Gattung an dieser
 Börse bereits zum regulierten Markt zugelassen sind.
 
-(2) Für die Zulassung von anderen Wertpapieren als Aktien muß der
-Gesamtnennbetrag mindestens 250.000 Euro betragen.
+(2) Für die Zulassung von anderen Wertpapieren als Aktien muss der
+Gesamtnennbetrag mindestens 250 000 Euro betragen.
 
 (3) Für die Zulassung von Wertpapieren, die nicht auf einen Geldbetrag
-lauten, muß die Mindeststückzahl der Wertpapiere zehntausend betragen.
+lauten, muss die Mindeststückzahl der Wertpapiere zehntausend
+betragen.
 
-(4) Die Geschäftsführung kann geringere Beträge als in den
-vorstehenden Absätzen vorgeschrieben zulassen, wenn sie überzeugt ist,
-daß sich für die zuzulassenden Wertpapiere ein ausreichender Markt
-bilden wird.
+(4) (weggefallen)
 
 
-#### § 3 Dauer des Bestehens des Emittenten
-
-(1) Der Emittent zuzulassender Aktien muß mindestens drei Jahre als
-Unternehmen bestanden und seine Jahresabschlüsse für die drei dem
-Antrag vorangegangenen Geschäftsjahre entsprechend den hierfür
-geltenden Vorschriften offengelegt haben.
-
-(2) Die Geschäftsführung kann abweichend von Absatz 1 Aktien zulassen,
-wenn dies im Interesse des Emittenten und des Publikums liegt.
+#### § 3 (weggefallen)
 
 
 #### § 4 Rechtsgrundlage der Wertpapiere
@@ -143,38 +133,26 @@ geeignete Weise zu unterrichten.
 
 #### § 9 Streuung der Aktien
 
-(1) Die zuzulassenden Aktien müssen im Publikum eines Mitgliedstaats
-oder mehrerer Mitgliedstaaten der Europäischen Union oder eines
-Vertragsstaates oder mehrerer Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum ausreichend gestreut sein. Sie gelten als
-ausreichend gestreut, wenn mindestens fünfundzwanzig vom Hundert des
+(1) Zum Zeitpunkt der Zulassung müssen mindestens 10 Prozent des
 Gesamtnennbetrages, bei nennwertlosen Aktien der Stückzahl, der
-zuzulassenden Aktien vom Publikum erworben worden sind oder wenn wegen
-der großen Zahl von Aktien derselben Gattung und ihrer breiten
-Streuung im Publikum ein ordnungsgemäßer Börsenhandel auch mit einem
-niedrigeren Vomhundertsatz gewährleistet ist.
+zuzulassenden Aktien vom Publikum erworben worden sein. Wenn Aktien
+derselben Gattung bereits zum Handel zugelassen sind, bezieht sich die
+Prüfung des Mindeststreubesitzes nach Satz 1 auf alle ausgegebenen
+Aktien.
 
-(2) Abweichend von Absatz 1 können Aktien zugelassen werden, wenn
+(2) Abweichend von Absatz 1 können Aktien zugelassen werden, wenn ein
+ordnungsgemäßer Börsenhandel gewährleistet und
 
-1.  eine ausreichende Streuung über die Einführung an der Börse erreicht
-    werden soll und die Geschäftsführung davon überzeugt ist, daß diese
-    Streuung innerhalb kurzer Frist nach der Einführung erreicht sein
-    wird,
+1.  eine ausreichende Anzahl der Aktien vom Publikum gehalten wird;
 
 
-2.  Aktien derselben Gattung innerhalb der Europäischen Gemeinschaft oder
-    innerhalb eines Vertragsstaates des Abkommens über den Europäischen
-    Wirtschaftsraum an einem organisierten Markt zugelassen werden und
-    eine ausreichende Streuung im Verhältnis zur Gesamtheit aller
-    ausgegebenen Aktien erreicht wird oder
+2.  die Aktien von einer ausreichenden Anzahl von Anteilseignern gehalten
+    werden oder
 
 
-3.  die Aktien außerhalb der Europäischen Gemeinschaft oder außerhalb der
-    anderen Vertragsstaaten des Abkommens über den Europäischen
-    Wirtschaftsraum an einem Markt, der mit einem organisierten Markt
-    vergleichbar ist, zugelassen sind und eine ausreichende Streuung im
-    Publikum derjenigen Staaten erreicht ist, in denen diese Aktien
-    zugelassen sind.
+3.  der Marktwert der vom Publikum gehaltenen Aktien einen ausreichenden
+    Anteil des gezeichneten Kapitals der betreffenden Aktiengattung
+    darstellt.
 
 
 
@@ -370,16 +348,11 @@ erfolgen.
 
 #### § 51 Veröffentlichung der Zulassung
 
-Die Zulassung wird von der Geschäftsführung auf Kosten der
-Antragsteller im Bundesanzeiger veröffentlicht.
+Die Zulassung wird von der Geschäftsführung unverzüglich auf der
+Internetseite der Börse veröffentlicht.
 
 
-#### § 52 Einführung
-
-Die Einführung der Wertpapiere darf frühestens an dem auf die erste
-Veröffentlichung des Prospekts oder, wenn kein Prospekt zu
-veröffentlichen ist, an dem der Veröffentlichung der Zulassung
-folgenden Werktag erfolgen.
+#### § 52 (weggefallen)
 
 
 ## Zweites Kapitel - Pflichten des Emittenten zugelassener Wertpapiere
