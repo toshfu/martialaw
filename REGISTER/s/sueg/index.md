@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 867
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.12.2023 I Nr. 413
-
-Änderung durch
-:   Art. 1 G v. 11.1.2026 I Nr. 6 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 9.1.2026 I Nr. 7 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 9.1.2026 I Nr. 7
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -868,8 +862,6 @@ Hinblick auf die mitbetroffene Person durchzuführen. Die in § 3 Absatz
 3 Satz 1 Nummer 1 und 2 genannten Personen können auch selbst befragt
 werden.
 
-(3a) (weggefallen)
-
 (4) Die zuständige Stelle fragt zur Feststellung einer hauptamtlichen
 oder inoffiziellen Tätigkeit der betroffenen Person oder der
 mitbetroffenen Person für den Staatssicherheitsdienst der Deutschen
@@ -1026,8 +1018,6 @@ betroffenen Person leben. Zur Person der Ehegattin, des Ehegatten, der
 Lebenspartnerin, des Lebenspartners, der Lebensgefährtin oder des
 Lebensgefährten sind mit deren Einverständnis die in Absatz 1 Nummer 1
 bis 4, 8, 14, 14a, 15 und 17 genannten Daten anzugeben.
-
-(2a) (weggefallen)
 
 (3) Zur mitbetroffenen Person sind zusätzlich die in Absatz 1 Nummer 5
 bis 7, 12, 13, 16, 16a und 20 genannten Daten anzugeben.
