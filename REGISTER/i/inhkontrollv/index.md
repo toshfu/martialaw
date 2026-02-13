@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.11.2025 I Nr. 277
 
+Änderung durch
+:   Art. 39 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F771967_01_BJNR056210009]:     Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
     2007/44/EG des Europäischen Parlaments und des Rates vom 5. September
     2007 zur Änderung der Richtlinie 92/49/EWG des Rates sowie der
@@ -636,11 +639,14 @@ Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben,
 wenn sie in den letzten zehn Jahren in der Bundesrepublik Deutschland
 einen Wohnsitz hatten oder in den letzten zehn Jahren in der
 Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt haben,
-bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde
-einen Auszug aus dem Gewerbezentralregister gemäß § 150 der
-Gewerbeordnung einzureichen. Der Registerauszug darf zum Zeitpunkt des
-Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist
-das Ausstellungsdatum des Dokuments.
+einen Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der
+Gewerbeordnung zur Vorlage bei der Bundesanstalt zu beantragen oder
+bei der zuständigen Landesaufsichtsbehörde einen Auszug aus dem
+Gewerbezentralregister nach § 150 der Gewerbeordnung einzureichen. Der
+bei der zuständigen Landesaufsichtsbehörde einzureichende
+Registerauszug darf zum Zeitpunkt des Einreichens nicht älter als drei
+Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum des
+Dokuments.
 
 
 ### § 10 Lebenslauf
