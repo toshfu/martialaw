@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.10.1989 I 1848;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 25.6.2020 I 1495
-
-Änderung durch
-:   Art. 3 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 19.12.2025 I Nr. 372
 
 
 ## § 1 Arbeitnehmer, Arbeitgeber
