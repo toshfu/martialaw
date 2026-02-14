@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
-:   Art. 4 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
+:   Art. 4 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 59 G v. 4.2.2026 I Nr. 33 berücksichtigt
