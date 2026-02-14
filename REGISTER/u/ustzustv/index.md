@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3794, 3814
 
 Zuletzt geändert durch
-:   Art. 1 V v. 24.11.2023 I Nr. 332
-
-Änderung durch
-:   Art. 8 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 V v. 19.12.2025 I Nr. 372
 
 
 ## § 1
