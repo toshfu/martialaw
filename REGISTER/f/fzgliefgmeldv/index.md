@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 630
 
-Geändert durch
-:   Art. 21 Abs. 3 G v. 18.7.2016 I 1679
-
-Änderung durch
-:   Art. 11 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 11 V v. 19.12.2025 I Nr. 372
 
 
 ## Eingangsformel
