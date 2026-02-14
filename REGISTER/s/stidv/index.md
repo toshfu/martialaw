@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2726
 
 Zuletzt geändert durch
-:   Art. 5 V v. 19.12.2022 I 2432
-
-Änderung durch
-:   Art. 10 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 V v. 19.12.2025 I Nr. 372
 
 
 ## § 1 Aufbau der Identifikationsnummer
