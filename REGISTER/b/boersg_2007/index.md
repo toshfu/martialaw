@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 19 G v. 4.2.2026 I Nr. 33 mWv 10.2.206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 20 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 bzw. 4.12.2026 noch nicht berücksichtigt
+:   Art. 20 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 21 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
@@ -1727,16 +1727,13 @@ Erstattung von Auslagen vorsehen für
     der Einbeziehung,
 
 
-4.  die Einführung von Wertpapieren an der Börse,
+4   die Notierung von Wertpapieren,
 
 
-5.  die Notierung von Wertpapieren, deren Laufzeit nicht bestimmt ist,
+5.  die Prüfung der Druckausstattung von Wertpapieren,
 
 
-6.  die Prüfung der Druckausstattung von Wertpapieren,
-
-
-7.  die Ablegung der Börsenhändlerprüfung.
+6.  die Ablegung der Börsenhändlerprüfung.
 
 
 
@@ -2790,12 +2787,10 @@ inländischen Börse zum Handel im regulierten Markt zugelassen.
 
 ### § 38 Einführung
 
-(1) Die Geschäftsführung entscheidet auf Antrag des Emittenten über
-die Aufnahme der Notierung zugelassener Wertpapiere im regulierten
-Markt (Einführung). Der Emittent hat der Geschäftsführung in dem
-Antrag den Zeitpunkt für die Einführung und die Merkmale der
-einzuführenden Wertpapiere mitzuteilen. Das Nähere regelt die
-Börsenordnung.
+(1) Der Emittent teilt den beabsichtigten Zeitpunkt und die Merkmale
+für die Aufnahme der Notierung von zum regulierten Markt zugelassenen
+Wertpapieren (Einführung) der Geschäftsführung mit. Das Nähere regelt
+die Börsenordnung.
 
 (2) Wertpapiere, die zur öffentlichen Zeichnung aufgelegt werden,
 dürfen erst nach beendeter Zuteilung eingeführt werden.
@@ -2824,16 +2819,15 @@ angemessenen Frist nicht erfüllt.
 (1a) Börsenaufsichtsbehörde und Bundesanstalt sind von einem Widerruf
 nach Absatz 1 unverzüglich in Kenntnis zu setzen.
 
-(2) Die Geschäftsführung kann die Zulassung im Sinne des Absatzes 1
-auch auf Antrag des Emittenten widerrufen. Der Widerruf darf nicht dem
-Schutz der Anleger widersprechen. Bei Wertpapieren im Sinne des § 2
-Absatz 2 des Wertpapiererwerbs- und Übernahmegesetzes ist ein Widerruf
-nur zulässig, wenn
+(2) Die Geschäftsführung hat die Zulassung im Sinne des Absatzes 1
+auch auf Antrag des Emittenten zu widerrufen. Bei Wertpapieren im
+Sinne des § 2 Absatz 2 des Wertpapiererwerbs- und Übernahmegesetzes
+ist ein Widerruf nur zulässig, wenn
 
 1.  bei Antragstellung unter Hinweis auf den Antrag eine Unterlage über
     ein Angebot zum Erwerb aller Wertpapiere, die Gegenstand des Antrags
     sind, nach den Vorschriften des Wertpapiererwerbs- und
-    Übernahmegesetzes veröffentlicht wurde oder
+    Übernahmegesetzes veröffentlicht wurde,
 
 
 2.  die Wertpapiere weiterhin zugelassen sind
@@ -2845,56 +2839,80 @@ nur zulässig, wenn
     b)  in einem anderen Mitgliedstaat der Europäischen Union oder einem
         anderen Vertragsstaat des Abkommens über den Europäischen
         Wirtschaftsraum zum Handel an einem organisierten Markt, sofern für
-        einen Widerruf der Zulassung zum Handel an diesem Markt Nummer 1
-        entsprechende Voraussetzungen gelten.
+        einen Widerruf der Zulassung zum Handel an diesem Markt der Nummer 1
+        entsprechende Voraussetzungen gelten,
 
 
 
 
 
+3.  die Wertpapiere weiterhin zum Handel an einem KMU-Wachstumsmarkt
+
+    a)  im Inland einbezogen sind oder
 
 
-(3) Im Fall des Absatzes 2 Satz 3 Nummer 1 darf das Angebot nicht von
-Bedingungen abhängig gemacht werden. Auf das Angebot ist § 31 des
+    b)  in einem anderen Mitgliedstaat der Europäischen Union oder einem
+        anderen Vertragsstaat des Abkommens über den Europäischen
+        Wirtschaftsraum zugelassen sind, sofern für eine Kündigung der
+        Einbeziehung oder einen Widerruf der Zulassung zum Handel an diesem
+        Markt der Nummer 1 entsprechende Voraussetzungen gelten,
+
+
+
+    oder
+
+
+4.  über das Vermögen des Emittenten ein Insolvenzverfahren eröffnet
+    wurde.
+
+
+
+
+(3) Im Fall des Absatzes 2 Satz 2 Nummer 1 darf das Angebot nicht von
+Bedingungen abhängig gemacht werden. Auf die Angebotsunterlage ist
+§ 11 des Wertpapiererwerbs- und Übernahmegesetzes mit der Maßgabe
+entsprechend anzuwenden, dass sie keine Angaben nach Absatz 2 Satz 2
+Nummer 5 zu enthalten hat. Auf das Angebot ist § 31 des
 Wertpapiererwerbs- und Übernahmegesetzes mit der Maßgabe entsprechend
 anzuwenden, dass die Gegenleistung in einer Geldleistung in Euro
 bestehen und mindestens dem gewichteten durchschnittlichen
 inländischen Börsenkurs der Wertpapiere während der letzten sechs
 Monate vor der Veröffentlichung nach § 10 Absatz 1 Satz 1 oder § 35
 Absatz 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes
-entsprechen muss. Hat während dieses Zeitraums
+entsprechen muss. Haben besondere Umstände den Börsenkurs dieses
+Zeitraums derart beeinflusst, dass dieser zur Bestimmung der
+Gegenleistung unangemessen niedrig ist, so ist der Bieter zur Zahlung
+einer höheren Gegenleistung verpflichtet, die dem anhand einer
+Bewertung des Emittenten ermittelten Wert des Unternehmens entspricht.
+Besondere Umstände liegen insbesondere vor, wenn
 
 1.  der Emittent entgegen Artikel 17 Absatz 1 der Verordnung (EU) Nr.
     596/2014 oder einer entsprechenden Vorschrift des anwendbaren
     ausländischen Rechts eine Insiderinformation, die ihn unmittelbar
     betrifft, nicht so bald wie möglich veröffentlicht oder in einer
-    Mitteilung nach Artikel 17 Absatz 1 dieser Verordnung oder einer
-    entsprechenden Vorschrift des anwendbaren ausländischen Rechts eine
-    unwahre Insiderinformation, die ihn unmittelbar betrifft,
-    veröffentlicht, oder
+    Mitteilung nach Artikel 17 Absatz 1 der Verordnung (EU) Nr. 569/2014
+    oder einer entsprechenden Vorschrift des anwendbaren ausländischen
+    Rechts eine unwahre Insiderinformation, die ihn unmittelbar betrifft,
+    veröffentlicht hat oder
 
 
 2.  der Emittent oder der Bieter in Bezug auf die Wertpapiere, die
     Gegenstand des Antrags sind, gegen das Verbot der Marktmanipulation
-    nach Artikel 15 der Verordnung (EU) Nr. 596/2014 verstoßen,
+    nach Artikel 15 der Verordnung (EU) Nr. 596/2014 verstoßen hat
 
 
 
-so ist der Bieter zur Zahlung des Unterschiedsbetrags zwischen der im
-Angebot genannten Gegenleistung und der Gegenleistung verpflichtet,
-die dem anhand einer Bewertung des Emittenten ermittelten Wert des
-Unternehmens entspricht; dies gilt nicht, soweit die in den Nummern 1
-und 2 bezeichneten Verstöße nur unwesentliche Auswirkungen auf den
-nach Satz 2 errechneten Durchschnittskurs hatten. Sind für die
-Wertpapiere des Emittenten, auf die sich das Angebot bezieht, während
-der letzten sechs Monate vor der Veröffentlichung nach § 10 Absatz 1
-Satz 1 oder § 35 Absatz 1 Satz 1 des Wertpapiererwerbs- und
-Übernahmegesetzes an weniger als einem Drittel der Börsentage
-Börsenkurse festgestellt worden und weichen mehrere nacheinander
-festgestellte Börsenkurse um mehr als 5 Prozent voneinander ab, so ist
-der Bieter zur Zahlung einer Gegenleistung verpflichtet, die dem
-anhand einer Bewertung des Emittenten ermittelten Wert des
-Unternehmens entspricht.
+und sich die in den Nummern 1 und 2 bezeichneten Verstöße auf den nach
+Satz 3 errechneten Durchschnittskurs wesentlich ausgewirkt haben. Satz
+4 gilt entsprechend, wenn für die Wertpapiere des Emittenten, auf die
+sich das Angebot bezieht, während der letzten sechs Monate vor der
+Veröffentlichung nach § 10 Absatz 1 Satz 1 oder § 35 Absatz 1 Satz 1
+des Wertpapiererwerbs- und Übernahmegesetzes an weniger als einem
+Drittel der Börsentage Börsenkurse festgestellt worden sind und
+mehrere nacheinander festgestellte Börsenkurse um mehr als 5 Prozent
+voneinander abweichen. Die Höhe der Gegenleistung wird auf Antrag
+durch das Gericht nach den Vorschriften des Spruchverfahrensgesetzes
+bestimmt.
 
 (4) Auf Emittenten mit Sitz im Ausland finden im Hinblick auf das
 Angebot nach Absatz 2 die Vorschriften des Wertpapiererwerbs- und
@@ -2903,8 +2921,8 @@ Angebot nach Absatz 2 die Vorschriften des Wertpapiererwerbs- und
 (5) Die Geschäftsführung hat einen Widerruf nach Absatz 2 unverzüglich
 im Internet zu veröffentlichen. Der Zeitraum zwischen der
 Veröffentlichung und der Wirksamkeit des Widerrufs darf zwei Jahre
-nicht überschreiten. Nähere Bestimmungen über den Widerruf sind in der
-Börsenordnung zu treffen.
+nicht überschreiten. Nähere Bestimmungen über das Widerrufsverfahren
+sind in der Börsenordnung zu treffen.
 
 (6) Im Hinblick auf die Anforderungen des Absatzes 3 bleibt die
 Rechtmäßigkeit des Widerrufs unberührt.
@@ -2929,7 +2947,7 @@ Unternehmen, das die Zulassung der Wertpapiere nach § 32 Abs. 2 Satz 1
 zusammen mit dem Emittenten beantragt hat, sind verpflichtet, der
 Geschäftsführung aus ihrem Bereich alle Auskünfte zu erteilen, die zur
 ordnungsgemäßen Erfüllung ihrer Aufgaben im Hinblick auf die Zulassung
-und die Einführung der Wertpapiere erforderlich sind.
+der Wertpapiere erforderlich sind.
 
 (2) Die Geschäftsführung kann verlangen, dass der Emittent der
 zugelassenen Wertpapiere in angemessener Form und Frist bestimmte
@@ -3248,10 +3266,10 @@ Nr. 596/2014 erforderlich ist.
 
 ### § 48a KMU-Wachstumsmarkt
 
-(1) Der Börsenträger kann einen Freiverkehr bei der
-Börsenaufsichtsbehörde als Wachstumsmarkt für kleine und mittlere
-Unternehmen (KMU-Wachstumsmarkt) registrieren lassen, sofern folgende
-Anforderungen erfüllt sind:
+(1) Der Börsenträger kann einen Freiverkehr oder ein Segment eines
+Freiverkehrs bei der Börsenaufsichtsbehörde als Wachstumsmarkt für
+kleine und mittlere Unternehmen (KMU-Wachstumsmarkt) registrieren
+lassen, sofern folgende Anforderungen erfüllt sind:
 
 1.  bei mindestens 50 Prozent der Emittenten, deren Finanzinstrumente zum
     Handel in den Freiverkehr einbezogen sind, handelt es sich um kleine
@@ -3304,13 +3322,44 @@ Anforderungen erfüllt sind:
 Die Möglichkeit des Börsenträgers, zusätzliche Anforderungen
 festzulegen, bleibt unberührt.
 
+(1a) Handelt es sich bei dem KMU-Wachstumsmarkt um ein Segment eines
+Freiverkehrs, so sind zusätzlich zu den in Absatz 1 genannten
+Voraussetzungen die folgenden Anforderungen zu erfüllen:
+
+1.  das als KMU-Wachstumsmarkt registrierte Segment des Freiverkehrs ist
+    eindeutig von den anderen vom Börsenträger betriebenen Segmenten des
+    Freiverkehrs getrennt; insbesondere trägt das Segment einen anderen
+    Namen, besitzt ein anderes Regelwerk, verwendet eine andere
+    Marketingstrategie, weist eine andere Medienpräsenz auf und besitzt
+    eine spezifisch zugewiesene Handelsplatz-Identifikationsnummer;
+
+
+2.  die in dem speziellen KMU-Wachstumsmarktsegment getätigten Geschäfte
+    sind klar von anderem Marktgeschehen innerhalb der anderen Segmente
+    des Freiverkehrs zu unterscheiden und
+
+
+3.  auf Ersuchen der Börsenaufsichtsbehörde werden vom Betreiber des
+    Freiverkehrs ein umfassendes Verzeichnis der in dem betreffenden KMU-
+    Wachstumsmarktsegment notierten Instrumente sowie alle von der
+    zuständigen Behörde gegebenenfalls angeforderten Informationen über
+    die Funktionsweise des KMU-Wachstumsmarktsegments vorgelegt.
+
+
+
+
+(1b) Für den Fall, dass der Emittent die Einbeziehung von Wertpapieren
+zum Handel an dem KMU-Wachstumsmarkt kündigt, findet § 39 Absatz 2 bis
+6 entsprechende Anwendung, sofern er nicht die Zulassung dieser
+Wertpapiere zum Handel im regulierten Markt beantragt.
+
 (2) Die Börsenaufsichtsbehörde hebt die Registrierung eines KMU-
 Wachstumsmarktes auf, wenn der Börsenträger dies beantragt oder wenn
-die Voraussetzungen für eine Registrierung nach Absatz 1 nicht mehr
-vorliegen. Die Börsenaufsichtsbehörde unterrichtet die Bundesanstalt
-und die Europäische Wertpapier- und Marktaufsichtsbehörde unverzüglich
-über die Registrierung eines KMU-Wachstumsmarktes und über deren
-Aufhebung.
+die Voraussetzungen für eine Registrierung nach Absatz 1 oder Absatz
+1a nicht mehr vorliegen. Die Börsenaufsichtsbehörde unterrichtet die
+Bundesanstalt und die Europäische Wertpapier- und
+Marktaufsichtsbehörde unverzüglich über die Registrierung eines KMU-
+Wachstumsmarktes und über deren Aufhebung.
 
 (3) Ein Finanzinstrument, das zum Handel in den Freiverkehr einbezogen
 ist, kann nur dann in einem anderen KMU-Wachstumsmarkt gehandelt
@@ -4128,4 +4177,15 @@ Gültigkeit hat.
 ### § 53 Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz
 
 § 26e findet bis zum 27. Februar 2023 keine Anwendung.
+
+
+### § 54 Übergangsregelung zum Standortfördergesetz
+
+Für Fälle, in denen ein Emittent die Einbeziehung von Wertpapieren zum
+Handel an einem KMU-Wachstumsmarkt bis einschließlich zum 9. Januar
+2030 kündigt, gilt § 31 des Wertpapiererwerbs- und Übernahmegesetzes
+mit der Maßgabe, dass § 5 Absatz 3 der WpÜG-Angebotsverordnung keine
+Anwendung findet. Auf Fälle, in denen die Kündigung nach dem 9. Januar
+2030 erfolgt, findet § 5 Absatz 3 der WpÜG-Angebotsverordnung
+Anwendung.
 
