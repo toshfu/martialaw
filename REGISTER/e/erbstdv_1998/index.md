@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 2658
 
 Zuletzt geändert durch
-:   Art. 6 V v. 19.12.2022 I 2432
-
-Änderung durch
-:   Art. 9 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 V v. 19.12.2025 I Nr. 372
 
 
 ## Eingangsformel
