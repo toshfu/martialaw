@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3171
 
 Zuletzt geändert durch
-:   Art. 481 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 2 V v. 19.12.2025 I Nr. 382 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 19.12.2025 I Nr. 382
 
 Die geltung der v ist durch
 :   § 8 idF d. V v. 11.11.2010 I 1624 über den 31.12.2010 hinaus verlängert worden
