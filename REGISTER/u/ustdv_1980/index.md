@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 434;
 
 Zuletzt geändert durch
-:   Art. 30 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 6 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 V v. 19.12.2025 I Nr. 372
 
 
 ## - - Zu § 3a des Gesetzes
