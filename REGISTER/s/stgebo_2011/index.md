@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 98
 
 Zuletzt geändert durch
-:   Art. 4 V v. 17.12.2024 I Nr. 422
-
-Änderung durch
-:   Art. 3 V v. 19.12.2025 I Nr. 382 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 19.12.2025 I Nr. 382
 
 
 ## Eingangsformel
