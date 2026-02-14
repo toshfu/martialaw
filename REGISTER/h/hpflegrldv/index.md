@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1974, 1062
 
 Zuletzt geändert durch
-:   Art. 6 G v. 11.4.2024 I Nr. 119
-
-Änderung durch
-:   Art. 4 V v. 19.12.2025 I Nr. 382 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 19.12.2025 I Nr. 382
 
 
 ## Eingangsformel
