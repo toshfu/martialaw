@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3566
 
 Zuletzt geändert durch
-:   Art. 1 V v. 30.9.2022 I 1603
-
-Änderung durch
-:   Art. 11 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 4.2.2026 I Nr. 33
 
 Stand: Ersetzt V 4110-4-13 v. 20.7.2007 I 1432 (WpDVerOV)
 
