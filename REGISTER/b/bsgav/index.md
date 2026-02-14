@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 1603
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 4 G v. 20.12.2022 I 2730
-
-Änderung durch
-:   Art. 12 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 V v. 19.12.2025 I Nr. 372
 
 
 ## Eingangsformel
