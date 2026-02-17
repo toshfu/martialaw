@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2025 I Nr. 349
 
+Änderung durch
+:   Art. 2 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Anwendungsbereich
 
@@ -2291,7 +2294,7 @@ richten sich nach § 27 Absatz 1 Satz 1 Nummer 2 und § 33 Absatz 1 bis
 4 des Bundeskriminalamtgesetzes.
 
 (4) Als Ersuchen im Sinne der Absätze 1 und 2 gelten auch
-Datenübermittlungen nach den §§ 61a und 92c. Datenübermittlungen nach
+Datenübermittlungen nach den §§ 61a und 92i. Datenübermittlungen nach
 § 61a sind, soweit sie nicht in völkerrechtlichen Vereinbarungen nach
 § 1 Abs. 3 vorgesehen sind, von der Möglichkeit einer Übertragung nach
 Absatz 2 ausgeschlossen.
@@ -6634,7 +6637,7 @@ Anwendung.
 (2) Dieser Teil geht den in § 1 Abs. 3 genannten völkerrechtlichen
 Vereinbarungen vor, soweit er abschließende Regelungen enthält.
 
-(3) Die §§ 92 bis 92b finden auch im Rahmen des Rechtshilfeverkehrs
+(3) Die §§ 92 bis 92h finden auch im Rahmen des Rechtshilfeverkehrs
 auf die Staaten Anwendung, welche die Bestimmungen des Schengen-
 Besitzstandes auf Grund eines Assoziierungsübereinkommens mit der
 Europäischen Union über die Umsetzung, Anwendung und Entwicklung des
@@ -7136,28 +7139,54 @@ verlassen hat, obwohl sie dazu die Möglichkeit hatte, oder nach
 Verlassen in ihn zurückgekehrt ist.
 
 
-### Abschnitt 3 - Besondere Formen der Rechtshilfe
+### Abschnitt 3 - Informationsübermittlung nach Maßgabe der Richtlinie (EU) 2023/977
 
 
 
-#### § 92 Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten der Europäischen Union
+### Abschnitt 4 - Besondere Formen der Rechtshilfe
+
+
+
+#### Unterabschnitt 1 - Übermittlung von Informationen an einen anderen Mitgliedstaat der Europäischen Union
+
+
+
+##### § 92 Übermittlung von Informationen einschließlich personenbezogener Daten auf Ersuchen an Mitgliedstaaten der Europäischen Union
 
 (1) Auf ein Ersuchen einer Strafverfolgungsbehörde eines
-Mitgliedstaates der Europäischen Union, das nach Maßgabe des
-Rahmenbeschlusses 2006/960/JI des Rates vom 18. Dezember 2006 über die
-Vereinfachung des Austauschs von Informationen und Erkenntnissen
-zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der
-Europäischen Union (ABl. L 386 vom 29.12.2006, S. 89, L 75 vom
-15\.3.2007, S. 26) gestellt worden ist, können die zuständigen
-Polizeibehörden des Bundes und der Länder Informationen einschließlich
+Mitgliedstaates der Europäischen Union, das nach Maßgabe der
+Richtlinie (EU) 2023/977 gestellt worden ist, oder auf Ersuchen einer
+nach Artikel 14 der Richtlinie (EU) 2023/977 benannten zentralen
+Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union
+dürfen die zuständigen Polizei-, Finanz- und Zollbehörden nach Maßgabe
+der folgenden Vorschriften dem ersuchenden Mitgliedstaat der
+Europäischen Union verfügbare Informationen einschließlich
 personenbezogener Daten zum Zweck der Verfolgung von Straftaten
-übermitteln. Die Übermittlung erfolgt unter den gleichen gesetzlichen
-Voraussetzungen wie an eine inländische Polizeibehörde. Die Regelungen
-des § 3 des Bundeskriminalamtgesetzes über den internationalen
+übermitteln.
+
+(2) Eine Information ist im Sinne des Absatzes 1 verfügbar,
+
+1.  wenn sie in einer Datenbank verfügbar ist, auf die die ersuchte
+    Polizei-, Finanz- oder Zollbehörde nach Maßgabe von Bundes- und
+    Landesrecht unmittelbar zugreifen kann, oder
+
+
+2.  wenn die ersuchte Polizei-, Finanz- oder Zollbehörde nach Maßgabe von
+    Bundes- und Landesrecht von anderen Behörden oder Privaten, die in der
+    Bundesrepublik Deutschland ansässig sind, diese Information ohne
+    Zwangsmaßnahmen einholen kann.
+
+
+
+
+(3) Die Übermittlung erfolgt unter den gleichen gesetzlichen
+Voraussetzungen wie an eine inländische
+Polizei-,              Finanz- oder Zollbehörde. Die Regelungen des
+§ 3 des Bundeskriminalamtgesetzes über den internationalen
 Dienstverkehr der Polizeien des Bundes und der Länder bleiben
 unberührt.
 
-(2) Bei der Übermittlung nach Absatz 1 ist mitzuteilen, dass die
+(4) Bei der Übermittlung nach Absatz 1 ist mitzuteilen, dass die
 Verwendung als Beweismittel in einem Gerichtsverfahren unzulässig ist,
 es sei denn, die für Entscheidungen über Ersuchen nach dem Fünften
 Teil zuständige Bewilligungsbehörde hat ihre Zustimmung zur Verwendung
@@ -7165,132 +7194,352 @@ als Beweismittel erteilt. Entsprechend entscheidet die für Ersuchen
 nach dem Fünften Teil zuständige Behörde auch über ein Ersuchen um
 nachträgliche Genehmigung der Verwertbarkeit als Beweismittel.
 
-(3) Die Übermittlung von Informationen einschließlich
-personenbezogener Daten nach Absatz 1 ist unzulässig, wenn
-
-1.  hierdurch wesentliche Sicherheitsinteressen des Bundes oder der Länder
-    beeinträchtigt würden,
-
-
-2.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
-    sind und nur durch das Ergreifen von Zwangsmaßnahmen erlangt werden
-    können oder
-
-
-3.  die Übermittlung der Daten unverhältnismäßig wäre oder die Daten für
-    die Zwecke, für die sie übermittelt werden sollen, nicht erforderlich
-    sind.
+(5) Die ersuchten Informationen werden in der Sprache übermittelt, in
+der das Ersuchen übermittelt wurde, wenn es in einer der von der
+Bundesrepublik Deutschland nach Artikel 11 der Richtlinie (EU)
+2023/977 benannten Sprachen übermittelt wurde. Die Informationen
+können auch in einer der Sprachen übermittelt werden, die der
+ersuchende Mitgliedstaat der Europäischen Union nach Artikel 11 der
+Richtlinie (EU) 2023/977 benannt hat. Satz 1 gilt entsprechend für
+andere Mitteilungen, einschließlich der begründeten Ablehnung von
+Ersuchen, Bitten um ergänzende Informationen und Mitteilungen.
 
 
+##### § 92a Inhalt des Ersuchens
+
+Ein Ersuchen nach § 92 Absatz 1 soll Folgendes enthalten:
+
+1.  die Angabe, ob das Ersuchen dringend ist, und gegebenenfalls die
+    Angabe der Gründe für die Dringlichkeit,
 
 
-(4) Die Bewilligung eines Ersuchens nach Absatz 1 kann verweigert
-werden, wenn
-
-1.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
-    sind, jedoch ohne das Ergreifen von Zwangsmaßnahmen erlangt werden
-    können oder
+2.  eine Präzisierung der angeforderten Informationen, die so detailliert
+    ist, wie dies unter den gegebenen Umständen in angemessener Weise
+    möglich ist,
 
 
-2.  hierdurch der Erfolg laufender Ermittlungen oder Leib, Leben oder
-    Freiheit einer Person gefährdet würde oder
+3.  die Bezeichnung der Straftat, zu deren Verfolgung die Informationen
+    benötigt werden,
 
 
-3.  die Tat, zu deren Verfolgung die Daten übermittelt werden sollen, nach
-    deutschem Recht mit einer Freiheitsstrafe von im Höchstmaß einem Jahr
-    oder weniger bedroht ist.
-
-
-
-
-(5) Als Strafverfolgungsbehörde eines Mitgliedstaates der Europäischen
-Union im Sinne des Absatzes 1 gilt jede von diesem Staat gemäß Artikel
-2 Buchstabe a des Rahmenbeschlusses 2006/960/JI benannte Stelle.
-
-
-#### § 92a Inhalt des Ersuchens
-
-Die Bewilligung eines Ersuchens im Sinne des § 92 Absatz 1 Satz 1 ist
-nur zulässig, wenn das Ersuchen folgende Angaben enthält:
-
-1.  die Bezeichnung und die Anschrift der ersuchenden
-    Strafverfolgungsbehörde,
-
-
-2.  die Bezeichnung der Straftat, zu deren Verfolgung die Daten benötigt
-    werden,
-
-
-3.  die Beschreibung des Sachverhalts der dem Ersuchen zugrunde liegenden
+4.  die Beschreibung des Sachverhalts der dem Ersuchen zugrunde liegenden
     Straftat,
 
 
-4.  die Benennung des Zwecks, zu dem die Daten erbeten werden,
-
-
-5.  den Zusammenhang zwischen dem Zweck, zu dem die Informationen oder
-    Erkenntnisse erbeten werden, und der Person, auf die sich diese
-    Informationen beziehen,
+5.  die Benennung des Zwecks, zu dem die Informationen erbeten werden,
 
 
 6.  Einzelheiten zur Identität des Beschuldigten, sofern sich das
-    Ermittlungsverfahren gegen eine bekannte Person richtet, und
+    Ermittlungsverfahren gegen eine bekannte Person richtet,
 
 
-7.  Gründe für die Annahme, dass sachdienliche Informationen und
-    Erkenntnisse im Inland vorliegen.
+7.  soweit angemessen, eine Erläuterung des Zusammenhangs zwischen dem
+    Zweck, zu dem die Informationen angefordert werden, und allen
+    natürlichen oder juristischen Personen oder Organisationen, auf die
+    sich die Informationen beziehen,
+
+
+8.  etwaige Beschränkungen einer Verwendung der in dem Ersuchen
+    enthaltenen Informationen zu anderen Zwecken als denen, für die sie
+    übermittelt wurden.
 
 
 
 
 
-#### § 92b Verwendung von nach dem Rahmenbeschluss 2006/960/JI übermittelten Informationen einschließlich personenbezogener Daten
+##### § 92b Ablehnungsgründe
 
-Informationen einschließlich personenbezogener Daten, die nach dem
-Rahmenbeschluss 2006/960/JI an eine inländische Polizeibehörde
-übermittelt worden sind, dürfen nur für die Zwecke, für die sie
-übermittelt wurden, oder zur Abwehr einer gegenwärtigen und
+(1) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten nach § 92 ist unzulässig, soweit
+
+1.  eine nach deutschem Recht erforderliche Genehmigung durch die
+    zuständige Staatsanwaltschaft oder das zuständige Gericht verweigert
+    wurde,
+
+
+2.  die angeforderten Informationen bei der ersuchten Polizei-, Finanz-
+    oder Zollbehörde nicht nach § 92 Absatz 2 verfügbar sind und nur durch
+    das Ergreifen von Zwangsmaßnahmen erlangt werden können,
+
+
+3.  die Übermittlung der Informationen unverhältnismäßig wäre oder die
+    Informationen für die Zwecke, für die sie übermittelt werden sollen,
+    nicht erforderlich sind,
+
+
+4.  es sich bei den angeforderten Informationen um andere personenbezogene
+    Daten handelt als jene, die unter die in Anhang II Abschnitt B zu der
+    Verordnung (EU) 2016/794 genannten Kategorien personenbezogener Daten
+    fallen,
+
+
+5.  die angeforderten Informationen sich als unrichtig, unvollständig oder
+    nicht mehr aktuell erwiesen haben,
+
+
+6.  objektive Anhaltspunkte dafür vorliegen, dass die Bereitstellung der
+    angeforderten Informationen
+
+    a)  den grundlegenden Sicherheitsinteressen des Bundes oder der Länder
+        zuwiderlaufen oder sie schädigen würde,
+
+
+    b)  den Erfolg laufender Ermittlungen zu einer Straftat oder die
+        Sicherheit einer Person gefährden würde,
+
+
+
+
+
+7.  die ersuchten Informationen ursprünglich von einem anderen
+    Mitgliedstaat der Europäischen Union oder einem Drittstaat erlangt
+    wurden und dieser Staat der Bereitstellung der Informationen nicht
+    zugestimmt hat.
+
+
+
+
+(2) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten kann unterbleiben, soweit
+
+1.  die angeforderten Informationen bei der ersuchten Polizei-, Finanz-
+    oder Zollbehörde nicht nach § 92 Absatz 2 Nummer 1 verfügbar sind,
+    jedoch ohne das Ergreifen von Zwangsmaßnahmen nach § 92 Absatz 2
+    Nummer 2 eingeholt werden können,
+
+
+2.  das Ersuchen
+
+    a)  eine Straftat betrifft, die nach deutschem Recht mit einer
+        Freiheitsstrafe von höchstens einem Jahr oder weniger geahndet werden
+        kann, oder
+
+
+    b)  eine Angelegenheit betrifft, die nach deutschem Recht keine Straftat
+        darstellt,
+
+
+
+
+
+3.  das Ersuchen nicht den Anforderungen des § 92a entspricht.
+
+
+
+
+(3) Ein Ersuchen, das in einer anderen Sprache als den Sprachen, die
+von der Bundesrepublik Deutschland nach Artikel 11 der Richtlinie (EU)
+2023/977 benannt werden, abgefasst ist, kann abgelehnt werden.
+
+(4) Vor Ablehnung eines Ersuchens soll den ersuchenden Behörden die
+Möglichkeit gegeben werden, ergänzende Klarstellungen oder
+Präzisierungen beizubringen.
+
+(5) Soweit die Übermittlung von Informationen die Genehmigung der
+Staatsanwaltschaft oder eines Gerichtes voraussetzt, unternimmt die
+nach § 92 Absatz 1 zuständige Polizei-, Finanz- oder Zollbehörde
+unverzüglich alle erforderlichen Schritte, um diese Genehmigung so
+schnell wie möglich einzuholen.
+
+
+##### § 92c Zusammenarbeit mit zentralen Kontaktstellen
+
+(1) Nach § 92 übermittelte Informationen werden in Kopie auch der für
+die Bundesrepublik Deutschland benannten nationalen zentralen
+Kontaktstelle übermittelt. Wenn die nach § 92 ersuchten Informationen
+zur Beantwortung nicht der nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentralen Kontaktstelle des ersuchenden
+Mitgliedstaates der Europäischen Union übermittelt wurden, wird auch
+dieser zentralen Kontaktstelle eine Kopie der Informationen
+übermittelt.
+
+(2) Die Übermittlung an die zentrale Kontaktstelle des ersuchenden
+Mitgliedstaates der Europäischen Union nach Absatz 1 Satz 2
+unterbleibt, wenn dadurch Folgendes gefährdet würde:
+
+1.  eine laufende hochsensible Ermittlung, bei der die Verarbeitung von
+    Informationen ein angemessenes Maß an Vertraulichkeit erfordert,
+
+
+2.  Ermittlungen zu Terrorismusfällen, bei denen es sich nicht um Not-
+    oder Krisenmanagementsituationen handelt, oder
+
+
+3.  die Sicherheit einer oder mehrerer Personen.
+
+
+
+
+
+##### § 92d Informationsübermittlung ohne Ersuchen
+
+(1) Nach Maßgabe der Richtlinie (EU) 2023/977 dürfen Polizei-, Finanz-
+und Zollbehörden gemäß § 92 Absatz 2 verfügbare Informationen,
+einschließlich personenbezogener Daten, ohne Ersuchen an die
+zuständigen Strafverfolgungsbehörden anderer Mitgliedstaaten der
+Europäischen Union aus eigener Initiative übermitteln, wenn objektive
+Anhaltspunkte dafür vorliegen, dass die Informationen für den anderen
+Mitgliedstaat der Europäischen Union zum Zweck der Verfolgung von
+Straftaten relevant sein könnten. Satz 1 gilt auch für die
+Übermittlung an nach Artikel 14 der Richtlinie (EU) 2023/977 benannte
+zentrale Kontaktstellen anderer Mitgliedstaaten der Europäischen
+Union.
+
+(2) Die Übermittlung nach Absatz 1 erfolgt unter den gleichen
+gesetzlichen Voraussetzungen, unter denen die Übermittlung auch ohne
+Ersuchen an deutsche Polizei-, Finanz- oder Zollbehörden, ein
+deutsches Gericht oder eine deutsche Staatsanwaltschaft zulässig wäre.
+§ 92b Absatz 1 und 2 ist entsprechend anzuwenden.
+
+(3) Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den
+internationalen Dienstverkehr der Polizeien des Bundes und der Länder
+bleiben unberührt. Wenn die Übermittlung an die zentrale Kontaktstelle
+eines anderen Mitgliedstaates der Europäischen Union erfolgt, sind die
+Informationen in einer der Sprachen zu übermitteln, die von diesem
+Mitgliedstaat der Europäischen Union nach Artikel 11 der Richtlinie
+(EU) 2023/977 benannt wurden.
+
+(4) § 92c ist entsprechend anzuwenden.
+
+
+##### § 92e Verpflichtung zur Informationsübermittlung ohne Ersuchen
+
+(1) Nach Maßgabe der Richtlinie (EU) 2023/977 sind Polizei-, Finanz-
+und Zollbehörden verpflichtet, ohne Ersuchen von ihnen selbst erhobene
+Informationen einschließlich personenbezogener Daten an die zentrale
+Kontaktstelle nach Artikel 14 der Richtlinie (EU) 2023/977 oder den
+zuständigen Strafverfolgungsbehörden anderer Mitgliedstaaten der
+Europäischen Union aus eigener Initiative zu übermitteln, wenn
+objektive Anhaltspunkte dafür vorliegen, dass die Informationen für
+den anderen Mitgliedstaat der Europäischen Union zum Zweck der
+Verfolgung von schweren Straftaten im Sinne von Artikel 2 Absatz 3 der
+Richtlinie (EU) 2023/977 relevant sein könnten.
+
+(2) Die Übermittlung von Informationen nach Absatz 1 erfolgt unter den
+gleichen gesetzlichen Voraussetzungen, unter denen die Übermittlung
+auch ohne Ersuchen an deutsche Polizei-, Finanz- oder Zollbehörden,
+ein deutsches Gericht oder eine deutsche Staatsanwaltschaft zulässig
+wäre.
+
+(3) § 92b Absatz 1 und die §§ 92c und 92d Absatz 3 finden
+entsprechende Anwendung.
+
+
+#### Unterabschnitt 2 - Übermittlung von Informationen aus einem anderen Mitgliedstaat der Europäischen Union
+
+
+
+##### § 92f Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten von benannten Strafverfolgungsbehörden an eine zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union
+
+(1) Die nach Maßgabe von Artikel 4 Absatz 1 Unterabsatz 2 der
+Richtlinie (EU) 2023/977 benannten Strafverfolgungsbehörden dürfen
+Ersuchen um Übermittlung von Informationen einschließlich
+personenbezogener Daten an eine nach Artikel 14 der Richtlinie (EU)
+2023/977 benannte zentrale Kontaktstelle eines anderen Mitgliedstaates
+der Europäischen Union zum Zweck der Verfolgung von Straftaten
+richten.
+
+(2) Ein Ersuchen nach Absatz 1 setzt objektive Anhaltspunkte dafür
+voraus, dass
+
+1.  die Erhebung der Information zum Zweck der Verfolgung einer Straftat
+    erforderlich und verhältnismäßig ist und
+
+
+2.  die angeforderten Informationen dem anderen Mitgliedstaat der
+    Europäischen Union zur Verfügung stehen.
+
+
+
+
+(3) Bei einem Ersuchen nach Absatz 1 ist anzugeben, ob das Ersuchen
+dringend ist, und bei Dringlichkeit sind die Gründe für diese zu
+nennen. Ein Informationsersuchen gilt als dringend, wenn unter
+Berücksichtigung aller relevanten Tatsachen und Umstände des
+betreffenden Sachverhalts objektive Anhaltspunkte dafür vorliegen,
+dass
+
+1.  die angeforderten Informationen unerlässlich sind zur Abwehr einer
+    unmittelbaren und ernsthaften Gefahr für die öffentliche Sicherheit
+    eines Mitgliedstaates der Europäischen Union,
+
+
+2.  die angeforderten Informationen erforderlich sind, um eine
+    unmittelbare Gefahr für das Leben oder die körperliche Unversehrtheit
+    einer Person abzuwenden,
+
+
+3.  die angeforderten Informationen erforderlich sind für den Erlass eines
+    Beschlusses, der die Aufrechterhaltung restriktiver Maßnahmen bis hin
+    zu einem Freiheitsentzug umfassen könnte, oder
+
+
+4.  die unmittelbare Gefahr besteht, dass die Informationen an Relevanz
+    verlieren, wenn sie nicht umgehend zur Verfügung gestellt werden, und
+    die Informationen als wichtig für die Untersuchung von Straftaten
+    anzusehen sind.
+
+
+
+
+(4) Das Ersuchen nach Absatz 1 muss die in § 92a Nummer 2 bis 8
+genannten Angaben enthalten.
+
+(5) Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den
+internationalen Dienstverkehr der Polizeien des Bundes und der Länder
+bleiben unberührt.
+
+(6) Ein Ersuchen nach Absatz 1 ist in einer der Sprachen zu
+übermitteln, die in der von diesem anderen Mitgliedstaat der
+Europäischen Union gemäß Artikel 11 erstellten Liste aufgeführt sind.
+
+(7) Eine Kopie eines Ersuchens nach Absatz 1 wird auch der für die
+Bundesrepublik Deutschland nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentralen Kontaktstelle übermittelt.
+
+
+##### § 92g Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten von Polizei-, Finanz- und Zollbehörden an Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union
+
+(1) Die zuständigen Polizei-, Finanz- und Zollbehörden dürfen Ersuchen
+um Übermittlung von Informationen, einschließlich personenbezogener
+Daten, an die Strafverfolgungsbehörden eines anderen Mitgliedstaates
+der Europäischen Union zum Zweck der Verfolgung von Straftaten
+richten. Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den
+internationalen Dienstverkehr der Polizeien des Bundes und der Länder
+und des § 26a Absatz 6 des Bundeskriminalamtgesetzes über die
+Datenübermittlung an Mitgliedstaaten der Europäischen Union und
+Schengen-assoziierte Staaten gemäß der Richtlinie (EU) 2023/977
+bleiben unberührt.
+
+(2) Eine Kopie eines Ersuchens nach Absatz 1 wird der für die
+Bundesrepublik Deutschland nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentrale Kontaktstelle sowie der nach Artikel 14
+der Richtlinie
+(EU) 2023/977              benannten zentralen Kontaktstelle des
+ersuchten Mitgliedstaates der Europäischen Union übermittelt. Für die
+Übermittlung an die zentrale Kontaktstelle des ersuchten
+Mitgliedstaates der Europäischen Union nach Satz 1 gilt § 92c Absatz 2
+entsprechend.
+
+(3) Bei Ersuchen nach Absatz 1 sollen die Anforderungen des § 92f
+Absatz 2 bis 4 eingehalten werden.
+
+
+##### § 92h Verwendung von nach der Richtlinie (EU) 2023/977 übermittelten Informationen
+
+Informationen einschließlich personenbezogener Daten, die nach der
+Richtlinie (EU) 2023/977 an eine inländische Polizei-, Finanz- oder
+Zollbehörde übermittelt worden sind, dürfen nur für die Zwecke, für
+die sie übermittelt wurden, oder zur Abwehr einer gegenwärtigen und
 erheblichen Gefahr für die öffentliche Sicherheit verwendet werden.
 Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen
 Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde
-Staat zugestimmt hat. Von dem übermittelnden Staat für die Verwendung
-der Daten gestellte Bedingungen sind zu beachten.
+Staat zugestimmt hat oder diese Verwendung auf Ersuchen nachträglich
+genehmigt. Von dem übermittelnden Staat für die Verwendung der
+Informationen gestellte Bedingungen sind zu beachten.
 
 
-#### § 92c Datenübermittlung ohne Ersuchen
-
-(1) Soweit eine völkerrechtliche Vereinbarung dies vorsieht oder nach
-Maßgabe des Rahmenbeschlusses 2006/960/JI, dürfen öffentliche Stellen
-ohne Ersuchen personenbezogene Daten, die den Verdacht einer Straftat
-begründen, an öffentliche Stellen eines anderen Mitgliedstaates der
-Europäischen Union oder eines Schengen-assoziierten Staates sowie
-Organe und Einrichtungen der Europäischen Union übermitteln, soweit
-
-1.  eine Übermittlung auch ohne Ersuchen an ein deutsches Gericht oder
-    eine deutsche Staatsanwaltschaft zulässig wäre und
-
-
-2.  die Übermittlung geeignet ist,
-
-    a)  ein Strafverfahren in dem anderen Mitgliedstaat einzuleiten oder
-
-
-    b)  ein dort bereits eingeleitetes Strafverfahren zu fördern, und
-
-
-
-
-
-3.  die Stelle, an die die Daten übermittelt werden, für die zu treffenden
-    Maßnahmen nach Nummer 2 zuständig ist.
-
-
-
-
-(2) § 61a Abs. 2 bis 4 gilt entsprechend.
-
-
-#### § 92d Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung
+##### § 92i Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung
 
 (1) Örtlich zuständig für Ersuchen aus den Mitgliedstaaten der
 Europäischen Union, die auf eine grenzüberschreitende Überwachung des
@@ -7376,7 +7625,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 übertragen.
 
 
-#### § 93 Gemeinsame Ermittlungsgruppen
+##### § 93 Gemeinsame Ermittlungsgruppen
 
 (1) Einem von einem Mitgliedstaat der Europäischen Union in eine
 gemeinsame Ermittlungsgruppe entsandten Mitglied kann unter der
@@ -7402,7 +7651,7 @@ zulässig, wenn ein auf die Verwendung der Informationen gerichtetes
 Ersuchen bewilligt werden könnte.
 
 
-#### § 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung
+##### § 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung
 
 (1) Außerhalb des Anwendungsbereichs der Verordnung Sicherstellung und
 Einziehung sind § 58 Absatz 3 und § 67 bei Ersuchen nach Maßgabe des
@@ -7461,7 +7710,7 @@ Strafgesetzbuchs selbständig angeordnet werden könnte.
 
 
 
-#### § 95 Sicherungsunterlagen
+##### § 95 Sicherungsunterlagen
 
 (1) Die Bewilligung von Ersuchen nach Maßgabe des Rahmenbeschlusses
 Sicherstellung ist nur zulässig, wenn eine Sicherstellungsentscheidung
@@ -7504,7 +7753,7 @@ Sicherstellungsentscheidung, so kann die zuständige Behörde auf die
 Vorlage einer vervollständigten Bescheinigung verzichten.
 
 
-#### § 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen
+##### § 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen
 
 Nach Maßgabe der §§ 94 und 95 zulässige Ersuchen eines Mitgliedstaates
 sind zu bewilligen. Wird ein Ersuchen wegen Unzulässigkeit abgelehnt,
