@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs,
-  der Trinkwasserversorgung und der Energieversorgung
+  der Trinkwasserversorgung, der Postdienste und der Energieversorgung
 jurabk: SektVO 2016
 layout: default
 origslug: sektvo_2016
@@ -8,7 +8,7 @@ slug: sektvo_2016
 
 ---
 
-# Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung (SektVO 2016)
+# Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung (SektVO 2016)
 
 Ausfertigungsdatum
 :   2016-04-12
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 624, 657
 
 Zuletzt geändert durch
-:   Art. 3 V v. 7.2.2024 I Nr. 39
+:   Art. 4 G v. 10.2.2026 I Nr. 40
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/25/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
@@ -38,8 +38,8 @@ Aufhebung der Richtlinie 2004/17/EG (ABl. L 94 vom 28.3.2014, S. 243).
 Verfahren bei der dem Teil 4 des Gesetzes gegen
 Wettbewerbsbeschränkungen unterliegenden Vergabe von Aufträgen und die
 Ausrichtung von Wettbewerben zum Zwecke von Tätigkeiten auf dem Gebiet
-der Trinkwasser- oder Energieversorgung oder des Verkehrs
-(Sektorentätigkeiten) durch Sektorenauftraggeber.
+der Trinkwasser- oder Energieversorgung, der Postdienste oder des
+Verkehrs (Sektorentätigkeiten) durch Sektorenauftraggeber.
 
 (2) Diese Verordnung ist nicht anzuwenden auf die Vergabe von
 verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen.
