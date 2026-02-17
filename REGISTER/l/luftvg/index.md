@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 23.10.2024 I Nr. 327
 
+Änderung durch
+:   Art. 2 G v. 10.2.2026 I Nr. 40 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Luftverkehr
 
@@ -1011,13 +1014,27 @@ ersichtlich sind, bekannt zu geben oder in ortsüblicher Weise
 #### § 18a
 
 (1) Bauwerke dürfen nicht errichtet werden, wenn dadurch
-Flugsicherungseinrichtungen gestört werden können. Das
-Bundesaufsichtsamt für Flugsicherung entscheidet auf der Grundlage
+
+1.  Flugsicherungseinrichtungen gestört werden können oder
+
+
+2.  stationäre militärische Luftverteidigungsradaranlagen in ihrer
+    Funktionsfähigkeit erheblich beeinträchtigt werden.
+
+
+
+Eine erhebliche Beeinträchtigung liegt vor, wenn durch eine
+gutachtliche Stellungnahme auf Grundlage der wissenschaftlichen Studie
+gemäß § 73 Absatz 5 nachvollziehbar dargelegt wird, dass die
+Auftragserfüllung durch die jeweilige Luftverteidigungsradaranlage
+nicht mehr gewährleistet wäre. Im Falle des Satzes 1 Nummer 1
+entscheidet das Bundesaufsichtsamt für Flugsicherung auf der Grundlage
 einer gutachtlichen Stellungnahme der Flugsicherungsorganisation, ob
 durch die Errichtung der Bauwerke Flugsicherungseinrichtungen gestört
-werden können. Das Bundesaufsichtsamt für Flugsicherung teilt seine
-Entscheidung der für die Genehmigung des Bauwerks zuständigen Behörde
-oder, falls es einer Genehmigung nicht bedarf, dem Bauherrn mit.
+werden können; im Falle des Satzes 1 Nummer 2 ist § 30 Absatz 2 zu
+beachten. Die zuständige Behörde teilt ihre Entscheidung der für die
+Genehmigung des Bauwerks zuständigen Behörde oder, falls es einer
+Genehmigung nicht bedarf, dem Bauherrn mit.
 
 (1a) Bei der Errichtung von Windenergieanlagen an Land hat die
 zuständige Immissionsschutzbehörde über die zuständige
@@ -2329,11 +2346,10 @@ Truppen, die auf Grund einer gesonderten Vereinbarung in Deutschland
 Gesetzes, ausgenommen die §§ 12, 13 und 15 bis 19, und von den zu
 seiner Durchführung erlassenen Vorschriften unter Berücksichtigung der
 öffentlichen Sicherheit oder Ordnung abweichen, soweit dies zur
-Erfüllung ihrer besonderen Aufgaben erforderlich ist. Das in § 8
-vorgesehene Planfeststellungsverfahren entfällt, wenn militärische
-Flugplätze angelegt oder geändert werden sollen. Von den Vorschriften
-über das Verhalten im Luftraum darf nur abgewichen werden, soweit dies
-zur Erfüllung hoheitlicher Aufgaben zwingend notwendig ist.
+Erfüllung ihrer besonderen Aufgaben erforderlich ist. Von den
+Vorschriften über das Verhalten im Luftraum darf nur abgewichen
+werden, soweit dies zur Erfüllung hoheitlicher Aufgaben zwingend
+notwendig ist.
 
 (1a) Die Polizeien des Bundes und der Länder dürfen von den
 Vorschriften des Ersten Abschnitts dieses Gesetzes – ausgenommen die
@@ -2343,6 +2359,43 @@ Aufgaben unter Berücksichtigung der öffentlichen Sicherheit oder
 Ordnung erforderlich ist. Von den Vorschriften über das Verhalten im
 Luftraum darf nur abgewichen werden, soweit dies zur Erfüllung
 hoheitlicher Aufgaben zwingend notwendig ist.
+
+(1b) Das in § 8 vorgesehene Planfeststellungsverfahren entfällt, wenn
+militärische Flugplätze angelegt oder geändert werden sollen.
+
+(1c) Das Bundesministerium der Verteidigung oder die zuständige
+Dienststelle der Bundeswehr kann entscheiden, dass das
+Genehmigungsverfahren nach § 6 entfällt, wenn
+
+1.  die Anlegung oder Änderung eines Flugplatzes ausschließlich Zwecken
+    der Landes- und Bündnisverteidigung dient,
+
+
+2.  sich die Durchführung des Genehmigungsverfahrens nach Einschätzung des
+    Bundesministeriums der Verteidigung oder der zuständigen Dienststelle
+    der Bundeswehr nachteilig auf die Erreichung der Zwecke der Landes-
+    und Bündnisverteidigung auswirken würde und
+
+
+3.  die Entscheidung im Einzelfall ergeht.
+
+
+
+Eine nachteilige Auswirkung im Sinne des Satzes 1 Nummer 2 liegt bei
+Anlegung eines Flugplatzes nur vor, wenn Gründe der Geheimhaltung oder
+der Eilbedürftigkeit des Vorhabens der Durchführung des
+Genehmigungsverfahrens entgegenstehen. Zwecke der Landes- und
+Bündnisverteidigung im Sinne der Nummer 1 schließen auch
+zwischenstaatliche sowie völkerrechtliche Verpflichtungen ein.
+Entfällt für ein Vorhaben das in § 6 genannte Genehmigungsverfahren,
+bleiben die für seine Durchführung geltenden Anforderungen aus anderem
+Fachrecht unberührt und sind durch das Bundesministerium der
+Verteidigung oder die zuständigen Fachdienststellen der Bundeswehr
+einzuhalten. Das Bundesministerium der Verteidigung oder die
+zuständige Fachdienststelle der Bundeswehr dokumentiert die Gründe für
+das Entfallen des Genehmigungsverfahrens nach Satz 1; die zuständigen
+Fachdienststellen der Bundeswehr dokumentieren, wie sie die
+Anforderungen des anderen Fachrechts nach Satz 4 berücksichtigen.
 
 (2) Die Verwaltungszuständigkeiten auf Grund dieses Gesetzes werden
 für den Dienstbereich der Bundeswehr und, soweit völkerrechtliche
@@ -2355,13 +2408,17 @@ Flugplätzen; die notwendigen Vorbereitungen zur Wahrnehmung der
 Aufgaben nach Artikel 87a des Grundgesetzes bleiben unberührt. Das
 Bundesministerium der Verteidigung erteilt die Erlaubnisse nach § 2
 Abs. 7 und § 27 auch für andere militärische Luftfahrzeuge. In den
-Fällen der §§ 12, 13 und 15 bis 19 treten bei militärischen
-Flugplätzen die Dienststellen der Bundeswehr an die Stelle der
-Flugsicherungsorganisationen und der genannten Luftfahrtbehörden. Die
-Dienststellen der Bundeswehr treffen ihre Entscheidungen in eigener
-Zuständigkeit und Verantwortung für die öffentliche Sicherheit und
-Ordnung. Zusätzlicher Genehmigungen und Erlaubnisse der zivilen
-Luftfahrtbehörden bedarf es nicht.
+Fällen der §§ 12, 13 und 15 bis 19 treten bei militärischen
+Flugplätzen und stationären militärischen Einrichtungen zur
+Luftverteidigung die Dienststellen der Bundeswehr an die Stelle der
+Flugsicherungsorganisationen und der genannten Luftfahrtbehörden. Im
+Fall des § 14 treten die zuständigen Dienststellen der Bundeswehr
+neben die Flugsicherungsorganisationen und die Behörden der Länder
+nach § 31 Absatz 2 Nummer 9. Die Dienststellen der Bundeswehr treffen
+ihre Entscheidungen in eigener Zuständigkeit und Verantwortung für die
+öffentliche Sicherheit und Ordnung. Zusätzlicher behördlicher
+Genehmigungen, Erlaubnisse und Abnahmen, insbesondere der zivilen
+Luftfahrtbehörden, bedarf es nicht.
 
 (3) Bei der Anlegung und wesentlichen Änderung militärischer
 Flugplätze auf Gelände, das nicht durch Maßnahmen auf Grund des
@@ -2379,6 +2436,8 @@ Flugplätze nach den Vorschriften des Landbeschaffungsgesetzes
 beschafft, findet allein das Anhörungsverfahren nach § 1 Abs. 2 des
 Landbeschaffungsgesetzes statt; hierbei sind insbesondere die
 Erfordernisse des zivilen Luftverkehrs angemessen zu berücksichtigen.
+In den Fällen des Absatzes 1c sind die durch das Vorhaben betroffenen
+Länder unverzüglich zu unterrichten.
 
 
 #### § 30a Ermächtigung zur Beauftragung Privater
@@ -5049,10 +5108,11 @@ zu löschen.
 
 ### § 65
 
-(1) Das Luftfahrt-Bundesamt führt eine Datei über die von ihm, den
-Luftfahrtbehörden der Länder und den Beauftragten nach § 31c im Rahmen
-ihrer Zuständigkeit erteilten Erlaubnisse oder Berechtigungen für
-Luftfahrer (Zentrale Luftfahrerdatei).
+(1) Das Luftfahrt-Bundesamt führt eine Datei über die von ihm, dem
+Luftfahrtamt der Bundeswehr, den Luftfahrtbehörden der Länder und den
+Beauftragten nach § 31c im Rahmen ihrer Zuständigkeit erteilten
+Erlaubnisse oder Berechtigungen für Luftfahrer (Zentrale
+Luftfahrerdatei).
 
 (2) Die zentrale Luftfahrerdatei dient der Feststellung, welche
 Erlaubnisse und Berechtigungen ein Luftfahrer besitzt.
@@ -5143,9 +5203,10 @@ die öffentliche Sicherheit erforderlich ist. In den Fällen der Nummer
 4 sind die Empfänger darauf hinzuweisen, dass die Daten nur zu dem
 Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind.
 
-(6) Die Luftfahrtbehörden der Länder und die Beauftragten nach § 31c
-übermitteln dem Luftfahrt-Bundesamt unverzüglich die nach Absatz 3 zu
-speichernden Daten zur Aufnahme in die Zentrale Luftfahrerdatei.
+(6) Das Luftfahrtamt der Bundeswehr, die Luftfahrtbehörden der Länder
+und die Beauftragten nach § 31c übermitteln dem Luftfahrt-Bundesamt
+unverzüglich die nach Absatz 3 zu speichernden Daten zur Aufnahme in
+die Zentrale Luftfahrerdatei.
 
 (7) Das Luftfahrt-Bundesamt prüft bei der Einzelfallbearbeitung und
 jeweils nach Ablauf von fünf Jahren, ob gespeicherte personenbezogene
@@ -5336,6 +5397,10 @@ Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
 2) in der jeweils geltenden Fassung besonders gesichert sein.
 
+(8) Die Zuständigkeit auf Grund der Absätze 1 bis 7 wird für den
+Dienstbereich der Bundeswehr durch das Luftfahrtamt der Bundeswehr
+wahrgenommen.
+
 
 ### § 65c Flugmedizinische Sachverständige und flugmedizinische Zentren, Anerkennung und Aufsicht
 
@@ -5385,6 +5450,10 @@ Sachverständigen des Luftfahrt-Bundesamtes auf andere Weise Kenntnis
 von Tatbeständen erlangen, die Anlass zu Zweifeln an der Tauglichkeit
 eines Luftfahrers oder eines Bewerbers um ein Tauglichkeitszeugnis
 geben.
+
+(5) Die Zuständigkeit auf Grund der Absätze 1 bis 4 wird für den
+Dienstbereich der Bundeswehr durch das Luftfahrtamt der Bundeswehr
+wahrgenommen.
 
 
 ### § 66
@@ -5475,14 +5544,14 @@ die öffentliche Sicherheit erforderlich ist. In den Fällen der Nummer
 4 sind die Empfänger darauf hinzuweisen, dass die Daten nur zu dem
 Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind.
 
-(4) Die nach § 31 Abs. 2 Nr. 1 und 3 für die Erteilung von
-Erlaubnissen und Berechtigungen für Luftfahrtpersonal zuständigen
-Landesbehörden und die Beauftragten nach § 31c teilen dem Luftfahrt-
-Bundesamt die für eine Speicherung nach Absatz 2 Nr. 1 und 2 und die
-für eine Änderung oder Löschung einer Eintragung erforderlichen Daten
-unverzüglich mit. Satz 1 gilt entsprechend, wenn diesen Behörden Daten
-nach Absatz 2 Nr. 3 und 4 von Gerichten und Staatsanwaltschaften
-übermittelt wurden.
+(4) Das Luftfahrtamt der Bundeswehr, die nach § 31 Absatz 2 Nummer 1
+und 3 für die Erteilung von Erlaubnissen und Berechtigungen für
+Luftfahrtpersonal zuständigen Landesbehörden und die Beauftragten nach
+§ 31c teilen dem Luftfahrt-Bundesamt die für eine Speicherung nach
+Absatz 2 Nummer 1 und 2 und die für eine Änderung oder Löschung einer
+Eintragung erforderlichen Daten unverzüglich mit. Satz 1 gilt
+entsprechend, wenn diesen Behörden Daten nach Absatz 2 Nr. 3 und 4 von
+Gerichten und Staatsanwaltschaften übermittelt wurden.
 
 (5) Die nach Absatz 2 gespeicherten Daten sind spätestens nach Ablauf
 folgender Fristen zu löschen:
@@ -5959,15 +6028,20 @@ worden ist.
 
 (2) Absatz 1 Satz 1 gilt für einen bis zum 31. Dezember 1958 in dem
 Gebiet der Bundesrepublik Deutschland nach dem Stand bis zum 3.
-Oktober 1990 angelegten Flugplatz, der am 1. März 1999 noch betrieben
-wird, entsprechend. Satz 1 findet keine Anwendung auf die in § 2 Abs.
-5 des Sechsten Überleitungsgesetzes vom 25. September 1990 (BGBl. I S.
-2106) genannten Flugplätze.
+Oktober 1990 angelegten zivilen Flugplatz, der am 1. März 1999 noch
+betrieben wird, entsprechend. Satz 1 findet keine Anwendung auf die in
+§ 2 Abs. 5 des Sechsten Überleitungsgesetzes vom 25. September 1990
+(BGBl. I S. 2106) genannten Flugplätze.
 
 (3) Vor dem 17. Dezember 2006 begonnene Planungsverfahren werden nach
 den Vorschriften dieses Gesetzes in der ab dem 17. Dezember 2006
 geltenden Fassung weitergeführt. § 11 Abs. 2 des
 Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
+
+(4) Absatz 1 Satz 1 gilt für einen in dem Gebiet der Bundesrepublik
+Deutschland nach dem Stand bis zum 3. Oktober 1990 angelegten
+militärischen Flugplatz, der am 1. März 1999 noch betrieben wurde,
+entsprechend.
 
 
 ### § 72
@@ -6053,6 +6127,37 @@ a)  im deutschen Luftraum in grenznahen Bereichen ausgeübten Tätigkeiten
 b)  an Flugplätzen nach § 27d Absatz 4 durch ausländische
     Flugsicherungsorganisationen nach § 31f Absatz 1 ausgeübten
     Tätigkeiten bei Vorliegen aller anderen Voraussetzungen als gestattet.
+
+
+
+
+(5) § 18a Absatz 1 Satz 1 Nummer 2 ist erst anzuwenden, wenn
+
+1.  das Bewertungs- und Nachweisverfahren einer Störung an stationären
+    militärischen Einrichtungen zur Kontrolle des Flugbetriebs
+    (Luftverteidigungsradare) einer unabhängigen wissenschaftlichen Studie
+    unterzogen wurde, die dem aktuellen Stand der Wissenschaft entspricht,
+
+
+2.  zu den Ergebnissen der Studie nach Nummer 1 und dem darauf aufbauenden
+    neuen Bewertungs- und Nachweisverfahren das Bundesministerium für
+    Wirtschaft und Energie, die Länder, die kommunalen Spitzenverbänden,
+    die Fachkreise und die betroffenen Verbände beteiligt worden sind,
+
+
+3.  eine Folgenabschätzung über die Auswirkungen des neuen Bewertungs- und
+    Nachweisverfahrens auf die Zulassung von Windenergieanlagen an Land in
+    ausgewiesenen und in Ausweisung befindlichen Windenergiegebieten
+    erfolgt ist und das Bundesministerium für Wirtschaft und Energie und
+    das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+    nukleare Sicherheit diese Auswirkungen als vertretbar bewerten und
+
+
+4.  durch das Bundesministerium der Verteidigung im Einvernehmen mit dem
+    Bundesministerium für Wirtschaft und Energie und dem Bundesministerium
+    für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit im
+    Bundesgesetzblatt bekanntgemacht wird, dass die vorgenannten
+    Voraussetzungen in Nummer 1 und 3 erfüllt sind.
 
 
 
