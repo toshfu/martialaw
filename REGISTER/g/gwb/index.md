@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
+:   Art. 3 G v. 10.2.2026 I Nr. 40 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -3920,7 +3920,15 @@ Durchsuchungen und Vernehmungen mitzuwirken, die das Bundeskartellamt
 im Namen und für Rechnung dieser Wettbewerbsbehörde nach Artikel 22
 Absatz 1 der Verordnung (EG) Nr. 1/2003 durchführt.
 
-(4) In anderen als in den Absätzen 1 bis 3 bezeichneten Fällen nimmt
+(4) Das Bundeskartellamt nimmt die Aufgaben und Befugnisse nach
+Artikel 14 Absatz 5 bis 7 der Verordnung (EU) 2022/2560 wahr. Die bei
+der Anwendung dieses Gesetzes maßgeblichen Verfahrensvorschriften
+gelten entsprechend. Die erhobenen Informationen dürfen in
+entsprechender Anwendung des § 50d mit der Europäischen Kommission und
+den Wettbewerbsbehörden der anderen Mitgliedstaaten der Europäischen
+Union ausgetauscht und verwendet werden.
+
+(5) In anderen als in den Absätzen 1 bis 4 bezeichneten Fällen nimmt
 das Bundeskartellamt die Aufgaben wahr, die den Behörden der
 Mitgliedstaaten der Europäischen Union in den Artikeln 104 und 105 des
 Vertrages über die Arbeitsweise der Europäischen Union sowie in
@@ -4299,8 +4307,8 @@ austauschen. Dies gilt nicht
 
 
 2.  für Informationen, die nach § 50d dieses Gesetzes, nach der Verordnung
-    (EU) 2022/1925 oder nach Artikel 12 der Verordnung (EG) Nr. 1/2003
-    erlangt worden sind.
+    (EU) 2022/1925 nach der Verordnung (EU) 2022/2560 oder nach Artikel 12
+    der Verordnung (EG) Nr. 1/2003 erlangt worden sind.
 
 
 
@@ -7142,7 +7150,9 @@ erheblich beeinträchtigt wird. Keine besonderen oder ausschließlichen
 Rechte in diesem Sinne sind Rechte, die aufgrund eines Verfahrens nach
 den Vorschriften dieses Teils oder aufgrund eines sonstigen Verfahrens
 gewährt wurden, das angemessen bekannt gemacht wurde und auf
-objektiven Kriterien beruht.
+objektiven Kriterien beruht. Zu den in Satz 2 genannten Verfahren
+zählen dabei insbesondere solche, die in Anhang II der Richtlinie
+2014/25/EU genannt sind.
 
 (3) Die Ausübung eines beherrschenden Einflusses im Sinne von Absatz 1
 Nummer 2 Buchstabe b wird vermutet, wenn ein öffentlicher Auftraggeber
@@ -7172,18 +7182,20 @@ gemäß § 99 Nummer 1 bis 3
 
 
 2.  Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 1, die eine
-    Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine
+    Sektorentätigkeit gemäß § 102 Absatz 2 bis 7 ausüben und eine
     Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben,
 
 
 3.  Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 2, die eine
-    Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine
+    Sektorentätigkeit gemäß § 102 Absatz 2 bis 7 ausüben und eine
     Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben.
 
 
 
 
-(2) § 100 Absatz 2 und 3 gilt entsprechend.
+(2) § 100 Absatz 2 und 3 gilt entsprechend. Zu den in § 100 Absatz 2
+Satz 2 genannten Verfahren zählen dabei insbesondere solche, die in
+Anhang III der Richtlinie 2014/23/EU genannt sind.
 
 
 ##### § 102 Sektorentätigkeiten
@@ -7298,7 +7310,42 @@ Zweck
 
 
 
-(7) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff
+(7) Sektorentätigkeiten im Bereich Postdienstleistungen sind
+
+1.  Postdienste,
+
+
+2.  andere Dienste als Postdienste, vorausgesetzt, dass diese
+    Dienstleistungen von einer Stelle erbracht werden, die auch
+    Postdienste im Sinne der Sätze 2 und 3 erbringt, und dass die in § 140
+    Absatz 1 genannten Bedingungen hinsichtlich der Dienstleistungen nach
+    den Sätzen 2 und 3 nicht erfüllt sind.
+
+
+
+Postdienste im Sinne dieses Gesetzes sind Dienste, die die Abholung,
+das Sortieren, den Transport und die Zustellung von Postsendungen
+betreffen. Dies umfasst sowohl Dienstleistungen, die
+Universaldienstleistungen im Sinne der Richtlinie 97/67/EG darstellen,
+als auch andere Dienstleistungen. Postsendungen im Sinne dieses
+Gesetzes sind adressierte Sendungen in der endgültigen Form, in der
+sie befördert werden, ungeachtet ihres Gewichts. Neben Briefsendungen
+handelt es sich dabei beispielsweise um Bücher, Kataloge, Zeitungen
+und Zeitschriften sowie um Postpakete, die Waren mit oder ohne
+Handelswert enthalten, ungeachtet ihres Gewichts. Andere Dienste als
+Postdienste im Sinne dieses Gesetzes sind
+
+1.  Managementdienste für Postversandstellen (Dienste vor dem Versand und
+    nach dem Versand wie beispielsweise Mailroom Management) sowie
+
+
+2.  Dienste, die nicht unter Satz 4 erfasste Sendungen wie etwa nicht
+    adressierte Postwurfsendungen betreffen.
+
+
+
+
+(8) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff
 „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und
 Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 
@@ -7836,11 +7883,13 @@ nicht trennbar,
     jeweiligen Dienst- oder Lieferleistungen höher ist,
 
 
-2.  kann der Auftrag ohne Anwendung der Vorschriften dieses Teils oder
-    gemäß den Vorschriften über die Vergabe von verteidigungs- oder
-    sicherheitsspezifischen öffentlichen Aufträgen vergeben werden, wenn
-    der Auftrag Elemente enthält, auf die § 107 Absatz 2 Nummer 1 oder 2
-    anzuwenden ist.
+2.  kann der Auftrag oder die Konzession ohne Anwendung der Vorschriften
+    dieses Teils vergeben werden, wenn darin Elemente enthalten sind, auf
+    die § 107 Absatz 2 Nummer 1 oder 2 anzuwenden ist; der Auftrag oder
+    die Konzession kann auch gemäß den Vorschriften über die Vergabe von
+    verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
+    oder gemäß den Vorschriften über die Vergabe von Konzessionen vergeben
+    werden.
 
 
 
@@ -8127,6 +8176,35 @@ Wettbewerbe anzuwenden, die hauptsächlich den Zweck haben, dem
 öffentlicher Kommunikationsnetze oder die Bereitstellung eines oder
 mehrerer elektronischer Kommunikationsdienste für die Öffentlichkeit
 zu ermöglichen.
+
+(3) Dieser Teil ist darüber hinaus ebenfalls nicht anzuwenden auf die
+Vergabe von öffentlichen Aufträgen, wenn sie von einem öffentlichen
+Auftraggeber vergeben werden, der Postdienste im Sinne des § 102
+Absatz 7 erbringt, die der Durchführung einer der folgenden
+Tätigkeiten dienen:
+
+1.  Mehrwertdienste, die mit elektronischen Mitteln verknüpft sind und
+    gänzlich mit diesen Mitteln erbracht werden (einschließlich der
+    abgesicherten Übermittlung von verschlüsselten Dokumenten mit
+    elektronischen Mitteln, Adressenverwaltungsdiensten und der
+    Übermittlung von registrierten E-Mail-Sendungen),
+
+
+2.  Finanzdienstleistungen im Zusammenhang mit der Ausgabe, dem Verkauf,
+    dem Kauf oder der Übertragung von Wertpapieren oder anderen
+    Finanzinstrumenten, sowie gemäß den CPV-Codes 6610 00 00-1 bis
+    66720000-3, insbesondere Postanweisungen und -überweisungen,
+
+
+3.  philatelistische Dienstleistungen oder
+
+
+4.  logistische Dienstleistungen, bei denen die materielle Auslieferung,
+    Lagerung oder eine Kombination des Vorgenannten mit anderen nicht
+    postalischen Aufgaben kombiniert wird.
+
+
+
 
 
 ###### § 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen
@@ -8921,12 +8999,16 @@ ist.
 (2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn
 sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen nach der
 Information der betroffenen Bieter und Bewerber durch den öffentlichen
-Auftraggeber über den Abschluss des Vertrags, jedoch nicht später als
-sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der
-Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union
-bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit
-30 Kalendertage nach Veröffentlichung der Bekanntmachung der
-Auftragsvergabe im Amtsblatt der Europäischen Union.
+Auftraggeber über den Abschluss des Vertrags einschließlich einer
+Zusammenfassung der einschlägigen Gründe entsprechend § 134 Absatz 1
+Satz 1 unter Berücksichtigung von Absatz 3 Satz 2, jedoch nicht später
+als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat
+der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen
+Union bekannt gemacht, endet die Frist zur Geltendmachung der
+Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung
+der Auftragsvergabe im Amtsblatt der Europäischen Union, sofern in der
+Bekanntmachung die Angaben entsprechend Absatz 3 Satz 2 enthalten
+sind.
 
 (3) Die Unwirksamkeit nach Absatz 1 Nummer 2 tritt nicht ein, wenn
 
