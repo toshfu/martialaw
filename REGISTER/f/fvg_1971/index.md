@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 60 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 7 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt I - Allgemeine Vorschriften
 
@@ -245,13 +248,11 @@ und 3 folgende Aufgaben:
 
 
 5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der
-    Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen
+    Grundlage von § 117a der Abgabenordnung ergangenen Rechtsverordnungen
     und die Durchführung von Bußgeldverfahren in den Fällen des § 379
-    Absatz 2 Nummer 1b der Abgabenordnung und in den Fällen der auf
-    Grundlage von § 117c Absatz 1 Satz 1 Nummer 5 der Abgabenordnung
-    ergangenen Rechtsverordnung sowie die Auswertung dieser Meldungen im
-    Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen
-    Aufgaben;
+    Absatz 2 Nummer 1b und des § 383a der Abgabenordnung sowie die
+    Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für
+    Steuern gesetzlich übertragenen Aufgaben;
 
 
 5b. die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im
