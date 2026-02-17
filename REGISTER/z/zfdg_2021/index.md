@@ -28,6 +28,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 3.2.2026 I Nr. 27 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 5 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
 natürlicher Personen bei der Verarbeitung personenbezogener Daten
@@ -196,27 +199,19 @@ für Zwecke des Risikomanagements im Sinne des Absatzes 2 aus. Hierfür
 unterhält das Zollkriminalamt Informationssysteme nach Maßgabe
 internationaler Vereinbarungen und anderer Rechtsvorschriften.
 
-(8) Das Bundesministerium der Finanzen kann dem Zollkriminalamt
-Aufgaben übertragen bei der Anwendung des Rahmenbeschlusses
-2006/960/JI des Rates vom 18. Dezember 2006 über die Vereinfachung des
-Austauschs von Informationen und Erkenntnissen zwischen den
-Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union
-(ABl. L 386 vom 29.12.2006, S. 89; L 75 vom 15.3.2007, S. 26). Die
-Übertragung bedarf des Einvernehmens aller obersten Finanzbehörden der
-Länder. Übertragbar sind Aufgaben zur Unterstützung des
-Geschäftsverkehrs zwischen
-
-1.  den mit der Steuerfahndung betrauten Dienststellen der
-    Landesfinanzbehörden und den Polizeibehörden oder
-
-
-2.  sonstigen für die Verhütung und Verfolgung von Straftaten zuständigen
-    Stellen eines Mitgliedstaates der Europäischen Union oder eines
-    Schengenassoziierten Staates im Sinne des § 91 Absatz 3 des Gesetzes
-    über die internationale Rechtshilfe in Strafsachen.
-
-
-
+(8) Das Zollkriminalamt ist benannte Strafverfolgungsbehörde gemäß
+Artikel 2 Absatz 2 der Richtlinie (EU) 2023/977. Absatz 7 bleibt
+unberührt. Das Zollkriminalamt hat der für die Bundesrepublik
+Deutschland gemäß Artikel 4 der Richtlinie (EU) 2023/977 benannten
+zentralen Kontaktstelle nach Maßgabe der entsprechend anzuwendenden
+§§ 117c und 117h der Abgabenordnung Informationen zu übermitteln,
+soweit dies zur Erfüllung der Aufgaben als zentrale Kontaktstelle
+gemäß Artikel 14 Absatz 2 der Richtlinie (EU) 2023/977 notwendig ist.
+Für ausgehende Ersuchen des Zollkriminalamtes um Übermittlung von
+Informationen einschließlich personenbezogener Daten zur Verfolgung
+von Straftaten an die zentralen Kontaktstellen anderer Mitgliedstaaten
+gelten die §§ 92f und 92g des Gesetzes über die internationale
+Rechtshilfe in Strafsachen. Im Übrigen gelten die §§ 24 und 24a.
 
 (9) Das Zollkriminalamt legt als Zentralstelle für den
 Zollfahndungsdienst angemessene technische und organisatorische
@@ -1538,29 +1533,36 @@ eines Schengenassoziierten Staates (§ 91 Absatz 3 des Gesetzes über
 die internationale Rechtshilfe in Strafsachen).
 
 
-##### § 23 Datenübermittlung im internationalen Bereich
+##### § 22a Datenübermittlung im internationalen Bereich
 
 (1) Das Zollkriminalamt kann unter Beachtung der §§ 78 bis 80 des
-Bundesdatenschutzgesetzes an
-Zoll-,              Polizei- und Justizbehörden sowie an sonstige für
-die Verhütung oder Verfolgung von Straftaten zuständige öffentliche
-Stellen in anderen als in den in § 22 genannten Staaten sowie an
-andere als die in § 22 genannten zwischen- und überstaatlichen
-Stellen, die mit Aufgaben der Verhütung oder Verfolgung von Straftaten
-befasst sind, personenbezogene Daten übermitteln, soweit dies
-erforderlich ist
+Bundesdatenschutzgesetzes an Zoll-, Polizei- und Justizbehörden sowie
+an sonstige für die Verhütung oder Verfolgung von Straftaten
+zuständige öffentliche Stellen in anderen als in den in § 22 genannten
+Staaten sowie an andere als die in § 22 genannten zwischen- und
+überstaatlichen Stellen, die mit Aufgaben der Verhütung oder
+Verfolgung von Straftaten befasst sind, personenbezogene Daten
+übermitteln, soweit dies
 
-1.  zur Erfüllung einer ihm obliegenden Aufgabe,
-
-
-2.  zur Verfolgung von Straftaten und zur Strafvollstreckung nach Maßgabe
-    der Vorschriften über die internationale Rechtshilfe in
-    strafrechtlichen Angelegenheiten oder nach Maßgabe der Vorschriften
-    über die Zusammenarbeit mit dem Internationalen Strafgerichtshof oder
+1.  in anderen Rechtsvorschriften vorgesehen ist oder
 
 
-3.  zur Abwehr einer im Einzelfall bestehenden erheblichen Gefahr für die
-    öffentliche Sicherheit.
+2.  erforderlich ist
+
+    a)  zur Erfüllung einer ihm obliegenden Aufgabe,
+
+
+    b)  zur Verfolgung von Straftaten und zur Strafvollstreckung nach Maßgabe
+        der Vorschriften über die internationale Rechtshilfe in
+        strafrechtlichen Angelegenheiten oder nach Maßgabe der Vorschriften
+        über die Zusammenarbeit mit dem Internationalen Strafgerichtshof oder
+
+
+    c)  zur Abwehr einer im Einzelfall bestehenden erheblichen Gefahr für die
+        öffentliche Sicherheit.
+
+
+
 
 
 
@@ -1615,7 +1617,7 @@ dürfen, zu dem sie übermittelt worden sind. Ferner hat es der Stelle
 den beim Zollkriminalamt vorgesehenen Löschungszeitpunkt mitzuteilen.
 
 
-##### § 24 Übermittlungsverbote und Verweigerungsgründe
+##### § 23 Übermittlungsverbote und Verweigerungsgründe
 
 (1) Die Übermittlung personenbezogener Daten nach diesem
 Unterabschnitt unterbleibt, wenn
@@ -1666,10 +1668,117 @@ hinaus, wenn
 
 
 
-#### Unterabschnitt 3 - Steuerungsbefugnis der Zentralstelle
+#### Unterabschnitt 3 - Ausgehende Ersuchen des Zollkriminalamtes als benannte Strafverfolgungsbehörde nach Artikel 2 Absatz 2 der Richtlinie (EU) 2023/977
 
 
-##### § 25 Weisungsrecht
+##### § 24 Ersuchen an eine zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union um Übermittlung von Informationen einschließlich personenbezogener Daten
+
+(1) Als benannte Strafverfolgungsbehörde nach Artikel 2 Absatz 2 der
+Richtlinie (EU) 2023/977 darf das Zollkriminalamt Ersuchen um
+Übermittlung von Informationen einschließlich personenbezogener Daten
+an eine nach Artikel 14 der Richtlinie (EU) 2023/977 benannte zentrale
+Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union zum
+Zweck der Verhütung von Straftaten richten.
+
+(2) Ein Ersuchen nach Absatz 1 setzt objektive Anhaltspunkte dafür
+voraus, dass
+
+1.  die Übermittlung der Information zum Zweck der Verhütung einer
+    Straftat erforderlich und verhältnismäßig ist und
+
+
+2.  die angeforderten Informationen dem anderen Mitgliedstaat der
+    Europäischen Union zur Verfügung stehen.
+
+
+
+
+(3) Bei einem Ersuchen nach Absatz 1 ist anzugeben, ob das Ersuchen
+dringend ist, und bei Dringlichkeit sind die Gründe für diese zu
+nennen. Ein Informationsersuchen gilt als dringend, wenn unter
+Berücksichtigung aller relevanten Tatsachen und Umstände des
+betreffenden Sachverhaltes objektive Anhaltspunkte dafür vorliegen,
+dass
+
+1.  die angeforderten Informationen unerlässlich sind zur Abwehr einer
+    unmittelbaren und ernsthaften Gefahr für die öffentliche Sicherheit
+    eines Mitgliedstaates der Europäischen Union,
+
+
+2.  die angeforderten Informationen erforderlich sind, um eine
+    unmittelbare Gefahr für das Leben oder die körperliche Unversehrtheit
+    einer Person abzuwenden,
+
+
+3.  die angeforderten Informationen erforderlich sind für den Erlass eines
+    Beschlusses, der die Aufrechterhaltung restriktiver Maßnahmen bis hin
+    zu einem Freiheitsentzug umfassen könnte, oder
+
+
+4.  die unmittelbare Gefahr besteht, dass die Informationen an Relevanz
+    verlieren, wenn sie nicht umgehend zur Verfügung gestellt werden, und
+    die Informationen als wichtig für die Untersuchung von Straftaten
+    anzusehen sind.
+
+
+
+
+(4) Im Übrigen muss ein Ersuchen nach Absatz 1 Angaben zu Folgendem
+enthalten:
+
+1.  eine Präzisierung der angeforderten Informationen, die so detailliert
+    ist, wie dies unter den gegebenen Umständen in angemessener Weise
+    möglich ist,
+
+
+2.  die Beschreibung des Sachverhaltes der dem Ersuchen zugrunde liegenden
+    Straftat,
+
+
+3.  die Benennung des Zwecks, zu dem die Informationen erbeten werden,
+
+
+4.  Einzelheiten zur Identität der betroffenen Person, sofern sich das
+    Ersuchen auf eine bekannte Person bezieht,
+
+
+5.  soweit angemessen, eine Erläuterung des Zusammenhangs zwischen dem
+    Zweck, zu dem die Informationen angefordert werden, und allen weiteren
+    natürlichen oder juristischen Personen oder Organisationen, auf die
+    sich die Informationen beziehen,
+
+
+6.  etwaige Beschränkungen einer Verwendung der in dem Ersuchen
+    enthaltenen Informationen zu anderen Zwecken als denen, für die sie
+    übermittelt wurden.
+
+
+
+
+(5) Ein Ersuchen nach Absatz 1 ist in einer der Sprachen zu
+übermitteln, die in der von diesem anderen Mitgliedstaat der
+Europäischen Union nach Artikel 11 der Richtlinie (EU) 2023/977
+erstellten Liste aufgeführt sind.
+
+(6) Eine Kopie eines Ersuchens nach Absatz 1 wird auch der für die
+Bundesrepublik Deutschland nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentralen Kontaktstelle übermittelt.
+
+
+##### § 24a Ersuchen um Informationsübermittlung an Schengen-assoziierte Staaten
+
+§ 24 gilt für die Übermittlung von Ersuchen an nach Artikel 14 der
+Richtlinie (EU) 2023/977 benannte zentrale Kontaktstellen von Staaten,
+die die Bestimmungen des Schengen-Besitzstandes aufgrund eines
+Assoziierungsabkommens mit der Europäischen Union über die Umsetzung,
+Anwendung und Entwicklung des Schengen-Besitzstandes anwenden,
+entsprechend.
+
+
+#### Unterabschnitt 4 - Steuerungsbefugnis der Zentralstelle
+
+
+##### § 25 Übermittlungsverbote und Verweigerungsgründe
 
 (1) Das Zollkriminalamt kann den Zollfahndungsämtern zur Erfüllung
 deren Aufgaben fachliche Weisungen erteilen.
