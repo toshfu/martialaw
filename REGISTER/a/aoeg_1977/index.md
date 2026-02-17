@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 17 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 
@@ -2243,13 +2246,18 @@ nicht der Zustimmung des Bundesrates.
 -
 
 
-### Art 101 - Berlin-Klausel
+### Art 101 - Übergangsvorschrift zum Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union
 
-Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1 des
-Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
-1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
-Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
+(1) § 383a der Abgabenordnung und § 11 der FATCA-USA-
+Umsetzungsverordnung in der am 14. Februar 2026 geltenden Fassung sind
+auf alle Handlungen oder Unterlassungen anzuwenden, die nach dem 13.
+Februar 2026 begangen werden.
+
+(2) § 379 Absatz 2 Nummer 1b der Abgabenordnung in der Fassung vom 18.
+Dezember 2013 und § 11 der FATCA-USA-Umsetzungsverordnung in der
+Fassung vom 29. Juli 2014 sind weiterhin anzuwenden, soweit die
+Handlungen oder Unterlassungen vor dem 14. Februar 2026 begangen
+wurden.
 
 
 ### Art 102 - Inkrafttreten
