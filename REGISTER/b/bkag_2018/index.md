@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 22.12.2025 I Nr. 369
 
+Änderung durch
+:   Art. 1 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
@@ -176,7 +179,7 @@ Gesetzes.
         im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur
         Durchführung des Übereinkommens von Schengen und zur Änderung und
         Aufhebung der Verordnung (EG) Nr. 1987/2006 (ABl. L 312 vom 7.12.2018,
-        S. 14) und
+        S. 14),
 
 
 
@@ -187,10 +190,14 @@ Gesetzes.
     a)  nach Artikel 7 Absatz 2 der Verordnung (EU) 2018/1862 sowie
 
 
-    b)  nach Artikel 7 Absatz 2 der Verordnung (EU) 2018/1861.
+    b)  nach Artikel 7 Absatz 2 der Verordnung(EU) 2018/1861 und
 
 
 
+
+
+4.  zentrale Kontaktstelle für den Informationsaustausch nach Artikel 14
+    Absatz 1 der Richtlinie (EU) 2023/977 (zentrale Kontaktstelle).
 
 
 
@@ -908,6 +915,10 @@ Personenbezogene Daten, die durch Herstellung von Lichtbildern oder
 Bildaufzeichnungen über eine Person im Wege eines verdeckten Einsatzes
 technischer Mittel in oder aus Wohnungen erlangt wurden, dürfen nicht
 zu Strafverfolgungszwecken weiterverarbeitet werden.
+
+(3a) Eine zweckändernde Weiterverarbeitung personenbezogener Daten ist
+ausgeschlossen, wenn deren Offenbarung oder Verwertung nach § 30 der
+Abgabenordnung unzulässig ist.
 
 (4) Abweichend von Absatz 2 kann das Bundeskriminalamt die vorhandenen
 Grunddaten (§ 18 Absatz 2 Nummer 1 Buchstabe a) einer Person auch
@@ -1721,6 +1732,128 @@ aufgrund eines Assoziierungsübereinkommens mit der Europäischen Union
 Besitzstandes anwenden.
 
 
+#### § 26a Datenübermittlung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten im Anwendungsbereich der Richtlinie (EU) 2023/977
+
+(1) Für die Übermittlung von Daten an Polizeibehörden oder sonstige
+für die Verhütung oder Verfolgung von Straftaten zuständige
+öffentliche Stellen und zentrale Kontaktstellen der Mitgliedstaaten
+der Europäischen Union und der in § 26 Absatz 2 genannten Staaten
+gelten im Anwendungsbereich der Richtlinie (EU) 2023/977 ergänzend zu
+den §§ 25 und 26 die Absätze 2 bis 8. Wird das Bundeskriminalamt als
+zentrale Kontaktstelle oder im Rahmen der Wahrnehmung der Aufgaben
+nach den §§ 5 bis 8 tätig, übermittelt es Daten ausschließlich nach
+den Vorschriften dieses Unterabschnitts. Die Absätze 4 bis 7 gelten
+ausschließlich für die Wahrnehmung der Aufgabe als zentrale
+Kontaktstelle. Im Rahmen der Wahrnehmung der Aufgabe nach § 4 gelten
+gemäß § 26 Absatz 1 Satz 3 die §§ 92 bis 92h des Gesetzes über die
+internationale Rechtshilfe in Strafsachen.
+
+(2) Eine für die Übermittlung von Daten nach deutschem Recht
+erforderliche Erlaubnis durch eine Justizbehörde ist unverzüglich
+einzuholen.
+
+(3) Bei der Übermittlung von Daten ist mitzuteilen, dass die
+Verwendung als Beweismittel in einem Gerichtsverfahren unzulässig ist,
+es sei denn,
+
+1.  die nach § 92 Absatz 4 des Gesetzes über die internationale
+    Rechtshilfe in Strafsachen zuständige Stelle hat ihre Zustimmung zur
+    Verwendung als Beweismittel erteilt oder
+
+
+2.  die Verwendung als Beweismittel ist durch eine anwendbare
+    völkerrechtliche Vereinbarung oder einen unmittelbar anwendbaren
+    Rechtsakt der Europäischen Union zugelassen.
+
+
+
+Die Zuständigkeit für die Zustimmung zu einer Verwendung als
+Beweismittel nach Satz 1 Nummer 1 richtet sich nach den Vorschriften
+des Gesetzes über die internationale Rechtshilfe in Strafsachen.
+
+(4) Die Übermittlung von Daten an eine zentrale Kontaktstelle eines
+anderen Staats ist in einer Sprache vorzunehmen, die der Staat, an
+dessen zentrale Kontaktstelle Daten übermittelt werden, zugelassenen
+hat.
+
+(5) Ein an eine zentrale Kontaktstelle eines anderen Staats
+gerichtetes Ersuchen muss mindestens die folgenden Angaben enthalten:
+
+1.  die Angabe, ob das Ersuchen dringend ist und, wenn dies der Fall ist,
+    die Angabe der Gründe für die Dringlichkeit,
+
+
+2.  eine Präzisierung der angeforderten Informationen, die so detailliert
+    ist, wie dies unter den gegebenen Umständen in angemessener Weise
+    möglich ist,
+
+
+3.  die Beschreibung des Zwecks, zu dem die Informationen angefordert
+    werden, einschließlich einer Beschreibung des Sachverhalts und der
+    zugrundeliegenden Straftat, und
+
+
+4.  etwaige Beschränkungen einer Verwendung der in dem Ersuchen
+    enthaltenen Informationen zu anderen Zwecken als denen, für die sie
+    übermittelt wurden.
+
+
+
+
+(6) Übermittelt das Bundeskriminalamt ein Ersuchen einer inländischen
+Polizeibehörde, ist diese für die Prüfung der Erforderlichkeit des
+Ersuchens und der Voraussetzungen nach den Absätzen 4 und 5
+verantwortlich.
+
+(7) Bei der Übermittlung von Daten an Polizeibehörden oder sonstige
+für die Verhütung oder Verfolgung von Straftaten zuständige
+öffentliche Stellen, die nicht zugleich zentrale Kontaktstellen sind,
+ist der zentralen Kontaktstelle des jeweiligen Staats gleichzeitig
+eine Kopie der Daten zu übermitteln. Hiervon kann abgewichen werden,
+wenn die Übermittlung von Daten Terrorismusfälle betrifft, bei denen
+es sich nicht um Not- oder Krisenmanagementsituationen handelt.
+
+(8) Daten, die beim Bundeskriminalamt als zentraler Kontaktstelle
+aufgrund eines Ersuchens eines anderen Staats angefordert werden, sind
+unter den Voraussetzungen von § 26 und vorbehaltlich des § 28
+innerhalb folgender Fristen zur Verfügung zu stellen:
+
+1.  acht Stunden im Falle von dringenden Ersuchen bei dem
+    Bundeskriminalamt unmittelbar zugänglichen Informationen,
+
+
+2.  drei Kalendertage im Falle von dringenden Ersuchen bei dem
+    Bundeskriminalamt mittelbar zugänglichen Informationen sowie
+
+
+3.  sieben Kalendertage im Falle aller anderen Ersuchen.
+
+
+
+Die Pflicht nach Satz 1 besteht nur bei Ersuchen von zentralen
+Kontaktstellen sowie Polizeibehörden oder sonstigen für die Verhütung
+oder Verfolgung von Straftaten zuständigen öffentlichen Stellen, die
+von den Mitgliedstaaten der Europäischen Union oder den in § 26 Absatz
+2 genannten Staaten nach Artikel 4 Absatz 1 Unterabsatz 2 Satz 1 der
+Richtlinie (EU) 2023/977 notifiziert wurden. Die in Satz 1 genannten
+Fristen beginnen mit Eingang des Ersuchens beim Bundeskriminalamt.
+Satz 1 gilt nicht, soweit eine Abweichung von den Fristen für eine
+Einholung einer Erlaubnis nach Absatz 2 erforderlich ist. Die Stelle,
+die das Ersuchen gestellt hat, ist in diesem Fall unter Angabe von
+Gründen über die Dauer der erwarteten Verzögerung zu unterrichten.
+Nach Einholung der Erlaubnis nach Absatz 2 sind die Daten unverzüglich
+zu übermitteln.
+
+(9) Daten, die das Bundeskriminalamt selbst erhoben hat, sind unter
+den Voraussetzungen von § 26 aus eigener Initiative zu übermitteln
+oder bereitzustellen, wenn tatsächliche Anhaltspunkte dafür vorliegen,
+dass diese Daten für einen anderen Mitgliedstaat der Europäischen
+Union oder einen in § 26 Absatz 2 genannten Staat zum Zwecke der
+Verhütung von Straftaten nach Artikel 2 Absatz 3 der Richtlinie (EU)
+2023/977 relevant sein können und diese Daten diesem Staat nicht
+bereits anderweitig übermittelt oder bereitgestellt wurden.
+
+
 #### § 27 Datenübermittlung im internationalen Bereich
 
 (1) Das Bundeskriminalamt kann unter Beachtung des § 12 Absatz 2 bis 4
@@ -1874,8 +2007,8 @@ unterbleibt, wenn
 Satz 1 Nummer 1 gilt nicht für Übermittlungen an die
 Staatsanwaltschaften.
 
-(2) Die Datenübermittlung nach den §§ 26 und 27 unterbleibt darüber
-hinaus,
+(2) Die Datenübermittlung nach den §§ 26, 26a und 27 unterbleibt
+darüber hinaus,
 
 1.  wenn hierdurch wesentliche Sicherheitsinteressen des Bundes oder der
     Länder beeinträchtigt würden,
@@ -1898,6 +2031,52 @@ hinaus,
 
 
 
+(2a) Die Datenübermittlung nach § 26 in Verbindung mit § 26a
+unterbleibt über die Absätze 1 und 2 hinaus, soweit
+
+1.  eine nach deutschem Recht erforderliche Erlaubnis durch eine
+    Justizbehörde verweigert wurde,
+
+
+2.  es sich bei den angeforderten personenbezogenen Daten um andere als
+    die in Anhang II Abschnitt B zu der Verordnung (EU) 2016/794 genannten
+    Kategorien handelt oder
+
+
+3.  die Daten von einem Mitgliedstaat der Europäischen Union oder einem
+    Drittstaat erlangt wurden und dieser der Übermittlung nicht zugestimmt
+    hat oder die Übermittlung in Widerspruch zu den von dem Staat
+    festgelegten Voraussetzungen für die Verwendung der Daten stünde.
+
+
+
+Im Übrigen darf die auf einem Ersuchen nach der Richtlinie (EU)
+2023/977 beruhende Übermittlung von Daten nur abgelehnt werden, soweit
+
+1.  die angeforderten Daten dem Bundeskriminalamt und den zuständigen
+    Polizeibehörden oder sonstigen für die Verhütung oder Verfolgung von
+    Straftaten zuständigen öffentlichen Stellen nicht zur Verfügung
+    stehen,
+
+
+2.  das Ersuchen nicht den Anforderungen des § 26a Absatz 5 entspricht,
+
+
+3.  das Ersuchen eine Straftat betrifft, die nach deutschem Recht mit
+    einer Freiheitsstrafe von höchstens einem Jahr geahndet werden kann,
+    oder
+
+
+4.  das Ersuchen eine Tat betrifft, die nach deutschem Recht keine
+    Straftat darstellt.
+
+
+
+Vor Ablehnung der Datenübermittlung soll der ersuchenden Stelle die
+Möglichkeit gegeben werden, Klarstellungen oder Präzisierungen
+beizubringen. Im Falle der Ablehnung ist dies der ersuchenden Stelle
+einschließlich der Ablehnungsgründe mitzuteilen. § 26a Absatz 8 gilt
+entsprechend.
 
 (3) Das Bundeskriminalamt führt für den polizeilichen
 Informationsaustausch und Rechtshilfeverkehr eine fortlaufend
@@ -5323,6 +5502,11 @@ Nummer 4 tatsächliche Anhaltspunkte dafür vor, dass die betroffene
 Person in naher Zukunft eine schwere Straftat nach § 100a Absatz 2 der
 Strafprozessordnung begehen wird, kann auch mehr als zweimal eine
 erneute Aussonderungsprüffrist festgelegt werden.
+
+(9) Das Bundeskriminalamt prüft die Speicherung von personenbezogenen
+Daten im Zusammenhang mit einem Informationsaustausch als zentrale
+Kontaktstelle spätestens sechs Monate nach Abschluss eines
+Informationsaustauschs und anschließend regelmäßig.
 
 
 #### § 78 Berichtigung personenbezogener Daten sowie die Einschränkung der Verarbeitung in Akten sowie Vernichtung von Akten
