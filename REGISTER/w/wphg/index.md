@@ -25,10 +25,10 @@ Zuletzt geändert durch
 :   Art. 6 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 7 G v. 4.2.2026 I Nr. 33 mWv 5.6.2026 bzw. 10.7.2026 bzw. 4.12.2026 noch nicht berücksichtigt
+:   Art. 7 G v. 4.2.2026 I Nr. 33 mWv 5.6.2026 bzw. 10.7.2026 bzw. 4.12.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 4.2.2026 I Nr. 33 mWv 10.1.2028 noch nicht berücksichtigt
+:   Art. 8 G v. 4.2.2026 I Nr. 33 mWv 10.1.2028 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 9 G v. 4.2.2026 I Nr. 33 mWv 10.7.2030 noch nicht berücksichtigt
@@ -1901,6 +1901,21 @@ gelten nicht gegenüber Emittenten europäischer grüner Anleihen, die
 unter Artikel 1 Absatz 2 Buchstabe b und d der Verordnung (EU)
 2017/1129 fallen.
 
+(2h) Die Bundesanstalt kann
+
+1.  die Öffentlichkeit warnen oder
+
+
+2.  die Verbreitung von emittentenfinanzierten Analysen durch
+    Wertpapierdienstleistungsunternehmen aussetzen,
+
+
+
+wenn emittentengesponserte Analysen nicht im Einklang mit den nach
+Artikel 24 Absatz 3c der Richtlinie 2014/65/EU erlassenen technischen
+Regulierungsstandards (EU-Verhaltenskodex für emittentengesponserte
+Analysen) erstellt wurden.
+
 (3) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von
 Unterlagen oder sonstigen Daten und die Überlassung von Kopien
 verlangen sowie Personen laden und vernehmen, um
@@ -1959,6 +1974,25 @@ der Handelsparameter oder Handelsobergrenzen, denen das System
 unterliegt, von den wichtigsten Verfahren zur Überprüfung der Risiken
 und Einhaltung der Vorgaben des § 80 sowie von Einzelheiten über seine
 Systemprüfung verlangen.
+
+(4a) Unbeschadet der Befugnisse der zuständigen Börsenaufsichtsbehörde
+nach § 3 Absatz 4 Satz 1 und 2 des Börsengesetzes und unbeschadet des
+§ 8 Absatz 1 des Börsengesetzes kann die Bundesanstalt für die Zwecke
+des Artikels 25a der Verordnung (EU) Nr. 596/2014 von einer Börse im
+Sinne von § 2 des Börsengesetzes mit erheblicher grenzüberschreitender
+Dimension die laufende Übermittlung von Aufzeichnungen nach Artikel 25
+Absatz 2 der Verordnung (EU) Nr. 600/2014 verlangen. Beantragt eine
+zuständige Behörde eines Mitgliedstaates der Europäischen Union bei
+der Bundesanstalt Daten nach Artikel 25a Absatz 4 der Verordnung Nr.
+596/2014 von einer Börse im Sinne von § 2 des Börsengesetzes mit
+grenzüberschreitender Dimension, so fordert die Bundesanstalt diese
+Daten von der betreffenden Börse zeitnah, spätestens jedoch vier
+Arbeitstage nach dem Datum des Antrags an. Die Bundesanstalt stellt
+die angeforderten Daten der zuständigen Behörde, die den Antrag nach
+Satz 2 zuerst gestellt hat, sobald wie möglich, spätestens jedoch
+innerhalb der Frist zur Verfügung, die durch einen technischen
+Durchführungsstandard nach Artikel 25a Absatz 6 Buchstabe c der
+Verordnung (EU) Nr. 596/2014 festgelegt wird.
 
 (5) Die Bundesanstalt ist unbeschadet des § 3 Absatz 5, 11 und 12
 sowie des § 15 Absatz 7 des Börsengesetzes zuständige Behörde im Sinne
@@ -2252,13 +2286,13 @@ oder Personenvereinigungen zu, die über ein PRIIP beraten, es
 verkaufen oder Hersteller von PRIIP sind.
 
 (2) Außer für Versicherungsunternehmen unter Landesaufsicht ist die
-Bundesanstalt zuständige Behörde im Sinne des Artikels 40 Absatz 1 der
-Verordnung (EU) 2016/1011. Sie überwacht die Einhaltung der Verbote
-und Gebote der Verordnung (EU) 2016/1011 sowie der delegierten
-Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission,
-die auf der Grundlage dieser Verordnung erlassen worden sind, und kann
-Anordnungen treffen, die zu ihrer Durchsetzung geeignet und
-erforderlich sind. Insbesondere kann sie
+Bundesanstalt zuständige Behörde im Sinne des Artikels 23b Absatz 7
+und des Artikels 40 Absatz 1 der Verordnung (EU) 2016/1011. Sie
+überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU)
+2016/1011 sowie der delegierten Rechtsakte und Durchführungsrechtsakte
+der Europäischen Kommission, die auf der Grundlage dieser Verordnung
+erlassen worden sind, und kann Anordnungen treffen, die zu ihrer
+Durchsetzung geeignet und erforderlich sind. Insbesondere kann sie
 
 1.  Maßnahmen zur korrekten Information der Öffentlichkeit über die
     Bereitstellung eines Referenzwertes treffen und Richtigstellungen
@@ -5629,6 +5663,38 @@ Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
+### § 63a Besondere Verhaltens- und Informationsregeln für die Nutzung und Verbreitung von Analysen und emittentenfinanzierten Analysen
+
+(1) Vom Wertpapierdienstleistungsunternehmen oder von einem Dritten
+erstellte Analysen, die das Wertpapierdienstleistungsunternehmen nutzt
+oder an Kunden oder potenzielle Kunden verbreitet, müssen redlich und
+eindeutig sein und dürfen nicht irreführend sein. Analysen nach Satz 1
+müssen eindeutig als solche erkennbar sein, es sei denn, sie sind auf
+Grund der Vorgaben dieses Gesetzes oder der Delegierten Verordnung
+(EU) 2017/565 als Marketingmitteilung zu kennzeichnen.
+
+(2) Ein Wertpapierdienstleistungsunternehmen stellt sicher, dass
+Analysen, die ganz oder teilweise durch Emittenten finanziert wurden,
+nur dann als „emittentenfinanzierte Analysen“ gekennzeichnet werden,
+wenn diese in Einhaltung des nach Artikel 24 Absatz 3c der Richtlinie
+2014/65/EU erlassenen technischen Regulierungsstandards („EU-
+Verhaltenskodex für emittentenfinanzierte Analysen“) erstellt wurden.
+Als solche gekennzeichnete „emittentenfinanzierte Analysen“ müssen auf
+der Vorderseite in klarer und deutlicher Weise darauf hinweisen, dass
+sie in Einhaltung des „EU-Verhaltenskodex für emittentenfinanzierte
+Analysen“ erstellt wurden. Alle anderen ganz oder teilweise durch
+Emittenten finanzierte Analysen, bei denen der EU-Verhaltenskodex für
+„emittentenfinanzierte Analysen“ nicht eingehalten wurden, sind
+eindeutig als Marketingmitteilungen zu kennzeichnen.
+
+(3) Ein Wertpapierdienstleistungsunternehmen, das
+emittentenfinanzierte Analysen erstellt oder verbreitet, muss
+geeignete Vorkehrungen treffen, um zu gewährleisten, dass die Analysen
+den Vorgaben der Absätze 1 und 2 entsprechen und unter Einhaltung des
+„EU-Verhaltenskodex für emittentenfinanzierte Analysen“ erstellt
+wurden.
+
+
 ### § 64 Besondere Verhaltensregeln bei der Erbringung von Anlageberatung und Finanzportfolioverwaltung; Verordnungsermächtigung
 
 (1) Erbringt ein Wertpapierdienstleistungsunternehmen Anlageberatung,
@@ -6061,44 +6127,8 @@ Unrichtigkeit der Kundenangaben ist ihm bekannt oder infolge grober
 Fahrlässigkeit unbekannt.
 
 
-### § 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 6 des Wertpapierprospektgesetzes
+### § 65a (weggefallen)
 
-(1) Ein Wertpapierdienstleistungsunternehmen hat vor der Vermittlung
-des Vertragsschlusses über Wertpapiere im Sinne des § 6 des
-Wertpapierprospektgesetzes von dem nicht qualifizierten Anleger eine
-Selbstauskunft über dessen Vermögen oder dessen Einkommen in dem
-Umfang einzuholen, wie dies erforderlich ist, um prüfen zu können, ob
-der Gesamtbetrag der Wertpapiere, die von dem nicht qualifizierten
-Anleger erworben werden, folgende Beträge nicht übersteigt:
-
-1.  10 000 Euro, sofern der jeweilige nicht qualifizierte Anleger nach
-    seiner Selbstauskunft über ein frei verfügbares Vermögen in Form von
-    Bankguthaben und Finanzinstrumenten von mindestens 100 000 Euro
-    verfügt, oder
-
-
-2.  den zweifachen Betrag des durchschnittlichen monatlichen
-    Nettoeinkommens des jeweiligen nicht qualifizierten Anlegers,
-    höchstens jedoch 25 000 Euro Euro.
-
-
-
-Satz 1 gilt nicht, wenn der Gesamtbetrag der Wertpapiere, die von dem
-nicht qualifizierten Anleger erworben werden, 1 000 Euro nicht
-überschreitet. Ein Wertpapierdienstleistungsunternehmen darf einen
-Vertragsschluss über Wertpapiere im Sinne des § 6 des
-Wertpapierprospektgesetzes nur vermitteln, wenn es geprüft hat, dass
-der Gesamtbetrag der Wertpapiere, die von dem nicht qualifizierten
-Anleger erworben werden, 1 000 Euro oder die in Satz 1 genannten
-Beträge nicht übersteigt.
-
-(2) Soweit die in Absatz 1 genannten Informationen auf Angaben des
-nicht qualifizierten Anlegers beruhen, hat das
-Wertpapierdienstleistungsunternehmen die Fehlerhaftigkeit oder
-Unvollständigkeit der Angaben seines nicht qualifizierten Anlegers
-nicht zu vertreten, es sei denn, die Unvollständigkeit oder
-Unrichtigkeit der Angaben des nicht qualifizierten Anlegers ist ihm
-bekannt oder infolge grober Fahrlässigkeit unbekannt.
 
 
 ### § 65b Veräußerung nachrangiger berücksichtigungsfähiger Verbindlichkeiten und relevanter Kapitalinstrumente an Privatkunden
@@ -6516,27 +6546,35 @@ ohne Ausweis einer separaten Gebühr für Analysen und jede
 Wertpapierdienstleistung, durch die Aufträge von Kunden ausgeführt
 werden, zulässig, wenn
 
-1.  vor der Erbringung der Ausführungs- oder Analysedienstleistungen eine
-    Vereinbarung zwischen dem Wertpapierdienstleistungsunternehmen und dem
-    Analyseanbieter getroffen wurde, in der festgelegt ist, welcher Teil
-    der kombinierten Gebühren oder gemeinsamen Zahlungen für Ausführungs-
-    und Analysedienstleistungen auf Analysedienstleistungen entfallen,
+1.  eine Vereinbarung zwischen dem Wertpapierdienstleistungsunternehmen
+    und dem Drittanbieter von Ausführungsdienstleistungen und Analysen
+    getroffen wurde, in der eine Vergütungsmethode festgelegt ist, die
+    beinhaltet, wie die Gesamtkosten der Analysen bei der Bestimmung der
+    Gesamtkosten der Wertpapierdienstleistungen berücksichtigt werden,
 
 
-2.  die Analysen annehmende Wertpapierdienstleistungsunternehmen seine
-    Kunden über die gemeinsamen Zahlungen für Ausführungs- und
-    Analysedienstleistungen informiert, die an die Drittanbieter von
-    Analysen geleistet werden, und
+2.  das die Analysen annehmende Wertpapierdienstleistungsunternehmen
+
+    a)  seine Kunden über seine Entscheidung, Ausführungsdienstleistungen und
+        Analysen separat oder gemeinsam zu bezahlen, informiert,
 
 
-3.  die Analysen, für welche die kombinierten Gebühren geleistet werden
-    oder die gemeinsame Zahlung erfolgt, Emittenten betreffen, die in den
-    36 Monaten vor der Bereitstellung der Analysen eine
-    Marktkapitalisierung von 1 Milliarde Euro nicht überschritten haben,
-    ausgedrückt durch die Notierungen am Ende der Jahre, in denen sie an
-    einem Handelsplatz notiert sind oder waren, oder durch das
-    Eigenkapital für die Geschäftsjahre, in denen sie nicht an einem
-    Handelsplatz notiert waren.
+    b)  seinen Kunden seine Grundsätze zur Bezahlung von Analyse- und
+        Ausführungsdienstleistungen zur Verfügung stellt, einschließlich der
+        Art von Informationen, die das Wertpapierdienstleistungsunternehmen
+        nach der gewählten Zahlungsmethode zur Verfügung stellen kann, und,
+        soweit relevant, einschließlich der Informationen über Maßnahmen, wie
+        das Wertpapierdienstleistungsunternehmen aus der gemeinsamen Bezahlung
+        potenziell entstehende Interessenkonflikte vermeidet oder regelt, und
+
+
+
+
+
+3.  das Wertpapierdienstleistungsunternehmen die verwendeten Analysen
+    jährlich hinsichtlich ihrer Qualität, ihrer Nutzbarkeit und ihres
+    Werts sowie auch dahingehend bewertet, ob die verwendeten Analysen zu
+    besseren Anlageentscheidungen beitragen können.
 
 
 
@@ -6557,7 +6595,23 @@ Grundlage neuer oder bereits vorhandener Informationen
 Schlussfolgerungen gezogen werden, die genutzt werden könnten, um eine
 Anlagestrategie zu begründen, und die für die Entscheidungen, die das
 Wertpapierinstitut für die die Analysegebühr entrichtenden Kunden
-trifft, relevant und von Nutzen sein könnten.
+trifft, relevant und von Nutzen sein könnten. Nicht als Analysen
+gelten Handelskommentare und andere maßgeschneiderte
+Handelsberatungsdienstleistungen, die unmittelbar mit der Ausführung
+eines Geschäfts in Finanzinstrumenten verbunden sind. Das
+Wertpapierpapierdienstleistungsunternehmen führt Buch über die
+Gesamtkosten, die den ihnen bereitgestellten Analysen Dritter
+zuzurechnen sind, soweit es Kenntnis von diesen Kosten hat. Diese
+Informationen werden den Kunden der Wertpapierfirma auf Anfrage
+jährlich zur Verfügung gestellt.
+
+(6b) Die Bereitstellung von Analysen stellt keine Zuwendung dar, wenn
+der Analyseanbieter weder Ausführungsdienstleistungen erbringt noch
+Teil einer Gruppe ist, zu der auch ein
+Wertpapierdienstleistungsunternehmen gehört, das Ausführungs- oder
+Vermittlungsdienstleistungen anbietet. In solchen Fällen muss das
+Wertpapierdienstleistungsunternehmen die Anforderung nach Absatz 6a
+Satz 1 Nummer 3 erfüllen.
 
 (7) Gebühren und Entgelte, die die Erbringung von
 Wertpapierdienstleistungen erst ermöglichen oder dafür notwendig sind,
@@ -7047,10 +7101,11 @@ Handelssystem abgeschlossen wurden.
 
 ### § 76 KMU-Wachstumsmärkte; Verordnungsermächtigung
 
-(1) Der Betreiber eines multilateralen Handelssystems kann dieses bei
-der Bundesanstalt als Wachstumsmarkt für kleine und mittlere
-Unternehmen (KMU-Wachstumsmarkt) registrieren lassen, sofern folgende
-Anforderungen erfüllt sind:
+(1) Der Betreiber eines multilateralen Handelssystems kann dieses oder
+ein Segment des multilateralen Handelssystems bei der Bundesanstalt
+als Wachstumsmarkt für kleine und mittlere Unternehmen (KMU-
+Wachstumsmarkt) registrieren lassen, sofern folgende Anforderungen
+erfüllt sind:
 
 1.  bei mindestens 50 Prozent der Emittenten, deren Finanzinstrumente zum
     Handel auf dem multilateralen Handelssystem zugelassen sind, handelt
@@ -7104,21 +7159,59 @@ Anforderungen erfüllt sind:
 Die Möglichkeit des Betreibers, zusätzliche Anforderungen festzulegen,
 bleibt unberührt.
 
+(1a) Handelt es sich bei dem KMU-Wachstumsmarkt um ein Segment eines
+multilateralen Handelssystems, so sind zusätzlich zu den in Absatz 1
+genannten Vorrausetzungen die folgenden Anforderungen zu erfüllen:
+
+1.  das als KMU-Wachstumsmarkt registrierte Segment des multilateralen
+    Handelssystems ist eindeutig von den anderen vom Betreiber des
+    multilateralen Handelssystems betriebenen Marktsegmenten getrennt;
+    insbesondere trägt das Segment einen anderen Namen, besitzt ein
+    anderes Regelwerk, verwendet eine andere Marketingstrategie, weist
+    eine andere Medienpräsenz auf und besitzt eine spezifisch zugewiesene
+    Handelsplatz-Identifikationsnummer;
+
+
+2.  die in dem speziellen KMU-Wachstumsmarktsegment getätigten Geschäfte
+    sind klar von anderem Marktgeschehen innerhalb der anderen Segmente
+    des multilateralen Handelssystems zu unterscheiden und
+
+
+3.  auf Ersuchen der Bundesanstalt werden vom multilateralen Handelssystem
+    ein umfassendes Verzeichnis der in dem betreffenden KMU-
+    Wachstumsmarktsegment notierten Instrumente sowie alle von der
+    zuständigen Behörde gegebenenfalls angeforderten Informationen über
+    die Funktionsweise des KMU-Wachstumsmarktsegments vorgelegt.
+
+
+
+
+(1b) Für den Fall, dass der Emittent die Einbeziehung von Wertpapieren
+zum Handel an dem KMU-Wachstumsmarkt kündigt, findet § 39 Absatz 2 bis
+6 des Börsengesetzes entsprechende Anwendung, sofern er nicht die
+Zulassung dieser Wertpapiere zum Handel im organisierten Markt
+beantragt.
+
 (2) Die Bundesanstalt hebt die Registrierung eines KMU-
 Wachstumsmarktes auf, wenn dessen Betreiber dies beantragt oder wenn
-die Voraussetzungen für eine Registrierung nach Absatz 1 nicht mehr
-vorliegen. Die Bundesanstalt unterrichtet die Europäische Wertpapier-
-und Marktaufsichtsbehörde unverzüglich über die Registrierung eines
-KMU-Wachstumsmarktes und über deren Aufhebung.
+die Voraussetzungen für eine Registrierung nach Absatz 1 oder Absatz
+1a nicht mehr vorliegen. Die Bundesanstalt unterrichtet die
+Europäische Wertpapier- und Marktaufsichtsbehörde unverzüglich über
+die Registrierung eines KMU-Wachstumsmarktes und über deren Aufhebung.
 
 (3) Ein Finanzinstrument, das zum Handel an einem KMU-Wachstumsmarkt
-zugelassen ist, kann nur dann in einem anderen KMU-Wachstumsmarkt
-gehandelt werden, wenn der Emittent des Finanzinstruments hierüber
-unterrichtet wurde und dem nicht widersprochen hat. In einem solchen
-Fall entstehen dem Emittenten im Hinblick auf diesen anderen KMU-
-Wachstumsmarkt keine Verpflichtungen in Bezug auf die
-Unternehmensführung und -kontrolle oder erstmalige, laufende oder
-punktuelle Veröffentlichungspflichten.
+zugelassen ist, kann nur dann in einem anderen Handelsplatz gehandelt
+werden, wenn der Emittent des Finanzinstruments hierüber unterrichtet
+wurde und dem nicht widersprochen hat. Handelt es sich bei dem anderen
+Handelsplatz um einen KMU-Wachstumsmarkt, entstehen dem Emittenten im
+Hinblick auf diesen anderen KMU-Wachstumsmarkt keine Verpflichtungen
+in Bezug auf die Unternehmensführung und -kontrolle oder erstmalige,
+laufende oder punktuelle Veröffentlichungspflichten. Handelt es sich
+bei dem anderen Handelsplatz nicht um einen KMU-Wachstumsmarkt, so ist
+der Emittent im Hinblick auf diesen Handelsplatz über etwaige
+Verpflichtungen in Bezug auf die Unternehmensführung und -kontrolle
+oder in Bezug auf erstmalige, laufende oder punktuelle
+Veröffentlichungen, denen er unterliegen wird, zu unterrichten.
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
@@ -9898,7 +9991,8 @@ bis zu zwei Jahren oder Geldstrafe.
 
 
 3.  entgegen § 25 in Verbindung mit Artikel 15 der Verordnung (EU) Nr.
-    596/2014 eine Marktmanipulation begeht,
+    596/2014 in der Fassung vom 23. Oktober 2024 eine Marktmanipulation
+    begeht,
 
 
 4.  entgegen
@@ -10376,8 +10470,7 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     nach § 64 Absatz 10 Nummer 3, eine Zuwendung annimmt oder behält,
 
 
-45a. entgegen § 65 Absatz 1 Satz 3 oder § 65a Absatz 1 Satz 3 einen
-    Vertragsschluss vermittelt,
+45a. entgegen § 65 Absatz 1 Satz 3 einen Vertragsschluss vermittelt,
 
 
 46. entgegen § 63 Absatz 10 Satz 1, auch in Verbindung mit Satz 2, jeweils
@@ -11786,7 +11879,8 @@ Absatz 1 zuwiderhandelt.
 bezeichnete Handlung leichtfertig begeht.
 
 (15) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
-596/2014 verstößt, indem er vorsätzlich oder leichtfertig
+596/2014 in der Fassung vom 23. Oktober 2024 verstößt, indem er
+vorsätzlich oder leichtfertig
 
 1.  als Handelsplatzbetreiber entgegen Artikel 4 identifizierende
     Referenzdaten in Bezug auf ein Finanzinstrument nicht, nicht richtig,
@@ -11818,6 +11912,11 @@ bezeichnete Handlung leichtfertig begeht.
     rechtzeitig bekannt gibt,
 
 
+6a. entgegen Artikel 17 Absatz 1a die Geheimhaltung einer
+    Insiderinformation nicht oder nicht für die vorgeschriebene Dauer
+    gewährleistet,
+
+
 7.  entgegen Artikel 17 Absatz 1 Unterabsatz 2 Satz 1 eine
     Veröffentlichung nicht sicherstellt,
 
@@ -11833,7 +11932,7 @@ bezeichnete Handlung leichtfertig begeht.
     nicht mindestens fünf Jahre lang auf der betreffenden Website anzeigt,
 
 
-10. entgegen Artikel 17 Absatz 4 Unterabsatz 3 Satz 1 die zuständige
+10. entgegen Artikel 17 Absatz 4 Unterabsatz 2 Satz 1 die zuständige
     Behörde nicht, nicht richtig, nicht vollständig, nicht in der
     vorgeschriebenen Weise oder nicht rechtzeitig über den Aufschub einer
     Offenlegung informiert oder den Aufschub einer Offenlegung nicht,
@@ -12148,10 +12247,10 @@ wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil
 umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt
 werden.
 
-(23) Gesamtumsatz im Sinne des Absatzes 17 Satz 2 Nummer 2, des
-Absatzes 18 Satz 2 Nummer 1 und 2, des Absatzes 19 Satz 2, des
-Absatzes 20 Satz 2, des Absatzes 21 Satz 2, des Absatzes 22 Satz 2 und
-des Absatzes 22a Satz 2 ist
+(23) Gesamtumsatz im Sinne des Absatzes 17 Satz 2 Nummer 2, der
+Absätze 18b und 18c, des Absatzes 19 Satz 2, des Absatzes 20 Satz 2,
+des Absatzes 21 Satz 2, des Absatzes 22 Satz 2 und des Absatzes 22a
+Satz 2 ist
 
 1.  im Falle von Kreditinstituten, Zahlungsinstituten,
     Finanzdienstleistungsinstituten und Wertpapierinstituten im Sinne des
