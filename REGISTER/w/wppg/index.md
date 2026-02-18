@@ -30,7 +30,7 @@ Zuletzt geändert durch
 :   Art. 16 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 bzw. 5.6.2026 textlich nachgewiesen, dokumentarisch noch nicht abchließend bearbeitet
 
 Änderung durch
-:   Art. 17 G v. 4.2.2026 I Nr. 33 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 17 G v. 4.2.2026 I Nr. 33 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 18 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
