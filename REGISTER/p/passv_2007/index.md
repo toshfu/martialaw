@@ -841,7 +841,7 @@ an der Belassung des amtlichen Passes vorliegt.
         wird, die für die polizeiliche Kontrolle des grenzüberschreitenden
         Verkehrs zuständig sind (§ 19 Absatz 1 Nummer 7)
 
-    *   8 Euro,
+    *   32 Euro,
 
 
 *    *
