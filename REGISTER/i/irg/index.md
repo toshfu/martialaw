@@ -7143,10 +7143,6 @@ Verlassen in ihn zurückgekehrt ist.
 
 
 
-### Abschnitt 4 - Besondere Formen der Rechtshilfe
-
-
-
 #### Unterabschnitt 1 - Übermittlung von Informationen an einen anderen Mitgliedstaat der Europäischen Union
 
 
@@ -7539,7 +7535,11 @@ genehmigt. Von dem übermittelnden Staat für die Verwendung der
 Informationen gestellte Bedingungen sind zu beachten.
 
 
-##### § 92i Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung
+### Abschnitt 4 - Besondere Formen der Rechtshilfe
+
+
+
+#### § 92i Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung
 
 (1) Örtlich zuständig für Ersuchen aus den Mitgliedstaaten der
 Europäischen Union, die auf eine grenzüberschreitende Überwachung des
@@ -7625,7 +7625,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 übertragen.
 
 
-##### § 93 Gemeinsame Ermittlungsgruppen
+#### § 93 Gemeinsame Ermittlungsgruppen
 
 (1) Einem von einem Mitgliedstaat der Europäischen Union in eine
 gemeinsame Ermittlungsgruppe entsandten Mitglied kann unter der
@@ -7651,7 +7651,7 @@ zulässig, wenn ein auf die Verwendung der Informationen gerichtetes
 Ersuchen bewilligt werden könnte.
 
 
-##### § 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung
+#### § 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung
 
 (1) Außerhalb des Anwendungsbereichs der Verordnung Sicherstellung und
 Einziehung sind § 58 Absatz 3 und § 67 bei Ersuchen nach Maßgabe des
@@ -7710,7 +7710,7 @@ Strafgesetzbuchs selbständig angeordnet werden könnte.
 
 
 
-##### § 95 Sicherungsunterlagen
+#### § 95 Sicherungsunterlagen
 
 (1) Die Bewilligung von Ersuchen nach Maßgabe des Rahmenbeschlusses
 Sicherstellung ist nur zulässig, wenn eine Sicherstellungsentscheidung
@@ -7753,7 +7753,7 @@ Sicherstellungsentscheidung, so kann die zuständige Behörde auf die
 Vorlage einer vervollständigten Bescheinigung verzichten.
 
 
-##### § 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen
+#### § 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen
 
 Nach Maßgabe der §§ 94 und 95 zulässige Ersuchen eines Mitgliedstaates
 sind zu bewilligen. Wird ein Ersuchen wegen Unzulässigkeit abgelehnt,
