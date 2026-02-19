@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 931
 
 Neugefasst durch
-:   Bek. v. 16.4.2025 I Nr. 117, 129
+:   Bek. v. 16.4.2025 I Nr. 117, 2025 I Nr. 129;
 
 Geändert durch
 :   Art. 9 G v. 28.10.2025 I Nr. 259
