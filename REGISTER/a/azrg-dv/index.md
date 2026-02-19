@@ -16,16 +16,10 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 13 G v. 8.5.2024 I Nr. 152
-
-Änderung durch
-:   Art. 5 G v. 30.1.2026 I Nr. 31 mWv 1.11.2025 bzw. 7.2.2025 bzw 1.5.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 5 G v. 30.1.2026 I Nr. 31
 
 Änderung durch
 :   Art. 8 G v. 30.1.2026 I Nr. 31 mWv 7.2.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 8 G v. 21.2.2024 I Nr. 54 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -497,8 +491,8 @@ Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 (1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz
 an die jeweils ersuchende Stelle übermitteln und weitergeben darf,
-ergibt sich aus den Spalten A und D der Abschnitte I und II der Anlage
-zu dieser Verordnung.
+ergibt sich aus den Spalten A und D der Abschnitte I bis III der
+Anlage zu dieser Verordnung.
 
 (2) Die Registerbehörde hat vor der Übermittlung festzustellen, ob die
 ersuchende Stelle generell berechtigt ist, Daten aus dem Register zu
@@ -800,7 +794,7 @@ hat, wenn einer der folgenden Sachverhalte gespeichert ist:
 
 
     e)  Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2c des
-        AZR-Gesetzes, sofern nicht Nummer 5 einschlägig ist,
+        AZR-Gesetzes, sofern nicht Nummer 6 einschlägig ist,
 
 
 
@@ -1741,8 +1735,8 @@ Abschnitt I
 
 *    *   § 3 Absatz 2 Nummer 4 bis 11 in Verbindung mit § 2 Absatz 1a und 2
         Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 zu
-        Buchstabe c bis f und h bis i, § 3 Absatz 3e in Verbindung mit § 2
-        Absatz 2 Nummer 2
+        Buchstabe d, e, g und h, § 3 Absatz 3c in Verbindung mit § 2 Absatz 2
+        Nummer 2 zu Buchstabe i
 
     *   (1)
 
@@ -1784,7 +1778,7 @@ Abschnitt I
         –   Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis i
 
 
-        –   Jugendämter zu Spalte A Buchstabe j
+        –   Jugendämter zu Spalte A Buchstabe i
 
 
 
@@ -2766,10 +2760,9 @@ Abschnitt I
 
 
 *    *
-        a)  gegenwärtige
-            Anschrift
+        a)  gegenwärtige Anschrift
 
-            eingezogen am
+            eingezogen/aufgenommen am
 
 
 
@@ -2781,9 +2774,7 @@ Abschnitt I
 *    *
         b)  frühere Anschriften
 
-            ausgezogen am
-
-            aufgenommen am
+            ausgezogen/entlassen am
 
 
 
@@ -5240,7 +5231,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003667311]
+    *[^F829919_01_BJNR069500995BJNE003672311]
    (1)
 
     *
@@ -11125,9 +11116,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
 
-*    *   Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger
-        ausgestellt am
-        gültig bis
+*    *   Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger ausgestellt am
 
     *   (3)
 
@@ -15606,7 +15595,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003667311]
+    *[^f756180_08_BJNR069500995BJNE003672311]
    (7)
 
     *
@@ -15615,15 +15604,17 @@ Abschnitt II
 
 
 
-    *   Angaben zum Verpflichtungsgeber (§ 29 Absatz 1 Nummer 10) werden nur
-        an die Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz
-        1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere
-        mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
+    *   Angaben zum Verpflichtungsgeber sowie die Verpflichtungserklärung als
+        Dokument (§ 29 Absatz 1 Nummer 10) werden nur an die
+        Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz 1 des
+        Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere mit
+        der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
         beauftragte Behörden, die deutschen Auslandsvertretungen, das
         Bundesamt für Auswärtige Angelegenheiten und andere öffentliche
-        Stellen im Visaverfahren, die Träger der Sozialhilfe und die für die
-        Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen
-        übermittelt.
+        Stellen im Visumverfahren, die Träger der Sozialhilfe, die für die
+        Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen und
+        die für die Durchführung der Grundsicherung für Arbeitsuchende
+        zuständigen Stellen übermittelt.
         – Ausländerbehörden
         – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des
         Asylgesetzes
@@ -15877,7 +15868,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003667311]
+    *[^f756180_09_BJNR069500995BJNE003672311]
    (2)
 
     *
@@ -16410,8 +16401,9 @@ Abschnitt III
 
 
         c)  aufenthaltsrechtliche
-            Entscheidungen, die eine vollziehbare Ausreisepflicht begründen zu den
-            Tabellen 13, 14, 14a, 16, 20 im Abschnitt I
+            Entscheidungen im Zusammenhang mit einer Ausweisung, Abschiebung,
+            Zurückweisung oder Zurückschiebung zu den Tabellen 13, 14, 14a, 16, 20
+            im Abschnitt I
 
 
         d)  Einschränkung oder
@@ -16499,8 +16491,9 @@ Abschnitt III
 
     *
         *   Dokumente zu Spalte A Buchstabe b werden nur an die Ausländerbehörden,
-            die Bundespolizei und andere mit der polizeilichen Kontrolle des
-            grenzüberschreitenden Verkehrs beauftragte Behörden sowie an sonstige
+            das Bundesamt für Migration und Flüchtlinge, die Bundespolizei und
+            andere mit der polizeilichen Kontrolle des grenzüberschreitenden
+            Verkehrs beauftragte Behörden sowie an sonstige
             Polizeivollzugsbehörden des Bundes und der Länder übermittelt.
 
 
@@ -16567,11 +16560,12 @@ Abschnitt III
 
 
         –   Zollkriminalamt zu Spalte A
-            Buchstabe b, d, e und g
+            Buchstabe c, d, e, und g
 
 
         –   die Zentralstelle für
-            Finanztransaktionsuntersuchungen zu Spalte A Buchstaben a bis e und g
+            Finanztransaktionsuntersuchungen zu Spalte A Buchstabe a, c bis e und
+            g
 
 
 
@@ -16635,7 +16629,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003667311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003667311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003672311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003672311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003667311]: 
+[^F829919_01_BJNR069500995BJNE003672311]: 
