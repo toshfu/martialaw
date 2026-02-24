@@ -2537,14 +2537,6 @@ Abschnitt I
     *   100 €
 
 
-*    *   54a.2.1
-
-    *
-    *   (weggefallen)
-
-    *
-    *
-
 *    *   55
 
     *   Unberechtigt auf Schwerbehinderten-Parkplatz geparkt (§ 12 Absatz 2
