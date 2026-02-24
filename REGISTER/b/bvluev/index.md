@@ -87,21 +87,7 @@ Die Befugnis zum Verkehr
         der Richtlinie 2001/37/EG (ABl. L 127 vom 29.4.2014, S. 1),
 
 
-    i)  des Informationssystems nach Artikel 11 und 12 der Richtlinie
-        2001/95/EG des Europäischen Parlaments und des Rates vom 3. Dezember
-        2001 über die allgemeine Produktsicherheit (ABl. EG 2002 Nr. L 11 S.
-        4), auch in Verbindung mit Artikel 22 der Verordnung (EG) Nr. 765/2008
-        des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die
-        Vorschriften für die Akkreditierung und Marktüberwachung im
-        Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der
-        Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S.
-        30) in der jeweils geltenden Fassung, soweit dieses Bedarfsgegenstände
-        hinsichtlich ihrer stofflichen Beschaffenheit und Mittel zum
-        Tätowieren einschließlich vergleichbarer Stoffe und Zubereitungen aus
-        Stoffen, die dazu bestimmt sind, zur Beeinflussung des Aussehens in
-        oder unter die menschliche Haut eingebracht zu werden und dort, auch
-        vorübergehend, zu verbleiben, sowie Erzeugnisse im Sinne des § 2
-        Nummer 1 des Tabakerzeugnisgesetzes betrifft,
+    i)  (weggefallen)
 
 
     j)  des Informationsaustausches der Mitgliedstaaten nach Artikel 42 Absatz
