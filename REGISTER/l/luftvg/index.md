@@ -3906,10 +3906,10 @@ Schadensersatz zu leistenden Rente.
 (3) Übersteigen in den Fällen des Absatzes 1 die Entschädigungen, die
 mehreren Ersatzberechtigten wegen der Tötung, Körperverletzung oder
 Gesundheitsbeschädigung eines Fluggastes zu leisten sind, insgesamt
-den Betrag von 128 821 Rechnungseinheiten Rechnungseinheiten und ist
-eine weitergehende Haftung des Luftfrachtführers nach Absatz 2
-ausgeschlossen, so verringern sich die einzelnen Entschädigungen in
-dem Verhältnis, in welchem ihr Gesamtbetrag zu diesem Betrag steht.
+den Betrag von 128 821 Rechnungseinheiten und ist eine weitergehende
+Haftung des Luftfrachtführers nach Absatz 2 ausgeschlossen, so
+verringern sich die einzelnen Entschädigungen in dem Verhältnis, in
+welchem ihr Gesamtbetrag zu diesem Betrag steht.
 
 
 #### § 46 Haftung bei verspäteter Personenbeförderung
