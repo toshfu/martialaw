@@ -16790,10 +16790,6 @@ Erstattungs- oder Vergütungsansprüche erwirbt.
 fünfzigtausend Euro geahndet werden.
 
 
-#### § 383a (weggefallen)
-
-
-
 #### § 383a Verstöße gegen innerstaatlich anwendbare völkerrechtliche Vereinbarungen zur Förderung der Steuerehrlichkeit
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer
