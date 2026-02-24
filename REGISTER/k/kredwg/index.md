@@ -25,10 +25,10 @@ Zuletzt geändert durch
 :   Art. 35 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 36 G v. 4.2.2026 I Nr. 33 mWv 30.12.2026 noch nicht berücksichtigt
+:   Art. 36 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 37 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
+:   Art. 37 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
