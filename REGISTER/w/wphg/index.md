@@ -19,22 +19,19 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 28.2.2025 I Nr. 69
+:   Art. 2 G v. 28.2.2025 I Nr. 69, dieser geändert durch 59 Nr. 2 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
-:   Art. 6 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 7 G v. 4.2.2026 I Nr. 33 mWv 5.6.2026 bzw. 10.7.2026 bzw. 4.12.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 4.2.2026 I Nr. 33 mWv 10.1.2028 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 9 G v. 4.2.2026 I Nr. 33 mWv 10.7.2030 noch nicht berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 59 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 ist berücksichtigt
+:   Art. 9 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
