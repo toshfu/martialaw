@@ -17,19 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 370
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3a G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 16.1.2026 I Nr. 14 ist berücksichtigt
-
-Änderung durch
-:   Art. 28 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 28 G v. 3.2.2026 I Nr. 28
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
