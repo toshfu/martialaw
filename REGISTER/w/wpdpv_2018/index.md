@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 140
 
-Geändert durch
-:   Art. 6 G v. 12.12.2019 I 2637
-
-Änderung durch
-:   Art. 12 G v. 4.2.2026 I Nr. 33 textlich nachgeweisen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 12 G v. 4.2.2026 I Nr. 33
 
 Stand: Ersetzt V 4110-4-10 v. 16.12.2004 I 3515 (WpDPV 2005)
 
