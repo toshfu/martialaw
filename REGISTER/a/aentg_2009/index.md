@@ -1853,7 +1853,7 @@ Ersuchens.
 Unterhaltung von Beratungsstellen zu arbeits- und sozialrechtlichen
 Themen sowie für die in diesem Zusammenhang erfolgende Entwicklung und
 Bereitstellung von Fortbildungsangeboten und Informationsmaterialien
-einen kalenderjährlichen Anspruch in Höhe von bis zu 3,996 Millionen
+einen kalenderjährlichen Anspruch in Höhe von bis zu 4,2 Millionen
 Euro aus Mitteln des Bundes.
 
 (2) Der Anspruch besteht nur, wenn die Beratung
