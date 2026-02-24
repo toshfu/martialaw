@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 55 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 56 G v. 4.2.2026 I Nr. 33 mWv 10.1.2028 bzw. 10.1.2030 noch nicht berücksichtigt
+:   Art. 56 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
