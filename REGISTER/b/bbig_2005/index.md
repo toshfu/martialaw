@@ -16,15 +16,11 @@ Fundstelle
 :   BGBl I: 2005, 931
 
 Neugefasst durch
-:   Bek. v. 16.4.2025 I Nr. 117, 2025 I Nr. 129;
+:   Bek. v. 16.4.2025 I Nr. 117; 2025 I Nr. 129;
 
 Geändert durch
 :   Art. 9 G v. 28.10.2025 I Nr. 259
 
-Mittelbare änderung durch
-:   Art. 3 G v. 19.7.2024 I Nr. 246 ist berücksichtigt
-
-Stand: Berichtigung der Bek. vom 16.4.2025 I Nr. 117 ist berücksichtigt
 
 ## Teil 1 - Allgemeine Vorschriften
 
