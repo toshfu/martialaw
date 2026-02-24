@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2350
 
 Zuletzt geändert durch
-:   Art. 4a G v. 5.12.2024 I Nr. 400
+:   Art. 26 G v. 2.12.2025 I Nr. 301
 
 
 ## Eingangsformel
@@ -447,8 +447,10 @@ wenn
     Systeme oder Verfahren oder bauliche Maßnahmen erforderlich sind, um
 
     a)  die Informationstechnik der Krankenhäuser, die die Voraussetzungen des
-        Anhangs 5 Teil 3 der BSI-Kritisverordnung erfüllen, an die Vorgaben
-        von § 8a des BSI-Gesetzes anzupassen oder
+        Anhangs 5 Teil 3 der BSI-Kritisverordnung vom 22. April 2016 (BGBl. I
+        S. 958), die zuletzt durch Artikel 1 der Verordnung vom 29. November
+        2023 (BGBl. 2023 I Nr. 339) geändert worden ist, erfüllen, an die
+        Anforderungen der §§ 30, 31 und 39 des BSI-Gesetzes anzupassen oder
 
 
     b)  telemedizinische Netzwerkstrukturen insbesondere zwischen
@@ -663,8 +665,8 @@ beizufügen:
 
 8.  bei Vorhaben nach § 11 Absatz 1 Nummer 4 Buchstabe a die Bestätigung,
     dass die vorgesehenen Maßnahmen erforderlich sind, um die
-    Informationstechnik des Krankenhauses an die Vorgaben von § 8a des
-    BSI-Gesetzes anzupassen,
+    Informationstechnik des Krankenhauses an die Anforderungen der §§ 30,
+    31 und 39 des BSI-Gesetzes anzupassen,
 
 
 9.  bei Vorhaben nach § 11 Absatz 1 Nummer 4 Buchstabe b die Bestätigung,
