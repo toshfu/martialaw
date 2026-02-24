@@ -32,16 +32,11 @@ Informationen über
     (Erzeugnisse) sowie
 
 
-2.  Verbraucherprodukte, die dem § 2 Nummer 25 des
-    Produktsicherheitsgesetzes unterfallen (Verbraucherprodukte),
+2.  Produkte, die dem Artikel 3 Nummer 1 der Verordnung (EU) 2023/988
+    unterfallen (Produkte).
 
 
 
-damit der Markt transparenter gestaltet und hierdurch der Schutz der
-Verbraucherinnen und Verbraucher vor gesundheitsschädlichen oder sonst
-unsicheren Erzeugnissen und Verbraucherprodukten sowie vor Täuschung
-beim Verkehr mit Erzeugnissen und Verbraucherprodukten verbessert
-wird.
 
 
 ## § 2 Anspruch auf Zugang zu Informationen
@@ -52,8 +47,8 @@ zu allen Daten über
 1.  von den nach Bundes- oder Landesrecht zuständigen Stellen
     festgestellte nicht zulässige Abweichungen von Anforderungen
 
-    a)  des Lebensmittel- und Futtermittelgesetzbuches und des
-        Produktsicherheitsgesetzes,
+    a)  des Lebensmittel- und Futtermittelgesetzbuches, des
+        Produktsicherheitsgesetzes und der Verordnung (EU) 2023/988,
 
 
     b)  der auf Grund dieser Gesetze erlassenen Rechtsverordnungen,
@@ -68,12 +63,12 @@ zu allen Daten über
     Buchstaben a bis c genannten Abweichungen getroffen worden sind,
 
 
-2.  von einem Erzeugnis oder einem Verbraucherprodukt ausgehende Gefahren
-    oder Risiken für Gesundheit und Sicherheit von Verbraucherinnen und
+2.  von einem Erzeugnis oder einem Produkt ausgehende Gefahren oder
+    Risiken für Gesundheit und Sicherheit von Verbraucherinnen und
     Verbrauchern,
 
 
-3.  die Zusammensetzung von Erzeugnissen und Verbraucherprodukten, ihre
+3.  die Zusammensetzung von Erzeugnissen und Produkten, ihre
     Beschaffenheit, die physikalischen, chemischen und biologischen
     Eigenschaften einschließlich ihres Zusammenwirkens und ihrer
     Einwirkung auf den Körper, auch unter Berücksichtigung der
@@ -81,7 +76,7 @@ zu allen Daten über
 
 
 4.  die Kennzeichnung, die Herkunft, die Verwendung, das Herstellen und
-    das Behandeln von Erzeugnissen und Verbraucherprodukten,
+    das Behandeln von Erzeugnissen und Produkten,
 
 
 5.  zugelassene Abweichungen von den in Nummer 1 genannten
@@ -99,7 +94,7 @@ zu allen Daten über
     Statistiken über Verstöße gegen in § 39 Absatz 1 Satz 1 des
     Lebensmittel- und Futtermittelgesetzbuches und § 8 des
     Marktüberwachungsgesetzes genannte Rechtsvorschriften, soweit sich die
-    Verstöße auf Erzeugnisse oder Verbraucherprodukte beziehen,
+    Verstöße auf Erzeugnisse oder Produkte beziehen,
 
 
 
@@ -111,41 +106,25 @@ Beschränkungsgrund nach § 3 vorliegt.
 (2) Stelle im Sinne des Absatzes 1 Satz 1 ist
 
 1.  jede Behörde im Sinne des § 1 Absatz 4 des
-    Verwaltungsverfahrensgesetzes, die auf Grund
-
-    a)  anderer bundesrechtlicher oder
-
-
-    b)  landesrechtlicher
-
-
-
-    Vorschriften öffentlich-rechtliche Aufgaben oder Tätigkeiten
-    wahrnimmt, die der Erfüllung der in § 1 des Lebensmittel- und
-    Futtermittelgesetzbuches genannten Zwecke oder bei
-    Verbraucherprodukten der Gewährleistung von Sicherheit und Gesundheit
-    nach den Vorschriften des Produktsicherheitsgesetzes sowie der auf
-    Grund des Produktsicherheitsgesetzes erlassenen Rechtsverordnungen
-    dienen,
+    Verwaltungsverfahrensgesetzes, die auf Grund anderer bundesrechtlicher
+    oder landesrechtlicher Vorschriften öffentlich-rechtliche Aufgaben
+    oder Tätigkeiten wahrnimmt, die der Erfüllung der in § 1 des
+    Lebensmittel- und Futtermittelgesetzbuches genannten Zwecke oder bei
+    Produkten der Gewährleistung von Sicherheit und Gesundheit nach den
+    Vorschriften der Verordnung (EU) 2023/988, des
+    Produktsicherheitsgesetzes sowie der auf Grund des
+    Produktsicherheitsgesetzes erlassenen Rechtsverordnungen dienen, und
 
 
 2.  jede natürliche oder juristische Person des Privatrechts, die auf
-    Grund
-
-    a)  anderer bundesrechtlicher oder
-
-
-    b)  landesrechtlicher
-
-
-
-    Vorschriften öffentlich-rechtliche Aufgaben oder Tätigkeiten
-    wahrnimmt, die der Erfüllung der in § 1 des Lebensmittel- und
-    Futtermittelgesetzbuches genannten Zwecke oder bei
-    Verbraucherprodukten der Gewährleistung von Sicherheit und Gesundheit
-    nach den Vorschriften des Produktsicherheitsgesetzes sowie der auf
-    Grund des Produktsicherheitsgesetzes erlassenen Rechtsverordnungen
-    dienen und der Aufsicht einer Behörde unterstellt ist.
+    Grund anderer bundesrechtlicher oder landesrechtlicher Vorschriften
+    öffentlich-rechtliche Aufgaben oder Tätigkeiten wahrnimmt, die der
+    Erfüllung der in § 1 des Lebensmittel- und Futtermittelgesetzbuches
+    genannten Zwecke oder bei Produkten der Gewährleistung von Sicherheit
+    und Gesundheit nach den Vorschriften der Verordnung (EU) 2023/988, des
+    Produktsicherheitsgesetzes sowie der auf Grund des
+    Produktsicherheitsgesetzes erlassenen Rechtsverordnungen dienen und
+    der Aufsicht einer Behörde unterstellt ist.
 
 
 
@@ -265,11 +244,11 @@ Berufung auf das Betriebs- und Geschäftsgeheimnis abgelehnt werden:
 
 2.  Informationen nach § 2 Absatz 1 Satz 1 Nummer 3 und 4, soweit im
     Einzelfall hinreichende Anhaltspunkte dafür vorliegen, dass von dem
-    jeweiligen Erzeugnis oder Verbraucherprodukt eine Gefährdung oder ein
-    Risiko für Sicherheit und Gesundheit ausgeht und auf Grund
-    unzureichender wissenschaftlicher Erkenntnis oder aus sonstigen
-    Gründen die Ungewissheit nicht innerhalb der gebotenen Zeit behoben
-    werden kann, und
+    jeweiligen Erzeugnis oder Produkt eine Gefährdung oder ein Risiko für
+    Sicherheit und Gesundheit ausgeht und auf Grund unzureichender
+    wissenschaftlicher Erkenntnis oder aus sonstigen Gründen die
+    Ungewissheit nicht innerhalb der gebotenen Zeit behoben werden kann,
+    und
 
 
 3.  Informationen nach § 2 Absatz 1 Satz 1 Nummer 3 bis 6, soweit sie im
@@ -282,13 +261,12 @@ Berufung auf das Betriebs- und Geschäftsgeheimnis abgelehnt werden:
 
 
 Gleiches gilt für den Namen des Händlers, der das Erzeugnis oder
-Verbraucherprodukt an Verbraucher abgibt, sowie für die
-Handelsbezeichnung, eine aussagekräftige Beschreibung und bildliche
-Darstellung des Erzeugnisses oder Verbraucherproduktes und in den
-Fällen des § 2 Absatz 1 Satz 1 Nummer 1 zusätzlich für den Namen und
-die Anschrift des Herstellers, Bevollmächtigten, Einführers, Händlers
-sowie jedes Gliedes der Liefer- und Vertriebskette; Satz 1 Nummer 2
-Buchstabe a ist nicht anzuwenden.
+Produkt an Verbraucher abgibt, sowie für die Handelsbezeichnung, eine
+aussagekräftige Beschreibung und bildliche Darstellung des
+Erzeugnisses oder Produktes und in den Fällen des § 2 Absatz 1 Satz 1
+Nummer 1 zusätzlich für den Namen und die Anschrift des Herstellers,
+Bevollmächtigten, Einführers, Händlers sowie jedes Gliedes der Liefer-
+und Vertriebskette; Satz 1 Nummer 2 Buchstabe a ist nicht anzuwenden.
 
 
 ## § 4 Antrag
