@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 10.2.2026 I Nr. 40 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 10.2.2026 I Nr. 40 ist berücksichtigt
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
