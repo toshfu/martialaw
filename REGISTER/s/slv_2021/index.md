@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1228 (5240)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.12.2024 I Nr. 418
-
-Änderung durch
-:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 370
 
 Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
