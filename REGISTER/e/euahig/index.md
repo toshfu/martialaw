@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 1809
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 352
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 353
 
 [^BJNR180910013_01]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2011/16/EU des
     Rates vom 15. Februar 2011 über die Zusammenarbeit der
