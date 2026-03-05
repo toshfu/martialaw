@@ -17,16 +17,13 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1015
 
 Zuletzt geändert durch
-:   Art. 24 G v. 2.12.2025 I Nr. 301
+:   Art. 12 G v. 22.12.2025 I Nr. 355
 
 Änderung durch
-:   Art. 12 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
