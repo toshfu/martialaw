@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2538
 
 Zuletzt geändert durch
-:   Art. 8 V v. 2.6.2016 I 1257
-
-Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.12.2025 I Nr. 370
 
 
 ## Eingangsformel
