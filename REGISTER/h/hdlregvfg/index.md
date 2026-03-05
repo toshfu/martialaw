@@ -16,10 +16,7 @@ Fundstelle
 :   RMBl: 1937, 515
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.2.2023 I Nr. 51
-
-Änderung durch
-:   Art. 36 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 36 G v. 8.12.2025 I Nr. 319
 
 
 ## Eingangsformel
@@ -98,8 +95,6 @@ Schriftstückes, die für die Führung des Handelsregisters ohne
 Bedeutung sind, weggelassen werden, wenn hiervon Verwirrung nicht zu
 besorgen ist. In Zweifelsfällen bestimmt der Richter den Umfang der
 Abschrift, sonst der Urkundsbeamte der Geschäftsstelle.
-
-(3) (weggefallen)
 
 
 ### § 9 Registerordner
