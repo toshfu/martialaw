@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1981
 
 Zuletzt geändert durch
-:   Art. 6 G v. 27.12.2024 I Nr. 438
+:   Art. 7 G v. 3.2.2026 I Nr. 28
 
 Änderung durch
 :   Art. 50 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
