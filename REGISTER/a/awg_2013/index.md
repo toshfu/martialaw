@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1482
 
 Zuletzt geändert durch
-:   Art. 2 G v. 27.2.2024 I Nr. 71
-
-Änderung durch
-:   Art. 1 G v. 3.2.2026 I Nr. 27 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 3.2.2026 I Nr. 27
 
 
 ## Teil 1 - Rechtsgeschäfte und Handlungen
