@@ -1,5 +1,6 @@
 ---
-Title: Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst
+Title: Verordnung über die Führung der Personalakten durch das Bundesamt für Familie
+  und zivilgesellschaftliche Aufgaben
 jurabk: ZDPersAV
 layout: default
 origslug: zdpersav
@@ -7,7 +8,7 @@ slug: zdpersav
 
 ---
 
-# Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst (ZDPersAV)
+# Verordnung über die Führung der Personalakten durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben (ZDPersAV)
 
 Ausfertigungsdatum
 :   2002-10-10
@@ -15,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4025
 
-Geändert durch
-:   Art. 1 V v. 7.11.2003 I 2261
-
-Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 11 G v. 22.12.2025 I Nr. 370
 
 
 ## Eingangsformel
