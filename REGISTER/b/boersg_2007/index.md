@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 1330, 1351
 
 Zuletzt geändert durch
-:   Art. 5 G v. 18.12.2025 I Nr. 347
-
-Änderung durch
-:   Art. 19 G v. 4.2.2026 I Nr. 33 mWv 10.2.206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
+:   Art. 21 G v. 4.2.2026 I Nr. 33
 
 Dieses Gesetz dient der Umsetzung
 
