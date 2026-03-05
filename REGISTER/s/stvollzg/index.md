@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1976, 581 (2088) (1977 I 436)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.7.2025 I Nr. 163
-
-Änderung durch
-:   Art. 5 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 8.12.2025 I Nr. 319
 
 Änderung durch
 :   Art. 6 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
