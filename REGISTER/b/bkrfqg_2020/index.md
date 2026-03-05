@@ -26,6 +26,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 2 G v. 3.2.2026 I Nr. 30 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 Abs. 1 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2018/645 des
 Europäischen Parlaments und des Rates vom 18. April 2018 zur Änderung
 der Richtlinie 2003/59/EG über die Grundqualifikation und
@@ -480,7 +483,7 @@ Verbindung mit Anlage 5 Teil A der Qualitätscharta für Beförderungen
 im grenzüberschreitenden Güterkraftverkehr im Rahmen des
 multilateralen CEMT-Kontingentsystems vom 5. August 2020 (VkBl. S.
 506) ausgestellt worden ist. Dies gilt nur für Beförderungen, die
-unter Verwendung einer multilateralen Genehmigung nach § 6 Satz 2
+unter Verwendung einer multilateralen Genehmigung nach § 1 Absatz 5
 Nummer 2 oder 3 des Güterkraftverkehrsgesetzes durchgeführt werden.
 
 
