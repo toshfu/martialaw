@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 1147, 1158
 
 Zuletzt geändert durch
-:   Art. 20 G v. 22.12.2023 I Nr. 414
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.12.2025 I Nr. 370
 
 Stand: Ersetzt G 53-1 v. 30.3.1957 I 308 (WSG)
 
