@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1730
 
 Zuletzt geändert durch
-:   Art. 11 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 22.12.2025 I Nr. 353
 
 Änderung durch
 :   Art. 28 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
