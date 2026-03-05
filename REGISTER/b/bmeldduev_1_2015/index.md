@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1945
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.1.2025 I Nr. 23
-
-Änderung durch
-:   Art. 14 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 22.12.2025 I Nr. 370
 
 
 ## Eingangsformel
