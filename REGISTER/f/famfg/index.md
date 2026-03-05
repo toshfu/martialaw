@@ -17,16 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 18 G v. 8.12.2025 I Nr. 319
-
-Änderung durch
-:   Art. 19 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 8.12.2025 I Nr. 319
 
 Änderung durch
 :   Art. 4 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
