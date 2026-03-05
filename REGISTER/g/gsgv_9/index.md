@@ -21,11 +21,19 @@ V aufgeh. durch
 Zuletzt geändert durch
 :   Art. 2 G v. 2.12.2025 I Nr. 302
 
+Änderung durch
+:   Art. 3 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Zukünftige Überschrift: Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung - 9. ProdSV)(ab 30.5.2026; BGBl 2026 I Nr. 54)
 [^bjnr070410993_01_BJNR070410993]:     Diese Verordnung dient der Umsetzung der Richtlinie 89/392/EWG des
     Rates vom 14. Juni 1989 zur Angleichung der Rechtsvorschriften der
     Mitgliedstaaten für Maschinen (ABl. EG Nr. L 183 S. 9), zuletzt
     geändert durch die Richtlinie 91/368/EWG des Rates vom 20. Juni 1991
     (ABl. EG Nr. L 198 S. 16).
+[^bjnr070410993_02_BJNR070410993]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 3 Nr. 1 V v.
+    2\.3.2026 I Nr. 54 mWv 30.5.2026 wie folgt gefasst:  **Neunte
+    Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung - 9.
+    ProdSV)**
 
 
 ## § 1 Anwendungsbereich
