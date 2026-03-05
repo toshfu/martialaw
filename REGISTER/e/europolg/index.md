@@ -20,10 +20,7 @@ Fundstelle
 :   BGBl II: 1997, 2150
 
 Zuletzt geändert durch
-:   Art. 8 G v. 25.6.2021 I 2083
-
-Änderung durch
-:   Art. 1 G v. 3.2.2026 I Nr. 26 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 3.2.2026 I Nr. 26
 
 Änderung des § 8 (bezeichnet als art. 2 § 8) durch
 :   Art. 10 Abs. 1 G v. 30.10.2017 I 3618 ist aufgrund bereits erfolgter Aufhebung der §§ 8 bis 10 durch Art. 1 Nr. 10 G v. 23.6.2017 I 1882 gegenstandslos und mithin nicht ausführbar.
