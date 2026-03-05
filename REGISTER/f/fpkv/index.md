@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1262
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.12.2024 I Nr. 401
+:   Art. 1 V v. 24.2.2026 I Nr. 48
 
 
 ## Eingangsformel
@@ -34,59 +34,58 @@ verordnet das Bundesministerium für Verkehr:
 
 (1) Folgende Verkehrsflughäfen sind flugplanvermittelte oder
 koordinierte Verkehrsflughäfen im Sinne des Artikels 2 Buchstabe g, h
-und i der Verordnung (EWG) Nr. 95/93 des Rates vom 18. Januar 1993
-über gemeinsame Regeln für die Zuweisung von Zeitnischen auf Flughäfen
-in der Gemeinschaft (ABl. EG Nr. L 14 S. 1), zuletzt geändert durch
-die Verordnung (EG) Nr. 793/2004 des Europäischen Parlaments und des
-Rates vom 21. April 2004 (ABl. EU Nr. L 138 S. 50), bei denen Start-
-und Landezeiten zu koordinieren sind:
+und i der Verordnung (EWG) Nr. 95/93, bei denen Start- und Landezeiten
+zu koordinieren sind:
 
--   Berlin Brandenburg
+1.  Berlin Brandenburg
 
 
--   Bremen,
+2.  Bremen,
 
 
--   Dresden,
+3.  Dresden,
 
 
--   Düsseldorf,
+4.  Düsseldorf,
 
 
--   Erfurt,
+5.  Erfurt,
 
 
--   Frankfurt/Main,
+6.  Frankfurt/Main,
 
 
--   Hamburg,
+7.  Hamburg,
 
 
--   Hannover,
+8.  Hannover,
 
 
--   Köln/Bonn,
+9.  Karlsruhe/Baden-Baden,
 
 
--   Leipzig/Halle,
+10. Köln/Bonn,
 
 
--   Memmingen,
+11. Leipzig/Halle,
 
 
--   München,
+12. Memmingen,
 
 
--   Münster/Osnabrück,
+13  München,
 
 
--   Nürnberg,
+14. Münster/Osnabrück,
 
 
--   Saarbrücken,
+15. Nürnberg,
 
 
--   Stuttgart.
+16. Saarbrücken,
+
+
+17. Stuttgart.
 
 
 
@@ -96,29 +95,29 @@ koordinierten Flughafen nach Maßgabe der Verordnung (EWG) Nr. 95/93
 erfolgt im Einvernehmen mit der obersten Luftfahrtbehörde des Landes,
 im Benehmen mit dem betroffenen Flughafenunternehmer und nach Anhörung
 des Koordinierungsausschusses nach § 2 durch das Bundesministerium für
-Digitales und Verkehr; sie wird im Bundesanzeiger sowie in den
-Nachrichten für Luftfahrer bekanntgemacht. Das Bundesministerium für
-Digitales und Verkehr bestimmt dabei im Einvernehmen mit der obersten
-Luftfahrtbehörde des Landes, ob der Verkehrsflughafen während seiner
-gesamten Betriebszeit oder nur für die Zeiträume, in denen
-Kapazitätsprobleme auftreten, für koordiniert erklärt wird.
+Verkehr; sie wird im Bundesanzeiger sowie in den Nachrichten für
+Luftfahrer bekanntgemacht. Das Bundesministerium für Verkehr bestimmt
+dabei im Einvernehmen mit der obersten Luftfahrtbehörde des Landes, ob
+der Verkehrsflughafen während seiner gesamten Betriebszeit oder nur
+für die Zeiträume, in denen Kapazitätsprobleme auftreten, für
+koordiniert erklärt wird.
 
 (3) Übersteigt innerhalb bestimmter Zeiträume die Nachfrage nach
 Start- und Landezeiten regelmäßig nicht die Flugplatz- und
 Flugsicherungskapazität der in Absatz 1 genannten Verkehrsflughäfen,
-kann das Bundesministerium für Digitales und Verkehr im Einvernehmen
-mit der obersten Luftfahrtbehörde des Landes, im Benehmen mit dem
-betroffenen Flughafenunternehmer und nach Anhörung des
-Koordinierungsausschusses nach § 2 einzelne Verkehrsflughäfen
-innerhalb dieser Zeiträume aus der Koordinierungspflicht entlassen.
-Die Entlassung aus der Koordinierungspflicht wird im Bundesanzeiger
-sowie in den Nachrichten für Luftfahrer bekannt gemacht.
+kann das Bundesministerium für Verkehr im Einvernehmen mit der
+obersten Luftfahrtbehörde des Landes, im Benehmen mit dem betroffenen
+Flughafenunternehmer und nach Anhörung des Koordinierungsausschusses
+nach § 2 einzelne Verkehrsflughäfen innerhalb dieser Zeiträume aus der
+Koordinierungspflicht entlassen. Die Entlassung aus der
+Koordinierungspflicht wird im Bundesanzeiger sowie in den Nachrichten
+für Luftfahrer bekannt gemacht.
 
 (4) Über Einzelfragen der zweckdienlichen Auslegung und Anwendung der
 Vorschriften über den Vorrang bei der Zuweisung von Start- und
 Landezeiten (Slots) sowie der Vorschriften über die Durchführung der
-Flughafenkoordination entscheidet das Bundesministerium für Digitales
-und Verkehr im Rahmen seiner Rechts- und Fachaufsicht.
+Flughafenkoordination entscheidet das Bundesministerium für Verkehr im
+Rahmen seiner Rechts- und Fachaufsicht.
 
 
 ## § 2 Koordinierungsausschuss
@@ -140,10 +139,9 @@ Koordinierungsausschuss obliegt dem jeweiligen Flughafenunternehmer.
 
 (3) Wird vom Koordinierungsausschuss ein Bedarf festgestellt oder wird
 ein Verkehrsflughafen zum koordinierten Flughafen erklärt, setzt das
-Bundesministerium für Digitales und Verkehr für den betreffenden
-Verkehrsflughafen einen Koordinierungsausschuss ein, der für diesen
-Flughafen die Aufgaben des Koordinierungsausschusses nach Absatz 1
-wahrnimmt.
+Bundesministerium für Verkehr für den betreffenden Verkehrsflughafen
+einen Koordinierungsausschuss ein, der für diesen Flughafen die
+Aufgaben des Koordinierungsausschusses nach Absatz 1 wahrnimmt.
 
 
 ## § 3 Umfang der Koordinierungspflicht
