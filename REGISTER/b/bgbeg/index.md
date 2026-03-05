@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 5 G vom 30.9.2025 I Nr. 233
-
-Änderung durch
-:   Art. 2 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 3.2.2026 I Nr. 28
 
 
 ## Erster Teil - Allgemeine Vorschriften
