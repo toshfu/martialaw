@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 22 G v. 27.7.2021 I 3146
 
+Änderung durch
+:   Art. 2 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 8053-4-9 v. 25.6.1992 I 1171 (GSGV 6)
 [^F1_793498_BJNR059710016]:     Diese Verordnung dient der Umsetzung der Richtlinie 2014/29/EU des
     Europäischen Parlaments und des Rates vom 26. Februar 2014 zur
