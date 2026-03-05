@@ -17,16 +17,7 @@ Fundstelle
 :   BGBl I: 1976, 581 (2088) (1977 I 436)
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.12.2025 I Nr. 319
-
-Änderung durch
-:   Art. 6 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 8.12.2025 I Nr. 319
 
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
@@ -2121,10 +2112,6 @@ Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
 bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für
 die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
 bleiben unberührt.
-
-(1c) (weggefallen)
-
-(1d) (weggefallen)
 
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung die für die
 elektronische Aktenführung geltenden organisatorischen und dem Stand
