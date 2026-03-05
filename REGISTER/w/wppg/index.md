@@ -18,22 +18,19 @@ Fundstelle
 :   BGBl I: 2005, 1698
 
 Zuletzt geändert durch
-:   Art. 2 G v. 28.11.2024 I Nr. 377
+:   Art. 14 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
-:   Art. 14 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 textlich nachgeweisen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 15 G v. 4.2.2026 I Nr. 33 mWv 5.3.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abchließend bearbeitet
 
 Änderung durch
-:   Art. 16 G v. 4.2.2026 I Nr. 33 mWv 10.2.2026 bzw. 5.6.2026 textlich nachgewiesen, dokumentarisch noch nicht abchließend bearbeitet
+:   Art. 17 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 17 G v. 4.2.2026 I Nr. 33 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 G v. 4.2.2026 I Nr. 33 mWv 10.1.2030 noch nicht berücksichtigt
+:   Art. 18 G v. 4.2.2026 I Nr. 33 mWv textlich nachgeweisen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des
 Europäischen Parlaments und des Rates vom 4. November 2003 betreffend
