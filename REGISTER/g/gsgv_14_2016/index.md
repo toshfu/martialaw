@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 28 G v. 27.7.2021 I 3146
 
+Änderung durch
+:   Art. 6 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: § 12 ist gem. § 24 Abs. 1 dieser V am 1.6.2015 in Kraft getreten
 Stand: Ersetzt V 8053-4-17 v. 27.9.2002 I 3777, 3806 (GSGV 14)
 [^F789723_01_BJNR069200015]:     Diese Verordnung dient der Umsetzung der Richtlinie 2014/68/EU des
