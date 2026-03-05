@@ -277,10 +277,15 @@ Verwaltungsbeschäftigte in der Bundesverwaltung.
 
 ## § 4 Übergangsvorschrift
 
-Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung,
-die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht
-vollständig erbracht worden ist, ist das bis einschließlich 30.
-September 2021 geltende Recht weiter anzuwenden.
+(1) Für die Erhebung von Gebühren für eine gebührenpflichtige
+Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
+noch nicht vollständig erbracht worden ist, ist das bis einschließlich
+30\. September 2021 geltende Recht weiter anzuwenden.
+
+(2) Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung
+nach den Nummern 3.1, 3.3 oder Nummer 3.4 der Anlage (zu § 2 Absatz 1)
+Gebührenverzeichnis, die vor dem 5. März 2026 erbracht worden ist, ist
+das bis einschließlich 4. März 2026 geltende Recht weiter anzuwenden.
 
 
 ## § 5 Inkrafttreten
@@ -748,26 +753,20 @@ tritt am 1. Januar 2022 in Kraft.
         –   eines Prospekts oder eines Basisprospekts, der als einziges Dokument
             im Sinne des Artikels 6 Absatz 3 Unterabsatz 1 erste Alternative oder
             des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung
-            (EU) 2017/1129 erstellt worden ist oder
+            (EU) 2017/1129 erstellt worden ist, oder
 
 
-        –   eines vereinfachten Prospekts oder eines Basisprospekts, der als
-            einziges Dokument im Sinne des Artikels 14 Absatz 1 und des Artikels 6
-            Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6
-            Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt
-            worden ist oder
+        –   eines EU-Folgeprospekts oder eines Basisprospekts, der als einziges
+            Dokument im Sinne der Artikel 14a und 6 Absatz 3 Unterabsatz 1 erste
+            Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste
+            Alternative der Verordnung (EU) 2017/1129 erstellt worden ist, oder
 
 
-        –   eines EU-Wiederaufbauprospekts im Sinne des Artikels 14a Absatz 1 der
-            Verordnung (EU) 2017/1129
-
-
-        –   eines EU-Wachstumsprospekts oder eines Basisprospekts, der als
-            einziges Dokument im Sinne des Artikels 15 Absatz 1 und des Artikels 6
-            Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6
+        –   eines EU-Wachstumsemissionsprospekts oder eines Basisprospekts, der
+            als einziges Dokument im Sinne der Artikel 15a und 6 Absatz 3
+            Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6
             Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt
             worden ist
-            (Artikel 20 Absatz 1 der Verordnung (EU) 2017/1129)
 
 
 
@@ -796,20 +795,9 @@ tritt am 1. Januar 2022 in Kraft.
             1 der Verordnung (EU) 2017/1129) oder
 
 
-        –   eines speziellen Registrierungsformulars
-
-            –   für einen vereinfachten Prospekt auf der Grundlage der vereinfachten
-                Offenlegungsregelung für Sekundäremissionen im Sinne des Artikels 6
-                Absatz 3 Unterabsatz 2 Satz 1 und 2 und des Artikels 14 Absatz 1
-                Unterabsatz 2 der Verordnung (EU) 2017/1129 oder
-
-
-            –   für einen EU-Wachstumsprospekt im Sinne des Artikels 6 Absatz 3
-                Unterabsatz 2 Satz 1 und 2 und des Artikels 15 Absatz 1 Unterabsatz 2
-                der Verordnung (EU) 2017/1129
-
-
-
+        –   eines Registrierungsformulars für einen EU-Folgeprospekt im Sinne des
+            Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 2 und des Artikels 14a
+            der Verordnung (EU) 2017/1129
 
 
 
@@ -826,17 +814,10 @@ tritt am 1. Januar 2022 in Kraft.
             oder
 
 
-        –   einer Wertpapierbeschreibung und Zusammenfassung für einen
-            vereinfachten Prospekt auf der Grundlage der vereinfachten
-            Offenlegungsregelung für Sekundäremissionen im Sinne des Artikels 14
-            Absatz 1 und des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der
-            Verordnung (EU) 2017/1129 oder
-
-
-        –   einer speziellen Wertpapierbeschreibung und speziellen Zusammenfassung
-            im Sinne des Artikels 15 Absatz 1 Unterabsatz 2 und des Artikels 6
-            Absatz 3 Unterabsatz 2 Satz 1 und 3 der Verordnung (EU) 2017/1129
-            (Artikel 20 Absatz 1 der Verordnung (EU) 2017/1129)
+        –   einer Wertpapierbeschreibung und Zusammenfassung im Sinne des Artikels
+            7 Absatz 12a der Verordnung (EU) 2017/1129 für einen EU-Folgeprospekt
+            im Sinne der Artikel 14a und 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der
+            Verordnung (EU) 2017/1129
 
 
 
