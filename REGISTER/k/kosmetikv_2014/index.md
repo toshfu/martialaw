@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1054
 
 Zuletzt geändert durch
-:   Art. 2 V v. 15.1.2025 I Nr. 11
-
-Änderung durch
-:   Art. 2 V v. 19.12.2025 I Nr. 379 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 19.12.2025 I Nr. 379
 
 
 ## § 1 Ziel
