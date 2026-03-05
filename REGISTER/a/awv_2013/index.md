@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2865
 
 Zuletzt geändert durch
-:   Art. 27 G v. 2.12.2025 I Nr. 301
-
-Änderung durch
-:   Art. 2 G v. 3.2.2026 I Nr. 27 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 3.2.2026 I Nr. 27
 
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
