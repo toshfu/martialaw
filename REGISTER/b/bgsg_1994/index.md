@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2978, 2979
 
 Zuletzt geändert durch
-:   Art. 5 G v. 6.5.2024 I Nr. 149
-
-Änderung durch
-:   Art. 8 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 10.2.2026 I Nr. 39
 
 
 ## Abschnitt 1 - Aufgaben und Verwendungen
