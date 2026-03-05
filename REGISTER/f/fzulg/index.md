@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2763
 
 Zuletzt geändert durch
-:   Art. 3 G v. 14.7.2025 I Nr. 161
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 363
 
 
 ## § 1 Anspruchsberechtigung
