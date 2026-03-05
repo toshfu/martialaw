@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2660
 
-Geändert durch
-:   Art. 1 V v. 21.2.2024 I Nr. 59
+Zuletzt geändert durch
+:   Art. 1 V v. 27.2.2024 I Nr. 53
 
 [^F805426_01_BJNR266000018]:     Diese Verordnung dient der Umsetzung des Artikels 55 Absatz 2
     Buchstabe f und h der Richtlinie 2013/59/Euratom des Rates vom 5.
@@ -43,7 +43,7 @@ Naturschutz und nukleare Sicherheit:
 (1) Röntgenuntersuchungen zur Früherkennung von Brustkrebs sind
 zulässig bei Frauen,
 
-1.  die das 50., aber noch nicht das 76. Lebensjahr vollendet haben und
+1.  die mindestens 45 und höchstens 75 Jahre alt sind und
 
 
 2.  bei denen die letzte Röntgenuntersuchung der Brust
@@ -107,6 +107,55 @@ Person Röntgenaufnahmen von mindestens 3 000 Frauen befundet, wenn
 
 
 Eine Abweichung gemäß Absatz 2 Satz 1 Nummer 2 gilt nur für ein Jahr.
+
+(3) Das Erfordernis der ständigen Aufsicht nach § 145 Absatz 2 Satz 1
+Nummer 5 der Strahlenschutzverordnung gilt bei der technischen
+Durchführung der Untersuchung zur Brustkrebsfrüherkennung als erfüllt,
+wenn
+
+1.  die aufsichtführende Person nach § 145 Absatz 1 Nummer 1 der
+    Strahlenschutzverordnung die Aufsicht in räumlicher Nähe zum Ort der
+    technischen Durchführung ausübt oder
+
+
+2.  gewährleistet ist, dass
+
+    a)  eine jederzeitige Kommunikationsmöglichkeit zwischen der
+        aufsichtführenden Person nach § 145 Absatz 1 Nummer 1 der
+        Strahlenschutzverordnung und der beaufsichtigten Person nach § 145
+        Absatz 2 Satz 1 Nummer 5 der Strahlenschutzverordnung besteht,
+
+
+    b)  jederzeitiger elektronischer Zugriff der aufsichtführenden Person nach
+        § 145 Absatz 1 Nummer 1 der Strahlenschutzverordnung auf folgende
+        Daten technisch sichergestellt ist:
+
+        aa) alle physikalisch-technischen Parameter, die für die Bilderzeugung und
+            die Bildqualität maßgeblich sind, insbesondere die Parameter, die zur
+            Ermittlung der Exposition der untersuchten Person erforderlich sind,
+            und
+
+
+        bb) sämtliche digitale Bilddaten in Befundungsqualität und
+
+
+
+
+
+    c)  die beaufsichtigte Person nach § 145 Absatz 2 Satz 1 Nummer 5 der
+        Strahlenschutzverordnung innerhalb der letzten zwölf Monate bei
+        mindestens 700 Frauen Röntgenuntersuchungen zur
+        Brustkrebsfrüherkennung unter Aufsicht nach Satz 1 Nummer 1 technisch
+        durchgeführt hat.
+
+        Die Voraussetzung nach Satz 1 Nummer 2 Buchstabe c muss nur einmal zu
+        Beginn der Aufsicht nach Satz 1 Nummer 2 vorliegen.
+
+
+
+
+
+
 
 
 ## § 3 Medizinphysik-Experte; Aufgaben des Medizinphysik-Experten
