@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 3341 (1977 I 667)
 
 Zuletzt geändert durch
-:   Art. 20 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.12.2025 I Nr. 363
 
 Änderung durch
 :   Art. 17 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
