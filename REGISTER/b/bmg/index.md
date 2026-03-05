@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1084
 
 Zuletzt geändert durch
-:   Art. 6 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 12 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 22.12.2025 I Nr. 370
 
 Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
