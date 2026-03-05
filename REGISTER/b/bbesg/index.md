@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.6.2009 I 1434;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 27.2.2025 I Nr. 72
-
-Änderung durch
-:   Art. 18 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 22.12.2025 I Nr. 370
 
 Änderung durch
 :   Art. 62 Abs. 2 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -1958,16 +1955,6 @@ Dienstzeit von
 
 
 
-
-(5) (weggefallen)
-
-(6) (weggefallen)
-
-(7) (weggefallen)
-
-(8) (weggefallen)
-
-(9) (weggefallen)
 
 
 ### § 44 Verpflichtungsprämie für Soldaten auf Zeit
