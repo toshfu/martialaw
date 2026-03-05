@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3
 
 Zuletzt geändert durch
-:   Art. 2 V v. 27.2.2025 I Nr. 73
+:   Art. 1 V v. 25.2.2026 I Nr. 52
 
 
 ## Eingangsformel
@@ -432,6 +432,20 @@ erlassen:
 
 4.  im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen
     Bundesbank nach Maßgabe des § 40 Absatz 4 Satz 1, 2 und 3.
+
+
+
+
+
+## § 1h
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
+Rechtsverordnungen auf Grundlage des Geldwäschegesetzes zu erlassen
+
+1.  nach Maßgabe des § 51 Absatz 12 Satz 1,
+
+
+2.  nach Maßgabe des § 52 Absatz 7 Satz 3.
 
 
 
