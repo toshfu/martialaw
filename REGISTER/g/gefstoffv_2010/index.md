@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 2.12.2024 I Nr. 384
 
 Änderung durch
-:   Art. 1 V v. 17.12.2025 I Nr. 337 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 17.12.2025 I Nr. 337; 2026 I Nr. 44 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F774705_01_BJNR164400010]:     Artikel 1 dieser Verordnung dient der Umsetzung folgender Richtlinien:
     –                                    Richtlinie 98/24/EG des Rates vom
@@ -197,21 +197,6 @@ Rechtsvorschriften bestehen.
 1.  gefährliche Stoffe und Gemische nach § 3a des Chemikaliengesetzes,
 
 
-1a. Stoffe oder Gemische, die über die Gefahrenklasse gewässergefährdend
-    nach der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und
-    des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und
-    Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der
-    Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung
-    (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt
-    durch die Delegierte Verordnung (EU) 2022/692 (ABl. L 129 vom
-    3\.5.2022, S. 1) geändert worden ist, hinaus umweltgefährlich sind,
-    indem sie selbst oder deren Umwandlungsprodukte sonst geeignet sind,
-    die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft,
-    Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass
-    dadurch sofort oder später Gefahren für die Umwelt herbeigeführt
-    werden können,
-
-
 2.  Stoffe, Gemische und Erzeugnisse, die explosionsfähig sind,
 
 
@@ -231,6 +216,10 @@ Rechtsvorschriften bestehen.
 
 
 
+
+(1a) Gefährlich im Sinne dieser Verordnung sind Stoffe, Gemische und
+bestimmte Erzeugnisse, die den in Anhang I der Verordnung (EG) Nr.
+1272/2008 dargelegten Kriterien entsprechen.
 
 (2) Für die Begriffe Stoff, Gemisch, Erzeugnis, Lieferant,
 nachgeschalteter Anwender und Hersteller gelten die
