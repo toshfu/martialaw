@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2336
 
 Zuletzt geändert durch
-:   Art. 5 G v. 18.12.2024 I Nr. 423
-
-Änderung durch
-:   Art. 10 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 17 Nr. 1 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
+:   Art. 10 G v. 22.12.2025 I Nr. 370
 
 
 
