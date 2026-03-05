@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.12.1997; 1998 I 5;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.4.2024 I Nr. 114
-
-Änderung durch
-:   Art. 1 V v. 19.12.2025 I Nr. 379 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 19.12.2025 I Nr. 379
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
