@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.5.2005 I 1346;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 12.12.2019 I 2652
-
-Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 22.12.2025 I Nr. 370
 
 
 ## Abschnitt 1 - Aufgaben und Organisation des Zivildienstes
