@@ -1601,7 +1601,7 @@ außerhalb des Geltungsbereichs des Gemeinschaftsrechts durchführen.
 Einhaltung der Genehmigungsvoraussetzungen erforderlich ist, kann die
 Genehmigungsbehörde
 
-1.  Ermittlungen an Stellen, auch Einsicht in die Bücher und
+1.  Ermittlungen anstellen, auch Einsicht in die Bücher und
     Geschäftspapiere einschließlich der Unterlagen über den Einsatz von
     Luftfahrzeugen nehmen, und zwar bei
 
@@ -2754,10 +2754,10 @@ Protokoll vom 12. Februar 1981 zur Änderung des Internationalen
 Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt
 "EUROCONTROL" vom 13. Dezember 1960 und zu der Mehrseitigen
 Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren
-(BGBl. 1984 II S. 69) sowie bei der Einbeziehung der Gebühr nach
-Artikel 3 des Gesetzes vom 6. Februar 2017 in Verbindung mit den
-Artikeln 6 und 7 der Anlage IV des Internationalen Übereinkommens vom
-13\. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt
+(BGBl. 1984 II S. 69) sowie bei der Einziehung der Gebühr nach Artikel
+3 des Gesetzes vom 6. Februar 2017 in Verbindung mit den Artikeln 6
+und 7 der Anlage IV des Internationalen Übereinkommens vom 13.
+Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt
 "EUROCONTROL" (BGBl. 2017 II S. 74, 76) tritt die
 Flugsicherungsorganisation an die Stelle der Bundesrepublik
 Deutschland, soweit nicht etwas anderes bestimmt ist. Bei der
