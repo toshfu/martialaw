@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 5 G v. 30.1.2026 I Nr. 31
-
-Änderung durch
-:   Art. 8 G v. 30.1.2026 I Nr. 31 mWv 7.2.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 8 G v. 30.1.2026 I Nr. 31
 
 
 ## Eingangsformel
@@ -5231,7 +5228,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003672311]
+    *[^F829919_01_BJNR069500995BJNE003681311]
    (1)
 
     *
@@ -6963,7 +6960,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   ii)
 
-    *   § 16d Absatz 4 Nummer 1 AufenthG
+    *   § 16d Absatz 4 Satz 1 Nummer 1 AufenthG
         (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
         Bundesagentur für Arbeit bei reglementierten Berufen im Pflege- und
         Gesundheitsbereich)
@@ -6989,7 +6986,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   jj)
 
-    *   § 16d Absatz 4 Nummer 2 AufenthG
+    *   § 16d Absatz 4 Satz 1 Nummer 2 AufenthG
         (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
         Bundesagentur für Arbeit bei sonstigen Berufen)
 
@@ -7745,7 +7742,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   eee)
 
     *   § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV,
-        internationaler Personalaustausch
+        Auslandsprojekte
 
     *
     *   (2)\*
@@ -8542,7 +8539,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ddd)
 
-    *   § 19d Absatz 4 AufenthG
+    *   § 19d Absatz 4 in Verbindung mit Absatz 1 AufenthG
         (Aufenthaltserlaubnis nach Aufenthaltserlaubnis nach Kapitel 2
         Abschnitt 5 AufenthG)
 
@@ -8589,7 +8586,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *
     *
-    *   widerrufen am
+    *   befristet bis
 
     *
     *
@@ -9070,8 +9067,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   hh)
 
     *   § 25 Absatz 1 AufenthG
-        (Asyl)
-        anerkannt am
+        (Asylberechtigung)
+        erteilt am
 
     *
     *   (2)\*
@@ -9088,8 +9085,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ii)
 
     *   § 25 Absatz 2 AufenthG
-        (GFK)
-        gewährt am
+        (Flüchtlingseigenschaft)
+        erteilt am
 
     *
     *   (2)\*
@@ -9107,7 +9104,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *   § 25 Absatz 2 AufenthG
         (subsidiärer Schutz)
-        gewährt am
+        erteilt am
 
     *
     *   (2)\*
@@ -9354,6 +9351,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   (2)\*
 
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
 
 *    *   d)
 
@@ -10353,8 +10357,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   tt)
 
-    *   Artikel 20 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis eines
-        drittstaatsangehörigen Elternteils eines deutschen Kindes)
+    *   Artikel 20 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis)
 
     *
     *   (2)
@@ -10438,7 +10441,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 *    *
-        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe vv –
+        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe tt bis vv –
 
 
 
@@ -10455,7 +10458,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   Aufenthaltserlaubnis
 
-        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe vv –
+        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe tt bis vv –
 
 
 
@@ -11289,7 +11292,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11325,7 +11328,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11363,7 +11366,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *   (1)
 
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11399,7 +11402,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11436,7 +11439,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11472,7 +11475,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11487,7 +11490,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   h)
@@ -11498,7 +11501,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   i)
@@ -11509,7 +11512,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   j)
@@ -11520,7 +11523,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   k)
@@ -11534,7 +11537,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   l)
@@ -11548,7 +11551,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   m)
@@ -11562,7 +11565,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   n)
@@ -11573,7 +11576,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   o)
@@ -11584,7 +11587,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   p)
@@ -11595,7 +11598,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   q)
@@ -11608,7 +11611,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   r)
@@ -11621,7 +11624,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   s)
@@ -11634,7 +11637,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
@@ -15595,7 +15598,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003672311]
+    *[^f756180_08_BJNR069500995BJNE003681311]
    (7)
 
     *
@@ -15868,7 +15871,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003672311]
+    *[^f756180_09_BJNR069500995BJNE003681311]
    (2)
 
     *
@@ -16629,7 +16632,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003672311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003672311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003681311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003681311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003672311]: 
+[^F829919_01_BJNR069500995BJNE003681311]: 
