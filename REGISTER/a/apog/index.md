@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.1980 I 1993;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 356
 
 Stand: Art. 3 Nr. 2 G v. 18.4.2016 I 886 infolge unzureichender Bestimmtheit nicht ausführbar
 
