@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 20 G v. 27.7.2021 I 3146
 
+Änderung durch
+:   Art. 1 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 8053-4-1 v. 11.6.1979 I 629 (TechArbmGV 1)
 [^F793385_01_BJNR050200016]:     Diese Verordnung dient der Umsetzung der Richtlinie 2014/35/EU des
     Europäischen Parlaments und des Rates vom 26. Februar 2014 zur
