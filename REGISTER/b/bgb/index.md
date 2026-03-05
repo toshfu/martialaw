@@ -21,9 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 4.2.2026 I Nr. 33
 
-Änderung durch
-:   Art. 1 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung
