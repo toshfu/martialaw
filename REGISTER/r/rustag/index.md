@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1913, 583
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.12.2025 I Nr. 364
+:   Art. 3 G v. 22.12.2025 I Nr. 364; 2026 I Nr. 49
 
 
 ## § 1
@@ -1046,8 +1046,8 @@ wenn
 2.  die zuständige Staatsangehörigkeitsbehörde im Einbürgerungsverfahren
     feststellt, dass ein Antragsteller, um für sich oder einen anderen
     eine Einbürgerung zu erwirken, arglistig getäuscht, gedroht oder
-    bestochen hat oder unrichtige oder unvollständige Angaben zu
-    wesentlichen Voraussetzungen der Einbürgerung gemacht oder benutzt
+    bestochen hat oder vorsätzlich unrichtige oder unvollständige Angaben
+    zu wesentlichen Voraussetzungen der Einbürgerung gemacht oder benutzt
     hat.
 
 
