@@ -18,19 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 1698
 
 Zuletzt geändert durch
-:   Art. 14 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 15 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 16 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abchließend bearbeitet
-
-Änderung durch
-:   Art. 17 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 G v. 4.2.2026 I Nr. 33 mWv textlich nachgeweisen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 4.2.2026 I Nr. 33
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des
 Europäischen Parlaments und des Rates vom 4. November 2003 betreffend
@@ -662,26 +650,29 @@ auf grober Fahrlässigkeit beruht.
 
 
 5.  er sich ausschließlich auf Grund von Angaben in der Zusammenfassung
-    nach Artikel 7 der Verordnung (EU) 2017/1129 oder in der speziellen
-    Zusammenfassung eines EU-Wachstumsprospekts im Sinne des Artikels 15
-    Absatz 1 Unterabsatz 2 Satz 2 der Verordnung (EU) 2017/1129 samt
-    etwaiger Übersetzungen ergibt, es sei denn, die Zusammenfassung ist
-    irreführend, unrichtig oder widersprüchlich, wenn sie zusammen mit den
-    anderen Teilen des Prospekts gelesen wird, oder sie enthält, wenn sie
-    zusammen mit den anderen Teilen des Prospekts gelesen wird, nicht alle
-    gemäß Artikel 7 Absatz 1 Unterabsatz 1 in Verbindung mit den Absätzen
-    5 bis 7 Buchstabe a bis d und Absatz 8 der Verordnung (EU) 2017/1129
-    erforderlichen Basisinformationen; im Falle der speziellen
-    Zusammenfassung eines EU-Wachstumsprospekts richtet sich die
-    Vollständigkeit der relevanten Informationen nach den Vorgaben in
-    Artikel 33 der Delegierten Verordnung (EU) 2019/980 der Kommission vom
-    14\. März 2019 zur Ergänzung der Verordnung (EU) 2017/1129 des
-    Europäischen Parlaments und des Rates hinsichtlich der Aufmachung, des
-    Inhalts, der Prüfung und der Billigung des Prospekts, der beim
-    öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum
-    Handel an einem geregelten Markt zu veröffentlichen ist, und zur
-    Aufhebung der Verordnung (EG) Nr. 809/2004 der Kommission (ABl. L 166
-    vom 21.6.2019, S. 26).
+    nach Artikel 7 der Verordnung (EU) 2017/1129 samt etwaiger
+    Übersetzungen ergibt, es sei denn,
+
+    a)  die Zusammenfassung ist irreführend, unrichtig oder widersprüchlich,
+        wenn sie zusammen mit den anderen Teilen des Prospekts gelesen wird,
+        oder
+
+
+    b)  die Zusammenfassung enthält, wenn sie zusammen mit den anderen Teilen
+        des Prospekts gelesen wird, nicht alle nach Artikel 7 Absatz 1
+        Unterabsatz 1 in Verbindung mit den Absätzen 5 bis 7 Buchstabe a bis d
+        und Absatz 8 der Verordnung (EU) 2017/1129 erforderlichen
+        Basisinformationen;
+
+
+    c)  im Fall der Zusammenfassung eines EU-Folgeprospekts und eines EU-
+        Wachstumsemissionsprospekts richtet sich die Vollständigkeit der
+        relevanten Informationen nach Artikel 7 Absatz 1 Unterabsatz 1 in
+        Verbindung mit Absatz 12a Unterabsatz 3 Buchstabe c der Verordnung
+        (EU) 2017/1129.
+
+
+
 
 
 
@@ -1575,9 +1566,10 @@ leichtfertig
 
 
 3.  einen Prospekt veröffentlicht, dessen Zusammenfassung die
-    Informationen und Warnhinweise nach Artikel 7 Absatz 1 bis 8, 10 und
-    11 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024
-    nicht oder nicht in der vorgeschriebenen Weise enthält,
+    Informationen und Warnhinweise nach Artikel 7 Absatz 1 bis 8, 10, 11
+    und 12a Unterabsatz 1 bis 3 der Verordnung (EU) 2017/1129 in der
+    Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen
+    Weise enthält,
 
 
 4.  endgültige Bedingungen, auch als Teil eines Basisprospekts oder
@@ -1654,25 +1646,22 @@ leichtfertig
     vorgeschriebenen Weise enthält,
 
 
-14. einen vereinfachten Prospekt nach Artikel 14 der Verordnung (EU)
-    2017/1129 in der Fassung vom 23. Oktober 2024 veröffentlicht, ohne zu
-    den in Artikel 14 Absatz 1 der Verordnung (EU) 2017/1129 in der
-    Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder einen
-    vereinfachten Prospekt veröffentlicht, der nicht aus den in Artikel 14
-    Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober
-    2024 genannten Bestandteilen besteht oder die verkürzten Angaben nach
-    Artikel 14 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom
-    23\. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise
-    enthält,
+14. einen EU-Folgeprospekt veröffentlicht, ohne zu den in Artikel 14a
+    Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung
+    vom 23. Oktober 2024 genannten Personen zu gehören, oder einen EU-
+    Folgeprospekt veröffentlicht, der die nach Artikel 14a Absatz 2 oder 3
+    der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024
+    vorgeschriebenen Angaben nicht oder nicht in der vorgeschriebenen
+    Weise enthält,
 
 
-15. einen EU-Wachstumsprospekt veröffentlicht, ohne zu den in Artikel 15
-    Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober
-    2024 genannten Personen zu gehören, oder einen EU-Wachstumsprospekt
-    veröffentlicht, der die in Artikel 15 Absatz 1 der Verordnung (EU)
-    2017/1129 in der Fassung vom 23. Oktober 2024 genannten Bestandteile
-    und Informationen nicht oder nicht in der vorgeschriebenen Weise
-    enthält,
+15. einen EU-Wachstumsemissionsprospekt veröffentlicht, ohne zu den in
+    Artikel 15a Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/1129 in
+    der Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder
+    einen EU-Wachstumsemissionsprospekt veröffentlicht, der die nach
+    Artikel 15a Absatz 2 oder 3 der Verordnung (EU) 2017/1129 in der
+    Fassung vom 23. Oktober 2024 vorgeschriebenen Angaben nicht oder nicht
+    in der vorgeschriebenen Weise enthält,
 
 
 16. einen Prospekt veröffentlicht, der die Risikofaktoren nach Artikel 16
