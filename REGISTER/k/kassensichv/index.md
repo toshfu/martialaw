@@ -16,17 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3515
 
-Geändert durch
-:   Art. 15 G v. 2.12.2025 I Nr. 301
-
-Änderung durch
-:   Art. 1 V v. 14.1.2026 I Nr. 10 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 14.1.2026 I Nr. 10 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 14.1.2026 I Nr. 10 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 3 V v. 14.1.2026 I Nr. 10
 
 [^BJNR351500017_01]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
