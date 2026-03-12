@@ -19,6 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33
 
+Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
 
@@ -5274,11 +5275,12 @@ entsprechend.
 
 (3) Der Unternehmer hat für die Vergabe der Unternehmernummer
 einschließlich des Anhangs nach Absatz 1 Satz 4 die dazu notwendigen
-Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum
-und die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das
-Nähere zum Verfahren, zu den erforderlichen Angaben und zu den
-Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V.,
-in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in
+Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum,
+die Identifikationsnummer nach dem Identifikationsnummerngesetz und
+die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das Nähere
+zum Verfahren, zu den erforderlichen Angaben und zu den Datensätzen
+regelt die Deutsche Gesetzliche Unfallversicherung e. V., in
+Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in
 Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
 zu genehmigen sind.
 
