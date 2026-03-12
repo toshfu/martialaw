@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1284
 
 Zuletzt geändert durch
-:   Art. 2 V v. 7.2.2024 I Nr. 37
+:   Art. 2 V v. 3.3.2026 I Nr. 57
 
 Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
 
@@ -593,7 +593,19 @@ gewähren:
 
 
 
-(2) (weggefallen)
+(2) Abweichend von Absatz 1 Nummer 4 beträgt die Dauer des gewährten
+Sonderurlaubs im Jahr 2026
+
+1.  für jedes Kind bis zu 13 Arbeitstage im Urlaubsjahr, für alle Kinder
+    zusammen höchstens 30 Arbeitstage im Urlaubsjahr,
+
+
+2.  bei alleinerziehenden Beamtinnen und Beamten für jedes Kind bis zu 26
+    Arbeitstage im Urlaubsjahr, für alle Kinder zusammen höchstens 60
+    Arbeitstage im Urlaubsjahr.
+
+
+
 
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe
 Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag
