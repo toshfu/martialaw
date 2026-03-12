@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.5.2013 I 1274; 2021, 123;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.8.2025 I Nr. 189
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.12.2025 I Nr. 348
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -2997,8 +2994,6 @@ oder Nummer 3 oder nach § 47 Absatz 1 Nummer 1, 2 oder Nummer 6 des
 Energiesteuergesetzes gewährt wurde oder wird, nicht zu
 berücksichtigen. In den Fällen des Absatzes 5 Satz 1 Nummer 2 und 3
 gilt Satz 9 unabhängig von der Person des Entlastungsberechtigten.
-
-(4a) (weggefallen)
 
 (5) Die Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit
 dem Absatz 4 können von Verpflichteten erfüllt werden durch folgende
