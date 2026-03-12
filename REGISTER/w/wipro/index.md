@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.11.1975 I 2803
 
 Zuletzt geändert durch
-:   Art. 23 G v. 22.12.2025 I Nr. 349
-
-Änderung durch
-:   Art. 33 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 33 G v. 4.2.2026 I Nr. 33
 
 
 ## Erster Teil - Allgemeine Vorschriften
