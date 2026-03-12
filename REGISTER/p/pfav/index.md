@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 842
 
 Zuletzt geändert durch
-:   Art. 4 G v. 16.1.2026 I Nr. 14
-
-Änderung durch
-:   Art. 62 Abs. 10 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 62 Abs. 10 G v. 4.2.2026 I Nr. 33
 
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
