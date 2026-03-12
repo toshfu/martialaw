@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 31.3.2020 I 752
 
+Änderung durch
+:   Art. 3 Abs. 2 G v. 4.3.2026 I Nr. 60 mWv 10.3.2026 noch nicht berücksichtigt
+
 Diese Verordnung dient der Umsetzung der Richtlinie 2001/82/EG des
 Europäischen Parlaments und des Rates vom 6. November 2001 zur
 Schaffung eines Gemeinschaftskodexes für Tierarzneimittel (ABl. EG Nr.
