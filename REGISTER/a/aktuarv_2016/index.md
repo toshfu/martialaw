@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 776
 
-Geändert durch
-:   Art. 6 Abs. 8 G v. 19.12.2018 I 2672
-
-Änderung durch
-:   Art. 62 Abs. 1 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 62 Abs. 1 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
