@@ -21,7 +21,7 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 V v. 17.12.2025 I Nr. 337; 2026 I Nr. 44 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-[^F774705_01_BJNR164400010]:     Artikel 1 dieser Verordnung dient der Umsetzung folgender Richtlinien:
+[^F774705_01_BJNR164400010]:     Diese Verordnung dient der Umsetzung folgender Richtlinien:
     –                                    Richtlinie 98/24/EG des Rates vom
     7\. April 1998 zum Schutz von Gesundheit und Sicherheit der
     Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der
