@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 434
 
 Zuletzt geändert durch
-:   Art. 3 G v. 16.1.2026 I Nr. 14
-
-Änderung durch
-:   Art. 54 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 55 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 55 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
 :   Art. 56 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
