@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3021
 
-Geändert durch
-:   Art. 3 V v. 12.7.2017 I 2360
-
-Änderung durch
-:   Art. 19 Abs. 7 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 19 Abs. 7 G v. 22.12.2025 I Nr. 369
 
 
 
