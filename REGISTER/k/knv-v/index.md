@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2015, 670
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 4 V v. 6.7.2021 I 2514
-
-Änderung durch
-:   Art. 2 Abs. 3 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 3 G v. 25.11.2025 I Nr. 282
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
