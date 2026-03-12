@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1499
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 7 G v. 30.9.2025 I Nr. 233
-
-Änderung durch
-:   Art. 61 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 61 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
