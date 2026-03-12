@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
 Zuletzt geändert durch
-:   Art. 10 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 2 Abs. 1 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 348
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
 Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
