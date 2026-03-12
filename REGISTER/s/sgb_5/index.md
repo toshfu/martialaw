@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 28 G v. 3.2.2026 I Nr. 28
+:   Art. 8 G v. 3.2.2026 I Nr. 28
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
