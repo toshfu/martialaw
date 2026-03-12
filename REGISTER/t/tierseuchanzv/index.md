@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 V v. 31.3.2020 I 752
 
+Änderung durch
+:   Art. 4 Nr. 3 V v. 10.3.2026 I Nr. 61 mWv 11.3.2026 noch nicht berücksichtigt
+
 
 ## § 1 Anzeigepflichtige Tierseuchen
 
