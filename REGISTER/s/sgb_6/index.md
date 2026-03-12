@@ -29,14 +29,15 @@ Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2025 I Nr. 362 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 13 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
 
 Änderung durch
 :   Art. 12 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
 
+Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -4388,7 +4389,6 @@ ständigen Arbeiten unter Tage zu gleichen Teilen zugeordnet.
 
 ###### § 86 (weggefallen)
 
--
 
 
 ###### § 86a Zugangsfaktor
@@ -4805,7 +4805,6 @@ verursachen. Satz 1 Nr. 1 gilt nicht für Hinterbliebenenrenten.
 
 ##### § 94 (weggefallen)
 
--
 
 
 ##### § 95 (weggefallen)
@@ -7752,9 +7751,8 @@ Bundesamt für Soziale Sicherung übertragen.
 (5) (weggefallen)
 
 
-##### § 146
+##### § 146 (weggefallen)
 
-(weggefallen)
 
 
 ### Zweiter Abschnitt - Datenschutz und Datensicherheit
@@ -8116,7 +8114,13 @@ enthalten:
 7.  Betriebsnummer des Arbeitgebers,
 
 
-8.  Tag der Beschäftigungsaufnahme.
+8.  Tag der Beschäftigungsaufnahme,
+
+
+9.  Geburtsdatum,
+
+
+10. die Identifikationsnummer nach dem Identifikationsnummerngesetz.
 
 
 
@@ -10818,10 +10822,6 @@ zuständigen Träger der Rentenversicherung weiterzuleiten.
 (4) (weggefallen)
 
 
-###### § 196a (weggefallen)
-
-
-
 ##### Dritter Titel - Wirksamkeit der Beitragszahlung
 
 
@@ -11521,9 +11521,8 @@ Nachhaltigkeitsrücklage nicht ausreichen, die Zahlungsverpflichtungen
 zu erfüllen.
 
 
-##### § 218
+##### § 218 (weggefallen)
 
-(weggefallen)
 
 
 ##### § 219 Finanzverbund in der allgemeinen Rentenversicherung
@@ -11896,14 +11895,6 @@ Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der
 vorangehenden Kapitel für Sachverhalte, die von dem Zeitpunkt des
 Inkrafttretens der Vorschriften der vorangehenden Kapitel an nicht
 mehr oder nur noch übergangsweise eintreten können.
-
-
-##### § 228a (weggefallen)
-
-
-
-##### § 228b (weggefallen)
-
 
 
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
@@ -16716,10 +16707,6 @@ Zusatzrentenversicherung nicht gezahlt werden konnten.
 anzuwenden.
 
 
-##### § 256d (weggefallen)
-
-
-
 ##### § 257 Entgeltpunkte für Berliner Beitragszeiten
 
 (1) Für Zeiten, für die Beiträge zur
@@ -16879,11 +16866,6 @@ Sozialpflichtversicherung oder in der freiwilligen
 Zusatzrentenversicherung zurückgelegt worden sind, wenn diese Zeiten,
 hätte das Versorgungssystem bereits bestanden, im Versorgungssystem
 zurückgelegt worden wären.
-
-
-##### § 259c
-
-(weggefallen)
 
 
 ##### § 260 Beitragsbemessungsgrenzen
@@ -17424,10 +17406,6 @@ ermittelten Entgeltpunkte zu berücksichtigen. Dies gilt auch für die
 in den Absätzen 5 und 6 genannten Zeiten.
 
 
-##### § 263a (weggefallen)
-
-
-
 ##### § 264 Zuschläge oder Abschläge beim Versorgungsausgleich
 
 Sind für Rentenanwartschaften Werteinheiten ermittelt worden, ergeben
@@ -17940,9 +17918,8 @@ angegebenen Lebensalters maßgebend:
 
 
 
-##### § 265b
+##### § 265b (weggefallen)
 
-(weggefallen)
 
 
 #### Sechster Unterabschnitt - Zusammentreffen von Renten und Einkommen
@@ -18270,11 +18247,6 @@ gleichgestellt sind, gegeben ist, entscheidet in Zweifelsfällen das
 Bundesamt für Soziale Sicherung.
 
 
-###### § 273b
-
-(weggefallen)
-
-
 ##### Zweiter Titel - Datenverarbeitung und Datenschutz
 
 
@@ -18462,10 +18434,6 @@ Rentenversicherung besteht und beschließt die erforderlichen
 Maßnahmen.
 
 
-###### § 274d (weggefallen)
-
-
-
 #### Elfter Unterabschnitt - Finanzierung
 
 
@@ -18480,18 +18448,6 @@ Maßnahmen.
 
 
 ##### Zweiter Titel - Beiträge
-
-
-
-###### § 275a (weggefallen)
-
-
-
-###### § 275b (weggefallen)
-
-
-
-###### § 275c (weggefallen)
 
 
 
@@ -18536,11 +18492,6 @@ werden von den Arbeitgebern in Höhe der Hälfte des Betrages getragen,
 der sich ergibt, wenn der Beitragssatz auf das der Beschäftigung
 zugrundeliegende Arbeitsentgelt angewendet wird, im Übrigen von den
 Beschäftigten.
-
-
-###### § 276c (weggefallen)
-
--
 
 
 ###### § 277 Beitragsrecht bei Nachversicherung
@@ -18881,11 +18832,6 @@ aber bis zum 1. Januar 1924 zurück, nachzahlen, sofern diese Zeiten
 nicht bereits mit Beiträgen belegt sind. Nach bindender Bewilligung
 einer Vollrente wegen Alters ist eine Nachzahlung nicht zulässig, wenn
 der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
-
-
-###### § 284a
-
-(weggefallen)
 
 
 ###### § 285 Nachzahlung bei Nachversicherung
@@ -19669,10 +19615,6 @@ für die Berechnung von Renten jeweils maßgebenden aktuellen
 Rentenwerts.
 
 
-##### § 295a (weggefallen)
-
-
-
 ##### § 296 Beginn und Ende
 
 (1) Eine Leistung für Kindererziehung wird von dem Kalendermonat an
@@ -19686,11 +19628,6 @@ Kalendermonat, zu dessen Beginn der Wegfall wirksam ist.
 
 (4) Die Leistung wird bis zum Ende des Kalendermonats gezahlt, in dem
 die Berechtigte gestorben ist.
-
-
-##### § 296a
-
-(weggefallen)
 
 
 ##### § 297 Zuständigkeit
@@ -19843,10 +19780,6 @@ Leistungen zur medizinischen Rehabilitation aufgrund von
 Vereinbarungen mit einem Träger der Rentenversicherung erbracht haben,
 gilt eine Zulassungsentscheidung als erteilt, sofern die Anforderungen
 nach § 15 Absatz 3 erfüllt sind.
-
-
-##### § 301a (weggefallen)
-
 
 
 #### Dritter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
@@ -21357,9 +21290,8 @@ wird diese in Höhe des um 6,84 vom Hundert erhöhten bisherigen
 Betrages weitergeleistet.
 
 
-##### § 316
+##### § 316 (weggefallen)
 
-(weggefallen)
 
 
 #### Siebter Unterabschnitt - Leistungen an Berechtigte im Ausland
@@ -21400,10 +21332,6 @@ oder hätte sie berücksichtigt werden können, gilt dies auch weiterhin.
 sie auf diese Rente bereits für die Zeit, in der sie ihren
 gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch
 hatten.
-
-
-##### § 317a (weggefallen)
-
 
 
 ##### § 318 (weggefallen)
@@ -21576,10 +21504,6 @@ nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben
 über die Tatsachen enthalten, die für die Abgabe der Meldungen des
 Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung
 erforderlich sind.
-
-
-### § 322 (weggefallen)
-
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
@@ -49932,9 +49856,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 915
 (weggefallen)
 
 
-### Anlage 18
+### Anlage 18 (weggefallen)
 
-(weggefallen)
 
 
 ### Anlage 19
@@ -52137,21 +52060,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 918
 
 
 
-
-
-### Anlage 21 (weggefallen)
-
--
-
-
-### Anlage 22 (weggefallen)
-
--
-
-
-### Anlage 23 (weggefallen)
-
--
 
 Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III
 (BGBl. II 1990, 889, 1060)
