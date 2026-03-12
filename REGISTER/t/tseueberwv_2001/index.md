@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3631
 
 Zuletzt geändert durch
-:   Art. 7 V v. 31.3.2020 I 752
+:   Art. 2 V v. 10.3.2026 I Nr. 61
 
 
 ## § 1 Überwachungsprogramm
@@ -153,6 +153,8 @@ Malta
 
 Niederlande
 
+Nordirland
+
 Österreich
 
 Polen
@@ -170,8 +172,6 @@ Spanien
 Tschechische Republik
 
 Ungarn
-
-Vereinigtes Königreich sowie die Kanalinseln und die Insel Man
 
 Zypern
 
