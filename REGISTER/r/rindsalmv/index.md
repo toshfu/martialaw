@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 17.4.2014 I 388
 
+Änderung durch
+:   Art. 4 Nr. 1 V v. 10.3.2026 I Nr. 61 mWv 11.3.2026 noch nicht berücksichtigt
+
 
 ## I. - Begriffsbestimmung
 
