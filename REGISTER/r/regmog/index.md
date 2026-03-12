@@ -14,7 +14,7 @@ Ausfertigungsdatum
 :   2021-03-28
 
 Fundstelle
-:   BGBl I: 2021, 591 (2023 I Nr. 230; 2023 I Nr. 293; 2024 I Nr. 292; 2024 I Nr. 338; 2025 I Nr. 137; 2025 I Nr. 262)
+:   BGBl I: 2021, 591 (2023 I Nr. 230; 2023 I Nr. 293; 2024 I Nr. 292; 2024 I Nr. 338; 2025 I Nr. 137; 2025 I Nr. 262; 2026 I Nr. 56)
 
 Geändert durch
 :   Art. 17 G v. 28.6.2021 I 2250
@@ -27,6 +27,7 @@ Stand: Bek. v. 25.9.2024 I Nr. 292 ist berücksichtigt
 Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
 Stand: Bek. v. 20.5.2025 I Nr. 137 ist berücksichtigt
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
+Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 
 ## Eingangsformel
 
