@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1822
 
 Zuletzt geändert durch
-:   Art. 8 G v. 27.12.2024 I Nr. 438
-
-Änderung durch
-:   Art. 53 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 53 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
 :   Art. 41 Nr. 1 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 ist nicht ausführbar, da § 50c nicht vorhanden ist
