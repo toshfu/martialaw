@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1726
 
 Zuletzt geändert durch
-:   Art. 4 G v. 27.2.2025 I Nr. 70
-
-Änderung durch
-:   Art. 1 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 25.11.2025 I Nr. 282
 
 [^F1_777603_BJNR172610012]:     Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie
     2009/31/EG des Europäischen Parlaments und des Rates vom 23. April
@@ -367,7 +364,8 @@ Vorschriften entsprechend anzuwenden:
     Vorhabens,
 
 
-8.  43j des Energiewirtschaftsgesetzes über die Verlegung von Leerrohren,
+8.  § 43j des Energiewirtschaftsgesetzes                    über die
+    Verlegung von Leerrohren,
 
 
 9.  § 43k des Energiewirtschaftsgesetzes über die Zurverfügungstellung von
@@ -3062,7 +3060,8 @@ Kriterien für die Charakterisierung und Bewertung
 
 ### Anlage 1 der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
 
-(Fundstelle: BGBl. I 2012, 1746 - 1748)
+(Fundstelle: BGBl. I 2012, 1746 - 1748;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Kriterien für die Charakterisierung und Bewertung
 ## **der potenziellen Kohlendioxidspeicher und der potenziellen
