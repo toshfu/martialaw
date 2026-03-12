@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1373
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 52 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 52 G v. 4.2.2026 I Nr. 33
 
 
 ## Abschnitt 1 - Anwendungsbereich, Erlaubnis und Aufsicht
