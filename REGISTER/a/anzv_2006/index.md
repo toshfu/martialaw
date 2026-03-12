@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 3245
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.11.2025 I Nr. 277
-
-Änderung durch
-:   Art. 38 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 38 G v. 4.2.2026 I Nr. 33
 
 Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
