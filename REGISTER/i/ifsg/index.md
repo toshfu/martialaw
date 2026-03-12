@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 1045
 
 Zuletzt geändert durch
-:   Art. 8v G v. 12.12.2023 I Nr. 359
+:   Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -4354,10 +4354,10 @@ sind:
 
 
 
-(3) Das Gesundheitsamt unterrichtet unverzüglich die nach § 4 Absatz 1
-des Tiergesundheitsgesetzes zuständige Behörde, wenn
+(3) Das Gesundheitsamt unterrichtet unverzüglich die für Maßnahmen
+nach § 5 des Tiergesundheitsgesetzes zuständige Behörde, wenn
 
-1.  auf Grund von Tatsachen feststeht oder der Verdacht besteht, dass
+1.  aufgrund von Tatsachen feststeht oder der Verdacht besteht, dass
 
     a)  Erreger einer übertragbaren Krankheit unmittelbar oder mittelbar von
         Tieren auf eine betroffene Person übertragen wurden oder
@@ -4369,13 +4369,13 @@ des Tiergesundheitsgesetzes zuständige Behörde, wenn
 
 
 
-2.  es sich um Erreger einer nach einer auf Grund des
-    Tiergesundheitsgesetzes erlassenen Rechtsverordnung anzeigepflichtigen
-    Tierseuche oder meldepflichtigen Tierkrankheit handelt.
+2.  es sich um Erreger einer nach einer aufgrund des
+    Tiergesundheitsgesetzes erlassenen Rechtsverordnung
+    mitteilungspflichtigen oder meldepflichtigen Seuche handelt.
 
 
 
-Das Gesundheitsamt übermittelt der nach § 4 Absatz 1 des
+Das Gesundheitsamt übermittelt der für Maßnahmen nach § 5 des
 Tiergesundheitsgesetzes zuständigen Behörde Angaben zum festgestellten
 Erreger, zur Tierart und zum Standort der Tiere, sofern ihm die
 Angaben vorliegen.
@@ -7850,9 +7850,9 @@ Satz 1 und § 75 Satz 2 der Verwaltungsgerichtsordnung mit der Maßgabe
 anzuwenden, dass die Fristen frühestens am 31. März 2021 zu laufen
 beginnen.
 
-(6) (weggefallen)
-
-(7) (weggefallen)
+(6) Bis zum Inkrafttreten einer Rechtsverordnung nach § 4 des
+Tiergesundheitsgesetzes gilt § 27 Absatz 3 Satz 1 Nummer 2 in der bis
+zum Ablauf des 9. März 2026 geltenden Fassung.
 
 (zu § 5b Absatz 4)
 
