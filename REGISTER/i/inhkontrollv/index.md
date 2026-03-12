@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 562 (688)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.11.2025 I Nr. 277
-
-Änderung durch
-:   Art. 39 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 39 G v. 4.2.2026 I Nr. 33
 
 [^F771967_01_BJNR056210009]:     Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
     2007/44/EG des Europäischen Parlaments und des Rates vom 5. September
