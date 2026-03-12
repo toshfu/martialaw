@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3603
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.11.2022 I 2087
-
-Änderung durch
-:   Art. 41 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 41 G v. 4.2.2026 I Nr. 33
 
     Diese Verordnung dient der weiteren Umsetzung der aufsichtsrechtlichen
     Vorschriften der Richtlinie 2007/64/EG des Europäischen Parlaments und
