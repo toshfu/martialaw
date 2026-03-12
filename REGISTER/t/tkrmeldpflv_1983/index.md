@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 8.7.2020 I 1604
 
+Änderung durch
+:   Art. 4 Nr. 2 V v. 10.3.2026 I Nr. 61 mWv 11.3.2026 noch nicht berücksichtigt
+
 
 ## § 1
 
