@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776
 
 Zuletzt geändert durch
-:   Art. 9 G v. 28.2.2025 I Nr. 69
-
-Änderung durch
-:   Art. 35 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 35 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
 :   Art. 36 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
