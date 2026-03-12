@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 769
 
 Zuletzt geändert durch
-:   Art. 1 V v. 31.1.2025 I Nr. 31
-
-Änderung durch
-:   Art. 62 Abs. 9 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 62 Abs. 9 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
