@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2025 I Nr. 345
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.12.2025 I Nr. 355
 
 Änderung durch
 :   Art. 1 G v. 22.12.2025 I Nr. 362 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -17912,14 +17909,6 @@ angegebenen Lebensalters maßgebend:
 
 § 86a ist mit der Maßgabe anzuwenden, dass an die Stelle von 40 Jahren
 35 Jahre treten.
-
-
-##### § 265a (weggefallen)
-
-
-
-##### § 265b (weggefallen)
-
 
 
 #### Sechster Unterabschnitt - Zusammentreffen von Renten und Einkommen
