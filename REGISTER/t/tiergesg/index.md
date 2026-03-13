@@ -3312,11 +3312,3 @@ Tierseuchengesetzes erlassen worden sind, die Anpassungen vorzunehmen,
 die erforderlich sind, um die jeweilige Rechtsverordnung an die
 Ablösung des ermächtigenden Gesetzes durch dieses Gesetzes anzupassen.
 
-
-### § 44 (weggefallen)
-
-
-
-### § 45 (weggefallen)
-
-
