@@ -1261,7 +1261,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
 
-2.  die Umsätze für die Seeschiffahrt und für die Luftfahrt (§ 8);
+2.  die Umsätze für die Seeschifffahrt und für die Luftfahrt (§ 8);
 
 
 3.  die folgenden sonstigen Leistungen:
@@ -1378,7 +1378,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
     e)  die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle im
-        Verkehr mit Wasserfahrzeugen für die Seeschiffahrt zwischen einem
+        Verkehr mit Wasserfahrzeugen für die Seeschifffahrt zwischen einem
         inländischen und ausländischen Seehafen und zwischen zwei
         ausländischen Seehäfen. Inländische Seehäfen im Sinne des Satzes 1
         sind auch die Freihäfen und Häfen auf der Insel Helgoland;
@@ -2878,16 +2878,16 @@ Unternehmer die Nachweise zu führen hat.
 Sinne des § 3 Abs. 9a Nr. 2.
 
 
-### § 8 Umsätze für die Seeschiffahrt und für die Luftfahrt
+### § 8 Umsätze für die Seeschifffahrt und für die Luftfahrt
 
-(1) Umsätze für die Seeschiffahrt (§ 4 Nr. 2) sind:
+(1) Umsätze für die Seeschifffahrt (§ 4 Nr. 2) sind:
 
 1.  die Lieferungen, Umbauten, Instandsetzungen, Wartungen,
     Vercharterungen und Vermietungen von Wasserfahrzeugen für die
-    Seeschiffahrt, die dem Erwerb durch die Seeschiffahrt oder der Rettung
-    Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901 und 8902
-    00, aus Unterposition 8903 92 10, aus Position 8904 00 und aus
-    Unterposition 8906 90 10 des Zolltarifs);
+    Seeschifffahrt, die dem Erwerb durch die Seeschifffahrt oder der
+    Rettung Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901
+    und 8902 00, aus Unterposition 8903 92 10, aus Position 8904 00 und
+    aus Unterposition 8906 90 10 des Zolltarifs);
 
 
 2.  die Lieferungen, Instandsetzungen, Wartungen und Vermietungen von
