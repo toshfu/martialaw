@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 12 G v. 9.1.2026 I Nr. 7
+:   Art. 2 G v. 10.3.2026 I Nr. 64
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
@@ -10334,6 +10334,10 @@ Betreiber netzseitig aufgebrachte Verschlüsselung zu dessen Nutzern
 aufgehoben wird, soweit hierfür internationale technische Standards
 zur Verfügung stehen, die in der Technischen Richtlinie nach Absatz 6
 beschrieben werden.
+
+(12) Die Regelungen des Absatzes 1 Nummer 3 Buchstabe b und des
+Absatzes 2 Nummer 2 Buchstabe c gelten nicht im Anwendungsbereich der
+Richtlinie (EU) 2023/1544 in der Fassung vom 12. Juli 2023.
 
 
 #### § 171 Mitwirkung bei technischen Ermittlungsmaßnahmen bei Mobilfunkendgeräten
