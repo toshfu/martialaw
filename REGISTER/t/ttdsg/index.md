@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 1982 (2022 I 1045)
 
 Zuletzt geändert durch
-:   Art. 10 G v. 9.1.2026 I Nr. 7
+:   Art. 3 G v. 10.3.2026 I Nr. 64
 
 [^F816794_01_BJNR198210021]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2002/58/EG des
     Europäischen Parlaments und des Rates vom 12. Juli 2002 über die
