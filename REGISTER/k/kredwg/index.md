@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776
 
 Zuletzt geändert durch
-:   Art. 36 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 37 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 37 G v. 4.2.2026 I Nr. 33
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
