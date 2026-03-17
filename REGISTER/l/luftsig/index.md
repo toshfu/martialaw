@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 22.4.2020 I 840
 
+Änderung durch
+:   Art. 1 G v. 11.3.2026 I Nr. 68 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeines
 
@@ -581,12 +584,7 @@ Stelle verständigen.
 
 
 2.  der Durchführung von Aufsichts- und Qualitätskontrollmaßnahmen im
-    Sinne von Anhang II der Verordnung (EG) Nr. 300/2008 des Europäischen
-    Parlaments und des Rates vom 11. März 2008 über gemeinsame
-    Vorschriften für die Sicherheit in der Zivilluftfahrt und zur
-    Aufhebung der Verordnung (EG) Nr. 2320/2002 (ABl. L 97 vom 9.4.2008,
-    S. 72; L 164 vom 23.6.2012, S. 18), die zuletzt durch die Verordnung
-    (EU) Nr. 18/2010 (ABl. L 7 vom 12.1.2010, S. 3) geändert worden ist.
+    Sinne von Anhang II der Verordnung (EG) Nr. 300/2008.
 
 
 
@@ -1037,21 +1035,23 @@ werden.
 
 ### § 10 Zugangsberechtigung
 
-Die Luftsicherheitsbehörde entscheidet, welchen Personen bei Vorliegen
-der Voraussetzungen die Berechtigung zum Zugang zur Luftseite sowie
-zum Zugang zum Sicherheitsbereich oder zum sensiblen Teil des
-Sicherheitsbereichs erteilt werden darf oder bei Wegfall der
-Voraussetzungen zu entziehen ist. Nach Abschluss der
-Zuverlässigkeitsüberprüfung nach § 7 Abs. 1 kann der betroffenen
-Person zum Nachweis der Zugangsberechtigung ein Ausweis durch den
-Unternehmer nach § 8 Abs. 1 oder § 9 Abs. 1 ausgestellt werden. Der
-Ausweisinhaber ist verpflichtet, den Ausweis in den
-Sicherheitsbereichen offen sichtbar zu tragen und ihn nach Ablauf der
-Gültigkeitsdauer oder auf Verlangen zurückzugeben. Der Ausweisinhaber
-darf den Ausweis keinem Dritten überlassen. Sein Verlust ist der
-Ausgabestelle unverzüglich anzuzeigen. Der Zugang oder die
-Verschaffung des Zugangs zur Luftseite sowie zu den
-Sicherheitsbereichen ohne Berechtigung ist verboten.
+(1) Der Zugang oder die Verschaffung des Zugangs zur Luftseite eines
+Flugplatzes sowie zu dessen Sicherheitsbereich ohne Berechtigung ist
+verboten.
+
+(2) Die Luftsicherheitsbehörde entscheidet, welchen Personen bei
+Vorliegen der Voraussetzungen die Berechtigung zum Zugang zur
+Luftseite eines Flugplatzes sowie zum Zugang zu dessen
+Sicherheitsbereich oder zum sensiblen Teil der Sicherheitsbereiche
+erteilt werden darf oder bei Wegfall der Voraussetzungen zu entziehen
+ist. Nach Abschluss der Zuverlässigkeitsüberprüfung nach § 7 Absatz 1
+kann der betroffenen Person zum Nachweis der Zugangsberechtigung ein
+Ausweis durch den Unternehmer nach § 8 Absatz 1 oder § 9 Absatz 1
+ausgestellt werden. Der Ausweisinhaber ist verpflichtet, den Ausweis
+in den Sicherheitsbereichen offen sichtbar zu tragen und ihn nach
+Ablauf der Gültigkeitsdauer oder auf Verlangen zurückzugeben. Der
+Ausweisinhaber darf den Ausweis keinem Dritten überlassen. Sein
+Verlust ist der Ausgabestelle unverzüglich anzuzeigen.
 
 
 ### § 10a Sicherheitsausrüstung
@@ -1231,12 +1231,10 @@ es zur wirksamen Bekämpfung erforderlich ist, zur Unterstützung der
 Polizeikräfte der Länder im Luftraum zur Verhinderung dieses
 Unglücksfalles eingesetzt werden.
 
-(2) Die Entscheidung über einen Einsatz nach Artikel 35 Abs. 2 Satz 2
-des Grundgesetzes trifft auf Anforderung des betroffenen Landes der
-Bundesminister der Verteidigung oder im Vertretungsfall das zu seiner
-Vertretung berechtigte Mitglied der Bundesregierung im Benehmen mit
-dem Bundesminister des Innern. Ist sofortiges Handeln geboten, ist das
-Bundesministerium des Innern unverzüglich zu unterrichten.
+(2) Die Entscheidung über einen Einsatz nach Artikel 35 Absatz 2 Satz
+2 des Grundgesetzes trifft auf Anforderung des betroffenen Landes das
+Bundesministerium der Verteidigung. Das Bundesministerium des Innern
+ist unverzüglich zu unterrichten.
 
 (3) Die Entscheidung über einen Einsatz nach Artikel 35 Abs. 3 des
 Grundgesetzes trifft die Bundesregierung im Benehmen mit den
@@ -1285,6 +1283,27 @@ unverzüglich über Situationen zu informieren, die zu Maßnahmen nach §
 
 (3) Die sonstigen Vorschriften und Grundsätze der Amtshilfe bleiben
 unberührt.
+
+
+### § 15a Gefahrenabwehr gegen unbemannte Luftfahrzeuge
+
+(1) Die Streitkräfte leisten bei der Abwehr von Gefahren durch
+unbemannte Luftfahrzeuge Amtshilfe nach Artikel 35 Absatz 1 des
+Grundgesetzes. Dies erfolgt insbesondere in Form der Bereitstellung
+von Detektionstechnik und Interventionstechnik.
+
+(2) Zur Verhinderung des Eintritts eines besonders schweren
+Unglücksfalles dürfen die Streitkräfte über die in § 14 Absatz 1
+genannten Befugnisse hinaus auch Waffengewalt oder sonstige Wirkmittel
+gegen unbemannte Luftfahrzeuge einsetzen. § 14 Absatz 2 gilt
+entsprechend.
+
+(3) Die Bundespolizei übermittelt im Rahmen ihrer Zuständigkeit nach
+den §§ 4 und 14 des Bundespolizeigesetzes Informationen im
+Zusammenhang mit unbemannten Luftfahrzeugen bei tatsächlichen
+Anhaltspunkten für das Vorliegen eines Falls der Verteidigung nach
+Artikel 87a Absatz 1 und 2 des Grundgesetzes unverzüglich an die
+Streitkräfte.
 
 
 ## Abschnitt 4 - Zuständigkeit und Verfahren
@@ -1421,14 +1440,19 @@ machen.
 
 ### § 17 Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Das Bundesministerium des Innern regelt durch Rechtsverordnung mit
-Zustimmung des Bundesrates die Einzelheiten der
+(1) Das Bundesministerium des Innern bestimmt durch Rechtsverordnung
+mit Zustimmung des Bundesrates die Einzelheiten der
 Zuverlässigkeitsüberprüfung nach § 7, insbesondere
 
-1.  die Frist für eine Wiederholung der Überprüfung sowie
+1.  die Frist für eine Wiederholung der Zuverlässigkeitsüberprüfung,
 
 
-2.  die Einzelheiten der Verarbeitung personenbezogener Daten.
+2.  die Einzelheiten der Verarbeitung personenbezogener Daten und
+
+
+3.  diejenigen Personen oder Personengruppen, deren Zuverlässigkeit auf
+    Grund einer bereits vorliegenden gleichwertigen Überprüfung abweichend
+    von § 7 Absatz 1 Satz 1 Nummer 1 nicht zu überprüfen ist.
 
 
 
@@ -1477,8 +1501,9 @@ Validierungsprüfer für die Luftsicherheit zu regeln.
 ### § 17a Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
-Gesetz und der Verordnung (EG) Nr. 300/2008 werden Gebühren und
-Auslagen nach den Absätzen 2 bis 4 erhoben.
+Gesetz, den auf diesem Gesetz beruhenden Rechtsverordnungen sowie der
+Verordnung (EG) Nr. 300/2008 und ihrer Durchführungsbestimmungen
+werden Gebühren und Auslagen nach den Absätzen 2 bis 4 erhoben.
 
 (2) Die Gebühr soll die mit der individuell zurechenbaren öffentlichen
 Leistung verbundenen Kosten aller an der Leistung Beteiligten decken.
@@ -1498,8 +1523,8 @@ durch Landesbehörden entsprechend. Für die Gebührenerhebung durch
 Behörden des Bundes gelten § 3 Absatz 1 und 2, die §§ 4 bis 9 Absatz 3
 bis 6 und die §§ 10 bis 13 Absatz 1 und 3 sowie die §§ 14 bis 21 des
 Bundesgebührengesetzes; bei der Festsetzung einer Rahmengebühr nach §
-11 Nummer 3 des Bundesgebührengesetzes sind Absatz 2 und § 9 Absatz 3
-des Bundesgebührengesetzes anzuwenden.
+11 Nummer 3 des Bundesgebührengesetzes sind Absatz 2 Satz 1 bis 4 und
+§ 9 Absatz 3 des Bundesgebührengesetzes anzuwenden.
 
 (4) Das Bundesministerium des Innern wird ermächtigt, durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Verkehr
@@ -1542,21 +1567,21 @@ gespeicherten personenbezogenen Daten sind gebühren- und auslagenfrei.
     richtig, nicht vollständig oder nicht rechtzeitig durchführt,
 
 
-5.  entgegen § 10 Satz 3 einen dort genannten Ausweis nicht oder nicht in
-    der vorgeschriebenen Weise trägt oder ihn nicht oder nicht rechtzeitig
-    zurückgibt,
+5.  entgegen § 10 Absatz 1 sich oder einem Dritten Zugang zur Luftseite
+    verschafft,
 
 
-6.  entgegen § 10 Satz 4 einen dort genannten Ausweis einem Dritten
-    überlässt,
+6.  entgegen § 10 Absatz 2 Satz 3 einen dort genannten Ausweis nicht oder
+    nicht in der vorgeschriebenen Weise trägt oder ihn nicht oder nicht
+    rechtzeitig zurückgibt,
 
 
-7.  entgegen § 10 Satz 5 eine Anzeige nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig erstattet,
+7.  entgegen § 10 Absatz 2 Satz 4 einen dort genannten Ausweis einem
+    Dritten überlässt,
 
 
-8.  entgegen § 10 Satz 6 sich oder einem Dritten Zugang zur Luftseite
-    verschafft oder
+8.  entgegen § 10 Absatz 2 Satz 5 eine Anzeige nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erstattet oder
 
 
 9.  entgegen § 11 Absatz 1 Satz 1 einen dort genannten Gegenstand auf
@@ -1584,15 +1609,41 @@ Gesetzes über Ordnungswidrigkeiten ist die Luftsicherheitsbehörde.
 
 ### § 19 Strafvorschriften
 
-(1) Wer entgegen § 11 Absatz 1 Satz 1 einen dort genannten Gegenstand
-in einem Luftfahrzeug oder auf einem Flugplatz in einem Bereich der
-Luftseite, der zugleich Sicherheitsbereich ist, mit sich führt oder an
-sich trägt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit
-Geldstrafe bestraft.
+(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
+bestraft, wer
 
-(2) Wer die Tat fahrlässig begeht, wird mit Freiheitsstrafe bis zu
-sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen
-bestraft.
+1.  entgegen § 11 Absatz 1 Satz 1 einen dort genannten Gegenstand in einem
+    Luftfahrzeug oder auf einem Flugplatz in einem Bereich der Luftseite,
+    der zugleich Sicherheitsbereich ist, mit sich führt oder an sich trägt
+    oder
+
+
+2.  eine in § 18 Absatz 1 Nummer 5 bezeichnete vorsätzliche Handlung
+    begeht und dadurch die Sicherheit des zivilen Luftverkehrs
+    beeinträchtigt.
+
+
+
+
+(2) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
+bestraft, wer
+
+1.  in den Fällen des Absatzes 1 Nummer 2 bei der Tat einen in § 11 Absatz
+    1 Satz 1 genannten verbotenen Gegenstand bei sich führt oder
+
+
+2.  in den Fällen des Absatzes 1 in der Absicht handelt, eine andere
+    Straftat zu ermöglichen oder zu verdecken.
+
+
+
+
+(3) In den Fällen des Absatzes 1 Nummer 2 sowie des Absatzes 2 ist der
+Versuch strafbar.
+
+(4) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1
+fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder
+Geldstrafe.
 
 
 ### § 20 Bußgeld- und Strafvorschriften zu § 12
