@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 6.1.2016 I 27
 
+Änderung durch
+:   Art. 2 Abs. 16 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -63,7 +66,7 @@ Laufbahnbefähigung für den gehobenen nichttechnischen
 Verwaltungsdienst des Bundes und einen Bachelor- oder einen
 Diplomabschluss, einen Abschluss eines akkreditierten
 Bachelorausbildungsgangs an einer Berufsakademie oder einen
-gleichwertigen Abschluss besitzen. § 36 der Bundeslaufbahnverordnung
+gleichwertigen Abschluss besitzen. § 44 der Bundeslaufbahnverordnung
 bleibt unberührt.
 
 
@@ -75,7 +78,7 @@ bleibt unberührt.
 (1) Die Regelstudienzeit beträgt fünf Semester. Für das erfolgreich
 abgeschlossene Studium werden 120 Leistungspunkte vergeben.
 
-(2) Für Verlängerungen und Unterbrechungen des Studiums gilt § 15
+(2) Für Verlängerungen und Unterbrechungen des Studiums gilt § 18
 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Insgesamt
 soll das Studium um nicht mehr als drei Jahre verlängert werden.
 Entscheidungen nach den Sätzen 1 und 2 treffen die zuständigen
@@ -648,7 +651,7 @@ höheren nichttechnischen Verwaltungsdienst des Bundes besitzen. Die
 berufspraktische Einführung dauert ein Jahr und kann studienbegleitend
 durchgeführt werden. Während dieser Zeit nehmen die Beamtinnen und
 Beamten Aufgaben des höheren nichttechnischen Verwaltungsdienstes
-wahr. § 15 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt
+wahr. § 18 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt
 entsprechend. Die Beamtinnen und Beamten sollen in mindestens zwei
 Verwendungsbereichen eingesetzt werden, wenn dienstliche Gründe dem
 nicht entgegenstehen.
