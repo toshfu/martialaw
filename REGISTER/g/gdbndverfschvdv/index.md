@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 11.2.2025 I Nr. 35
 
+Änderung durch
+:   Art. 2 Abs. 22 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-7-9-3 v. 5.12.2006 I 2767 (LAP-gDBNDV) und V 2030-7-4-2 v. 11.10.2001 I 2640 (LAP-gDVerfSchV)
 
 ## Eingangsformel
@@ -692,7 +695,7 @@ ausgeschlossen.
 #### § 22 Dauer und Gliederung des Studiums
 
 (1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung über
-die Verlängerung oder Verkürzung nach den §§ 15 und 16 der
+die Verlängerung oder Verkürzung nach den §§ 18 und 19 der
 Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der
 Hochschule.
 
@@ -1245,7 +1248,7 @@ Bescheinigung über die erbrachten Studienleistungen.
 
 #### § 48 Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und
 Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 
