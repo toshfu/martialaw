@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 4.9.2020 I 1988
 
+Änderung durch
+:   Art. 2 Abs. 4 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -259,7 +262,7 @@ werden, wenn haushaltsrechtliche Gründe dem nicht entgegenstehen.
 Der Vorbereitungsdienst für den höheren Kriminaldienst besteht aus
 einer fachpraktischen Ausbildungsphase und dem Masterstudiengang
 „Öffentliche Verwaltung – Polizeimanagement“ (Public Administration –
-Police Management) an der Deutschen Hochschule der Polizei. § 14 der
+Police Management) an der Deutschen Hochschule der Polizei. § 17 der
 Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
 
 
@@ -286,7 +289,7 @@ haben.
 
 Andere Bewerberinnen und Bewerber sollen neun Monate ihrer Probezeit
 bei Polizeidienststellen außerhalb des Bundeskriminalamtes leisten.
-Die §§ 22 und 28 bis 31 der Bundeslaufbahnverordnung bleiben
+Die §§ 26 und 37 bis 39 der Bundeslaufbahnverordnung bleiben
 unberührt.
 
 
@@ -321,7 +324,7 @@ Kriminaldienstes zugelassen werden, wenn sie
 
 
 
-§ 19 Absatz 4 der Bundeslaufbahnverordnung bleibt unberührt.
+§ 21 Absatz 3 der Bundeslaufbahnverordnung bleibt unberührt.
 
 (2) Das Auswahlverfahren wird nach den Richtlinien des
 Bundeskriminalamtes beim Bundeskriminalamt von einer Auswahlkommission
@@ -330,7 +333,7 @@ durchgeführt.
 (3) Die nach Absatz 1 zugelassenen Bewerberinnen und Bewerber nehmen
 am Vorbereitungsdienst nach § 7 teil.
 
-(4) Die §§ 40 und 41 der Bundeslaufbahnverordnung bleiben unberührt.
+(4) Die §§ 48 und 49 der Bundeslaufbahnverordnung bleiben unberührt.
 
 
 ## § 11 Laufbahnwechsel
@@ -362,7 +365,7 @@ dem Beamten die für die Laufbahn erforderlichen Fach-, Methoden- und
 sozialen Kompetenzen vermittelt werden. Die Entscheidung über den
 erfolgreichen Abschluss der Qualifizierung trifft die Präsidentin oder
 der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung.
-§ 3 dieser Verordnung sowie die §§ 7, 8, 20 bis 25 und 27 der
+§ 3 dieser Verordnung sowie die §§ 7, 8, 24 bis 34 und 63 der
 Bundeslaufbahnverordnung sind entsprechend anzuwenden.
 
 
