@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 958
 
 Zuletzt geändert durch
-:   Art. 2 G v. 18.12.2025 I Nr. 347
+:   Art. 9 G v. 11.3.2026 I Nr. 66
 
 
 ## Eingangsformel
@@ -440,6 +440,16 @@ evaluieren
 
 
 
+
+
+## § 12 Außerkrafttreten
+
+Die BSI-Kritisverordnung vom 22. April 2016 (BGBl. I S. 958), die
+zuletzt durch Artikel 2 des Gesetzes vom 18. Dezember 2025 (BGBl. 2025
+I Nr. 347) geändert worden ist, tritt mit Inkrafttreten der
+Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-
+Dachgesetzes außer Kraft. Das Bundesministerium des Innern gibt das
+Inkrafttreten im Bundesgesetzblatt bekannt.
 
 (zu § 1 Absatz 1 Nummer 2 und 3, § 2 Absatz 5 Nummer 1 und 2)
 
