@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 11.2.2025 I Nr. 35
 
+Änderung durch
+:   Art. 2 Abs. 25 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -644,7 +647,7 @@ Auswahlverfahren ausgeschlossen.
 #### § 22 Dauer und Gliederung der Ausbildung
 
 (1) Die Ausbildung dauert in der Regel zwei Jahre. Eine Entscheidung
-über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der
+über die Verlängerung oder Verkürzung nach den §§ 18 und 19 der
 Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der
 Leiterin oder dem Leiter des Zentrums für Nachrichtendienstliche Aus-
 und Fortbildung.
@@ -1233,7 +1236,7 @@ Bescheinigung über die erbrachten Leistungen.
 
 #### § 48 Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und
 Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 
@@ -1556,7 +1559,7 @@ als Abschlussnote festgesetzt.
 
 ##### § 63 Wiederholung der Laufbahnprüfung
 
-(1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Nummer 1 und
+(1) Wird die Laufbahnprüfung wiederholt (§ 20 Absatz 3 Nummer 1 und
 Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 
