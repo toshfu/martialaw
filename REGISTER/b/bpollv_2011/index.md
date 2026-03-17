@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 1 V v. 16.8.2021 I 3582
 
+Änderung durch
+:   Art. 2 Abs. 5 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Geltungsbereich
 
@@ -155,7 +158,7 @@ Erledigung der öffentlichen Aufgaben erforderlich ist.
 
 (1) Der Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in
 der Bundespolizei dauert zwei Jahre und sechs Monate. Im Übrigen gilt
-§ 12 der Bundeslaufbahnverordnung.
+§ 15 der Bundeslaufbahnverordnung.
 
 (2) Haben Polizeikommissaranwärterinnen oder Polizeikommissaranwärter
 die Laufbahnprüfung für den gehobenen Polizeivollzugsdienst endgültig
@@ -170,7 +173,7 @@ dafür erforderlichen Kenntnisse nachgewiesen haben.
 Der Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der
 Bundespolizei dauert drei Jahre und wird in einem modularisierten
 Diplomstudiengang an der Fachhochschule des Bundes für öffentliche
-Verwaltung durchgeführt. Im Übrigen gilt § 13 der
+Verwaltung durchgeführt. Im Übrigen gilt § 16 der
 Bundeslaufbahnverordnung.
 
 
@@ -182,7 +185,7 @@ fachpraktischen Ausbildungsphase und dem Masterstudiengang
 „Öffentliche Verwaltung – Polizeimanagement (Public Administration –
 Police Management)“ an der Deutschen Hochschule der Polizei.
 Einstellungsbehörde ist das Bundespolizeipräsidium. Im Übrigen gilt §
-14 der Bundeslaufbahnverordnung.
+17 der Bundeslaufbahnverordnung.
 
 
 ## § 9 Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei bei Besitz einer erforderlichen Hochschulausbildung
@@ -266,7 +269,7 @@ Monaten durchlaufen. Das Bundespolizeipräsidium entscheidet über die
 Zulassung zur Unterweisung und erlässt für die Unterweisung einen
 Rahmenplan.
 
-(4) Im Übrigen gilt § 44 der Bundeslaufbahnverordnung.
+(4) Im Übrigen gilt § 53 der Bundeslaufbahnverordnung.
 
 
 ## § 12 Besondere Fachverwendungen
@@ -313,7 +316,7 @@ der Bundespolizei nach Anlage 2 können
 
 
 
-4.  Bewerberinnen und Bewerber nach Maßgabe der §§ 19 bis 21 der
+4.  Bewerberinnen und Bewerber nach Maßgabe der §§ 23 bis 25 der
     Bundeslaufbahnverordnung eingestellt werden, wenn sie
 
     a)  die Bildungsvoraussetzungen nach Anlage 2 erfüllen und
@@ -402,7 +405,7 @@ sofern
 
 
 
-(4) Im Übrigen gilt § 34 der Bundeslaufbahnverordnung.
+(4) Im Übrigen gilt § 42 der Bundeslaufbahnverordnung.
 
 
 ## § 14 Fortbildung sowie Erhaltung der körperlichen Leistungsfähigkeit
@@ -420,7 +423,7 @@ verpflichtet, ihre körperliche Leistungsfähigkeit zu erhalten und nach
 Möglichkeit zu steigern. Die körperliche Leistungsfähigkeit soll
 regelmäßig überprüft werden.
 
-(4) Im Übrigen gilt § 47 der Bundeslaufbahnverordnung.
+(4) Im Übrigen gilt § 56 der Bundeslaufbahnverordnung.
 
 
 ## § 15 Aufstieg
@@ -446,14 +449,14 @@ Bei der Bemessung der Bewährungszeit sind Zeiten einer
 Teilzeitbeschäftigung wie Zeiten einer Vollzeitbeschäftigung zu
 behandeln, soweit nicht zwingende sachliche Gründe entgegenstehen.
 
-(2) Für das Auswahlverfahren gilt § 36 der Bundeslaufbahnverordnung
+(2) Für das Auswahlverfahren gilt § 44 der Bundeslaufbahnverordnung
 mit der Maßgabe, dass
 
 1.  über die Zulassung zum Aufstieg das Bundespolizeipräsidium
     entscheidet,
 
 
-2.  im Falle des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
+2.  im Falle des § 44 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
     Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch
     mehrfach wiederholt werden kann.
 
@@ -471,7 +474,7 @@ der Bundespolizei dauert zwei Jahre. Die nach Absatz 1 Nummer 2
 zugelassenen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
 nehmen am Vorbereitungsdienst nach § 8 teil.
 
-(5) Für die Übertragung eines Amtes der neuen Laufbahn gilt § 40 der
+(5) Für die Übertragung eines Amtes der neuen Laufbahn gilt § 48 der
 Bundeslaufbahnverordnung entsprechend. Abweichend davon kann
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, die ein Amt der
 Besoldungsgruppe A 9 mit Amtszulage mindestens ein Jahr innehaben,
@@ -523,7 +526,7 @@ Ausbildung können Fernlehrmethoden eingesetzt werden.
 Befähigung für die nächsthöhere Laufbahn nach den Absätzen 1 bis 3
 erworben haben, können höchstens ein Amt der Besoldungsgruppe A 11
 erreichen. Für die Übertragung eines Amtes der neuen Laufbahn sowie
-für die Verleihung des ersten Beförderungsamtes gilt § 40 der
+für die Verleihung des ersten Beförderungsamtes gilt § 48 der
 Bundeslaufbahnverordnung. Abweichend davon kann
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, die ein Amt der
 Besoldungsgruppe A 9 mit Amtszulage mindestens ein Jahr innehaben,
@@ -566,10 +569,10 @@ zugelassen werden, wenn
 
 
 
-(2) Für das Auswahlverfahren gilt § 36 der Bundeslaufbahnverordnung
+(2) Für das Auswahlverfahren gilt § 44 der Bundeslaufbahnverordnung
 mit der Maßgabe, dass
 
-1.  über die Zulassung zum Aufstieg – abweichend von § 36 Absatz 6 der
+1.  über die Zulassung zum Aufstieg – abweichend von § 44 Absatz 6 der
     Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
 
 
@@ -589,7 +592,7 @@ Spitzensportförderung der Bundespolizei, die die Befähigung für die
 nächsthöhere Laufbahn nach den Absätzen 1 bis 3 erworben haben, können
 höchstens ein Amt der Besoldungsgruppe A 11 erreichen. Für die
 Übertragung eines Amtes der neuen Laufbahn und für die Verleihung des
-ersten Beförderungsamtes gilt § 40 der Bundeslaufbahnverordnung.
+ersten Beförderungsamtes gilt § 48 der Bundeslaufbahnverordnung.
 Abweichend davon kann den Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamten in der Spitzensportförderung der Bundespolizei,
 die mindestens ein Jahr ein Amt der Besoldungsgruppe A 9m mit
@@ -633,14 +636,14 @@ Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
 
 
 
-(2) Für das Auswahlverfahren gilt § 36 der Bundeslaufbahnverordnung
+(2) Für das Auswahlverfahren gilt § 44 der Bundeslaufbahnverordnung
 mit der Maßgabe, dass
 
-1.  über die Zulassung zum Aufstieg – abweichend von § 36 Absatz 6 Satz 1
+1.  über die Zulassung zum Aufstieg – abweichend von § 44 Absatz 6 Satz 1
     der Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
 
 
-2.  im Fall des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
+2.  im Fall des § 44 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
     Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch
     mehrfach wiederholt werden kann.
 
@@ -661,7 +664,7 @@ bis 3 erworben haben, können höchstens ein Amt der Besoldungsgruppe A
 14 erreichen.
 
 (5) Für die Übertragung eines Amtes der neuen Laufbahn und für die
-Verleihung des ersten Beförderungsamtes gilt § 40 der
+Verleihung des ersten Beförderungsamtes gilt § 48 der
 Bundeslaufbahnverordnung.
 
 
