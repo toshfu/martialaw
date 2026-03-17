@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Ausbildung und Prüfung für den gehobenen technischen Dienst
-  in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+Title: Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst
+  in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
 jurabk: GtDBWVAPrV
 layout: default
 origslug: gtdbwvaprv
@@ -8,7 +8,7 @@ slug: gtdbwvaprv
 
 ---
 
-# Verordnung über die Ausbildung und Prüfung für den gehobenen technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – (GtDBWVAPrV)
+# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik (GtDBWVAPrV)
 
 Ausfertigungsdatum
 :   2009-10-02
@@ -18,6 +18,9 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 2 V v. 4.7.2024 I Nr. 227
+
+Änderung durch
+:   Art. 2 Abs. 12 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -35,7 +38,7 @@ verordnet das Bundesministerium der Verteidigung:
 ### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
 
 (1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige
-Verwendung in der Fachrichtung Wehrtechnik des gehobenen technischen
+Verwendung im Verwendungsbereich Wehrtechnik des gehobenen technischen
 Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und
 wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
 
@@ -172,7 +175,7 @@ Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber
 aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
 für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird nach § 10a Absatz 3 der Bundeslaufbahnverordnung die Zahl der
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der
 am Auswahlverfahren Teilnehmenden beschränkt, so werden
 schwerbehinderte Menschen und gleichgestellte behinderte Menschen
 sowie frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit
@@ -425,9 +428,9 @@ anderen Bewerbers liegende Gründe überwiegen.
 
 ### § 9h Einstellung in den Vorbereitungsdienst
 
-(1) In den Vorbereitungsdienst für den gehobenen technischen Dienst in
-der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt
-werden, wer
+(1) In den Vorbereitungsdienst für den gehobenen technischen
+Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich
+Wehrtechnik kann eingestellt werden, wer
 
 1.  bei einem Vorbereitungsdienst
 
@@ -436,10 +439,10 @@ werden, wer
         Absatz 3 zugeordnet werden kann, oder
 
 
-    b)  nach § 2 Nummer 2
+    b)  nach § 2 Nummer 3
 
         aa) die Zugangsberechtigung für eine mit der Einstellungsbehörde
-            kooperierende Hochschuleinrichtung nachweist und
+            kooperierende Hochschule nachweist und
 
 
         bb) ein Vorpraktikum absolviert hat, das in der Studien- und
@@ -486,7 +489,7 @@ Ausbildungsabschnitte vorzusehen:
 1.  Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 
 
-2.  Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung
+2.  Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich
     Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
 
 
@@ -550,7 +553,7 @@ zugehörigen Organisationsbereichen und Arbeitsabläufen vorgestellt.
 Einzelheiten regelt der Lehrplan.
 
 
-### § 12 Vorstellung der Verwendungsmöglichkeiten der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes
+### § 12 Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des gehobenen technischen Verwaltungsdienstes
 
 Die Anwärterinnen und Anwärter werden bei Dienststellen des
 Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung
@@ -895,9 +898,9 @@ Prüfungen nach Satz 1 bestanden sind.
 (4) Die Prüfung nach Absatz 2 ist nichtöffentlich. Angehörige des
 Prüfungsamtes können teilnehmen. Das Prüfungsamt kann gestatten, dass
 andere mit der Ausbildung von Anwärterinnen und Anwärtern für den
-gehobenen technischen Dienst in der Bundeswehrverwaltung befasste
-Personen während der mündlichen Prüfung anwesend sind. Auf Wunsch von
-schwerbehinderten und diesen gleichgestellten behinderten
+gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung
+befasste Personen während der mündlichen Prüfung anwesend sind. Auf
+Wunsch von schwerbehinderten und diesen gleichgestellten behinderten
 Anwärterinnen und Anwärtern kann während ihrer mündlichen Prüfung die
 Schwerbehindertenvertretung anwesend sein. Bei der Beratung über die
 Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der
@@ -1417,10 +1420,10 @@ Prüfungsordnung.
 
 (1) Die Einstellungsbehörde gibt in einer Ausschreibung die
 Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren
-für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die
-Teilnahme an einer fachspezifischen Qualifizierung nach § 38 der
+für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die
+Teilnahme an einer fachspezifischen Qualifizierung nach § 46 der
 Bundeslaufbahnverordnung und für die Teilnahme an
-Hochschulausbildungen nach § 39 der Bundeslaufbahnverordnung
+Hochschulausbildungen nach § 47 der Bundeslaufbahnverordnung
 durchgeführt werden. Auf die Durchführung des an einem zentralen
 Lehrinstitut stattfindenden Auswahlverfahrens ist sind die §§ 7 bis 9g
 entsprechend anzuwenden. Über die Zulassung zum Aufstieg entscheidet
@@ -1428,7 +1431,7 @@ die personalbearbeitende Dienststelle. Dabei ist das Ergebnis des
 Auswahlverfahrens zu berücksichtigen.
 
 (2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung
-nach § 39 Absatz 2 der Bundeslaufbahnverordnung.
+nach § 48 Absatz 1 der Bundeslaufbahnverordnung.
 
 
 ## Kapitel 7 - Sonstige Vorschriften
