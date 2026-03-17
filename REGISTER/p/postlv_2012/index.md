@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 16.8.2021 I 3582
 
+Änderung durch
+:   Art. 2 Abs. 1 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -87,7 +90,7 @@ Amtsbezeichnungen ergeben sich aus Anlage 1.
 
 ## § 3 Qualifizierung bei Laufbahnwechsel
 
-Die nach § 42 Absatz 2 der Bundeslaufbahnverordnung erforderliche
+Die nach § 50 Absatz 2 der Bundeslaufbahnverordnung erforderliche
 Qualifizierung kann auch durch Wahrnehmung entsprechender beruflicher
 Tätigkeiten während einer Beurlaubung oder Zuweisung nach § 1 Absatz 5
 erworben werden.
@@ -96,7 +99,7 @@ erworben werden.
 ## § 4 Zulassung zu einer höheren Laufbahn bei Besitz der erforderlichen Hochschulausbildung
 
 (1) Beamtinnen und Beamte, die die für eine höhere Laufbahn
-erforderliche Hochschulausbildung besitzen, können abweichend von § 24
+erforderliche Hochschulausbildung besitzen, können abweichend von § 33
 der Bundeslaufbahnverordnung für die höhere Laufbahn zugelassen
 werden, wenn sie bei einem Postnachfolgeunternehmen erfolgreich an
 einem allgemeinen Auswahlverfahren für Nachwuchskräfte mit
@@ -112,12 +115,12 @@ zu vermitteln.
 
 ## § 5 Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
 
-(1) § 27 der Bundeslaufbahnverordnung ist mit der Maßgabe anzuwenden,
+(1) § 36 der Bundeslaufbahnverordnung ist mit der Maßgabe anzuwenden,
 dass die oberste Dienstbehörde auch Arbeitsplätze bei inländischen
 Konzernunternehmen als geeignete Arbeitsposten zulassen kann.
 
 (2) Soweit betriebliche oder personalwirtschaftliche Gründe es
-erfordern, kann die oberste Dienstbehörde von § 27 Absatz 1 der
+erfordern, kann die oberste Dienstbehörde von § 36 Absatz 1 der
 Bundeslaufbahnverordnung abweichende, geringere persönliche
 Voraussetzungen festlegen. Als Mindestvoraussetzungen sind eine
 Dienstzeit von 20 Jahren sowie die erfolgreiche Teilnahme an einem
@@ -141,16 +144,16 @@ Beamtinnen und Beamten im Sinne des Absatzes 1 fiktiv fortzuschreiben.
 Sind vergleichbare Beamtinnen und Beamte nicht in der erforderlichen
 Anzahl vorhanden, tritt an ihre Stelle die Entwicklung vergleichbarer
 Arbeitnehmerinnen und Arbeitnehmer. Gleiches gilt in den Fällen des §
-33 Absatz 3 der Bundeslaufbahnverordnung.
+41 Absatz 4 der Bundeslaufbahnverordnung.
 
 (3) Hauptberufliche Zeiten einer Verwendung nach Absatz 1 gelten als
 Erprobungszeit auf einem anderen Dienstposten gleicher Bewertung im
-Sinne von § 34 Absatz 2 der Bundeslaufbahnverordnung, wenn die
+Sinne von § 42 Absatz 2 der Bundeslaufbahnverordnung, wenn die
 Tätigkeit nach Art und Schwierigkeit sowie nach dem erforderlichen
 Qualifikationsniveau mindestens der Tätigkeit auf einem vergleichbaren
 Arbeitsposten bei den Postnachfolgeunternehmen entspricht.
 
-(4) Von der Bekanntgabe eines Notenspiegels nach § 50 Absatz 4 der
+(4) Von der Bekanntgabe eines Notenspiegels nach § 59 Absatz 4 der
 Bundeslaufbahnverordnung kann mit Zustimmung der obersten
 Dienstbehörde abgesehen werden.
 
@@ -161,8 +164,8 @@ Wenn die Anforderungen der Laufbahnen es rechtfertigen, kann die
 oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der
 Finanzen
 
-1.  die Dauer der fachtheoretischen Ausbildung abweichend von § 38 Absatz
-    2 Satz 1 der Bundeslaufbahnverordnung festlegen,
+1.  die Dauer der fachtheoretischen Ausbildung abweichend von § 46 Absatz
+    3 Satz 1 der Bundeslaufbahnverordnung festlegen,
 
 
 2.  abweichend von § 38 Absatz 2 Satz 2 der Bundeslaufbahnverordnung
@@ -194,7 +197,7 @@ werden.
 (3) Beamtinnen und Beamte, die sich bei Inkrafttreten der
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) in
 Laufbahnen des Post- und Fernmeldedienstes befunden haben, besitzen
-nach § 51 Absatz 2 der Bundeslaufbahnverordnung auch die Befähigung
+nach § 60 Absatz 2 der Bundeslaufbahnverordnung auch die Befähigung
 für eine der in § 6 der Bundeslaufbahnverordnung aufgeführten
 Laufbahnen, die ihrer Fachrichtung entspricht. Welche Laufbahnen
 einander entsprechen, ist in Anlage 2 festgelegt.
