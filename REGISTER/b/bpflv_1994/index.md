@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2750
 
 Zuletzt geändert durch
-:   Art. 12 G v. 30.9.2025 I Nr. 231
-
-Änderung durch
-:   Art. 13b G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13b G v. 22.12.2025 I Nr. 371
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
