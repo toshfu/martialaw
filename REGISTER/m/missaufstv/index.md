@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 202
 
+Änderung durch
+:   Art. 2 Abs. 17 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -52,7 +55,7 @@ Beamtinnen und Beamte zugelassen werden, die
 
 
 
-(2) Im Übrigen bleibt § 36 der Bundeslaufbahnverordnung unberührt.
+(2) Im Übrigen bleibt § 44 der Bundeslaufbahnverordnung unberührt.
 
 
 ## Abschnitt 2 - Masterstudiengang „Intelligence and Security Studies“
@@ -82,7 +85,7 @@ Das Studium ist ein Vollzeitstudium.
 (1) Die Regelstudienzeit beträgt zwei Jahre.
 
 (2) Für Verlängerungen und Verkürzungen der Regelstudienzeit gelten §
-15 Absatz 1 und § 16 Absatz 1 der Bundeslaufbahnverordnung
+18 Absatz 1 und § 19 Absatz 1 der Bundeslaufbahnverordnung
 entsprechend. Die Entscheidung trifft die Dienstbehörde im
 Einvernehmen mit der Universität der Bundeswehr München und der
 Hochschule des Bundes für öffentliche Verwaltung.
@@ -298,7 +301,7 @@ Dieses ist zuständig für
 (1) An den erfolgreichen Abschluss des Masterstudiengangs
 „Intelligence and Security Studies“ schließt sich eine einjährige
 berufspraktische Einführung an. Für Verlängerungen der
-berufspraktischen Einführung gilt § 15 Absatz 1 und 2 der
+berufspraktischen Einführung gilt § 18 Absatz 1 und 2 der
 Bundeslaufbahnverordnung entsprechend. Über die Verlängerung
 entscheidet die Dienstbehörde.
 
