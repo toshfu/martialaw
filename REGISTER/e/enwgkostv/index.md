@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 12.12.2022 I 2277; 2023 I Nr. 20
 
+Änderung durch
+:   Art. 3 G v. 11.3.2026 I Nr. 66 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Eingangsformel
@@ -743,33 +746,27 @@ Der Bundesrat hat zugestimmt.
 
 *    *   22
 
-    *   Amtshandlungen nach § 12g Absatz 3 EnWG
+    *   (weggefallen)
 
     *
 
 *    *   22.1
 
-    *   Bestätigung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 1 Satz 1 und
-        2
-        ÜNSchutzV
+    *   (weggefallen)
 
-    *   500 –   5 000
-
+    *
 
 *    *   22.2
 
-    *   Beanstandung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 1 Satz 1 und
-        3 ÜNSchutzV
+    *   (weggefallen)
 
-    *   500 –   5 000
-
+    *
 
 *    *   22.3
 
-    *   Aufforderung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 3 ÜNSchutzV
+    *   (weggefallen)
 
-    *   500
-
+    *
 
 *    *   23
 
@@ -974,20 +971,18 @@ Der Bundesrat hat zugestimmt.
 
         –   der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des
             Rates vom 13. Juli 2009 über die Bedingungen für den Zugang zu den
-            Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG)
-            Nr. 1775/2005                              (ABl. L 211 vom 14.8.2009,
-            S. 36), die zuletzt durch die Verordnung (EU) 2022/1032 (ABl. L 173
-            vom 30.6.2022, S. 17) geändert worden ist,
+            Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr.
+            1775/2005 (ABl. L 211 vom 14.8.2009, S. 36), die zuletzt durch die
+            Verordnung (EU) 2022/1032 (ABl. L 173 vom 30.6.2022, S. 17) geändert
+            worden ist,
 
 
         –   der Verordnung (EU) Nr. 984/2013 der Kommission vom 14. Oktober 2013
             zur Festlegung eines Netzkodex über Mechanismen für die
             Kapazitätszuweisung in Fernleitungsnetzen und zur Ergänzung der
-            Verordnung (EG)
-            Nr. 715/2009                              des Europäischen Parlaments
-            und des Rates (ABl. L 273 vom 15.10.2013, S. 5), die durch die
-            Verordnung (EU) 2017/459 (ABl. L 72 vom 17.3.2017, S. 1) aufgehoben
-            worden ist,
+            Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates
+            (ABl. L 273 vom 15.10.2013, S. 5), die durch die Verordnung (EU)
+            2017/459 (ABl. L 72 vom 17.3.2017, S. 1) aufgehoben worden ist,
 
 
         –   der Verordnung (EU) Nr. 312/2014 der Kommission vom 26. März 2014 zur
@@ -1019,9 +1014,8 @@ Der Bundesrat hat zugestimmt.
 
     *   Genehmigung konkurrierender Kapazitätszuweisung nach § 56 Absatz 1
         Satz 1 Nummer 2 EnWG i. V. m. den Artikeln 6 und 23 der Verordnung
-        (EG)
-        Nr. 715/2009                        i. V. m. Artikel 8 Absatz 2 der
-        Verordnung (EU) 2017/459
+        (EG) Nr. 715/2009 i. V. m. Artikel 8 Absatz 2 der Verordnung (EU)
+        2017/459
 
     *   8 500
 
@@ -1126,9 +1120,8 @@ Der Bundesrat hat zugestimmt.
     *   Festlegung zur Einführung eines wirksamen Ausgleichsmechanismus
         zwischen den Fernleitungsnetzbetreibern eines Marktgebiets nach § 56
         Absatz 1 Satz 1 Nummer 2 EnWG i. V. m. den Artikeln 6 und 23 der
-        Verordnung (EG)
-        Nr. 715/2009                        i. V. m. Artikel 10 Absatz 3 Satz
-        1 der Verordnung (EU) 2017/460
+        Verordnung (EG) Nr. 715/2009 i. V. m. Artikel 10 Absatz 3 Satz 1 der
+        Verordnung (EU) 2017/460
 
     *   20 000
 
@@ -1218,8 +1211,7 @@ Der Bundesrat hat zugestimmt.
         zur Änderung der Geschäftsbedingungen oder Methoden nach § 56 Absatz 2
         Satz 1 EnWG i. V. m. Artikel 9 Absatz 6 Buchstabe a bis m, Absatz 7
         Buchstabe a bis h, Absatz 8 Buchstabe a bis f und Artikel 9 Absatz 13
-        der Verordnung (EU)
-        2015/1222                        der Kommission vom 24. Juli 2015 zur
+        der Verordnung (EU) 2015/1222 der Kommission vom 24. Juli 2015 zur
         Festlegung einer Leitlinie für die Kapazitätsvergabe und das
         Engpassmanagement in der bis zum Ablauf des 14. März 2021 geltenden
         Fassung (ABl. L 197 vom 25.7.2015, S. 24)
@@ -1483,8 +1475,7 @@ Der Bundesrat hat zugestimmt.
 *    *   48.2
 
     *   Festlegung zu vollständig integrierten Netzkomponenten nach § 29
-        Absatz 1
-        i. V. m.                        § 11b Absatz 1 Nummer 2 EnWG
+        Absatz 1 i. V. m. § 11b Absatz 1 Nummer 2 EnWG
 
     *   30 500
 
