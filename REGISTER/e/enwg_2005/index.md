@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 G v. 11.3.2026 I Nr. 66 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
 Europäischen Parlaments und des Rates vom 26. Juni 2003 über
@@ -1957,6 +1960,113 @@ von Risiken und von Risikomanagementpraktiken im Bereich der
 Sicherheit in der Informationstechnik zu erlangen sowie um die
 Auswirkungen von Risiken sowie Risikomanagementpraktiken auf die von
 der Einrichtung erbrachten Dienste beurteilen zu können.
+
+
+### § 5f Nachweise und behördliche Anordnungen zu Resilienzpflichten nach dem KRITIS-Dachgesetz; Festlegungskompetenz
+
+(1) Ein Betreiber kritischer Anlagen nach § 2 Nummer 1 des KRITIS-
+Dachgesetzes vom 11. März 2026 (BGBl. 2026 I Nr. 66), der für die
+Erbringung einer kritischen Dienstleistung nach § 2 Nummer 4 des
+KRITIS-Dachgesetzes in einem der in § 3 Absatz 2 Nummer 2 Buchstabe a
+bis c des KRITIS-Dachgesetzes bestimmten Bereiche erheblich ist, hat
+die Einhaltung der Verpflichtungen nach § 13 Absatz 1 des KRITIS-
+Dachgesetzes zum Zwecke des Nachweises zu dokumentieren. Die
+Bundesnetzagentur kann verlangen, dass der Nachweis zur Einhaltung der
+Verpflichtung nach § 13 Absatz 1 des KRITIS-Dachgesetzes durch ein
+Zertifikat auf der Grundlage eines Audits nach Absatz 2 erbracht wird.
+Der Betreiber nach Satz 1 hat die Einhaltung der Verpflichtung nach §
+13 Absatz 1 des KRITIS-Dachgesetzes der Bundesnetzagentur nach Maßgabe
+des Absatzes 3 Satz 1 und 2 nachzuweisen.
+
+(2) Die Bundesnetzagentur kann zum Zwecke der Überprüfung, ob die
+Verpflichtungen nach § 13 Absatz 1 des KRITIS-Dachgesetzes durch den
+in Absatz 1 genannten Betreiber eingehalten werden, im Benehmen mit
+dem Bundesamt für Sicherheit in der Informationstechnik und dem
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe durch
+Festlegung nach § 29 Absatz 1 in einem Sicherheitskatalog für die
+physische Resilienz Bestimmungen treffen:
+
+1.  zur Durchführung der Zertifizierung einschließlich des Audits,
+
+
+2.  zu fachlichen und organisatorischen Anforderungen an die
+    zertifizierende Stelle,
+
+
+3.  zu Format, Inhalt und Gestaltung von Nachweisen,
+
+
+4.  zur Behebung von Mängeln bei der Einhaltung der Verpflichtungen nach
+    § 13 Absatz 1 des KRITIS-Dachgesetzes,
+
+
+5.  zum Schutz von Handels- und Geschäftsgeheimnissen und
+
+
+6.  zur Überprüfung der Einhaltung der Verpflichtungen nach § 13 Absatz 1
+    des KRITIS-Dachgesetzes.
+
+
+
+Soweit maritime Infrastrukturen in der ausschließlichen
+Wirtschaftszone nach § 2 Nummer 12 des KRITIS-Dachgesetzes in einem
+der in § 3 Absatz 2 Nummer 2 Buchstabe a bis c des KRITIS-Dachgesetzes
+bestimmten Bereiche betroffen sind, stellt die Bundesnetzagentur auch
+das Benehmen mit dem Bundesamt für Seeschifffahrt und Hydrographie
+her.
+
+(3) Auf Verlangen der Bundesnetzagentur hat der Betreiber nach Absatz
+1 die Dokumentation nach Absatz 1 Satz 1 und das Zertifikat nach
+Absatz 1 Satz 2 zu übermitteln. Die Bundesnetzagentur kann dabei auch
+die Vorlage der nach § 13 Absatz 1 des KRITIS-Dachgesetzes
+durchgeführten Risikoanalysen und Risikobewertungen sowie des
+Resilienzplans verlangen. § 8 Absatz 2 Satz 2 des KRITIS-Dachgesetzes
+ist entsprechend anzuwenden. Bei der Auswahl, von welchem Betreiber
+kritischer Anlagen Nachweise nach den Sätzen 1 und 2 angefordert
+werden, verfolgt die Bundesnetzagentur einen risikobasierten Ansatz.
+Sie wählt hierfür die Betreiber kritischer Anlagen anhand des Ausmaßes
+der Risikoexposition, der Größe des Betreibers kritischer Anlagen und
+der Eintrittswahrscheinlichkeit und Schwere von möglichen Vorfällen
+sowie deren möglichen gesellschaftlichen und wirtschaftlichen
+Auswirkungen aus. Soweit maritime Infrastrukturen in der
+ausschließlichen Wirtschaftszone nach § 2 Nummer 12 des KRITIS-
+Dachgesetzes in einem der in § 3 Absatz 2 Nummer 2 Buchstabe a bis c
+des KRITIS-Dachgesetzes bestimmten Bereiche betroffen sind, trifft die
+Bundesnetzagentur eine Anordnung nach den Sätzen 1 und 2 im Benehmen
+mit dem Bundesamt für Seeschifffahrt und Hydrographie.
+
+(4) Die Bundesnetzagentur kann die Einhaltung der in § 13 Absatz 1 des
+KRITIS-Dachgesetzes geregelten Pflichten jederzeit überprüfen. Absatz
+3 Satz 4 und 5 ist dabei entsprechend anzuwenden. Bei der Durchführung
+der Überprüfung kann die Bundesnetzagentur sich eines qualifizierten
+unabhängigen Dritten bedienen.
+
+(5) Der Betreiber nach Absatz 1 hat der Bundesnetzagentur und den in
+ihrem Auftrag handelnden Personen zum Zweck der Überprüfung nach
+Absatz 4 das Betreten der Geschäfts- und Betriebsräume sowie Zugang zu
+Informationen, Systemen und Anlagen im Zusammenhang mit der Erbringung
+ihrer kritischen Dienstleistung während der üblichen Betriebszeiten zu
+gestatten und auf Verlangen die in Betracht kommenden Aufzeichnungen,
+Schriftstücke und sonstigen Unterlagen in geeigneter Weise vorzulegen,
+Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren.
+§ 8 Absatz 2 Satz 2 des KRITIS-Dachgesetzes ist entsprechend
+anzuwenden.
+
+(6) Die Bundesnetzagentur kann bei der Verletzung einer in § 13 des
+KRITIS-Dachgesetzes geregelten Pflicht von dem in Absatz 1 genannten
+Betreiber die Vorlage eines geeigneten Plans zur Beseitigung der
+Pflichtverletzung und die Durchführung von Maßnahmen zur Herstellung
+eines pflichtgemäßen Verhaltens innerhalb einer angemessenen Frist
+anordnen. Sie kann von dem in Absatz 1 genannten Betreiber auch die
+Vorlage eines geeigneten Nachweises der Beseitigung der
+Pflichtverletzung verlangen. Absatz 1 Satz 2, Absatz 4 Satz 1 und 3
+und Absatz 5 sind entsprechend anzuwenden.
+
+(7) Die Bundesnetzagentur beteiligt die betroffenen Betreiber nach
+Absatz 1 und die betroffenen Branchenverbände vor Festlegung des
+Sicherheitskatalogs für die physische Resilienz. Die Bundesnetzagentur
+überprüft den Sicherheitskatalog für die physische Resilienz alle zwei
+Jahre und aktualisiert ihn bei Bedarf.
 
 
 ## Teil 2 - Entflechtung
@@ -4091,45 +4201,16 @@ heraus, die die Fachkunde zur Überprüfung der Netzplanung und ein
 berechtigtes Interesse gegenüber der Regulierungsbehörde nachweisen
 sowie die vertrauliche Behandlung der Informationen zusichern oder die
 Berechtigung zum Umgang mit Verschlusssachen mit einem
-Geheimhaltungsgrad nach § 12g Absatz 4 in Verbindung mit § 4 des
-Sicherheitsüberprüfungsgesetzes haben. Die Daten sind in einem
-standardisierten, elektronisch verarbeitbaren Format zur Verfügung zu
-stellen. Daten, die Betriebs- und Geschäftsgeheimnisse darstellen,
-dürfen von der Regulierungsbehörde nicht herausgegeben werden. In
-diesem Fall hat die Regulierungsbehörde typisierte und anonymisierte
-Datensätze an den Antragsteller herauszugeben.
+Geheimhaltungsgrad nach § 4 des Sicherheitsüberprüfungsgesetzes haben.
+Die Daten sind in einem standardisierten, elektronisch verarbeitbaren
+Format zur Verfügung zu stellen. Daten, die Betriebs- und
+Geschäftsgeheimnisse darstellen, dürfen von der Regulierungsbehörde
+nicht herausgegeben werden. In diesem Fall hat die Regulierungsbehörde
+typisierte und anonymisierte Datensätze an den Antragsteller
+herauszugeben.
 
 
-#### § 12g Schutz europäisch kritischer Anlagen, Verordnungsermächtigung
-
-(1) Zum Schutz des Übertragungsnetzes bestimmt die Regulierungsbehörde
-alle zwei Jahre diejenigen Anlagen oder Teile von Anlagen des
-Übertragungsnetzes, deren Störung oder Zerstörung erhebliche
-Auswirkungen in mindestens zwei Mitgliedstaaten der Europäischen Union
-haben kann (europäisch kritische Anlage). Die Bestimmung erfolgt durch
-Festlegung nach dem Verfahren des § 29. Zur Vorbereitung der
-Festlegung haben die Betreiber von Übertragungsnetzen der
-Regulierungsbehörde einen Bericht vorzulegen, in dem Anlagen ihres
-Netzes, deren Störung oder Zerstörung erhebliche Auswirkungen in
-mindestens zwei Mitgliedstaaten haben kann, vorgeschlagen werden und
-dies begründet wird. Der Bericht kann auch von allen Betreibern
-gemeinsam erstellt und vorgelegt werden.
-
-(2) Betreiber von Übertragungsnetzen haben zum Schutz ihrer gemäß
-Absatz 1 Satz 1 bestimmten Anlagen Sicherheitspläne zu erstellen sowie
-Sicherheitsbeauftragte zu bestimmen und der Regulierungsbehörde
-nachzuweisen.
-
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates Einzelheiten zu dem Verfahren der
-Festlegung und zum Bericht gemäß Absatz 1 sowie zu den
-Sicherheitsplänen und Sicherheitsbeauftragten nach Absatz 2 zu regeln.
-
-(4) Die für die Festlegung gemäß Absatz 1 Satz 2 erforderlichen
-Informationen, der Bericht der Betreiber nach Absatz 1 Satz 3 sowie
-die Sicherheitspläne nach Absatz 2 sind als Verschlusssache mit dem
-geeigneten Geheimhaltungsgrad im Sinne von § 4 des
-Sicherheitsüberprüfungsgesetzes einzustufen.
+#### § 12g (weggefallen)
 
 
 #### § 12h Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen
@@ -18364,6 +18445,10 @@ von den Beschlusskammern getroffen. Satz 1 gilt nicht für
 1a. die Festlegungen nach § 5c Absatz 2 und 6,
 
 
+1b. die Erstellung und Überprüfung des Sicherheitskatalogs für die
+    physische Resilienz nach § 5f Absatz 2,
+
+
 2.  die Aufgaben nach § 11 Absatz 2,
 
 
@@ -19826,25 +19911,25 @@ folgende gebührenpflichtige Leistungen:
 3.  Amtshandlungen auf Grund von § 33 Absatz 1 und § 36 Absatz 2 Satz 3;
 
 
-4.  Amtshandlungen auf Grund der §§ 5c Absatz 3 bis 5, der §§ 7c, 11a,
-    11b, 12a, 12c, 12d, 12h Absatz 6 Satz 2, der §§ 13b, 13f Absatz 1 Satz
-    4, von § 13g Absatz 6 Satz 4, § 14 Absatz 2, § 14c Absatz 2 bis 4, §
-    14e Absatz 5, der §§ 15a bis 15e, 17d, 19a Absatz 2, der §§ 20, 21,
-    21a, 23a, 28a Absatz 3, von § 28b Absatz 1 und 5, § 28f Absatz 1, §
-    28o Absatz 1 und 2, § 28p Absatz 1 und 5, der §§ 28q, 29, 30 Absatz 2
-    und 3, 35h Absatz 2, 4 und 7, der §§ 41c, 57 Absatz 2 Satz 2 und 4
-    sowie der §§ 57b, 65, 110 Absatz 2 und 4 und Amtshandlungen auf Grund
-    einer Verordnung nach § 21a in der bis zum Ablauf des 28. Dezember
-    2023 geltenden Fassung dieses Gesetzes oder einer Verordnung nach § 24
-    in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung dieses
-    Gesetzes;
+4.  Amtshandlungen auf Grund des § 5c Absatz 3 bis 5, des § 5f Absatz 2,
+    der §§ 7c, 11a, 11b, 12a, 12c, 12d, 12h Absatz 6 Satz 2, der §§ 13b,
+    13f Absatz 1 Satz 4, von § 13g Absatz 6 Satz 4, § 14 Absatz 2, § 14c
+    Absatz 2 bis 4, § 14e Absatz 5, der §§ 15a bis 15e, 17d, 19a Absatz 2,
+    der §§ 20, 21, 21a, 23a, 28a Absatz 3, von § 28b Absatz 1 und 5, § 28f
+    Absatz 1, § 28o Absatz 1 und 2, § 28p Absatz 1 und 5, der §§ 28q, 29,
+    30 Absatz 2 und 3, 35h Absatz 2, 4 und 7, der §§ 41c, 57 Absatz 2 Satz
+    2 und 4 sowie der §§ 57b, 65, 110 Absatz 2 und 4 und Amtshandlungen
+    auf Grund einer Verordnung nach § 21a in der bis zum Ablauf des 28.
+    Dezember 2023 geltenden Fassung dieses Gesetzes oder einer Verordnung
+    nach § 24 in der bis zum Ablauf des 28. Dezember 2023 geltenden
+    Fassung dieses Gesetzes;
 
 
 5.  Amtshandlungen auf Grund des § 31 Absatz 2 und 3;
 
 
-6.  Amtshandlungen auf Grund einer Rechtsverordnung nach § 12g Absatz 3
-    und § 24 Satz 1 Nummer 3;
+6.  Amtshandlungen auf Grund einer Rechtsverordnung nach und § 24 Satz 1
+    Nummer 3;
 
 
 7.  Amtshandlungen auf Grund des § 56;
@@ -20089,36 +20174,28 @@ beträgt die Mindesthöhe des Zwangsgeldes 250 Euro.
     vollständig oder nicht rechtzeitig macht,
 
 
-3f. entgegen § 12b Absatz 5, § 12c Absatz 5, § 15c Absatz 5 oder § 15d
-    Absatz 1 Satz 4 einen Entwurf oder einen Netzentwicklungsplan nicht
-    oder nicht rechtzeitig vorlegt,
+3f. entgegen § 5f Absatz 5 Satz 1 das Betreten eines Geschäfts- oder
+    Betriebsraums oder einen dort genannten Zugang nicht gestattet, eine
+    Aufzeichnung, ein Schriftstück oder eine Unterlage nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder eine
+    Auskunft nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erteilt,
 
 
-3g. entgegen § 12g Absatz 1 Satz 3 in Verbindung mit einer
-    Rechtsverordnung nach Absatz 3 einen Bericht nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig vorlegt,
-
-
-3h. entgegen § 12g Absatz 2 in Verbindung mit einer Rechtsverordnung nach
-    Absatz 3 einen Sicherheitsplan nicht, nicht richtig, nicht vollständig
-    oder nicht rechtzeitig erstellt oder einen Sicherheitsbeauftragten
-    nicht oder nicht rechtzeitig bestimmt,
-
-
-3i. entgegen § 13b Absatz 1 Satz 2 oder Absatz 5 Satz 1 eine dort genannte
+3g. entgegen § 13b Absatz 1 Satz 2 oder Absatz 5 Satz 1 eine dort genannte
     Anlage stilllegt,
 
 
-3j. entgegen § 13e Absatz 4 Satz 1 Nummer 1 Erzeugungsleistung oder
+3h. entgegen § 13e Absatz 4 Satz 1 Nummer 1 Erzeugungsleistung oder
     Erzeugungsarbeit veräußert,
 
 
-3k. entgegen § 13e Absatz 4 Satz 1 Nummer 2 oder § 13g Absatz 1 Satz 1
+3i. entgegen § 13e Absatz 4 Satz 1 Nummer 2 oder § 13g Absatz 1 Satz 1
     oder 3 eine dort genannte Anlage nicht oder nicht rechtzeitig
     stilllegt,
 
 
-3l. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
+3j. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
 
 
 4.  entgegen § 30 Abs. 1 Satz 1 eine Marktstellung missbraucht,
@@ -20278,7 +20355,7 @@ Maß hinaus einschränkt.
 
 
 
-2.  in den Fällen des Absatzes 1 Nummer 3i bis 3l mit einer Geldbuße bis
+2.  in den Fällen des Absatzes 1 Nummer 3g bis 3j mit einer Geldbuße bis
     zu fünf Millionen Euro,
 
 
@@ -20292,12 +20369,12 @@ Maß hinaus einschränkt.
 
 
 5.  in den Fällen des Absatzes 1 Nummer 1, 1b, 1c, 2a, 2b, 3 Buchstabe a,
-    Nummer 3a, 3f bis 3h, 4a bis 4c und 5 Buchstabe c und des Absatzes 1a
-    Nummer 1, des Absatzes 1c Nummer 1, 3 bis 5 und 9 und der Absätze 1d
-    und 1e mit einer Geldbuße bis zu hunderttausend Euro,
+    Nummer 3a, 4a bis 4c und 5 Buchstabe c und des Absatzes 1a Nummer 1,
+    des Absatzes 1c Nummer 1, 3 bis 5 und 9 und der Absätze 1d und 1e mit
+    einer Geldbuße bis zu hunderttausend Euro,
 
 
-6.  in den Fällen des Absatzes 1 Nummer 2 und 5 Buchstabe e mit einer
+6.  in den Fällen des Absatzes 1 Nummer 2, 3f und 5 Buchstabe e mit einer
     Geldbuße bis zu fünfzigtausend Euro und
 
 
