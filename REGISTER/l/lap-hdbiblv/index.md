@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 29.3.2017 I 626
 
+Änderung durch
+:   Art. 2 Abs. 910 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -671,7 +674,7 @@ Anspruch auf Übernahme in das Beamtenverhältnis auf Probe.
 
 (1) Beamtinnen und Beamte der Laufbahn des gehobenen Dienstes an
 wissenschaftlichen Bibliotheken und Dokumentationsstellen können gemäß
-§ 36 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn des
+§ 44 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn des
 höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes
 zugelassen werden.
 
