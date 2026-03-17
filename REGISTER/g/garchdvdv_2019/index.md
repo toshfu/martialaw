@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 517
 
+Änderung durch
+:   Art. 2 Abs. 23 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-8-5-6 v. 18.12.2015 I 2478 (GArchDVDV)
 
 ## Abschnitt 1 - Allgemeines
@@ -281,8 +284,8 @@ Fähigkeiten, die charakterlichen Merkmale und die Leistungsmotivation
 verfügen, das oder die für die Erfüllung der Aufgaben im gehobenen
 Archivdienst erforderlich ist oder sind.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a
-Absatz 3 der Bundeslaufbahnverordnung beschränkt, so wird zugelassen,
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so wird zugelassen,
 wer nach den eingereichten Unterlagen am besten geeignet erscheint.
 Bei der Zulassungsentscheidung sind insbesondere die Zeugnisnoten in
 den Fächern zu berücksichtigen, die für den Vorbereitungsdienst
