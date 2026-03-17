@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.3.2026 I Nr. 64
+:   Art. 6 G v. 11.3.2026 I Nr. 66
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
@@ -11037,8 +11037,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 8.  an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz
-    der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 24 des
-    BSI-Gesetzes oder der öffentlichen Sicherheit, um damit eine
+    der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 4 des
+    KRITIS-Dachgesetzes oder der öffentlichen Sicherheit, um damit eine
     Beeinträchtigung der Sicherheit oder Funktionsfähigkeit
     informationstechnischer Systeme einer kritischen Anlage oder eines
     Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn
@@ -11318,8 +11318,8 @@ Auskunft ersuchenden Stellen.
 
 
 8.  an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz
-    der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 24 des
-    BSI-Gesetzes oder der öffentlichen Sicherheit, um damit eine
+    der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 4 des
+    KRITIS-Dachgesetzes oder der öffentlichen Sicherheit, um damit eine
     Beeinträchtigung der Sicherheit oder Funktionsfähigkeit
     informationstechnischer Systeme einer kritischen Anlage oder eines
     Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn
@@ -12862,8 +12862,8 @@ beteiligt:
 nach § 136 Absatz 4 Nummer 3, § 137 Absatz 3 Nummer 3, § 141 Absatz 2
 Nummer 4, § 142 Absatz 4 Nummer 4, § 143 Absatz 4 Nummer 1, § 153
 Absatz 4 Nummer 3 oder § 154 Absatz 4 Satz 2 Nummer 4 kritische
-Anlagen im Sinne des § 2 Nummer 22 des BSI-Gesetzes betroffen, so
-entscheidet die Bundesnetzagentur im Benehmen mit dem Bundesamt für
+Anlagen im Sinne des § 2 Nummer 4 des KRITIS-Dachgesetzes betroffen,
+so entscheidet die Bundesnetzagentur im Benehmen mit dem Bundesamt für
 Sicherheit in der Informationstechnik.
 
 
@@ -13946,4 +13946,11 @@ Vorschriften anwendbar.
 geltenden Fassung sind erstmals auf Jahresfinanzberichte sowie
 Tätigkeitsabschlüsse für das nach dem 31. Dezember 2020 beginnende
 Geschäftsjahr anzuwenden.
+
+(16) § 174 Absatz 3 Nummer 8 und Absatz 5 Nummer 8 sowie § 214 Absatz
+3 sind erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3
+und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung
+gilt. Bis zur Geltung dieser Rechtsverordnung sind § 174 Absatz 3
+Nummer 8 und Absatz 5 Nummer 8 sowie § 214 Absatz 3 in der bis
+einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
