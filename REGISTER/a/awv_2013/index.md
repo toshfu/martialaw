@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2865
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.2.2026 I Nr. 27
+:   Art. 5 G v. 11.3.2026 I Nr. 66
 
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
@@ -2472,13 +2472,14 @@ Erwerb nach Absatz 1 betroffene inländische Unternehmen maßgeblich.
 öffentlichen Ordnung oder Sicherheit kann insbesondere berücksichtigt
 werden, ob das inländische Unternehmen
 
-1.  Betreiber einer kritischen Anlage im Sinne des BSI-Gesetzes ist,
+1.  Betreiber einer kritischen Anlage im Sinne des § 2 Nummer 3 des
+    KRITIS-Dachgesetzes ist,
 
 
 2.  kritische Komponenten im Sinne des § 2 Nummer 23 des BSI-Gesetzes
     entwickelt oder herstellt oder Software, die branchenspezifisch zum
-    Betrieb von kritischen Anlagen im Sinne des BSI-Gesetzes dient,
-    besonders entwickelt oder herstellt,
+    Betrieb von kritischen Anlagen im Sinne des § 2 Nummer 3 des KRITIS-
+    Dachgesetzes dient, besonders entwickelt oder herstellt,
 
 
 3.  zu organisatorischen Maßnahmen nach § 170 des
@@ -2489,10 +2490,10 @@ werden, ob das inländische Unternehmen
     den technischen Einrichtungen zugrundeliegenden Technologie verfügt,
 
 
-4.  Cloud-Computing-Dienste erbringt und die hierfür genutzten
-    Infrastrukturen die in Anhang 4 Teil 3 Nummer 2 Spalte D der BSI-
-    Kritisverordnung genannten Schwellenwerte in Bezug auf den jeweiligen
-    Cloud-Computing-Dienst erreichen oder überschreiten,
+4.  Cloud-Computing-Dienste erbringt und die hierfür genutzten Anlagen die
+    im Anhang der Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 des
+    KRITIS-Dachgesetzes genannten Schwellenwerte in Bezug auf den
+    jeweiligen Cloud-Computing-Dienst erreichen oder überschreiten,
 
 
 5.  eine Zulassung für Komponenten oder Dienste der Telematikinfrastruktur
@@ -2511,7 +2512,7 @@ werden, ob das inländische Unternehmen
     Gesetzes erforderlich sind,
 
 
-8.[^f816116_01_BJNR286500013BJNE011107128]
+8.[^f816116_01_BJNR286500013BJNE011108128]
   persönliche Schutzausrüstungen im Sinne des Artikels 3 Nummer 1 der
     Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom
     9\. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der
@@ -2868,7 +2869,7 @@ Absatz 1 nicht vorliegen.
     „amtlicher Hinweis: Im Beuth-Verlag GmbH, Berlin und Köln, erschienen
     und beim Deutschen Patent- und Markenamt in München archivmäßig
     gesichert niedergelegt“.
-[^f816116_01_BJNR286500013BJNE011107128]: 
+[^f816116_01_BJNR286500013BJNE011108128]: 
 
 ##### § 56 Stimmrechtsanteile
 
@@ -4940,12 +4941,18 @@ jeweils geltenden Fassung Anwendung.
 
 ### § 82a Übergangsbestimmungen
 
-Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind
+(1) Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind
 erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines
 inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021
 abgeschlossen werden. Im Fall eines Angebots im Sinne des
 Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der
 Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
+
+(2) § 55a Absatz 1 Nummer 1, 2 und 4 ist erst anzuwenden, wenn eine
+auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-
+Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser
+Rechtsverordnung ist § 55a Absatz 1 Nummer 1, 2 und 4 in der bis
+einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 
 ### § 82b Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung
