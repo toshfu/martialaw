@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen
-  Dienst in der Bundeswehr
+Title: Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst
+  in der Bundeswehr im Verwendungsbereich Brandschutz
 jurabk: GfwtDBwVDV
 layout: default
 origslug: gfwtdbwvdv
@@ -8,7 +8,7 @@ slug: gfwtdbwvdv
 
 ---
 
-# Verordnung über den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr (GfwtDBwVDV)
+# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz (GfwtDBwVDV)
 
 Ausfertigungsdatum
 :   2017-08-23
@@ -18,6 +18,9 @@ Fundstelle
 
 Geändert durch
 :   Art. 1 V v. 18.3.2019 I 406
+
+Änderung durch
+:   Art. 2 Abs. 21 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -38,8 +41,8 @@ gefasst worden ist, verordnet das Bundesministerium der Verteidigung:
 ### § 1 Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der
-Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in
-der Bundeswehr.
+Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in
+der Bundeswehr im Verwendungsbereich Brandschutz.
 
 
 ### § 2 Ziel und Inhalt des Vorbereitungsdienstes
@@ -51,10 +54,10 @@ Anwärter zu befähigen,
     und
 
 
-2.  in den Dienststellen der Bundeswehr die Aufgaben des
-    feuerwehrtechnischen Dienstes in der Bundeswehr zu erfüllen, die
-    ingenieurwissenschaftlichen oder naturwissenschaftlichen Sachverstand
-    erfordern.
+2.  in den Dienststellen der Bundeswehr die Aufgaben des technischen
+    Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+    Brandschutz zu erfüllen, die ingenieurwissenschaftlichen oder
+    naturwissenschaftlichen Sachverstand erfordern.
 
 
 
@@ -133,7 +136,7 @@ gewährt werden.
 der Bundeswehr. Die Einstellungsbehörde ist zuständig für die
 Einstellung und die Betreuung der Anwärterinnen und Anwärter. Sie
 trifft die Entscheidungen über die Verkürzung und die Verlängerung des
-Vorbereitungsdienstes nach den §§ 15 und 16 der
+Vorbereitungsdienstes nach den §§ 18 und 19 der
 Bundeslaufbahnverordnung.
 
 (2) Die Einstellungsbehörde ist die personalbearbeitende Dienststelle
@@ -152,8 +155,8 @@ diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund
 ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den
 Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a
-Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden
 schwerbehinderte Menschen und diesen gleichgestellte behinderte
 Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit
 mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne
@@ -395,8 +398,8 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 ### § 15b Praktischer Teil des Auswahlverfahrens
 
 (1) Im praktischen Teil des Auswahlverfahrens werden
-Auswahlinstrumente eingesetzt, die speziell auf den
-feuerwehrtechnischen Dienst ausgerichtet sind.
+Auswahlinstrumente eingesetzt, die speziell auf den technischen
+Verwaltungsdienst im Verwendungsbereich Brandschutz ausgerichtet sind.
 
 (2) Der praktische Teil des Auswahlverfahrens dauert in der Regel
 einen halben Arbeitstag.
@@ -445,8 +448,9 @@ die Festlegung der Rangfolge.
 
 ### § 15d Einstellung in den Vorbereitungsdienst
 
-(1) In den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen
-Dienst in der Bundeswehr kann eingestellt werden, wer
+(1) In den Vorbereitungsdienst für den gehobenen technischen
+Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz
+kann eingestellt werden, wer
 
 1.  bei einem Vorbereitungsdienst
 
@@ -476,7 +480,8 @@ Dienst in der Bundeswehr kann eingestellt werden, wer
 
 3.  nach amtsärztlichem Gutachten oder nach dem Ergebnis einer
     Einstellungsuntersuchung die gesundheitlichen Anforderungen des
-    gehobenen feuerwehrtechnischen Dienstes in der Bundeswehr erfüllt.
+    gehobenen technischen Verwaltungsdienstes in der Bundeswehr im
+    Verwendungsbereich Brandschutz erfüllt.
 
 
 
@@ -520,10 +525,10 @@ erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner
 Persönlichkeit geeignet ist.
 
 (2) In der Einstellungsbehörde werden Beamtinnen oder Beamte des
-höheren oder des gehobenen Dienstes als Ausbildungsleitung bestellt.
-Die Ausbildungsleitung lenkt und überwacht die Ausbildung der
-Anwärterinnen und Anwärter. Sie ist für die ordnungsgemäße Gestaltung
-und Organisation der Ausbildung verantwortlich.
+höheren oder des gehobenen Verwaltungsdienstes als Ausbildungsleitung
+bestellt. Die Ausbildungsleitung lenkt und überwacht die Ausbildung
+der Anwärterinnen und Anwärter. Sie ist für die ordnungsgemäße
+Gestaltung und Organisation der Ausbildung verantwortlich.
 
 (3) Das Bundesministerium der Verteidigung bestellt im Bundesamt für
 Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr eine
@@ -589,7 +594,7 @@ Ausbildungsplans.
 Ausbildungsabschnitten:
 
 1.  dem Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen
-    feuerwehrtechnischen Dienst“,
+    technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“,
 
 
 2.  dem Lehrgang „Menschenführung“,
@@ -616,8 +621,9 @@ ergänzt werden.
 
 (2) Die Lehrgänge und die praktische Ausbildung vermitteln
 berufspraktische Fähigkeiten und Kenntnisse, die für den gehobenen
-feuerwehrtechnischen Dienst in der Bundeswehr erforderlich sind und
-über die im Studium vermittelten Kenntnisse hinausgehen.
+technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich
+Brandschutz erforderlich sind und über die im Studium vermittelten
+Kenntnisse hinausgehen.
 
 (3) Die Anwärterinnen und Anwärter sind zum Selbststudium
 verpflichtet. Das Selbststudium ist zu fördern.
@@ -656,15 +662,16 @@ Lehreinrichtung der Länder durchgeführt werden. In diesem Fall gelten
 die Lehrpläne nach Absatz 4 entsprechend.
 
 
-#### § 21 Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“
+#### § 21 Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“
 
 Im Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen
-feuerwehrtechnischen Dienst“ werden den Anwärterinnen und Anwärtern
-allgemeine berufsbezogene Grundlagen und fachbezogene Grundlagen für
-den Feuerwehrdienst vermittelt. Sie werden zur Brandbekämpfung sowie
-zur Hilfeleistung, insbesondere zur Rettung von Menschen und Tieren
-aus lebensbedrohlichen Lagen, befähigt. Es werden ihnen die
-notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
+technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“
+werden den Anwärterinnen und Anwärtern allgemeine berufsbezogene
+Grundlagen und fachbezogene Grundlagen für den Feuerwehrdienst
+vermittelt. Sie werden zur Brandbekämpfung sowie zur Hilfeleistung,
+insbesondere zur Rettung von Menschen und Tieren aus
+lebensbedrohlichen Lagen, befähigt. Es werden ihnen die notwendigen
+Kenntnisse in den folgenden Bereichen vermittelt:
 
 1.  einsatztaktische und einsatztechnische Grundlagen der Brandbekämpfung
     und der Hilfeleistung,
@@ -724,9 +731,10 @@ folgenden Bereichen vermittelt:
 
 Im Lehrgang „Gruppenführung“ werden den Anwärterinnen und Anwärtern
 aufbauend auf dem Lehrgang „Feuerwehrtechnische Grundausbildung für
-den gehobenen feuerwehrtechnischen Dienst“ die Kenntnisse für den
-Einsatz als Einheitsführerin oder Einheitsführer vermittelt. Die
-Anwärterinnen und Anwärter sollen in der Lage sein,
+den gehobenen technischen Verwaltungsdienst im Verwendungsbereich
+Brandschutz“ die Kenntnisse für den Einsatz als Einheitsführerin oder
+Einheitsführer vermittelt. Die Anwärterinnen und Anwärter sollen in
+der Lage sein,
 
 1.  Einheiten in Trupp-, Staffel- oder Gruppenstärke als selbständige
     taktische Einheit zu führen,
@@ -805,9 +813,10 @@ Die praktische Ausbildung ist insbesondere auf die Vermittlung
 praxisorientierter Kenntnisse, Fertigkeiten und Fähigkeiten
 ausgerichtet. Darüber hinaus werden die Kenntnisse, die in den
 Lehrgängen „Feuerwehrtechnische Grundausbildung für den gehobenen
-feuerwehrtechnischen Dienst“, „Gruppenführung“ und „Zugführung“
-erworben worden sind, durch praktische Übungen und Einsatzaufgaben in
-den anzuwendenden Einsatztechniken vertieft.
+technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“,
+„Gruppenführung“ und „Zugführung“ erworben worden sind, durch
+praktische Übungen und Einsatzaufgaben in den anzuwendenden
+Einsatztechniken vertieft.
 
 (2) Die praktische Ausbildung wird in mehreren Abschnitten bei der
 Bundeswehr-Feuerwehr und in Dienststellen mit Brandschutzzuständigkeit
@@ -957,17 +966,17 @@ und ist eine herausgehobene Tätigkeit.
 
 (3) Werden für einen Teil der Laufbahnprüfung mehrere
 Prüfungskommissionen eingerichtet, kann das Prüfungsamt eine Beamtin
-oder einen Beamten des höheren Dienstes mit der Leitung dieses Teils
-der Prüfung beauftragen.
+oder einen Beamten des höheren Verwaltungsdienstes mit der Leitung
+dieses Teils der Prüfung beauftragen.
 
 
 ### § 35 Mitglieder der Prüfungskommissionen
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der
-schriftlichen Prüfung sind
+schriftlichen Prüfung sind:
 
 1.  für die Klausur zum Prüfungsgebiet „Organisation, Recht und
-    Betriebswirtschaftslehre“ (§ 39 Absatz 2 Nummer 1)
+    Betriebswirtschaftslehre“ (§ 39 Absatz 2 Nummer 1)
 
     a)  eine Lehrkraft des Bildungszentrums der Bundeswehr oder eine Beamtin
         oder ein Beamter des höheren nichttechnischen Verwaltungsdienstes als
@@ -985,14 +994,14 @@ schriftlichen Prüfung sind
 2.  für die Klausuren zu den Prüfungsgebieten „vorbeugender Brandschutz“
     und „abwehrender Brandschutz“ (§ 39 Absatz 2 Nummer 2 und 3)
 
-    a)  jeweils eine Beamtin oder ein Beamter des höheren feuerwehrtechnischen
-        Verwaltungsdienstes in der Bundeswehr als Vorsitzende oder
-        Vorsitzender und
+    a)  jeweils eine Beamtin oder ein Beamter des höheren technischen
+        Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+        Brandschutz als Vorsitzende oder Vorsitzender und
 
 
     b)  jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen
-        feuerwehrtechnischen Verwaltungsdienstes in der Bundeswehr als
-        Beisitzende oder Beisitzender.
+        technischen Verwaltungsdienstes in der Bundeswehr im
+        Verwendungsbereich Brandschutz als Beisitzende oder Beisitzender.
 
 
 
@@ -1001,28 +1010,29 @@ schriftlichen Prüfung sind
 
 
 (2) Mitglieder einer Prüfungskommission für die praktische Prüfung
-sind
+sind:
 
-1.  eine Beamtin oder ein Beamter des höheren feuerwehrtechnischen
-    Verwaltungsdienstes in der Bundeswehr als Vorsitzende oder
-    Vorsitzender und
-
-
-2.  zwei Angehörige des gehobenen feuerwehrtechnischen Verwaltungsdienstes
-    in der Bundeswehr als Beisitzende.
+1.  eine Beamtin oder ein Beamter des höheren technischen
+    Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+    Brandschutz als Vorsitzende oder Vorsitzender und
 
 
+2.  zwei Angehörige des gehobenen technischen Verwaltungsdienstes in der
+    Bundeswehr im Verwendungsbereich Brandschutz als Beisitzende.
 
 
-(3) Mitglieder einer Prüfungskommission für die mündliche Prüfung sind
-
-1.  eine Beamtin oder ein Beamter des höheren feuerwehrtechnischen
-    Verwaltungsdienstes in der Bundeswehr als Vorsitzende oder
-    Vorsitzender,
 
 
-2.  zwei Angehörige des gehobenen feuerwehrtechnischen Verwaltungsdienstes
-    in der Bundeswehr als Beisitzende und
+(3) Mitglieder einer Prüfungskommission für die mündliche Prüfung
+sind:
+
+1.  eine Beamtin oder ein Beamter des höheren technischen
+    Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+    Brandschutz als Vorsitzende oder Vorsitzender,
+
+
+2.  zwei Angehörige des gehobenen technischen Verwaltungsdienstes in der
+    Bundeswehr im Verwendungsbereich Brandschutz als Beisitzende und
 
 
 3.  eine Beamtin oder ein Beamter des höheren oder gehobenen
@@ -1068,9 +1078,9 @@ des Prüfungsamts anwesend sein.
 
 (3) Das Prüfungsamt kann Personen, die mit der Ausbildung oder Prüfung
 von Anwärterinnen und Anwärtern für den Vorbereitungsdienst für den
-gehobenen feuerwehrtechnischen Dienst in der Bundeswehr befasst sind,
-die Anwesenheit bei der praktischen und der mündlichen Prüfung
-gestatten.
+gehobenen technischen Verwaltungsdienst in der Bundeswehr im
+Verwendungsbereich Brandschutz befasst sind, die Anwesenheit bei der
+praktischen und der mündlichen Prüfung gestatten.
 
 (4) Auf Wunsch von schwerbehinderten und diesen gleichgestellten
 behinderten Anwärterinnen und Anwärtern kann bei ihrer praktischen und
