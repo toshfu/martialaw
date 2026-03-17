@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 15.1.2025 I Nr. 18
 
+Änderung durch
+:   Art. 2 Abs. 26 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -70,7 +73,7 @@ befähigen.
 (1) Dienstbehörde ist die Hochschule. Für die zur Verwendung beim
 Bundesnachrichtendienst vorgesehenen Studierenden ist der
 Bundesnachrichtendienst die Dienstbehörde. Für Studierende, die den
-Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren (§ 37 Absatz
+Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren (§ 45 Absatz
 1 der Bundeslaufbahnverordnung), verbleibt es bei der Zuständigkeit
 ihrer bisherigen Dienstbehörde.
 
@@ -430,7 +433,7 @@ derjenigen, die zum Auswahlverfahren zugelassen werden, beschränkt
 werden. In diesem Fall sind jedoch mindestens dreimal so viele
 Bewerberinnen und Bewerber zuzulassen, wie Studienplätze angeboten
 werden. Zugelassen wird, wer nach den eingereichten Unterlagen am
-besten geeignet ist. § 36 Absatz 5 der Bundeslaufbahnverordnung bleibt
+besten geeignet ist. § 44 Absatz 5 der Bundeslaufbahnverordnung bleibt
 unberührt.
 
 (3) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte
