@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 64 G v. 20.8.2021 I 3932
 
+Änderung durch
+:   Art. 2 Abs. 14 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -333,7 +336,7 @@ ihrer Einstellungsbehörde.
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
-(2) Eine Verkürzung des Vorbereitungsdienstes nach § 16 Absatz 1 der
+(2) Eine Verkürzung des Vorbereitungsdienstes nach § 19 Absatz 1 der
 Bundeslaufbahnverordnung ist nur zulässig, wenn das Erreichen des
 Ausbildungsziels nicht gefährdet erscheint. Dabei können der
 zielgerichteten Gestaltung des Vorbereitungsdienstes entsprechende
