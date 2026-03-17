@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 15.12.2022 I 2862
 
+Änderung durch
+:   Art. 2 Abs. 7 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-6-20 v. 19.12.2001 I 3882 (AP-mDBGSV)
 
 ## Eingangsformel
@@ -1962,7 +1965,7 @@ zugeordnete Note ist die Abschlussnote.
 ##### § 64 Wiederholung der Laufbahnprüfung
 
 (1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nicht
-bestanden, so kann sie oder er nach § 17 Absatz 3 Satz 1 der
+bestanden, so kann sie oder er nach § 20 Absatz 3 der
 Bundeslaufbahnverordnung die Laufbahnprüfung einmal wiederholen. In
 begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit
 Einverständnis des Bundesministeriums des Innern und für Heimat eine
