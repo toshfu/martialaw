@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 21 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 7 G v. 11.3.2026 I Nr. 66 ist berücksichtigt
+
 
 ## Eingangsformel
 
@@ -846,10 +849,10 @@ Ordnungswidrigkeiten ist
 #### § 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur
 
 (1) Ein Unternehmen, das selbst oder durch verbundene Unternehmen im
-Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2
-Nummer 22 des BSI-Gesetzes im Sektor Energie betreibt, kann unter
-Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr besteht,
-dass ohne eine Treuhandverwaltung das Unternehmen seine dem
+Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2
+Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreibt, kann
+unter Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr
+besteht, dass ohne eine Treuhandverwaltung das Unternehmen seine dem
 Funktionieren des Gemeinwesens im Sektor Energie dienenden Aufgaben
 nicht erfüllen wird, und eine Beeinträchtigung der
 Versorgungssicherheit droht.
@@ -1114,8 +1117,8 @@ Maßgabe dieses Gesetzes vorgenommen werden.
 Energieversorgung können sein:
 
 1.  Anteile an Unternehmen, die selbst oder durch verbundene Unternehmen
-    im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von
-    § 2 Nummer 22 des BSI-Gesetzes im Sektor Energie betreiben,
+    im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von §
+    2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreiben,
 
 
 2.  sonstige Rechte, die Bestandteile der Eigenmittel von Unternehmen nach
@@ -1658,20 +1661,20 @@ Führung eines saldierten Preisanpassungskontos.
 
 (1) Beantragt ein Unternehmen, das selbst oder durch verbundene
 Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im
-Sinne von § 2 Nummer 22 des BSI-Gesetzes im Sektor Energie betreibt,
-beim Bund Stabilisierungsmaßnahmen, gelten für die Durchführung der
-Stabilisierungsmaßnahmen die nachfolgenden Regelungen.
-Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind alle Maßnahmen,
-die der Sicherung oder Wiederherstellung einer positiven
-Fortbestehensprognose nach § 19 Absatz 2 der Insolvenzordnung oder der
-Durchfinanzierung der Abwicklung des Unternehmens dienen. Ein
-Rechtsanspruch auf Stabilisierungsmaßnahmen besteht nicht. Das
-Bundesministerium für Wirtschaft und Energie ist die zuständige
-Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den in
-Satz 1 genannten Unternehmen. Anträge sind bei dem Bundesministerium
-für Wirtschaft und Energie zu stellen, das im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundeskanzleramt über die
-Anträge entscheidet.
+Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie
+betreibt, beim Bund Stabilisierungsmaßnahmen, gelten für die
+Durchführung der Stabilisierungsmaßnahmen die nachfolgenden
+Regelungen. Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind
+alle Maßnahmen, die der Sicherung oder Wiederherstellung einer
+positiven Fortbestehensprognose nach § 19 Absatz 2 der
+Insolvenzordnung oder der Durchfinanzierung der Abwicklung des
+Unternehmens dienen. Ein Rechtsanspruch auf Stabilisierungsmaßnahmen
+besteht nicht. Das Bundesministerium für Wirtschaft und Energie ist
+die zuständige Behörde für die Verhandlungen über
+Stabilisierungsmaßnahmen mit den in Satz 1 genannten Unternehmen.
+Anträge sind bei dem Bundesministerium für Wirtschaft und Energie zu
+stellen, das im Einvernehmen mit dem Bundesministerium der Finanzen
+und dem Bundeskanzleramt über die Anträge entscheidet.
 
 (1a) Solange das Unternehmen Stabilisierungsmaßnahmen nach Absatz 1
 Satz 2 in Form einer Rekapitalisierung in Anspruch nimmt, dürfen
@@ -2163,6 +2166,16 @@ anzuwenden.
 finden auf Maßnahmen des Bundes nach Kapitel 1 und 2 dieses Gesetzes
 mit der Maßgabe entsprechend Anwendung, dass an die Stelle des Fonds
 der Bund tritt.Satz 1 findet auf alle noch offenen Fälle Anwendung.
+
+
+### § 31a Übergangsbestimmung
+
+§ 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1
+sind erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und
+§ 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung gilt.
+Bis zur Geltung dieser Rechtsverordnung sind § 17 Absatz 1, § 18
+Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 in der bis
+einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 
 ### § 32 Inkrafttreten
