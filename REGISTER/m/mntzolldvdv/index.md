@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 19.10.2023 I Nr. 282
 
+Änderung durch
+:   Art. 2 Abs. 19 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-7-7-1 v. 20.7.2001 I 1682 (LAP-MDZollV)
 
 ## Abschnitt 1 - Allgemeines
@@ -1788,7 +1791,7 @@ erfolgen. Der weitere Ausbildungsverlauf wird wegen der Wiederholung
 der Zwischenprüfung nicht ausgesetzt. Bei Auszubildenden, die die
 schriftliche oder mündliche Abschlussprüfung wiederholen, wird der
 Vorbereitungsdienst bis zum Ablauf der vom Prüfungsamt angesetzten
-Wiederholungsfrist verlängert, sofern die nach § 15 Absatz 3 der
+Wiederholungsfrist verlängert, sofern die nach § 18 Absatz 3 der
 Bundeslaufbahnverordnung zulässige Höchstdauer des
 Vorbereitungsdienstes nicht überschritten wird.
 
