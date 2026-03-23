@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 353
-
-Änderung durch
-:   Art. 60 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 60 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
 :   Art. 7 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
