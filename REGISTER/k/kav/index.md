@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 12 (407)
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 4 V v. 1.11.2006 I 2477
-
-Änderung durch
-:   Art. 8 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 18.12.2025 I Nr. 347
 
 
 ## Eingangsformel
