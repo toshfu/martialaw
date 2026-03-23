@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2477
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.7.2022 I 1214
-
-Änderung durch
-:   Art. 9 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 18.12.2025 I Nr. 347
 
 
 ## Teil 1 - Allgemeine Vorschriften
