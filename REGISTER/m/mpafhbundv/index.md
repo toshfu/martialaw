@@ -17,11 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 497
 
-Geändert durch
-:   Art. 1 V v. 6.1.2016 I 27
-
-Änderung durch
-:   Art. 2 Abs. 16 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 Abs. 16 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
