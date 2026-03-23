@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2230
 
 Zuletzt geändert durch
-:   Art. 58 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 2 Abs. 15 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 15 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
