@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3824
 
 Zuletzt geändert durch
-:   Art. 3 V v. 16.8.2021 I 3582
-
-Änderung durch
-:   Art. 2 Abs. 2 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 2 V v. 11.3.2026 I Nr. 67
 
 [^F772704_01_BJNR382400009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
