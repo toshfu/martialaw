@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 2455
 
 Zuletzt geändert durch
-:   Art. 127 V v. 19.6.2020 I 1328
+:   Art. 1 G v. 13.3.2026 I Nr. 70
 
 
 ## § 1 Zielsetzung
