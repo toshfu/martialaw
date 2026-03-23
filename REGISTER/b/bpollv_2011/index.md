@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2408
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 V v. 16.8.2021 I 3582
-
-Änderung durch
-:   Art. 2 Abs. 5 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 5 V v. 11.3.2026 I Nr. 67
 
 
 ## § 1 Geltungsbereich
