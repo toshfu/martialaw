@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 366
 
 Zuletzt geändert durch
-:   Art. 3 V v. 4.7.2024 I Nr. 227
-
-Änderung durch
-:   Art. 2 Abs. 13 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 13 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
