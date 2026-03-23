@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2498
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.2.2025 I Nr. 54
-
-Änderung durch
-:   Art. 24 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 G v. 18.12.2025 I Nr. 347
 
 Stand: Ersetzt V 754-18 v. 19.3.2002 I 1092 (KWKG 2002)
 
