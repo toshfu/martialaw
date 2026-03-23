@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1730
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2025 I Nr. 353
-
-Änderung durch
-:   Art. 28 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 28 G v. 4.2.2026 I Nr. 33
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
