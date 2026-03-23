@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 3240 (3692)
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.7.2024 I Nr. 227
-
-Änderung durch
-:   Art. 2 Abs. 12 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 12 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
@@ -489,8 +486,9 @@ Ausbildungsabschnitte vorzusehen:
 1.  Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 
 
-2.  Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich
-    Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
+2.  Vorstellung der Verwendungsmöglichkeiten
+    im Verwendungsbereich                    Wehrtechnik des gehobenen
+    technischen Verwaltungsdienstes,
 
 
 3.  Lehrgang „Allgemeine Wehrtechnik“,
