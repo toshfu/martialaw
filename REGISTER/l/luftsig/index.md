@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 78
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.4.2020 I 840
-
-Änderung durch
-:   Art. 1 G v. 11.3.2026 I Nr. 68 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 11.3.2026 I Nr. 68
 
 
 ## Abschnitt 1 - Allgemeines
