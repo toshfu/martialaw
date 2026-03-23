@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1896, 1897
 
-Geändert durch
-:   Art. 2 V v. 23.4.2019 I 517
-
-Änderung durch
-:   Art. 2 Abs. 20 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 Abs. 20 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-8-5-8 v. 13.7.2016 I 1775 (HArchDVDV)
 
