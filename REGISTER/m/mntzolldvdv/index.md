@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 1179
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.10.2023 I Nr. 282
-
-Änderung durch
-:   Art. 2 Abs. 19 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 19 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-7-7-1 v. 20.7.2001 I 1682 (LAP-MDZollV)
 
