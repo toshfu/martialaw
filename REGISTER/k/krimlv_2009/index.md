@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3042
 
-Geändert durch
-:   Art. 1 V v. 4.9.2020 I 1988
-
-Änderung durch
-:   Art. 2 Abs. 4 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 Abs. 4 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
