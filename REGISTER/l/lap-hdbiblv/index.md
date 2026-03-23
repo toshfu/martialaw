@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 2779
 
 Zuletzt geändert durch
-:   Art. 17 G v. 29.3.2017 I 626
-
-Änderung durch
-:   Art. 2 Abs. 910 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 10 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
