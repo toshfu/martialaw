@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 727
 
-Änderung durch
-:   Art. 2 Abs. 9 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 9 V v. 11.3.2026 I Nr. 67
 
 
 ## Abschnitt 1 - Allgemeines
