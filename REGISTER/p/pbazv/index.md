@@ -19,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 2 V v. 28.11.2018 I 2271
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Satz 1 Nr. 2 des Postpersonalrechtsgesetzes
