@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 506
 
 Zuletzt geändert durch
-:   Art. 2 V v. 15.12.2022 I 2862
-
-Änderung durch
-:   Art. 2 Abs. 7 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 7 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-6-20 v. 19.12.2001 I 3882 (AP-mDBGSV)
 
