@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3282
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.7.2025 I Nr. 180
-
-Änderung durch
-:   Art. 2 Abs. 6 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 6 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
