@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 3681
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2025 I Nr. 345
-
-Änderung durch
-:   Art. 21 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 11.3.2026 I Nr. 66 ist berücksichtigt
+:   Art. 21 G v. 18.12.2025 I Nr. 347
 
 
 ## Eingangsformel
