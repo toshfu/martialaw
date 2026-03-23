@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.7.2025 I Nr. 161
-
-Änderung durch
-:   Art. 6 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 30 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 30 G v. 4.2.2026 I Nr. 33
 
 
 ## Erster Teil - Steuerpflicht
