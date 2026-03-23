@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz
-  sowie zur Durchführung statistischer Erhebungen
+  und nach dem Pflegefachassistenzgesetz sowie zur Durchführung statistischer Erhebungen
 jurabk: PflAFinV
 layout: default
 origslug: pflafinv
@@ -8,7 +8,7 @@ slug: pflafinv
 
 ---
 
-# Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen (PflAFinV)
+# Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz und nach dem Pflegefachassistenzgesetz sowie zur Durchführung statistischer Erhebungen (PflAFinV)
 
 Ausfertigungsdatum
 :   2018-10-02
@@ -16,18 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1622
 
-Stand: Zukünftige amtl. Langüberschrift, Kurzbezeichnung u. Buchstabenabkürzung: Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz und nach dem Pflegefachassistenzgesetz sowie zur Durchführung statistischer Erhebungen (Pflegeberufe-Ausbildungsfinanzierungsverordnung - PflAFinV) (ab 1.1.2026; 2025 I Nr. 259)
 Zuletzt geändert durch
-:   Art. 3a G v. 12.12.2023 I Nr. 359
-
-Änderung durch
-:   Art. 5 G v. 28.10.2025 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-[^f014610_01_BJNR162200018]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 5 Nr. 1 G v.
-    28\.10.2025 I Nr. 259 mWv 1.1.2026 wie folgt gefasst:  **Verordnung
-    über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz und
-    nach dem Pflegefachassistenzgesetz sowie zur Durchführung
-    statistischer Erhebungen**
+:   Art. 5 G v. 28.10.2025 I Nr. 259
 
 
 ## Eingangsformel
@@ -40,7 +30,7 @@ Absatz 3 des Pflegeberufegesetzes vom 17. Juli 2017 (BGBl. I S. 2581)
 im Benehmen mit dem Bundesministerium der Finanzen:
 
 
-## Teil 1 - Finanzierung der Ausbildung in der Pflege
+## Teil 1 - Finanzierung der Ausbildungen in der Pflege
 
 
 ### § 1 Begriffsbestimmungen
