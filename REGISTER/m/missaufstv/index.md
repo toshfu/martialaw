@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 202
 
-Änderung durch
-:   Art. 2 Abs. 17 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 17 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
