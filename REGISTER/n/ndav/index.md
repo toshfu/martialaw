@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2477, 2485
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.11.2021 I 4786
-
-Änderung durch
-:   Art. 10 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 18.12.2025 I Nr. 347
 
 
 ## Teil 1 - Allgemeine Vorschriften
