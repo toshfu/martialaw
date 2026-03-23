@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 517
 
 Zuletzt geändert durch
-:   Art. 1 V v. 31.3.2023 I Nr. 94
-
-Änderung durch
-:   Art. 22 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 18.12.2025 I Nr. 347
 
 
 ## Eingangsformel
