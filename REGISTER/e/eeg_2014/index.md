@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1066
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.2.2025 I Nr. 52
-
-Änderung durch
-:   Art. 23 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 18.12.2025 I Nr. 347
 
 
 ## Teil 1 - Allgemeine Bestimmungen
