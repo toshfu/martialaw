@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 1270
 
 Zuletzt geändert durch
-:   Art. 19 G v. 22.12.2023 I Nr. 408
-
-Änderung durch
-:   Art. 12 G v. 28.10.2025 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 14 Nr. 2 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
+:   Art. 12 G v. 28.10.2025 I Nr. 259
 
 
 ## Eingangsformel
