@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1284
 
 Zuletzt geändert durch
-:   Art. 2 V v. 3.3.2026 I Nr. 57
-
-Änderung durch
-:   Art. 2 Abs. 3 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 3 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
 
