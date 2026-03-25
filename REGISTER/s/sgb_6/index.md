@@ -20,19 +20,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2025 I Nr. 355
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 362 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 13 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
-
-Änderung durch
-:   Art. 12 G v. 16.1.2026 I Nr. 14 ist berücksichtigt
-
-Änderung durch
-:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
+:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33
 
 Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
@@ -8625,8 +8613,6 @@ finanzieren. Die Bundesregierung soll den gesetzgebenden
 Körperschaften geeignete Maßnahmen vorschlagen, wenn sich zeigt, dass
 durch die Förderung der freiwilligen zusätzlichen Altersvorsorge eine
 ausreichende Verbreitung nicht erreicht werden kann.
-
-(3a) (weggefallen)
 
 (4) Die Bundesregierung hat den gesetzgebenden Körperschaften vom
 Jahre 2010 an alle vier Jahre über die Entwicklung der Beschäftigung
