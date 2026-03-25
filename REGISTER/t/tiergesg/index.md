@@ -1186,7 +1186,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 ## Abschnitt 5 - Verbringung aus einem anderen Mitgliedstaat in das Inland und aus dem Inland in einen anderen Mitgliedstaat, Eingang in die Union, Ausfuhr, Durchfuhr
 
 
-### § 13 Verbringungs-,Eingangs-, Ausfuhr- und Durchfuhrverbote
+### § 13 Verbringungs-, Eingangs-, Ausfuhr- und Durchfuhrverbote
 
 (1) Verboten sind die Verbringung aus einem anderen Mitgliedstaat in
 das Inland, die Verbringung aus dem Inland in einen anderen
@@ -2647,8 +2647,8 @@ Hersteller oder einen anderen auf Grund dieses Gesetzes, der auf Grund
 dieses Gesetzes erlassenen Rechtsvorschriften oder der unmittelbar
 geltenden Rechtsakte der Europäischen Gemeinschaft oder der
 Europäischen Union im Anwendungsbereich dieses Gesetzes
-Verantwortlichen (sonstiger Verantwortlicher). Die Angaben zufür die
-Verbringung verantwortlichen Personen, Herstellern und sonstigen
+Verantwortlichen (sonstiger Verantwortlicher). Die Angaben zu den für
+die Verbringung verantwortlichen Personen, Herstellern und sonstigen
 Verantwortlichen umfassen deren Name, Anschrift und
 Telekommunikationsdaten, soweit den Zollbehörden die Angaben im Rahmen
 ihrer Mitwirkung bei der Überwachung vorliegen. Die Übermittlung der
