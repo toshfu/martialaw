@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1368
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.2.2025 I Nr. 35
-
-Änderung durch
-:   Art. 2 Abs. 22 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 22 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-7-9-3 v. 5.12.2006 I 2767 (LAP-gDBNDV) und V 2030-7-4-2 v. 11.10.2001 I 2640 (LAP-gDVerfSchV)
 
