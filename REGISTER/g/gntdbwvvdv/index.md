@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 205
 
-Geändert durch
-:   Art. 1 V v. 4.7.2024 I Nr. 244
-
-Änderung durch
-:   Art. 2 Abs. 24 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 Abs. 24 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-7-12-3 v. 14.3.2005 I 779 (LAP-gntDBWVV 2005)
 
