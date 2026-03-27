@@ -20,10 +20,7 @@ Fundstelle
 :   BGBl I: 2014, 1222
 
 Zuletzt geändert durch
-:   Art. 15 G v. 20.12.2016 I 3000
-
-Änderung durch
-:   Art. 9 Abs. 1 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 Abs. 1 G v. 10.2.2026 I Nr. 39
 
 
 ## Eingangsformel
