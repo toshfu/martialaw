@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 79
 
-Änderung durch
-:   Art. 2 Abs. 27 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 27 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-7-14-1 v. 20.2.2002 I 935 (LAP-mDFm/EloAufklBundV)
 
