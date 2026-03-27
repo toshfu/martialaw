@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 58
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.11.2025 I Nr. 264
-
-Änderung durch
-:   Art. 15 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 18.12.2025 I Nr. 347
 
 
 ## Eingangsformel
