@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 1221
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.2.2025 I Nr. 35
-
-Änderung durch
-:   Art. 2 Abs. 25 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 25 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
 
