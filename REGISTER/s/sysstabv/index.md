@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1635
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 14 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 18.12.2025 I Nr. 347
 
 Stand: Die V ist gem. Art. 3 V v. 20.7.2012 I 1635 am 26.7.2012 in Kraft getreten
 
