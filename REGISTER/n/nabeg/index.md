@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 1690
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.5.2024 I Nr. 151
-
-Änderung durch
-:   Art. 16 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 18.12.2025 I Nr. 347
 
 Änderung durch
 :   Art. 3 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
