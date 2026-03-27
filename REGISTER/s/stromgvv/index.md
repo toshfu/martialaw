@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2391
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.6.2024 I Nr. 192
-
-Änderung durch
-:   Art. 11 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 18.12.2025 I Nr. 347
 
 
 
