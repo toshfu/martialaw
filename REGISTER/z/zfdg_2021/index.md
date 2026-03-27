@@ -17,10 +17,7 @@ Fundstelle
 
 Stand: Ersetzt G 602-2 v. 16.8.2002 I 3202 (ZFdG)
 Zuletzt geändert durch
-:   Art. 4 G v. 3.2.2026 I Nr. 27
-
-Änderung durch
-:   Art. 5 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 10.2.2026 I Nr. 39
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
