@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 517
 
-Änderung durch
-:   Art. 2 Abs. 23 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 23 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-8-5-6 v. 18.12.2015 I 2478 (GArchDVDV)
 
