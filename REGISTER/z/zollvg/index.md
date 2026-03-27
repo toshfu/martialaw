@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2125; 1993, 2493
 
 Zuletzt geändert durch
-:   Art. 16 G v. 22.12.2025 I Nr. 369
-
-Änderung durch
-:   Art. 6 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 10.2.2026 I Nr. 39
 
 
 ## Teil I - Erfassung des Warenverkehrs
@@ -626,6 +623,9 @@ der Abgabenordnung und für die Verfolgung von Straftaten die §§ 92 bis
 für die in Absatz 1 genannten Dienststellen entsprechend.
 
 (4) § 3 Absatz 7 des Zollfahndungsdienstgesetzes ist anzuwenden.
+
+
+### (XXXX) §§ 11a u. 11b (weggefallen)
 
 
 ### § 11c Datenübermittlung zu Zwecken des Risikomanagements
