@@ -485,7 +485,7 @@ Gesundheitsanwendungen erstmalig beantragen; im erstgenannten Fall ist
 der Nachweis im Verfahren nach § 139e Absatz 6 Satz 1 des Fünften
 Buches Sozialgesetzbuch zu erbringen.
 
-(4) Die Verpflichtung nach §139e Absatz 11 Satz 2 des Fünften Buches
+(4) Die Verpflichtung nach § 139e Absatz 11 Satz 2 des Fünften Buches
 Sozialgesetzbuch gilt sowohl für Hersteller digitaler
 Gesundheitsanwendungen, deren digitale Gesundheitsanwendung bereits in
 das Verzeichnis für digitale Gesundheitsanwendungen aufgenommen wurde,
