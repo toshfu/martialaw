@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.12.2009 I 3886;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 14.11.2022 I 2030
-
-Änderung durch
-:   Art. 1 G v. 11.1.2026 I Nr. 8 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 11.1.2026 I Nr. 8
 
 
 ## Teil 1 - Allgemeine Vorschrift
@@ -2632,7 +2629,7 @@ die von diesen beauftragten Stellen übermitteln den statistischen
 auf Ersuchen, soweit vorhanden,
 
 1.  die Angaben zu den Hilfs- und Erhebungsmerkmalen nach Absatz 2 Satz 1
-    Nummer 1, 2, 4, 5, 11 und 12, für alle in der zuständigen Behörde
+    Nummer 1, 2, 4, 5, 11 und 12 für alle in der zuständigen Behörde
     geführten Einheiten,
 
 
@@ -2758,7 +2755,8 @@ verwendete Hilfsmerkmale sind unmittelbar danach zu löschen. Das
 Statistische Bundesamt darf die im Betriebsregister nach § 97 Absatz 2
 Satz 1 enthaltenen Angaben zur Vorbereitung und Durchführung der
 Erhebung der Preisstatistik für land- und forstwirtschaftliche Güter
-nach § 2 Nummer 1 des Preisstatistikgesetzes verwenden.
+nach § 2 Nummer 1 des
+Preisstatistikgesetzes              verwenden.
 
 (3) Die Veröffentlichung der Ergebnisse der Flächenerhebung (§ 2
 Nummer 1) für jede Gemarkung ist zugelassen.
