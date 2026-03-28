@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4077
 
 Zuletzt geändert durch
-:   Art. 12 G v. 28.2.2025 I Nr. 69
-
-Änderung durch
-:   Art. 58 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 58 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
