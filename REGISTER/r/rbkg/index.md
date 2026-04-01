@@ -15,3 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1939, 1015, 1030
 
+G aufgeh. durch
+:   Art. 28 Nr. 1 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026
+
