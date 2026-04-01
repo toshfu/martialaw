@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1934, 827
 
+V aufgeh. durch
+:   Art. 28 Nr. 3 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026
+
 
 
 ## Eingangsformel
