@@ -25,6 +25,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 3.2.2026 I Nr. 27 ist berücksichtigt
 
+Änderung durch
+:   Art. 26 Abs. 1 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
+
+Änderung durch
+:   Art. 27 Abs. 1 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
@@ -8605,8 +8611,8 @@ Unternehmensrechtliche Verfahren sind die nach
     Eisen und Stahl erzeugenden Industrie,
 
 
-11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 28 Absatz 2, nach § 36 Absatz 3
-    Satz 3, § 38 Abs. 2 Satz 2, § 45a Abs. 2 Satz 1, 3, 4 und 6 des
+11. § 2c Absatz 2 Satz 2 bis 7, § 28 Absatz 2, § 36 Absatz 3 Satz 3, § 38
+    Absatz 2 Satz 2, § 45a Absatz 2 Satz 1, 3, 4 und 6 des
     Kreditwesengesetzes,
 
 
@@ -8617,7 +8623,7 @@ Unternehmensrechtliche Verfahren sind die nach
     Wertpapierinstitutsgesetzes,
 
 
-11c. § 13 Absatz 2 Satz 2, § 23 Absatz 5 Satz 2, § 25 Absatz 7 Satz 2 bis
+11c. § 13 Absatz 2 Satz 2, § 23 Absatz 5 Satz 2, § 25 Absatz 9 Satz 2 bis
     7, § 28 Absatz 4 Satz 4 sowie § 39 Absatz 4 des
     Kryptomärkteaufsichtsgesetzes,
 
