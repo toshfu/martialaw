@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 58 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 4 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -244,6 +250,13 @@ die aufgrund der folgenden Vorschriften erbracht werden:
     20\.12.2023) geändert worden ist,
 
 
+40a. Kryptomärkteaufsichtsgesetz,
+
+
+40b. Delegierte Verordnung (EU) 2015/61 in der Fassung vom 10. Februar
+    2022,
+
+
 41. Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates
     vom 14. Dezember 2022 über die digitale operationale Resilienz im
     Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009,
@@ -299,7 +312,8 @@ tritt am 1. Januar 2022 in Kraft.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 4079 - 4109)
+(Fundstelle: BGBl. I 2021, 4079 - 4109;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Inhaltsübersicht
@@ -500,6 +514,12 @@ tritt am 1. Januar 2022 in Kraft.
 
     *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage des
         Kreditzweitmarktgesetzes (KrZwMG)
+
+
+*    *   31a
+
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage der
+        Delegierten Verordnung (EU) 2015/61
 
 
 *    *   32
@@ -1315,17 +1335,6 @@ tritt am 1. Januar 2022 in Kraft.
     *   nach Zeitaufwand
 
 
-*    *   5.1.5.2
-
-    *   Zustimmung zur weiteren Nutzung des Verfahrens nach § 10a Absatz 4 KWG
-        zur Ermittlung der zusammengefassten Eigenmittelausstattung einer
-        Institutsgruppe, Finanzholding-Gruppe oder einer gemischten
-        Finanzholding-Gruppe
-        (§ 10a Absatz 6 KWG)
-
-    *   nach Zeitaufwand
-
-
 *    *   5.1.6
 
     *   Individuell zurechenbare öffentliche Leistungen in Bezug auf
@@ -1397,6 +1406,41 @@ tritt am 1. Januar 2022 in Kraft.
 *    *   5.1.6.1.5.3
 
     *   Anordnung nach § 10i Absatz 8 Satz 2 KWG
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.6.1.6
+
+    *   Genehmigung eines Kapitalerhaltungsplanes nach § 10j Absatz 7 Satz 1
+        KWG
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.6.1.7
+
+    *   Anordnung nach § 10j Absatz 9 KWG
+
+    *
+
+*    *   5.1.6.1.7.1
+
+    *   Anordnung nach § 10j Absatz 9 Satz 1 Nummer 1 KWG
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.6.1.7.2
+
+    *   Anordnung nach § 10j Absatz 9 Satz 1 Nummer 2 KWG
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.6.1.7.3
+
+    *   Anordnung nach § 10j Absatz 9 Satz 2 KWG
 
     *   nach Zeitaufwand
 
@@ -1688,13 +1732,6 @@ tritt am 1. Januar 2022 in Kraft.
 
     *   Erlaubnis zur Tätigkeit als Datenbereitstellungsdienst im Sinne von
         § 1 Absatz 3a KWG
-
-    *   nach Zeitaufwand
-
-
-*    *   5.1.12.4.2
-
-    *   Feststellung nach § 32 Absatz 1f Satz 4 KWG
 
     *   nach Zeitaufwand
 
@@ -2156,8 +2193,7 @@ tritt am 1. Januar 2022 in Kraft.
 *    *   5.2.3.1
 
     *   zur Verwendung des IRB-Ansatzes, eines Ratingsystems, einschließlich
-        eines Ansatzes für Schätzungen der LGD und Umrechnungsfaktoren, eines
-        auf internen Modellen basierenden Ansatzes für Beteiligungspositionen
+        eines Ansatzes für Schätzungen der LGD und Umrechnungsfaktoren
         (Artikel 143 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013)
 
     *   nach Zeitaufwand
@@ -2173,46 +2209,16 @@ tritt am 1. Januar 2022 in Kraft.
     *   3 632
 
 
+*    *   5.2.3.3
+
+    *   zur Anwendung eines Risikogewichts von 100 Prozent auf
+        Beteiligungsrisikopositionen nach Artikel 133 Absatz 5 der Verordnung
+        (EU) Nr. 575/2013
+
+    *   nach Zeitaufwand
+
+
 *    *   5.2.4
-
-    *   Untersagung der Nutzung des Standardansatzes für das operationelle
-        Risiko
-        (§ 6 KWG in Verbindung mit Artikel 312 und 320 der Verordnung (EU) Nr.
-        575/2013)
-
-    *   nach Zeitaufwand
-
-
-*    *   5.2.5
-
-    *   Gestattung zur Verwendung eines alternativen maßgeblichen Indikators
-        im Standardansatz für das operationelle Risiko
-        (Artikel 312 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 575/2013)
-
-    *   nach Zeitaufwand
-
-
-*    *   5.2.6
-
-    *   Genehmigung zum beantragten Wechsel zu einem weniger komplizierten
-        Ansatz für das operationelle Risiko
-        (Artikel 313 Absatz 3 Buchstabe b der Verordnung (EU) Nr. 575/2013)
-
-    *   nach Zeitaufwand
-
-
-*    *   5.2.7
-
-    *   Gestattung der teilweisen Anwendung eines fortgeschrittenen
-        Messansatzes in Kombination mit dem Basisindikator- oder
-        Standardansatz
-        (Artikel 314 Absatz 2 in Verbindung mit Absatz 1 der Verordnung (EU)
-        Nr. 575/2013)
-
-    *   nach Zeitaufwand
-
-
-*    *   5.2.8
 
     *   Genehmigung oder Erlaubnis zur eigenen Berechnung des Delta-Faktors
         unter Verwendung eines geeigneten Modells
@@ -2222,12 +2228,58 @@ tritt am 1. Januar 2022 in Kraft.
     *   nach Zeitaufwand
 
 
-*    *   5.2.9
+*    *   5.2.5
 
     *   Fristeinräumung bei Großkreditüberschreitung; Festsetzung einer
         höheren Großkreditobergrenze im Einzelfall
         (Artikel 396 Absatz 1 Unterabsatz 1 und 2 der Verordnung (EU) Nr.
         575/2013)
+
+    *   nach Zeitaufwand
+
+
+*    *   5.2.6
+
+    *   Genehmigung der Zuordnung einer Position von Instrumenten zum
+        Nichthandelsbuch in Abweichung von Artikel 104 Absatz 2 der Verordnung
+        (EU) Nr. 575/2013
+
+    *   nach Zeitaufwand
+
+
+*    *   5.2.7
+
+    *   Genehmigung der Zuordnung einer Position von Instrumenten zum
+        Handelsbuch in Abweichung von Artikel 104 Absatz 3 der Verordnung (EU)
+        Nr. 575/2013
+
+    *   nach Zeitaufwand
+
+
+*    *   5.2.8
+
+    *   Genehmigung zur Ausnahme von strukturellen Fremdwährungspositionen von
+        der Berechnung der Eigenmittelanforderungen nach Artikel 325 Absatz 1
+        der Verordnung (EU) Nr. 575/2013
+
+    *   nach Zeitaufwand
+
+
+*    *   5.2.9
+
+    *   Genehmigung von Änderungen im Risikomanagementrahmenwerk mit Bezug auf
+        Ausnahmen von strukturellen Fremdwährungspositionen von der Berechnung
+        der Eigenmittelanforderungen nach Artikel 325 Absatz 1 der Verordnung
+        (EU) Nr. 575/2013
+
+    *   nach Zeitaufwand
+
+
+*    *   5.2.10
+
+    *   Genehmigung der Ausnahme von Instrumenten aus der Berechnung der
+        Aufschläge für Restrisiken aufgrund von Hedgebeziehungen nach Artikel
+        325u Absatz 4a der Verordnung (EU) Nr. 575/2013
 
     *   nach Zeitaufwand
 
@@ -2305,6 +2357,31 @@ tritt am 1. Januar 2022 in Kraft.
     *   1 323
 
 
+*    *   5.6
+
+    *   Genehmigung von Ausnahmen der Liquiditätsregulierung
+
+    *
+
+*    *   5.6.1
+
+    *   Genehmigung der vollständigen oder teilweisen Befreiung der Anwendung
+        des Teils 6 der Verordnung (EU) 575/2013 für ein Institut und alle
+        oder einige seiner Tochterunternehmen nach Artikel 8 der Verordnung
+        (EU) Nr. 575/2013
+
+    *   nach Zeitaufwand
+
+
+*    *   5.6.2
+
+    *   Zustimmung zur Behandlung von einem Aktivum und einer Verbindlichkeit
+        als interdependent nach Artikel 428f nach vorangehender Prüfung der
+        Kriterien aus Artikel 428f Absatz 1 der Verordnung (EU) Nr. 575/2013
+
+    *   nach Zeitaufwand
+
+
 *    *   **6**
 
     *   **Individuell zurechenbare öffentliche Leistungen auf der Grundlage
@@ -2339,42 +2416,105 @@ tritt am 1. Januar 2022 in Kraft.
 
 *    *   7.1
 
-    *   Verwendung interner Risikomessverfahren
+    *   Erlaubnis zur Verwendung eines internen Ansatzes
 
     *
 
 *    *   7.1.1
 
-    *   Zustimmung zur Verwendung der IMM
-        (§ 18 SolvV)
+    *   Erlaubnis zur Verwendung der auf einem internen Modell beruhenden
+        Methode (IMM)
+        (§ 18 Absatz 1 SolvV)
 
     *   nach Zeitaufwand
 
 
 *    *   7.1.2
 
-    *   Zulassung eines fortgeschrittenen Messansatzes
-        (§ 20 SolvV)
+    *   Erlaubnis zur Anwendung eines internen Einstufungsverfahrens
+        (§ 19 Absatz 2 SolvV)
 
     *   nach Zeitaufwand
 
 
 *    *   7.1.3
 
-    *   Erteilung der Erlaubnis, die Eigenmittelanforderungen für eine oder
-        mehrere Risikokategorien mit Hilfe eines internen Modells gemäß
-        Artikel 363 Absatz 1 der Verordnung (EU) Nr. 575/2013 zu berechnen
-        (§ 21 SolvV)
+    *   Erlaubnis zur Anwendung eines internen Modells für Netting-
+        Rahmenvereinbarungen
+        (§ 20 Absatz 1 SolvV)
+
+    *   nach Zeitaufwand
+
+
+*    *   7.1.4
+
+    *   Erlaubnis zur Anwendung eines alternativen auf einem internen Modell
+        beruhenden Ansatzes
+        (§ 21 Absatz 1 SolvV)
 
     *   nach Zeitaufwand
 
 
 *    *   7.2
 
-    *   Zustimmung zur beantragten Ermittlung der Eigenmittelanforderungen
-        nach Artikel 326 bis 361 der Verordnung (EU) Nr. 575/2013 nach
-        erteilter Zustimmung zur Verwendung interner Modelle für Marktrisiken
+    *   Erlaubnis zur Verwendung einer wesentlichen Änderung eines internen
+        Ansatzes oder zur Verwendung eines weniger anspruchsvollen Ansatzes
+
+    *
+
+*    *   7.2.1
+
+    *   Erteilung der Erlaubnis für wesentliche Änderungen nach § 18 Absatz 2
+        SolvV oder zur Ermittlung der Risikopositionswerte für das
+        Gegenparteiausfallrisiko nach einem weniger anspruchsvollen Ansatz für
+        das Gegenparteiausfallrisiko nach § 18 Absatz 3 SolvV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.2.2
+
+    *   Erteilung der Erlaubnis für wesentliche Änderungen nach § 19 Absatz 4
+        SolvV oder zur Ermittlung der Eigenmittelanforderungen nach einem
+        weniger anspruchsvollen Ansatz nach § 19 Absatz 5 SolvV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.2.3
+
+    *   Erteilung der Erlaubnis für wesentliche Änderungen nach § 20 Absatz 2
+        SolvV oder zur Ermittlung des vollständig angepassten
+        Risikopositionswerts (E\*) einer Netting-Rahmenvereinbarung nach einem
+        weniger anspruchsvollen Ansatz nach § 20 Absatz 3 SolvV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.2.4
+
+    *   Erteilung der Erlaubnis für wesentliche Änderungen oder Erweiterungen
+        nach § 21 Absatz 1 Satz 2 SolvV oder zur beantragten Ermittlung der
+        Eigenmittelanforderungen nach einem weniger anspruchsvollen Ansatz
         (§ 21 Absatz 3 SolvV)
+
+    *   nach Zeitaufwand
+
+
+*    *   7.3
+
+    *   Verlangen eines Plans zur zeitnahen Rückkehr des Instituts zur
+        Regelkonformität oder eines Nachweises des Instituts, dass die
+        Auswirkungen des Nichteinhaltens der Anforderungen unwesentlich sind,
+        nach § 4 Absatz 3 SolvV
+
+    *   nach Zeitaufwand
+
+
+*    *   7.4
+
+    *   Verlangen einer Nachbesserung eines Plans zur zeitnahen Rückkehr des
+        Instituts zur Regelkonformität nach § 4 Absatz 4 SolvV
 
     *   nach Zeitaufwand
 
@@ -5205,6 +5345,28 @@ tritt am 1. Januar 2022 in Kraft.
     *   nach Zeitaufwand
 
 
+*    *   29.8
+
+    *   Zulassung als Datenbereitstellungsdienst
+
+    *
+
+*    *   29.8.1
+
+    *   Zulassung nach § 78e Absatz 1 WpIG i. V. m. Artikel 27b Absatz 1
+        Unterabsatz 2 der Verordnung (EU) Nr. 600/2014
+
+    *   nach Zeitaufwand
+
+
+*    *   29.8.2
+
+    *   Feststellung nach § 78e Absatz 4 WpIG i. V. m. Artikel 27b Absatz 2
+        Satz 1 der Verordnung (EU) Nr. 600/2014
+
+    *   nach Zeitaufwand
+
+
 *    *   30
 
     *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage der
@@ -5416,6 +5578,29 @@ tritt am 1. Januar 2022 in Kraft.
     *   1 323
 
 
+*    *   **31a**
+
+    *   **Individuell zurechenbare öffentliche Leistungen auf der Grundlage
+        der Delegierten Verordnung (EU) 2015/61**
+
+    *
+
+*    *   31a.1
+
+    *   Festlegung einer Abflussrate von Produkten und Dienstleistungen nach
+        Artikel 23 der Delegierten Verordnung (EU) 2015/61
+
+    *   nach Zeitaufwand
+
+
+*    *   31a.2
+
+    *   Genehmigung der Berechnung von mit Zuflüssen einhergehenden Abflüssen
+        nach Artikel 26 der Delegierten Verordnung (EU) 2015/61
+
+    *   nach Zeitaufwand
+
+
 *    *   32
 
     *   Individuell zurechenbare öffentliche Leistung auf der Grundlage der
@@ -5603,7 +5788,7 @@ tritt am 1. Januar 2022 in Kraft.
 
     *   Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die
         Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf
-        (§ 25 Absatz 7 Satz 1 KMAG)
+        (§ 25 Absatz 9 Satz 1 KMAG)
 
     *   nach Zeitaufwand
 
@@ -5612,7 +5797,7 @@ tritt am 1. Januar 2022 in Kraft.
 
     *   Beauftragung eines Treuhänders mit der Veräußerung der Anteile, soweit
         sie eine bedeutende Beteiligung begründen
-        (§ 25 Absatz 7 Satz 4 KMAG)
+        (§ 25 Absatz 9 Satz 4 KMAG)
 
     *   nach Zeitaufwand
 
