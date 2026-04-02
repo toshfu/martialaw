@@ -42,6 +42,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 4 G v. 23.2.2026 I Nr. 46 ist berücksichtigt
 
+Änderung durch
+:   Art. 2 Abs. 7 G v. 20.3.2026 I Nr. 95 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -2864,7 +2867,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
     a)  Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des
         demokratischen Rechtsstaates sowie des Landesverrats und der
         Gefährdung der äußeren Sicherheit nach den §§ 80a bis 82, 84 bis 86,
-        87 bis 89a, 89c Absatz 1 bis 4, 94 bis 100a,
+        87 bis 89a, 89c Absatz 1 bis 4 und 8, 94 bis 100a,
 
 
     b)  Bestechlichkeit und Bestechung von Mandatsträgern nach § 108e,
@@ -3214,10 +3217,11 @@ sind:
 
     a)  Straftaten des Hochverrats und der Gefährdung des demokratischen
         Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren
-        Sicherheit nach den §§ 81, 82, 89a, 89c Absatz 1 bis 4, nach den §§
-        94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit §
-        97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den
-        §§ 100, 100a Absatz 4,
+        Sicherheit nach den §§ 81, 82, 89a Absatz 1 bis 7, § 89c Absatz 1
+        sowie Absatz 3 und 4, wenn es sich um eine Tat nach Absatz 1 handelt,
+        nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in
+        Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99
+        und den §§ 100, 100a Absatz 4,
 
 
     b)  Betreiben krimineller Handelsplattformen im Internet in den Fällen des
@@ -3734,7 +3738,7 @@ schwere Straftaten im Sinne des Satzes 1 sind:
         Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren
         Sicherheit nach den §§ 81, 82, 89a, nach den §§ 94, 95 Absatz 3 und §
         96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§
-        97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den §§ 100, 100a Absatz 4,
+        97a, 98 Absatz 1 Satz 2, § 99 Absatz 1 und den §§ 100, 100a Absatz 4,
 
 
     b)  besonders schwerer Fall des Landfriedensbruchs nach § 125a sowie
@@ -4640,7 +4644,7 @@ Beschlagnahme bestimmter Gegenstände und nur dann zulässig, wenn
 Tatsachen vorliegen, aus denen zu schließen ist, daß die gesuchte
 Person, Spur oder Sache sich in den zu durchsuchenden Räumen befindet.
 Zum Zwecke der Ergreifung eines Beschuldigten, der dringend verdächtig
-ist, eine Straftat nach § 89a oder § 89c Absatz 1 bis 4 des
+ist, eine Straftat nach § 89a oder § 89c Absatz 1 bis 4 und 8 des
 Strafgesetzbuchs oder nach § 129a, auch in Verbindung mit § 129b Abs.
 1, des Strafgesetzbuches oder eine der in dieser Vorschrift
 bezeichneten Straftaten begangen zu haben, ist eine Durchsuchung von
@@ -4899,17 +4903,17 @@ Einsatz fortbestehen.
 #### § 111 Errichtung von Kontrollstellen an öffentlich zugänglichen Orten
 
 (1) Begründen bestimmte Tatsachen den Verdacht, daß eine Straftat nach
-§ 89a oder § 89c Absatz 1 bis 4 des Strafgesetzbuchs oder nach § 129a,
-auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches, eine der
-in dieser Vorschrift bezeichneten Straftaten oder eine Straftat nach §
-250 Abs. 1 Nr. 1 des Strafgesetzbuches begangen worden ist, so können
-auf öffentlichen Straßen und Plätzen und an anderen öffentlich
-zugänglichen Orten Kontrollstellen eingerichtet werden, wenn Tatsachen
-die Annahme rechtfertigen, daß diese Maßnahme zur Ergreifung des
-Täters oder zur Sicherstellung von Beweismitteln führen kann, die der
-Aufklärung der Straftat dienen können. An einer Kontrollstelle ist
-jedermann verpflichtet, seine Identität feststellen und sich sowie
-mitgeführte Sachen durchsuchen zu lassen.
+§ 89a oder § 89c Absatz 1 bis 4 und 8 des Strafgesetzbuchs oder nach §
+129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches,
+eine der in dieser Vorschrift bezeichneten Straftaten oder eine
+Straftat nach § 250 Abs. 1 Nr. 1 des Strafgesetzbuches begangen worden
+ist, so können auf öffentlichen Straßen und Plätzen und an anderen
+öffentlich zugänglichen Orten Kontrollstellen eingerichtet werden,
+wenn Tatsachen die Annahme rechtfertigen, daß diese Maßnahme zur
+Ergreifung des Täters oder zur Sicherstellung von Beweismitteln führen
+kann, die der Aufklärung der Straftat dienen können. An einer
+Kontrollstelle ist jedermann verpflichtet, seine Identität feststellen
+und sich sowie mitgeführte Sachen durchsuchen zu lassen.
 
 (2) Die Anordnung, eine Kontrollstelle einzurichten, trifft der
 Richter; die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152
@@ -5400,19 +5404,21 @@ verdächtig ist,
 
 
 2.  wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend
-    beeinträchtigende Straftat nach den §§ 89a, 89c Absatz 1 bis 4, nach §
-    125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260,
-    nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches
-    oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1,
-    § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach einer
-    in § 34 Absatz 3 Satz 2 Nummer 1, 3 oder Nummer 4 des
-    Konsumcannabisgesetzes in Bezug genommenen Vorschrift unter den dort
-    genannten Voraussetzungen oder nach § 34 Absatz 4 des
-    Konsumcannabisgesetzes oder nach einer in § 25 Absatz 4 Satz 2 Nummer
-    1, 3 oder Nummer 4 des Medizinal-Cannabisgesetzes in Bezug genommenen
-    Vorschrift unter den dort genannten Voraussetzungen oder nach § 25
-    Absatz 5 des Medizinal-Cannabisgesetzes oder nach § 4 Absatz 3 Nummer
-    1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
+    beeinträchtigende Straftat nach § 89a Absatz 1 bis 7, § 89c Absatz 1
+    sowie Absatz 3 und 4, wenn es sich um eine Tat nach Absatz 1 handelt,
+    nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis
+    255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des
+    Strafgesetzbuches oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder
+    Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des
+    Betäubungsmittelgesetzes oder nach einer in § 34 Absatz 3 Satz 2
+    Nummer 1, 3 oder Nummer 4 des Konsumcannabisgesetzes in Bezug
+    genommenen Vorschrift unter den dort genannten Voraussetzungen oder
+    nach § 34 Absatz 4 des Konsumcannabisgesetzes oder nach einer in § 25
+    Absatz 4 Satz 2 Nummer 1, 3 oder Nummer 4 des Medizinal-
+    Cannabisgesetzes in Bezug genommenen Vorschrift unter den dort
+    genannten Voraussetzungen oder nach § 25 Absatz 5 des Medizinal-
+    Cannabisgesetzes oder nach § 4 Absatz 3 Nummer 1 Buchstabe a des Neue-
+    psychoaktive-Stoffe-Gesetzes
 
 
 
@@ -14049,8 +14055,8 @@ Zustandes stehen im Sinne der §§ 421 bis 436 der Einziehung gleich.
 einzelne Vermögensgegenstände eines Beschuldigten, gegen den wegen
 einer Straftat nach
 
-1.  den §§ 81 bis 83 Abs. 1, § 89a oder § 89c Absatz 1 bis 4, den §§ 94
-    oder 96 Abs. 1, den §§ 97a oder 100, den §§ 129 oder 129a, auch in
+1.  den §§ 81 bis 83 Abs. 1, § 89a oder § 89c Absatz 1 bis 4 und 8, den §§
+    94 oder 96 Abs. 1, den §§ 97a oder 100, den §§ 129 oder 129a, auch in
     Verbindung mit § 129b Abs. 1, des Strafgesetzbuches,
 
 
