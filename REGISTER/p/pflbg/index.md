@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 28.10.2025 I Nr. 259
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F799294_01_BJNR258110017]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
     Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
