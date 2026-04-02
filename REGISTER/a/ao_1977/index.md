@@ -11410,7 +11410,7 @@ von Auslagen verlangen.
     Waren,
 
 
-6.  Verwahrung von Nichtgemeinschaftswaren,
+6.  Verwahrung von Nicht-Unionswaren,
 
 
 7.  Fertigung von Schriftstücken, elektronischen Dokumenten, Abschriften
@@ -12707,9 +12707,9 @@ durch Verfügungsverbot sicherstellen:
 
 
 2.  Waren, die im grenznahen Raum oder in Gebieten, die der Grenzaufsicht
-    unterliegen, aufgefunden werden, wenn sie weder offenbar
-    Gemeinschaftswaren noch den Umständen nach in den zollrechtlich freien
-    Verkehr überführt worden sind,
+    unterliegen, aufgefunden werden, wenn sie weder offenbar Unionswaren
+    noch den Umständen nach in den zollrechtlich freien Verkehr überführt
+    worden sind,
 
 
 3.  die Umschließungen der in den Nummern 1 und 2 genannten Waren,
@@ -16411,11 +16411,10 @@ ist.
 
 #### § 373 Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel
 
-(1) Wer gewerbsmäßig Einfuhr- oder Ausfuhrabgaben hinterzieht oder
-gewerbsmäßig durch Zuwiderhandlungen gegen Monopolvorschriften
-Bannbruch begeht, wird mit Freiheitsstrafe von sechs Monaten bis zu
-zehn Jahren bestraft. In minder schweren Fällen ist die Strafe
-Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
+(1) Wer gewerbsmäßig Einfuhr- oder Ausfuhrabgaben hinterzieht, wird
+mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. In
+minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf
+Jahren oder Geldstrafe.
 
 (2) Ebenso wird bestraft, wer
 
