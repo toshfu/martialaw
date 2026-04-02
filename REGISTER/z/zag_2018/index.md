@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 43 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 17 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitett
+
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -960,7 +963,13 @@ juristischen Personen und Personenhandelsgesellschaften auch die in §
 1 Satz 3 gilt entsprechend.
 
 (3) Der Abwickler ist zum Antrag auf Eröffnung eines
-Insolvenzverfahrens über das Vermögen des Unternehmens berechtigt.
+Insolvenzverfahrens über das Vermögen des Unternehmens berechtigt. Die
+vorangehende Tätigkeit als Abwickler und die Stellung des
+Insolvenzantrags durch den Abwickler stellen keine die Unabhängigkeit
+des Insolvenzverwalters ausschließende Vorbefassung dar. Soll der
+Abwickler nicht als Insolvenzverwalter bestellt werden, hat das
+zuständige Insolvenzgericht der Bundesanstalt Gelegenheit zur
+Stellungnahme zu geben.
 
 (4) Der Abwickler erhält von der Bundesanstalt eine angemessene
 Vergütung und Ersatz seiner Auslagen entsprechend den Regeln über die
@@ -1600,9 +1609,10 @@ Führung des Instituts zu stellen sind. § 2c des Kreditwesengesetzes
 ist entsprechend anzuwenden.
 
 (2) Die Auskunfts-, Vorlegungs- und Prüfungsrechte der Bundesanstalt
-und der Deutschen Bundesbank nach § 19 Absatz 1 gelten entsprechend §
-44b des Kreditwesengesetzes gegenüber den Inhabern bedeutender
-Beteiligungen, den Mitgliedern ihrer Organe und ihren Beschäftigten.
+und der Deutschen Bundesbank nach § 19 Absatz 1, 5 und 6 gelten
+entsprechend § 44b des Kreditwesengesetzes gegenüber den Inhabern
+bedeutender Beteiligungen, den Mitgliedern ihrer Organe und ihren
+Beschäftigten.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
@@ -1856,14 +1866,17 @@ entsprechend.
 
 ### § 19 Auskünfte und Prüfungen
 
-(1) Ein Institut, die Mitglieder seiner Organe sowie seine
-Beschäftigten und die für das Institut tätigen Agenten sowie E-Geld-
-Agenten, seine Zweigniederlassungen und Auslagerungsunternehmen sowie
-zentrale Kontaktpersonen haben der Bundesanstalt, den Personen und
-Einrichtungen, derer sich die Bundesanstalt bei der Durchführung ihrer
-Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen
-Auskünfte über alle Geschäftsangelegenheiten zu erteilen, Unterlagen
-vorzulegen und erforderlichenfalls Kopien anzufertigen. Die
+(1) Ein Institut oder ein übergeordnetes Unternehmen und die für das
+Institut tätigen Agenten sowie E-Geld-Agenten, seine
+Zweigniederlassungen und Auslagerungsunternehmen sowie zentrale
+Kontaktpersonen sowie all deren Mitglieder eines Organs und
+Beschäftigte haben der Bundesanstalt, den Personen und Einrichtungen,
+derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben
+bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte über
+alle Geschäftsangelegenheiten zu erteilen, Unterlagen vorzulegen und
+erforderlichenfalls Kopien anzufertigen; Mitglieder eines Organs und
+Beschäftigte haben auf Verlangen auch nach ihrem Ausscheiden aus dem
+Organ, dem Institut oder dem Unternehmen Auskunft zu erteilen. Die
 Bundesanstalt oder die Deutsche Bundesbank können bei Auskunfts- und
 Vorlageersuchen nach dieser Vorschrift eine elektronische Einreichung
 verlangen und nähere Bestimmungen über die Art und Weise der
@@ -1873,11 +1886,17 @@ E-Geld-Agenten und Auslagerungsunternehmen Prüfungen vornehmen und die
 Durchführung der Prüfungen der Deutschen Bundesbank übertragen. Die
 Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die
 sonstigen Personen, derer sich die Bundesanstalt bei der Durchführung
-der Prüfungen bedient, können hierzu die Geschäftsräume des Instituts,
-der Zweigniederlassung, des Agenten sowie E-Geld-Agenten oder des
+der Prüfungen bedient, können hierzu die Räume des Instituts, der
+Zweigniederlassung, des Agenten sowie E-Geld-Agenten oder des
 Auslagerungsunternehmens innerhalb der üblichen Betriebs- und
-Geschäftszeiten betreten und besichtigen. Die Betroffenen haben
-Maßnahmen nach den Sätzen 3 und 4 zu dulden.
+Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender
+Gefahren für die öffentliche Sicherheit sind sie befugt, diese Räume
+auch außerhalb der üblichen Betriebs- und Geschäftszeiten zu betreten
+und zu besichtigen sowie auch Räume, die auch als Wohnung dienen, zu
+betreten und zu besichtigen; das Grundrecht auf Unverletzlichkeit der
+Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit
+eingeschränkt. Die Betroffenen haben Maßnahmen nach den Sätzen 3 bis 5
+zu dulden.
 
 (2) Die Bundesanstalt und die Deutsche Bundesbank können zu den
 Hauptversammlungen, Generalversammlungen oder
@@ -1900,6 +1919,50 @@ Fragen verweigern, deren Beantwortung ihn selbst oder einen der in §
 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+
+(5) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen die Räume der nach Absatz 1 Satz 1 auskunfts- und
+vorlegungspflichtigen Unternehmen sowie von deren Organmitgliedern
+auch nach ihrem Ausscheiden durchsuchen, wenn Tatsachen die Annahme
+rechtfertigen, dass das Unternehmen oder das Organmitglied entgegen
+einer Bestimmung dieses Gesetzes oder einer vollziehbaren
+Einzelfallregelung auf Grundlage dieses Gesetzes die Aufklärung eines
+für die Aufsicht nach Maßgabe dieses Gesetzes entscheidungsrelevanten
+Sachverhalts beeinträchtigt, gefährdet oder verzögert, dadurch dass
+sie oder es
+
+1.  Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    macht oder
+
+
+2.  Unterlagen nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vorlegt.
+
+
+
+Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter
+anzuordnen. Bei Gefahr im Verzug kann die Einsatzleitung der
+Bundesanstalt die Anordnung treffen, soweit nicht lediglich mit einer
+nur unerheblichen Verzögerung zu rechnen ist. Durchsuchungen von
+Räumen, die als Wohnung dienen, sind immer durch den Richter
+anzuordnen. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel
+13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Zuständig
+ist das Amtsgericht, in dessen Bezirk sich die Räume befinden. Gegen
+die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306
+bis 310 und 311a der Strafprozessordnung gelten entsprechend. Über die
+Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die
+verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und
+ihr Ergebnis und, falls keine richterliche Anordnung ergangen ist,
+auch die Tatsachen, welche die Annahme einer Gefahr im Verzug
+begründet haben, enthalten. Die Betroffenen haben Maßnahmen nach Satz
+1 zu dulden.
+
+(6) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen Gegenstände sicherstellen, die als Beweismittel für die
+Ermittlung des Sachverhalts von Bedeutung sein können. Werden
+Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so
+werden diese an den letzten Gewahrsamsinhaber herausgegeben. Die
+Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
 
 
 ### § 20 Abberufung von Geschäftsleitern und Mitgliedern des Verwaltungs- und Aufsichtsorgans, Übertragung von Organbefugnissen auf Sonderbeauftragte
@@ -3151,17 +3214,17 @@ oder, falls bereits eine Eintragung erfolgt ist, löschen kann.
 
 (3) Auf Institute im Sinne des Absatzes 1 Satz 1 sind § 17 des
 Finanzdienstleistungsaufsichtsgesetzes sowie die §§ 3, 7 bis 9 und 19
-Absatz 1 und 4 anzuwenden. Auf Institute, die eine Zweigniederlassung
-errichten oder Agenten heranziehen, sind zusätzlich § 27 Absatz 1 Satz
-2 Nummer 5, Absatz 2 bis 4, § 28 Absatz 1 Nummer 1, 2, 6 und 7 sowie
-die §§ 60 bis 62 mit der Maßgabe anzuwenden, dass eine oder mehrere
-Zweigniederlassungen desselben Unternehmens im Inland als eine
-Zweigniederlassung gelten. Änderungen des Geschäftsplans, insbesondere
-der Art der geplanten Geschäfte und des organisatorischen Aufbaus der
-Zweigniederlassung, der Anschrift und der Leiter sind der
-Bundesanstalt und der Deutschen Bundesbank mindestens einen Monat vor
-dem Wirksamwerden der Änderungen schriftlich oder elektronisch
-anzuzeigen.
+Absatz 1 und 4 bis 6 anzuwenden. Auf Institute, die eine
+Zweigniederlassung errichten oder Agenten heranziehen, sind zusätzlich
+§ 27 Absatz 1 Satz 2 Nummer 5, Absatz 2 bis 4, § 28 Absatz 1 Nummer 1,
+2, 6 und 7 sowie die §§ 60 bis 62 mit der Maßgabe anzuwenden, dass
+eine oder mehrere Zweigniederlassungen desselben Unternehmens im
+Inland als eine Zweigniederlassung gelten. Änderungen des
+Geschäftsplans, insbesondere der Art der geplanten Geschäfte und des
+organisatorischen Aufbaus der Zweigniederlassung, der Anschrift und
+der Leiter sind der Bundesanstalt und der Deutschen Bundesbank
+mindestens einen Monat vor dem Wirksamwerden der Änderungen
+schriftlich oder elektronisch anzuzeigen.
 
 (4) Für Agenten, E-Geld-Agenten und zentrale Kontaktpersonen gilt
 Absatz 3 Satz 1 entsprechend.
@@ -4251,7 +4314,8 @@ Absatz 1 Satz 2 Nummer 1, auch in Verbindung mit Satz 4, oder nach §
 
 
 2.  entgegen § 8 Absatz 5 Satz 1, auch in Verbindung mit Absatz 6, oder §
-    19 Absatz 1 Satz 5 eine Maßnahme nicht duldet,
+    19 Absatz 1 Satz 6, Absatz 5 Satz 10 oder Absatz 6 Satz 3 eine
+    Maßnahme nicht duldet,
 
 
 3.  einer vollziehbaren Auflage nach § 10 Absatz 4 Satz 1 oder § 11 Absatz
