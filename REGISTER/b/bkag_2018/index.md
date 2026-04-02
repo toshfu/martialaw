@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 Abs. 2 G v. 20.3.2026 I Nr. 95 ist berücksichtigt
+
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
@@ -327,8 +330,9 @@ Gebiet der Strafverfolgung wahr
 
 6.  in den Fällen von
 
-    a)  Straftaten nach den §§ 81, 83 Absatz 1, §§ 87, 88 und 94 bis 100a des
-        Strafgesetzbuchs und nach § 13 des Völkerstrafgesetzbuchs sowie
+    a)  Straftaten nach den §§ 81, 83 Absatz 1, den §§ 87, 87a, 88 und 94 bis
+        100a des Strafgesetzbuchs und nach § 13 des Völkerstrafgesetzbuchs
+        sowie
 
 
     b)  Straftaten nach den §§ 211, 212, 234 bis 234b, 239, 239a, 239b des
