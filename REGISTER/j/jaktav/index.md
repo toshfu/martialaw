@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4834
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.11.2023 I Nr. 335
+:   Art. 3 G v. 29.3.2026 I Nr. 83
 
 
 ## Eingangsformel
@@ -784,9 +784,9 @@ Staatsanwaltschaften der Länder
         festgestellt worden ist oder der Mann vor diesem Zeitpunkt in einer
         öffentlichen Urkunde seine Vaterschaft anerkannt oder in einem
         vollstreckbaren Schuldtitel sich zur Erfüllung der Ansprüche
-        verpflichtet hat, Anfechtungen der Vaterschaft nach § 1600 Abs. 1 BGB
-        und Artikel 12 § 3 Abs. 2 des Gesetzes über die rechtliche Stellung
-        der nichtehelichen Kinder
+        verpflichtet hat, Anfechtungen der Vaterschaft nach § 1600 Absatz 1
+        Satz 1 BGB und Artikel 12 § 3 Absatz 2 des Gesetzes über die
+        rechtliche Stellung der nichtehelichen Kinder
 
     *   70 Jahre
 
