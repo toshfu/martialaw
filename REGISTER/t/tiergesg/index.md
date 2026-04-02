@@ -24,6 +24,7 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Stand: Neufassung gem. Bekanntmachung v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeines
 
