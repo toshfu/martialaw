@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 45 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 18 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 27a G v. 25.3.2026 I Nr. 81 mWv 30.12.2026 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
@@ -27,8 +33,9 @@ Zuletzt geändert durch
 
 #### § 1 Anwendungsbereich
 
-Dieses Gesetz ist auf Wertpapierinstitute mit Sitz oder Tätigkeit im
-Inland anzuwenden.
+Dieses Gesetz ist auf Wertpapierinstitute und
+Datenbereitstellungsdienste mit Sitz oder Tätigkeit im Inland
+anzuwenden.
 
 
 #### § 2 Begriffsbestimmungen
@@ -696,6 +703,10 @@ Weiterverlagerung von Aktivitäten und Prozessen, die für die
 Durchführung von Wertpapierdienstleistungen,
 Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
 
+(39) Datenbereitstellungsdienste im Sinne dieses Gesetzes sind
+Datenbereitstellungsdienste im Sinne von § 2 Absatz 40 des
+Wertpapierhandelsgesetzes.
+
 
 #### § 2a Unzuverlässigkeit von sanktionierten Personen
 
@@ -1113,21 +1124,28 @@ Bundesanstalt, den Personen und Einrichtungen, derer sich die
 Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der
 Deutschen Bundesbank auf Verlangen Auskünfte über alle
 Geschäftsangelegenheiten zu erteilen, Unterlagen vorzulegen und
-erforderlichenfalls Kopien anzufertigen und auszuhändigen. Die
-Bundesanstalt kann, auch ohne besonderen Anlass, bei einem
-Wertpapierinstitut, Mutterunternehmen oder Auslagerungsunternehmen
-Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen
-Bundesbank übertragen. Die Bediensteten der Bundesanstalt, der
-Deutschen Bundesbank sowie die sonstigen Personen, derer sich die
-Bundesanstalt oder die Deutsche Bundesbank bei der Durchführung der
-Prüfungen bedient, können hierzu die Geschäftsräume des
-Wertpapierinstituts, Mutterunternehmens oder Auslagerungsunternehmens
-innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und
-besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3
-zu dulden. Die Sätze 1 bis 4 gelten entsprechend für ein nicht in die
-Konsolidierung einbezogenes Tochterunternehmen, dessen
-Tochterunternehmen sowie für ein gemischtes Unternehmen und dessen
-Tochterunternehmen.
+erforderlichenfalls Kopien anzufertigen und auszuhändigen; Mitglieder
+eines Organs und Beschäftigte haben auf Verlangen auch nach ihrem
+Ausscheiden aus dem Organ, dem Wertpapierinstitut oder dem Unternehmen
+Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt
+kann, auch ohne besonderen Anlass, bei einem Wertpapierinstitut,
+Mutterunternehmen oder Auslagerungsunternehmen Prüfungen vornehmen und
+die Durchführung der Prüfungen der Deutschen Bundesbank übertragen.
+Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die
+sonstigen Personen, derer sich die Bundesanstalt oder die Deutsche
+Bundesbank bei der Durchführung der Prüfungen bedient, können hierzu
+die Räume des Wertpapierinstituts, Mutterunternehmens oder
+Auslagerungsunternehmens innerhalb der üblichen Betriebs- und
+Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender
+Gefahren für die öffentliche Sicherheit sind sie befugt, diese Räume
+auch außerhalb der üblichen Betriebs- und Geschäftszeiten sowie Räume,
+die auch als Wohnung dienen, zu betreten und zu besichtigen; das
+Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des
+Grundgesetzes) wird insoweit eingeschränkt. Die Betroffenen haben
+Maßnahmen nach den Sätzen 2 bis 4 zu dulden. Die Sätze 1 bis 5 gelten
+entsprechend für ein nicht in die Konsolidierung einbezogenes
+Tochterunternehmen, dessen Tochterunternehmen sowie für ein gemischtes
+Unternehmen und dessen Tochterunternehmen.
 
 (5) Die Verpflichtung nach Absatz 4 gegenüber der Bundesanstalt und
 der Deutschen Bundesbank zur Auskunft und zur Vorlage von Unterlagen
@@ -1136,9 +1154,8 @@ gilt auch für
 1.  Personen und Unternehmen, die eine Beteiligungsabsicht nach § 24
     anzeigen oder die im Rahmen eines Erlaubnisantrags nach Artikel 3 der
     Delegierten Verordnung 2017/1943 der Kommission vom 14. Juli 2016 zur
-    Ergänzung der Richtlinie
-    2014/65/EU                    des Europäischen Parlaments und des
-    Rates durch technische Regulierungsstandards in Bezug auf
+    Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und
+    des Rates durch technische Regulierungsstandards in Bezug auf
     Informationen und Anforderungen für die Zulassung von Wertpapierfirmen
     (ABl. L 276 vom 26.10.2017, S. 4; L 292 vom 10.11.2017, S. 119) als
     Inhaber bedeutender Beteiligungen angegeben werden,
@@ -1155,7 +1172,12 @@ gilt auch für
 
 4.  Personen und Unternehmen, die mit einer Person oder einem Unternehmen
     im Sinne der Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden
-    sind.
+    sind. Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch
+    für Beschäftigte oder Mitglieder eines Organs einer solchen Person
+    oder eines solchen Unternehmens. Mitglieder eines Organs und
+    Beschäftigte haben auf Verlangen auch nach ihrem Ausscheiden aus dem
+    Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen
+    vorzulegen.
 
 
 
@@ -1183,6 +1205,50 @@ Investmentholdinggesellschaften in der Rechtsform einer juristischen
 Person Vertreter entsenden. Diese können in der Versammlung oder
 Sitzung das Wort ergreifen. Die Betroffenen haben Handlungen nach den
 Sätzen 1 und 2 zu dulden.
+
+(8) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen die Räume der nach der nach Absatz 4 Satz 1 auskunfts- und
+vorlegungspflichtigen Unternehmen sowie von deren Organmitgliedern
+auch nach ihrem Ausscheiden durchsuchen, wenn Tatsachen die Annahme
+rechtfertigen, dass das Unternehmen oder das Organmitglied entgegen
+einer Bestimmung dieses Gesetzes oder einer vollziehbaren
+Einzelfallregelung auf Grundlage dieses Gesetzes die Aufklärung eines
+für die Aufsicht nach Maßgabe dieses Gesetzes entscheidungsrelevanten
+Sachverhalts beeinträchtigt, gefährdet oder verzögert, dadurch dass
+sie oder es
+
+1.  Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    macht oder
+
+
+2.  Unterlagen nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vorlegt.
+
+
+
+Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter
+anzuordnen. Bei Gefahr im Verzug kann die Einsatzleitung der
+Bundesanstalt die Anordnung treffen, soweit nicht lediglich mit einer
+nur unerheblichen Verzögerung zu rechnen ist. Durchsuchungen von
+Räumen, die als Wohnung dienen, sind immer durch den Richter
+anzuordnen. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel
+13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Zuständig
+ist das Amtsgericht, in dessen Bezirk sich die Räume befinden. Gegen
+die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306
+bis 310 und 311a der Strafprozessordnung gelten entsprechend. Über die
+Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die
+verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und
+ihr Ergebnis und, falls keine richterliche Anordnung ergangen ist,
+auch die Tatsachen, welche die Annahme einer Gefahr im Verzug
+begründet haben, enthalten. Die Betroffenen haben Maßnahmen nach Satz
+1 zu dulden.
+
+(9) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen Gegenstände sicherstellen, die als Beweismittel für die
+Ermittlung des Sachverhalts von Bedeutung sein können. Werden die
+Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so
+werden diese an den letzten Gewahrsamsinhaber herausgegeben. Die
+Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
 
 
 #### § 5a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
@@ -1229,15 +1295,16 @@ Bundesbank übertragen.
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
-Grundlage des § 5 Absatz 2 bis 7, des § 5a, des § 7 Absatz 1 Satz 2
-und Absatz 3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2 Nummer 2,
-3 und Absatz 3, des § 19 Absatz 2, des § 20 Absatz 6, der §§ 22, 23,
-25 und 26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3 Satz 2,
-Absatz 4 und 5 Satz 2, § 39 Absatz 3, des § 40 Absatz 3, des § 43
-Absatz 3 Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54, 56 Absatz
-2, der §§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 77
-Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2, des § 80 Absatz 1
-und 2 sowie des § 81 Absatz 2 haben keine aufschiebende Wirkung.
+Grundlage des § 5 Absatz 2 bis 7 und 9, des § 5a, des § 7 Absatz 1
+Satz 2 und Absatz 3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2
+Nummer 2, 3 und Absatz 3, des § 19 Absatz 2, des § 20 Absatz 6, der §§
+22, 23, 25 und 26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3
+Satz 2, Absatz 4 und 5 Satz 2, des § 39 Absatz 3, des § 40 Absatz 3,
+des § 43 Absatz 3 Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54,
+56 Absatz 2, der §§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des
+§ 77 Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2, des § 80
+Absatz 1 und 2 sowie des § 81 Absatz 2 haben keine aufschiebende
+Wirkung.
 
 
 #### § 7 Grenzüberschreitende Auskünfte und Prüfungen
@@ -4820,18 +4887,50 @@ Deutschen Bundesbank jährlich anzuzeigen:
 
 2.  die Informationen, die für einen Vergleich der Vergütungstrends und
     -praktiken im Sinne des Artikels 75 Absatz 1 und 2 der Richtlinie
-    2013/36/EU erforderlich sind; der Vergleich umfasst auch die
-    Vergütungstrends und -praktiken in Bezug auf die Mitglieder des
-    Verwaltungs- oder Aufsichtsorgans sowie die von dem Wertpapierinstitut
-    übermittelten Informationen zum geschlechtsspezifischen Lohn- und
-    Gehaltsgefälle und
+    2013/36/EU in der Fassung vom 27. November 2024 erforderlich sind; der
+    Vergleich umfasst auch die Vergütungstrends und -praktiken in Bezug
+    auf die Mitglieder des Verwaltungs- oder Aufsichtsorgans; die Vorgaben
+    der Anzeigenverordnung betreffend die Anzeigen nach § 24 Absatz 1a
+    Nummer 5 des Kreditwesengesetzes sind entsprechend anwendbar, und
 
 
 3.  die Informationen über Geschäftsleiter, Mitglieder des Verwaltungs-
     oder Aufsichtsorgans und Mitarbeiter mit jeweils einer Gesamtvergütung
     von jährlich mindestens 1 Million Euro im Sinne des Artikels 75 Absatz
-    3 der Richtlinie 2013/36/EU, die für eine aggregierte Veröffentlichung
-    durch die Europäische Bankenaufsichtsbehörde erforderlich sind.
+    3 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024, die
+    für eine aggregierte Veröffentlichung durch die Europäische
+    Bankenaufsichtsbehörde erforderlich sind; die Vorgaben der
+    Anzeigenverordnung betreffend die Anzeigen nach § 24 Absatz 1a Nummer
+    6 des Kreditwesengesetzes sind entsprechend anwendbar.
+
+
+
+(3) Ein Großes Wertpapierinstitut, das über einen Beschluss über die
+Billigung einer höheren variablen Vergütung nach § 25a Absatz 5 Satz 5
+des Kreditwesengesetzes verfügt, hat der Bundesanstalt und der
+Deutschen Bundesbank zweijährlich die Informationen anzuzeigen, die
+für die Zwecke des Artikels 94 Absatz 1 Buchstabe g Unterabsatz 2
+Spiegelstrich 5 der Richtlinie 2013/36/EU in der Fassung vom 27.
+November 2024 erforderlich sind. Die Vorgaben der Anzeigenverordnung
+betreffend die Anzeigen nach § 24 Absatz 1c des Kreditwesengesetzes
+sind entsprechend anwendbar.
+
+(4) Ein Großes Wertpapierinstitut hat der Bundesanstalt und der
+Deutschen Bundesbank dreijährlich anzuzeigen:
+
+1.  die Informationen zum geschlechtsspezifischen Lohngefälle, die für die
+    Zwecke des Artikels 75 Absatz 1 der Richtlinie 2013/36/EU in der
+    Fassung vom 27. November 2024 erforderlich sind; die Vorgaben der
+    Anzeigenverordnung betreffend die Anzeigen nach § 24 Absatz 1d des
+    Kreditwesengesetzes sind entsprechend anwendbar, und
+
+
+2.  die für einen Vergleich der Diversität in den Instituten nach Artikel
+    91 Absatz 9 in Verbindung mit Artikel 75 Absatz 1 der Richtlinie
+    2013/36/EU in der Fassung vom 27. November 2024 erforderlichen
+    Informationen; die Vorgaben der Anzeigenverordnung betreffend die
+    Anzeigen nach § 24 Absatz 1e des Kreditwesengesetzes sind entsprechend
+    anwendbar.
 
 
 
@@ -4859,8 +4958,47 @@ Angaben verzichten. Die Bundesanstalt kann im Einzelfall die Frist zur
 Einreichung von einzelnen Informationen oder der Informationen
 insgesamt verkürzen.
 
-(3) § 65 Absatz 2 Nummer 2 und 3 findet auf Mittlere
-Wertpapierinstitute entsprechende Anwendung.
+(3) Ein Mittleres Wertpapierinstitut hat der Bundesanstalt und der
+Deutschen Bundesbank jährlich anzuzeigen:
+
+1.  die Informationen, die für einen Vergleich der Vergütungstrends und
+    -praktiken im Sinne des Artikels 34 Absatz 1 der Richtlinie (EU)
+    2019/2034 in der Fassung vom 27. November 2024 erforderlich sind, wenn
+    seine bilanziellen und außerbilanziellen Vermögenswerte, gemessen am
+    Durchschnitt der letzten vier vorangegangenen Geschäftsjahre, mehr als
+    300 Millionen Euro betragen oder es von der Bundesanstalt oder der
+    Deutschen Bundesbank dazu aufgefordert wird; der Vergleich umfasst
+    auch die Vergütungstrends und -praktiken in Bezug auf die Mitglieder
+    des Verwaltungs- oder Aufsichtsorgans, und
+
+
+2.  die Informationen über Geschäftsleiter, Mitglieder des Verwaltungs-
+    oder Aufsichtsorgans und Mitarbeiter mit jeweils einer Gesamtvergütung
+    von jährlich mindestens 1 Million Euro im Sinne des Artikels 34 Absatz
+    4 der Richtlinie (EU) 2019/2034 in der Fassung vom 27. November 2024,
+    die für eine aggregierte Veröffentlichung durch die Europäische
+    Bankenaufsichtsbehörde erforderlich sind.
+
+
+
+(4) Ein Mittleres Wertpapierinstitut, dessen bilanzielle und
+außerbilanzielle Vermögenswerte, gemessen am Durchschnitt der letzten
+vier vorangegangenen Geschäftsjahre, mehr als 300 Millionen Euro
+betragen oder das von der Bundesanstalt oder der Deutschen Bundesbank
+dazu aufgefordert wird, hat der Bundesanstalt und der Deutschen
+Bundesbank dreijährlich anzuzeigen:
+
+1.  die Informationen zum geschlechtsspezifischen Lohngefälle, die für die
+    Zwecke des Artikels 34 Absatz 1 der Richtlinie (EU) 2019/2034 in der
+    Fassung vom 27. November 2024 erforderlich sind, und
+
+
+2.  die Informationen zum Vergleich der Diversität in den Instituten, die
+    für die Zwecke des Artikels 26 der Richtlinie (EU) 2019/2034 in der
+    Fassung vom 27. November 2024 erforderlich sind.
+
+
+
 
 
 #### § 67 Anzeigepflichten von Geschäftsleitern, Investmentholdinggesellschaften sowie gemischten Finanzholdinggesellschaften
@@ -5247,8 +5385,8 @@ Anzeigepflicht nach § 3 Absatz 2 Satz 1 bleibt hiervon unberührt.
 Zweigniederlassungen oder vertraglich gebundenen Vermittler
 anzuwenden:
 
-1.  § 5 Absatz 1 Satz 2, Absatz 4 und 6, die §§ 6 und 7 Absatz 1 und 2
-    sowie die §§ 11, 14, 31, 32 und 33 Absatz 1 und 2, soweit es sich um
+1.  § 5 Absatz 1 Satz 2, Absatz 4, 6, 8 und 9, die §§ 6 und 7 Absatz 1 und
+    2 sowie die §§ 11, 14, 31, 32 und 33 Absatz 1 und 2, soweit es sich um
     Anforderungen zur Verhinderung von Geldwäsche und
     Terrorismusfinanzierung handelt, § 33 Absatz 3 und 4, die §§ 34 bis 37
     sowie 66 Absatz 1,
@@ -5628,6 +5766,65 @@ elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von
 der Bundesanstalt zu bestimmen.
 
 
+## Kapitel 7b - Zulassung von Datenbereitstellungsdiensten
+
+
+### § 78d Zulassungsverfahren; Ausnahmen
+
+(1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in
+kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, als
+Datenbereitstellungsdienst tätig werden will, bedarf nach Artikel 27b
+Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 600/2014 der
+schriftlichen oder elektronischen Zulassung durch die Bundesanstalt;
+die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes
+anzuwenden.
+
+(2) Der erforderliche Inhalt des Zulassungsantrags, dessen Form und
+das Zulassungsverfahren bestimmen sich nach den Artikeln 27c und 27d
+der Verordnung (EU) Nr. 600/2014, nach der Delegierten Verordnung (EU)
+2017/571 sowie nach der Durchführungsverordnung (EU) 2017/1110.
+
+(3) Die Bundesanstalt kann die Zulassung unter Auflagen erteilen, die
+sich im Rahmen des mit diesem Gesetz oder mit der Verordnung (EU) Nr.
+600/2014 verfolgten Zwecks halten müssen.
+
+(4) Ausnahmen von der Zulassungspflicht als Datenbereitstellungsdienst
+ergeben sich aus Artikel 27b Absatz 2 und Artikel 27c Absatz 4 der
+Verordnung (EU) Nr. 600/2014.
+
+
+### § 78e Versagung der Zulassung; Entzug der Zulassung
+
+(1) Die Zulassung als Datenbereitstellungsdienst ist zu versagen, wenn
+
+1.  Tatsachen vorliegen, aus denen sich ergibt, dass ein Geschäftsleiter
+    nicht den Anforderungen nach Artikel 27f Absatz 1 der Verordnung (EU)
+    Nr. 600/2014, auch in Verbindung mit der Delegierten Verordnung (EU)
+    2017/571, genügt, oder
+
+
+2.  das Unternehmen nicht bereit oder in der Lage ist, die nach Titel IV
+    der Verordnung (EU) Nr. 600/2014, auch in Verbindung mit den dazu
+    erlassenen Rechtsakten, erforderlichen personellen oder
+    organisatorischen Vorkehrungen zum ordnungsgemäßen Betreiben der
+    Dienstleistungen, für die es die Zulassung beantragt, zu schaffen.
+
+
+
+
+(2) Die Bundesanstalt kann die von ihr erteilte Zulassung außer nach
+den Vorschriften des Verwaltungsverfahrensgesetzes nach Artikel 27e
+Absatz 1 der Verordnung (EU) Nr. 600/2014 entziehen.
+
+
+### § 78f Unterrichtung der ESMA
+
+Die Bundesanstalt meldet der Europäischen Wertpapier- und
+Marktaufsichtsbehörde die Erteilung einer Zulassung nach Artikel 27c
+Absatz 1 sowie den Entzug einer Zulassung nach Artikel 27e Absatz 1
+der Verordnung (EU) Nr. 600/2014.
+
+
 ## Kapitel 8 - Maßnahmen bei Gefahr
 
 
@@ -5822,6 +6019,11 @@ eine Wertpapiernebendienstleistung oder ein Nebengeschäft erbringt,
 ein Finanzinstrument für eigene Rechnung anschafft oder veräußert, ein
 Eigengeschäft betreibt oder ein eigenes Finanzinstrument vertreibt.
 
+(1a) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 27b Absatz
+1 Unterabsatz 2 der Verordnung (EU) Nr. 600/2014 in der Fassung vom
+23\. Oktober 2024 eine Dienstleistung eines
+Datenbereitstellungsdienstes erbringt.
+
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu drei Jahren oder Geldstrafe.
 
@@ -5835,8 +6037,9 @@ bis zu drei Jahren oder Geldstrafe.
     nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
 
-2.  entgegen § 5 Absatz 4 Satz 4, auch in Verbindung mit Satz 5, eine
-    Maßnahme nicht duldet,
+2.  entgegen § 5 Absatz 4 Satz 5, auch in Verbindung mit Satz 6, oder
+    entgegen § 5 Absatz 5 Satz 6, Absatz 8 Satz 10 oder Absatz 9 Satz 3
+    eine Maßnahme nicht duldet,
 
 
 3.  entgegen § 20 Absatz 8 einen Geschäftsleiter bestellt,
