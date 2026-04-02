@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.2.2026 I Nr. 52
 
+Änderung durch
+:   Art. 27 Abs. 3 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -240,24 +243,24 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
     Absatz 1 Satz 2 und 4, des § 22 Satz 1 und 3, dieser auch in
     Verbindung mit § 14 Absatz 1 Satz 1, des § 24 Absatz 4 Satz 1, 2 und
     4, dieser auch in Verbindung mit § 2 Absatz 10 Satz 4 und 6, mit § 2c
-    Absatz 1 Satz 2 und 3, mit § 25e Satz 3 sowie mit § 32 Absatz 1 Satz 2
-    und 3, des § 25a Absatz 6 Satz 1 bis 3 und 5, des § 25f Absatz 4 Satz
-    1 und 3 sowie des § 53j Absatz 3 Satz 1 und 2 des Kreditwesengesetzes
-    jeweils im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung
-    der Spitzenverbände der Institute, Rechtsverordnungen nach Maßgabe des
-    § 51a Absatz 1 Satz 2 und 4 sowie des § 51b Absatz 2 Satz 1 und 3 des
+    Absatz 1 Satz 2 und 3, mit § 25e Absatz 4 Satz 3 sowie mit § 32 Absatz
+    1 Satz 2 und 3, des § 25a Absatz 6 Satz 1 bis 3 und 5, des § 25f
+    Absatz 4 Satz 1 und 3 sowie des § 53j Absatz 3 Satz 1 und 2 des
     Kreditwesengesetzes jeweils im Einvernehmen mit der Deutschen
-    Bundesbank und nach Anhörung des Spitzenverbands der
-    Wohnungsunternehmen mit Spareinrichtung, Rechtsverordnungen nach
-    Maßgabe des § 18a Absatz 11 Satz 1, des § 22d Absatz 1 Satz 2 und des
-    § 24c Absatz 7 Satz 1 des Kreditwesengesetzes, Rechtsverordnungen nach
-    Maßgabe des § 25 Absatz 3 Satz 1 und 2 des Kreditwesengesetzes im
-    Einvernehmen mit der Deutschen Bundesbank, Rechtsverordnungen nach
-    Maßgabe des § 29 Absatz 4 Satz 1 und 2 des Kreditwesengesetzes im
-    Einvernehmen mit dem Bundesministerium der Justiz und für
-    Verbraucherschutz und nach Anhörung der Deutschen Bundesbank und
-    Rechtsverordnungen nach Maßgabe des § 31 Absatz 1 Satz 1 des
-    Kreditwesengesetzes im Benehmen mit der Deutschen Bundesbank,
+    Bundesbank und nach Anhörung der Spitzenverbände der Institute,
+    Rechtsverordnungen nach Maßgabe des § 51a Absatz 1 Satz 2 und 4 sowie
+    des § 51b Absatz 2 Satz 1 und 3 des Kreditwesengesetzes jeweils im
+    Einvernehmen mit der Deutschen Bundesbank und nach Anhörung des
+    Spitzenverbands der Wohnungsunternehmen mit Spareinrichtung,
+    Rechtsverordnungen nach Maßgabe des § 18a Absatz 11 Satz 1, des § 22d
+    Absatz 1 Satz 2 und des § 24c Absatz 7 Satz 1 des Kreditwesengesetzes,
+    Rechtsverordnungen nach Maßgabe des § 25 Absatz 3 Satz 1 und 2 des
+    Kreditwesengesetzes im Einvernehmen mit der Deutschen Bundesbank,
+    Rechtsverordnungen nach Maßgabe des § 29 Absatz 4 Satz 1 und 2 des
+    Kreditwesengesetzes im Einvernehmen mit dem Bundesministerium der
+    Justiz und für Verbraucherschutz und nach Anhörung der Deutschen
+    Bundesbank und Rechtsverordnungen nach Maßgabe des § 31 Absatz 1 Satz
+    1 des Kreditwesengesetzes im Benehmen mit der Deutschen Bundesbank,
 
 
 6.  Rechtsverordnungen nach Maßgabe des § 16 Satz 2 des
