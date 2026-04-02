@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 11.3.2026 I Nr. 66 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 5 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
 Europäischen Parlaments und des Rates vom 26. Juni 2003 über
@@ -11476,16 +11479,18 @@ anzuwenden. Für die genehmigten Projekte gilt, sofern in einem
 zukünftigen Netzentwicklungsplan nicht etwas anderes festgestellt wird
 und sie bis 2030 in Betrieb genommen werden, dass sie
 energiewirtschaftlich notwendig und vordringlich sind sowie dass sie
-im überragenden öffentlichen Interesse liegen. Projekte, die nach Satz
-1 als Teil des Wasserstoff-Kernnetzes genehmigt wurden, gelten auch
-dann weiterhin als Teil des Wasserstoff-Kernnetzes, wenn eine
-Überprüfung und Bestätigung eines zukünftigen Netzentwicklungsplans
-eine planerische Inbetriebnahme abweichend von Absatz 4 Nummer 3 bis
-zum Ablauf des 31. Dezember 2037 vorsieht. Projekte, deren planerische
-Inbetriebnahme vor dem Ablauf des 31. Dezember 2027 erfolgen soll,
-werden im Netzentwicklungsplan nur überprüft, sofern mit ihrer
-Durchführung bis zum Ablauf des 31. Dezember 2025 noch nicht begonnen
-worden ist.
+im überragenden öffentlichen Interesse liegen und der öffentlichen
+Sicherheit dienen. Satz 5 ist nicht bei den jeweils durchzuführenden
+Schutzgüterabwägungen gegenüber Belangen der Landes- und
+Bündnisverteidigung anzuwenden. Projekte, die nach Satz 1 als Teil des
+Wasserstoff-Kernnetzes genehmigt wurden, gelten auch dann weiterhin
+als Teil des Wasserstoff-Kernnetzes, wenn eine Überprüfung und
+Bestätigung eines zukünftigen Netzentwicklungsplans eine planerische
+Inbetriebnahme abweichend von Absatz 4 Nummer 3 bis zum Ablauf des 31.
+Dezember 2037 vorsieht. Projekte, deren planerische Inbetriebnahme vor
+dem Ablauf des 31. Dezember 2027 erfolgen soll, werden im
+Netzentwicklungsplan nur überprüft, sofern mit ihrer Durchführung bis
+zum Ablauf des 31. Dezember 2025 noch nicht begonnen worden ist.
 
 
 #### § 28r Grundsätze der Finanzierung des Wasserstoff-Kernnetzes und der Entgeltbildung; Abweichungsbefugnis der Bundesnetzagentur und Kündigungsrecht; Festlegungskompetenz
@@ -12823,6 +12828,17 @@ deren Netz die Gasspeicheranlage angeschlossen ist, anzuhören. Die
 Versagung ist zu befristen. Nach Ablauf der Frist, spätestens jedoch
 nach 24 Monaten, kann der Betreiber einer Gasspeicheranlage einen
 erneuten Antrag stellen.
+
+(8) Die Umstellung einer Gasspeicheranlage auf eine
+Wasserstoffspeicheranlage ist der zuständigen Behörde spätestens sechs
+Monate vor dem geplanten Beginn der Umstellung anzuzeigen. Die Anzeige
+soll elektronisch erfolgen. In der Anzeige ist darzulegen, dass durch
+die Umstellung keine nachteiligen Auswirkungen auf die
+Versorgungssicherheit drohen. Die zuständige Behörde kann die geplante
+Umstellung innerhalb einer Frist von vier Monaten beanstanden, wenn
+nicht nur unerhebliche Auswirkungen auf die Versorgungssicherheit
+drohen. Die Frist beginnt, sobald die vollständigen Unterlagen zur
+Anzeige bei der zuständigen Behörde vorliegen.
 
 
 ## Teil 4 - Energielieferung an Letztverbraucher
@@ -14730,7 +14746,7 @@ durch die nach Landesrecht zuständige Behörde zugelassen werden:
     möglich, solange die Entscheidung zur Planfeststellung gilt,
 
 
-2.[^F807051_1_BJNR197010005BJNE005013123]
+2.[^F807051_1_BJNR197010005BJNE005014129]
   die Errichtung und der Betrieb sowie die Änderung eines Erdkabels für
     Hochspannungsleitungen mit einer Nennspannung von 110 Kilovolt im
     Küstenbereich von Nord- und Ostsee, die in einem 20 Kilometer breiten
@@ -14745,8 +14761,8 @@ durch die nach Landesrecht zuständige Behörde zugelassen werden:
 
 3.  die Errichtung und der Betrieb sowie die Änderung eines Erdkabels mit
     einer Nennspannung von 110 Kilovolt oder mehr zur Anbindung von
-    Kraftwerken oder Pumpspeicherkraftwerken an das
-    Elektrizitätsversorgungsnetz,
+    Kraftwerken, Elektrolyseuren zur Erzeugung von Wasserstoff oder
+    Pumpspeicherkraftwerken an das Elektrizitätsversorgungsnetz,
 
 
 4.  die Errichtung und der Betrieb sowie die Änderung eines sonstigen
@@ -14888,68 +14904,95 @@ landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
     Amtlicher Hinweis: Zu beziehen beim Bundesamt für Seeschifffahrt und
     Hydrographie, Bernhard-Nocht-Straße 78, 20359 Hamburg und in der
     Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F807051_1_BJNR197010005BJNE005013123]: 
+[^F807051_1_BJNR197010005BJNE005014129]: 
 
 ### § 43a Anhörungsverfahren
 
-Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
-mit folgenden Maßgaben:
+(1) Für das Anhörungsverfahren sind § 73 des
+Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des
+Gesetzes über die Umweltverträglichkeitsprüfung nach den Maßgaben der
+Absätze 2 bis 10 anzuwenden.
 
-1.  Der Plan ist gemäß § 73 Absatz 2 des Verwaltungsverfahrensgesetzes
-    innerhalb von zwei Wochen nach Zugang auszulegen.
+(2) Der Träger des Vorhabens reicht den Plan in dem von der
+Anhörungsbehörde vorgegebenen elektronischen Format bei der
+Anhörungsbehörde ein.
+
+(3) Der vollständige Plan ist von der Anhörungsbehörde innerhalb von
+zwei Wochen nach Zugang für eine Dauer von einem Monat zur Einsicht
+auszulegen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente
+auf der Internetseite der Anhörungsbehörde zugänglich gemacht werden.
+Auf Verlangen eines Beteiligten, das während der Dauer der Auslegung
+an die zuständige Behörde zu richten ist, wird ihm eine leicht zu
+erreichende Zugangsmöglichkeit zur Verfügung gestellt. Die Auslegung
+ist auf der Internetseite der Anhörungsbehörde sowie in einer
+Tageszeitung oder auf eine andere Weise öffentlich bekannt zu machen;
+dabei ist auf das nach Satz 3 bestehende Recht der Beteiligten
+hinzuweisen.
+
+(4) Jeder Behörde sowie jedem Träger öffentlicher Belange, deren oder
+dessen Aufgabenbereich durch das Vorhaben berührt wird, wird der Plan
+elektronisch zugänglich gemacht.
+
+(5) Die Behörden sowie Träger öffentlicher Belange, deren
+Aufgabenbereich durch das Vorhaben berührt wird, übermitteln ihre
+jeweilige Stellungnahme elektronisch an die Anhörungsbehörde, es sei
+denn, die Funktionsfähigkeit des informationstechnischen Systems ist
+gestört. Ist ein der Anhörungsbehörde übermitteltes Dokument nicht zur
+Bearbeitung geeignet, teilt die Anhörungsbehörde dies dem Absender
+unter Angabe der für die Anhörungsbehörde geltenden technischen
+Rahmenbedingungen unverzüglich mit.
+
+(6) Jede Einwendung sowie jede Stellungnahme ist gegenüber der
+Anhörungsbehörde elektronisch abzugeben. Sie kann auch bei der
+Anhörungsbehörde mündlich zur elektronischen Eingabe abgegeben werden.
+In der Bekanntmachung der Auslegung oder bei der Bekanntgabe der
+Einwendungsfrist ist auf die elektronische Abgabe nach Satz 1 und die
+Ausnahme nach Satz 2 hinzuweisen.
+
+(7) Die Anhörungsbehörde hat jede Einwendung sowie jede Stellungnahme
+dem Träger des Vorhabens und den von ihm Beauftragten elektronisch zur
+Verfügung zu stellen, um eine Erwiderung zu ermöglichen. Eine
+Erwiderung durch den Träger des Vorhabens oder den von ihm
+Beauftragten auf die Einwendung oder Stellungnahme ist an die
+Anhörungsbehörde elektronisch zu übermitteln.
+
+(8) Die Anhörungsbehörde kann auf eine Erörterung im Sinne des § 73
+Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz
+4 des Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Kein
+Erörterungstermin findet statt, wenn
+
+1.  Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben
+    worden sind,
 
 
-2.  Die Einwendungen und Stellungnahmen sind dem Vorhabenträger und den
-    von ihm Beauftragten zur Verfügung zu stellen, um eine Erwiderung zu
-    ermöglichen; datenschutzrechtliche Bestimmungen sind zu beachten; auf
-    Verlangen des Einwenders sollen dessen Name und Anschrift unkenntlich
-    gemacht werden, wenn diese zur ordnungsgemäßen Durchführung des
-    Verfahrens nicht erforderlich sind; auf diese Möglichkeit ist in der
-    öffentlichen Bekanntmachung hinzuweisen.
+2.  die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind,
 
 
-3.  Die Anhörungsbehörde kann auf eine Erörterung im Sinne des § 73 Absatz
-    6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
-    Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Ein
-    Erörterungstermin findet nicht statt, wenn
-
-    a)  Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben
-        worden sind,
+3.  ausschließlich Einwendungen erhoben worden sind, die auf
+    privatrechtlichen Titeln beruhen, oder
 
 
-    b)  die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind,
-
-
-    c)  ausschließlich Einwendungen erhoben worden sind, die auf
-        privatrechtlichen Titeln beruhen, oder
-
-
-    d)  alle Einwender auf einen Erörterungstermin verzichten.
+4.  alle Einwender auf einen Erörterungstermin verzichten.
 
 
 
-    Findet keine Erörterung statt, so hat die Anhörungsbehörde ihre
-    Stellungnahme innerhalb von sechs Wochen nach Ablauf der
-    Einwendungsfrist abzugeben und sie der Planfeststellungsbehörde
-    zusammen mit den sonstigen in § 73 Absatz 9 des
-    Verwaltungsverfahrensgesetzes aufgeführten Unterlagen zuzuleiten.
+Findet keine Erörterung statt, so hat die Anhörungsbehörde ihre
+Stellungnahme innerhalb von sechs Wochen nach Ablauf der
+Einwendungsfrist abzugeben und diese der Planfeststellungsbehörde
+zusammen mit den sonstigen in § 73 Absatz 9 des
+Verwaltungsverfahrensgesetzes aufgeführten Unterlagen elektronisch
+zuzuleiten.
 
+(9) Die Anhörungsbehörde bestimmt die technische Ausgestaltung für die
+elektronische Übermittlung einer Stellungnahme, einer Einwendung oder
+einer sonstigen Erklärung sowie die technische Ausgestaltung des
+elektronischen Formats für die Veröffentlichung oder Zugänglichmachung
+des Plans.
 
-4.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
-    der Erörterung im Sinne des § 73 Absatz 6 des
-    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
-    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
-
-
-
-Die Auslegung nach Satz 1 Nummer 1 wird dadurch bewirkt, dass die
-Dokumente auf der Internetseite der für die Auslegung zuständigen
-Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten,
-das während der Dauer der Auslegung an die zuständige Behörde zu
-richten ist, wird ihm eine alternative, leicht zu erreichende
-Zugangsmöglichkeit zur Verfügung gestellt; dies ist in der Regel die
-Übersendung eines gängigen elektronischen Speichermediums, auf dem die
-auszulegenden Unterlagen gespeichert sind.
+(10) Soll ein ausgelegter Plan geändert werden, so kann im Regelfall
+von der Erörterung nach § 73 Absatz 6 des
+Verwaltungsverfahrensgesetzes und nach § 18 Absatz 1 Satz 4 des
+Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
 
 ### § 43b Planfeststellungsbeschluss, Plangenehmigung
@@ -15411,24 +15454,37 @@ Landesrechts bleiben unberührt.
 (1) Der Begriff der Gasversorgungsleitung in Teil 5 dieses Gesetzes
 umfasst auch Wasserstoffnetze. Die Errichtung von Wasserstoffleitungen
 liegt im überragenden öffentlichen Interesse und dient der
-öffentlichen Sicherheit.
+öffentlichen Sicherheit. Satz 2 ist nicht bei der jeweils
+durchzuführenden Schutzgüterabwägung gegenüber Belangen der Landes-
+und Bündnisverteidigung anzuwenden.
 
 (2) Die Errichtung und der Betrieb sowie die Änderung von
-Wasserstoffleitungen einschließlich der Anbindungsleitungen von
-Anlandungsterminals für Wasserstoff mit einem Durchmesser von mehr als
-300 Millimetern bedürfen der Planfeststellung durch die nach
-Landesrecht für Verfahren nach § 43 Absatz 1 Satz 1 Nummer 5
-zuständige Behörde. Anlage 1 Nummer 19.2 des Gesetzes über die
-Umweltverträglichkeitsprüfung ist auf Wasserstoffnetze entsprechend
-anzuwenden.
+Wasserstoffleitungen mit einem Durchmesser von mehr als 300
+Millimetern einschließlich der Anbindungsleitungen von Anlagen zur
+Erzeugung, zur Speicherung und zum Import von Wasserstoff mit einem
+Durchmesser von mehr als 300 Millimetern bedürfen der Planfeststellung
+durch die nach Landesrecht für Verfahren nach § 43 Absatz 1 Satz 1
+Nummer 5 zuständige Behörde. Die nach Landesrecht zuständige Behörde
+fasst den Planfeststellungsbeschluss innerhalb von zwölf Monaten. Sie
+kann die Frist um bis zu sechs Monate verlängern, wenn dies wegen der
+Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller
+zuzurechnen sind, erforderlich ist. Die Fristverlängerung ist
+gegenüber dem Antragsteller zu begründen. Die Frist nach Satz 2
+beginnt mit Auslegung der Planunterlagen nach § 43a Absatz 3. § 43
+Absatz 3 Satz 2 bis 4, Absatz 3c Satz 1 Nummer 1 und 3 und § 48a
+dieses Gesetzes sowie Anlage 1 Nummer 19.2 zu dem Gesetz über die
+Umweltverträglichkeitsprüfung sind auf Wasserstoffleitungen
+entsprechend anzuwenden. Die auf Verfahren nach § 43 Absatz 1 Satz 1
+Nummer 5 anwendbaren Vorschriften sind entsprechend anzuwenden.
 
 (3) Auf Antrag des Trägers des Vorhabens kann die nach Landesrecht für
 Verfahren nach § 43 Absatz 1 Satz 1 Nummer 5 zuständige Behörde die
 Errichtung und den Betrieb sowie die Änderung von Wasserstoffleitungen
-einschließlich der Anbindungsleitungen von Anlandungsterminals für
-Wasserstoff mit einem Durchmesser von 300 Millimeter oder weniger
-durch Planfeststellung zulassen. § 43 Absatz 2 Satz 1 Nummer 1 bleibt
-unberührt.
+einschließlich der Anbindungsleitungen von Anlagen zur Erzeugung, zur
+Speicherung und zum Import von Wasserstoff mit einem Durchmesser von
+300 Millimetern oder weniger durch Planfeststellung zulassen. § 43
+Absatz 2 Satz 1 Nummer 1 bleibt unberührt. Absatz 2 Satz 2 bis 7 ist
+entsprechend anzuwenden.
 
 (4) Behördliche Zulassungen für die Errichtung, die Änderung und den
 Betrieb einer Gasversorgungsleitung für Erdgas einschließlich der für
@@ -15458,7 +15514,14 @@ Wasserstoffnetze.
 Errichtung und Betrieb sowie bei Änderungen und Erweiterungen von
 Gasversorgungsleitungen einschließlich der Anbindungsleitungen von
 LNG-Terminals sowie Nebenanlagen, die der Vorbereitung auf einen
-Transport von Wasserstoff dienen.
+Transport von Wasserstoff dienen. Die Absätze 1 bis 7 sind
+entsprechend anzuwenden auf die Änderung und den Betrieb von
+Gasversorgungsleitungen, die auf Wasserstoff umgestellt werden, sowie
+auf die Errichtung, den Betrieb und die Änderung von
+Gasversorgungsleitungen, die im bestätigten Netzentwicklungsplan Gas
+und Wasserstoff nach § 15c Absatz 2 Satz 7 oder im genehmigten
+Wasserstoff-Kernnetz nach § 28q Absatz 2 Satz 4 als zusätzliche
+Ausbaumaßnahmen im Fernleitungsnetz ausgewiesen worden sind.
 
 
 ### § 43m Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
@@ -22339,6 +22402,10 @@ sind bis zum Ablauf des 29. Dezember 2026 anzuwenden.
 
 (53) Die Anforderungen nach § 19 Absatz 1a Satz 2 bis 5 und Absatz 1b
 gelten ab dem 1. Januar 2025.
+
+(54) Auf Vorhaben, für die der Antrag auf Planfeststellung vor dem 2.
+April 2026 gestellt wurde, finden die §§ 43 bis 48a in der bis
+einschließlich 1. April 2026 gültigen Fassung Anwendung.
 
 
 ### § 118a Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation
