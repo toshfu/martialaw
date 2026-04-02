@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2258, 2310
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2025 I Nr. 351
+:   Art. 6 G v. 29.3.2026 I Nr. 84
 
 Zur umsetzung der bverfge v. 30.6.2020 i 1993 - 1 bvr 1679/17 wurde § 10a dieses g durch
 :   Art. 1 Nr. 10 G v. 3.12.2020 I 2682 mWv 10.12.2020 eingeführt (vgl. BT-Drucksache 19/24039).
@@ -548,31 +548,36 @@ entgegenstehen. Diese Festlegungen sind insbesondere unzulässig, wenn
 
 
 
-Bei der Abwägung ist das überragende öffentliche Interesse an der
+Bei der Abwägung sind das überragende öffentliche Interesse an der
 Errichtung von Windenergieanlagen auf See und Offshore-
 Anbindungsleitungen und deren Bedeutung für die öffentliche Gesundheit
-und Sicherheit nach § 1 Absatz 3 zu berücksichtigen. Soweit das Gebiet
-oder die Fläche in einem vom Bundesfachplan Offshore nach § 17a des
-Energiewirtschaftsgesetzes festgelegten Cluster oder einem Vorrang-,
-Vorbehalts- oder Eignungsgebiet eines Raumordnungsplans nach § 17
-Absatz 1 Satz 1 des Raumordnungsgesetzes liegt, muss die Zulässigkeit
-der Festlegungen nach Absatz 1 Nummer 1 und 2 nur geprüft werden,
-soweit zusätzliche oder andere erhebliche Gesichtspunkte erkennbar
-oder Aktualisierungen und Vertiefungen der Prüfung erforderlich sind.
-Zur Vermeidung von Mehrfachprüfungen ist bei der Festlegung des
-Untersuchungsrahmens im Rahmen der Strategischen Umweltprüfung zu
-bestimmen, auf welcher Stufe des mehrstufigen Planungs- und
-Zulassungsprozesses bestimmte Umweltauswirkungen schwerpunktmäßig zu
-prüfen sind. Dabei sind Art und Umfang der Umweltauswirkungen,
-fachliche Erfordernisse sowie Inhalt und Entscheidungsgegenstand des
-Flächenentwicklungsplans zu berücksichtigen. Die Umweltprüfung ist auf
-zusätzliche oder andere erhebliche Umweltauswirkungen sowie auf
-erforderliche Aktualisierungen und Vertiefungen zu beschränken. Für
-durch ein Land ausgewiesene Gebiete und Flächen im Küstenmeer stellt
-das Land sämtliche Informationen und Unterlagen einschließlich
-derjenigen, die für die Strategische Umweltprüfung erforderlich sind,
-zur Verfügung, die für die Prüfung benötigt werden, ob die Festlegung
-dieser Gebiete und Flächen zulässig ist.
+und Sicherheit nach § 1 Absatz 3 sowie das nach § 4 des
+Wasserstoffbeschleunigungsgesetzes bestehende überragende öffentliche
+Interesse an der Errichtung oder dem Betrieb von Anlagen oder
+Leitungen nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes und
+deren Bedeutung für die öffentliche Sicherheit zu berücksichtigen.
+Soweit das Gebiet oder die Fläche in einem vom Bundesfachplan Offshore
+nach § 17a des Energiewirtschaftsgesetzes festgelegten Cluster oder
+einem Vorrang-, Vorbehalts- oder Eignungsgebiet eines
+Raumordnungsplans nach § 17 Absatz 1 Satz 1 des Raumordnungsgesetzes
+liegt, muss die Zulässigkeit der Festlegungen nach Absatz 1 Nummer 1
+und 2 nur geprüft werden, soweit zusätzliche oder andere erhebliche
+Gesichtspunkte erkennbar oder Aktualisierungen und Vertiefungen der
+Prüfung erforderlich sind. Zur Vermeidung von Mehrfachprüfungen ist
+bei der Festlegung des Untersuchungsrahmens im Rahmen der
+Strategischen Umweltprüfung zu bestimmen, auf welcher Stufe des
+mehrstufigen Planungs- und Zulassungsprozesses bestimmte
+Umweltauswirkungen schwerpunktmäßig zu prüfen sind. Dabei sind Art und
+Umfang der Umweltauswirkungen, fachliche Erfordernisse sowie Inhalt
+und Entscheidungsgegenstand des Flächenentwicklungsplans zu
+berücksichtigen. Die Umweltprüfung ist auf zusätzliche oder andere
+erhebliche Umweltauswirkungen sowie auf erforderliche Aktualisierungen
+und Vertiefungen zu beschränken. Für durch ein Land ausgewiesene
+Gebiete und Flächen im Küstenmeer stellt das Land sämtliche
+Informationen und Unterlagen einschließlich derjenigen, die für die
+Strategische Umweltprüfung erforderlich sind, zur Verfügung, die für
+die Prüfung benötigt werden, ob die Festlegung dieser Gebiete und
+Flächen zulässig ist.
 
 (4) Im Flächenentwicklungsplan werden einzelne Flächen nach Absatz 1
 Nummer 2 und gebietsübergreifend die zeitliche Reihenfolge, in der die
@@ -3239,9 +3244,13 @@ erteilt werden, wenn
 Das überragende öffentliche Interesse an der Errichtung von
 Windenergieanlagen auf See und Offshore-Anbindungsleitungen und deren
 Bedeutung für die öffentliche Gesundheit und Sicherheit nach § 1
-Absatz 3 ist zu berücksichtigen. Der Plan darf zudem nur festgestellt
-und die Plangenehmigung darf nur erteilt werden, wenn der
-Vorhabenträger
+Absatz 3 sowie das nach § 4 des Wasserstoffbeschleunigungsgesetzes
+bestehende überragende öffentliche Interesse an der Errichtung oder
+dem Betrieb von Anlagen oder Leitungen nach § 2 Absatz 1 des
+Wasserstoffbeschleunigungsgesetzes und deren Bedeutung für die
+öffentliche Sicherheit sind zu berücksichtigen. Der Plan darf zudem
+nur festgestellt und die Plangenehmigung darf nur erteilt werden, wenn
+der Vorhabenträger
 
 1.  bei Windenergieanlagen auf See über einen Zuschlag nach den §§ 20, 21,
     54 oder nach § 34 für die Fläche, auf die sich der Plan bezieht,
@@ -4141,10 +4150,14 @@ unerlässlich ist. Kann die Beeinträchtigung oder Gefahr nicht auf
 andere Weise abgewendet werden, kann das Bundesamt für Seeschifffahrt
 und Hydrographie einen zuvor ergangenen Planfeststellungsbeschluss
 oder die Plangenehmigung aufheben und die Beseitigung der Einrichtung
-anordnen. Bei der Abwägung ist das überragende öffentliche Interesse
+anordnen. Bei der Abwägung sind das überragende öffentliche Interesse
 an der Errichtung von Windenergieanlagen auf See und Offshore-
 Anbindungsleitungen und deren Bedeutung für die öffentliche Gesundheit
-und Sicherheit nach § 1 Absatz 3 zu berücksichtigen.
+und Sicherheit nach § 1 Absatz 3 sowie das nach § 4 des
+Wasserstoffbeschleunigungsgesetzes bestehende überragende öffentliche
+Interesse an der Errichtung oder dem Betrieb von Anlagen oder
+Leitungen nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes und
+deren Bedeutung für die öffentliche Sicherheit zu berücksichtigen.
 
 (4) Wird eine Einrichtung ohne erforderliche Planfeststellung oder
 Plangenehmigung errichtet, betrieben oder wesentlich geändert, so kann
