@@ -7310,7 +7310,7 @@ Europäische Wertpapier- und Marktaufsichtsbehörde.
 ### § 80 Organisationspflichten; Verordnungsermächtigung
 
 (1) Ein Wertpapierdienstleistungsunternehmen muss die
-organisatorischen Pflichten nach § 25a Absatz 1 und § 25e des
+organisatorischen Pflichten nach § 25a Absatz 1 und § 25e Absatz 4 des
 Kreditwesengesetzes oder, sofern es sich um ein Wertpapierinstitut
 handelt, nach § 28 Absatz 1 und 2 und § 41 des
 Wertpapierinstitutsgesetzes einhalten. Darüber hinaus muss es
