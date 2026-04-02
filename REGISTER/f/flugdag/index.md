@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1484
 
-Geändert durch
-:   Art. 2 G v. 6.6.2017 I 1484
+Zuletzt geändert durch
+:   Art. 2 Abs. 3 G v. 20.3.2026 I Nr. 95
 
 [^F798590_01_BJNR148410017]:     Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2016/681 des
     Europäischen Parlaments und des Rates vom 27. April 2016 über die
@@ -246,7 +246,7 @@ innerhalb eines übersehbaren Zeitraumes begehen werden:
     Strafgesetzbuchs,
 
 
-2.  eine in § 129a Absatz 1 Nummer 1 und 2, Absatz 2 Nummer 1 bis 5 des
+2.  eine in § 129a Absatz 1 Nummer 1 und 2, Absatz 2 Nummer 1 bis 6 des
     Strafgesetzbuchs bezeichnete Straftat, wenn diese bestimmt ist, die
     Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder
     eine internationale Organisation rechtswidrig mit Gewalt oder durch
@@ -266,11 +266,8 @@ innerhalb eines übersehbaren Zeitraumes begehen werden:
 
 
 5.  eine Straftat im unmittelbaren Zusammenhang mit terroristischen
-    Aktivitäten nach Artikel 3 Absatz 2 des Rahmenbeschlusses 2002/475/JI
-    des Rates vom 13. Juni 2002 zur Terrorismusbekämpfung (ABl. L 164 vom
-    22\.6.2002, S. 3), der zuletzt durch Artikel 1 Nummer 1 des
-    Rahmenbeschlusses 2008/919/JI (ABl. L 330 vom 9.12.2008, S. 21)
-    geändert worden ist, oder
+    Aktivitäten nach Artikel 12 der Richtlinie (EU) 2017/541 in der
+    Fassung vom 15. März 2017 oder
 
 
 6.  eine Straftat, die einer in Anhang II zur Richtlinie (EU) 2016/681
