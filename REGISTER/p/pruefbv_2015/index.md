@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 28.2.2025 I Nr. 69
 
+Änderung durch
+:   Art. 13 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -111,11 +114,11 @@ Beurteilungen sind nachvollziehbar zu begründen.
 dem Prüfer bekannt geworden sind, sind zu berücksichtigen und im
 Prüfungsbericht darzulegen.
 
-(4) Wurde im Berichtszeitraum eine Prüfung gemäß § 44 Absatz 1 Satz 2
+(4) Wurde im Berichtszeitraum eine Prüfung gemäß § 44 Absatz 1 Satz 3
 des Kreditwesengesetzes durchgeführt, so hat der Abschlussprüfer die
 Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen
 Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der
-Prüfung gemäß § 44 Absatz 1 Satz 2 des Kreditwesengesetzes waren, kann
+Prüfung gemäß § 44 Absatz 1 Satz 3 des Kreditwesengesetzes waren, kann
 sich die aufsichtliche Berichterstattung auf wesentliche Veränderungen
 beschränken, die bis zum Bilanzstichtag eingetreten sind.
 
@@ -1099,16 +1102,12 @@ worden ist, entsprechen. Dabei ist zu beurteilen, ob die folgenden
 Bestimmungen eingehalten werden:
 
 1.  die Bestimmungen zu Entgelten für grenzüberschreitende Zahlungen nach
-    Artikel 3 Absatz 1 der Verordnung,
+    Artikel 3 Absatz 1 der Verordnung sowie
 
 
-2.  die Bestimmungen zu Entgelten nach Artikel 4 Absatz 3 Satz 1 der
-    Verordnung, die über das Entgelt gemäß Artikel 3 Absatz 1 der
-    Verordnung hinausgehen, sowie
-
-
-3.  die Bestimmungen zu Interbankenentgelten für Inlandslastschriften nach
-    Artikel 7 Absatz 1 der Verordnung.
+2.  die Bestimmungen zu Entgelten nach Artikel 6 Absatz 2 Satz 1 der
+    Verordnung, die über das Entgelt nach Artikel 3 Absatz 1 der
+    Verordnung hinausgehen.
 
 
 
@@ -2201,9 +2200,10 @@ wesentlichen Beanstandungen sich auf Grund der Prüfung ergeben haben.
 
 (1) Ist ein Kreditinstitut oder eine Zweigniederlassung eines
 Kreditinstituts als Verwahrstelle nach § 68 Absatz 3 in Verbindung mit
-Absatz 2 des Kapitalanlagegesetzbuchs tätig, so ist über das Ergebnis
-der Prüfung dieser Tätigkeit in einem gesonderten Abschnitt zu
-berichten.
+Absatz 2 des Kapitalanlagegesetzbuchs oder nach § 80 Absatz 2 Nummer 1
+und Absatz 6 Satz 1 in Verbindung mit § 87 Satz 1 des
+Kapitalanlagegesetzbuchs tätig, so ist über das Ergebnis der Prüfung
+dieser Tätigkeit in einem gesonderten Abschnitt zu berichten.
 
 (2) Die Prüfung hat sich darauf zu erstrecken, ob das Kreditinstitut
 oder die Zweigniederlassung die in den §§ 70 bis 79 des
@@ -2226,6 +2226,11 @@ berichten. Sofern durch Anleger gegenüber der Verwahrstelle oder durch
 die Verwahrstelle gegenüber einer Kapitalverwaltungsgesellschaft
 Ansprüche nach § 78 des Kapitalanlagegesetzbuchs geltend gemacht
 wurden, ist auch hierüber zu berichten.
+
+(4) Führt das Kreditinstitut oder die Zweigniederlassung auch das
+Kryptowertpapierregister für Anteile oder Aktien an
+Investmentvermögen, für die sie als Verwahrstelle beauftragt wurden,
+gilt § 69b entsprechend.
 
 
 ### Unterabschnitt 7 - Führung eines zentralen Registers oder eines Kryptowertpapierregisters gemäß den §§ 12 und 16 des Gesetzes über elektronische Wertpapiere
