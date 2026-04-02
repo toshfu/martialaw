@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2023 I Nr. 409
 
+Änderung durch
+:   Art. 8 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Einteilung der Bundesstraßen des Fernverkehrs
 
@@ -688,13 +691,14 @@ Fall ist die oberste Landesstraßenbaubehörde an Bundesfernstraßen und,
 soweit dem Bund die Verwaltung der Bundesfernstraßen zusteht, das
 Fernstraßen-Bundesamt in den Genehmigungs- oder Anzeigeverfahren für
 die Anlage zu beteiligen. Die für die Erteilung der Genehmigung oder
-für die Anzeige zuständige Behörde hat im Rahmen der Beteiligung die
-Stellungnahme der jeweiligen Behörde nach Satz 2 einzuholen. Bedarf es
-keiner Genehmigung oder Anzeige der Anlage, hat der Vorhabenträger die
-in Satz 2 genannten Behörden um eine Stellungnahme zu dem Vorhaben zu
-ersuchen. Bei der Errichtung und dem Betrieb einer in Satz 1
-bezeichneten Anlage sind die in Absatz 3 und in § 2 des Erneuerbare-
-Energien-Gesetzes genannten Belange zu beachten.
+für die Entgegennahme der Anzeige zuständige Behörde hat im Rahmen der
+Beteiligung die Stellungnahme der jeweiligen Behörde nach Satz 2
+einzuholen. Bedarf es keiner Genehmigung oder Anzeige der Anlage, hat
+der Vorhabenträger die in Satz 2 genannten Behörden um eine
+Stellungnahme zu dem Vorhaben zu ersuchen. Bei der Errichtung und dem
+Betrieb einer in Satz 1 bezeichneten Anlage sind die in Absatz 3 und
+in § 2 des Erneuerbare-Energien-Gesetzes genannten Belange zu
+beachten.
 
 (2c) Absatz 1 Satz 1 Nummer 1 und Absatz 2 gelten nicht für Anlagen
 zur Erzeugung von Strom aus solarer Strahlungsenergie. Die oberste
@@ -711,6 +715,18 @@ Baubeginn bei der jeweils zuständigen Behörde nach Satz 2 anzuzeigen.
 Bei der Genehmigung, der Errichtung und dem Betrieb einer Anlage nach
 Satz 1 sind die in Absatz 3 und in § 2 des Erneuerbare-Energien-
 Gesetzes genannten Belange zu beachten.
+
+(2d) Die Absätze 2 und 2a gelten nicht für Anlagen zur Erzeugung, zur
+Speicherung oder zum Import von Wasserstoff. Absatz 2c Satz 2 ist für
+die in Satz 1 genannten Anlagen entsprechend anzuwenden, auch bei der
+Durchführung von Anzeigeverfahren. Bedarf eine Anlage nach Satz 1
+weder einer Genehmigung noch einer Anzeige, hat der Vorhabenträger die
+jeweils zuständige Behörde nach Satz 2 um eine Stellungnahme zu dem
+Vorhaben zu ersuchen. Bei der Errichtung und dem Betrieb einer Anlage
+nach Satz 1 sind die in Absatz 3 genannten Belange sowie die in § 4
+des Wasserstoffbeschleunigungsgesetzes vom 29. März 2026 (BGBl. 2026 I
+Nr. 84, S. 2), in der jeweils geltenden Fassung, genannten Belange und
+Maßgaben zu beachten.
 
 (3) Die Zustimmung nach Absatz 2 darf nur versagt oder mit Bedingungen
 und Auflagen erteilt werden, soweit dies wegen der Sicherheit oder
