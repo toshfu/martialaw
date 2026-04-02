@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 40 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 14 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 15 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
+
+Änderung durch
+:   Art. 16 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
+
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
 
@@ -93,6 +102,19 @@ Verbraucher gefährden kann oder beeinträchtigt. Zur Erfüllung ihrer
 Aufgaben und nach Maßgabe des Satzes 2 kann die Bundesanstalt auch im
 Wege verdeckter Testkäufe Finanzprodukte erwerben und
 Finanzdienstleistungen in Anspruch nehmen.
+
+(1b) Die Bundesanstalt veröffentlicht ihre mittelfristigen
+strategischen Ziele. Die Übersicht enthält insbesondere
+
+1.  die vorrangigen Aufsichtsschwerpunkte und deren Begründung sowie
+
+
+2.  die abstrakten Maßnahmen zur Erreichung der Ziele.
+
+
+
+Diese sind auf der Internetseite der Bundesanstalt zugänglich zu
+machen.
 
 (2) Die Bundesanstalt arbeitet mit anderen Stellen und Personen im In-
 und Ausland nach Maßgabe der in Absatz 1 genannten Gesetze und
@@ -612,13 +634,18 @@ Der Verbraucherbeirat gibt sich eine Geschäftsordnung.
 
 
 
-### § 9 Rechtsstellung der Mitglieder des Direktoriums
+### § 9 Rechtsstellung der Mitglieder des Direktoriums; Verordnungsermächtigung
 
 (1) Die Mitglieder des Direktoriums stehen in einem öffentlich-
 rechtlichen Amtsverhältnis zum Bund. Sie müssen besondere fachliche
 Eignung besitzen und werden auf Vorschlag der Bundesregierung durch
-den Bundespräsidenten ernannt. Die Mitglieder des Direktoriums werden
-in der Regel für fünf Jahre bestellt. Wiederbestellung ist zulässig.
+den Bundespräsidenten ernannt. Der Vorschlag der Bundesregierung
+erfolgt aufgrund von objektiven Auswahlkriterien, die das
+Bundesministerium der Finanzen veröffentlicht. Die Mitglieder des
+Direktoriums werden in der Regel für fünf Jahre bestellt.
+Wiederbestellung ist zulässig. Kein Mitglied des Direktoriums kann
+länger als 14 Jahre im Amt bleiben. Die maximale Gesamtdauer der
+Amtszeit beträgt 14 Jahre.
 
 (2) Das Amtsverhältnis der Mitglieder des Direktoriums beginnt mit der
 Aushändigung der Ernennungsurkunde, wenn nicht in der Urkunde ein
@@ -633,7 +660,10 @@ vollzogene Urkunde. Die Entlassung auf Verlangen wird mit der
 Aushändigung der Urkunde wirksam, wenn in ihr nicht ausdrücklich ein
 späterer Tag bestimmt ist. Die Entlassung aus wichtigem Grund wird mit
 dem Vollzug des Beschlusses der Bundesregierung wirksam, wenn sie sie
-nicht ausdrücklich für einen späteren Tag beschließt.
+nicht ausdrücklich für einen späteren Tag beschließt. Die Gründe für
+eine Entlassung veröffentlicht das Bundesministerium der Finanzen, es
+sei denn, das betroffene Mitglied des Direktoriums erhebt Einwände
+gegen die Veröffentlichung.
 
 (3) Die Mitglieder des Direktoriums leisten vor dem Bundesminister der
 Finanzen folgenden Eid: „Ich schwöre, das Grundgesetz für die
@@ -658,6 +688,44 @@ versagen.
 (5) Die §§ 67 bis 69 und 71 des Bundesbeamtengesetzes gelten
 entsprechend. An die Stelle der obersten Dienstbehörde tritt das
 Bundesministerium der Finanzen.
+
+(5a) Die Regelungen des § 11a gelten entsprechend für die Mitglieder
+des Direktoriums. Das Bundesministerium der Finanzen kann durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+hierzu konkretisierende sowie ergänzende Regelungen zu den
+Amtsverhältnissen der Direktoriumsmitglieder treffen, soweit
+anerkannte Standards der Compliance und die Besonderheiten des
+öffentlich-rechtlichen Amtsverhältnisses der Direktoriumsmitglieder
+dies erfordern. In der Rechtsverordnung nach Satz 2 kann insbesondere
+bestimmt werden,
+
+1.  welchen Regelungen zu privaten Geschäften in Finanzinstrumenten im
+    Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr.
+    596/2014 in der Fassung vom 23. Oktober 2024 und Kryptowerten im Sinne
+    des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 in der
+    Fassung vom 13. Dezember 2023 die Mitglieder des Direktoriums
+    unterliegen; hierbei können unter anderem Anzeigepflichten, Regelungen
+    zu Interessenerklärungen, Handelsverbote, Kontrollverfahren und
+    Verkaufsgebote vorgesehen werden, die mindestens dem Standard der
+    Regelungen entsprechen, welche für die Beschäftigten der Bundesanstalt
+    gelten;
+
+
+2.  welchen Regelungen die Mitglieder des Direktoriums unterliegen, wenn
+    sie beabsichtigen, innerhalb der ersten 24 Monate nach ihrem
+    Ausscheiden aus dem Amt eine Beschäftigung in Form einer
+    Erwerbstätigkeit oder sonstigen Beschäftigung außerhalb des
+    öffentlichen Dienstes, einschließlich einer freiberuflichen Tätigkeit,
+    aufzunehmen; hierbei können unter anderem sowohl Anzeigepflichten
+    gegenüber dem Bundesministerium vorgesehen werden als auch abgestufte
+    Untersagungsmöglichkeiten in Fällen, in denen öffentliche Interessen
+    beeinträchtigt oder schwer beeinträchtigt werden; für Untersagungen
+    ist eine Entschädigung vorzusehen, die mindestens der halben Höhe des
+    monatlichen Entgelts für die Tätigkeit als Direktoriumsmitglied
+    entspricht.
+
+
+
 
 (6) Im Übrigen werden die Rechtsverhältnisse der Mitglieder des
 Direktoriums durch Verträge geregelt, die das Bundesministerium der
@@ -697,7 +765,7 @@ sind sinngemäß anzuwenden.
 Berufssoldaten oder Berufssoldatinnen entsprechend.
 
 
-### § 9a Beamte
+### § 9a Beamte; Verordnungsermächtigung
 
 (1) Der Bundesanstalt wird das Recht verliehen, Beamte zu haben.
 
@@ -712,9 +780,9 @@ Direktoriums übertragen.
 
 (4) Die von einer Beamtin oder einem Beamten beantragte Entlassung
 kann aus dienstlichem Interesse bis zu sechs Monate über den
-beantragten Zeitpunkt hinaus aufgeschoben werden, auch wenn die
-Voraussetzungen des § 33 Absatz 2 des Bundesbeamtengesetzes nicht
-vorliegen.
+beantragten Zeitpunkt hinaus aufgeschoben werden (Karenzzeit), auch
+wenn die Voraussetzungen des § 33 Absatz 2 des Bundesbeamtengesetzes
+nicht vorliegen.
 
 (5) Die Beamtinnen und Beamten sind verpflichtet, der Bundesanstalt
 spätestens mit dem Antrag auf Entlassung mitzuteilen, ob sie
@@ -725,8 +793,17 @@ Beschäftigungsverhältnisses im Zusammenhang steht, aufzunehmen.
 Nachträgliche Änderungen sind mitzuteilen. Die Anzeigepflicht endet
 sechs Monate nach Entlassung aus dem Beamtenverhältnis.
 
+(6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, festlegen, welche
+Karenzzeit bei welcher Art von beabsichtigter Anschlussbeschäftigung
+durch die Bundesanstalt vorzusehen ist, wobei insbesondere nach
+beaufsichtigten Instituten, Unternehmen, die Dienstleistungen für
+beaufsichtigte Institute erbringen, und Unternehmen, die an die
+zuständige Behörde gerichtete Lobbying- oder
+Interessenvertretungstätigkeiten erbringen, differenziert werden kann.
 
-### § 10 Angestellte, Arbeiter und Auszubildende
+
+### § 10 Angestellte, Arbeiter und Auszubildende; Verordnungsermächtigung
 
 (1) Auf die Angestellten, Arbeiter und Auszubildenden der
 Bundesanstalt sind die für Arbeitnehmer und Auszubildende des Bundes
@@ -742,10 +819,18 @@ entsprechend.
 (3) Abweichend von § 34 Absatz 1 Satz 2 des Tarifvertrags für den
 öffentlichen Dienst oder den diesen Tarifvertrag ersetzenden
 Regelungen beträgt die Kündigungsfrist sechs Monate zum Schluss eines
-Kalendervierteljahres. Dies gilt auch für bestehende Verträge. Um eine
-verhältnismäßige Ausgestaltung im Einzelfall sicherzustellen, kann die
-Bundesanstalt auch kürzere Kündigungsfristen vereinbaren, wenn die
-ausgeübte Tätigkeit keine über die tarifvertragliche Regelung
+Kalendervierteljahres. Dies gilt auch für bestehende Verträge. Das
+Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht
+der Zustimmung des Bundesrates bedarf, festlegen, welchen Karenzzeiten
+bei welcher Art von beabsichtigter Anschlussbeschäftigung zur Geltung
+zu verhelfen ist innerhalb des rechtlich möglichen Rahmens, wobei
+insbesondere nach beaufsichtigten Instituten, Unternehmen, die
+Dienstleistungen für beaufsichtigte Institute erbringen, und
+Unternehmen, die an die zuständige Behörde gerichtete Lobbying- oder
+Interessenvertretungstätigkeiten erbringen, differenziert werden kann.
+Um eine verhältnismäßige Ausgestaltung im Einzelfall sicherzustellen,
+kann die Bundesanstalt auch kürzere Kündigungsfristen vereinbaren,
+wenn die ausgeübte Tätigkeit keine über die tarifvertragliche Regelung
 hinausgehende Frist erfordert.
 
 (4) Die Angestellten, Arbeiter und Auszubildenden sind verpflichtet,
@@ -919,7 +1004,14 @@ Unterlagen über Finanzinstrumente nach Absatz 1 und Kryptowerte nach
 Absatz 1a und weitere Anlageprodukte nach Absatz 6 Satz 3 Nummer 1
 verpflichtet, soweit diese Pflichten nicht bereits in Absatz 4
 enthalten sind und es für die Prüfung der Bundesanstalt oder der von
-ihr beauftragten Person auf Interessenkonflikte notwendig ist. Der
+ihr beauftragten Person auf Interessenkonflikte notwendig ist. Das
+Bundesministerium kann durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, festlegen, dass Beschäftigte der
+Bundesanstalt verpflichtet werden, bei Aufnahme ihrer Tätigkeit und
+danach jährlich eine Interessenerklärung abzugeben, die Angaben zu den
+Finanzinstrumenten nach Absatz 1 und Kryptowerten nach Absatz 1a und
+weiteren Anlageprodukten nach Absatz 6 Satz 3 Nummer 1 enthält, die
+Anlass zu Bedenken wegen eines Interessenkonflikts geben könnten. Der
 Bundesanstalt oder der von ihr beauftragten Person wird die Befugnis
 eingeräumt, durch Richtlinien Konkretisierungen zu den in der
 Rechtsverordnung vorgenommenen Bestimmungen vorzunehmen. § 6 Absatz 15
@@ -1063,14 +1155,45 @@ Rechtsverpflichtungen zu erfüllen sind.
 
 (1) Die Kosten, die der Bundesanstalt entstehen
 
-1.  durch die Bestellung eines Abwicklers nach § 37 Absatz 1 Satz 2, § 38
-    Absatz 2 Satz 2 oder 4 des Kreditwesengesetzes, durch eine
-    Bekanntmachung nach § 32 Absatz 4, § 37 Absatz 1 Satz 3 oder § 38
-    Absatz 3 des Kreditwesengesetzes, durch eine auf Grund des § 44 Absatz
-    1 oder 2, § 44b Absatz 2 oder § 44c Absatz 2 auch in Verbindung mit
-    Maßnahmen nach § 44c Absatz 3 oder 4 des Kreditwesengesetzes oder
-    durch eine aufgrund des § 31 Absatz 2 des Kreditzweitmarktgesetzes
-    vorgenommene Prüfung,
+1.  durch mindestens eine der folgenden Maßnahmen:
+
+    a)  die Bestellung eines Abwicklers nach § 37 Absatz 1 Satz 2, § 38 Absatz
+        2 des Kreditwesengesetzes, nach § 38 Absatz 1 Satz 2 Nummer 2 oder
+        nach § 38 Absatz 2 Satz 1 des Kreditzweitmarktgesetzes in Verbindung
+        mit § 38 Absatz 2 des Kreditwesengesetzes,
+
+
+    b)  eine Bekanntmachung nach § 32 Absatz 4, § 37 Absatz 1 Satz 3 oder § 38
+        Absatz 3 des Kreditwesengesetzes oder des § 10 Absatz 8 oder des § 38
+        Absatz 1 Satz 3 des Kreditzweitmarktgesetzes,
+
+
+    c)  eine Prüfung, die aufgrund des § 44 Absatz 1 oder 2 auch in Verbindung
+        mit Maßnahmen nach § 44 Absatz 6, des § 44b Absatz 2 auch in
+        Verbindung mit Maßnahmen nach § 44b Absatz 5 oder des § 44c Absatz 2
+        auch in Verbindung mit Maßnahmen nach § 44c Absatz 4 des
+        Kreditwesengesetzes oder des § 31 Absatz 2 auch in Verbindung mit
+        Maßnahmen nach § 31 Absatz 3 des Kreditzweitmarktgesetzes in
+        Verbindung mit § 44 Absatz 6 des Kreditwesengesetzes oder in
+        Verbindung mit § 44b Absatz 2 auch in Verbindung mit § 44b Absatz 5
+        des Kreditwesengesetzes oder des § 39 Absatz 2 auch in Verbindung mit
+        Maßnahmen nach § 39 Absatz 4 des Kreditzweitmarktgesetzes vorgenommen
+        wird,
+
+
+    d)  eine Durchsuchung, die aufgrund des § 44 Absatz 5 auch in Verbindung
+        mit Maßnahmen nach § 44 Absatz 6, des § 44b Absatz 4 auch in
+        Verbindung mit Maßnahmen nach § 44b Absatz 5 oder des § 44c Absatz 3
+        auch in Verbindung mit Maßnahmen nach § 44c Absatz 4 des
+        Kreditwesengesetzes oder des § 31 Absatz 3 des
+        Kreditzweitmarktgesetzes in Verbindung mit § 44 Absatz 5 auch in
+        Verbindung mit § 44 Absatz 6 oder des § 44b Absatz 4 auch in
+        Verbindung mit § 44b Absatz 5 oder des § 39 Absatz 3 auch in
+        Verbindung mit Maßnahmen nach § 39 Absatz 4 des
+        Kreditzweitmarktgesetzes vorgenommen wird,
+
+
+
 
 
 1a. durch eine auf Grund des § 4 Nummer 3 der KfW-Verordnung in Verbindung
@@ -1078,8 +1201,18 @@ Rechtsverpflichtungen zu erfüllen sind.
     Prüfung,
 
 
-1b. durch eine auf Grund des § 5 Absatz 4 Satz 2 bis 5 oder Absatz 5 Satz
-    2 bis 4 des Wertpapierinstitutsgesetzes vorgenommene Prüfung,
+1b. durch mindestens eine der folgenden Maßnahmen:
+
+    a)  eine aufgrund des § 5 Absatz 4 Satz 2 bis 6 auch in Verbindung mit
+        Maßnahmen nach § 5 Absatz 9 oder Absatz 5 Satz 4 bis 6 des
+        Wertpapierinstitutsgesetzes vorgenommene Prüfung,
+
+
+    b)  eine Durchsuchung nach § 5 Absatz 8 auch in Verbindung mit Maßnahmen
+        nach § 5 Absatz 9 des Wertpapierinstitutsgesetzes,
+
+
+
 
 
 1c. durch vor Ort im Auftrag der Europäischen Zentralbank nach Artikel 12
@@ -1092,22 +1225,32 @@ Rechtsverpflichtungen zu erfüllen sind.
     Absatz 1 des Wertpapierhandelsgesetzes vorgenommene Prüfung,
 
 
-3.  auf Grund einer nach § 44 Abs. 3 des Kreditwesengesetzes vorgenommenen
-    Prüfung der Richtigkeit der für die Zusammenfassung nach § 10a Absatz
-    4 und 5 und § 25 Abs. 2 des Kreditwesengesetzes sowie nach Artikel 11
-    der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des
-    Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute
-    und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012
-    (ABl. L 176 vom 27.6.2013, S. 1) übermittelten Daten,
+3.  aufgrund einer nach § 44 Absatz 3 des Kreditwesengesetzes
+    vorgenommenen Prüfung der Richtigkeit der für die Zusammenfassung nach
+    § 10a Absatz 4 und 5 und § 25 Absatz 2 des Kreditwesengesetzes sowie
+    nach Artikel 11 der Verordnung (EU) Nr. 575/2013 in der Fassung vom
+    17\. Juni 2025 übermittelten Daten,
 
 
-4.  durch die Bestellung eines Abwicklers nach § 308 Absatz 1 Satz 2,
-    durch eine auf Grund des § 306 Absatz 1 Nummer 1, 2 oder 3, auch in
-    Verbindung mit § 306 Absatz 2, oder des § 306 Absatz 4 auch in
-    Verbindung mit Maßnahmen nach § 306 Absatz 5 und 6 jeweils auch in
-    Verbindung mit § 1 Absatz 3 und 4 Satz 1, § 65 Absatz 2 und 3, § 67
-    Absatz 2, § 225 Satz 3 oder § 237 Absatz 1 des
-    Versicherungsaufsichtsgesetzes vorgenommene Prüfung,
+4.  durch mindestens eine der folgenden Maßnahmen:
+
+    a)  die Bestellung eines Abwicklers nach § 308 Absatz 1 Satz 2,
+
+
+    b)  eine aufgrund des § 306 Absatz 1 Nummer 1, 2 oder 3 auch in Verbindung
+        mit § 306 Absatz 2 oder des § 306a Absatz 2 auch in Verbindung mit
+        Maßnahmen nach § 306a Absatz 4 jeweils auch in Verbindung mit § 1
+        Absatz 3 und 4 Satz 1, § 65 Absatz 2 und 3, § 67 Absatz 2, § 225 Satz
+        3 oder § 237 Absatz 1 des Versicherungsaufsichtsgesetzes vorgenommene
+        Prüfung,
+
+
+    c)  eine Durchsuchung nach § 306 Absatz 5 auch in Verbindung mit Maßnahmen
+        nach § 306 Absatz 6 oder § 306a Absatz 3 auch in Verbindung mit
+        Maßnahmen nach § 306a Absatz 4 des Versicherungsaufsichtsgesetzes,
+
+
+
 
 
 5.  (weggefallen)
@@ -1133,9 +1276,14 @@ Rechtsverpflichtungen zu erfüllen sind.
         Kapitalanlagegesetzbuchs,
 
 
-    d)  eine Prüfung, die auf Grund des § 14 des Kapitalanlagegesetzbuchs in
-        Verbindung mit § 44 Absatz 1 oder § 44b Absatz 2 des
-        Kreditwesengesetzes vorgenommen wird,
+    d)  eine Prüfung, die aufgrund des § 14 Absatz 2 Satz 2 bis 4 auch in
+        Verbindung mit Maßnahmen nach § 14 Absatz 4 des
+        Kapitalanlagengesetzbuches vorgenommen wird,
+
+
+    e)  eine Durchsuchung, die aufgrund des § 14 Absatz 3 auch in Verbindung
+        mit Maßnahmen nach § 14 Absatz 4 des Kapitalanlagengesetzbuches
+        vorgenommen wird,
 
 
 
@@ -1168,19 +1316,29 @@ Rechtsverpflichtungen zu erfüllen sind.
         Zahlungsdiensteaufsichtsgesetzes,
 
 
-    c)  eine Prüfung, die vorgenommen wurde auf Grund
+    c)  eine Prüfung, die vorgenommen wurde aufgrund
 
         aa) des § 39 Absatz 3 oder Absatz 4, jeweils in Verbindung mit § 8 Absatz
-            2, 3 oder 4 oder § 19 Absatz 1 Satz 3 des
-            Zahlungsdiensteaufsichtsgesetzes,
+            2, 3 oder 4 oder § 19 Absatz 1 Satz 3 auch in Verbindung mit Maßnahmen
+            nach § 19 Absatz 6 des Zahlungsdiensteaufsichtsgesetzes,
 
 
         bb) des § 8 Absatz 2, auch in Verbindung mit Maßnahmen nach Absatz 3 oder
-            Absatz 4 oder des § 19 Absatz 1 Satz 3 des
-            Zahlungsdiensteaufsichtsgesetzes,
+            Absatz 4 oder des § 19 Absatz 1 Satz 3 auch in Verbindung mit
+            Maßnahmen nach § 19 Absatz 6 des Zahlungsdiensteaufsichtsgesetzes,
+
+
+        cc) des § 19 Absatz 1 Satz 3 bis 5 auch in Verbindung mit Maßnahmen nach
+            Absatz 6 des Zahlungsdiensteaufsichtsgesetzes,
 
 
 
+
+
+    d)  eine Durchsuchung, die vorgenommen wurde aufgrund des § 19 Absatz 5
+        auch in Verbindung mit Maßnahmen nach Absatz 6 oder nach § 8 Absatz 3
+        auch in Verbindung mit Maßnahmen nach Absatz 4 des
+        Zahlungsdiensteaufsichtsgesetzes,
 
 
 
@@ -1202,12 +1360,33 @@ Rechtsverpflichtungen zu erfüllen sind.
     vorgenommene Prüfung,
 
 
-13. durch die Bestellung eines Abwicklers nach § 9 Absatz 1 Satz 2 Nummer
-    2 oder § 13 Absatz 2 Satz 2 des Kryptomärkteaufsichtsgesetzes, durch
-    eine Bekanntmachung nach § 30 Satz 1 oder § 35 Absatz 2 Satz 1 des
-    Kryptomärkteaufsichtsgesetzes, durch eine aufgrund des § 20 Absatz 2
-    auch in Verbindung mit § 25 Absatz 2 des Kryptomärkteaufsichtsgesetzes
-    vorgenommene Prüfung,
+13. durch
+
+    a)  die Bestellung eines Abwicklers nach § 9 Absatz 1 Satz 2 Nummer 2 oder
+        § 13 Absatz 2 Satz 2 des Kryptomärkteaufsichtsgesetzes,
+
+
+    b)  eine Bekanntmachung nach § 30 Satz 1 oder § 35 Absatz 2 Satz 1 des
+        Kryptomärkteaufsichtsgesetzes,
+
+
+    c)  eine aufgrund des § 10 Absatz 2 auch in Verbindung mit Maßnahmen nach
+        § 10 Absatz 4 oder des
+        § 20                          Absatz 2 auch in Verbindung mit § 25
+        Absatz 2 des Kryptomärkteaufsichtsgesetzes vorgenommene Prüfung,
+
+
+    d)  eine aufgrund des § 20 Absatz 3 auch in Verbindung mit Maßnahmen nach
+        Absatz 4 oder aufgrund des § 25 Absatz 3 des
+        Kryptomärkteaufsichtsgesetzes auch in Verbindung mit Maßnahmen nach
+        Absatz 4 vorgenommene Durchsuchung,
+
+
+    e)  eine aufgrund des § 10 Absatz 3 auch in Verbindung mit Maßnahmen nach
+        § 10 Absatz 4 vorgenommene Durchsuchung,
+
+
+
 
 
 
@@ -1329,8 +1508,9 @@ nach den maßgeblichen Aufsichtsgesetzen in die Zuständigkeit der
 Bundesanstalt fallen, getrennt zu ermitteln:
 
 1.  Kredit-, Finanzdienstleistungs-, Wertpapierinstituts-,
-    Zahlungsdienste-, Krypto- und inländisches Investmentwesen
-    (Aufgabenbereich Banken und sonstige Finanzdienstleistungen),
+    Zahlungsdienste-, Schwarmfinanzierungs-, Krypto- und inländisches
+    Investmentwesen (Aufgabenbereich Banken und sonstige
+    Finanzdienstleistungen),
 
 
 2.  Versicherungswesen (Aufgabenbereich Versicherungen),
@@ -1437,23 +1617,27 @@ folgenden Gruppen zu erfolgen:
     Satz 2 Nummer 1 bis 11 oder Satz 3 des Kreditwesengesetzes und die
     nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen,
     soweit die Finanzdienstleistungsinstitute und Unternehmen nicht
-    ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer
+    ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer
     9 oder 10 des Kreditwesengesetzes erbringen, Wertpapierinstitute,
     Institute im Sinne des § 1 Absatz 3 des
     Zahlungsdiensteaufsichtsgesetzes, die nach § 42 des
-    Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen, Institute im
-    Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes,
-    Kreditdienstleistungsinstitute mit einer Erlaubnis nach § 10 Absatz 1
+    Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen,
+    Schwarmfinanzierungsdienstleister mit einer von der Bundesanstalt
+    erteilten Erlaubnis zur Erbringung von Schwarmfinanzierungs-
+    Dienstleistungen nach Artikel 2 Absatz 1 Buchstabe a Ziffer i oder ii
+    der Verordnung (EU) 2020/1503 in der Fassung vom 12. Juli 2022,
+    Institute im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes,
+    Kreditdienstleistungsinstitute mit einer Erlaubnis nach § 10 Absatz 1
     Satz 1 des Kreditzweitmarktgesetzes sowie die Kreditanstalt für
     Wiederaufbau, wobei
 
-    a)  Kreditinstitute und entsprechend nach § 53 des Kreditwesengesetzes
-        tätige Unternehmen, die Bankgeschäfte betreiben und gleichzeitig das
-        E-Geld-Geschäft betreiben oder Zahlungsdienste erbringen,
-        ausschließlich als Kreditinstitute und
+    a)  Kreditinstitute und entsprechend nach § 53 des Kreditwesengesetzes
+        tätige Unternehmen, die Bankgeschäfte und gleichzeitig das E-Geld-
+        Geschäft betreiben oder Zahlungsdienste erbringen, ausschließlich als
+        Kreditinstitute und
 
 
-    b)  Finanzdienstleistungsinstitute und entsprechend nach § 53 des
+    b)  Finanzdienstleistungsinstitute und entsprechend nach § 53 des
         Kreditwesengesetzes tätige Unternehmen, die Finanzdienstleistungen
         erbringen und gleichzeitig das E-Geld-Geschäft betreiben oder
         Zahlungsdienste erbringen, ausschließlich als
@@ -1483,23 +1667,14 @@ folgenden Gruppen zu erfolgen:
     Kapitalanlagegesetzbuchs,
 
 
-5.  Gruppe Datenbereitstellungsdienstleister: Betreiber von
-    Datenbereitstellungsdiensten mit einer Erlaubnis zum Erbringen von
-    Datenbereitstellungsdiensten nach § 32 Absatz 1f des
-    Kreditwesengesetzes, soweit ihnen keine Erlaubnis zum Betreiben von
-    Bankgeschäften oder zur Erbringung von Finanzdienstleistungen erteilt
-    ist und sie nach dem Kreditwesengesetz beaufsichtigt werden,
-
-
-6.  Gruppe Schwarmfinanzierungs-Dienstleister: Unternehmen mit einer von
-    der Bundesanstalt erteilten Erlaubnis zur Erbringung von
-    Schwarmfinanzierungs-Dienstleistungen nach Artikel 2 Absatz 1
-    Buchstabe a Ziffer i oder ii der Verordnung (EU) 2020/1503 des
-    Europäischen Parlaments und des Rates vom 7. Oktober 2020 über
-    Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur
-    Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU)
-    2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), soweit diese Unternehmen
-    nicht unter die Nummern 1 bis 5 fallen.
+5.  Gruppe Datenbereitstellungsdienste: Datenbereitstellungsdienste mit
+    einer Zulassung für das Erbringen von
+    Datenbereitstellungsdienstleistungen nach § 78d Absatz 1 des
+    Wertpapierinstitutsgesetzes in Verbindung mit Artikel 27b Absatz 1
+    Unterabsatz 2 der Verordnung (EU) Nr. 600/2014 in der Fassung vom 23.
+    Oktober 2024, soweit ihnen keine Erlaubnis zur Erbringung von
+    Wertpapierdienstleistungen erteilt ist und sie nach dem
+    Wertpapierinstitutsgesetz beaufsichtigt werden.
 
 
 
@@ -1573,8 +1748,14 @@ Banken und sonstige Finanzdienstleistungen ist zu bemessen:
     Bilanzsummen aller Umlagepflichtigen der Gruppe. Maßgebend ist die auf
     der Grundlage der jeweils anzuwendenden Rechnungslegungsvorschriften
     aufgestellte und festgestellte Bilanz für das Geschäftsjahr, das dem
-    Umlagejahr vorausgeht; bei den Abwicklungsanstalten ist die Bilanz für
-    das im Umlagejahr endende Geschäftsjahr maßgebend;
+    Umlagejahr vorausgeht; bei den Schwarmfinanzierungsdienstleistern, die
+    keine großen Kapitalgesellschaften sind, ist die durch eine
+    Bescheinigung eines Wirtschaftsprüfers, einer
+    Wirtschaftsprüfungsgesellschaft, eines vereidigten Buchprüfers, einer
+    Buchprüfungsgesellschaft, eines genossenschaftlichen Prüfungsverbandes
+    oder einer Prüfungsstelle der Sparkassen bestätigte Bilanzsumme
+    maßgebend; bei den Abwicklungsanstalten ist die Bilanz für das im
+    Umlagejahr endende Geschäftsjahr maßgebend;
 
 
 2.  in der Gruppe Kapitalverwaltungsgesellschaften und extern verwaltete
@@ -1598,9 +1779,8 @@ Banken und sonstige Finanzdienstleistungen ist zu bemessen:
     Berechnung nach Satz 2 doppelt gewichtet;
 
 
-3.  in der Gruppe Datenbereitstellungsdienstleister und in der Gruppe
-    Schwarmfinanzierungs-Dienstleister jeweils nach dem Verhältnis
-    zwischen der Anzahl der angefangenen Monate, in denen der einzelne
+3.  in der Gruppe Datenbereitstellungsdienst nach dem Verhältnis zwischen
+    der Anzahl der angefangenen Monate, in denen der einzelne
     Umlagepflichtige umlagepflichtig war, zur Gesamtzahl der angefangenen
     Monate eines jeden Umlagepflichtigen der Gruppe, in denen dieser
     jeweils im Umlagejahr umlagepflichtig war.
@@ -1627,7 +1807,9 @@ Banken und sonstige Finanzdienstleistungen ist zu bemessen:
 
 
     c)  die zu mehr als einem Fünftel bankgeschäfts-, finanzdienstleistungs-,
-        wertpapierinstituts-, zahlungsdienst-, e-Geld-geschäfts-,
+        wertpapierinstituts-,
+        zahlungsdienst-,                          E-Geld-geschäfts-,
+        schwarmfinanzierungsdienstleistungsgeschäfts-,
         kreditdienstleistungsfremde Geschäfte oder kryptoemissions- oder
         kryptowertedienstleistungsfremde Geschäfte betreiben, der dem
         Verhältnis der erlaubnispflichtigen Geschäfte, Finanz- oder
@@ -1709,9 +1891,8 @@ mitzuteilen, sofern bis zu diesem Zeitpunkt noch keine festgestellte
 und geprüfte Bilanz für das letzte Geschäftsjahr bei der Bundesanstalt
 eingereicht worden ist oder die eingereichte Bilanz nicht den
 Anforderungen der §§ 340 bis 340k des Handelsgesetzbuchs und der
-Kreditinstituts-Rechnungslegungsverordnung genügt. Bei
-Finanzdienstleistungsinstituten oder Kreditdienstleistungsinstituten,
-deren Bilanzsumme des letzten Geschäftsjahres 150 Millionen Euro nicht
+Kreditinstituts-Rechnungslegungsverordnung genügt. Sofern die
+Bilanzsumme des letzten Geschäftsjahres 150 Millionen Euro nicht
 übersteigt, können die Bestätigungen nach Satz 1 auch durch vereidigte
 Buchprüfer oder Buchprüfungsgesellschaften vorgenommen werden.
 
@@ -1785,6 +1966,14 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
             2023/1114;
 
 
+        dd) Schwarmfinanzierungsdienstleister mit einer von der Bundesanstalt
+            erteilten Erlaubnis zur Erbringung von Schwarmfinanzierungs-
+            Dienstleistungen nach Artikel 2 Absatz 1 Buchstabe a der Verordnung
+            (EU) 2020/1503 in der Fassung vom 12. Juli 2022, wenn die Erlaubnis in
+            diesen Fällen die Befugnis umfasst, sich Eigentum oder Besitz an
+            Geldern oder Wertpapieren oder Kryptowerten von Kunden zu verschaffen,
+
+
 
 
 
@@ -1822,6 +2011,14 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
             Anbieten vermögenswertreferenzierter Token oder für die Beantragung
             einer Zulassung zum Handel vermögenswertreferenzierter Token nach
             Artikel 16 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114;
+
+
+        dd) Schwarmfinanzierungsdienstleister mit einer von der Bundesanstalt
+            erteilten Erlaubnis zur Erbringung von Schwarmfinanzierungs-
+            Dienstleistungen nach Artikel 2 Absatz 1 Buchstabe a der Verordnung
+            (EU) 2020/1503 in der Fassung vom 12. Juli 2022, wenn die Erlaubnis
+            nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern,
+            Wertpapieren oder Kryptowerten von Kunden zu verschaffen,
 
 
 
@@ -3354,6 +3551,16 @@ Umlagejahr 2024 anzuwenden.
 (16) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 Buchstabe c
 und die §§ 16g, 16h, 16j, 16k und 16l sind in der ab dem 1. Juli 2024
 geltenden Fassung erstmals auf das Umlagejahr 2024 anzuwenden.
+
+(17) Die §§ 16e bis 16g in der ab dem 31. März 2026 geltenden Fassung
+sind erstmals für die Umlageabrechnung 2025 anzuwenden. Fehlbeträge,
+nicht eingegangene Beträge und Überschüsse der Vorjahre, die nach §
+16c Absatz 1 der für das Umlagejahr 2024 geltenden Fassung den Kosten
+der Gruppe der Schwarmfinanzierungsdienstleister in dem Umlagejahren
+2025 oder später zuzuordnen gewesen wären, sind bei den
+Umlageabrechnungen ab dem Umlagejahr 2025 der Gruppe Kredit- und
+Finanzdienstleistungsinstitute im Aufgabenbereich Banken und sonstige
+Finanzdienstleistungen zuzuordnen.
 
 
 ### § 24 Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
