@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.9.2012 I 2022;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.4.2025 I Nr. 107
+:   Art. 1 G v. 29.3.2026 I Nr. 85
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -3182,12 +3182,12 @@ Teile der elterlichen Sorge vorliegen. Satz 2 gilt entsprechend.
 
 (1) Die Urkundsperson beim Jugendamt ist befugt,
 
-1.  die Erklärung, durch die die Vaterschaft anerkannt oder die
-    Anerkennung widerrufen wird, die Zustimmungserklärung der Mutter sowie
-    die etwa erforderliche Zustimmung des Mannes, der im Zeitpunkt der
-    Geburt mit der Mutter verheiratet ist, des Kindes, des Jugendlichen
-    oder eines gesetzlichen Vertreters zu einer solchen Erklärung
-    (Erklärungen über die Anerkennung der Vaterschaft) zu beurkunden,
+1.  die Erklärung, durch die die Vaterschaft anerkannt wird, die
+    Zustimmungserklärung der Mutter sowie die etwa erforderliche
+    Zustimmungserklärung des Mannes, der dem Kind bislang als Vater
+    zugeordnet war, des Kindes, des Jugendlichen oder eines gesetzlichen
+    Vertreters zu einer solchen Erklärung (Erklärungen über die
+    Anerkennung der Vaterschaft) zu beurkunden,
 
 
 2.  die Erklärung, durch die die Mutterschaft anerkannt wird, sowie die
