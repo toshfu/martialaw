@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 4.10.2022 I 1614
 
+Änderung durch
+:   Art. 24 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Eingangsformel
@@ -41,13 +44,9 @@ Kreditwirtschaft:
 ### § 1 Anwendungsbereich; Begriffsbestimmungen
 
 (1) Diese Verordnung regelt die Anforderungen an Form und Inhalt der
-Deckungsregister nach § 5 Absatz 1 Satz 1 des Pfandbriefgesetzes, an
-Verfahren und Dokumentation der Zustimmung des Treuhänders nach § 5
-Absatz 1 Satz 2 und § 8 Absatz 4 Satz 1 des Pfandbriefgesetzes, die
-Form der Aufzeichnungen und Bestätigungen nach § 5 Abs. 2 des
-Pfandbriefgesetzes, die Art und Weise der Übermittlung der
-Aufzeichnungen sowie die Aufbewahrung der Aufzeichnungen durch die
-Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt).
+Deckungsregister nach § 5 Absatz 1 Satz 1 des Pfandbriefgesetzes sowie
+an Verfahren und Dokumentation der Zustimmung des Treuhänders nach § 5
+Absatz 1 Satz 2 und § 8 Absatz 4 Satz 1 des Pfandbriefgesetzes.
 
 (2) Eintragungen im Sinne dieser Verordnung sind auch
 Löschungsvermerke.
@@ -560,55 +559,12 @@ Schadlosstellung Verpflichteten (Name, Anschrift) in Spalte 5
 einzutragen.
 
 
-## Teil 4 - Aufzeichnungen und Bestätigungen nach § 5 Abs. 2 des Pfandbriefgesetzes
+## Teil 4 - (weggefallen)
 
 
 
-### § 15 Umfang der Aufzeichnung und Form der Übermittlung
+### (XXXX) §§ 15 bis 17 (weggefallen)
 
-(1) Die Aufzeichnung nach § 5 Absatz 2 des Pfandbriefgesetzes hat
-sämtliche Eintragungen in den Deckungsregistern vollständig
-wiederzugeben.
-
-(2) Die Aufzeichnung ist der Bundesanstalt in elektronischer Form zu
-übermitteln. Hierzu ist ein geeigneter, nicht mehr als einmal
-beschreibbarer Datenträger zu verwenden. Auf dem Datenträger sind der
-Name der Pfandbriefbank, die Pfandbriefgattungen, auf die sich die auf
-dem Datenträger gespeicherte Aufzeichnung bezieht, sowie das Datum des
-Datenabzugs dauerhaft anzubringen.
-
-
-### § 16 Treuhänderbestätigung
-
-(1) Der Treuhänder hat zu bestätigen, dass die Aufzeichnung nach § 5
-Absatz 2 des Pfandbriefgesetzes mindestens die Eintragungen des
-letzten Kalenderhalbjahres vollständig wiedergibt und mit ihnen
-inhaltlich übereinstimmt.
-
-(2) Der Treuhänder kann sich von der Vollständigkeit und inhaltlichen
-Übereinstimmung auch mittels einer angemessenen Stichprobe überzeugen.
-Sofern er von dieser Möglichkeit Gebrauch macht, hat er dies im Rahmen
-seiner Bestätigung kenntlich zu machen. Die Stichprobe ist
-nachvollziehbar zu dokumentieren, die Angemessenheit ist zu begründen.
-
-(3) Schreibfehler, Rechnungsfehler und ähnliche offenbare
-Unrichtigkeiten dürfen nur durch die Pfandbriefbank korrigiert werden.
-
-(4) Die Bestätigung hat schriftlich zu erfolgen. Die §§ 126 und 126a
-des Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
-Zusätzlich hat der Treuhänder auf einem auf dem Datenträger
-anzubringenden Aufkleber, der so mit dem Datenträger dauerhaft
-verbunden sein muss, dass er sich nicht ohne erkennbare Beschädigungen
-wieder entfernen lässt, seine Namensunterschrift beizufügen.
-
-
-### § 17 Aufbewahrung durch die Bundesanstalt
-
-Die Bundesanstalt hat die Aufzeichnungen zwei Jahre aufzubewahren. Die
-Aufzeichnungen sind vor unberechtigtem Zugriff sowie vor Beschädigung
-oder Zerstörung durch äußere Einwirkungen besonders zu schützen. Die
-Befugnisse zum physischen Zugriff auf die Aufzeichnungen sind auf
-bestimmte Mitarbeiter der Bundesanstalt zu beschränken.
 
 
 ## Teil 5 - Schlussbestimmungen
@@ -631,25 +587,19 @@ dem elektronisch geführten Teil des Deckungsregisters anzugeben. Die
 Einheitlichkeit des Deckungsregisters ist durch deutliche Verweise auf
 die in Papierform fortgeführten Bestandteile herzustellen.
 
-(3) Abweichend von § 15 Absatz 1 braucht die elektronisch zu
-übermittelnde Aufzeichnung vor dem 1. Juli 2021 in das
-Deckungsregister vorgenommene Eintragungen nur wiederzugeben, soweit
-sie der Pfandbriefbank am 8. Oktober 2022 in elektronischer Form
-bereits vorliegen. Macht die Pfandbriefbank von der Möglichkeit des
-Satzes 1 Gebrauch, so hat sie bei der jeweiligen Übermittlung der
-Aufzeichnung in elektronischer Form für Stichtage nach dem 30. Juni
-2021 das Datum des Stichtags derjenigen Aufzeichnung anzugeben, die
-die jüngste nicht von der elektronisch übermittelten Aufzeichnung
-umfasste Eintragung enthält. In diesem Fall hat die Bundesanstalt auf
-die für Stichtage bis einschließlich des in Satz 2 bezeichneten
-Stichtags übermittelten Aufzeichnungen § 17 mit der Maßgabe
-anzuwenden, dass die Aufbewahrungsdauer 50 Jahre beträgt.
+(3) (weggefallen)
 
 (4) Auf vor dem 1. Juli 2023 vorgenommene Eintragungen finden die §§ 9
 bis 12a und § 14 in ihrer am 7. Oktober 2022 geltenden Fassung
 Anwendung. § 4 Absatz 1 Satz 5 gilt nur für Seiten eines
 Hauptregisters oder Unterregisters, auf denen nach dem 30. Juni 2023
 Eintragungen vorgenommen werden.
+
+(5) Auf bis zum 31. März 2026 bei der Bundesanstalt für
+Finanzdienstleistungsaufsicht eingegangene Aufzeichnungen nach § 5
+Absatz 2 des Pfandbriefgesetzes in der bis zum 30. März 2026 geltenden
+Fassung sind die §§ 17 und 18 Absatz 3 in der bis zum 30. März 2026
+geltenden Fassung bis zum 31. März 2027 anzuwenden.
 
 
 ### § 19 Inkrafttreten
