@@ -1212,16 +1212,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1.3.4.1.1
 
-    *   von Personen, die die Geschäfte einer Finanzholding-Gesellschaft
-        tatsächlich führen
+    *   von Geschäftsleitern einer Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
 
 *    *   5.1.3.4.1.2
 
-    *   von Personen, die die Geschäfte einer gemischten Finanzholding-
-        Gesellschaft tatsächlich führen
+    *   von Geschäftsleitern einer gemischten Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
@@ -1234,16 +1232,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1.3.4.2.1
 
-    *   von Personen, die die Geschäfte einer Finanzholding-Gesellschaft
-        tatsächlich führen
+    *   von Geschäftsleitern einer Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
 
 *    *   5.1.3.4.2.2
 
-    *   von Personen, die die Geschäfte einer gemischten Finanzholding-
-        Gesellschaft tatsächlich führen
+    *   von Geschäftsleitern einer gemischten Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
@@ -1264,6 +1260,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   5.1.3.4.3.2
+
+    *   Erteilung einer Befreiung von der Zulassungspflicht durch die
+        Aufsichtsbehörde auf Grundlage eines Befreiungsantrags
+        (§ 2f Absatz 4 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.3.4.3.3
 
     *   Maßnahmen nach § 2f Absatz 6 Satz 1 Nummer 1 bis 6 oder Satz 2 KWG
 
@@ -1311,6 +1316,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   5.1.4.4
 
     *   Anordnung nach § 10a KWG
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.4.5
+
+    *   Ausnahme einzelner Finanzholding-Gesellschaften oder gemischter
+        Finanzholding-Gesellschaften, die von der Zulassungspflicht nach § 2f
+        Absatz 1 befreit wurden, aus dem Konsolidierungskreis
+        (§ 10a Absatz 3 KWG)
 
     *   nach Zeitaufwand
 
