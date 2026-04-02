@@ -30,6 +30,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -850,6 +853,26 @@ sämtliche Streitigkeiten, die betreffen
 
 
 
+3d. die Errichtung, den Betrieb und die Änderung von
+
+    a)  Anlagen nach § 2 Absatz 1 Nummer 1 des
+        Wasserstoffbeschleunigungsgesetzes vom 29. März 2026 (BGBl. 2026 I Nr.
+        84, S. 2), in der jeweils geltenden Fassung, mit einer elektrischen
+        Nennleistung von mindestens 30 Megawatt und den dazugehörigen
+        Leitungen nach § 2 Absatz 1 Nummer 13 und 14 des
+        Wasserstoffbeschleunigungsgesetzes und
+
+
+    b)  Anlagen nach § 2 Absatz 1 Nummer 3 des
+        Wasserstoffbeschleunigungsgesetzes, sofern diese eine
+        Speicherkapazität von 25 Tonnen Wasserstoff oder mehr haben, und der
+        dazugehörigen Leitungen nach § 2 Absatz 1 Nummer 13 und 14 des
+        Wasserstoffbeschleunigungsgesetzes,
+
+
+
+
+
 4.  Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes,
     soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50
     Absatz 1 Nummer 6 begründet ist,
@@ -1029,10 +1052,9 @@ Rechtszug
     Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz
     bezeichnet sind, über sämtliche Streitigkeiten zu Verfahren im Sinne
     des § 17e Absatz 1 des Bundesfernstraßengesetzes, über sämtliche
-    Streitigkeiten, die Vorhaben zur Errichtung und zur Anbindung von
-    Terminals zum Import von Wasserstoff und Derivaten betreffen, sowie
-    über die ihm nach dem LNG-Beschleunigungsgesetz zugewiesenen
-    Verfahren,
+    Streitigkeiten, die in § 9 Absatz 2 des
+    Wasserstoffbeschleunigungsgesetzes bezeichnet sind, sowie über die ihm
+    nach dem LNG-Beschleunigungsgesetz zugewiesenen Verfahren,
 
 
 7.  über die ihm nach dem Energiesicherungsgesetz zugewiesenen Verfahren.
