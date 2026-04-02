@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 1034; 2013, 3212
 
 Zuletzt geändert durch
-:   Art. 34 V v. 19.6.2020 I 1328
+:   Art. 2 Abs. 1 G v. 20.3.2026 I Nr. 95
 
 Stand: Dieses G ist gem. § 6 iVm Bek. v. 8.8.2013 I 3212 mWv 1.9.2013 in Kraft getreten
 
@@ -70,7 +70,7 @@ der Verhütung, Aufdeckung oder Ermittlung
 1.  einer Straftat nach den §§ 129a und 129b des Strafgesetzbuches,
 
 
-2.  einer in § 129a Abs. 1 Nr. 1 und 2, Abs. 2 Nr. 1 bis 5 des
+2.  einer in § 129a Abs. 1 Nr. 1 und 2, Abs. 2 Nr. 1 bis 6 des
     Strafgesetzbuches bezeichneten Straftat, wenn diese bestimmt ist, die
     Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder
     eine internationale Organisation rechtswidrig mit Gewalt oder durch
@@ -90,14 +90,13 @@ der Verhütung, Aufdeckung oder Ermittlung
 
 
 4.  einer Straftat im Zusammenhang mit terroristischen Aktivitäten gemäß
-    Artikel 3 des Rahmenbeschlusses 2002/475/JI des Rates vom 13. Juni
-    2002 zur Terrorismusbekämpfung (ABl. EG Nr. L 164 S. 3), der zuletzt
-    durch Artikel 1 Nummer 1 des Rahmenbeschlusses 2008/919/JI (ABl. L 330
-    vom 9.12.2008, S. 21) geändert worden ist,
+    Artikel 12 der Richtlinie (EU) 2017/541 in der Fassung vom 15. März
+    2017,
 
 
-4a. einer Straftat nach § 94 Absatz 2, den §§ 95 bis 97a, 98 Absatz 1, §
-    99 Absatz 1 und 2, § 100 Absatz 2 und § 100a des Strafgesetzbuches,
+4a. einer Straftat nach den §§ 87a, 94 Absatz 2, den §§ 95 bis 97a, 98
+    Absatz 1, § 99 Absatz 1 und 2, § 100 Absatz 2 und § 100a des
+    Strafgesetzbuches,
 
 
 5.  einer Straftat, die mit einer Freiheitsstrafe im Höchstmaß von
