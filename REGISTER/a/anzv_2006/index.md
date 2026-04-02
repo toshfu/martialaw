@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 38 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 7 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute
@@ -964,22 +967,24 @@ zu berücksichtigen sind Zweigstellen, die
 
 (1) Anzeigen nach § 24 Absatz 1a Nummer 5 des Kreditwesengesetzes sind
 von CRR-Kreditinstituten, die als bedeutend im Sinne des § 1 Absatz 3c
-des Kreditwesengesetzes gelten oder von der Aufsichtsbehörde oder der
+des Kreditwesengesetzes gelten, bei denen die Europäische Zentralbank
+Aufsichtsbehörde ist oder die von der Aufsichtsbehörde oder der
 Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 15.
 Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres
-abgeschlossenen Geschäftsjahres mit den Formularen „R 01.00”, „R
-02\.00”, „R 03.00”, „R 05.00”, „R 09.00”, „R 10.00”, „R 11.00”, „R
-12\.00.a” und „R 12.00.b” nach den Anlagen 13 bis 21 einzureichen. Satz
-1 gilt für Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des
+abgeschlossenen Geschäftsjahr mit den Formularen „R 01.00”, „R 02.00”,
+„R 03.00”, „R 05.00”, „R 09.00”, „R 10.00”, „R 11.00”, „R 12.00.a” und
+„R 12.00.b” nach den Anlagen 13 bis 21 einzureichen. Satz 1 gilt für
+Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des
 Kreditwesengesetzes und für nachgeordnete Unternehmen im Sinne des §
 10a Absatz 1 Satz 3 des Kreditwesengesetzes mit der Maßgabe
 entsprechend, dass das übergeordnete Unternehmen mit Sitz im Inland
 die Angaben auf zusammengefasster oder teilkonsolidierter Basis
 einzureichen hat, sofern der Gruppe mindestens ein bedeutendes
-Institut im Sinne des § 1 Absatz 3c des Kreditwesengesetzes angehört.
-Für Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im
-Sinne des § 10a Absatz 2 Satz 1 des Kreditwesengesetzes gilt Satz 2
-entsprechend.
+Institut im Sinne des § 1 Absatz 3c des Kreditwesengesetzes angehört
+oder ein CRR-Kreditinstitut, bei dem die Europäische Zentralbank
+Aufsichtsbehörde ist. Für Finanzholding-Gruppen oder gemischte
+Finanzholding-Gruppen im Sinne des § 10a Absatz 2 Satz 1 des
+Kreditwesengesetzes gilt Satz 2 entsprechend.
 
 (2) Anzeigen nach § 24 Absatz 1a Nummer 6 des Kreditwesengesetzes über
 Geschäftsleiter, Mitglieder des Verwaltungs- oder Aufsichtsorgans und
@@ -1023,14 +1028,15 @@ Anzeige erfolgt auf Einzelinstitutsebene.
 
 (4) Anzeigen nach § 24 Absatz 1d des Kreditwesengesetzes zum
 geschlechtsspezifischen Lohngefälle sind von CRR-Kreditinstituten, die
-bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind oder
-die von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu
-aufgefordert wurden, der Aufsichtsbehörde und der Deutschen Bundesbank
-dreijährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31.
-Dezember des Vorjahres abgeschlossenen Geschäftsjahres mit den
-Formularen „R 06.00.a“ und „R 06.00.b“ nach den Anlagen 26 und 27
-einzureichen. In Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1
-des Kreditwesengesetzes sind dabei die Angaben zum Lohngefälle des
+bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind, bei
+denen die Europäische Zentralbank Aufsichtsbehörde ist oder die von
+der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert
+wurden, der Aufsichtsbehörde und der Deutschen Bundesbank dreijährlich
+bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des
+Vorjahres abgeschlossenen Geschäftsjahr mit den Formularen „R 06.00.a“
+und „R 06.00.b“ nach den Anlagen 26 und 27 einzureichen. In
+Institutsgruppen im Sinne des § 10a Absatz 1 Satz 1 des
+Kreditwesengesetzes sind dabei die Angaben zum Lohngefälle des
 übergeordneten Unternehmens zugrunde zu legen. In Finanzholding-
 Gruppen oder gemischten Finanzholding-Gruppen im Sinne des § 10a
 Absatz 2 Satz 1 des Kreditwesengesetzes sind der Anzeige die Angaben
