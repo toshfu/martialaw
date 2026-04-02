@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.6.1994 I 1537;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2025 I Nr. 349
-
-Änderung durch
-:   Art. 2 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 10.2.2026 I Nr. 39
 
 
 ## Erster Teil - Anwendungsbereich
