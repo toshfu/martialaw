@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 52 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 23 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Anwendungsbereich, Erlaubnis und Aufsicht
 
@@ -431,8 +434,8 @@ veröffentlichten Angaben zu veröffentlichen. Eine Anordnung nach Satz
 frühestens jedoch drei Monate nach ihrem Erlass.
 
 (3b) Absatz 3a Satz 1 und 2 gilt entsprechend bei im Rahmen der
-Jahresabschlussprüfung oder von Sonderprüfungen nach § 44 Absatz 1
-Satz 2 des Kreditwesengesetzes, einschließlich Deckungsprüfungen nach
+Jahresabschlussprüfung oder von Sonderprüfungen nach § 44 Absatz 1
+Satz 3 des Kreditwesengesetzes, einschließlich Deckungsprüfungen nach
 § 3 Absatz 1 Satz 3, festgestellten Mängeln, die die Deckungsrechnung
 nach Absatz 4, die Deckungsregisterführung nach § 5, die Anforderungen
 an das Risikomanagement nach § 27, das pfandbriefrechtliche Meldewesen
@@ -679,28 +682,21 @@ Deckungswerte sind innerhalb eines angemessenen Zeitraums in das
 Hauptregister und entsprechende Unterregister des jeweiligen
 Deckungsregisters der übernehmenden Pfandbriefbank zu übertragen.
 
-(2) Innerhalb des ersten Monats eines jeden Kalenderhalbjahres hat die
-Pfandbriefbank der Bundesanstalt eine Aufzeichnung sämtlicher
-Eintragungen des Deckungsregisters in elektronischer Form zu
-übermitteln. Der nach § 7 bestellte Treuhänder hat dabei die
-Übereinstimmung mindestens der das letzte Kalenderhalbjahr
-betreffenden Eintragungen mit den im entsprechenden Kalenderhalbjahr
-im Deckungsregister vorgenommenen Eintragungen zu bestätigen. Das
-Nähere regelt die Rechtsverordnung nach Absatz 3.
+(2) Die Pfandbriefbank hat in geeigneter Weise sicherzustellen, dass
+für den Fall des Verlusts oder der Beschädigung des Deckungsregisters
+jederzeit die zu seiner Wiederherstellung erforderlichen Informationen
+sicher verwahrt werden.
 
 (3) Das Bundesministerium der Finanzen hat durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, Einzelheiten über die
 Form und den notwendigen Inhalt des Deckungsregisters sowie der
 vorzunehmenden Eintragungen, einschließlich Verfahren und
 Dokumentation der Zustimmung des Treuhänders nach Absatz 1 Satz 2 und
-§ 8 Absatz 4 Satz 1, zu bestimmen. Die Rechtsverordnung muss auch
-Vorschriften über die Form der Aufzeichnung, über die Form der
-Bestätigung durch den Treuhänder sowie über die Art und Weise der
-Übermittlung der Aufzeichnung und deren Aufbewahrung durch die
-Bundesanstalt enthalten. Vor Erlass der Rechtsverordnung sind die
-Spitzenverbände der Kreditwirtschaft anzuhören. Das Bundesministerium
-der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die
-Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+§ 8 Absatz 4 Satz 1, zu bestimmen. Vor Erlass der Rechtsverordnung
+sind die Spitzenverbände der Kreditwirtschaft anzuhören. Das
+Bundesministerium der Finanzen kann diese Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt für
+Finanzdienstleistungsaufsicht übertragen.
 
 
 ### § 6 Inhalt der Pfandbriefe
