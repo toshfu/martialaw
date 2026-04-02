@@ -70,22 +70,17 @@ Im Sinne dieses Gesetzes ist oder sind
     1959 zum Zusatzabkommen (BGBl. 1961 II S. 1313; 1972 II S. 687);
 
 
-8.  Zollkodex: die Verordnung (EWG) Nr. 2913/92 des Europäischen
-    Parlaments und des Rates vom 12. Oktober 1992 zur Festlegung des
-    Zollkodex der Gemeinschaften (ABl. EG Nr. L 302 S. 1, 1993 Nr. L 79 S.
-    84, 1996 Nr. L 97 S. 38), zuletzt geändert durch die Verordnung (EG)
-    Nr. 1791/2006 des Rates vom 20. November 2006 (ABl. EU Nr. L 363 S.
-    1), in der jeweils geltenden Fassung;
+8.  Zollkodex der Union: die Verordnung (EU) Nr. 952/2013;
 
 
-9.  Zollkodex-Durchführungsverordnung: die Verordnung (EWG) Nr. 2454/93
-    der Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der
-    Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex
-    der Gemeinschaften (ABl. EG Nr. L 253 S. 1, 1994 Nr. L 268 S. 32, 1996
-    Nr. L 180 S. 34, 1997 Nr. L 156 S. 59, 1999 Nr. L 111 S. 88), zuletzt
-    geändert durch die Verordnung (EG) Nr. 214/2007 der Kommission vom 28.
-    Februar 2007 (ABl. EU Nr. L 62 S. 6), in der jeweils geltenden
-    Fassung;
+9.  Delegierte Verordnung zum Zollkodex: die Verordnung (EU) 2015/2446;
+
+
+9a. Durchführungsverordnung zum Zollkodex: die Verordnung (EU) 2015/2447;
+
+
+9b. Übergangsverordnung zum Zollkodex: die Delegierte Verordnung (EU)
+    2016/341;
 
 
 10. Zollverwaltungsgesetz: das Zollverwaltungsgesetz vom 21. Dezember 1992
@@ -123,7 +118,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 15. Mitgliedstaat: jeder Staat der Europäischen Union, soweit sein Gebiet
-    Zollgebiet der Gemeinschaft nach Artikel 3 des Zollkodex ist;
+    Zollgebiet der Union nach Artikel 4 des Zollkodex der Union ist;
 
 
 16. Drittland: jeder Staat, der kein Mitgliedstaat ist;
@@ -141,8 +136,8 @@ Im Sinne dieses Gesetzes ist oder sind
     Zollverwaltungsgesetzes);
 
 
-20. Einheitspapier: das in der Zollkodex-Durchführungsverordnung als
-    Einheitspapier bezeichnete Formular;
+20. Einheitspapier: das im Anhang B-01 der Delegierten Verordnung zum
+    Zollkodex als Einheitspapier bezeichnete Formular;
 
 
 21. Formblatt 302: die in Artikel XI des NATO-Truppenstatuts genannte
@@ -192,23 +187,23 @@ genannten Vergünstigungen für die ausländischen Streitkräfte, deren
 Mitglieder oder für die Hauptquartiere und deren Mitglieder werden
 durch dieses Gesetz nicht berührt.
 
-(2) Dieses Gesetz gilt im deutschen Teil des Zollgebiets der
-Gemeinschaft im Sinne des Artikels 3 Abs. 1 dritter Anstrich des
-Zollkodex.
+(2) Dieses Gesetz gilt im deutschen Teil des Zollgebiets der Union im
+Sinne des Artikels 4 fünfter Anstrich des Zollkodex der Union.
 
 (3) Die Truppenverwendung ist ein nationales Zollverfahren. Sie gilt
-als Zollverfahren und Nichterhebungsverfahren im Sinne des Zollkodex.
-Der Zollkodex und die Zollkodex-Durchführungsverordnung finden
-Anwendung, soweit in den in Absatz 1 genannten Abkommen und den dazu
-geschlossenen Verwaltungsvereinbarungen in diesem Gesetz oder in der
+als Zollverfahren im Sinne des Zollkodex der Union. Der Zollkodex der
+Union, die Delegierte Verordnung zum Zollkodex und die
+Durchführungsverordnung zum Zollkodex finden Anwendung, soweit in den
+in Absatz 1 genannten Abkommen und den dazu geschlossenen
+Verwaltungsvereinbarungen in diesem Gesetz oder in der
 Rechtsverordnung zu diesem Gesetz nichts anderes geregelt ist. Jede
-aus einer Einfuhrware hergestellte oder gewonnene Ware gilt als
-Nichtgemeinschaftsware und als in die Truppenverwendung übergeführt.
+aus einer Einfuhrware hergestellte oder gewonnene Ware gilt als Nicht-
+Unionsware und als in die Truppenverwendung übergeführt.
 
 
-## § 3 Überführung von Nichtgemeinschaftswaren in die Truppenverwendung
+## § 3 Überführung von Nicht-Unionswaren in die Truppenverwendung
 
-(1) Nichtgemeinschaftswaren, die
+(1) Nicht-Unionswaren, die
 
 1.  ausländische Streitkräfte oder Mitglieder der ausländischen
     Streitkräfte frei von Einfuhrabgaben nach Artikel XI des NATO-
@@ -247,41 +242,39 @@ ist durch die nichtberechtigte Person nachzuweisen.
 erfolgen im Rahmen internationaler Abkommen
 
 1.  schriftlich mit dem Formblatt 302, wenn die ausländischen Streitkräfte
-    oder Hauptquartiere Nichtgemeinschaftswaren selbst aus einem Drittland
+    oder Hauptquartiere Nicht-Unionswaren selbst aus einem Drittland
     einführen, aus einem Mitgliedstaat in einem Versandverfahren einführen
     oder aus Freizonen beziehen;
 
 
 2.  schriftlich mit dem Formblatt 302, wenn nichtberechtigte Personen im
-    Auftrag der ausländischen Streitkräfte oder Hauptquartiere
-    Nichtgemeinschaftswaren zur unmittelbaren und vollständigen
-    Belieferung der ausländischen Streitkräfte oder Hauptquartiere aus
-    einem Drittland einführen, aus einem Mitgliedstaat in einem
-    Versandverfahren einführen oder aus Freizonen beziehen;
+    Auftrag der ausländischen Streitkräfte oder Hauptquartiere Nicht-
+    Unionswaren zur unmittelbaren und vollständigen Belieferung der
+    ausländischen Streitkräfte oder Hauptquartiere aus einem Drittland
+    einführen, aus einem Mitgliedstaat in einem Versandverfahren einführen
+    oder aus Freizonen beziehen;
 
 
 3.  schriftlich mit dem Formblatt 302 oder durch die tatsächliche Einfuhr
     und die Ausfertigung des Formblatts 302, wenn die ausländischen
-    Streitkräfte oder Hauptquartiere ihre Nichtgemeinschaftswaren selbst
-    über einen Militärflug- oder -seehafen im Geltungsbereich dieses
-    Gesetzes aus einem Drittland einführen;
+    Streitkräfte oder Hauptquartiere ihre Nicht-Unionswaren selbst über
+    einen Militärflug- oder -seehafen im Geltungsbereich dieses Gesetzes
+    aus einem Drittland einführen;
 
 
 4.  schriftlich mit Abwicklungsschein durch den Inhaber der Bewilligung
-    des Zollverfahrens mit wirtschaftlicher Bedeutung, wenn ausländische
-    Streitkräfte, deren Entsendestaat Vertragspartei des Zusatzabkommens
-    ist, oder Hauptquartiere Nichtgemeinschaftswaren aus Zollverfahren mit
-    wirtschaftlicher Bedeutung beziehen; im Fall von ausländischen
-    Streitkräften, deren Entsendestaat nicht Vertragspartei des
-    Zusatzabkommens ist, erfolgt die Anmeldung zur Lieferung aus dem
-    Zolllager jedoch schriftlich mit dem Formblatt 302;
+    des besonderen Verfahrens, wenn ausländische Streitkräfte, deren
+    Entsendestaat Vertragspartei des Zusatzabkommens ist, oder
+    Hauptquartiere Nicht-Unionswaren aus besonderen Verfahren beziehen; im
+    Fall von ausländischen Streitkräften, deren Entsendestaat nicht
+    Vertragspartei des Zusatzabkommens ist, erfolgt die Anmeldung zur
+    Lieferung aus dem Zolllager jedoch schriftlich mit dem Formblatt 302;
 
 
 5.  schriftlich mit der Einfuhr-/Erwerbsgenehmigung, wenn Mitglieder der
-    ausländischen Streitkräfte oder der Hauptquartiere
-    Nichtgemeinschaftswaren, die in Absatz 3 genannt sind, aus einem
-    Drittland einführen oder aus Nichterhebungsverfahren oder Freizonen
-    beziehen;
+    ausländischen Streitkräfte oder der Hauptquartiere Nicht-Unionswaren,
+    die in Absatz 3 genannt sind, aus einem Drittland einführen oder aus
+    besonderen Verfahren beziehen;
 
 
 6.  schriftlich mit Einfuhr-/Erwerbsgenehmigung, mündlich oder durch das
@@ -290,25 +283,24 @@ erfolgen im Rahmen internationaler Abkommen
     einer anderen Zollanmeldung oder durch die Benutzung eines grünen
     Ausgangs „anmeldefreie Waren“, wenn Mitglieder der ausländischen
     Streitkräfte oder der Hauptquartiere andere als die in Absatz 3
-    genannten Nichtgemeinschaftswaren aus einem Drittland einführen oder
-    aus Nichterhebungsverfahren oder Freizonen beziehen;
+    genannten Nicht-Unionswaren aus einem Drittland einführen oder aus
+    besonderen Verfahren beziehen;
 
 
 7.  schriftlich mit Einfuhr-/Erwerbsgenehmigung oder durch das
     Entgegennehmen der Militärpostsendung, wenn Mitglieder der
-    ausländischen Streitkräfte oder der Hauptquartiere
-    Nichtgemeinschaftswaren zum Eigenbedarf im Militärpostverkehr aus
-    einem Drittland einführen;
+    ausländischen Streitkräfte oder der Hauptquartiere Nicht-Unionswaren
+    zum Eigenbedarf im Militärpostverkehr aus einem Drittland einführen;
 
 
 8.  schriftlich mit Einheitspapier, wenn nichtberechtigte Personen nach §
-    3 Abs. 2 Waren in anderen als den in Nummer 2 genannten Fällen aus
+    3 Absatz 2 Waren in anderen als den in Nummer 2 genannten Fällen aus
     einem Drittland einführen.
 
 
 
 
-(2) Nichtgemeinschaftswaren, die durch Mitglieder der ausländischen
+(2) Nicht-Unionswaren, die durch Mitglieder der ausländischen
 Streitkräfte oder der Hauptquartiere aus einem Drittland eingeführt
 werden und die Verboten oder Beschränkungen unterliegen, sind
 schriftlich bei der Zollstelle anzumelden. Die
@@ -338,16 +330,17 @@ häuslichen Gebrauch bestimmt sind, oder ob die Person, die die Waren
 einführt, Mitglied der ausländischen Streitkräfte oder der
 Hauptquartiere ist.
 
-(4) Im Sinne des Absatzes 1 Nr. 3, 6 und 7 gelten die betreffenden
+(4) Im Sinne des Absatzes 1 Nummer 3, 6 und 7 gelten die betreffenden
 Waren als gestellt, die Zollanmeldung als angenommen und die Waren zur
 Truppenverwendung überlassen, wenn sie nicht schriftlich angemeldet
 werden.
 
-(5) Besteht in den Fällen des Absatzes 1 Nr. 5 keine Möglichkeit zur
-Entgegennahme der schriftlichen Zollanmeldung, so gelten die Waren als
-Waren in vorübergehender Verwahrung. Sie sind unverzüglich, spätestens
-jedoch innerhalb von 20 Tagen nach der Einfuhr bei der örtlich
-zuständigen Zollstelle unverändert zu gestellen und anzumelden.
+(5) Besteht in den Fällen des Absatzes 1 Nummer 5 keine Möglichkeit
+zur Entgegennahme der schriftlichen Zollanmeldung, so gelten die Waren
+als Waren in vorübergehender Verwahrung. Sie sind unverzüglich,
+spätestens jedoch innerhalb von 20 Tagen nach der Einfuhr bei der
+örtlich zuständigen Zollstelle unverändert zu gestellen und
+anzumelden.
 
 (6) Besteht in den Fällen des Absatzes 2 keine Möglichkeit zur
 Entgegennahme der schriftlichen Zollanmeldung und ist das Mitglied der
@@ -392,18 +385,18 @@ mindestens die Identitätsbezeichnung der Zollanmeldung und den
 
 ## § 6 Vereinfachte Zollanmeldung
 
-Die Vorschriften des Zollkodex sowie der Zollkodex-
-Durchführungsverordnung (Teil I Titel IX) zur vereinfachten
-Zollanmeldung von Waren zum zollrechtlich freien Verkehr gelten für
-die Zollanmeldung zur Truppenverwendung nach § 4 Abs. 1 Nr. 8
-entsprechend.
+Die Vorschriften des Zollkodex der Union, der Delegierten Verordnung
+zum Zollkodex und der Durchführungsverordnung zum Zollkodex zur
+vereinfachten Zollanmeldung von Waren zum zollrechtlich freien Verkehr
+gelten für die Zollanmeldung zur Truppenverwendung nach § 4 Absatz 1
+Nummer 8 entsprechend.
 
 
 ## § 7 Einfuhrhöchstmengen
 
 Folgende Waren der Mitglieder der ausländischen Streitkräfte und der
 Hauptquartiere sind einmal monatlich im persönlich mitgeführten Gepäck
-innerhalb folgender Höchstmengen nach Artikel 66 Abs. 2 des
+innerhalb folgender Höchstmengen nach Artikel 66 Absatz 2 des
 Zusatzabkommens, auch in Verbindung mit Artikel 2 des
 Statusübereinkommens, einfuhrabgabenfrei:
 
@@ -454,30 +447,30 @@ Statusübereinkommens, einfuhrabgabenfrei:
 
 
 
-## § 8 Einfuhr von Nichtgemeinschaftswaren aus anderen Mitgliedstaaten
+## § 8 Einfuhr von Nicht-Unionswaren aus anderen Mitgliedstaaten
 
-Nichtgemeinschaftswaren, die ausländische Streitkräfte, Hauptquartiere
-oder ihre Mitglieder zu den in § 3 Abs. 1 genannten Zwecken aus
-anderen Mitgliedstaaten in den Geltungsbereich dieses Gesetzes
-einführen, gelten mit der Einfuhr als gestellt und zur
-Truppenverwendung angemeldet. Die Zollanmeldung gilt als angenommen
-und die Waren gelten als überlassen. Dies gilt nicht, wenn die Waren
-sich bei der Einfuhr in einem Nichterhebungsverfahren befinden.
+Nicht-Unionswaren, die ausländische Streitkräfte, Hauptquartiere oder
+ihre Mitglieder zu den in § 3 Absatz 1 genannten Zwecken aus anderen
+Mitgliedstaaten in den Geltungsbereich dieses Gesetzes einführen,
+gelten mit der Einfuhr als gestellt und zur Truppenverwendung
+angemeldet. Die Zollanmeldung gilt als angenommen und die Waren gelten
+als überlassen. Dies gilt nicht, wenn die Waren sich bei der Einfuhr
+in einem besonderen Verfahren befinden.
 
 
-## § 9 Übergang von Gemeinschaftswaren in die Truppenverwendung
+## § 9 Übergang von Unionswaren in die Truppenverwendung
 
-(1) Gemeinschaftswaren, die ausländischen Streitkräften
+(1) Unionswaren, die ausländischen Streitkräften
 
 1.  nach Artikel 67 des Zusatzabkommens umsatz- oder verbrauchsteuerfrei
     oder unter Vergütung der Verbrauchsteuer,
 
 
-2.  unter den Voraussetzungen des § 1c Abs. 1 des Umsatzsteuergesetzes,
+2.  unter den Voraussetzungen des § 1c Absatz 1 des Umsatzsteuergesetzes,
 
 
-3.  nach § 4 Nr. 7 Satz 1 Buchstabe a des Umsatzsteuergesetzes steuerfrei
-    oder
+3.  nach § 4 Nummer 7 Satz 1 Buchstabe a des Umsatzsteuergesetzes
+    steuerfrei oder
 
 
 4.  nach den Vorschriften des Energiesteuergesetzes und der Energiesteuer-
@@ -487,16 +480,15 @@ sich bei der Einfuhr in einem Nichterhebungsverfahren befinden.
 
 zu ihrem ausschließlichen Gebrauch oder Verbrauch geliefert werden,
 gehen mit der Übergabe an die Streitkräfte in die Truppenverwendung
-über und werden wie Nichtgemeinschaftswaren behandelt. Sie stehen ab
-dem Zeitpunkt der Lieferung an die Streitkräfte unter zollamtlicher
+über und werden wie Nicht-Unionswaren behandelt. Sie stehen ab dem
+Zeitpunkt der Lieferung an die Streitkräfte unter zollamtlicher
 Überwachung. Der Lieferung von Energieerzeugnissen an die
 ausländischen Streitkräfte oder Hauptquartiere steht die Abgabe an zum
 Bezug berechtigte Mitglieder der ausländischen Streitkräfte oder
 Hauptquartiere gegen besondere Gutscheine oder im Rahmen eines
 Tankkartenverfahrens gleich.
 
-(2) Absatz 1 gilt entsprechend für Gemeinschaftswaren, die
-Hauptquartieren
+(2) Absatz 1 gilt entsprechend für Unionswaren, die Hauptquartieren
 
 1.  nach den Artikeln 2 und 8 des Hauptquartierprotokolls oder den
     Artikeln 14 und 15 des Ergänzungsübereinkommens umsatz- oder
@@ -510,28 +502,28 @@ Hauptquartieren
 
 geliefert werden.
 
-(3) Gemeinschaftswaren, die unter Gewährung von Ausfuhrerstattung an
-die ausländischen Streitkräfte oder Hauptquartiere geliefert werden,
-gehen mit der Lieferung an die Streitkräfte in die Truppenverwendung
-über und werden wie Nichtgemeinschaftswaren behandelt. Sie gelten als
-von den ausländischen Streitkräften oder Hauptquartieren zu ihrer
+(3) Unionswaren, die unter Gewährung von Ausfuhrerstattung an die
+ausländischen Streitkräfte oder Hauptquartiere geliefert werden, gehen
+mit der Lieferung an die Streitkräfte in die Truppenverwendung über
+und werden wie Nicht-Unionswaren behandelt. Sie gelten als von den
+ausländischen Streitkräften oder Hauptquartieren zu ihrer
 ausschließlichen Verwendung frei von Einfuhrabgaben eingeführt und in
 die Truppenverwendung übergeführt. Sie stehen ab dem Zeitpunkt der
 Lieferung an die ausländischen Streitkräfte oder Hauptquartiere unter
 zollamtlicher Überwachung.
 
 
-## § 10 Einfuhr von Gemeinschaftswaren aus anderen Mitgliedstaaten
+## § 10 Einfuhr von Unionswaren aus anderen Mitgliedstaaten
 
-Gemeinschaftswaren, die ausländische Streitkräfte, Hauptquartiere oder
-ihre Mitglieder in einem anderen Mitgliedstaat nach den Bestimmungen
-des NATO-Truppenstatuts, des Hauptquartierprotokolls, anderer
+Unionswaren, die ausländische Streitkräfte, Hauptquartiere oder ihre
+Mitglieder in einem anderen Mitgliedstaat nach den Bestimmungen des
+NATO-Truppenstatuts, des Hauptquartierprotokolls, anderer
 völkerrechtlicher Vereinbarungen oder nach dessen nationalen
 Vorschriften abgabenbegünstigt aus einem Drittland eingeführt oder aus
 einem Mitgliedstaat eingeführt oder bezogen haben und die von diesen
 zur weiteren Verwendung nach den oben genannten Bestimmungen in den
 Geltungsbereich dieses Gesetzes eingeführt werden, gelten mit der
-Einfuhr als Nichtgemeinschaftswaren und als in die Truppenverwendung
+Einfuhr als Nicht-Unionswaren und als in die Truppenverwendung
 übergeführt. Sie stehen ab dem Zeitpunkt der Einfuhr unter
 zollamtlicher Überwachung.
 
@@ -550,16 +542,15 @@ ausländischen Streitkräfte genehmigt worden ist.
 
 Soweit nichts anderes nachgewiesen ist, wird von Waren im Besitz der
 ausländischen Streitkräfte, Hauptquartiere oder ihrer Mitglieder
-vermutet, dass sie Nichtgemeinschaftswaren in der Truppenverwendung
-sind.
+vermutet, dass sie Nicht-Unionswaren in der Truppenverwendung sind.
 
 
 ## § 13 Beendigung der Truppenverwendung
 
-(1) Die Truppenverwendung im Sinne des § 2 Abs. 3 endet, wenn die
-Einfuhrwaren eine neue zollrechtliche Bestimmung erhalten. Abweichend
-von den Bestimmungen des Zollkodex muss die Zerstörung von Waren in
-der Truppenverwendung der ausländischen Streitkräfte, der
+(1) Die Truppenverwendung im Sinne des § 2 Absatz 3 endet, wenn die
+Einfuhrwaren in ein Zollverfahren übergeführt werden. Abweichend von
+den Bestimmungen des Zollkodex der Union muss die Zerstörung von Waren
+in der Truppenverwendung der ausländischen Streitkräfte, der
 Hauptquartiere oder ihrer Mitglieder nicht mitgeteilt werden, es sei
 denn, sie erfolgt durch eine nichtberechtigte Person. In diesem Fall
 erfolgt die Mitteilung durch die zuständigen Behörden der
@@ -567,10 +558,10 @@ ausländischen Streitkräfte oder Hauptquartiere; § 16 bleibt unberührt.
 Werden die Einfuhrwaren zur Ausfuhr in ein Drittland bestimmt, so ist
 eine Zollanmeldung abzugeben.
 
-(2) Inhaber einer Bewilligung nach § 3 Abs. 2 dürfen nur mit
+(2) Inhaber einer Bewilligung nach § 3 Absatz 2 dürfen nur mit
 Zustimmung der bewilligenden Zollstelle Waren in ihrer
-Truppenverwendung einer neuen zollrechtlichen Bestimmung zuführen oder
-in einen anderen Mitgliedstaat ausführen. Die Zustimmung kann mit
+Truppenverwendung in ein Zollverfahren überführen oder in einen
+anderen Mitgliedstaat ausführen. Die Zustimmung kann mit
 Nebenbestimmungen versehen werden.
 
 (3) Die Truppenverwendung endet auch mit der Ausfuhr der Einfuhrwaren
@@ -579,15 +570,15 @@ Mitgliedstaat.
 
 (4) Eine Ausfuhr von Waren, die sich in der Truppenverwendung der
 ausländischen Streitkräfte, der Hauptquartiere oder der Inhaber einer
-Bewilligung nach § 3 Abs. 2 befinden, in einen anderen Mitgliedstaat,
-hat in einem zollrechtlichen Versandverfahren zu erfolgen. Gleiches
-gilt für Waren in der Truppenverwendung der Mitglieder der
-ausländischen Streitkräfte und der Hauptquartiere, wenn diese die
-Waren nicht selbst in einen anderen Mitgliedstaat ausführen.
+Bewilligung nach § 3 Absatz 2 befinden, in einen anderen
+Mitgliedstaat, hat in einem zollrechtlichen Versandverfahren zu
+erfolgen. Gleiches gilt für Waren in der Truppenverwendung der
+Mitglieder der ausländischen Streitkräfte und der Hauptquartiere, wenn
+diese die Waren nicht selbst in einen anderen Mitgliedstaat ausführen.
 
 (5) Eine Ausfuhr von Waren, die sich in der Truppenverwendung der
 ausländischen Streitkräfte, der Hauptquartiere oder der Inhaber einer
-Bewilligung nach § 3 Abs. 2 befinden, in ein Drittland hat in
+Bewilligung nach § 3 Absatz 2 befinden, in ein Drittland hat in
 folgenden Fällen in einem zollrechtlichen Versandverfahren zu
 erfolgen:
 
@@ -636,7 +627,7 @@ erfolgt im Rahmen internationaler Abkommen
 
 
 5.  schriftlich mit Einheitspapier, wenn nichtberechtigte Personen im
-    Sinne des § 3 Abs. 2 Waren in ein Drittland ausführen.
+    Sinne des § 3 Absatz 2 Waren in ein Drittland ausführen.
 
 
 
@@ -649,10 +640,10 @@ Ausfuhrgenehmigung ist zusammen mit den nach den Vorschriften der
 Verbote und Beschränkungen für die Ausfuhr in ein Drittland
 erforderlichen Dokumenten der Zollstelle zur Abfertigung vorzulegen.
 
-(3) Im Sinne des Absatzes 1 Nr. 2, 3 und 4 gelten die dort genannten
-Waren als gestellt, die Zollanmeldung als angenommen und die Waren als
-zur Ausfuhr in ein Drittland überlassen, wenn sie nicht schriftlich
-angemeldet werden.
+(3) Im Sinne des Absatzes 1 Nummer 2, 3 und 4 gelten die dort
+genannten Waren als gestellt, die Zollanmeldung als angenommen und die
+Waren als zur Ausfuhr in ein Drittland überlassen, wenn sie nicht
+schriftlich angemeldet werden.
 
 
 ## § 15 Ausfuhr in ein Drittland unter Einsatz der Datenverarbeitung
@@ -664,32 +655,32 @@ wurden, erfolgen. In der Zulassung bestimmt das Bundesministerium der
 Finanzen die Voraussetzungen und Modalitäten der Nutzung des
 Informatikverfahrens.
 
-(2) § 5 Abs. 3 und 4 gilt entsprechend.
+(2) § 5 Absatz 3 und 4 gilt entsprechend.
 
-(3) § 13 Abs. 5 bleibt unberührt.
+(3) § 13 Absatz 5 bleibt unberührt.
 
 
-## § 16 Übernahme von Waren aus der Truppenverwendung, Zuführung zu einer anderen zollrechtlichen Bestimmung
+## § 16 Übernahme von Waren aus der Truppenverwendung, Überführung in ein Zollverfahren
 
 (1) Will eine nichtberechtigte Person Einfuhrwaren aus der
 Truppenverwendung der Streitkräfte, Hauptquartiere oder deren
 Mitgliedern übernehmen, ist diese Person verpflichtet, dies vor der
 Übernahme der zuständigen Zollstelle anzuzeigen und die Einfuhrwaren
 unverzüglich nach der Übernahme bei der zuständigen Zollstelle zu
-gestellen und einer zulässigen zollrechtlichen Bestimmung zuzuführen,
-soweit nicht in der zu diesem Gesetz erlassenen Rechtsverordnung
-Ausnahmen zugelassen sind. § 4 des Zollverwaltungsgesetzes gilt
-entsprechend. Die Zollstelle kann eine Sicherheitsleistung verlangen,
-um die Erfüllung einer möglichen Einfuhrabgabenschuld zu
-gewährleisten. Das Recht der ausländischen Streitkräfte,
-Hauptquartiere und ihrer Mitglieder, Einfuhrwaren einer zulässigen
-zollrechtlichen Bestimmung zuzuführen, bleibt hiervon unberührt.
+gestellen und in ein Zollverfahren zu überführen, soweit nicht in der
+zu diesem Gesetz erlassenen Rechtsverordnung Ausnahmen zugelassen
+sind. § 4 des Zollverwaltungsgesetzes gilt entsprechend. Die
+Zollstelle kann eine Sicherheitsleistung verlangen, um die Erfüllung
+einer möglichen Einfuhrabgabenschuld zu gewährleisten. Das Recht der
+ausländischen Streitkräfte, Hauptquartiere und ihrer Mitglieder,
+Einfuhrwaren in ein Zollverfahren zu überführen, bleibt hiervon
+unberührt.
 
 (2) Die Gestellungspflicht nach Absatz 1 gilt auch in den Fällen, in
 denen ein Mitglied der ausländischen Streitkräfte oder Hauptquartiere
 Einfuhrwaren über die ihm zustehende Rationsmenge (§ 18) hinaus
-bezieht, oder seine Berechtigung zur Inanspruchnahme der in § 3 Abs. 1
-und § 11 genannten Begünstigungen verliert und seinen Wohnsitz im
+bezieht, oder seine Berechtigung zur Inanspruchnahme der in § 3 Absatz
+1 und § 11 genannten Begünstigungen verliert und seinen Wohnsitz im
 Geltungsbereich dieses Gesetzes begründet oder behält.
 
 (3) Die veräußerten Einfuhrwaren dürfen der nichtberechtigten Person
@@ -702,16 +693,16 @@ des Absatzes 1 bewilligt werden. Die Anzeige nach Absatz 1 Satz 1 kann
 in diesen Fällen global im Voraus abgegeben werden.
 
 (5) Für die Zuführung von Einfuhrwaren eines Bewilligungsinhabers im
-Sinne des § 3 Abs. 2 zu einer anderen zollrechtlichen Bestimmung
-gelten die Vorschriften des Zollkodex und der Zollkodex-
-Durchführungsverordnung entsprechend.
+Sinne des § 3 Absatz 2 zu einem anderen Zollverfahren gelten die
+Vorschriften des Zollkodex der Union, der Delegierten Verordnung zum
+Zollkodex und der Übergangsverordnung zum Zollkodex entsprechend.
 
 
 ## § 17 Pflichten aus der Inanspruchnahme der Truppenverwendung, Zweckwidrige Verwendung
 
 (1) Einfuhrwaren dürfen nur
 
-1.  durch die in § 3 Abs. 1 Satz 1 genannten Berechtigten zu deren
+1.  durch die in § 3 Absatz 1 Satz 1 genannten Berechtigten zu deren
     ausschließlichem Ge- oder Verbrauch im Sinne des Artikels XI des NATO-
     Truppenstatuts, der Artikel 65 bis 67 des Zusatzabkommens, der Artikel
     2 und 8 des Hauptquartierprotokolls, der Artikel 14 bis 16 des
@@ -720,9 +711,9 @@ Durchführungsverordnung entsprechend.
     oder
 
 
-2.  durch Bewilligungsinhaber im Sinne des § 3 Abs. 2 zur Belieferung der
-    ausländischen Streitkräfte oder der Hauptquartiere nach Maßgabe der
-    Bewilligung
+2.  durch Bewilligungsinhaber im Sinne des § 3 Absatz 2 zur Belieferung
+    der ausländischen Streitkräfte oder der Hauptquartiere nach Maßgabe
+    der Bewilligung
 
 
 
@@ -730,17 +721,17 @@ verwendet werden, soweit nicht in der zu diesem Gesetz erlassenen
 Rechtsverordnung Ausnahmen zugelassen sind.
 
 (2) Eine Verwendung von Einfuhrwaren zu anderen als den in Absatz 1
-Nr. 1 genannten Zwecken liegt insbesondere vor, wenn
+Nummer 1 genannten Zwecken liegt insbesondere vor, wenn
 
 1.  diese im Fall der Truppenverwendung der Mitglieder der ausländischen
-    Streitkräfte oder der Hauptquartiere abweichend von dem in § 16 Abs. 1
-    geregelten Verfahren einer nichtberechtigten Person zu anderen Zwecken
-    als der Veredelung (Bearbeitung, Verarbeitung und Ausbesserung)
-    übergeben werden;
+    Streitkräfte oder der Hauptquartiere abweichend von dem in § 16 Absatz
+    1 geregelten Verfahren einer nichtberechtigten Person zu anderen
+    Zwecken als der Veredelung (Bearbeitung, Verarbeitung und
+    Ausbesserung) übergeben werden;
 
 
 2.  diese im Fall der Truppenverwendung der ausländischen Streitkräfte
-    oder der Hauptquartiere abweichend von dem in § 16 Abs. 1 geregelten
+    oder der Hauptquartiere abweichend von dem in § 16 Absatz 1 geregelten
     Verfahren einer nichtberechtigten Person zu anderen Zwecken als der
     Ausbesserung übergeben werden;
 
@@ -758,27 +749,27 @@ Nr. 1 genannten Zwecken liegt insbesondere vor, wenn
 
 4.  ein Mitglied der ausländischen Streitkräfte oder der Hauptquartiere
     Waren, die sich in der Truppenverwendung der ausländischen
-    Streitkräfte oder der Hauptquartiere befinden, nach Artikel 65 Abs. 2
-    des Zusatzabkommens oder den Artikeln 16 und 17 des
+    Streitkräfte oder der Hauptquartiere befinden, nach Artikel 65 Absatz
+    2 des Zusatzabkommens oder den Artikeln 16 und 17 des
     Ergänzungsabkommens über die festgelegten Rationsmengen (§ 18) hinaus
-    bezieht, ohne die in § 16 Abs. 2 geregelte Gestellungspflicht zu
+    bezieht, ohne die in § 16 Absatz 2 geregelte Gestellungspflicht zu
     erfüllen;
 
 
 5.  eine Person ihre Berechtigung zur Inanspruchnahme der Begünstigungen
-    nach § 3 Abs. 1 und § 11 verliert, ohne die in § 16 Abs. 2 geregelte
-    Gestellungspflicht zu erfüllen;
+    nach § 3 Absatz 1 und § 11 verliert, ohne die in § 16 Absatz 2
+    geregelte Gestellungspflicht zu erfüllen;
 
 
 6.  in anderen als den in den Nummern 1 und 2 genannten Fällen eine
     nichtberechtigte Person Besitz an Einfuhrwaren erlangt, ohne dass das
-    in § 16 Abs. 1 geregelte Verfahren eingehalten wird.
+    in § 16 Absatz 1 geregelte Verfahren eingehalten wird.
 
 
 
 
 (3) Eine Verwendung von Einfuhrwaren zu anderen als in den in Absatz 1
-Nr. 2 genannten Zwecken liegt insbesondere vor, wenn
+Nummer 2 genannten Zwecken liegt insbesondere vor, wenn
 
 1.  diese in den Besitz einer nichtberechtigten Person gelangen;
 
@@ -800,7 +791,8 @@ Nr. 2 genannten Zwecken liegt insbesondere vor, wenn
 
 ## § 18 Rationsmengen
 
-(1) Festgelegte Rationsmengen im Sinne des § 17 Abs. 2 Nr. 4 sind:
+(1) Festgelegte Rationsmengen im Sinne des § 17 Absatz 2 Nummer 4
+sind:
 
 *    *   1.
 
@@ -966,16 +958,18 @@ besondere Rationserhöhungen gewähren.
 (1) Wird die Truppenverwendung durch die Überführung der Einfuhrware
 in den zollrechtlich freien Verkehr beendet, gelten für die Entstehung
 der Abgabenschuld dieser Einfuhrwaren vorbehaltlich Absatz 3 die
-Vorschriften des Zollkodex und der Zollkodex-Durchführungsverordnung,
-die darauf Bezug nehmenden Vorschriften des Umsatzsteuergesetzes sowie
-die Verbrauchsteuergesetze.
+Vorschriften des Zollkodex der Union, der Delegierten Verordnung zum
+Zollkodex, der Durchführungsverordnung zum Zollkodex und der
+Übergangsverordnung zum Zollkodex, die darauf Bezug nehmenden
+Vorschriften des Umsatzsteuergesetzes sowie die
+Verbrauchsteuergesetze.
 
 (2) Werden Waren zweckwidrig im Sinne des § 17 verwendet, entsteht
 eine Einfuhrabgabenschuld, es sei denn, die Pflichtverletzung im Sinne
 des § 17 hat sich auf die ordnungsgemäße Inanspruchnahme der
 Truppenverwendung nicht ausgewirkt. Die Einfuhrabgabenschuld entsteht
-im Zeitpunkt der zweckwidrigen Verwendung. In den Fällen des § 17 Abs.
-2 Nr. 3 entsteht die Einfuhrabgabenschuld im Zeitpunkt der
+im Zeitpunkt der zweckwidrigen Verwendung. In den Fällen des § 17
+Absatz 2 Nummer 3 entsteht die Einfuhrabgabenschuld im Zeitpunkt der
 tatsächlichen Ausfuhr der Waren aus dem Geltungsbereich des Gesetzes
 in einen anderen Mitgliedstaat.
 
@@ -1010,7 +1004,7 @@ nicht in Anspruch genommen wurde.
 
 
 
-## § 20 Beendigung vorangegangener Zollverfahren mit wirtschaftlicher Bedeutung
+## § 20 Beendigung vorangegangener Zollverfahren
 
 (1) Wenn die ordnungsgemäße Lieferung oder Rückgabe von Waren aus
 einer aktiven Veredelung oder die ordnungsgemäße Übergabe von Waren
@@ -1032,13 +1026,13 @@ zu führen.
 (1) Verliert ein im Geltungsbereich dieses Gesetzes stationiertes
 Mitglied der ausländischen Streitkräfte seine Rechtsstellung, gelten
 für die in seinem Besitz befindlichen Einfuhrwaren die Vorschriften
-des Gemeinschaftsrechts über die Einfuhrabgabenfreiheit von
-Übersiedlungsgut entsprechend. Dies gilt auch dann, wenn es sich um
-ein Mitglied der ausländischen Streitkräfte eines Landes handelt, das
-Mitglied der Europäischen Union ist. Gleichgestellt sind die Verlegung
-des Wohnsitzes und der Fall, dass das ehemalige Mitglied der
-ausländischen Streitkräfte seinen Wohnsitz im Geltungsbereich dieses
-Gesetzes begründet oder behält.
+des Unionsrechts über die Einfuhrabgabenfreiheit von Übersiedlungsgut
+entsprechend. Dies gilt auch dann, wenn es sich um ein Mitglied der
+ausländischen Streitkräfte eines Landes handelt, das Mitglied der
+Europäischen Union ist. Gleichgestellt sind die Verlegung des
+Wohnsitzes und der Fall, dass das ehemalige Mitglied der ausländischen
+Streitkräfte seinen Wohnsitz im Geltungsbereich dieses Gesetzes
+begründet oder behält.
 
 (2) Für ein Mitglied der Hauptquartiere gilt Absatz 1 unter der
 Voraussetzung, dass das Mitglied nicht die deutsche
@@ -1066,9 +1060,10 @@ Hauptquartiere in einem anderen Mitgliedstaat, die dort
 
 gelten mit der Einfuhr als in die vorübergehende Verwendung unter
 vollständiger Befreiung von den Einfuhrabgaben nach den Bestimmungen
-des Zollkodex und der Zollkodex-Durchführungsverordnung übergeführt.
-Diese vorübergehende Verwendung endet auch mit der Ausfuhr in einen
-anderen Mitgliedstaat.
+des Zollkodex der Union, der Delegierten Verordnung zum Zollkodex, der
+Durchführungsverordnung zum Zollkodex und der Übergangsverordnung zum
+Zollkodex übergeführt. Diese vorübergehende Verwendung endet auch mit
+der Ausfuhr in einen anderen Mitgliedstaat.
 
 (2) Absatz 1 findet keine Anwendung, sofern das Recht des anderen
 Mitgliedstaats abweichende Regelungen für die in Absatz 1 genannten
@@ -1089,38 +1084,14 @@ kann sich ein Mitglied der Streitkräfte oder der Hauptquartiere durch
 jedermann vertreten lassen.
 
 
-## § 24 Übergangs- und Schlussvorschriften
+## § 24 Schlussvorschriften
 
-(1) Waren, die sich im Zeitpunkt des Inkrafttretens dieses Gesetzes in
-der einfuhrabgabenbegünstigten Verwendung nach § 1 des
-Truppenzollgesetzes 1962 in der im Bundesgesetzblatt Teil III,
-Gliederungsnummer 613-5-6, veröffentlichten bereinigten Fassung, das
-zuletzt durch Artikel 6 des Gesetzes vom 26. November 1979 (BGBl. I S.
-1953) geändert worden ist, auch in Verbindung mit Artikel 4 des
-Gesetzes zum Hauptquartierprotokoll in der Fassung vom 17. Oktober
-1969 (BGBl. 1969 II S. 1997), befinden, gelten als in die
-Truppenverwendung übergeführt.
-
-(2) Soweit einer nichtberechtigten Person die Bewilligung zur
-Verteilung von Waren unter Befreiung von Einfuhrabgaben an die
-ausländischen Streitkräfte oder Hauptquartiere erteilt worden ist,
-gilt die Bewilligung für die Dauer von sechs Monaten nach
-Inkrafttreten dieses Gesetzes als Bewilligung im Sinne des § 3 Abs. 2.
-
-(3) Soweit eine nichtberechtigte Person Waren der ausländischen
-Streitkräfte oder Hauptquartiere zur Bearbeitung, Verarbeitung oder
-Lagerung in Besitz hat, gelten die nach dem Zollkodex erforderlichen
-Bewilligungen hinsichtlich dieser Waren für die Dauer von drei Monaten
-nach Inkrafttreten dieses Gesetzes als erteilt und die Waren als in
-den entsprechenden Zollverfahren befindlich. Satz 1 gilt nur im
-Geltungsbereich dieses Gesetzes.
-
-(4) Soweit die Artikel 71 bis 73 des Zusatzabkommens für
-Organisationen, Unternehmen und für ihre Angestellten sowie für
-technische Fachkräfte die gleiche Behandlung oder die gleichen
-Befreiungen und Vergünstigungen wie für eine Truppe und Mitglieder
-eines zivilen Gefolges im Sinne des NATO-Truppenstatuts und des
-Zusatzabkommens vorsehen, gilt dieses Gesetz entsprechend.
+Soweit die Artikel 71 bis 73 des Zusatzabkommens für Organisationen,
+Unternehmen und für ihre Angestellten sowie für technische Fachkräfte
+die gleiche Behandlung oder die gleichen Befreiungen und
+Vergünstigungen wie für eine Truppe und Mitglieder eines zivilen
+Gefolges im Sinne des NATO-Truppenstatuts und des Zusatzabkommens
+vorsehen, gilt dieses Gesetz entsprechend.
 
 
 ## § 25 Ermächtigungen
@@ -1130,7 +1101,7 @@ Gesetzes durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf,
 
 1.  das Verfahren der Truppenverwendung einschließlich der Überführung,
-    der Beendigung und des Bewilligungsverfahrens nach § 3 Abs. 2 sowie
+    der Beendigung und des Bewilligungsverfahrens nach § 3 Absatz 2 sowie
     den Inhalt der Bewilligung näher regeln;
 
 
@@ -1152,12 +1123,7 @@ Bundesrates bedarf,
 
 
 6.  die Gleichstellung weiterer Personen oder Personengruppen mit den
-    Personen nach Nummer 5 regeln;
-
-
-7.  Ordnungswidrigkeiten im Sinne des § 382 Abs. 1 Nr. 2 der
-    Abgabenordnung im Zusammenhang mit den nach den Nummern 1 bis 5
-    getroffenen Regelungen näher bestimmen.
+    Personen nach Nummer 5 regeln.
 
 
 
@@ -1174,30 +1140,70 @@ und durch die Abgabenfreiheit schutzwürdige Interessen der
 inländischen Wirtschaft nicht verletzt werden.
 
 
-## § 26 Ordnungswidrigkeiten
+## § 26 Bußgeldvorschriften
 
-(1) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 2 der Abgabenordnung
-handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 13 Abs. 2 Satz 1 eine dort genannte Ware einer neuen
-    zollrechtlichen Bestimmung zuführt oder ausführt,
-
-
-2.  entgegen § 16 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2, eine
-    Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    erstattet oder eine Einfuhrware nicht oder nicht rechtzeitig gestellt,
+1.  entgegen § 13 Absatz 2 Satz 1 eine dort genannte Ware einer neuen
+    zollrechtlichen Bestimmung zuführt oder diese ausführt,
 
 
-3.  entgegen § 16 Abs. 3 eine Einfuhrware übergibt oder
+2.  entgegen § 16 Absatz 1 Satz 1, auch in Verbindung mit § 16 Absatz 2,
+    eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstattet oder eine Einfuhrware nicht oder nicht
+    rechtzeitig gestellt,
 
 
-4.  entgegen § 17 Abs. 1 eine Einfuhrware verwendet.
+3.  entgegen § 16 Absatz 3 eine Einfuhrware übergibt,
+
+
+4.  entgegen § 17 Absatz 1 eine Einfuhrware verwendet oder
+
+
+5.  einer Rechtsverordnung nach § 25 Absatz 1 Nummer 1, 3, 5 oder 6 oder
+    einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung
+    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
+    Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 
 
-(2) Absatz 1 findet keine Anwendung auf ausländische Streitkräfte oder
-Hauptquartiere. Die Regelungen des NATO-Truppenstatuts, des
-Zusatzabkommens und des Unterzeichnungsprotokolls zur Ausübung der
-Strafgerichtsbarkeit bleiben unberührt.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
+unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union
+zuwiderhandelt, die inhaltlich
+
+1.  einem in Absatz 1 Nummer 1 bis 4 bezeichneten Gebot oder Verbot
+    entspricht oder
+
+
+2.  einer Regelung entspricht, zu der die in Absatz 1 Nummer 5 genannten
+    Vorschriften ermächtigen,
+
+
+
+soweit eine Rechtsverordnung nach Absatz 4 für einen bestimmten
+Tatbestand auf diese Bußgeldvorschrift verweist.
+
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+dreißigtausend Euro geahndet werden.
+
+(4) Das Bundesministerium der Finanzen wird ermächtigt, soweit dies
+zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich
+ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2
+geahndet werden können.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist das Hauptzollamt.
+
+(6) Die Absätze 1 und 2 finden keine Anwendung auf ausländische
+Streitkräfte oder Hauptquartiere. Die Regelungen des NATO-
+Truppenstatuts, des Zusatzabkommens und des Unterzeichnungsprotokolls
+zur Ausübung der Strafgerichtsbarkeit bleiben unberührt.
+
+(7) Die Hauptzollämter und ihre Beamten haben bei Ordnungswidrigkeiten
+nach den Absätzen 1 und 2 dieselben Rechte und Pflichten wie die
+Behörden und Beamten des Polizeidienstes nach dem Gesetz über
+Ordnungswidrigkeiten; die Beamten sind insoweit Ermittlungspersonen
+der Staatsanwaltschaft.
 
