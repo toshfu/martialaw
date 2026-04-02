@@ -37,6 +37,9 @@ Mittelbare änderung durch
 Mittelbare änderung durch
 :   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
+Änderung durch
+:   Art. 4 G v. 29.3.2026 I Nr. 83 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -4310,8 +4313,7 @@ ist das Amtsgericht Schöneberg in Berlin ausschließlich zuständig.
 
 (2) In dem Antrag sollen das Verfahrensziel und die betroffenen
 Personen bezeichnet werden. In einem Verfahren auf Anfechtung der
-Vaterschaft nach § 1600 Abs. 1 Nr. 1 bis 4 des Bürgerlichen
-Gesetzbuchs sollen die Umstände angegeben werden, die gegen die
+Vaterschaft sollen die Umstände angegeben werden, die gegen die
 Vaterschaft sprechen, sowie der Zeitpunkt, in dem diese Umstände
 bekannt wurden.
 
@@ -4355,22 +4357,18 @@ entsprechend.
 Angelegenheit in einem Termin erörtern. Es soll das persönliche
 Erscheinen der verfahrensfähigen Beteiligten anordnen.
 
-(2) Das Gericht soll vor einer Entscheidung über die Ersetzung der
-Einwilligung in eine genetische Abstammungsuntersuchung und die
-Anordnung der Duldung der Probeentnahme (§ 1598a Abs. 2 des
-Bürgerlichen Gesetzbuchs) die Eltern und ein Kind, das das 14.
-Lebensjahr vollendet hat, persönlich anhören. Ein jüngeres Kind kann
-das Gericht persönlich anhören.
+(2) In Verfahren nach § 169 Nummer 2 und 4 soll das Gericht die Eltern
+und das Kind persönlich anhören.
 
 
 #### § 176 Anhörung des Jugendamts
 
 (1) Das Gericht soll im Fall einer Anfechtung nach § 1600 Absatz 1
-Nummer 2 des Bürgerlichen Gesetzbuchs sowie im Fall einer Anfechtung
-nach § 1600 Abs. 1 Nr. 4 des Bürgerlichen Gesetzbuchs, wenn die
-Anfechtung durch den gesetzlichen Vertreter erfolgt, das Jugendamt
-anhören. Im Übrigen kann das Gericht das Jugendamt anhören, wenn ein
-Beteiligter minderjährig ist.
+Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs sowie im Fall einer
+Anfechtung nach § 1600 Absatz 1 Satz 1 Nummer 4 des Bürgerlichen
+Gesetzbuchs, wenn die Anfechtung durch den gesetzlichen Vertreter
+erfolgt, das Jugendamt anhören. Im Übrigen kann das Gericht das
+Jugendamt anhören, wenn ein Beteiligter minderjährig ist.
 
 (2) Das Gericht hat dem Jugendamt in den Fällen einer Anfechtung nach
 Absatz 1 Satz 1 sowie einer Anhörung nach Absatz 1 Satz 2 die
@@ -4420,12 +4418,20 @@ oder mit anderen Verfahren unzulässig.
 
 #### § 180 Erklärungen zur Niederschrift des Gerichts
 
-Die Anerkennung der Vaterschaft, die Zustimmung der Mutter sowie der
-Widerruf der Anerkennung können auch in einem Erörterungstermin zur
-Niederschrift des Gerichts erklärt werden. Das Gleiche gilt für die
-etwa erforderliche Zustimmung des Mannes, der im Zeitpunkt der Geburt
-mit der Mutter des Kindes verheiratet ist, des Kindes oder eines
-gesetzlichen Vertreters.
+(1) Die Anerkennung der Vaterschaft kann auch in einem
+Erörterungstermin zur Niederschrift des Gerichts erklärt werden. Das
+Gleiche gilt für die erforderlichen Zustimmungen.
+
+(2) Nach Einleitung eines gerichtlichen Verfahrens auf Feststellung
+der Vaterschaft für ein Kind kann ein anderer Mann als derjenige,
+dessen Feststellung beantragt ist, die Anerkennung der Vaterschaft für
+das betroffene Kind nur in einem Erörterungstermin zur Niederschrift
+des mit der Sache befassten Gerichts erklären. Die
+Anerkennungserklärung nach Satz 1 darf nur aufgenommen werden, wenn
+der Anerkennende durch Vorlage eines Gutachtens über eine
+durchgeführte genetische Untersuchung zur Klärung der Abstammung nach
+§ 17 des Gendiagnostikgesetzes nachgewiesen hat, dass er leiblicher
+Vater des Kindes ist.
 
 
 #### § 181 Tod eines Beteiligten
@@ -4442,10 +4448,11 @@ erledigt.
 #### § 182 Inhalt des Beschlusses
 
 (1) Ein rechtskräftiger Beschluss, der das Nichtbestehen einer
-Vaterschaft nach § 1592 des Bürgerlichen Gesetzbuchs infolge der
-Anfechtung nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs
-feststellt, enthält die Feststellung der Vaterschaft des Anfechtenden.
-Diese Wirkung ist in der Beschlussformel von Amts wegen auszusprechen.
+Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 des Bürgerlichen
+Gesetzbuchs infolge der Anfechtung nach § 1600 Absatz 1 Satz 1 Nummer
+2 des Bürgerlichen Gesetzbuchs feststellt, enthält die Feststellung
+der Vaterschaft des Anfechtenden. Diese Wirkung ist in der
+Beschlussformel von Amts wegen auszusprechen.
 
 (2) Weist das Gericht einen Antrag auf Feststellung des Nichtbestehens
 der Vaterschaft ab, weil es den Antragsteller oder einen anderen
@@ -4494,6 +4501,50 @@ Zivilprozessordnung verbunden, ist § 584 der Zivilprozessordnung
 anzuwenden.
 
 (4) § 586 der Zivilprozessordnung ist nicht anzuwenden.
+
+
+#### § 185a Wiederaufnahme bei Anfechtung durch den leiblichen Vater
+
+(1) Wurde der Antrag auf Anfechtung der Vaterschaft nach § 1600 Absatz
+3 des Bürgerlichen Gesetzbuchs rechtskräftig durch Beschluss
+abgewiesen, ist ein Restitutionsantrag des nach § 1600 Absatz 1 Satz 1
+Nummer 2 des Bürgerlichen Gesetzbuchs anfechtungsberechtigten Mannes
+gegen diesen Beschluss auch dann statthaft, wenn die sozial-familiäre
+Beziehung zwischen dem Kind und dem Mann, dessen Vaterschaft nach §
+1592 Nummer 1 oder 2 des Bürgerlichen Gesetzbuchs besteht, beendet
+ist. Satz 1 gilt entsprechend für den Restitutionsantrag gegen einen
+rechtskräftigen Beschluss, mit dem der Antrag auf Anfechtung der
+Vaterschaft nach § 1600 Absatz 2 des Bürgerlichen Gesetzbuchs in der
+bis zum 31. März 2026 geltenden Fassung wegen des Bestehens einer
+sozial-familiären Beziehung abgewiesen wurde.
+
+(2) Ein Restitutionsantrag nach Absatz 1 ist unzulässig, wenn das Kind
+bei Eintritt der Rechtskraft des Beschlusses zur Abweisung des Antrags
+auf Anfechtung der Vaterschaft nach § 1600 Absatz 3 des Bürgerlichen
+Gesetzbuchs volljährig war. Im Übrigen kann ein Restitutionsantrag
+nach Absatz 1 erst gestellt werden, wenn seit Rechtskraft des
+Beschlusses eine Wartefrist verstrichen ist. Die Wartefrist beträgt
+
+1.  vier Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses
+    das 14. Lebensjahr vollendet hatte,
+
+
+2.  drei Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses
+    das 14. Lebensjahr noch nicht vollendet hatte, und
+
+
+3.  zwei Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses
+    das sechste Lebensjahr noch nicht vollendet hatte.
+
+
+
+Wurde ein Restitutionsantrag nach Absatz 1 rechtskräftig als
+unzulässig verworfen oder hat das Familiengericht auf Grund eines
+Restitutionsantrags nach Absatz 1 den Antrag auf Anfechtung der
+Vaterschaft nach § 1600 Absatz 2 oder 3 des Bürgerlichen Gesetzbuchs
+erneut abgewiesen, gelten die Sätze 1 bis 3 entsprechend.
+
+(3) § 185 Absatz 3 und 4 ist anzuwenden.
 
 
 ### Abschnitt 5 - Verfahren in Adoptionssachen
@@ -8611,9 +8662,9 @@ Unternehmensrechtliche Verfahren sind die nach
     Eisen und Stahl erzeugenden Industrie,
 
 
-11. § 2c Absatz 2 Satz 2 bis 7, § 28 Absatz 2, § 36 Absatz 3 Satz 3, § 38
-    Absatz 2 Satz 2, § 45a Absatz 2 Satz 1, 3, 4 und 6 des
-    Kreditwesengesetzes,
+11. § 2c Absatz 2 Satz 2 bis 7, § 2h Absatz 22 Satz 2 und Absatz 23 Satz 1
+    und 3, § 28 Absatz 2, § 36 Absatz 3 Satz 3, § 38 Absatz 2 Satz 2, §
+    45a Absatz 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
 
 
 11a. § 2a Absatz 4 Satz 2 und 3 des Investmentgesetzes,
