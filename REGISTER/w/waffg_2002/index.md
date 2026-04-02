@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3970 (4592) (2003 I 1957)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 17.7.2025 I Nr. 171
+:   Art. 2 Abs. 10 G v. 20.3.2026 I Nr. 95
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -191,16 +191,16 @@ einfließen zu lassen.
 
     c)  zu einer Freiheitsstrafe oder Geldstrafe von mindestens 90 Tagessätzen
         wegen einer Straftat nach den §§ 80a, 83 Absatz 2, § 84 Absatz 1 bis
-        3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, § 88 Absatz 1, §
-        89 Absatz 1, § 89a Absatz 1 bis 3, § 89b Absatz 1, § 89c Absatz 1 und
-        2, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2 oder § 97b des
-        Strafgesetzbuches, nach § 98 des Strafgesetzbuches, soweit nicht ein
-        Fall des § 98 Absatz 2 des Strafgesetzbuches vorliegt, nach § 99
-        Absatz 2 des Strafgesetzbuches, soweit nicht ein Fall des § 99 Absatz
-        3 des Strafgesetzbuches vorliegt, nach § 100a Absatz 1 in Verbindung
-        mit Absatz 4 des Strafgesetzbuches oder nach den §§ 129, § 129a Absatz
-        3 und 5 des Strafgesetzbuches, auch in Verbindung mit § 129b Absatz 1
-        des Strafgesetzbuches,
+        3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, den §§ 87a, 88
+        Absatz 1, § 89 Absatz 1, § 89a Absatz 1 bis 3 und 8, § 89b Absatz 1, §
+        89c Absatz 1, 2 und 8, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2
+        oder § 97b des Strafgesetzbuches, nach § 98 des Strafgesetzbuches,
+        soweit nicht ein Fall des § 98 Absatz 2 des Strafgesetzbuches
+        vorliegt, nach § 99 Absatz 1 des Strafgesetzbuches, soweit nicht ein
+        Fall des § 99 Absatz 3 des Strafgesetzbuches vorliegt, nach § 100a
+        Absatz 1 in Verbindung mit Absatz 4 des Strafgesetzbuches oder nach
+        den §§ 129, 129a Absatz 3 und 5 des Strafgesetzbuches, auch in
+        Verbindung mit § 129b Absatz 1 des Strafgesetzbuches,
 
 
 
