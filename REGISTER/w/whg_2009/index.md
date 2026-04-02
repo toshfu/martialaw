@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.1.2026 I Nr. 4
+:   Art. 7 G v. 29.3.2026 I Nr. 84
 
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                    Richtlinie 80/68/EWG des Rates
@@ -847,12 +847,12 @@ Bundesberggesetzes entsprechend.
 
 #### § 11b Projektmanager
 
-(1) Bei Vorhaben nach § 11a kann die zuständige Behörde auf Antrag
-oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kosten in
-jeder Stufe des Verfahrens einen Dritten als Projektmanager, der als
-Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und
-Durchführung von Verfahrensschritten beauftragen. Dies kann
-insbesondere folgende Verfahrensschritte umfassen:
+(1) Bei Vorhaben nach den §§ 11a und 11c kann die zuständige Behörde
+auf Antrag oder mit Zustimmung des Trägers des Vorhabens und auf
+dessen Kosten in jeder Stufe des Verfahrens einen Dritten als
+Projektmanager, der als Verwaltungshelfer beschäftigt werden kann, mit
+der Vorbereitung und Durchführung von Verfahrensschritten beauftragen.
+Dies kann insbesondere folgende Verfahrensschritte umfassen:
 
 1.  die Erstellung von Verfahrensleitplänen unter Bestimmung von
     Verfahrensabschnitten und Zwischenterminen,
@@ -894,6 +894,40 @@ der zuständigen Behörde zu übermitteln. Die zuständige Behörde prüft,
 ob die vom Projektmanager abgerechneten Leistungen dem jeweiligen
 Auftrag entsprechen, und teilt dem Vorhabenträger das Ergebnis dieser
 Prüfung unverzüglich mit.
+
+
+#### § 11c Verfahren bei Wasserstoffinfrastrukturvorhaben
+
+(1) Für die Erteilung einer Erlaubnis oder Bewilligung im Zusammenhang
+mit der Errichtung, dem Betrieb und der Modernisierung einer Anlage
+oder Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes
+vom 29. März 2026 (BGBl. 2026 I Nr. 84, S. 2), in der jeweils
+geltenden Fassung, gilt ergänzend § 11a Absatz 1 Satz 2, Absatz 2 bis
+7 Satz 1 bis 6 entsprechend mit der Maßgabe, dass die Frist zur
+Entscheidung über die Erteilung der Erlaubnis oder Bewilligung
+
+1.  bei einer Anlage oder Leitung nach § 2 Absatz 1 Nummer 1, 4 bis 7, 9
+    und 12 bis 14 des Wasserstoffbeschleunigungsgesetzes sieben Monate
+    beträgt mit einer einmaligen Verlängerungsmöglichkeit von drei Monaten
+    und
+
+
+2.  bei einer Anlage oder Leitung nach § 2 Absatz 1 Nummer 2, 3, 8, 10,
+    11, 15 bis 18 des Wasserstoffbeschleunigungsgesetzes ein Jahr beträgt
+    mit einer einmaligen Verlängerungsmöglichkeit von sechs Monaten.
+
+
+
+
+(2) In einem Planfeststellungsverfahren für Wasserstoffleitungen nach
+§ 2 Absatz 1 Nummer 11 des Wasserstoffbeschleunigungsgesetzes hat die
+zuständige Wasserbehörde die Entscheidung über die Erteilung des
+Einvernehmens nach § 19 Absatz 3 spätestens einen Monat vor Ablauf der
+Frist nach Absatz 1 Nummer 2 der Planfeststellungsbehörde zu
+übermitteln. Übermittelt die Wasserbehörde innerhalb der Frist nach
+Satz 1 keine Entscheidung über die Erteilung des Einvernehmens, ist
+die Entscheidung der Planfeststellungsbehörde im Benehmen mit der
+zuständigen Wasserbehörde zu treffen.
 
 
 #### § 12 Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
@@ -3948,6 +3982,13 @@ Errichtung, dem Betrieb und der Modernisierung von
 
 
 die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes sind anzuwenden.
+Für die Planfeststellung und die Plangenehmigung für einen
+Gewässerausbau im Zusammenhang mit der Errichtung, dem Betrieb und der
+Modernisierung von Anlagen oder Leitungen nach § 2 Absatz 1 des
+Wasserstoffbeschleunigungsgesetzes gilt § 11a Absatz 1 Satz 2, Absatz
+4 bis 7 Satz 1 bis 6 entsprechend mit der Maßgabe, dass die Frist zur
+Erteilung der Planfeststellung oder der Plangenehmigung ein Jahr mit
+einer einmaligen Verlängerungsmöglichkeit von sechs Monaten beträgt.
 
 (2) Das Planfeststellungsverfahren für einen Gewässerausbau, für den
 nach dem Gesetz über die Umweltverträglichkeitsprüfung eine
@@ -3959,6 +4000,22 @@ Umweltverträglichkeitsprüfung entsprechen.
 Verwaltung mehrerer Länder untersteht, und ist ein Einvernehmen über
 den Ausbauplan nicht zu erreichen, so soll die Bundesregierung auf
 Antrag eines beteiligten Landes zwischen den Ländern vermitteln.
+
+(4) Für die Erteilung von Planfeststellungen und Plangenehmigungen
+nach Absatz 1 Satz 3 sind abweichend von § 73 Absatz 6 Satz 1 und § 74
+Absatz 4 bis 6 Satz 2 dritter Teilsatz des
+Verwaltungsverfahrensgesetzes in Verbindung mit § 27 Absatz 1 Satz 1
+des Gesetzes über die Umweltverträglichkeitsprüfung die Sätze 2 bis 5
+anzuwenden. Nach Ablauf der Einwendungsfrist kann die
+Genehmigungsbehörde die rechtzeitig gegen das Vorhaben erhobenen
+Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen
+erhoben haben, erörtern. Der Planfeststellungsbeschluss oder die
+Plangenehmigung wird dem Träger des Vorhabens zugestellt. Im Übrigen
+wird der Planfeststellungsbeschluss oder die Plangenehmigung
+öffentlich bekannt gegeben. Die öffentliche Bekanntgabe wird dadurch
+bewirkt, dass die Entscheidung auf der Internetseite der zuständigen
+Behörde und durch eine Veröffentlichung in einer Tageszeitung oder auf
+andere Weise öffentlich bekannt gemacht wird.
 
 
 #### § 70a Planfeststellungsverfahren bei Häfen im transeuropäischen Verkehrsnetz
