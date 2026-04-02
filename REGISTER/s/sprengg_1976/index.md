@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.9.2002 I 3518
 
 Zuletzt geändert durch
-:   Art. 1 G v. 9.1.2026 I Nr. 3
+:   Art. 2 Abs. 11 G v. 20.3.2026 I Nr. 95
 
 Mit diesem Gesetz wird die Richtlinie 93/15/EWG des Rates vom 5. April
 1993 zur Harmonisierung der Bestimmungen über das Inverkehrbringen und
@@ -1856,16 +1856,16 @@ machen.
 
     c)  zu einer Freiheitsstrafe oder Geldstrafe von mindestens 90 Tagessätzen
         wegen einer Straftat nach den §§ 80a, 83 Absatz 2, § 84 Absatz 1 bis
-        3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, § 88 Absatz 1, §
-        89 Absatz 1, § 89a Absatz 1 bis 3, § 89b Absatz 1, § 89c Absatz 1 und
-        2, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2, § 97b, nach § 98 des
-        Strafgesetzbuches, soweit nicht ein Fall des § 98 Absatz 2 des
-        Strafgesetzbuches vorliegt, nach § 99 Absatz 2 des Strafgesetzbuches,
-        soweit nicht ein Fall des § 99 Absatz 3 des Strafgesetzbuches
-        vorliegt, nach § 100a Absatz 1 in Verbindung mit Absatz 4 des
-        Strafgesetzbuches, nach den §§ 129, 129a Absatz 3 und 5 des
-        Strafgesetzbuches, jeweils auch in Verbindung mit § 129b Absatz 1 des
-        Strafgesetzbuches,
+        3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, den §§ 87a, 88
+        Absatz 1, § 89 Absatz 1, § 89a Absatz 1 bis 3 und 8, § 89b Absatz 1, §
+        89c Absatz 1, 2 und 8, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2, §
+        97b, nach § 98 des Strafgesetzbuches, soweit nicht ein Fall des § 98
+        Absatz 2 des Strafgesetzbuches vorliegt, nach § 99 Absatz 1 des
+        Strafgesetzbuches, soweit nicht ein Fall des § 99 Absatz 3 des
+        Strafgesetzbuches vorliegt, nach § 100a Absatz 1 in Verbindung mit
+        Absatz 4 des Strafgesetzbuches, nach den §§ 129, 129a Absatz 3 und 5
+        des Strafgesetzbuches, jeweils auch in Verbindung mit § 129b Absatz 1
+        des Strafgesetzbuches,
 
 
 
