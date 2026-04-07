@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776
 
 Zuletzt geändert durch
-:   Art. 37 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 1 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 25.3.2026 I Nr. 81
 
 Änderung durch
 :   Art. 2 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026 noch nicht berücksichtigt
