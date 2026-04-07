@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 4270
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.2.2023 I Nr. 41
-
-Änderung durch
-:   Art. 11 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 25.3.2026 I Nr. 81
 
 Änderung durch
 :   Art. 12 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026 noch nicht berücksichtigt
