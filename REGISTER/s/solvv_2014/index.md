@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 4168
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.2.2023 I Nr. 40
-
-Änderung durch
-:   Art. 8 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 25.3.2026 I Nr. 81
 
 Änderung durch
 :   Art. 9 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026 noch nicht berücksichtigt
