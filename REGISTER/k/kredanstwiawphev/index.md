@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.6.2024 I Nr. 202
 
+Änderung durch
+:   Art. 10 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -348,12 +351,22 @@ Maßgeblich ist der höchste zu erhebende Zuschlag.
     Dienst- oder Nebendienstleistungen nach § 20 Absatz 2 Nummer 1 bis 3
     oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs Eigentum
     oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen,
-    beträgt der Beitragssatz 1,92 Prozent.
+    beträgt der Beitragssatz 1,92 Prozent und
+
+
+10. 0,61 Prozent bei Betreibern von multilateralen DLT-Handelssystemen
+    oder von DLT-Handels- und Abwicklungssystemen im Sinne des § 1 Absatz
+    1 Nummer 4 des Anlegerentschädigungsgesetzes, die nicht befugt sind,
+    sich bei der Erbringung dieser Dienstleistungen Eigentum oder Besitz
+    an Geldern oder Wertpapieren von Kunden zu verschaffen; ist der
+    Betreiber befugt, sich bei der Erbringung dieser Dienstleistungen
+    Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu
+    verschaffen, beträgt der Beitragssatz 1,92 Prozent.
 
 
 
 
-(2) Für die Zuordnung nach Absatz 1 Nummer 1 bis 8 ist die Erlaubnis
+(2) Für die Zuordnung nach Absatz 1 Nummer 1 bis 10 ist die Erlaubnis
 des Instituts im letzten vor dem 1. März des jeweiligen
 Abrechnungsjahres abgelaufenen Geschäftsjahr maßgeblich. Es wird
 vermutet, dass das Institut befugt ist, sich Eigentum oder Besitz an
@@ -610,15 +623,17 @@ Zahlung fällig.
     6 300 Euro;
 
 
-2.  bei den in § 2a Absatz 1 Nummer 5 Halbsatz 1, Nummer 3 und Nummer 9
-    Halbsatz 2 genannten Instituten 4 200 Euro;
+2.  bei den in § 2a Absatz 1 Nummer 5 erster Halbsatz, Nummer 3, 9 zweiter
+    Halbsatz und Nummer 10 zweiter Halbsatz genannten Instituten 4 200
+    Euro;
 
 
 3.  bei den in § 2a Absatz 1 Nummer 1 Halbsatz 1, Nummer 7, 8 erster
     Halbsatz und Nummer 9 Halbsatz 1 genannten Instituten 2 100 Euro;
 
 
-4.  bei den in § 2a Absatz 1 Nummer 6 genannten Instituten 1 050 Euro.
+4.  bei den in § 2a Absatz 1 Nummer 6 und 10 erster Halbsatz genannten
+    Instituten 1 050 Euro.
 
 
 
