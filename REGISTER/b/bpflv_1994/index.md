@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13b G v. 22.12.2025 I Nr. 371
 
+Änderung durch
+:   Art. 6 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
@@ -212,7 +215,10 @@ Versorgung von Kindern und Jugendlichen sind zu berücksichtigen.
 Ausgangsgrundlage für die Vereinbarung des Gesamtbetrags für das Jahr
 2020 ist der nach Absatz 2 vereinbarte Gesamtbetrag für das Jahr 2019.
 In den Folgejahren ist Ausgangsgrundlage der für das jeweilige Vorjahr
-vereinbarte Gesamtbetrag. Bei der Vereinbarung sind insbesondere zu
+vereinbarte Gesamtbetrag; davon abweichend ist Ausgangsgrundlage für
+die Vereinbarung des Gesamtbetrags für das Jahr 2027 der um 1,14
+Prozent zu erhöhende vereinbarte oder festgesetzte Gesamtbetrag für
+das Jahr 2026. Bei der Vereinbarung sind insbesondere zu
 berücksichtigen:
 
 1.  Veränderungen von Art und Menge der Leistungen des Krankenhauses, die
@@ -539,11 +545,16 @@ tatsächlich genutzt werden.
 (1) Für Leistungen, die mit den nach § 17d des
 Krankenhausfinanzierungsgesetzes auf Bundesebene bewerteten Entgelten
 noch nicht sachgerecht vergütet werden können, vereinbaren die
-Vertragsparteien nach § 11 tages-, fall- oder zeitraumbezogene
+Vertragsparteien nach § 11 tages-, fall- oder zeitraumbezogene
 Entgelte, sofern die Leistungen nach Feststellung der Vertragsparteien
-nach § 9 oder in einer Verordnung nach § 17d Absatz 6 Satz 1 Nummer 3
-des Krankenhausfinanzierungsgesetzes von der Anwendung der auf
-Bundesebene bewerteten Entgelte ausgenommen sind.
+nach § 9 von der Anwendung der auf Bundesebene bewerteten Entgelte
+ausgenommen sind. Beinhaltet eine Leistung die Gabe eines
+Arzneimittels mit einem neuen Wirkstoff, für das nach § 130b Absatz 3a
+oder 4 Satz 3 des Fünften Buches Sozialgesetzbuch ein
+Erstattungsbetrag gilt, so darf für eine solche Leistung für
+Vereinbarungszeiträume ab dem Jahr 2027 kein Entgelt vereinbart
+werden, das höher ist als der für das jeweilige Arzneimittel geltende
+Erstattungsbetrag.
 
 (2) Für regionale oder strukturelle Besonderheiten in der
 Leistungserbringung, die nicht bereits mit den Entgelten nach § 7 Satz
@@ -573,7 +584,7 @@ Sozialgesetzbuch von der Finanzierung ausgeschlossen worden sind,
 sollen die Vertragsparteien nach § 11 erstmals für das Kalenderjahr
 2020 zeitlich befristete Entgelte außerhalb des Gesamtbetrags nach § 3
 Absatz 3 vereinbaren. Für die Einzelheiten des Verfahrens ist § 6
-Absatz 2 Satz 2 bis 10 des Krankenhausentgeltgesetzes entsprechend
+Absatz 2 Satz 2 bis 11 des Krankenhausentgeltgesetzes entsprechend
 anzuwenden.
 
 (5) Werden krankenhausindividuelle Entgelte nach Absatz 1, Absatz 2
@@ -688,10 +699,8 @@ Krankenhausentgeltgesetzes entsprechend. Sofern fallbezogene Entgelte
 zu berechnen sind, gelten die Vorgaben des § 8 Absatz 2 Satz 3, Absatz
 5 und 6 des Krankenhausentgeltgesetzes entsprechend. Näheres oder
 Abweichendes wird von den Vertragsparteien nach § 17b Absatz 2 Satz 1
-des Krankenhausfinanzierungsgesetzes vereinbart oder in einer
-Rechtsverordnung nach § 17d Absatz 6 des
-Krankenhausfinanzierungsgesetzes geregelt. Für die Patientinnen und
-Patienten von Belegärzten werden gesonderte Entgelte berechnet.
+des Krankenhausfinanzierungsgesetzes vereinbart. Für die Patientinnen
+und Patienten von Belegärzten werden gesonderte Entgelte berechnet.
 
 (3) Hält das Krankenhaus seine Verpflichtungen zur Qualitätssicherung
 nicht ein, so sind von den Entgelten nach § 7 Satz 1 Nummer 1 und 2
@@ -781,12 +790,12 @@ für die Vertragsparteien nach § 11 insbesondere
     vereinbart werden können,
 
 
-5.  bis zum 31. Oktober jedes Jahres den Veränderungswert nach Maßgabe des
+5.  bis zum 31. Oktober jeden Jahres den Veränderungswert nach Maßgabe des
     § 10 Absatz 6 Satz 6 oder 7 des Krankenhausentgeltgesetzes, wobei
     bereits anderweitig finanzierte Kostensteigerungen zu berücksichtigen
     sind, soweit dadurch die Veränderungsrate nach § 71 Absatz 3 des
-    Fünften Buches Sozialgesetzbuch nicht unterschritten wird; im Falle
-    des § 10 Absatz 6 Satz 7 des Krankenhausentgeltgesetzes ist der
+    Fünften Buches Sozialgesetzbuch nicht unterschritten wird; im Fall des
+    § 10 Absatz 6 Satz 7 des Krankenhausentgeltgesetzes ist der
     Veränderungswert ausgehend von dem nach § 10 Absatz 6 Satz 1 des
     Krankenhausentgeltgesetzes veröffentlichten Orientierungswert unter
     Berücksichtigung bereits anderweitig finanzierter Kostensteigerungen
@@ -945,17 +954,22 @@ Verhandlung angeboten haben. Der Zeitpunkt des Abschlusses der
 Vereinbarung nach Absatz 1 Satz 1 ist von den Vertragsparteien
 schriftlich oder elektronisch zu dokumentieren; bei einer Festsetzung
 nach § 13 Absatz 1 oder Absatz 3 gilt das Datum der Entscheidung der
-Schiedsstelle. Die Genehmigung des vereinbarten Abschlags ist von den
+Schiedsstelle. Der Krankenhausträger übermittelt die Vereinbarungen
+nach Absatz 1 Satz 1 und 5 in maschinenlesbarer Form an den Verband
+der Privaten Krankenversicherung. Die Genehmigung des vereinbarten
+Abschlags ist von den anderen Vertragsparteien nach § 18 Absatz 2
+Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes bei der für die
+Krankenhausplanung zuständigen Landesbehörde zu beantragen. Die
 anderen Vertragsparteien nach § 18 Absatz 2 Nummer 1 und 2 des
-Krankenhausfinanzierungsgesetzes bei der für die Krankenhausplanung
-zuständigen Landesbehörde zu beantragen. Die anderen Vertragsparteien
-nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes
-haben den Krankenhausträger und die Schiedsstelle nach § 18a Absatz 1
-des Krankenhausfinanzierungsgesetzes zum Zeitpunkt der Antragstellung
-über den Antrag zu informieren. Die für die Krankenhausplanung
-zuständige Landesbehörde genehmigt die Erhebung des Abschlags
-innerhalb von vier Wochen ab dem Eingang des Antrags, wenn die
-Vereinbarung dem geltenden Recht entspricht.
+Krankenhausfinanzierungsgesetzes haben den Krankenhausträger und die
+Schiedsstelle nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes
+zum Zeitpunkt der Antragstellung über den Antrag zu informieren. Die
+für die Krankenhausplanung zuständige Landesbehörde genehmigt die
+Erhebung des Abschlags innerhalb von vier Wochen ab dem Eingang des
+Antrags, wenn die Vereinbarung dem geltenden Recht entspricht. Die für
+die Krankenhausplanung zuständige Landesbehörde informiert den Verband
+der Privaten Krankenversicherung über ihre Entscheidung über die
+Genehmigung.
 
 (5) Die Vertragsparteien sind verpflichtet, wesentliche Fragen zum
 Versorgungsauftrag und zur Leistungsstruktur des Krankenhauses,
@@ -1037,31 +1051,78 @@ Vertragsparteien geltenden Rechtsvorschriften gebunden.
 Gegenstände, über die keine Einigung erreicht werden konnte.
 
 (3) Kommt eine Vereinbarung nach § 11 für Vereinbarungszeiträume ab
-dem Vereinbarungszeitraum 2026 nicht bis zum 31. Juli des Jahres, für
-das die Vereinbarung gelten soll, zustande, legt die Schiedsstelle
-nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes den Inhalt
-der Vereinbarung abweichend von Absatz 1 ohne Antrag einer
-Vertragspartei innerhalb von sechs Wochen ab dem 1. August des Jahres
-fest. Die Fristen nach Satz 1 verlängern sich jeweils um sechs Wochen,
-wenn die Vertragsparteien nach § 18 Absatz 2 des
-Krankenhausfinanzierungsgesetzes vor Ablauf der Frist nach Satz 1
-gegenüber der Schiedsstelle gemeinsam schriftlich oder elektronisch
-anzeigen, dass sie innerhalb der solchermaßen verlängerten Frist eine
-Vereinbarung nach § 11 abschließen werden. Die im Schiedsverfahren zu
-berücksichtigenden Daten, Unterlagen und Auskünfte des
-Krankenhausträgers oder der anderen Vertragsparteien nach § 18 Absatz
-2 des Krankenhausfinanzierungsgesetzes sind innerhalb der in § 11
-Absatz 4 Satz 1 und 4 genannten Fristen zu übermitteln, vorzulegen
-oder zu erteilen; nach Ablauf dieser Fristen übermittelte, vorgelegte
-oder erteilte Daten, Unterlagen und Auskünfte dürfen von der
-Schiedsstelle nicht berücksichtigt oder im Falle von Klagen gegen die
-Genehmigung des Beschlusses der Schiedsstelle von dem Gericht nicht
-zugelassen werden, wenn die Zulassung nach der freien Überzeugung der
+dem Vereinbarungszeitraum 2029 nicht oder teilweise nicht bis zum
+Ablauf des 31. Juli des Jahres, für das die Vereinbarung gelten soll,
+zustande, entscheidet die Schiedsstelle nach § 18a Absatz 1 des
+Krankenhausfinanzierungsgesetzes abweichend von Absatz 1 Satz 1 und
+Absatz 2 ohne Antrag einer Vertragspartei innerhalb von acht Wochen ab
+dem 1. August dieses Jahres. Die Vertragsparteien sind verpflichtet,
+der Schiedsstelle bis zum Ablauf des 31. Juli des jeweiligen Jahres
+den fehlenden vollständigen Abschluss einer Vereinbarung nach § 11,
+die Gegenstände, über die keine Einigung erreicht werden konnte, sowie
+die Gründe der Nichteinigung schriftlich oder elektronisch
+mitzuteilen. Sie können bis zum Ablauf des 31. Juli des jeweiligen
+Jahres gegenüber der Schiedsstelle gemeinsam schriftlich oder
+elektronisch anzeigen, dass sie bis zum Ablauf des 30. September des
+Jahres die Vereinbarung nach § 11 abschließen werden. Haben die
+Vertragsparteien eine in Satz 3 genannte Anzeige vorgenommen, haben
+sie bis zum Ablauf des 30. September des jeweiligen Jahres der
+Schiedsstelle mitzuteilen, ob sie die Vereinbarung abgeschlossen
+haben. Sofern die Vertragsparteien nach Satz 4 mitteilen, dass sie die
+Vereinbarung nicht abgeschlossen haben, entscheidet die Schiedsstelle
+abweichend von Satz 1 innerhalb von acht Wochen ab dem 1. Oktober des
+jeweiligen Jahres.
+
+(4) Kommt eine Vereinbarung nach § 11 für einen oder mehrere der
+Vereinbarungszeiträume bis einschließlich des Vereinbarungszeitraums
+2023 nicht oder teilweise nicht bis zum Ablauf des 31. März 2027
+zustande, entscheidet die Schiedsstelle nach § 18a Absatz 1 des
+Krankenhausfinanzierungsgesetzes abweichend von Absatz 1 Satz 1 und
+Absatz 2 ohne Antrag einer Vertragspartei innerhalb von drei Monaten
+ab dem 1. April 2027. Die Vertragsparteien sind verpflichtet, der
+Schiedsstelle bis zum Ablauf des 31. März 2027 den fehlenden
+vollständigen Abschluss einer oder mehrerer der in Satz 1 genannten
+Vereinbarungen, die Gegenstände, über die keine Einigung erzielt
+werden konnte, sowie die Gründe der Nichteinigung schriftlich oder
+elektronisch mitzuteilen.
+
+(5) Kommt eine Vereinbarung nach § 11 für einen oder mehrere der
+Vereinbarungszeiträume 2024 bis 2026 nicht oder teilweise nicht bis
+zum Ablauf des 31. März 2028 zustande, entscheidet die Schiedsstelle
+nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes abweichend
+von Absatz 1 Satz 1 und Absatz 2 ohne Antrag einer Vertragspartei
+innerhalb von drei Monaten ab dem 1. April 2028. Die Vertragsparteien
+sind verpflichtet, der Schiedsstelle bis zum Ablauf des 31. März 2028
+den fehlenden vollständigen Abschluss einer oder mehrerer der in Satz
+1 genannten Vereinbarungen, die Gegenstände, über die keine Einigung
+erreicht werden konnte, sowie die Gründe der Nichteinigung schriftlich
+oder elektronisch mitzuteilen.
+
+(6) Kommt eine Vereinbarung nach § 11 für einen oder für die beiden
+Vereinbarungszeiträume 2027 und 2028 nicht oder teilweise nicht bis
+zum Ablauf des 31. März 2029 zustande, entscheidet die Schiedsstelle
+nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes abweichend
+von Absatz 1 Satz 1 und Absatz 2 ohne Antrag einer Vertragspartei
+innerhalb von drei Monaten ab dem 1. April 2029. Die Vertragsparteien
+sind verpflichtet, der Schiedsstelle bis zum Ablauf des 31. März 2029
+den fehlenden vollständigen Abschluss einer oder der beiden in Satz 1
+genannten Vereinbarungen, die Gegenstände, über die keine Einigung
+erreicht werden konnte, sowie die Gründe der Nichteinigung 2027 und
+2028 schriftlich oder elektronisch mitzuteilen.
+
+(7) Wenn in § 11 Absatz 4 Satz 1 und 4 genannte Daten, Unterlagen und
+Auskünfte den jeweils anderen Vertragsparteien nicht oder nicht
+innerhalb der in § 11 Absatz 4 Satz 1 und 4 genannten Fristen
+übermittelt, vorgelegt oder erteilt wurden, so kann die Schiedsstelle
+im Schiedsverfahren nach den Absätzen 1 bis 3 und 6 solche Daten,
+Unterlagen oder Auskünfte unberücksichtigt lassen oder das Gericht im
+Fall von Klagen gegen die Genehmigung des Beschlusses der
+Schiedsstelle in diesen Schiedsverfahren entscheiden, solche Daten,
+Unterlagen oder Auskünfte nicht zuzulassen, sofern die
+Berücksichtigung oder die Zulassung nach der freien Überzeugung der
 Schiedsstelle oder des Gerichts die Erledigung des Rechtsstreits
-verzögern würde und die Nichteinhaltung der Fristen auf von dem
-Krankenhausträger oder von einer der anderen Vertragsparteien nach §
-18 Absatz 2 des Krankenhausfinanzierungsgesetzes zu vertretenden
-Gründen beruht.
+verzögern würde und die Nichteinhaltung der Fristen auf von einer der
+Vertragsparteien zu vertretenden Gründen beruht.
 
 
 ### § 14 Genehmigung
@@ -1073,7 +1134,12 @@ krankenhausindividuell ermittelten Zu- und Abschläge ist von einer der
 Vertragsparteien bei der zuständigen Landesbehörde zu beantragen. Die
 zuständige Landesbehörde erteilt die Genehmigung, wenn die
 Vereinbarung oder Festsetzung den Vorschriften dieser Verordnung sowie
-sonstigem Recht entspricht.
+sonstigem Recht entspricht. Sie entscheidet über die Genehmigung
+innerhalb von acht Wochen nach Eingang des jeweiligen Antrags,
+andernfalls gilt die Genehmigung als erteilt, soweit landesrechtlich
+nichts Abweichendes bestimmt ist. Die zuständige Landesbehörde
+informiert den Verband der Privaten Krankenversicherung über ihre
+Entscheidung über die Genehmigung.
 
 (2) Die Vertragsparteien und die Schiedsstellen haben der zuständigen
 Landesbehörde die Unterlagen vorzulegen und die Auskünfte zu erteilen,
@@ -1106,7 +1172,18 @@ Vergütungssystems nach § 17d des Krankenhausfinanzierungsgesetzes im
 Jahr 2013, 2014, 2015, 2016, 2017 oder 2018. Sie sind jedoch um die
 darin enthaltenen Ausgleichsbeträge zu bereinigen, wenn und soweit
 dies in der bisherigen Vereinbarung oder Festsetzung so bestimmt
-worden ist.
+worden ist. In einem Vereinbarungszeitraum ab dem Jahr 2027 ist ab dem
+Zeitpunkt, zu dem ein Erstattungsbetrag für ein Arzneimittel mit einem
+neuen Wirkstoff nach § 130b Absatz 1 des Fünften Buches
+Sozialgesetzbuch vereinbart oder nach § 130b Absatz 4 des Fünften
+Buches Sozialgesetzbuch festgesetzt wurde, für Leistungen oder für
+neue Untersuchungs- und Behandlungsmethoden, die die Gabe dieses
+Arzneimittels beinhalten und für die ein Entgelt nach § 6 Absatz 1
+oder 4, ein Entgelt in Höhe des vereinbarten oder festgesetzten
+Erstattungsbetrags zu erheben, sofern für den jeweiligen
+Vereinbarungszeitraum kein Entgelt vereinbart oder festgesetzt wurde,
+das niedriger als der jeweils vereinbarte oder festgesetzte
+Erstattungsbetrag ist.
 
 (2) Mehr- oder Mindererlöse infolge der Weitererhebung der bisherigen
 Entgelte werden durch Zu- und Abschläge auf die im restlichen
@@ -1122,7 +1199,14 @@ Grenze in nachfolgenden Budgets auszugleichen. Ein Ausgleich von
 Mindererlösen entfällt, soweit die verspätete Genehmigung der
 Vereinbarung von dem Krankenhaus zu vertreten ist. Die Sätze 1 bis 3
 sind auch auf erstmalig vereinbarte Entgelte nach § 6 Absatz 4
-anzuwenden.
+anzuwenden. Die Sätze 1 bis 3 gelten auch für Mehr- oder Mindererlöse
+infolge der Erhebung eines Entgelts nach Absatz 1 Satz 5 in Höhe des
+nach § 130b Absatz 1 des Fünften Buches Sozialgesetzbuch vereinbarten
+oder nach § 130b Absatz 4 des Fünften Buches Sozialgesetzbuch
+festgesetzten Erstattungsbetrags erst ab dem Zeitpunkt der
+Vereinbarung oder der Festsetzung des Erstattungsbetrags und nicht ab
+dem Zeitpunkt seiner Geltung nach § 130b Absatz 3a oder Absatz 4 Satz
+3 des Fünften Buches Sozialgesetzbuch.
 
 
 ## Fünfter Abschnitt - Sonstige Vorschriften
