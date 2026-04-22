@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 8.12.2025 I Nr. 317
-
-Änderung durch
-:   Art. 1 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 18.12.2025 I Nr. 347
 
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -22437,12 +22434,6 @@ nach Satz 1 durch Rechtsverordnung auf die Bundesnetzagentur
 2027 anzuwenden.
 
 
-### § 118b (weggefallen)
-
-
-### § 118c (weggefallen)
-
-
 ### § 119 Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
@@ -22671,9 +22662,6 @@ näher geregelt werden. Insbesondere können in der Rechtsverordnung die
 Ergebnisse der fiktiven Ermittlung nach Absatz 5 für
 Übertragungsnetzbetreiber festgelegt werden. Dabei können kaufmännisch
 gerundete Prozentangaben festgelegt werden.
-
-
-### § 121 (weggefallen)
 
 
 ### Anlage (zu § 13g) Berechnung der Vergütung
