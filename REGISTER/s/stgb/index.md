@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.2.2026 I Nr. 46
-
-Änderung durch
-:   Art. 1 G v. 20.3.2026 I Nr. 95 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 20.3.2026 I Nr. 95
 
 
 ## Allgemeiner Teil - 
