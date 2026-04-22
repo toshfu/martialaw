@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1513
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.10.2023 I Nr. 271
-
-Änderung durch
-:   Art. 3 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 10.12.2025 I Nr. 320
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
