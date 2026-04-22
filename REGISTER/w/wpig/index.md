@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 27a G v. 25.3.2026 I Nr. 81 mWv 30.12.2026 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 9 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
