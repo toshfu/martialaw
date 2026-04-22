@@ -56,7 +56,7 @@ Broschat, Berlin.
 Der Bundesminister der Finanzen
 
 
-## (XXXX)
+## Anlage
 
 (Fundstelle: BGBl. I 2009, 3882)
 
