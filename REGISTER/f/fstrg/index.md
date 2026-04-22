@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.6.2007 I 1206;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2023 I Nr. 409
-
-Änderung durch
-:   Art. 8 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 29.3.2026 I Nr. 84
 
 
 ## § 1 Einteilung der Bundesstraßen des Fernverkehrs
