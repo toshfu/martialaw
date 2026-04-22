@@ -3085,8 +3085,8 @@ Folgendes anzuzeigen:
     Geschäftsplans, jede Änderung des tatsächlichen Geschäftsgebietes,
     jede Änderung von Unternehmensverträgen der in den §§ 291 und 292 des
     Aktiengesetzes bezeichneten Art sowie die Absicht der Umwandlung nach
-    den § 1, § 305, § 320 oder § 333 des Umwandlungsgesetzes, soweit sie
-    nicht der Genehmigungspflicht nach § 166 Absatz 3 unterliegen,
+    § 1, § 305, § 320 oder § 333 des Umwandlungsgesetzes, soweit sie nicht
+    der Genehmigungspflicht nach § 166 Absatz 3 unterliegen,
 
 
 5.  den Erwerb oder die Aufgabe einer bedeutenden Beteiligung an dem
