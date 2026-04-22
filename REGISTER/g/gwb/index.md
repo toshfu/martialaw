@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 9 G v. 20.3.2026 I Nr. 95
+:   Art. 5 G v. 9.4.2026 I Nr. 98
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -10560,6 +10560,96 @@ Wirtschaft und Klimaschutz unverzüglich im Bundesanzeiger bekannt zu
 machen.
 
 
+### § 186a Fusionskontrolle im Krankenhausbereich
+
+(1) Für einen Zusammenschluss im Sinne des § 37, bei dem mindestens
+zwei Krankenhäuser im Sinne des § 107 Absatz 1 des Fünften Buches
+Sozialgesetzbuch oder einzelne medizinische Fachbereiche von
+mindestens zwei solchen Krankenhäusern ganz oder teilweise
+zusammengeschlossen werden, haben die Zusammenschlussbeteiligten bei
+Eröffnung des Geltungsbereichs der Zusammenschlusskontrolle bei der
+für die Krankenhausplanung zuständigen Behörde des Landes, in dem sich
+ein von dem Zusammenschluss betroffenes Krankenhaus oder ein von dem
+Zusammenschluss betroffener medizinischer Fachbereich eines am
+Zusammenschluss beteiligten Krankenhauses befindet, die Bestätigung zu
+beantragen, dass der Zusammenschluss dieser Krankenhäuser oder dieser
+einzelnen medizinischen Fachbereiche der am Zusammenschluss
+beteiligten Krankenhäuser zur Verbesserung der Krankenhausversorgung
+für erforderlich gehalten wird. Die von der für die Krankenhausplanung
+zuständige Landesbehörde auf Antrag nach Satz 1 erteilte
+Erforderlichkeitsbestätigung erstreckt sich nur auf Märkte, auf denen
+die vom Zusammenschluss betroffenen Krankenhäuser im Sinne des § 107
+Absatz 1 des Fünften Buches Sozialgesetzbuch oder medizinischen
+Fachbereiche Leistungen im Sinne des § 39 Absatz 1 Satz 1 des Fünften
+Buches Sozialgesetzbuch erbringen. Sind mehrere Landesbehörden nach
+Satz 1 zuständig, entscheiden diese einvernehmlich mit einer
+gemeinsamen schriftlichen oder elektronischen Bestätigung.
+
+(2) Anträge auf Erteilung der Erforderlichkeitsbestätigung nach Absatz
+1 Satz 1 sowie die Entscheidung über diese sind unverzüglich durch die
+für die Krankenhausplanung zuständige Landesbehörde auf ihrer
+Internetseite unter Nennung der Zusammenschlussbeteiligten
+bekanntzumachen. Die für die Krankenhausplanung zuständige
+Landesbehörde setzt sich mit dem Bundeskartellamt vor der Erteilung
+einer Erforderlichkeitsbestätigung ins Benehmen. Über den Antrag nach
+Absatz 1 Satz 1 darf nicht vor Ablauf von einem Monat nach dessen
+Bekanntmachung entschieden werden. Wird der Antrag nicht innerhalb von
+drei Monaten nach der Stellung des Antrags nach Absatz 1 Satz 1
+beschieden, gilt er als abgelehnt. Die für die Krankenhausplanung
+zuständige Landesbehörde kann mit Zustimmung aller
+Zusammenschlussbeteiligten die in Satz 4 genannte Frist verlängern.
+
+(3) Die Anmeldung eines Zusammenschlusses nach Absatz 1 Satz 1 beim
+Bundeskartellamt nach § 39 ist nur dann zulässig und erforderlich,
+
+1.  wenn der Antrag auf Erteilung einer Erforderlichkeitsbestätigung
+    abgelehnt wurde oder gemäß Absatz 2 Satz 4 als abgelehnt gilt, oder
+
+
+2.  in den Fällen, in denen die Erforderlichkeitsbestätigung erteilt wurde
+    und das Zusammenschlussvorhaben nicht ausschließlich Märkte betrifft,
+    auf denen Krankenhäuser im Sinne des § 107 Absatz 1 des Fünften Buches
+    Sozialgesetzbuch oder medizinische Fachbereiche der am Zusammenschluss
+    beteiligten Krankenhäuser in § 39 Absatz 1 Satz 1 des Fünften Buches
+    genannte Leistungen erbringen.
+
+
+
+Im Fall eines Zusammenschlusses nach Satz 1 Nummer 2 bleibt der Teil
+des Zusammenschlusses, auf den sich die Erforderlichkeitsbestätigung
+nach Absatz 1 Satz 1 erstreckt, bei der Prüfung des Geltungsbereiches
+der Zusammenschlusskontrolle nach § 35 außer Betracht. Dieser Teil des
+Zusammenschlusses gilt nicht als Teil des nach § 39 anmeldepflichtigen
+Zusammenschlussvorhabens. Die in § 40 Absatz 1 Satz 1 genannte Frist
+beginnt nicht, bevor die Zusammenschlussbeteiligten dem
+Bundeskartellamt die Entscheidung der für die Krankenhausplanung
+zuständigen Landesbehörde über den Antrag nach Absatz 1 Satz 1
+vorlegen oder nachweisen, dass die Erforderlichkeitsbestätigung
+beantragt und der in Absatz 2 Satz 4 genannte oder nach Absatz 2 Satz
+5 verlängerte Zeitraum abgelaufen ist.
+
+(4) Die Monopolkommission nimmt gegenüber dem Bundesministerium für
+Wirtschaft und Energie nach dessen Aufforderung Stellung zu den
+Erfahrungen mit dieser Vorschrift. Das Bundesministerium für
+Wirtschaft und Energie berichtet auf Grundlage dieser Stellungnahme
+den gesetzgebenden Körperschaften spätestens nach Ablauf von fünf
+Jahren nach Inkrafttreten der Regelungen in den Absätzen 1 bis 3 über
+die Erfahrungen mit dieser Vorschrift. Für Datenanforderungen des
+Bundesministeriums für Wirtschaft und Energie und der
+Monopolkommission zwecks Abgabe der Stellungnahme nach Satz 1 oder
+Erstellung des Berichts nach Satz 2 gilt § 21 Absatz 3 Satz 8 des
+Krankenhausentgeltgesetzes entsprechend mit der Maßgabe, dass die
+ausgewählten Krankenhäuser von einem Zusammenschluss nach Absatz 1
+Satz 1 betroffen sein müssen. Für die Abgabe der Stellungnahme nach
+Satz 1 oder die Erstellung des Berichts nach Satz 2 und zur
+Untersuchung der Auswirkungen dieser Vorschrift auf die
+Wettbewerbsverhältnisse und die Krankenhausversorgung können Daten aus
+der amtlichen Krankenhausstatistik zusammengeführt werden.
+
+(5) Diese Vorschrift ist nur anzuwenden auf Zusammenschlüsse, die bis
+zum 31. Dezember 2030 vollzogen werden.
+
+
 ### § 187 Übergangs- und Schlussbestimmungen
 
 (1) § 29 ist nach dem 31. Dezember 2027 nicht mehr anzuwenden.
@@ -10633,16 +10723,17 @@ im Krankenhausbereich, soweit
 
 2.  dem Zusammenschluss keine anderen wettbewerbsrechtlichen Vorschriften
     entgegenstehen und dies das Land bei Antragstellung nach der
-    Krankenhausstrukturfonds-Verordnung bestätigt hat,
+    Krankenhausstrukturfonds-Verordnung oder der
+    Krankenhaustransformationsfonds-Verordnung bestätigt hat,
 
 
 3.  das Vorliegen der weiteren Voraussetzungen für eine Förderung nach §
     12a Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes in Verbindung
     mit § 11 Absatz 1 Nummer 2 der Krankenhausstrukturfonds-Verordnung
-    oder nach § 12b Absatz 1 Satz 4 Nummer 1 des
-    Krankenhausfinanzierungsgesetzes in einem Auszahlungsbescheid auf der
-    Grundlage der Krankenhausstrukturfonds-Verordnung festgestellt wurde
-    und
+    oder nach § 12b Absatz 1 Satz 3 Nummer 1 des
+    Krankenhausfinanzierungsgesetzes in Verbindung mit einem
+    Auszahlungsbescheid auf der Grundlage von § 5 Absatz 1 der
+    Krankenhaustransformationsfonds-Verordnung festgestellt wurde und
 
 
 4.  der Zusammenschluss bis zum 31. Dezember 2038 vollzogen wird.
@@ -10663,57 +10754,7 @@ der amtlichen Krankenhausstatistik zusammengeführt werden. Diese
 Regelung ist anzuwenden auf Zusammenschlüsse, die ab dem 1. Januar
 2031 vollzogen werden.
 
-(10) Die §§ 35 bis 41 sind nicht anzuwenden auf einen Zusammenschluss
-im Krankenhausbereich, sofern
-
-1.  der Zusammenschluss eine standortübergreifende Konzentration von
-    mehreren Krankenhäusern im Sinne des § 2 Nummer 1 des
-    Krankenhausfinanzierungsgesetzes oder einzelnen Fachrichtungen solcher
-    Krankenhäuser zum Gegenstand hat,
-
-
-2.  die für die Krankenhausplanung zuständigen Landesbehörden der
-    Bundesländer, in denen die am Zusammenschluss beteiligten
-    Krankenhäuser oder einzelnen Fachrichtungen solcher Krankenhäuser
-    belegen sind, – im Falle der Zuständigkeit mehrerer Landesbehörden
-    einvernehmlich – schriftlich bestätigen, dass sie den Zusammenschluss
-    zur Verbesserung der Krankenhausversorgung für erforderlich halten und
-    dem Zusammenschluss nach vorliegenden Erkenntnissen keine anderen
-    wettbewerbsrechtlichen Vorschriften entgegenstehen,
-
-
-3.  der Zusammenschluss bis zum 31. Dezember 2030 vollzogen wird.
-
-
-
-Anträge auf schriftliche Bestätigung nach Satz 1 Nummer 2 sind
-unverzüglich durch die zuständigen Landesministerien auf ihren
-Internetseiten unter Nennung der Zusammenschlussbeteiligten zu
-veröffentlichen. Die für die Krankenhausplanung zuständigen
-Landesbehörden der Bundesländer setzen sich mit dem Bundeskartellamt
-vor einer Bestätigung nach Satz 1 Nummer 2 ins Benehmen. Über den
-Antrag nach Satz 1 Nummer 2 darf nicht vor Ablauf von einem Monat nach
-der Veröffentlichung entschieden werden. Eine Anmeldung eines
-Zusammenschlusses im Sinne des Satzes 1 Nummer 1 und 3 ist beim
-Bundeskartellamt nach § 39 Absatz 1 erst dann zulässig, wenn die
-Zusammenschlussparteien gegenüber dem Bundeskartellamt nachweisen,
-dass ihr Antrag auf schriftliche Bestätigung nach Satz 1 Nummer 2
-durch die zuständigen Landesbehörden abgelehnt oder nicht innerhalb
-von zwei Monaten beschieden wurde. Das Bundesministerium für
-Wirtschaft und Klimaschutz berichtet auf Grundlage einer Stellungnahme
-der Monopolkommission den gesetzgebenden Körperschaften spätestens
-nach Ablauf von sechs Jahren nach Inkrafttreten der Regelungen in den
-Sätzen 1 bis 4 über die Erfahrungen mit dieser Vorschrift. Für
-Datenanforderungen des Bundesministeriums für Wirtschaft und
-Klimaschutz und der Monopolkommission zur Evaluierung im Sinne dieses
-Absatzes ist § 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes
-entsprechend anzuwenden, soweit die Krankenhäuser von einem
-Zusammenschluss im Sinne des Satzes 1 betroffen sind. § 21 Absatz 3
-Satz 9 des Krankenhausentgeltgesetzes findet insofern keine Anwendung.
-Für die Zwecke der Evaluierung und zur Untersuchung der Auswirkungen
-dieser Regelungen auf die Wettbewerbsverhältnisse und die
-Krankenhausversorgung können Daten aus der amtlichen
-Krankenhausstatistik zusammengeführt werden.
+(10) (weggefallen)
 
 (11) Das Bundesministerium für Wirtschaft und Klimaschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
