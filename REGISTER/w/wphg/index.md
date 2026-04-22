@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 27 Abs. 2 G v. 25.3.2026 I Nr. 81
+:   Art. 5 G v. 9.4.2026 I Nr. 97
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
@@ -65,163 +65,71 @@ der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
     börsennotierten Gesellschaften sowie
 
 
-8.  die Zuständigkeiten und Befugnisse der Bundesanstalt für
-    Finanzdienstleistungsaufsicht (Bundesanstalt) und die Ahndung von
-    Verstößen hinsichtlich
+8.  die Zuständigkeiten und Befugnisse der
+    Bundesanstalt                    für Finanzdienstleistungsaufsicht
+    (Bundesanstalt) und die Ahndung von Verstößen hinsichtlich
 
     a)  der Vorschriften dieses Gesetzes,
 
 
-    b)  der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des
-        Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom
-        17\.11.2009, S. 1; L 350 vom 29.12.2009, S. 59; L 145 vom 31.5.2011, S.
-        57; L 267 vom 6.9.2014, S. 30), die zuletzt durch die Richtlinie
-        2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1; L 108 vom 28.4.2015, S. 8)
-        geändert worden ist, in der jeweils geltenden Fassung,
+    b)  der Verordnung (EG) Nr. 1060/2009,
 
 
-    c)  der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des
-        Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von
-        Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1), die zuletzt
-        durch die Verordnung (EU) Nr. 909/2014 (ABl. L 257 vom 28.8.2014, S.
-        1) geändert worden ist, in der jeweils geltenden Fassung,
+    c)  der Verordnung (EU) Nr. 236/2012,
 
 
-    d)  der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des
-        Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und
-        Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom
-        30\.11.2013, S. 6), die zuletzt durch die Verordnung (EU) 2019/834
-        (ABl. L 141 vom 28.5.2019, S. 42) geändert worden ist, in der jeweils
-        geltenden Fassung,
+    d)  der Verordnung (EU) Nr. 648/2012,
 
 
-    e)  der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des
-        Rates vom 16. April 2014 über Marktmissbrauch
-        (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
-        2003/6/EG des Europäischen Parlaments und des Rates und der
-        Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
-        (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom 21.10.2016, S. 320; L 306
-        vom 15.11.2016, S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch
-        die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1)
-        geändert worden ist, in der jeweils geltenden Fassung,
+    e)  der Verordnung (EU) Nr. 596/2014,
 
 
-    f)  der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des
-        Rats vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur
-        Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014,
-        S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4) in der
-        jeweils geltenden Fassung,
+    f)  der Verordnung (EU) Nr. 600/2014,
 
 
-    g)  der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des
-        Rates vom 23. Juli 2014 zur Verbesserung der Wertpapierlieferungen und
-        -abrechnungen in der Europäischen Union und über Zentralverwahrer
-        sowie zur Änderung der Richtlinien 98/26/EG und 2014/65/EU und der
-        Verordnung (EU) Nr. 236/2012 (ABl. L 257 vom 28.8.2014, S. 1; L 349
-        vom 21.12.2016, S. 5), die zuletzt durch die Verordnung (EU) 2016/1033
-        (ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, in der jeweils
-        geltenden Fassung,
+    g)  der Verordnung (EU) Nr. 909/2014,
 
 
-    h)  der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des
-        Rates vom 26. November 2014 über Basisinformationsblätter für
-        verpackte Anlageprodukte für Kleinanleger und
-        Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L
-        358 vom 13.12.2014, S. 50), in der jeweils geltenden Fassung,
+    h)  der Verordnung (EU) Nr. 1286/2014,
 
 
-    i)  der Verordnung (EU) 2015/2365 des Europäischen Parlaments und des
-        Rates vom 25. November 2015 über die Transparenz von
-        Wertpapierfinanzierungsgeschäften und der Weiterverwendung sowie zur
-        Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 337 vom 23.12.2015,
-        S. 1), in der jeweils geltenden Fassung,
+    i)  der Verordnung (EU) 2015/2365,
 
 
-    j)  der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des
-        Rates vom 8. Juni 2016 über Indizes, die bei Finanzinstrumenten und
-        Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung
-        eines Investmentfonds verwendet werden, und zur Änderung der
-        Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr.
-        596/2014 (ABl. L 171 vom 29.6.2016, S. 1), in der jeweils geltenden
-        Fassung,
+    j)  der Verordnung (EU) 2016/1011,
 
 
-    k)  der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des
-        Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen
-        Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem
-        geregelten Markt zu veröffentlichen ist und zur Aufhebung der
-        Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12), die zuletzt
-        durch die Verordnung (EU) 2023/2869 (ABl. L 2023/2869, 20.12.2023)
-        geändert worden ist, in der jeweils geltenden Fassung,
+    k)  der Verordnung (EU) 2017/1129,
 
 
-    l)  der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des
-        Rates vom 27. November 2019 über nachhaltigkeitsbezogene
-        Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom
-        9\.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198
-        vom 22.6.2020, S. 13) geändert worden ist, sofern es sich um
+    l)  der Verordnung (EU) 2019/2088, sofern es sich um
         Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder
         Finanzportfolioverwaltung betreiben,
 
 
-    m)  der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des
-        Rates vom 20. Juni 2019 über ein Paneuropäisches Privates
-        Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils
-        geltenden Fassung,
+    m)  der Verordnung (EU) 2019/1238,
 
 
-    n)  der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates
-        vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung
-        nachhaltiger Investitionen und zur Änderung der Verordnung (EU)
-        2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um
+    n)  der Verordnung (EU) 2020/852, sofern es sich um
         Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder
         Finanzportfolioverwaltung betreiben,
 
 
-    o)  der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des
-        Rates vom 7. Oktober 2020 über Europäische
-        Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der
-        Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L
-        347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung,
+    o)  der Verordnung (EU) 2020/1503,
 
 
     p)  der Delegierten Verordnungen und Durchführungsverordnungen der
-        Europäischen Kommission zur Richtlinie 2014/65/EU des Europäischen
-        Parlaments und des Rates vom 15. Mai 2014 über Märkte für
-        Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und
-        2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S.
-        38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom
-        10\.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die
-        Verordnung (EU) 2022/858 (ABl. L 151 vom 2.6.2022, S. 1) geändert
-        worden ist, in der jeweils geltenden Fassung,
+        Europäischen Kommission zur Richtlinie 2014/65/EU,
 
 
-    q)  der Delegierten Verordnungen und Durchführungsverordnungen der
-        Europäischen Kommission zur Richtlinie 2004/109/EG des Europäischen
-        Parlaments und des Rates vom 15. Dezember 2004 zur Harmonisierung der
-        Transparenzanforderungen in Bezug auf Informationen über Emittenten,
-        deren Wertpapiere zum Handel auf einem geregelten Markt zugelassen
-        sind, und zur Änderung der Richtlinie 2001/34/EG (ABl. L 390 vom
-        31\.12.2004, S. 38), die zuletzt durch die Richtlinie (EU) 2022/2464
-        (ABl. L 322 vom 16.12.2022, S. 15) geändert worden ist, in der jeweils
-        geltenden Fassung und
+    q)  der Delegierte Verordnungen und Durchführungsverordnungen der
+        Europäischen Kommission zur Richtlinie 2004/109/EG,
 
 
-    r)  der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des
-        Rates vom 14. Dezember 2022 über die digitale operationale Resilienz
-        im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009,
-        (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU)
-        2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden
-        Fassung,
+    r)  der Verordnung (EU) 2022/2554,
 
 
-    s)  der Verordnung (EU) 2023/2631 des Europäischen Parlaments und des
-        Rates vom 22. November 2023 über europäische grüne Anleihen sowie
-        fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten
-        Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L,
-        2023/2631, 30.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl.
-        L, 2023/2869, 20.12.2023) geändert worden ist, in der jeweils
-        geltenden Fassung.
+    s)  der Verordnung (EU) 2023/2631.
 
 
 
@@ -3405,6 +3313,23 @@ ist zuständige Behörde im Sinne des Artikels 62 Absatz 4, des Artikels
 Vorschriften der Abschnitte 1 und 2 dieses Gesetzes, mit Ausnahme der
 §§ 22 und 23, entsprechend.
 
+(1a) Die Bundesanstalt kann Zwangsgelder verhängen nach
+
+1.  Artikel 7a Absatz 9 Unterabsatz 2 der Verordnung (EU) Nr. 648/2012 in
+    der Fassung vom 27. November 2024 gegen finanzielle oder
+    nichtfinanzielle Gegenparteien unter Beachtung der Maßgaben nach
+    Artikel 7a Absatz 9 Untersatz 3 und 4 der Verordnung (EU) Nr. 648/2012
+    in der Fassung vom 27. November 2024, und
+
+
+2.  Artikel 12 Absatz 1a Unterabsatz 1 der Verordnung (EU) Nr. 648/2012 in
+    der Fassung vom 27. November 2024 gegen Einrichtungen unter Beachtung
+    der Maßgaben nach Artikel 12 Absatz 1a Untersatz 2 der Verordnung (EU)
+    Nr. 648/2012 in der Fassung vom 27. November 2024.
+
+
+
+
 (2) Eine inländische finanzielle Gegenpartei im Sinne des Artikels 2
 Nummer 8 der Verordnung (EU) Nr. 648/2012 hat, wenn sie eine Garantie
 im Sinne der Artikel 1 und 2 Absatz 1 der Delegierten Verordnung (EU)
@@ -3429,11 +3354,11 @@ Gegenpartei im Sinne des Artikels 25 Absatz 1 der Verordnung (EU) Nr.
 648/2012 nur nutzen, wenn diese von der Europäischen Wertpapier- und
 Marktaufsichtsbehörde anerkannt wurde.
 
-(4) Die Bundesanstalt übt die ihr nach Absatz 1 in Verbindung mit der
-Verordnung (EU) Nr. 648/2012 übertragenen Befugnisse aus, soweit dies
-für die Wahrnehmung ihrer Aufgaben und die Überwachung der Einhaltung
-der in der Verordnung (EU) Nr. 648/2012 geregelten Pflichten
-erforderlich ist.
+(4) Die Bundesanstalt übt die ihr nach den Absätzen 1 und 1a in
+Verbindung mit der Verordnung (EU) Nr. 648/2012 übertragenen
+Befugnisse aus, soweit dies für die Wahrnehmung ihrer Aufgaben und die
+Überwachung der Einhaltung der in der Verordnung (EU) Nr. 648/2012
+geregelten Pflichten erforderlich ist.
 
 (5) Sofern die Bundesanstalt als zuständige Behörde nach Absatz 1
 tätig wird oder Befugnisse nach Absatz 4 ausübt, sind die
@@ -8118,16 +8043,14 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 ### § 86 Anzeigepflicht
 
-(1) Andere Personen als Wertpapierdienstleistungsunternehmen,
-Kapitalverwaltungsgesellschaften, EU-Verwaltungsgesellschaften oder
-Investmentgesellschaften, die in Ausübung ihres Berufes oder im Rahmen
-ihrer Geschäftstätigkeit für die Erstellung von
-Anlagestrategieempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 34
-der Verordnung (EU) Nr. 596/2014 oder von Anlageempfehlungen im Sinne
-des Artikels 3 Absatz 1 Nummer 35 der Verordnung (EU) Nr. 596/2014
-oder deren Weitergabe verantwortlich sind, haben dies der
-Bundesanstalt vor Erstellung oder Weitergabe der Empfehlungen
-anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
+(1) Andere Personen als Wertpapierdienstleistungsunternehmen, die in
+Ausübung ihres Berufes oder im Rahmen ihrer Geschäftstätigkeit für die
+Erstellung von Anlagestrategieempfehlungen im Sinne des Artikels 3
+Absatz 1 Nummer 34 der Verordnung (EU) Nr. 596/2014 oder von
+Anlageempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 35 der
+Verordnung (EU) Nr. 596/2014 oder deren Weitergabe verantwortlich
+sind, haben dies der Bundesanstalt vor Erstellung oder Weitergabe der
+Empfehlungen anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
 
 1.  bei einer natürlichen Person Name, Geburtsort, Geburtsdatum, Wohn- und
     Geschäftsanschrift sowie telefonische und elektronische Kontaktdaten,
@@ -8256,11 +8179,11 @@ gegen Maßnahmen nach Satz 1 haben keine aufschiebende Wirkung.
 
 (7) (wegegfallen)
 
-(8) Die Absätze 1 bis 6 sind nicht anzuwenden auf diejenigen
+(8) Die Absätze 1 bis 7 sind nicht anzuwenden auf diejenigen
 Mitarbeiter eines Wertpapierdienstleistungsunternehmens, die
 ausschließlich in einer Zweigniederlassung im Sinne des § 24a des
-Kreditwesengesetzes oder in mehreren solcher Zweigniederlassungen
-tätig sind.
+Kreditwesengesetzes, des § 70 des Wertpapierinstitutsgesetzes oder in
+mehreren solcher Zweigniederlassungen tätig sind.
 
 (9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, die näheren
@@ -10189,68 +10112,91 @@ vorsätzlich oder leichtfertig
 
 
 (7) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 648/2012
-des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-
-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201
-vom 27.7.2012, S. 1; L 321 vom 30.11.2013, S. 6), die zuletzt durch
-die Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019, S. 42)
-geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
+in der Fassung vom 27. November 2024 verstößt, indem er vorsätzlich
+oder leichtfertig
 
 1.  entgegen Artikel 4 Absatz 1 und 3 einen OTC-Derivatekontrakt nicht
     oder nicht in der vorgeschriebenen Weise cleart,
 
 
-1a. entgegen Artikel 4 Absatz 3a Satz 1 in Verbindung mit dem Anhang der
-    Delegierten Verordnung (EU) 2021/1456 der Kommission vom 2. Juni 2021
-    zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen
-    Parlaments und des Rates mittels Festlegung der Voraussetzungen, unter
-    denen die handelsüblichen Bedingungen von Clearingdiensten für OTC-
-    Derivate als fair, angemessen, diskriminierungsfrei und transparent
-    anzusehen sind (ABl. L 317 vom 8.9.2021, S. 1), einen Clearingdienst
-    in Bezug auf einen OTC-Derivatekontrakt nach Artikel 4 Absatz 1 nicht
-    richtig erbringt,
+2.  entgegen Artikel 4 Absatz 3a Satz 1 in Verbindung mit dem Anhang der
+    Delegierten Verordnung (EU) 2021/1456 in der Fassung vom 2. Juni 2021
+    einen Clearingdienst in Bezug auf einen OTC-Derivatekontrakt nach
+    Artikel 4 Absatz 1 Unterabsatz 1 nicht richtig erbringt,
 
 
-1b. entgegen Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a eine
+3.  entgegen Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a eine
     Unterrichtung nicht oder nicht rechtzeitig vornimmt,
 
 
-2.  als Betreiber eines multilateralen Handelssystems im Sinne des § 72
+4.  entgegen Artikel 7a Absatz 1 Unterabsatz 1 nicht mindestens ein
+    aktives Konto führt,
+
+
+5.  entgegen Artikel 7a Absatz 1 Unterabsatz 2 eine Mitteilung nicht oder
+    nicht unverzüglich nach Überschreiten einer Clearingschwelle macht,
+
+
+6.  entgegen Artikel 7b Absatz 1 Unterabsatz 1 Satz 1 eine dort genannte
+    Information nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+
+
+7.  entgegen Artikel 7b Absatz 2 Satz 1 eine Meldung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig macht,
+
+
+8.  entgegen Artikel 7c Absatz 2 die dort genannten Gebühren nicht, nicht
+    richtig oder nicht vollständig offenlegt,
+
+
+9.  entgegen Artikel 7c Absatz 3 eine dort genannte Information nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
+    stellt,
+
+
+10. entgegen Artikel 7d Absatz 1 Unterabsatz 1 in Verbindung mit
+    Unterabsatz 2 eine Meldung nicht, nicht richtig, nicht vollständig
+    oder nicht jährlich macht,
+
+
+11. als Betreiber eines multilateralen Handelssystems im Sinne des § 72
     Absatz 1 entgegen Artikel 8 Absatz 1 in Verbindung mit Absatz 4
     Unterabsatz 1 Handelsdaten nicht, nicht richtig, nicht vollständig,
     nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur
     Verfügung stellt,
 
 
-3.  entgegen Artikel 9 Absatz 1 Satz 2 eine Meldung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig macht,
+12. entgegen Artikel 9 Absatz 1 Unterabsatz 1 Satz 2 oder Unterabsatz 3
+    Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht,
 
 
-4.  entgegen Artikel 9 Absatz 2 eine Aufzeichnung nicht oder nicht
+13. entgegen Artikel 9 Absatz 2 eine Aufzeichnung nicht oder nicht
     mindestens fünf Jahre aufbewahrt,
 
 
-5.  entgegen Artikel 10 Absatz 1 Unterabsatz 2 Buchstabe a eine
+14. entgegen Artikel 10 Absatz 1 Unterabsatz 2 Buchstabe a eine
     Unterrichtung nicht oder nicht rechtzeitig vornimmt,
 
 
-6.  entgegen Artikel 11 Absatz 1 nicht gewährleistet, dass ein dort
+15. entgegen Artikel 11 Absatz 1 nicht gewährleistet, dass ein dort
     genanntes Verfahren oder eine dort genannte Vorkehrung besteht,
 
 
-7.  entgegen Artikel 11 Absatz 2 Satz 1 den Wert ausstehender Kontrakte
+16. entgegen Artikel 11 Absatz 2 Satz 1 den Wert ausstehender Kontrakte
     nicht, nicht richtig oder nicht rechtzeitig ermittelt,
 
 
-8.  entgegen Artikel 11 Absatz 3 kein dort beschriebenes Risikomanagement
-    betreibt,
+17. entgegen Artikel 11 Absatz 3 Unterabsatz 3 Satz 1 ein dort genanntes
+    Modell verwendet oder ändert,
 
 
-9.  entgegen Artikel 11 Absatz 4 nicht gewährleistet, dass zur Abdeckung
+18. entgegen Artikel 11 Absatz 4 nicht gewährleistet, dass zur Abdeckung
     der dort genannten Risiken eine geeignete und angemessene
     Eigenkapitalausstattung vorgehalten wird, oder
 
 
-10. entgegen Artikel 11 Absatz 11 Satz 1 die Information über eine
+19. entgegen Artikel 11 Absatz 11 Satz 1 die Information über eine
     Befreiung von den Anforderungen des Artikels 11 Absatz 3 nicht oder
     nicht richtig veröffentlicht.
 
@@ -12280,19 +12226,33 @@ Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr
 maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz
 geschätzt werden.
 
-(24) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2
-Buchstabe f bis h, Nummer 2b und 4 Buchstabe c, Nummer 10 und 15 sowie
-des Absatzes 6 Nummer 3 bis 5 sowie des Absatzes 7 Nummer 1b, 5, 8 und
-9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des
-Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1, 2 Buchstabe a, b
-und k bis n, Nummer 2a, 14a und 16, des Absatzes 4 Nummer 5, des
-Absatzes 6 Nummer 1 und 2, des Absatzes 7 Nummer 1, 3 und 4 und des
-Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis zu
-zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, des
-Absatzes 2 Nummer 6 bis 8, 11 bis 13, des Absatzes 7 Nummer 1a, 2, 6
-und 7 und des Absatzes 12 Nummer 1 Buchstabe d mit einer Geldbuße bis
-zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis
-zu fünfzigtausend Euro geahndet werden.
+(24) Die Ordnungswidrigkeit kann
+
+1.  in den Fällen des Absatzes 2 Nummer 2 Buchstabe f bis h, Nummer 2b und
+    4 Buchstabe c, Nummer 10 und 15, des Absatzes 6 Nummer 3 bis 5 und des
+    Absatzes 7 Nummer 3 bis 10, 14, 17 und 18 mit einer Geldbuße bis zu
+    fünfhunderttausend Euro,
+
+
+2.  in den Fällen des Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1,
+    2 Buchstabe a, b und k bis n, Nummer 2a, 14a und 16, des Absatzes 4
+    Nummer 5, des Absatzes 6 Nummer 1 und 2, des Absatzes 7 Nummer 1, 12
+    und 13 und des Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis
+    zu zweihunderttausend Euro,
+
+
+3.  in den Fällen des Absatzes 1 Nummer 4, des Absatzes 2 Nummer 6 bis 8
+    und 11 bis 13, des Absatzes 7 Nummer 2, 11, 15 und 16 und des Absatzes
+    12 Nummer 1 Buchstabe d mit einer Geldbuße bis zu hunderttausend Euro,
+
+
+4.  in den übrigen Fällen der Absätze 1, 2, 4, 7 und 12 sowie in den
+    Fällen der Absätze 3, 5, 9b und 13 mit einer Geldbuße bis zu
+    fünfzigtausend Euro
+
+
+
+geahndet werden.
 
 (25) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht
 anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen
@@ -12330,16 +12290,8 @@ Nummer 16 geahndet werden können.
 ### § 120a Bußgeldvorschriften zur Delegierten Verordnung (EU) Nr. 149/2013
 
 (1) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
-Nr. 149/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der
-Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates
-im Hinblick auf technische Regulierungsstandards für indirekte
-Clearingvereinbarungen, die Clearingpflicht, das öffentliche Register,
-den Zugang zu einem Handelsplatz, nichtfinanzielle Gegenparteien und
-Risikominderungstechniken für nicht durch eine CCP geclearte OTC-
-Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11), die zuletzt durch
-die Delegierte Verordnung (EU) 2022/2310 (ABl. L 307 vom 28.11.2022,
-S. 29) geändert worden ist, verstößt, indem er vorsätzlich oder
-leichtfertig
+Nr. 149/2013 in der Fassung vom 18. Oktober 2022 verstößt, indem er
+vorsätzlich oder leichtfertig
 
 1.  entgegen Artikel 2 Absatz 1 Buchstabe a, Artikel 5a Absatz 1
     Unterabsatz 1 Buchstabe a oder Artikel 5b Absatz 1 Unterabsatz 1
@@ -12396,11 +12348,8 @@ hunderttausend Euro geahndet werden.
 ### § 120b Bußgeldvorschriften zur Delegierten Verordnung (EU) 2017/2154
 
 (1) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
-2017/2154 der Kommission vom 22. September 2017 zur Ergänzung der
-Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates
-durch technische Regulierungsstandards für indirekte
-Clearingvereinbarungen (ABl. L 304 vom 21.11.2017, S. 6) verstößt,
-indem er vorsätzlich oder leichtfertig
+2017/2154 in der Fassung vom 22. September 2017 verstößt, indem er
+vorsätzlich oder leichtfertig
 
 1.  entgegen Artikel 2 Absatz 1 Buchstabe a, Artikel 6 Absatz 1
     Unterabsatz 1 Buchstabe a oder Artikel 7 Absatz 1 Unterabsatz 1
@@ -12915,8 +12864,8 @@ erheblich gefährden oder zu einem unverhältnismäßigen Schaden bei den
 Beteiligten führen.
 
 (4) Die Bundesanstalt hat jede unanfechtbar gewordene
-Bußgeldentscheidung nach § 120 Absatz 7 unverzüglich auf ihrer
-Internetseite öffentlich bekannt zu machen, es sei denn, diese
+Bußgeldentscheidung nach § 120 Absatz 7 oder § 120a unverzüglich auf
+ihrer Internetseite öffentlich bekannt zu machen, es sei denn, diese
 Veröffentlichung würde die Finanzmärkte erheblich gefährden oder zu
 einem unverhältnismäßigen Schaden bei den Beteiligten führen. Die
 Bekanntmachung darf keine personenbezogenen Daten enthalten.
@@ -13069,9 +13018,10 @@ Sanktionen, die erlassen wurden wegen Verstößen gegen
 
 
 
-auf ihrer Internetseite unverzüglich nach Unterrichtung der
-natürlichen oder juristischen Person, gegen die die Maßnahme oder
-Sanktion verhängt wurde, bekannt. Dies gilt nicht für
+sowie Bußgeldentscheidungen nach § 120b, auf ihrer Internetseite
+unverzüglich nach Unterrichtung der natürlichen oder juristischen
+Person, gegen die die Maßnahme oder Sanktion verhängt wurde, bekannt.
+Dies gilt nicht für
 
 1.  Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen
     gegen § 64 Absatz 6, die §§ 86, 87, 89 oder § 94 verhängt wurden,
