@@ -34,14 +34,17 @@ des § 2 Nummer 1.
 
 
 2.  Arzneimittel im Sinne des § 2 Absatz 1, 2, 3a und 4 Satz 1 des
-    Arzneimittelgesetzes sowie
+    Arzneimittelgesetzes,
 
 
 3.  Tierarzneimittel im Sinne des Artikels 4 Nummer 1 der Verordnung (EU)
-    2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018
-    über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG
-    (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom
-    8\.10.2020, S. 15; L 241 vom 8.7.2021, S. 17).
+    2019/6 in der Fassung vom 7. Februar 2024 und
+
+
+4.  Medizinprodukte und deren Zubehör im Sinne des Artikels 2 Nummer 1 und
+    2 der Verordnung (EU) 2017/745 sowie In-vitro-Diagnostika und deren
+    Zubehör im Sinne des Artikels 2 Nummer 2 und 4 der Verordnung (EU)
+    2017/746.
 
 
 
@@ -51,8 +54,18 @@ des § 2 Nummer 1.
 
 Im Sinne dieses Gesetzes ist
 
-1.  neuer psychoaktiver Stoff ein Stoff oder eine Zubereitung eines
-    Stoffes aus einer der in der Anlage genannten Stoffgruppen;
+1.  neuer psychoaktiver Stoff
+
+    a)  ein Stoff oder eine Zubereitung eines Stoffes aus einer der in Anlage
+        1 genannten Stoffgruppen oder
+
+
+    b)  ein in Anlage 2 genannter Stoff oder eine Zubereitung eines solchen
+        Stoffes, wenn dieser Stoff oder diese Zubereitung die in Anlage 2
+        Spalte 2 genannten Eigenschaften aufweist;
+
+
+
 
 
 2.  Zubereitung ohne Rücksicht auf den Aggregatzustand ein Stoffgemisch
@@ -75,30 +88,57 @@ Im Sinne dieses Gesetzes ist
 
 ## § 3 Unerlaubter Umgang mit neuen psychoaktiven Stoffen
 
-(1) Es ist verboten, mit einem neuen psychoaktiven Stoff Handel zu
-treiben, ihn in den Verkehr zu bringen, ihn herzustellen, ihn in den,
-aus dem oder durch den Geltungsbereich dieses Gesetzes zu verbringen,
-ihn zu erwerben, ihn zu besitzen oder ihn einem anderen zu
-verabreichen.
+(1) Es ist verboten,
+
+1.  mit einem in § 2 Nummer 1 Buchstabe a genannten neuen psychoaktiven
+    Stoff oder mit einem in § 2 Nummer 1 Buchstabe b genannten neuen
+    psychoaktiven Stoff, der die in Anlage 2 Spalte 3 genannten
+    Eigenschaften aufweist, Handel zu treiben, ihn in den Verkehr zu
+    bringen, ihn herzustellen, ihn in den, aus dem oder durch den
+    Geltungsbereich dieses Gesetzes zu verbringen, ihn zu erwerben, ihn zu
+    besitzen oder ihn einem anderen zu verabreichen,
+
+
+2.  mit einem in § 2 Nummer 1 Buchstabe b genannten neuen psychoaktiven
+    Stoff im Wege des Versandhandels oder der Selbstbedienung an Automaten
+    Handel zu treiben, ihn in den Verkehr zu bringen, ihn in den
+    Geltungsbereich dieses Gesetzes zu verbringen oder ihn zu erwerben,
+
+
+3.  einen in § 2 Nummer 1 Buchstabe b genannten neuen psychoaktiven Stoff
+    an Personen unter 18 Jahren abzugeben oder ihn Personen unter 18
+    Jahren zum unmittelbaren Verbrauch zu überlassen oder
+
+
+4.  als Person unter 18 Jahren einen in § 2 Nummer 1 Buchstabe b genannten
+    neuen psychoaktiven Stoff zu erwerben oder zu besitzen.
+
+
+
 
 (2) Vom Verbot ausgenommen sind
 
 1.  nach dem jeweiligen Stand von Wissenschaft und Technik anerkannte
     Verwendungen eines neuen psychoaktiven Stoffes zu gewerblichen,
-    industriellen oder wissenschaftlichen Zwecken und
+    industriellen oder wissenschaftlichen Zwecken,
 
 
 2.  Verwendungen eines neuen psychoaktiven Stoffes durch Bundes- oder
     Landesbehörden für den Bereich ihrer dienstlichen Tätigkeit sowie
     durch die von ihnen mit der Untersuchung von neuen psychoaktiven
-    Stoffen                    beauftragten Behörden.
+    Stoffen beauftragten Behörden und
+
+
+3.  die in Absatz 1 Nummer 2 bis 4 genannten Handlungen, wenn sie in einer
+    Form erfolgen, die eine Extraktion des jeweiligen neuen psychoaktiven
+    Stoffes nur unter unverhältnismäßigem Aufwand zulässt.
 
 
 
 
 (3) In den Fällen des Absatzes 1 erfolgen die Sicherstellung, die
 Verwahrung und die Vernichtung von neuen psychoaktiven Stoffen nach
-den §§ 47 bis 50 des Bundespolizeigesetzes und den Vorschriften der
+den §§ 47 bis 50 des Bundespolizeigesetzes und den Vorschriften der
 Polizeigesetze der Länder.
 
 (4) Unbeschadet des Absatzes 3 können die Zollbehörden im Rahmen ihrer
@@ -106,10 +146,10 @@ Aufgabenwahrnehmung nach § 1 Absatz 3 des Zollverwaltungsgesetzes
 Waren, bei denen Grund zu der Annahme besteht, dass es sich um neue
 psychoaktive Stoffe handelt, die entgegen Absatz 1 in den, aus dem
 oder durch den Geltungsbereich dieses Gesetzes verbracht worden sind
-oder verbracht werden sollen, sicherstellen. Die §§ 48 bis 50 des
+oder verbracht werden sollen, sicherstellen. Die §§ 48 bis 50 des
 Bundespolizeigesetzes gelten entsprechend. Kosten, die den
 Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind
-vom Verantwortlichen zu tragen; die §§ 17 und 18 des
+vom Verantwortlichen zu tragen; die §§ 17 und 18 des
 Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche
 haften als Gesamtschuldner. Die Kosten können im
 Verwaltungsvollstreckungsverfahren beigetrieben werden.
@@ -118,13 +158,14 @@ Verwaltungsvollstreckungsverfahren beigetrieben werden.
 ## § 4 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
-bestraft, wer entgegen § 3 Absatz 1
+bestraft, wer entgegen § 3 Absatz 1 Nummer 1 oder 2
 
-1.  mit einem neuen psychoaktiven Stoff Handel treibt, ihn in den Verkehr
-    bringt oder ihn einem anderen verabreicht oder
+1.  mit einem dort genannten psychoaktiven Stoff Handel treibt, ihn in den
+    Verkehr bringt oder ihn einem anderen verabreicht oder
 
 
-2.  einen neuen psychoaktiven Stoff zum Zweck des Inverkehrbringens
+2.  einen dort genannten neuen psychoaktiven Stoff zum Zweck des
+    Inverkehrbringens
 
     a)  herstellt oder
 
@@ -191,11 +232,11 @@ eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden.
 
 ## § 6 Datenübermittlung
 
-Das Zollkriminalamt darf zu Straftaten nach § 4 Informationen,
-einschließlich personenbezogener Daten nach der aufgrund des § 7
-Absatz 11 des Bundeskriminalamtgesetzes erlassenen Rechtsverordnung,
-dem Bundeskriminalamt zur Erfüllung von dessen Aufgaben als
-Zentralstelle übermitteln, soweit Zwecke des Strafverfahrens dem nicht
+Das Zollkriminalamt darf zu Straftaten nach § 4 Informationen,
+einschließlich personenbezogener Daten nach der aufgrund des § 20 Satz
+1 des Bundeskriminalamtgesetzes erlassenen Rechtsverordnung, dem
+Bundeskriminalamt zur Erfüllung von dessen Aufgaben als Zentralstelle
+übermitteln, soweit Zwecke des Strafverfahrens dem nicht
 entgegenstehen. Übermittlungen nach Satz 1 sind auch zulässig, sofern
 sie Daten betreffen, die dem Steuergeheimnis nach § 30 der
 Abgabenordnung unterliegen. Übermittlungsbefugnisse nach anderen
@@ -206,19 +247,20 @@ Rechtsvorschriften bleiben unberührt.
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, im
-Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat,
-mit dem Bundesministerium der Justiz und für Verbraucherschutz und mit
-dem Bundesministerium der Finanzen und nach Anhörung von
-Sachverständigen die Liste der Stoffgruppen in der Anlage zu ändern,
-wenn dies nach wissenschaftlicher Erkenntnis wegen der Wirkungsweise
-von psychoaktiv wirksamen Stoffen, wegen des Ausmaßes ihrer
-missbräuchlichen Verwendung und wegen der unmittelbaren oder
+Einvernehmen mit dem Bundesministerium der Finanzen, dem
+Bundesministerium des Innern und dem Bundesministerium der Justiz und
+für Verbraucherschutz nach Anhörung von Sachverständigen die Liste der
+Stoffgruppen in Anlage 1 und die Liste der Stoffe in Anlage 2 zu
+ändern, wenn dies nach wissenschaftlicher Erkenntnis wegen der
+Wirkungsweise von psychoaktiv wirksamen Stoffen, wegen des Ausmaßes
+ihrer missbräuchlichen Verwendung und wegen der unmittelbaren oder
 mittelbaren Gefährdung der Gesundheit erforderlich ist.
 
 
-## Anlage
+## Anlage 1
 
-(Fundstelle: BGBl. 2025 I Nr. 292, S. 3 – 21)
+(Fundstelle: BGBl. 2025 I Nr. 292, S. 3 - 21;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Vorbemerkungen**
 
@@ -1908,6 +1950,107 @@ Wasserstoffatom ist ein möglicher Substituent.
 
 
 
+
+
+
+
+
+## Anlage 2
+
+(Fundstelle: BGBl. 2026 I Nr. 2, S. 3)
+
+*    *   International
+        Nonproprietary
+        Names (INN) der Weltgesundheits-
+        organisation
+
+    *   Eigenschaften
+        des Stoffes oder
+        der Zubereitung
+
+    *   Eigenschaften
+        des neuen
+        psychoaktiven
+        Stoffes
+
+    *   Andere nicht
+        geschützte oder
+        Trivialnamen
+
+    *   Chemische Namen
+        nach der Nomenklatur
+        der International
+        Union of Pure and
+        Applied Chemistry
+        (IUPAC)
+
+    *   European-
+        Community-
+        (EC)-Nummer
+
+
+*    *   1,4-Butandiol
+
+    *   Stoff: Reinstoff
+        Zubereitungen:
+        jede Zubereitung mit einem Gehalt von mehr als 20 Prozent des in
+        Spalte 1 genannten Stoffes
+
+    *   jeder Stoff
+
+    *   BDO,
+        Tetramethylenglycol,
+        1,4-Butylenglykol,
+        1,4-Dihydroxybutan, B1D,
+        Sucol B,
+        Diol 14B, 1,4-BD
+
+    *   Butan-1,4-diol
+
+    *   203-786-5
+
+
+*    *   γ-Butyrolacton
+
+    *   Stoff: Reinstoff
+        Zubereitung:
+        jede Zubereitung mit einem Gehalt von mehr als 20 Prozent des in
+        Spalte 1 genannten Stoffes
+
+    *   jeder Stoff
+
+    *   Gamma-Butyrolacton, GBL,
+        Butyro-1,4-lacton,
+        Dihydrofuran-2-on,
+        1-Oxa-cyclopentan-2-on,
+        4-Butanolid
+
+    *   Oxolan-2-on
+
+    *   202-509-5
+
+
+*    *   Distickstoffmonoxid
+
+    *   Stoff: Reinstoff
+        Zubereitungen:
+        jede Zubereitung
+
+    *   Verpackung in
+        einem Behälter mit einer Füllmenge des in Spalte 1 genannten Stoffes
+        von mehr als 8,4 Gramm;
+        pro Verkaufsvorgang die Abgabe von mehr als zehn Behältern mit einer
+        Füllmenge von jeweils bis zu 8,4 Gramm des in Spalte 1 genannten
+        Stoffes
+
+    *   Lachgas,
+        Distickstoffoxid,
+        Stickoxydul,
+        Azooxid, E 942
+
+    *   Distickstoffmonoxid
+
+    *   233-032-0
 
 
 
