@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 4270
 
 Zuletzt geändert durch
-:   Art. 11 G v. 25.3.2026 I Nr. 81
-
-Änderung durch
-:   Art. 12 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026 noch nicht berücksichtigt
+:   Art. 12 G v. 25.3.2026 I Nr. 81
 
 Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
 [^F1_783652_BJNR427000013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
@@ -320,14 +317,13 @@ Absatz 1 Nummer 6 in Verbindung mit Absatz 5 des Kreditwesengesetzes
 und dieser Verordnung verantwortlich. Sie hat das Verwaltungs- oder
 Aufsichtsorgan mindestens einmal jährlich über die Ausgestaltung der
 Vergütungssysteme des Instituts zu informieren. Die Sätze 1 und 2
-gelten bei bedeutenden Instituten gemäß § 1 Absatz 3c des
-Kreditwesengesetzes auch in Bezug auf den Prozess der Ermittlung der
-Risikoträger und Risikoträgerinnen gemäß § 25a Absatz 5b des
-Kreditwesengesetzes sowie der Gruppen-Risikoträger und Gruppen-
-Risikoträgerinnen gemäß § 27 Absatz 2 Satz 1. Dem oder der
-Vorsitzenden des Verwaltungs- oder Aufsichtsorgans ist ein
-entsprechendes Auskunftsrecht gegenüber der Geschäftsleitung
-einzuräumen.
+gelten auch in Bezug auf den Prozess zur Ermittlung der Risikoträger
+und Risikoträgerinnen nach § 25a Absatz 5b des Kreditwesengesetzes
+sowie bei Instituten nach § 1 Absatz 3 auf den Prozess zur Ermittlung
+der Gruppen-Risikoträger und Gruppen-Risikoträgerinnen nach § 27
+Absatz 2 Satz 1 und 3. Dem oder der Vorsitzenden des Verwaltungs- oder
+Aufsichtsorgans ist ein entsprechendes Auskunftsrecht gegenüber der
+Geschäftsleitung einzuräumen.
 
 (2) Das Verwaltungs- oder Aufsichtsorgan ist für die angemessene
 Ausgestaltung der Vergütungssysteme der Geschäftsleiter und
@@ -350,8 +346,10 @@ Die Vergütungsstrategie und die Vergütungssysteme müssen auf die
 Erreichung der Ziele ausgerichtet sein, die in den Geschäfts- und
 Risikostrategien des jeweiligen Instituts niedergelegt sind. Dabei ist
 auch die Unternehmenskultur zu berücksichtigen. Die
-Vergütungsparameter müssen sich an den Strategien ausrichten und das
-Erreichen der strategischen Ziele unterstützen.
+Vergütungsparameter sind zu Beginn des Bemessungszeitraums festzulegen
+und müssen sich an den Strategien ausrichten sowie das Erreichen der
+strategischen Ziele unterstützen. Dabei sind auch die ESG-Risiken zu
+berücksichtigen.
 
 
 ### § 5 Angemessenheit der Vergütung und der Vergütungssysteme
@@ -360,6 +358,11 @@ Erreichen der strategischen Ziele unterstützen.
 
 1.  Anreize für die Mitarbeiter und Mitarbeiterinnen, unverhältnismäßig
     hohe Risiken einzugehen, vermieden werden;
+
+
+1a. im Falle einer leistungsabhängigen Vergütung finanzielle und
+    nichtfinanzielle Kriterien berücksichtigt werden, einschließlich
+    solcher nach § 4 Satz 4;
 
 
 2.  die Vergütungssysteme nicht der Überwachungsfunktion der
