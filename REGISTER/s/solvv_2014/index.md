@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 4168
 
 Zuletzt geändert durch
-:   Art. 8 G v. 25.3.2026 I Nr. 81
-
-Änderung durch
-:   Art. 9 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026 noch nicht berücksichtigt
+:   Art. 9 G v. 25.3.2026 I Nr. 81
 
 Stand: Ersetzt V 7610-2-29 v. 14.12.2006 I 2926
 [^F783290_01_BJNR416800013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
@@ -239,85 +236,149 @@ der Verordnung (EU) Nr. 575/2013 für diese Art von
 Kreditrisikopositionen widerrufen.
 
 
-##### § 5 Berechnungen und Meldungen für das aufsichtliche Benchmarking bei der Anwendung interner Ansätze
+##### § 5 Berechnungen und Meldungen für das aufsichtliche Benchmarking
 
-(1) Ein Institut, das seine Eigenmittelanforderungen anhand interner
-Ansätze ermittelt, hat die Eigenmittelanforderungen einmal jährlich
-für diejenigen seiner Risikopositionen oder Positionen zu berechnen
-und zu melden, die in den diese internen Ansätze betreffenden
-Referenzportfolios der Bundesanstalt oder der Europäischen
-Bankenaufsichtsbehörde enthalten sind. Diese Berechnungs- und
-Meldepflicht gilt nicht, soweit die Eigenmittelanforderungen mit dem
-fortgeschrittenen Messansatz nach Artikel 312 Absatz 2 Satz 1 der
-Verordnung (EU) Nr. 575/2013 berechnet werden.
+(1) Das Institut meldet die Ergebnisse seiner Berechnungen für
+diejenigen seiner Risikopositionen oder Positionen, die in dem
+Referenzportfolio enthalten sind, wenn
 
-(2) Die Berechnungen und Meldungen nach Absatz 1 müssen nach dem Stand
-zum Ende des Kalenderjahres und für jeden vom Institut verwendeten
-internen Ansatz getrennt erfolgen. Die Ergebnisse dieser Berechnungen
-sind mit einer Erläuterung der bei der Ermittlung der Ergebnisse
-angewandten Methoden jeweils bis zum
-30\. Geschäftstag              nach Ablauf eines Kalenderjahres
-getrennt für Referenzportfolios der Bundesanstalt und der Europäischen
-Bankenaufsichtsbehörde bei der Deutschen Bundesbank sowie bei der
-Europäischen Bankenaufsichtsbehörde zu melden. Hierbei sind die
-technischen Durchführungsstandards nach Artikel 78 Absatz 8 der
-Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom
-26\. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und
-die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur
-Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien
-2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338) zu
-berücksichtigen.
-
-(3) Die Bundesanstalt kann von Absatz 1 Satz 1 und Absatz 2 Satz 1
-abweichende Berechnungstermine oder von Absatz 2 Satz 2 abweichende
-Meldefristen bestimmen.
+1.  für einen internen Ansatz nach § 1 Absatz 27 des Kreditwesengesetzes
+    die technischen Durchführungsstandards nach Artikel 78 Absatz 8 der
+    Richtlinie 2013/36/EU ein Referenzportfolio enthalten oder die
+    zuständige Behörde ein Referenzportfolio bestimmt hat und
 
 
-##### § 6 Aufsichtliches Benchmarking interner Ansätze
+2.  ein Institut diesen internen Ansatz verwenden darf, um
+    risikogewichtete Positionsbeträge oder Eigenmittelanforderungen zu
+    ermitteln.
 
-(1) Die Bundesanstalt erstellt eigene Referenzportfolios
+
+
+
+(2) Das Institut meldet die Ergebnisse seiner Berechnungen für
+diejenigen seiner Risikopositionen oder Positionen, die in dem
+Referenzportfolio enthalten sind, wenn
+
+1.  für den alternativen Standardansatz nach Teil 3 Titel IV Kapitel 1a
+    der Verordnung (EU) Nr. 575/2013 die technischen
+    Durchführungsstandards nach Artikel 78 Absatz 8 der Richtlinie
+    2013/36/EU ein Referenzportfolio enthalten oder die zuständige Behörde
+    ein Referenzportfolio bestimmt hat und
+
+
+2.  ein Institut diesen Ansatz anwendet und zudem
+
+
+3.  der Umfang der dem Marktrisiko unterliegenden bilanziellen und
+    außerbilanziellen Geschäfte des Instituts nach Artikel 325a Absatz 1
+    Buchstabe b der Verordnung (EU) Nr. 575/2013 500 Millionen Euro oder
+    mehr beträgt.
+
+
+
+
+(3) Das Institut meldet die Ergebnisse der Berechnungen zur Bestimmung
+des Betrags der erwarteten Kreditverluste für diejenigen seiner
+Risikopositionen oder Positionen, die in dem Referenzportfolio
+enthalten sind, wenn
+
+1.  für die Bestimmung des Betrags der erwarteten Kreditverluste die
+    technischen Durchführungsstandards nach Artikel 78 Absatz 8 der
+    Richtlinie 2013/36/EU ein Referenzportfolio enthalten oder die
+    zuständige Behörde ein Referenzportfolio bestimmt hat und
+
+
+2.  ein Institut
+
+    a)  den IRB-Ansatz nach Artikel 143 Absatz 1 und 2 der Verordnung (EU) Nr.
+        575/2013 anwenden darf oder
+
+
+    b)  den Standardansatz nach Teil 3 Titel II Kapitel 2 der Verordnung (EU)
+        Nr. 575/2013 anwendet und von der Europäischen Bankenaufsichtsbehörde
+        auf der Grundlage der technischen Durchführungsstandards nach Artikel
+        78 Absatz 8 der Richtlinie 2013/36/EU als relevantes Institut
+        festgelegt wurde
+
+
+
+    und zudem
+
+
+3.  das Institut
+
+    a)  einen Abschluss im Einklang mit internationalen
+        Rechnungslegungsstandards erstellt, wie sie nach Maßgabe der
+        Verordnung (EG) Nr. 1606/2002 angewandt werden, oder
+
+
+    b)  die Bewertung von Vermögenswerten und außerbilanziellen Posten und die
+        Bestimmung der Eigenmittel im Einklang mit internationalen
+        Rechnungslegungsstandards nach Artikel 24 Absatz 2 der Verordnung (EU)
+        Nr. 575/2013 vornimmt.
+
+
+
+
+
+
+
+(4) Die Berechnungen und Meldungen nach den Absätzen 1 bis 3 müssen
+für jeden vom Institut verwendeten Ansatz getrennt erfolgen. Die
+Ergebnisse der Berechnungen zu einem Referenzportfolio sind mit einer
+Erläuterung der bei der Ermittlung der Ergebnisse angewandten Methoden
+zu melden. Die zuständige Behörde legt weitere Einzelheiten zu den
+Berechnungen und Meldungen, insbesondere die Meldefrequenz,
+Meldestichtage und Einreichungstermine, fest.
+
+
+##### § 6 Auswertung des aufsichtlichen Benchmarkings
+
+(1) Die zuständige Behörde erstellt eigene Referenzportfolios
 ausschließlich in Abstimmung mit der Europäischen
 Bankenaufsichtsbehörde.
 
-(2) Die Bundesanstalt verwendet die von den Instituten nach § 5
-gemeldeten Informationen, um die Spanne der risikogewichteten
-Positionsbeträge und der Eigenmittelanforderungen für diejenigen
-Risikopositionen oder Positionen eines Referenzportfolios zu
-überwachen, die sich aus den internen Ansätzen der meldepflichtigen
-Institute ergeben.
+(2) Für jeden Ansatz, zu dem ein Institut nach § 5 Absatz 1 bis 3 die
+Ergebnisse seiner Berechnungen meldet, verwendet die zuständige
+Behörde die von den Instituten gemeldeten Informationen, um
+insbesondere die Spanne der risikogewichteten Positionsbeträge und der
+Eigenmittelanforderungen für diejenigen Risikopositionen oder
+Positionen eines Referenzportfolios zu überwachen, die sich aus den
+Ansätzen der meldepflichtigen Institute ergeben.
 
-(3) Die Bundesanstalt bewertet mindestens jährlich die Qualität dieser
-internen Ansätze und konzentriert sich dabei insbesondere auf
+(3) Für jeden Ansatz, zu dem ein Institut nach § 5 Absatz 1 bis 3 die
+Ergebnisse seiner Berechnungen meldet, bewertet die zuständige Behörde
+die Qualität dieses Ansatzes. Sie konzentriert sich dabei insbesondere
+auf
 
-1.  die internen Ansätze, die erhebliche Unterschiede in Bezug auf die
+1.  die Ansätze, die erhebliche Unterschiede in Bezug auf die
     Eigenmittelanforderungen für dieselbe Risikoposition oder Position
     aufweisen,
 
 
-2.  die internen Ansätze, die eine besonders hohe oder niedrige Vielfalt
+2.  die Ansätze, die eine besonders hohe oder niedrige Variabilität
     aufweisen, sowie
 
 
-3.  auf Fälle einer signifikanten und systematischen Unterschätzung der
+3.  Fälle einer signifikanten und systematischen Unterschätzung der
     Eigenmittelanforderungen.
 
 
 
 
 (4) Ergeben die Überwachung nach Absatz 2 und die Bewertung nach
-Absatz 3, dass die Ergebnisse interner Ansätze bestimmter Institute
+Absatz 3, dass für einen Ansatz die Ergebnisse bestimmter Institute
 erheblich von den Ergebnissen der Mehrheit der Institute abweichen
-oder dass nur wenige Gemeinsamkeiten bei den internen Ansätzen
-bestehen, so dass sich eine weite Spanne an Ergebnissen ergibt,
-untersucht die Bundesanstalt die Gründe hierfür. Wenn klar
-festgestellt werden kann, dass der interne Ansatz eines Instituts zu
-einer Unterschätzung der Eigenmittelanforderungen führt, die nicht auf
-Unterschiede bei den zugrundeliegenden Risiken der Risikopositionen
-oder Positionen zurückgeführt werden kann, ergreift die Bundesanstalt
-angemessene Abhilfemaßnahmen. Bei ihrer Entscheidung über die
-Angemessenheit von Abhilfemaßnahmen sind die Ziele, die mit der
-Verwendung interner Ansätze verfolgt werden, zu berücksichtigen und
-ist sicherzustellen, dass die Abhilfemaßnahmen
+oder dass nur wenige Gemeinsamkeiten bestehen, so dass sich eine weite
+Spanne an Ergebnissen ergibt, untersucht die zuständige Behörde die
+Gründe hierfür. Wenn klar festgestellt werden kann, dass der Ansatz
+eines Instituts zu einer Unterschätzung der Eigenmittelanforderungen
+führt, die nicht auf Unterschiede bei den zugrundeliegenden Risiken
+der Risikopositionen oder Positionen zurückgeführt werden kann,
+ergreift die zuständige Behörde angemessene Abhilfemaßnahmen. Bei
+ihrer Entscheidung über die Angemessenheit von Abhilfemaßnahmen sind
+die Ziele, die mit der Verwendung eines Ansatzes verfolgt werden, zu
+berücksichtigen und es ist sicherzustellen, dass die Abhilfemaßnahmen
 
 1.  nicht zu Standardisierungen oder bevorzugten Methoden führen,
 
@@ -844,20 +905,16 @@ Kernkapitals und des Ergänzungskapitals folgende Prozentsätze:
 
 (1) Beteiligungen an Instituten, Finanzunternehmen oder Anbietern von
 Nebendienstleistungen, die nach der Äquivalenzmethode gemäß IAS 28.13
-in der jeweils geltenden Fassung der Verordnung (EG) Nr. 1725/2003 der
-Kommission vom 29. September 2003 betreffend die Übernahme bestimmter
-internationaler Rechnungslegungsstandards in Übereinstimmung mit der
-Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des
-Rates (ABl. L 261 vom 13.10.2003, S. 1) bewertet werden, können,
-vorbehaltlich der Anwendung des § 10a Absatz 4 des
-Kreditwesengesetzes, mit ihrem anteiligen bilanziellen Eigenkapital
-aus dem Abschluss, differenziert nach Eigenkapitalbestandteilen, in
-die Zusammenfassung nach § 10a Absatz 5 des Kreditwesengesetzes
-einbezogen werden. Der nach der Äquivalenzmethode ermittelte
-fortgeführte Buchwert der Beteiligung ist vom harten Kernkapital der
-Gruppe abzuziehen, wobei der darin enthaltene Firmenwert in der
-Abzugsposition nach Artikel 36 Absatz 1 Buchstabe b der Verordnung
-(EU) Nr. 575/2013 zu erfassen ist.
+in der jeweils geltenden Fassung der Verordnung (EU) 2023/1803
+bewertet werden, können, vorbehaltlich der Anwendung des § 10a Absatz
+4 des Kreditwesengesetzes, mit ihrem anteiligen bilanziellen
+Eigenkapital aus dem Abschluss, differenziert nach
+Eigenkapitalbestandteilen, in die Zusammenfassung nach § 10a Absatz 5
+des Kreditwesengesetzes einbezogen werden. Der nach der
+Äquivalenzmethode ermittelte fortgeführte Buchwert der Beteiligung ist
+vom harten Kernkapital der Gruppe abzuziehen, wobei der darin
+enthaltene Firmenwert in der Abzugsposition nach Artikel 36 Absatz 1
+Buchstabe b der Verordnung (EU) Nr. 575/2013 zu erfassen ist.
 
 (2) Absatz 1 gilt entsprechend bei Verwendung eines Abschlusses, der
 nicht nach Maßgabe der Rechnungslegungsstandards, die nach den
