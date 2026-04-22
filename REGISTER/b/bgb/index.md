@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 1 G v. 29.3.2026 I Nr. 83 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 29.3.2026 I Nr. 83
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
