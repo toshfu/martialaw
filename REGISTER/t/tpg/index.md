@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8b G v. 22.3.2024 I Nr. 101
 
+Änderung durch
+:   Art. 7a G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -2640,7 +2643,7 @@ Krankenversicherung und der oder dem Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit auf Vorschlag des Fachbeirats
 nach § 15d vereinbart. Dabei sind die Richtlinien der
 Bundesärztekammer nach § 16 Absatz 1 Satz 1 und die Richtlinien und
-Beschlüsse des Gemeinsamen Bundesausschusses nach den §§ 136 bis 136c
+Beschlüsse des Gemeinsamen Bundesausschusses nach den §§ 136 bis 136b
 des Fünften Buches Sozialgesetzbuch zu beachten. Der bundesweit
 einheitliche Datensatz ist vom Bundesministerium für Gesundheit im
 Bundesanzeiger bekannt zu machen.
@@ -2742,7 +2745,7 @@ das Bundesamt für Sicherheit in der Informationstechnik zu beteiligen.
 6.  dem Gemeinsamen Bundesausschuss nach § 91 des Fünften Buches
     Sozialgesetzbuch die zur Weiterentwicklung von Richtlinien und
     Beschlüssen zur Qualitätssicherung für transplantationsmedizinische
-    Leistungen nach den §§ 136 bis 136c des Fünften Buches
+    Leistungen nach den §§ 136 bis 136b des Fünften Buches
     Sozialgesetzbuch erforderlichen Daten sowie
 
 
