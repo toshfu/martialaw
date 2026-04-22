@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 3.2.2026 I Nr. 28
 
+Änderung durch
+:   Art. 1 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -11161,10 +11164,12 @@ mit Ausnahme
 
 eine Überweisung vorliegen; eine Überweisung muss auch in den Fällen
 des Satzes 11 Nummer 2 vorliegen. Die Wartezeit auf einen
-Behandlungstermin darf vier Wochen nicht überschreiten. Die Entfernung
-zwischen Wohnort des Versicherten und dem vermittelten Arzt muss
-zumutbar sein. Kann die Terminservicestelle keinen Behandlungstermin
-bei einem Leistungserbringer nach § 95 Absatz 1 Satz 1 innerhalb der
+Behandlungstermin darf vier Wochen nicht überschreiten; im Fall der
+Vermittlung eines radiologischen Behandlungstermins darf die Wartezeit
+drei Wochen nicht überschreiten. Die Entfernung zwischen Wohnort des
+Versicherten und dem vermittelten Arzt muss zumutbar sein. Kann die
+Terminservicestelle keinen Behandlungstermin bei einem
+Leistungserbringer nach § 95 Absatz 1 Satz 1 innerhalb der jeweiligen
 Frist nach Satz 5 vermitteln, hat sie einen ambulanten
 Behandlungstermin in einem zugelassenen Krankenhaus anzubieten; Satz 3
 Nummer 1 und die Sätze 4, 5 und 6 gelten entsprechend. Satz 7 gilt
@@ -18407,18 +18412,19 @@ Bettenzahl oder der Leistungsstruktur des Krankenhauses, werden diese
 durch die Vertragsparteien nach Satz 1 im Benehmen mit der für die
 Krankenhausplanung zuständigen Landesbehörde ergänzend vereinbart.
 
-(2) Ein Anspruch auf Abschluß eines Versorgungsvertrags nach § 108 Nr.
-3 besteht nicht. Bei notwendiger Auswahl zwischen mehreren geeigneten
-Krankenhäusern, die sich um den Abschluß eines Versorgungsvertrags
-bewerben, entscheiden die Landesverbände der Krankenkassen und die
-Ersatzkassen gemeinsam unter Berücksichtigung der Erfüllung der in der
-Tabellenzeile „Auswahlkriterium“ der Anlage 1 für die jeweilige in dem
-Versorgungsvertrag zu vereinbarende Leistungsgruppe genannten
-Qualitätskriterien sowie der öffentlichen Interessen und der Vielfalt
-der Krankenhausträger nach pflichtgemäßem Ermessen, welches
-Krankenhaus den Erfordernissen einer qualitativ hochwertigen,
-patienten- und bedarfsgerechten sowie leistungsfähigen und
-wirtschaftlichen Krankenhausbehandlung am besten gerecht wird.
+(2) Ein Anspruch auf Abschluss eines Versorgungsvertrags nach § 108
+Nummer 3 besteht nicht. Bei notwendiger Auswahl zwischen mehreren
+geeigneten Krankenhäusern, die sich um den Abschluss eines
+Versorgungsvertrags bewerben, entscheiden die Landesverbände der
+Krankenkassen und die Ersatzkassen gemeinsam unter Berücksichtigung
+der Erfüllung der in der Tabellenzeile „Auswahlkriterium“ der Anlage 1
+für die jeweilige in dem Versorgungsvertrag zu vereinbarende
+Leistungsgruppe genannten Qualitätskriterien, soweit vorhanden, sowie
+der öffentlichen Interessen und der Vielfalt der Krankenhausträger
+nach pflichtgemäßem Ermessen, welches Krankenhaus den Erfordernissen
+einer qualitativ hochwertigen, patienten- und bedarfsgerechten sowie
+leistungsfähigen und wirtschaftlichen Krankenhausbehandlung am besten
+gerecht wird.
 
 (3) Ein Versorgungsvertrag nach § 108 Nr. 3 darf nicht abgeschlossen
 werden, wenn das Krankenhaus
@@ -18463,27 +18469,21 @@ Krankenhaus an dem Krankenhausstandort, für den bestimmte
 Leistungsgruppen in dem Versorgungsvertrag vereinbart werden sollen,
 die für diese Leistungsgruppen maßgeblichen Qualitätskriterien nicht
 erfüllt, wenn dies zur Sicherstellung einer flächendeckenden
-Versorgung der Bevölkerung zwingend erforderlich ist und dies für die
-jeweilige Leistungsgruppe nicht durch die Rechtsverordnung nach § 135e
-Absatz 1 Satz 1 Nummer 4 ausgeschlossen ist. Der Abschluss eines
-Versorgungsvertrags ist zur Sicherstellung einer flächendeckenden
-Versorgung der Bevölkerung zwingend erforderlich, wenn ein anderer
-Krankenhausstandort, für den die jeweilige Leistungsgruppe nach § 6a
-Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesen ist,
-für einen erheblichen Teil der Einwohner des Einzugsbereichs des
-Krankenhausstandorts, für den die Leistungsgruppe vereinbart werden
-soll, nicht innerhalb der jeweiligen in § 6a Absatz 4 Satz 3 des
-Krankenhausfinanzierungsgesetzes genannten Fahrzeit mit einem
-Kraftfahrzeug erreichbar ist. Der Versorgungsvertrag ist im Fall des
-Satzes 4 auf höchstens drei Jahre zu befristen; in dem
-Versorgungsvertrag ist das Krankenhaus zu verpflichten, an dem
-jeweiligen Krankenhausstandort die für die jeweilige Leistungsgruppe
-maßgeblichen Qualitätskriterien innerhalb einer Frist, die höchstens
-drei Jahre betragen darf, zu erfüllen. Wenn der jeweilige
-Krankenhausstandort zum Zeitpunkt des Abschlusses des
+Versorgung der Bevölkerung zwingend erforderlich ist und diese
+Qualitätskriterien durch das Krankenhaus, mit dessen Träger der
+Versorgungsvertrag abgeschlossen werden soll, an dem
+Krankenhausstandort auch nicht in Kooperationen oder Verbünden nach §
+6a Absatz 3 Satz 4 des Krankenhausfinanzierungsgesetzes oder § 135e
+Absatz 4 Satz 1 Nummer 7, Satz 2 und 3 dieses Buches erfüllt werden
+können. Der Versorgungsvertrag ist im Fall des Satzes 4 auf höchstens
+drei Jahre zu befristen; in dem Versorgungsvertrag ist das Krankenhaus
+zu verpflichten, an dem jeweiligen Krankenhausstandort die für die
+jeweilige Leistungsgruppe maßgeblichen Qualitätskriterien innerhalb
+einer Frist, die höchstens drei Jahre betragen darf, zu erfüllen. Wenn
+der jeweilige Krankenhausstandort zum Zeitpunkt des Abschlusses des
 Versorgungsvertrags in die Liste nach § 9 Absatz 1a Nummer 6 des
 Krankenhausentgeltgesetzes aufgenommen ist, kann der
-Versorgungsvertrag abweichend von Satz 6 unbefristet abgeschlossen
+Versorgungsvertrag abweichend von Satz 5 unbefristet abgeschlossen
 werden; in dem Versorgungsvertrag ist das Krankenhaus zu verpflichten,
 an dem jeweiligen Krankenhausstandort die für die jeweilige
 Leistungsgruppe maßgeblichen Qualitätskriterien innerhalb einer
@@ -18557,12 +18557,12 @@ Kündigung ist nur zulässig, wenn die Kündigungsgründe nicht nur
 vorübergehend bestehen. Satz 2 ist nicht anzuwenden,
 
 1.  wenn der Versorgungsvertrag in dem in § 109 Absatz 3a Satz 4 genannten
-    Fall nach § 109 Absatz 3a Satz 6 befristet abgeschlossen wurde und die
+    Fall nach § 109 Absatz 3a Satz 5 befristet abgeschlossen wurde und die
     Frist noch nicht abgelaufen ist,
 
 
 2.  wenn der Versorgungsvertrag in dem in § 109 Absatz 3a Satz 4 genannten
-    Fall nach § 109 Absatz 3a Satz 7 unbefristet abgeschlossen wurde und
+    Fall nach § 109 Absatz 3a Satz 6 unbefristet abgeschlossen wurde und
     der jeweilige Krankenhausstandort weiterhin in die Liste nach § 9
     Absatz 1a Nummer 6 des Krankenhausentgeltgesetzes aufgenommen ist oder
 
@@ -19651,12 +19651,12 @@ ohne Antrag einer Vertragspartei innerhalb von sechs Wochen.
 
 (5) Der Spitzenverband Bund der Krankenkassen, der Verband der
 Privaten Krankenversicherung und die Deutsche Krankenhausgesellschaft
-legen dem Bundesministerium für Gesundheit zum 30. Juli 2023 und zum
-30\. Juli 2024 jeweils einen gemeinsamen Bericht über das Ausmaß der
-tagesstationären Behandlung und ihre Auswirkungen auf die Versorgung
-der Patientinnen und Patienten einschließlich der finanziellen
-Auswirkungen vor. Die für den Bericht erforderlichen Daten sind ihnen
-von den Krankenkassen, den Unternehmen der privaten
+legen dem Bundesministerium für Gesundheit zum 30. Juli 2023, 30. Juli
+2024 und zum 30. Juli 2027 jeweils einen gemeinsamen Bericht über das
+Ausmaß der tagesstationären Behandlung und ihre Auswirkungen auf die
+Versorgung der Patientinnen und Patienten einschließlich der
+finanziellen Auswirkungen vor. Die für den Bericht erforderlichen
+Daten sind ihnen von den Krankenkassen, den Unternehmen der privaten
 Krankenversicherung und den Krankenhäusern in anonymisierter Form zu
 übermitteln.
 
@@ -19706,11 +19706,11 @@ schrittweise Anpassung der Vergütungen vorzusehen, mit dem Ziel, dass
 bis zum Jahr 2030 die Höhe der Vergütungen der nach § 115b
 vereinbarten Leistungen erreicht wird. Auf der Grundlage des
 Vorschlags schließen die Vertragsparteien nach § 115b Absatz 1 Satz 1
-die Vereinbarung nach Satz 1 Nummer 1 bis zum 30. Juni eines jeden
-Kalenderjahres mit Wirkung ab dem 1. Januar des folgenden
+die Vereinbarung nach Satz 1 Nummer 1 bis zum 15. September eines
+jeden Kalenderjahres mit Wirkung ab dem 1. Januar des folgenden
 Kalenderjahres.
 
-(1a) Spätestens in der bis zum 30. Juni 2030 zu schließenden
+(1a) Spätestens in der bis zum 15. September 2030 zu schließenden
 Vereinbarung sind die nach Absatz 1 Satz 2 zu kalkulierenden
 Fallpauschalen auf Grundlage fallbezogener empirischer Kostendaten des
 ambulanten und stationären Bereichs festzulegen. Danach sind sie
@@ -19731,23 +19731,23 @@ sofern zur Einhaltung der Vorgaben nach Satz 2 erforderlich, bis zum
 31\. März des jeweiligen Kalenderjahres, in dem die Überprüfung
 stattfindet, auf Grundlage des nach Satz 3 beauftragten Vorschlags mit
 Wirkung ab dem 1. Januar des folgenden Kalenderjahres anzupassen. Die
-Auswahl hat so zu erfolgen, dass bezogen auf die gemäß § 21 Absatz 2
+Auswahl hat so zu erfolgen, dass bezogen auf die nach § 21 Absatz 2
 des Krankenhausentgeltgesetzes für das Jahr 2023 übermittelten Daten
 zu vollstationären Krankenhausfällen ohne Berücksichtigung der
 Krankenhausfälle, in denen neue Untersuchungs- und Behandlungsmethoden
-angewendet werden, ab dem Jahr 2026 jährlich mindestens eine Million,
-ab dem Jahr 2028 jährlich mindestens 1,5 Millionen und ab dem Jahr
-2030 jährlich mindestens zwei Millionen Fälle erfasst werden. Die
-Vertragsparteien nach Absatz 1 Satz 1 beauftragen das Institut für das
-Entgeltsystem im Krankenhaus und das in § 87 Absatz 3b Satz 1 genannte
-Institut gemeinsam bis zum 15. Februar eines jeden Kalenderjahres, die
-Auswahl der Leistungen nach Absatz 1 Satz 1 Nummer 2 zu überprüfen und
-einen Vorschlag zur Anpassung der Leistungsauswahl vorzulegen. Bei der
-Überprüfung und Anpassung nach Satz 1 können auch Leistungen
-ausgewählt werden, die nicht in dem nach § 115b Absatz 1 Satz 1 Nummer
-1 vereinbarten Katalog genannt sind. Leistungen für Kinder, die das
-18\. Lebensjahr noch nicht vollendet haben, und Leistungen für Menschen
-mit Behinderungen sollen nicht ausgewählt werden.
+angewendet werden, ab dem Jahr 2026 jährlich mindestens eine Million
+Fälle erfasst werden; ab dem Jahr 2028 sollen unter Berücksichtigung
+der Ergebnisse der Evaluation nach Absatz 5 jährlich mindestens 1,5
+Millionen und ab dem Jahr 2030 jährlich mindestens zwei Millionen
+Fälle erfasst werden. Die Vertragsparteien nach Absatz 1 Satz 1
+beauftragen das Institut für das Entgeltsystem im Krankenhaus und das
+in § 87 Absatz 3b Satz 1 genannte Institut gemeinsam bis zum 15.
+Februar eines jeden Kalenderjahres, die Auswahl der Leistungen nach
+Absatz 1 Satz 1 Nummer 2 zu überprüfen und einen Vorschlag zur
+Anpassung der Leistungsauswahl vorzulegen. Bei der Überprüfung und
+Anpassung nach Satz 1 können auch Leistungen ausgewählt werden, die
+nicht in dem nach § 115b Absatz 1 Satz 1 Nummer 1 vereinbarten Katalog
+genannt sind.
 
 (3) Zur Erbringung der nach Absatz 1 Satz 1 Nummer 2 vereinbarten oder
 durch Entscheidung nach Absatz 4 Satz 2 oder Satz 5 bestimmten
@@ -19814,10 +19814,14 @@ das Institut für das Entgeltsystem im Krankenhaus mit der regelmäßigen
 Evaluation der Auswirkungen der speziellen sektorengleichen Vergütung
 auf die Versorgung der Versicherten, auf die Vergütungen der
 Leistungserbringer sowie auf die Ausgaben der Krankenkassen auf der
-Grundlage nicht personenbezogener Leistungsdaten. Ein entsprechender
-Evaluationsbericht der Institute ist dem Bundesministerium für
-Gesundheit im Abstand von jeweils 18 Monaten, erstmals zum 30. Juni
-2026, vorzulegen.
+Grundlage nicht personenbezogener Leistungsdaten. Die in Satz 1
+genannten Institute legen ihren Evaluationsbericht im Abstand von
+jeweils zwölf Monaten, erstmals zum 31. Dezember 2026 unter
+Einbeziehung der für das Jahr 2026 vereinbarten Auswahl der Leistungen
+nach Absatz 1 Satz 1 Nummer 2, den Vertragsparteien und dem
+Bundesministerium für Gesundheit sowie auf Verlangen dem
+Bewertungsausschuss in der Zusammensetzung nach § 87 Absatz 5a Satz 2
+vor.
 
 
 #### § 115g Behandlung in einer sektorenübergreifenden Versorgungseinrichtung
@@ -25296,82 +25300,80 @@ Leistungsbereiche von solchen Zielvereinbarungen betroffen sind.
 
 #### § 135d Transparenz der Qualität der Krankenhausbehandlung
 
-(1) Das Bundesministerium für Gesundheit veröffentlicht ab dem 1. Mai
-2024 in einem Transparenzverzeichnis zur Krankenhausbehandlung in
-Deutschland im Internet insbesondere die in Absatz 3 genannten
-Informationen barrierefrei in leicht verständlicher, interaktiver
-Form. Das Bundesministerium für Gesundheit aktualisiert das
-Transparenzverzeichnis fortlaufend auf Grundlage aktueller Daten und
-Auswertungen nach Absatz 3 und untersucht die Nutzung des
-Transparenzverzeichnisses durch die Öffentlichkeit. Es benennt eine
-Stelle, die die technische Umsetzung der Veröffentlichung des
-Transparenzverzeichnisses durchführt. Die Veröffentlichung von
-Informationen im Transparenzverzeichnis erfolgt ohne Personenbezug.
-Die nach Satz 3 benannte Stelle stellt die im Transparenzverzeichnis
-veröffentlichten Daten und die dem Transparenzverzeichnis
-zugrundeliegenden Daten, die das Institut für Qualitätssicherung und
-Transparenz im Gesundheitswesen nach Absatz 2 Satz 4 und das Institut
-für das Entgeltsystem im Krankenhaus nach § 21 Absatz 3d Satz 3 des
-Krankenhausentgeltgesetzes übermittelt haben, in maschinenlesbarer
-Form sowie ab 1. Januar 2026 über eine technische Schnittstelle
+(1) Der Gemeinsame Bundesausschuss ist berechtigt und verpflichtet, in
+einem Transparenzverzeichnis zur Krankenhausbehandlung in Deutschland
+im Internet die in Absatz 3 genannten Informationen und Bewertungen
+dieser Informationen barrierefrei in leicht verständlicher,
+interaktiver Form und bürokratiearm zu veröffentlichen. Der Gemeinsame
+Bundesausschuss aktualisiert das Transparenzverzeichnis fortlaufend
+auf Grundlage aktueller Daten und Bewertungen nach Absatz 3 und
+untersucht die Nutzung des Transparenzverzeichnisses durch die
+Öffentlichkeit. Er benennt eine Stelle, die die technische Umsetzung
+der Veröffentlichung des Transparenzverzeichnisses durchführt. Die
+Veröffentlichung von Informationen im Transparenzverzeichnis erfolgt
+ohne Personenbezug. Die nach Satz 3 benannte Stelle stellt die im
+Transparenzverzeichnis veröffentlichten Bewertungen in
+maschinenlesbarer Form sowie über eine technische Schnittstelle
 öffentlich entgeltfrei zur Verfügung.
 
-(2) Das Institut für Qualitätssicherung und Transparenz im
-Gesundheitswesen bereitet für die Veröffentlichung und Aktualisierung
-des Transparenzverzeichnisses nach Absatz 3 die erforderlichen stets
-aktuellsten Daten fortlaufend auf und nimmt für das
-Transparenzverzeichnis geeignete Bewertungen vor. Das Institut für
-Qualitätssicherung und Transparenz im Gesundheitswesen wählt aus den
-Daten, die es als unabhängige Stelle im Sinne des § 299 Absatz 3 Satz
-1 für die in § 136 Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen zur
-datengestützten einrichtungsübergreifenden Qualitätssicherung erhält,
-die für das Transparenzverzeichnis geeigneten patientenrelevanten
-Ergebnisse aus und führt diese mit den nach § 21 Absatz 3d Satz 3 des
+(2) Der Gemeinsame Bundesausschuss beauftragt eine Stelle, die für die
+Veröffentlichung und Aktualisierung des Transparenzverzeichnisses die
+erforderlichen stets aktuellsten Daten fortlaufend aufbereitet und für
+das Transparenzverzeichnis geeignete Bewertungen dieser Daten im
+Bundesvergleich vornimmt. Die nach § 299 Absatz 3 Satz 1 bestimmte
+unabhängige Stelle übermittelt der nach Satz 1 beauftragten Stelle für
+diesen Zweck die Daten für die in § 136 Absatz 1 Satz 1 Nummer 1
+genannten Maßnahmen zur datengestützten einrichtungsübergreifenden
+Qualitätssicherung. Bei der Aufbereitung und Bewertung wählt die
+beauftragte Stelle aus den Daten, die sie von der nach § 299 Absatz 3
+Satz 1 bestimmten unabhängigen Stelle für die in § 136 Absatz 1 Satz 1
+Nummer 1 genannten Maßnahmen zur datengestützten
+einrichtungsübergreifenden Qualitätssicherung erhält, die für das
+Transparenzverzeichnis geeigneten patientenrelevanten Ergebnisse aus
+und führt diese mit den nach § 21 Absatz 3d Satz 3 des
 Krankenhausentgeltgesetzes vom Institut für das Entgeltsystem im
 Krankenhaus übermittelten Auswertungen und der nach § 40 Absatz 2 Satz
 4 des Krankenhausfinanzierungsgesetzes vom Institut für das
-Entgeltsystem im Krankenhaus übermittelten Liste zusammen. Das
-Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
-kann auf Grundlage der nach § 21 Absatz 3d Satz 3 des
-Krankenhausentgeltgesetzes vom Institut für das Entgeltsystem im
-Krankenhaus übermittelten Auswertungen und der nach § 40 Absatz 2 Satz
-4 des Krankenhausfinanzierungsgesetzes vom Institut für das
-Entgeltsystem im Krankenhaus übermittelten Liste weitere Auswertungen
-und Bewertungen vornehmen und auf Grundlage dieser Auswertungen neue
-risikoadjustierte Qualitätsindikatoren zu Sterblichkeit und
-periprozeduralen Komplikationen entwickeln; ferner kann das Institut
-für Qualitätssicherung und Transparenz im Gesundheitswesen
-patientenrelevante Prozesse als Qualitätsindikator darstellen. Das
-Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
-übermittelt die nach den Sätzen 1 bis 3 aufbereiteten aktuellsten
-Daten ohne Personenbezug unverzüglich an die nach Absatz 1 Satz 3
-benannte Stelle. Es hat bei der Übermittlung gegenüber der nach Absatz
-1 Satz 3 benannten Stelle die Richtigkeit und Sachlichkeit der
-übermittelten Daten zu erklären. Satz 5 gilt nicht für die nach § 21
-Absatz 3d des Krankenhausentgeltgesetzes übermittelten Auswertungen
-und die nach § 40 Absatz 2 Satz 4 des Krankenhausfinanzierungsgesetzes
+Entgeltsystem im Krankenhaus übermittelten Liste zusammen. Die nach
+Satz 1 beauftragte Stelle kann auf Grundlage der nach § 21 Absatz 3d
+Satz 3 des Krankenhausentgeltgesetzes vom Institut für das
+Entgeltsystem im Krankenhaus übermittelten Auswertungen und der nach
+§ 40 Absatz 2 Satz 4 des Krankenhausfinanzierungsgesetzes vom Institut
+für das Entgeltsystem im Krankenhaus übermittelten Liste weitere
+Auswertungen und Bewertungen vornehmen und auf Grundlage dieser
+Auswertungen und Bewertungen neue risikoadjustierte
+Qualitätsindikatoren zu Sterblichkeit und periprozeduralen
+Komplikationen sowie zur Darstellung patientenrelevanter Prozesse
+entwickeln. Die nach Satz 1 beauftragte Stelle übermittelt die nach
+den Sätzen 1 bis 4 aufbereiteten aktuellsten Daten und vorgenommenen
+Bewertungen dieser Daten jeweils ohne Personenbezug unverzüglich an
+die nach Absatz 1 Satz 3 benannte Stelle. Die nach Satz 1 beauftragte
+Stelle hat bei der Übermittlung gegenüber der nach Absatz 1 Satz 3
+benannten Stelle die Richtigkeit und Sachlichkeit der übermittelten
+Daten zu erklären. Satz 6 gilt nicht für die nach § 21 Absatz 3d Satz
+3 des Krankenhausentgeltgesetzes vom Institut für das Entgeltsystem im
+Krankenhaus übermittelten Auswertungen und die nach
+§ 40              Absatz 2 Satz 4 des Krankenhausfinanzierungsgesetzes
 vom Institut für das Entgeltsystem im Krankenhaus übermittelte Liste.
-Bei der Wahrnehmung der Aufgaben nach den Sätzen 1 bis 3 kann das
-Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
-externen wissenschaftlichen Sachverstand einbeziehen, ohne dabei einen
-Zugriff auf personenbezogene Daten zu gewähren. Die termingerechte
-Wahrnehmung der Aufgaben nach den Sätzen 1 bis 4 und Absatz 6 sowie
-deren Finanzierung sind von der Trägerin des Instituts für
-Qualitätssicherung und Transparenz im Gesundheitswesen
-sicherzustellen. § 137a Absatz 8 gilt auch für die Finanzierung der
-Aufgaben nach den Sätzen 1 bis 4 und Absatz 6.
+Jede inhaltliche Veränderung der Auswahl und der Bewertung der für die
+Veröffentlichung und Aktualisierung von Informationen im
+Transparenzverzeichnis erforderlichen Daten durch die nach Satz 1
+beauftragte Stelle bedarf der Zustimmung des Gemeinsamen
+Bundesausschusses. Im Einvernehmen mit dem Gemeinsamen Bundesausschuss
+kann die von ihm nach Satz 1 beauftragte Stelle bei der Wahrnehmung
+der Aufgaben nach den Sätzen 1 bis 4 unabhängige Sachverständige
+einbeziehen, ohne dabei einen Zugriff auf personenbezogene Daten zu
+gewähren.
 
-(3) Im Transparenzverzeichnis nach Absatz 1 Satz 1 werden insbesondere
-folgende Informationen zu einzelnen Standorten von Krankenhäusern im
-Sinne des Satzes 2 sowie Bewertungen dieser Informationen
-veröffentlicht:
+(3) Im Transparenzverzeichnis nach Absatz 1 Satz 1 sind folgende
+Informationen zu einzelnen Standorten von Krankenhäusern im Sinne des
+Satzes 2 sowie Bewertungen dieser Informationen zu veröffentlichen:
 
 1.  die Fallzahl der erbrachten Leistungen differenziert nach den nach §
     135e Absatz 2 Satz 2 maßgeblichen Leistungsgruppen sowie die Fallzahl
     der für Patienten besonders relevanten erbrachten Leistungen, die das
-    Institut für das Entgeltsystem im Krankenhaus im Einvernehmen mit dem
-    Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
-    bestimmt,
+    Institut für das Entgeltsystem im Krankenhaus im Einvernehmen mit der
+    nach Absatz 2 Satz 1 beauftragten Stelle bestimmt,
 
 
 2.  die nach Absatz 4 zugeordnete Versorgungsstufe,
@@ -25387,32 +25389,36 @@ veröffentlicht:
 
 
 5.  das Vorliegen aussagekräftiger Qualitätssiegel und Zertifikate über
-    die stationäre Versorgung, die ein Krankenhausträger gegenüber dem
-    Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
-    nachgewiesen hat,
+    die stationäre Versorgung, die ein Krankenhausträger oder ein
+    Herausgeber eines Zertifikats für ein Krankenhaus gegenüber der nach
+    Absatz 2 Satz 1 beauftragten Stelle nachgewiesen hat,
 
 
-6.  die Erfüllung der vom Gemeinsamen Bundesausschuss nach § 136b Absatz 1
+6.  die Erfüllung der vom Gemeinsamen Bundesausschuss nach § 136b Absatz 1
     Satz 1 Nummer 2 beschlossenen Mindestmengen sowie der Entscheidungen
-    der für die Krankenhausplanung zuständigen Landesbehörden nach § 136b
+    der für die Krankenhausplanung zuständigen Landesbehörden nach § 136b
     Absatz 5a über die Nichtanwendung von § 136b Absatz 5 Satz 1 und 2,
 
 
 7.  die Stufe der Notfallversorgung nach dem vom Gemeinsamen
-    Bundesausschuss gemäß § 136c Absatz 4 beschlossenen gestuften System
+    Bundesausschuss nach § 136c Absatz 4 beschlossenen gestuften System
     von Notfallstrukturen in Krankenhäusern,
 
 
-8.  die dem Krankenhaus für einen Krankenhausstandort nach § 6a Absatz 1
+8.  die dem Krankenhaus für einen Krankenhausstandort nach § 6a Absatz 1
     Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesenen
-    Leistungsgruppen einschließlich der nach § 6a Absatz 1 Satz 1 in
+    Leistungsgruppen, einschließlich der nach § 6a Absatz 1 Satz 1 in
     Verbindung mit Absatz 4 Satz 1 des Krankenhausfinanzierungsgesetzes
-    zugewiesenen Leistungsgruppen und die für einen Krankenhausstandort
-    nach § 109 Absatz 1 Satz 1 vereinbarten Leistungsgruppen
-    einschließlich der nach § 109 Absatz 1 Satz 1 in Verbindung mit Absatz
-    3a Satz 4 vereinbarten Leistungsgruppen sowie die Erfüllung oder
-    Nichterfüllung der jeweils maßgeblichen Qualitätskriterien; § 135e
-    Absatz 2 Satz 2 gilt entsprechend,
+    zugewiesenen Leistungsgruppen, die dem Krankenhaus für einen
+    Krankenhausstandort nach § 6a Absatz 1 Satz 8 Nummer 2 des
+    Krankenhausfinanzierungsgesetzes nach landesrechtlichen Vorschriften
+    zugewiesenen Leistungsgruppen und die für einen Krankenhausstandort in
+    einem nach § 109 Absatz 1 Satz 1 abgeschlossenen Versorgungsvertrag
+    vereinbarten Leistungsgruppen, einschließlich der in einem nach § 109
+    Absatz 1 Satz 1 in Verbindung mit Absatz 3a Satz 4 abgeschlossenen
+    Versorgungsvertrag vereinbarten Leistungsgruppen, sowie die Erfüllung
+    oder Nichterfüllung der jeweils maßgeblichen Qualitätskriterien; §
+    135e Absatz 2 Satz 2 gilt entsprechend, und
 
 
 9.  die Ausweisung in der nach § 40 Absatz 2 Satz 3 des
@@ -25421,51 +25427,29 @@ veröffentlicht:
 
 
 Der Standort eines Krankenhauses bestimmt sich nach § 2a des
-Krankenhausfinanzierungsgesetzes. Abweichend von Satz 1 Nummer 1
-werden die in dieser Nummer genannten Informationen zu den Standorten
-von Krankenhäusern, denen die für die Krankenhausplanung zuständige
-Landesbehörde bis zum 28. März 2024 Leistungsgruppen zugewiesen hat,
-im Transparenzverzeichnis im Zeitraum bis zum 31. Dezember 2025
-differenziert nach diesen zugewiesenen Leistungsgruppen
-veröffentlicht. Die von Satz 3 betroffenen Standorte von
-Krankenhäusern sind im Transparenzverzeichnis gesondert zu
-kennzeichnen. Bei Bundeswehrkrankenhäusern und Krankenhäusern der
-gesetzlichen Unfallversicherung umfasst die Fallzahl der erbrachten
-Leistungen nach Satz 1 Nummer 1 auch die Krankenhausfälle, in denen
-sie nicht Zivilpatienten behandeln oder in denen die Kosten von der
-gesetzlichen Unfallversicherung getragen werden. Auch für diese
-Leistungen haben die Bundeswehrkrankenhäuser und die Krankenhäuser der
-gesetzlichen Unfallversicherung die Angaben nach § 21 Absatz 2 Nummer
-2 Buchstabe b, d, e, f und i des Krankenhausentgeltgesetzes ohne die
-Postleitzahl, den Wohnort und Stadtteil im Falle von Stadtstaaten an
-das Institut für das Entgeltsystem im Krankenhaus zu übermitteln und
-diese gesondert auszuweisen. Aufgrund des besonderen Auftrages und des
-besonderen Zuschnitts der Krankenhäuser der gesetzlichen
+Krankenhausfinanzierungsgesetzes. Bei Bundeswehrkrankenhäusern und
+Krankenhäusern der Träger der gesetzlichen Unfallversicherung umfasst
+die Fallzahl der erbrachten Leistungen nach Satz 1 Nummer 1 auch die
+Krankenhausfälle, in denen sie nicht Zivilpatienten behandeln oder in
+denen die Kosten von der gesetzlichen Unfallversicherung getragen
+werden. Auch für diese Leistungen haben die Bundeswehrkrankenhäuser
+und die Krankenhäuser der Träger der gesetzlichen Unfallversicherung
+die Angaben nach § 21 Absatz 2 Nummer 2 Buchstabe b, d, e, f und i des
+Krankenhausentgeltgesetzes ohne die Postleitzahl, den Wohnort und
+Stadtteil im Fall von Stadtstaaten an das Institut für das
+Entgeltsystem im Krankenhaus zu übermitteln und diese gesondert
+auszuweisen. Aufgrund des besonderen Auftrages und des besonderen
+Zuschnitts der Krankenhäuser der Träger der gesetzlichen
 Unfallversicherung und ihrer Vereinigungen beinhaltet die
 Veröffentlichung der Versorgungsstufe nach Satz 1 Nummer 2 im
-Transparenzverzeichnis die Angabe, dass es sich um ein Krankenhaus der
-gesetzlichen Unfallversicherung handelt. Dem Institut für
-Qualitätssicherung und Transparenz im Gesundheitswesen übermitteln
-unverzüglich je Standort eines Krankenhauses
-
-1.  der Gemeinsame Bundesausschuss die in § 136b Absatz 5 Satz 7 genannten
-    Informationen der erfolgten Prognoseprüfungen und die Entscheidungen
-    der für die Krankenhausplanung zuständigen Landesbehörden nach § 136b
-    Absatz 5a über die Nichtanwendung von § 136b Absatz 5 Satz 1 und 2
-    sowie
-
-
-2.  die Krankenhäuser bis zum 30. Juni 2025 die aktuellen Informationen
-    über die Teilnahme an dem vom Gemeinsamen Bundesausschuss gemäß § 136c
-    Absatz 4 beschlossenen gestuften System von Notfallstrukturen in
-    Krankenhäusern.
-
-
-
-Das Institut für Qualitätssicherung und Transparenz im
-Gesundheitswesen übermittelt dem Institut für das Entgeltsystem im
-Krankenhaus die Informationen nach Satz 8 Nummer 2, sofern dies für
-die Auswertungen für das Transparenzverzeichnis erforderlich ist.
+Transparenzverzeichnis die Angabe, dass es sich um ein Krankenhaus
+eines Trägers der gesetzlichen Unfallversicherung handelt. Der
+Gemeinsame Bundesausschuss übermittelt der nach Absatz 2 Satz 1
+beauftragten Stelle unverzüglich je Standort eines Krankenhauses die
+in § 136b Absatz 5 Satz 7 genannten Informationen der erfolgten
+Prognoseprüfungen und die Entscheidungen der für die
+Krankenhausplanung zuständigen Landesbehörden nach § 136b Absatz 5a
+über die Nichtanwendung von § 136b Absatz 5 Satz 1 und 2.
 
 (4) Das Institut für das Entgeltsystem im Krankenhaus ordnet jeden
 Standort eines Krankenhauses zum Zweck der Veröffentlichung im
@@ -25477,9 +25461,8 @@ zuzuordnen der
 1.  Versorgungsstufe „Level 3U“, wenn es sich um einen Standort einer
     Hochschulklinik handelt und an ihm Leistungen aus mindestens fünf
     internistischen Leistungsgruppen, mindestens fünf chirurgischen
-    Leistungsgruppen, der Leistungsgruppe Intensivmedizin, der
-    Leistungsgruppe Notfallmedizin sowie zusätzlich aus acht weiteren
-    Leistungsgruppen erbracht werden,
+    Leistungsgruppen, der Leistungsgruppe Intensivmedizin sowie zusätzlich
+    aus acht weiteren Leistungsgruppen erbracht werden,
 
 
 2.  Versorgungsstufe „Level 3“, wenn an ihm die in Nummer 1 genannten
@@ -25489,77 +25472,139 @@ zuzuordnen der
 
 3.  Versorgungsstufe „Level 2“, wenn an ihm Leistungen aus mindestens zwei
     internistischen Leistungsgruppen, mindestens zwei chirurgischen
-    Leistungsgruppen, der Leistungsgruppe Intensivmedizin, der
-    Leistungsgruppe Notfallmedizin sowie zusätzlich drei weiteren
-    Leistungsgruppen erbracht werden,
+    Leistungsgruppen, der Leistungsgruppe Intensivmedizin sowie zusätzlich
+    drei weiteren Leistungsgruppen erbracht werden, oder
 
 
 4.  Versorgungsstufe „Level 1n“, wenn an ihm Leistungen aus mindestens der
     Leistungsgruppe Allgemeine Innere Medizin, der Leistungsgruppe
-    Allgemeine Chirurgie, der Leistungsgruppe Intensivmedizin sowie der
-    Leistungsgruppe Notfallmedizin erbracht werden oder wenn es sich um
-    ein in Satz 3 oder Satz 4 genanntes Krankenhaus handelt, das noch
-    nicht der Versorgungsstufe „Level F“ oder „Level 1i“ zugeordnet wurde.
+    Allgemeine Chirurgie sowie der Leistungsgruppe Intensivmedizin
+    erbracht werden oder wenn es sich um ein in Satz 3 oder in Absatz 4a
+    Satz 3 oder 4 genanntes Krankenhaus handelt, das noch nicht der
+    Versorgungsstufe „Level 1i“ oder „Level 1F“ zugeordnet wurde.
 
 
 
-Fachkrankenhäuser, die sich auf die Behandlung einer bestimmten
-Erkrankung, Krankheitsgruppe oder Personengruppe spezialisiert haben
-und einen relevanten Versorgungsanteil in diesem Bereich leisten,
-werden von der für die Krankenhausplanung zuständigen Landesbehörde
-der Versorgungsstufe „Level F“ zugeordnet, wenn sie mindestens 80
-Prozent der im vorhergehenden Kalenderjahr von ihnen abgerechneten
-Fälle in höchstens vier der in Anlage 1 genannten Leistungsgruppen
-abzüglich der Fälle der in Anlage 1 Nummer 1 und 14 genannten
-Leistungsgruppen Allgemeine Innere Medizin und Allgemeine Chirurgie
-erbracht haben; die Fälle der Leistungsgruppen Allgemeine Innere
-Medizin und Allgemeine Chirurgie bleiben bei der Bestimmung der
-Gesamtzahl der abgerechneten Fälle außer Betracht; die in Anlage 1
-Nummer 10 bis 13 genannten Leistungsgruppen EPU/Ablation,
-Interventionelle Kardiologie, Kardiale Devices und Minimale
-Herzklappenintervention werden als eine Leistungsgruppe gezählt.
-Krankenhäuser, die eine sektorenübergreifende Versorgung und in der
-Regel keine Notfallmedizin erbringen, werden von der für die
-Krankenhausplanung zuständigen Landesbehörde der Versorgungsstufe
-„Level 1i“ zugeordnet. Eine Zuordnung nach Satz 3 oder Satz 4 tritt an
-die Stelle einer Zuordnung nach Satz 2 Nummer 4, sofern diese bereits
-erfolgt ist. Die in den Sätzen 3 und 4 genannten Krankenhäuser sind im
+Standorte von Krankenhäusern, die eine sektorenübergreifende
+Versorgung und in der Regel keine Notfallmedizin erbringen, werden von
+der für die Krankenhausplanung zuständigen Landesbehörde der
+Versorgungsstufe „Level 1i“ zugeordnet. Eine Zuordnung nach Satz 3
+tritt an die Stelle einer Zuordnung nach Satz 2 Nummer 4, sofern diese
+bereits erfolgt ist. Die in Satz 3 genannten Krankenhäuser sind im
 Transparenzverzeichnis gesondert zu kennzeichnen. Die für die
 Krankenhausplanung zuständige Landesbehörde teilt dem Institut für das
 Entgeltsystem im Krankenhaus unverzüglich eine Zuordnung nach Satz 3
-oder Satz 4 oder eine Änderung dieser Zuordnung mit. Das
-Bundesministerium für Gesundheit bestimmt auf Vorschlag des Instituts
-für das Entgeltsystem im Krankenhaus, in welchen Fällen bei der
-Zuordnung zu einer Versorgungsstufe eine Leistungsgruppe nicht zu
-berücksichtigen ist, weil der Standort eines Krankenhauses im
-bundesweiten Vergleich wenig Behandlungsfälle in der Leistungsgruppe
-erbracht hat.
+oder eine Änderung dieser Zuordnung mit. Das Bundesministerium für
+Gesundheit bestimmt auf Vorschlag des Instituts für das Entgeltsystem
+im Krankenhaus, in welchen Fällen bei der Zuordnung zu einer
+Versorgungsstufe eine Leistungsgruppe nicht zu berücksichtigen ist,
+weil der Standort eines Krankenhauses im bundesweiten Vergleich wenige
+Behandlungsfälle in der Leistungsgruppe erbracht hat.
 
-(5) Gegen die Veröffentlichung im Transparenzverzeichnis ist der
-Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben.
+(4a) Der Spitzenverband Bund der Krankenkassen und die Deutsche
+Krankenhausgesellschaft vereinbaren im Benehmen mit den Ländern und
+dem Verband der Privaten Krankenversicherung bis zum 30. September
+2029 eine bundeseinheitliche Definition eines Fachkrankenhauses mit
+den Kriterien, die ein Standort eines solchen Fachkrankenhauses
+erfüllen muss, damit er der Versorgungsstufe „Level F“ zugeordnet
+werden kann. Kommt eine Vereinbarung nach Satz 1 nicht fristgerecht
+zustande, legt die Schiedsstelle nach § 18a Absatz 6 des
+Krankenhausfinanzierungsgesetzes den Inhalt der Vereinbarung ohne
+Antrag einer Vereinbarungspartei bis zum 31. Dezember 2029 fest. Die
+für die Krankenhausplanung zuständige Landesbehörde kann den Standort
+eines Krankenhauses der Versorgungsstufe „Level F“ zuordnen, wenn die
+nach Satz 1 vereinbarten oder nach Satz 2 festgelegten Kriterien an
+dem jeweiligen Standort erfüllt sind. Bis zum Zustandekommen der
+Vereinbarung nach Satz 1 kann die für die Krankenhausplanung
+zuständige Landesbehörde abweichend von Satz 3 den Standort eines
+Krankenhauses der Versorgungsstufe „Level F“ zuordnen, wenn er
 
-(6) Das Institut für Qualitätssicherung und Transparenz im
-Gesundheitswesen prüft, welchen Einfluss
-
-1.  die personelle Ausstattung weiterer im Krankenhaus tätiger
-    Gesundheitsberufe und
+1.  sich auf die Behandlung einer bestimmten Erkrankung, Krankheitsgruppe,
+    Personengruppe oder eines bestimmten Leistungsspektrums spezialisiert
+    hat,
 
 
-2.  der jeweilige Anteil von Leiharbeit bei Ärzten und Pflegepersonal
+2.  einen relevanten Versorgungsanteil in diesem Bereich leistet und
+
+
+3.  im Krankenhausplan des jeweiligen Landes als Fachkrankenhaus
+    ausgewiesen ist.
 
 
 
-auf die Qualität der Versorgung hat. Das Institut prüft außerdem,
-welche zusätzlichen Daten erhoben und gemeldet werden müssen, um
-diesen Einfluss prospektiv weiter untersuchen und transparent
-ausweisen zu können. Das Institut für Qualitätssicherung und
-Transparenz im Gesundheitswesen prüft zudem, bei welchen Leistungen
-ein Zusammenhang zwischen arztbezogener Fallzahl und der Qualität der
-Leistungserbringung besteht und welche Daten konkret erforderlich
-sind, um diesen Zusammenhang auszuwerten. Das Institut für
-Qualitätssicherung und Transparenz im Gesundheitswesen legt dem
-Bundesministerium für Gesundheit bis zum 31. Dezember 2024 einen
-Bericht über die Ergebnisse der Prüfung nach den Sätzen 1 und 2 vor.
+Die Zuordnung nach Satz 4 ist zu begründen und bis zum 31. Dezember
+2030 zu befristen. Eine Zuordnung nach den Sätzen 3 oder 4 tritt an
+die Stelle der Zuordnung nach Absatz 4 Satz 2 Nummer 4, sofern diese
+bereits erfolgt ist. Die in den Sätzen 3 und 4 genannten Krankenhäuser
+sind im Transparenzverzeichnis gesondert zu kennzeichnen. Die für die
+Krankenhausplanung zuständige Landesbehörde teilt dem Institut für das
+Entgeltsystem im Krankenhaus unverzüglich eine Zuordnung nach den
+Sätzen 3 oder 4 oder eine Änderung dieser Zuordnung mit; die
+Mitteilung über eine Zuordnung nach Satz 4 oder über eine Änderung
+dieser Zuordnung hat auch die Begründung der Zuordnung oder ihrer
+Änderung zu umfassen. Der Spitzenverband Bund der Krankenkassen und
+die Deutsche Krankenhausgesellschaft prüfen die Auswirkung der in Satz
+4 genannten Zuordnungen auf die Versorgungssituation der Patienten und
+auf die Qualität sowie auf die Vergütung von Krankenhausleistungen und
+legen dem Bundesministerium für Gesundheit bis zum 30. Juni 2029 einen
+Bericht über das Ergebnis ihrer Prüfung vor. Die für den nach Satz 9
+vorzulegenden Bericht erforderlichen Daten sind dem Spitzenverband
+Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft von
+dem Institut für das Entgeltsystem im Krankenhaus, den Krankenhäusern,
+den Krankenkassen und den Unternehmen der privaten Krankenversicherung
+in anonymisierter Form zu übermitteln.
+
+(5) Der Gemeinsame Bundesausschuss erlässt in einer Richtlinie nach §
+92 Absatz 1 Satz 2 Nummer 13 zur Weiterentwicklung des
+Transparenzverzeichnisses insbesondere
+
+1.  einheitliche Anforderungen für die Auswahl und Aufbereitung der zur
+    Veröffentlichung erforderlichen Daten und die Kriterien für deren
+    Bewertung,
+
+
+2.  Festlegungen für die Weiterentwicklung von Inhalt, Art und Umfang der
+    im Transparenzverzeichnis zu veröffentlichenden Informationen und
+
+
+3.  Regelungen zur Integration der aufgrund der Richtlinie des Gemeinsamen
+    Bundesausschusses nach § 136a Absatz 6 zu veröffentlichenden
+    einrichtungsbezogenen risikoadjustierten Vergleiche der an der
+    vertragsärztlichen Versorgung teilnehmenden Leistungserbringer in das
+    Transparenzverzeichnis.
+
+
+
+Der Gemeinsame Bundesausschuss hat eine Anpassung von Inhalt, Umfang
+und Datenformat der strukturierten Qualitätsberichte nach § 136b
+Absatz 1 Satz 1 Nummer 3 zu beschließen, um die Informationen der
+strukturierten Qualitätsberichte mit den Informationen im
+Transparenzverzeichnis zusammenzuführen und die Berichtspflichten der
+Krankenhäuser zu reduzieren. Der Gemeinsame Bundesausschuss prüft
+außerdem gemeinsam mit den jeweiligen Herausgebern eine
+einvernehmliche Zusammenführung des Transparenzverzeichnisses mit
+weiteren bestehenden Krankenhausvergleichsportalen und kann die für
+eine Zusammenführung erforderlichen Regelungen in der nach Satz 1 zu
+erlassenden Richtlinie treffen. Die Richtlinie nach Satz 1 hat
+sicherzustellen, dass die inhaltlichen Anforderungen der Absätze 1 bis
+4 sowie der Sätze 1 und 2 an das Transparenzverzeichnis nach Absatz 1
+Satz 1 als Mindestanforderungen aufrechterhalten bleiben. Der Verband
+der Privaten Krankenversicherung, die Bundesärztekammer sowie die
+Berufsorganisationen der Pflegeberufe sind bei der Richtlinie nach
+Satz 1 zu beteiligen; die Bundespsychotherapeutenkammer und die
+Bundeszahnärztekammer sind, soweit jeweils die Berufsausübung der
+Psychotherapeuten oder der Zahnärzte berührt ist, zu beteiligen. Bis
+zum Inkrafttreten der nach Satz 1 zu erlassenden Richtlinie nimmt das
+Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+die Rechte und Pflichten der nach Absatz 2 Satz 1 beauftragten Stelle
+in Bezug auf das Transparenzverzeichnis wahr.
+
+(6) Die nach Absatz 2 Satz 1 beauftragte Stelle ist berechtigt und
+verpflichtet, dem Gemeinsamen Bundesausschuss zum Zweck der
+Weiterentwicklung des Transparenzverzeichnisses die Daten der
+Datenbank nach § 283 Absatz 5 Satz 1 und diesbezügliche Auswertungen
+zur Verfügung zu stellen, soweit ihr der Medizinische Dienst Bund
+Zugang nach § 283 Absatz 5 Satz 8 zu den erforderlichen Daten gewährt.
 
 
 #### § 135e Mindestanforderungen an die Qualität der Krankenhausbehandlung, Verordnungsermächtigung
@@ -25568,13 +25613,13 @@ Bericht über die Ergebnisse der Prüfung nach den Sätzen 1 und 2 vor.
 Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  von der Krankenhausbehandlung umfasste Leistungen in Leistungsgruppen
-    einzuteilen,
+    einzuteilen und
 
 
-2.  für jede nach Nummer 1 festgelegte Leistungsgruppe Qualitätskriterien,
-    die insbesondere Mindestanforderungen an die Struktur- und
-    Prozessqualität der Leistungen beinhalten, in folgenden
-    Anforderungsbereichen festzulegen:
+2.  für jede nach Nummer 1 festgelegte Leistungsgruppe Qualitätskriterien
+    nach Maßgabe des Absatzes 4, die insbesondere Mindestanforderungen an
+    die Struktur- und Prozessqualität der Leistungen beinhalten, in
+    folgenden Anforderungsbereichen festzulegen:
 
     a)  Erbringung verwandter Leistungsgruppen,
 
@@ -25585,23 +25630,10 @@ Rechtsverordnung mit Zustimmung des Bundesrates
     c)  personelle Ausstattung und
 
 
-    d)  sonstige Struktur- und Prozessvoraussetzungen,
+    d)  sonstige Struktur- und Prozessvoraussetzungen.
 
 
 
-
-
-3.  Regelungen zur Zulässigkeit der Erfüllung der nach Nummer 2
-    festgelegten Qualitätskriterien in Kooperationen und Verbünden,
-    insbesondere mit Leistungserbringern der vertragsärztlichen Versorgung
-    oder mit anderen Krankenhäusern, zu treffen,
-
-
-4.  Regelungen darüber zu treffen, für welche Leistungsgruppen die
-    Zuweisung in dem in § 6a Absatz 1 Satz 1 in Verbindung mit Absatz 4
-    Satz 1 des Krankenhausfinanzierungsgesetzes genannten Fall oder der
-    Abschluss eines Versorgungsvertrags in dem in § 109 Absatz 1 Satz 1 in
-    Verbindung mit Absatz 3a Satz 4 genannten Fall ausgeschlossen ist.
 
 
 
@@ -25609,23 +25641,23 @@ Die nach Satz 1 Nummer 2 festgelegten Qualitätskriterien sollen den
 aktuellen Stand der medizinisch-wissenschaftlichen Erkenntnisse
 berücksichtigen und zu einer leitliniengerechten, qualitativ
 hochwertigen und für Patienten sicheren medizinischen Versorgung
-beitragen. Die Rechtsverordnung nach Satz 1 ist erstmals bis zum 31.
-März 2025 mit Wirkung ab dem 1. Januar 2027 zu erlassen.
+beitragen.
 
 (2) Erbringen Krankenhäuser mindestens eine Leistung aus einer
 Leistungsgruppe, haben sie die für diese Leistungsgruppe maßgeblichen
-Qualitätskriterien am jeweiligen Krankenhausstandort zu erfüllen; §
-135d Absatz 3 Satz 2 gilt entsprechend. Die maßgeblichen
+Qualitätskriterien am jeweiligen Krankenhausstandort zu erfüllen;
+§ 135d Absatz 3 Satz 2 gilt entsprechend. Die maßgeblichen
 Leistungsgruppen und Qualitätskriterien bestimmen sich nach den
 Regelungen der Rechtsverordnung nach Absatz 1; bis zum Inkrafttreten
-dieser Rechtsverordnung bestimmen sie sich nach Absatz 4.
+dieser Rechtsverordnung bestimmen sie sich nach Anlage 1 und Absatz 4.
 
 (3) Das Bundesministerium für Gesundheit richtet einen Ausschuss ein,
-der Empfehlungen zu den Inhalten der Rechtsverordnung nach Absatz 1
-beschließt. Weicht das Bundesministerium für Gesundheit beim Erlass
-einer Rechtsverordnung nach Absatz 1 von den Empfehlungen des
-Ausschusses ab, hat es dem Ausschuss die Gründe für die Abweichung vor
-Erlass der Rechtsverordnung darzulegen. Der Ausschuss wird durch das
+der Empfehlungen zur Weiterentwicklung der nach Absatz 2 Satz 2
+maßgeblichen Leistungsgruppen und Qualitätskriterien beschließt.
+Weicht das Bundesministerium für Gesundheit beim Erlass einer
+Rechtsverordnung nach Absatz 1 von den Empfehlungen des Ausschusses
+ab, hat es dem Ausschuss die Gründe für die Abweichung vor Erlass der
+Rechtsverordnung darzulegen. Der Ausschuss wird durch das
 Bundesministerium für Gesundheit und die obersten
 Landesgesundheitsbehörden gemeinsam geleitet. Soweit das
 Bundesministerium für Gesundheit oder eine oberste
@@ -25640,33 +25672,44 @@ Leistungen zur Unterstützung seiner Tätigkeit zu erbringen. Der
 Ausschuss besteht in gleicher Zahl aus Vertretern des Spitzenverbandes
 Bund der Krankenkassen einerseits und Vertretern der Deutschen
 Krankenhausgesellschaft, der Bundesärztekammer, der Hochschulmedizin
-und der Berufsorganisationen der Pflegeberufe andererseits. Die
-Patientenorganisationen nach § 140f und der Medizinische Dienst Bund
-können beratend an den Sitzungen des Ausschusses teilnehmen. Der
-Ausschuss kann sachverständige Personen zur Beratung hinzuziehen. Vor
-einer Beschlussfassung nach Satz 1 ist dem Gemeinsamen Bundesausschuss
-Gelegenheit zur Stellungnahme zu geben; die Stellungnahme ist in die
-jeweilige Beschlussfassung einzubeziehen. Der Ausschuss berücksichtigt
-die gemäß § 136a Absatz 7 getroffenen Festlegungen im Rahmen seiner
-Empfehlungen zur Weiterentwicklung der Inhalte der Rechtsverordnung
-nach Absatz 1. Der Ausschuss legt das Nähere zur Arbeitsweise,
-Besetzung und Beschlussfassung des Ausschusses in einer
-Geschäftsordnung fest. Die Geschäftsordnung und ihre Änderung bedürfen
-der Genehmigung des Bundesministeriums für Gesundheit. Wird die
-Geschäftsordnung nicht bis zum 12. April 2025 festgelegt, legt das
-Bundesministerium für Gesundheit die Geschäftsordnung fest. Zur
-Koordinierung der Tätigkeit des Ausschusses wird eine Geschäftsstelle
-beim Gemeinsamen Bundesausschuss eingerichtet. Der personelle und
-sachliche Bedarf der Geschäftsstelle wird auf Vorschlag des
-Ausschusses vom Gemeinsamen Bundesausschuss im Einvernehmen mit dem
-Bundesministerium für Gesundheit bestimmt und ist vom Gemeinsamen
-Bundesausschuss in seinen Haushalt einzustellen.
+und der maßgeblichen Organisationen der Pflegeberufe auf Bundesebene
+im Sinne des § 118a Absatz 1 Satz 1 des Elften Buches andererseits.
+Ehrenamtlich Tätige, die von den maßgeblichen Organisationen der
+Pflegeberufe auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des
+Elften Buches in den Ausschuss nach Satz 1 entsandt werden, haben
+Anspruch auf Erstattung der Reisekosten nach den Vorschriften des
+Bundesreisekostengesetzes sowie auf den Ersatz des Verdienstausfalls
+in entsprechender Anwendung des § 41 Absatz 2 des Vierten Buches; die
+Ansprüche richten sich gegen den Gemeinsamen Bundesausschuss. Die
+Patientenorganisationen nach § 140f können beratend an den Sitzungen
+des Ausschusses teilnehmen; § 140f Absatz 2 Satz 1, 2 und 4, Absatz 5,
+6 und 8 gilt entsprechend mit der Maßgabe, dass sich die Ansprüche
+gegen den Gemeinsamen Bundesausschuss richten; die Zahl der
+sachkundigen Personen beträgt höchstens vier. Der Medizinische Dienst
+Bund kann ebenfalls beratend an den Sitzungen des Ausschusses
+teilnehmen. Der Ausschuss kann sachverständige Personen zur Beratung
+hinzuziehen. Vor einer Beschlussfassung nach Satz 1 ist dem
+Gemeinsamen Bundesausschuss Gelegenheit zur Stellungnahme zu geben;
+die Stellungnahme ist in die jeweilige Beschlussfassung einzubeziehen.
+Der Ausschuss berücksichtigt die gemäß § 136a Absatz 7 getroffenen
+Festlegungen im Rahmen seiner Empfehlungen zur Weiterentwicklung der
+Inhalte der Rechtsverordnung nach Absatz 1. Der Ausschuss legt das
+Nähere zur Arbeitsweise, Besetzung und Beschlussfassung des
+Ausschusses sowie zu den Aufgaben der nach Satz 15 eingerichteten
+Geschäftsstelle in einer Geschäftsordnung fest. Die Geschäftsordnung
+und ihre Änderung bedürfen der Genehmigung des Bundesministeriums für
+Gesundheit. Zur Koordinierung der Tätigkeit des Ausschusses wird eine
+Geschäftsstelle beim Gemeinsamen Bundesausschuss eingerichtet. Der
+personelle und sachliche Bedarf der Geschäftsstelle und der Bedarf für
+Aufwendungen im Zusammenhang mit der Hinzuziehung externer
+Sachverständiger sowie mit der Organisation und Durchführung der
+Sitzungen des Ausschusses werden auf Vorschlag des Ausschusses vom
+Gemeinsamen Bundesausschuss im Einvernehmen mit dem Bundesministerium
+für Gesundheit bestimmt und sind vom Gemeinsamen Bundesausschuss in
+seinen Haushalt einzustellen.
 
-(4) Bis zum Inkrafttreten der Rechtsverordnung nach Absatz 1 sind
-maßgeblich im Sinne des Absatzes 2 Satz 2 die in Anlage 1 genannten
-Leistungsgruppen und Qualitätskriterien nach Maßgabe der nachfolgenden
-Sätze. Hinsichtlich der Erfüllung der für eine Leistungsgruppe in
-Anlage 1 als Mindestvoraussetzungen genannten Qualitätskriterien gilt,
+(4) Hinsichtlich der Erfüllung der für eine Leistungsgruppe als
+Mindestvoraussetzungen genannten Qualitätskriterien gilt,
 
 1.  dass hinsichtlich der im Anforderungsbereich „Erbringung verwandter
     Leistungsgruppen“ in der Spalte „Standort“ genannten Leistungsgruppen
@@ -25684,102 +25727,124 @@ Anlage 1 als Mindestvoraussetzungen genannten Qualitätskriterien gilt,
 
 
 3.  dass, soweit in dem Anforderungsbereich „Erbringung verwandter
-    Leistungsgruppen“ die Leistungsgruppe Intensivmedizin mit der
-    Qualitätsanforderung Hochkomplex oder mit der Qualitätsanforderung
-    Komplex genannt wird, hinsichtlich dieser Leistungsgruppe die in
+    Leistungsgruppen“ die Leistungsgruppe „Intensivmedizin“ mit der
+    Qualitätsanforderung „Hochkomplex“ oder mit der Qualitätsanforderung
+    „Komplex“ genannt wird, hinsichtlich dieser Leistungsgruppe die in
     Anlage 1 Nummer 64 in der jeweiligen entsprechend benannten
     Tabellenzeile genannten Voraussetzungen ebenfalls erfüllt sein müssen,
 
 
-4.  dass, soweit in dem Anforderungsbereich „Erbringung verwandter
-    Leistungsgruppen“ in der Tabellenspalte „Standort“ Krankenhäuser, die
-    von der für die Krankenhausplanung zuständigen Landesbehörde gemäß §
-    135d Absatz 4 Satz 3 der Versorgungsstufe „Level F“ zugeordnet wurden,
-    genannt sind, diese die für sie jeweils genannten verwandten
-    Leistungsgruppen in Kooperation erbringen können,
-
-
-5.  dass die im Anforderungsbereich „Sachliche Ausstattung“ genannten
+4.  dass die im Anforderungsbereich „Sachliche Ausstattung“ genannten
     Qualitätskriterien jeweils dann erfüllt sind, wenn die in diesem
     Anforderungsbereich genannten Geräte, Einrichtungen, Untersuchungs-
     und Behandlungsangebote mit dem dafür erforderlichen Personal sowie,
-    sofern anwendbar, in dem genannten Zeitraum vorgehalten werden,
+    sofern anwendbar, in dem genannten Zeitraum vorgehalten werden, wobei
+    das erforderliche Personal, sofern die Indikationsstellung und die
+    Befundung teleradiologisch erbracht werden, nur telemedizinisch
+    erreichbar und nicht vor Ort sein und der genannte Zeitraum an
+    Krankenhausstandorten, an denen keine vollstationäre
+    Krankenhausbehandlung erbracht wird, nur während deren jeweiligen
+    Betriebszeiten erfüllt sein muss,
 
 
-6.  dass die im Anforderungsbereich „Personelle Ausstattung“ in der
+5.  dass die im Anforderungsbereich „Personelle Ausstattung“ in der
     Tabellenspalte „Qualifikation“ genannten Facharztbezeichnungen als
     erfüllt anzusehen sind, wenn der jeweilige Arzt nach landesrechtlichen
     Vorschriften zum Führen der entsprechenden Facharztbezeichnung oder
     einer vergleichbaren Bezeichnung berechtigt ist,
 
 
-7.  dass die im Anforderungsbereich „Personelle Ausstattung“ in der
+6.  dass die im Anforderungsbereich „Personelle Ausstattung“ in der
     Tabellenspalte „Verfügbarkeit“ genannten Qualitätskriterien erfüllt
     sind, wenn Fachärzte im jeweils genannten personellen und zeitlichen
     Umfang vorgehalten werden, wobei
 
-    a)  die Vorgabe „Facharzt“ einem Vollzeitäquivalent von 40 Wochenstunden
+    a)  die Vorgabe „Facharzt“ einem Vollzeitäquivalent von 38,5 Wochenstunden
         entspricht,
 
 
-    b)  mindestens ein Facharzt jederzeit in Rufbereitschaft verfügbar sein
-        muss,
+    b)  im Regeldienst und bei Anwesenheitsdiensten wie Schicht- oder
+        Bereitschaftsdiensten außerhalb des Regeldienstes mindestens ein
+        Facharzt jederzeit verfügbar sein muss,
 
 
-    c)  Fachärzte für bis zu drei Leistungsgruppen, die einem Krankenhaus für
+    c)  außerhalb der in Buchstabe b genannten Dienste mindestens ein Facharzt
+        in Rufbereitschaft jederzeit verfügbar sein muss,
+
+
+    d)  Fachärzte für bis zu drei Leistungsgruppen, die einem Krankenhaus für
         diesen Krankenhausstandort nach § 6a Absatz 1 Satz 1 des
         Krankenhausfinanzierungsgesetzes zugewiesen wurden, berücksichtigt
-        werden können; dies gilt nicht für die in Anlage 1 Nummer 1 und 14
-        genannten Leistungsgruppen Allgemeine Innere Medizin und Allgemeine
-        Chirurgie,
+        werden können,
 
 
-    d)  an Stelle eines Facharztes auch ein Belegarzt vorgehalten werden kann;
-        die in den Buchstaben a bis c festgelegten Kriterien insbesondere
-        hinsichtlich der zeitlichen Verfügbarkeit gelten entsprechend,
+    e)  in Fällen, in denen das Krankenhaus eine Versorgung durch Belegärzte
+        vorsieht, dem Vollzeitäquivalent in Buchstabe a ein voller
+        vertragsärztlicher Versorgungsauftrag entspricht; die in den
+        Buchstaben b bis d festgelegten Kriterien gelten entsprechend und
+
+
+    f)  der zeitliche Umfang an Krankenhausstandorten, an denen keine
+        vollstationäre Krankenhausbehandlung erbracht wird, nur während deren
+        jeweiligen Betriebszeiten erfüllt sein muss und
 
 
 
 
 
-8.  dass Krankenhäuser ein Qualitätskriterium in Kooperationen und
+7.  dass Krankenhäuser ein Qualitätskriterium in Kooperationen und
     Verbünden insbesondere mit anderen Krankenhäusern oder
     Leistungserbringern der vertragsärztlichen Versorgung erfüllen können,
     wenn eine schriftliche Kooperationsvereinbarung vorliegt und
 
     a)  die Erfüllung in Kooperation in dem jeweiligen Qualitätskriterium
-        vorgesehen ist oder
+        vorgesehen ist,
 
 
     b)  dies zur Sicherstellung einer flächendeckenden Versorgung zwingend
-        erforderlich ist; § 6a Absatz 4 Satz 2 und 3 des
-        Krankenhausfinanzierungsgesetzes gilt entsprechend.
+        erforderlich ist oder
+
+
+    c)  sich der Kooperationspartner in einem Gebäude des jeweiligen
+        Krankenhausstandortes befindet oder der Abstand zwischen den am
+        weitesten voneinander entfernt liegenden Gebäudepunkten des jeweiligen
+        Krankenhausstandortes und des Kooperationspartners nicht mehr als
+        2 000 Meter Luftlinie beträgt.
 
 
 
 
 
 
-Abweichend von Satz 2 Nummer 8 Buchstabe b gilt in Bezug auf die
-Erfüllung der in Anlage 1 als Mindestvoraussetzungen genannten
-Qualitätskriterien im Anforderungsbereich „Erbringung verwandter
-Leistungsgruppen“, dass Fachkrankenhäuser, die von der für die
-Krankenhausplanung zuständigen Landesbehörde gemäß § 135d Absatz 4
-Satz 3 der Versorgungsstufe „Level F“ zugeordnet wurden, diese
-Qualitätskriterien in Kooperationen und Verbünden insbesondere mit
+Abweichend von Satz 1 Nummer 7 können die in Anlage 1 als
+Mindestvoraussetzungen genannten Qualitätskriterien in den folgenden
+Anforderungsbereichen in Kooperationen und Verbünden insbesondere mit
 anderen Krankenhäusern oder Leistungserbringern der vertragsärztlichen
-Versorgung erfüllen können, wenn eine schriftliche
-Kooperationsvereinbarung vorliegt. Ein Krankenhausstandort kann in
-begründeten Fällen die in den Anforderungsbereichen „Erbringung
+Versorgung durch folgende Krankenhausstandorte erfüllt werden:
+
+1.  in den Anforderungsbereichen „Erbringung verwandter Leistungsgruppen“
+    und „Sachliche Ausstattung“ durch Standorte mit einer Zuordnung zur
+    Versorgungsstufe „Level F“ durch die zuständige Landesbehörde nach §
+    135d Absatz 4a Satz 3 oder Satz 4 oder
+
+
+2.  in den Anforderungsbereichen „Erbringung verwandter Leistungsgruppen“
+    und „Personelle Ausstattung“ durch Krankenhausstandorte, an denen
+    keine vollstationäre Krankenhausbehandlung erbracht wird.
+
+
+
+Abweichend von Satz 1 Nummer 7 kann in begründeten Fällen ein
+Krankenhausstandort die in den Anforderungsbereichen „Erbringung
 verwandter Leistungsgruppen“ und „Personelle Ausstattung“ maßgeblichen
 Qualitätskriterien der in Anlage 1 Nummer 54 genannten Leistungsgruppe
 „Stroke Unit“ in telemedizinischer Kooperation mit einem anderen
-Krankenhaus erfüllen. Bei der in der Anlage 1 genannten
-Leistungsgruppe 65 „Notfallmedizin“ ist im Anforderungsbereich
-„Personelle Ausstattung“ ein Facharzt mit einer Facharztbezeichnung
-„Notfallmedizin“ als gleichwertig zu einem Facharzt in einem Gebiet
-der unmittelbaren Patientenversorgung mit der Zusatzweiterbildung
-„Klinische Akut- und Notfallmedizin“ anzusehen.
+Krankenhaus erfüllen. Eine Kooperationsvereinbarung muss auch bei
+einer Abweichung von Satz 1 Nummer 7 schriftlich vorliegen. Eine
+Kooperationsvereinbarung nach Satz 1 Nummer 7 oder den Sätzen 2 bis 4
+hat Angaben zu den Parteien der Kooperationsvereinbarung und deren
+Eignung, zu Ort, Inhalt und Dauer der Kooperation sowie zur zeitlichen
+Verfügbarkeit von sachlicher und personeller Ausstattung zu enthalten.
 
 
 #### § 135f Mindestvorhaltezahlen für die Krankenhausbehandlung, Verordnungsermächtigung
@@ -25816,7 +25881,7 @@ Krankenhäuser der Träger der gesetzlichen Unfallversicherung und ihrer
 Vereinigungen sind die Sätze 1 bis 4 mit der Maßgabe anzuwenden, dass
 als Behandlungsfälle auch jene Behandlungsfälle zu berücksichtigen
 sind, für deren Leistungen die Krankenhäuser Daten nach § 135d Absatz
-3 Satz 6 übermittelt haben.
+3 Satz 4 übermittelt haben.
 
 (2) Das Bundesministerium für Gesundheit beauftragt das Institut für
 Qualität und Wirtschaftlichkeit im Gesundheitswesen in regelmäßigen
@@ -25828,26 +25893,25 @@ erarbeiten. Die Empfehlungen sollen in Form der Angabe eines
 Perzentils der Zahl aller Behandlungsfälle eines Kalenderjahres, in
 denen Leistungen aus der jeweiligen Leistungsgruppe erbracht wurden,
 erfolgen. Dabei hat das Institut für Qualität und Wirtschaftlichkeit
-im Gesundheitswesen auch die im Transparenzverzeichnis nach § 135d
-Absatz 3 Satz 1 veröffentlichten Bewertungen des Instituts für
-Qualitätssicherung und Transparenz im Gesundheitswesen zu
-berücksichtigen. Das Institut für Qualität und Wirtschaftlichkeit im
-Gesundheitswesen legt die jeweilige Empfehlung innerhalb von drei
-Monaten nach Erteilung des jeweiligen Auftrags dem Bundesministerium
-für Gesundheit sowie dem Institut für das Entgeltsystem im Krankenhaus
-vor. Bevor das Institut für Qualität und Wirtschaftlichkeit im
-Gesundheitswesen wissenschaftliche Empfehlungen nach Satz 1
-erarbeitet, entwickelt und veröffentlicht es eine allgemeine Methodik
-zur Erarbeitung solcher Empfehlungen. Vor der Entwicklung der
-allgemeinen Methodik ist Sachverständigen der medizinischen und
-gesundheitsökonomischen Wissenschaft und Praxis sowie den für die
-Wahrnehmung der Interessen der Patientinnen und Patienten und der
-Selbsthilfe chronisch Kranker und behinderter Menschen maßgeblichen
-Organisationen Gelegenheit zur Stellungnahme zu geben. Die
-Stellungnahmen sind in die Entwicklung der allgemeinen Methodik
-einzubeziehen. Für die Finanzierung der Aufgaben des Instituts für
-Qualität und Wirtschaftlichkeit im Gesundheitswesen nach diesem Absatz
-gilt § 139c.
+im Gesundheitswesen auch die im Transparenzverzeichnis nach § 135d
+Absatz 1 Satz 1 veröffentlichten Bewertungen der nach § 135d Absatz 2
+Satz 1 beauftragten Stelle zu berücksichtigen. Das Institut für
+Qualität und Wirtschaftlichkeit im Gesundheitswesen legt die jeweilige
+Empfehlung innerhalb von drei Monaten nach Erteilung des jeweiligen
+Auftrags dem Bundesministerium für Gesundheit sowie dem Institut für
+das Entgeltsystem im Krankenhaus vor. Bevor das Institut für Qualität
+und Wirtschaftlichkeit im Gesundheitswesen wissenschaftliche
+Empfehlungen nach Satz 1 erarbeitet, entwickelt und veröffentlicht es
+eine allgemeine Methodik zur Erarbeitung solcher Empfehlungen. Vor der
+Entwicklung der allgemeinen Methodik ist Sachverständigen der
+medizinischen und gesundheitsökonomischen Wissenschaft und Praxis
+sowie den für die Wahrnehmung der Interessen der Patientinnen und
+Patienten und der Selbsthilfe chronisch Kranker und behinderter
+Menschen maßgeblichen Organisationen Gelegenheit zur Stellungnahme zu
+geben. Die Stellungnahmen sind in die Entwicklung der allgemeinen
+Methodik einzubeziehen. Für die Finanzierung der Aufgaben des
+Instituts für Qualität und Wirtschaftlichkeit im Gesundheitswesen nach
+diesem Absatz gilt § 139c.
 
 (3) Das Institut für das Entgeltsystem im Krankenhaus erstellt anhand
 der nach § 21 Absatz 1 und 2 Nummer 2 des Krankenhausentgeltgesetzes
@@ -25897,7 +25961,8 @@ insbesondere zu beachten:
 
 
 Die Rechtsverordnung nach Satz 1 ist erstmals bis zum 12. Dezember
-2025 mit Wirkung ab dem 1. Januar 2027 zu erlassen. Das
+2026 zu erlassen; ihr Inkrafttreten ist frühestens ein Jahr und
+spätestens drei Jahre nach ihrer Verkündung vorzusehen. Das
 Bundesministerium für Gesundheit überprüft die Festlegungen nach Satz
 1 regelmäßig.
 
@@ -26121,14 +26186,27 @@ Bundesministerium für Gesundheit alle zwei Jahre, erstmals bis zum 31.
 Dezember 2024, zu berichten. Mit der Evaluation nach Satz 6 kann der
 Gemeinsame Bundesausschuss das Institut nach § 137a beauftragen.
 
-(7) Der Gemeinsame Bundesausschuss legt bis zum 30. Juni 2025 in
-seinen Richtlinien nach § 136 Absatz 1 geeignete sektorbezogene
-Maßnahmen zur Sicherung der Qualität der Versorgung in Kreißsälen
-fest, die von einem Krankenhaus betrieben und von einer in dem
-Krankenhaus angestellten Hebamme geleitet werden. Die für die
+(7) Der Gemeinsame Bundesausschuss legt bis zum 30. Juni 2025 in einer
+Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 13 geeignete
+sektorbezogene Maßnahmen zur Sicherung der Qualität der Versorgung in
+Kreißsälen fest, die von einem Krankenhaus betrieben und von einer in
+dem Krankenhaus angestellten Hebamme geleitet werden. Die für die
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
 Berufsverbände der Hebammen und die Verbände der von Hebammen
-geleiteten Einrichtungen auf Bundesebene sind zu beteiligen.
+geleiteten Einrichtungen auf Bundesebene sind zu beteiligen. § 136
+Absatz 3 gilt entsprechend.
+
+(8) Der Gemeinsame Bundesausschuss legt in einer Richtlinie nach § 92
+Absatz 1 Satz 2 Nummer 13 geeignete Maßnahmen zur Sicherung der
+Qualität der Versorgung in Krankenhäusern bei der Erkennung und
+Behandlung von Patienten mit Mangelernährung fest. In der Richtlinie
+bestimmt er insbesondere die Anforderungen für eine systematische
+Erkennung betroffener Patienten bei der Aufnahme in eine stationäre
+Behandlung, die Anforderungen an das für die Erkennung und Behandlung
+der Mangelernährung vorzuhaltende Personal sowie die Vorgaben für eine
+wirksame Planung und Durchführung der Behandlung. Der Gemeinsame
+Bundesausschuss hat die Festlegungen erstmals bis zum 31. Dezember
+2027 zu treffen. § 136 Absatz 3 gilt entsprechend.
 
 
 #### § 136b Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung im Krankenhaus
@@ -26350,9 +26428,52 @@ Informationen.
 (9) (weggefallen)
 
 
-#### § 136c Beschlüsse des Gemeinsamen Bundesausschusses zu Qualitätssicherung und Krankenhausplanung
+#### § 136c Beschlüsse des Gemeinsamen Bundesausschusses zur Erbringung onkochirurgischer Leistungen und zu Vorgaben bei Zuschlägen im Krankenhaus
 
-(1) (weggefallen)
+(1) Der Gemeinsame Bundesausschuss kann für einen nach § 40 Absatz 1
+Satz 3 des Krankenhausfinanzierungsgesetzes definierten
+Indikationsbereich einen Anteil von weniger als 15 Prozent an der
+Anzahl der Fälle aller Einträge in der jeweiligen nach § 40 Absatz 2
+Satz 1 des Krankenhausfinanzierungsgesetzes erstellten und sortierten
+Aufstellung von Krankenhausstandorten festlegen, bis zu dem das
+Institut für das Entgeltsystem im Krankenhaus nach § 40 Absatz 2 Satz
+2 Nummer 2 des Krankenhausfinanzierungsgesetzes die Einträge aus der
+jeweiligen Aufstellung auszuwählen hat, sofern dies zur
+Aufrechterhaltung einer patienten- und bedarfsgerechten
+flächendeckenden stationären Versorgung der Bevölkerung mit
+onkochirurgischen Leistungen zwingend erforderlich ist. Der Gemeinsame
+Bundesausschuss hat bei der für eine Beschlussfassung erforderlichen
+Zuordnung von Fällen zu den nach § 40 Absatz 1 Satz 3 des
+Krankenhausfinanzierungsgesetzes definierten Indikationsbereichen eine
+nach § 40 Absatz 1 Satz 6 des Krankenhausfinanzierungsgesetzes
+zertifizierte Datenverarbeitungslösung zu verwenden. Der Verband der
+Privaten Krankenversicherung, die Bundesärztekammer sowie die
+Berufsorganisationen der Pflegeberufe sind zu beteiligen; die
+Bundespsychotherapeutenkammer und die Bundeszahnärztekammer sind,
+soweit jeweils die Berufsausübung der Psychotherapeuten oder der
+Zahnärzte berührt ist, zu beteiligen. Dem Institut für das
+Entgeltsystem im Krankenhaus und den einschlägigen wissenschaftlichen
+Fachgesellschaften ist Gelegenheit zur Stellungnahme zu geben. Die
+Stellungnahmen sind in die Entscheidung einzubeziehen. Der Gemeinsame
+Bundesausschuss führt vor der Beschlussfassung eine Folgenabschätzung
+zu den Auswirkungen eines nach Satz 1 festgelegten Anteils von weniger
+als 15 Prozent auf die Krankenhausstandorte und auf die patienten- und
+bedarfsgerechte flächendeckende stationäre Versorgung der Bevölkerung
+mit onkochirurgischen Leistungen durch und bezieht deren Ergebnisse in
+die Entscheidung ein. Das Institut für das Entgeltsystem im
+Krankenhaus wertet von den an die von ihm geführte Datenstelle nach §
+21 Absatz 1 des Krankenhausentgeltgesetzes übermittelten Daten die in
+§ 21 Absatz 2 Nummer 2 Buchstabe b bis f des
+Krankenhausentgeltgesetzes genannten Daten in der jeweils aktuellen
+Fassung aus, soweit dies nach Abstimmung mit dem Gemeinsamen
+Bundesausschuss für eine Beschlussfassung geeignet und notwendig ist
+und der Gemeinsame Bundesausschuss die Notwendigkeit glaubhaft
+dargelegt hat. Die Datenstelle übermittelt dem Institut für das
+Entgeltsystem im Krankenhaus die in Satz 7 genannten Daten für die
+Auswertungen nach Satz 7. Das Institut für das Entgeltsystem im
+Krankenhaus übermittelt dem Gemeinsamen Bundesausschuss die
+Auswertungen nach Satz 7. Der Gemeinsame Bundesausschuss hat die
+Auswertungen nach Satz 7 in die Entscheidung einzubeziehen.
 
 (2) (weggefallen)
 
@@ -26433,7 +26554,8 @@ medizinischen Fachgesellschaften ist Gelegenheit zur Stellungnahme zu
 geben. Die Stellungnahmen sind bei der Beschlussfassung zu
 berücksichtigen.
 
-(6) Für Beschlüsse nach den Absätzen 3 bis 5 gilt § 94 entsprechend.
+(6) Für Beschlüsse nach den Absätzen 1 und 3 bis 5 gilt § 94
+entsprechend.
 
 
 #### § 136d Evaluation und Weiterentwicklung der Qualitätssicherung durch den Gemeinsamen Bundesausschuss
@@ -26453,7 +26575,7 @@ Qualitätssicherung.
 
 (1) Der Gemeinsame Bundesausschuss hat zur Förderung der Qualität ein
 gestuftes System von Folgen der Nichteinhaltung von
-Qualitätsanforderungen nach den §§ 136 bis 136c festzulegen. Er ist
+Qualitätsanforderungen nach den §§ 136 bis 136b festzulegen. Er ist
 ermächtigt, neben Maßnahmen zur Beratung und Unterstützung bei der
 Qualitätsverbesserung je nach Art und Schwere von Verstößen gegen
 wesentliche Qualitätsanforderungen angemessene Durchsetzungsmaßnahmen
@@ -26495,7 +26617,7 @@ unverschuldet ist.
 
 (3) Der Gemeinsame Bundesausschuss regelt in einer Richtlinie die
 Einzelheiten zu den Prüfungen des Medizinischen Dienstes nach § 275a
-Absatz 1 Satz 1 Nummer 3 und 4, die erforderlich sind
+Absatz 1 Satz 1 Nummer 3 bis 5, die erforderlich sind
 
 1.  aufgrund begründeter Anhaltspunkte,
 
@@ -26529,7 +26651,7 @@ Verstöße gegen Qualitätsanforderungen unverzüglich einrichtungsbezogen
 an Dritte, insbesondere an jeweils zuständige Behörden der Länder zu
 übermitteln hat. Die Festlegungen des Gemeinsamen Bundesausschusses
 nach den Sätzen 1 und 2 sollen eine möglichst aufwandsarme
-Durchführung der Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 3 und 4
+Durchführung der Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 3 bis 5
 sowie eine Vereinheitlichung der Prüfungen des Medizinischen Dienstes
 nach § 275a Absatz 1 Satz 1 unterstützen.
 
@@ -27461,16 +27583,17 @@ Krankenhäuser im Sinne des § 108 bis zum 31. August des jeweils selben
 Jahres mit Wirkung für das Folgejahr im Benehmen mit dem Verband der
 Privaten Krankenversicherung vereinbaren. Für jeden pflegesensitiven
 Bereich im Krankenhaus sind die Pflegepersonaluntergrenzen nach den
-Sätzen 1 und 2 differenziert nach Schweregradgruppen nach dem
+Sätzen 1 und 2 festzulegen; dabei soll in Abhängigkeit von dem
 jeweiligen Pflegeaufwand, der sich nach dem vom Institut für das
 Entgeltsystem im Krankenhaus entwickelten Katalog zur
-Risikoadjustierung für Pflegeaufwand bestimmt, festzulegen. Das
-Institut für das Entgeltsystem im Krankenhaus hat den Katalog zur
-Risikoadjustierung für Pflegeaufwand zum Zweck der Weiterentwicklung
-und Differenzierung der Pflegepersonaluntergrenzen in pflegesensitiven
-Bereichen in Krankenhäusern jährlich zu aktualisieren. Für die
-Ermittlung der Pflegepersonaluntergrenzen sind alle Patientinnen und
-Patienten gleichermaßen zu berücksichtigen. Die Mindestvorgaben zur
+Risikoadjustierung für den Pflegeaufwand bestimmt, nach
+Schweregradgruppen differenziert werden. Das Institut für das
+Entgeltsystem im Krankenhaus hat den Katalog zur Risikoadjustierung
+für Pflegeaufwand zum Zweck der Weiterentwicklung und Differenzierung
+der Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in
+Krankenhäusern jährlich zu aktualisieren. Für die Ermittlung der
+Pflegepersonaluntergrenzen sind alle Patientinnen und Patienten
+gleichermaßen zu berücksichtigen. Die Mindestvorgaben zur
 Personalausstattung nach § 136 Absatz 1 Satz 1 Nummer 2 und § 136a
 Absatz 2 Satz 2 und Absatz 5 bleiben unberührt. In den
 pflegesensitiven Bereichen sind die dazugehörigen Intensiveinheiten,
@@ -33332,12 +33455,14 @@ beteiligen.
 
 (1) Die Mittel der Krankenversicherung werden durch Beiträge und
 sonstige Einnahmen aufgebracht; als Beiträge gelten auch
-Zusatzbeiträge nach § 242. Darlehensaufnahmen sind nicht zulässig. Die
-Aufsichtsbehörde kann im Einzelfall Darlehensaufnahmen bei
-Kreditinstituten zur Finanzierung des Erwerbs von Grundstücken für
-Eigeneinrichtungen nach § 140 sowie der Errichtung, der Erweiterung
-oder des Umbaus von Gebäuden für Eigeneinrichtungen nach § 140
-genehmigen.
+Zusatzbeiträge nach § 242. Darlehensaufnahmen sind nicht zulässig.
+Abweichend von Satz 2 ist die Aufnahme von Darlehen bei
+Kreditinstituten zur Finanzierung des Erwerbs von Grundstücken und
+grundstücksgleichen Rechten für Eigeneinrichtungen nach § 140 sowie
+zur Finanzierung der Errichtung, der Erweiterung oder des Umbaus von
+Gebäuden für Eigeneinrichtungen nach § 140 zulässig. Eine
+Darlehensaufnahme nach Satz 3 bedarf der Genehmigung der
+Aufsichtsbehörde.
 
 (2) Der beim Bundesamt für Soziale Sicherung gebildete Schätzerkreis
 schätzt jedes Jahr bis zum 15. Oktober für das jeweilige Jahr und für
@@ -33420,36 +33545,29 @@ Versicherten aller Krankenkassen; maßgebend sind die Verhältnisse am
 (3) Der Überweisungsbetrag nach Absatz 2 Satz 1 reduziert sich
 
 1.  um den auf die landwirtschaftliche Krankenkasse entfallenden Anteil an
-    der Finanzierung des Innovationsfonds nach § 92a Absatz 3 und 4,
+    der Finanzierung des Innovationsfonds nach § 92a Absatz 3 und 4 und
 
 
 2.  ab dem Jahr 2016 um den auf die landwirtschaftliche Krankenkasse
     entfallenden Anteil an der Finanzierung des Strukturfonds nach den §§
-    12 und 12a des Krankenhausfinanzierungsgesetzes und
-
-
-3.  in den Jahren 2026 bis 2035 um den auf die landwirtschaftliche
-    Krankenkasse entfallenden Anteil an der Finanzierung des
-    Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes.
+    12 und 12a des Krankenhausfinanzierungsgesetzes.
 
 
 
 Absatz 2 Satz 2 gilt entsprechend. Der in Satz 1 Nummer 1 genannte
-Anteil wird dem Innovationsfonds, der in Satz 1 Nummer 2 genannte
-Anteil dem Strukturfonds und der in Satz 1 Nummer 3 genannte Anteil
-dem Transformationsfonds zugeführt. Die auf die landwirtschaftliche
+Anteil wird dem Innovationsfonds und der in Satz 1 Nummer 2 genannte
+Anteil dem Strukturfonds zugeführt. Die auf die landwirtschaftliche
 Krankenkasse entfallenden in Satz 1 genannten Anteile an der
-Finanzierung des Innovationsfonds nach § 92a, des Strukturfonds nach
-den §§ 12 und 12a des Krankenhausfinanzierungsgesetzes und des
-Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes
-werden nach Vorliegen der Geschäfts- und Rechnungsergebnisse des
-Gesundheitsfonds für das abgelaufene Kalenderjahr festgesetzt und mit
-der landwirtschaftlichen Krankenkasse abgerechnet. Solange ein Anteil
-nach Satz 4 noch nicht feststeht, kann das Bundesamt für Soziale
-Sicherung einen vorläufigen Betrag festsetzen. Das Nähere zur
-Festsetzung des Betrags und zur Abrechnung mit der
-landwirtschaftlichen Krankenkasse bestimmt das Bundesamt für Soziale
-Sicherung.
+Finanzierung des Innovationsfonds nach § 92a dieses Buches und des
+Strukturfonds nach den §§ 12 und 12a des
+Krankenhausfinanzierungsgesetzes werden nach Vorliegen der Geschäfts-
+und Rechnungsergebnisse des Gesundheitsfonds für das abgelaufene
+Kalenderjahr festgesetzt und mit der landwirtschaftlichen Krankenkasse
+abgerechnet. Solange ein Anteil nach Satz 4 noch nicht feststeht, kann
+das Bundesamt für Soziale Sicherung einen vorläufigen Betrag
+festsetzen. Das Nähere zur Festsetzung des Betrags und zur Abrechnung
+mit der landwirtschaftlichen Krankenkasse bestimmt das Bundesamt für
+Soziale Sicherung.
 
 
 ##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds
@@ -33482,23 +33600,44 @@ Krankenkasse von den ihm nach Absatz 1 zufließenden Leistungen
 (3) Unterschreiten die Aufwendungen der Krankenkassen nach § 8 Absatz
 11 Satz 1 des Krankenhausentgeltgesetzes und nach § 8 Absatz 7 Satz 1
 der Bundespflegesatzverordnung abzüglich der entsprechenden
-Aufwendungen der Landwirtschaftlichen Krankenkasse die Summe der nach
+Aufwendungen der landwirtschaftlichen Krankenkasse die Summe der nach
 Absatz 1 geleisteten ergänzenden Bundeszuschüsse abzüglich der Summe
-der an die Landwirtschaftliche Krankenkasse nach Absatz 2 gezahlten
+der an die landwirtschaftliche Krankenkasse nach Absatz 2 gezahlten
 Beträge, wird der Differenzbetrag dem Transformationsfonds nach § 12b
 des Krankenhausfinanzierungsgesetzes aus der Liquiditätsreserve des
-Gesundheitsfonds im Jahr 2028 zugeführt.
+Gesundheitsfonds im Jahr 2028 zugeführt. Zur Ermittlung des nach Satz
+1 dem Transformationsfonds nach § 12b des
+Krankenhausfinanzierungsgesetzes aus der Liquiditätsreserve des
+Gesundheitsfonds im Jahr 2028 zuzuführenden Differenzbetrages
+übermittelt der Spitzenverband Bund der Krankenkassen bis zum Ablauf
+des 30. Juni 2028 an das Bundesamt für Soziale Sicherung die Summe der
+Aufwendungen, die die Krankenkassen für die von den Krankenhäusern
+nach § 8 Absatz 11 Satz 1 des Krankenhausentgeltgesetzes und nach § 8
+Absatz 7 Satz 1 der Bundespflegesatzverordnung berechneten Zuschläge
+bis zum Ablauf des 31. Dezember 2027 geleistet haben, abzüglich der
+von der landwirtschaftlichen Krankenkasse für diese Zuschläge bis zum
+Ablauf des 31. Dezember 2027 geleisteten Aufwendungen.
 
-(4) Unterschreiten die Aufwendungen der Landwirtschaftlichen
+(4) Unterschreiten die Aufwendungen der landwirtschaftlichen
 Krankenkasse nach § 8 Absatz 11 Satz 1 des Krankenhausentgeltgesetzes
 und nach § 8 Absatz 7 Satz 1 der Bundespflegesatzverordnung die Summe
-der nach Absatz 2 an die Landwirtschaftliche Krankenkasse gezahlten
-Beträge, wird der Differenzbetrag von der Landwirtschaftlichen
-Krankenkasse nach Vorliegen der Jahresrechnungsergebnisse für das Jahr
-2026 an die Liquiditätsreserve des Gesundheitsfonds geleistet und im
+der nach Absatz 2 an die landwirtschaftliche Krankenkasse gezahlten
+Beträge, wird der Differenzbetrag von der landwirtschaftlichen
+Krankenkasse bis spätestens zum Ablauf des 15. Juli 2028 an die
+Liquiditätsreserve des Gesundheitsfonds geleistet und im Jahr 2028 aus
+der Liquiditätsreserve des Gesundheitsfonds dem Transformationsfonds
+nach § 12b des Krankenhausfinanzierungsgesetzes zugeführt. Zur
+Ermittlung des nach Satz 1 von der landwirtschaftlichen Krankenkasse
+an die Liquiditätsreserve des Gesundheitsfonds zu leistenden und im
 Jahr 2028 aus der Liquiditätsreserve des Gesundheitsfonds dem
 Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes
-zugeführt.
+zuzuführenden Differenzbetrages übermittelt die landwirtschaftliche
+Krankenkasse bis zum Ablauf des 30. Juni 2028 an das Bundesamt für
+Soziale Sicherung die Summe der Aufwendungen, die sie für die von den
+Krankenhäusern nach § 8 Absatz 11 Satz 1 des
+Krankenhausentgeltgesetzes und nach § 8 Absatz 7 Satz 1 der
+Bundespflegesatzverordnung berechneten Zuschläge bis zum Ablauf des
+31\. Dezember 2027 geleistet hat.
 
 
 ##### § 221b (weggefallen)
@@ -35787,24 +35926,30 @@ in den Einnahmen, nicht berücksichtigte Einnahmeausfälle in den nach §
 des Gesundheitsfonds und die erforderlichen Aufwendungen für die
 Durchführung des Einkommensausgleichs nach § 270a zu decken. Die Höhe
 der Liquiditätsreserve muss nach Ablauf eines Geschäftsjahres
-mindestens 20 Prozent der durchschnittlich auf den Monat entfallenden
-Ausgaben des Gesundheitsfonds auf Grundlage der für die Festlegung des
-durchschnittlichen Zusatzbeitragssatzes nach § 242a maßgeblichen Werte
-für dieses Geschäftsjahr betragen. Sie darf nach Ablauf eines
-Geschäftsjahres einen Betrag von 25 Prozent der durchschnittlich auf
-den Monat entfallenden Ausgaben des Gesundheitsfonds auf Grundlage der
-für die Festlegung des durchschnittlichen Zusatzbeitragssatzes nach §
-242a maßgeblichen Werte für dieses Geschäftsjahr nicht überschreiten.
-Abweichend von Satz 4 darf die Höhe der Liquiditätsreserve nach Ablauf
-der Geschäftsjahre 2025 bis 2034 einen Betrag von 50 Prozent der
-durchschnittlich auf den Monat entfallenden Ausgaben des
-Gesundheitsfonds auf Grundlage der für die Festlegung des
-durchschnittlichen Zusatzbeitragssatzes nach § 242a maßgeblichen Werte
-für dieses Geschäftsjahr nicht überschreiten. Überschreitet die
-erwartete Höhe der Liquiditätsreserve abzüglich der gesetzlich
-vorgesehenen Entnahmen aus der Liquiditätsreserve für das Folgejahr
-den Betrag nach Satz 4 oder Satz 5, sind die überschüssigen Mittel in
-die Einnahmen des Gesundheitsfonds im Folgejahr zu überführen.
+mindestens 22,5 Prozent der Summe der durchschnittlich auf den Monat
+entfallenden Ausgaben des Gesundheitsfonds auf Grundlage der für die
+Festlegung des durchschnittlichen Zusatzbeitragssatzes nach § 242a
+maßgeblichen Werte für dieses Geschäftsjahr und der für dieses
+Geschäftsjahr erforderlichen Aufwendungen für die Durchführung des
+Einkommensausgleichs nach § 270a betragen. Die Höhe der
+Liquiditätsreserve darf nach Ablauf eines Geschäftsjahres einen Betrag
+von 30 Prozent der Summe der durchschnittlich auf den Monat
+entfallenden Ausgaben des Gesundheitsfonds auf Grundlage der für die
+Festlegung des durchschnittlichen Zusatzbeitragssatzes nach § 242a
+maßgeblichen Werte für dieses Geschäftsjahr und der für dieses
+Geschäftsjahr erforderlichen Aufwendungen für die Durchführung des
+Einkommensausgleichs nach § 270a nicht überschreiten. Abweichend von
+den Sätzen 3 und 4 muss die Höhe der Liquiditätsreserve nach Ablauf
+des Geschäftsjahres 2026 mindestens 22,5 Prozent der durchschnittlich
+auf den Monat entfallenden Ausgaben des Gesundheitsfonds auf Grundlage
+der für die Festlegung des durchschnittlichen Zusatzbeitragssatzes
+nach § 242a maßgeblichen Werte für das Geschäftsjahr 2026 betragen und
+darf einen Betrag von 30 Prozent dieser Ausgaben nicht überschreiten.
+Überschreitet die erwartete Höhe der Liquiditätsreserve abzüglich der
+gesetzlich vorgesehenen Entnahmen aus der Liquiditätsreserve für das
+Folgejahr den Betrag nach den Sätzen 4 oder 5, sind die überschüssigen
+Mittel in die Einnahmen des Gesundheitsfonds im Folgejahr zu
+überführen.
 
 (2a) Bei Schließung oder Insolvenz einer Krankenkasse kann das
 Bundesamt für Soziale Sicherung einer leistungsaushelfenden
@@ -35863,26 +36008,7 @@ abzüglich des Anteils der landwirtschaftlichen Krankenkasse nach § 221
 Absatz 3 Satz 1 Nummer 2, Satz 2 in Verbindung mit Absatz 2 Satz 2
 sowie Absatz 3 Satz 4 und 5 zugeführt, soweit die Fördermittel von den
 Ländern nach Maßgabe der §§ 12, 12a und 13 des
-Krankenhausfinanzierungsgesetzes abgerufen werden. Zur Finanzierung
-der Fördermittel nach § 12b des Krankenhausfinanzierungsgesetzes
-werden dem Transformationsfonds in den Jahren 2026 bis 2035 aus der
-Liquiditätsreserve des Gesundheitsfonds jährlich Finanzmittel in der
-Höhe zugeführt, in der diese Fördermittel im jeweiligen Jahr den
-Ländern zugeteilt werden, höchstens jedoch in der Höhe des
-Höchstbetrags nach Satz 3 für das jeweilige Kalenderjahr. Der
-Höchstbetrag für ein Kalenderjahr ergibt sich aus der Summe eines
-Betrags in Höhe von 2,5 Milliarden Euro und des jeweiligen
-Mittelübertrags nach Satz 4 für dieses Kalenderjahr, jeweils abzüglich
-des Anteils der landwirtschaftlichen Krankenkasse nach § 221 Absatz 3
-Satz 1 Nummer 3, Satz 2 in Verbindung mit Absatz 2 Satz 2 sowie Absatz
-3 Satz 4 und 5. Der Mittelübertrag für ein Kalenderjahr ist derjenige
-Betrag, um den der Höchstbetrag nach Satz 3 für das vorangegangene
-Kalenderjahr den Betrag der den Ländern im vorangegangenen
-Kalenderjahr zugeteilten Fördermittel übersteigt; für das Kalenderjahr
-2026 ist der Mittelübertrag der nach § 12a Absatz 2 Satz 4 des
-Krankenhausfinanzierungsgesetzes für eine Förderung von Vorhaben nach
-§ 12b des Krankenhausfinanzierungsgesetzes zur Verfügung stehende
-Betrag.
+Krankenhausfinanzierungsgesetzes abgerufen werden.
 
 (7) Die dem Bundesamt für Soziale Sicherung bei der Verwaltung des
 Fonds entstehenden Ausgaben einschließlich der Ausgaben für die
@@ -36534,7 +36660,7 @@ und des Sachverhalts, das Ergebnis der Begutachtung und die
 wesentlichen Gründe für dieses Ergebnis umfassen.
 
 
-#### § 275a Prüfungen zu Qualitätskriterien, Strukturmerkmalen und Qualitätsanforderungen in Krankenhäusern
+#### § 275a Prüfungen zu Qualitätskriterien, Strukturmerkmalen, Qualitätsanforderungen und Vorgaben bei Zuschlägen im Krankenhaus
 
 (1) Der Medizinische Dienst führt in den zugelassenen Krankenhäusern
 bezogen auf einen Standort Prüfungen durch zur Erfüllung
@@ -36548,14 +36674,17 @@ bezogen auf einen Standort Prüfungen durch zur Erfüllung
     werden,
 
 
-3.  der Qualitätsanforderungen nach den §§ 135b und 136 bis 136c
+3.  der Qualitätsanforderungen nach den §§ 135b und 136 bis 136b
     einschließlich der Prüfung der Richtigkeit der von den Krankenhäusern
     im Rahmen der externen stationären Qualitätssicherung vorzunehmenden
-    Dokumentation und
+    Dokumentation,
 
 
 4.  der von den Ländern landesrechtlich vorgesehenen
-    Qualitätsanforderungen.
+    Qualitätsanforderungen und
+
+
+5.  der nach § 136c Absatz 3 bis 5 beschlossenen Vorgaben.
 
 
 
@@ -36563,13 +36692,13 @@ Die Prüfungen sind aufwandsarm zu gestalten. Sie erfolgen im
 schriftlichen Verfahren, als Prüfungen vor Ort oder zum Teil im
 schriftlichen Verfahren und zum Teil als Prüfung vor Ort auf Grundlage
 vorliegender Daten, Nachweise, Unterlagen und Auskünfte der
-Krankenhäuser. Prüfungen vor Ort erfolgen angemeldet. Bei Prüfungen zu
-der Erfüllung der in Satz 1 Nummer 1, 3 und 4 genannten
-Qualitätskriterien und Qualitätsanforderungen sind abweichend von Satz
-4 Prüfungen vor Ort ohne Anmeldung zulässig, wenn Tatsachen mit
-hinreichender Wahrscheinlichkeit erwarten lassen, dass eine Prüfung
-nach Anmeldung den Erfolg der Prüfung gefährden würde. Der
-Medizinische Dienst führt die Prüfungen nach Satz 1 soweit möglich
+Krankenhäuser. Prüfungen vor Ort erfolgen angemeldet. Bei Prüfungen
+zur Erfüllung der in Satz 1 Nummer 1 und 3 bis 5 genannten
+Qualitätskriterien, Qualitätsanforderungen und Vorgaben sind
+abweichend von Satz 4 Prüfungen vor Ort ohne Anmeldung zulässig, wenn
+Tatsachen mit hinreichender Wahrscheinlichkeit erwarten lassen, dass
+eine Prüfung nach Anmeldung den Erfolg der Prüfung gefährden würde.
+Der Medizinische Dienst führt die Prüfungen nach Satz 1 soweit möglich
 einheitlich und aufeinander abgestimmt durch und verwendet Nachweise
 und Erkenntnisse aus anderen Prüfungen nach Satz 1 oder aus anderen
 Prüfungen nach den §§ 275a und 275d in den bis zum 11. Dezember 2024
@@ -36623,13 +36752,12 @@ Unstimmigkeiten oder Unklarheiten im Gutachten hinzuweisen und diese
 mit dem Medizinischen Dienst anschließend innerhalb von zwei Wochen ab
 der Erteilung des Hinweises zu erörtern; sofern erforderlich, ist das
 Gutachten durch den Medizinischen Dienst unverzüglich entsprechend zu
-korrigieren. Prüfungen, die auf Grund von Satz 1 vor einer
-voraussichtlich vor dem 1. November 2026 erfolgenden Zuweisung oder
-auf Grund von Satz 2 vor einem voraussichtlich vor dem 1. November
-2026 erfolgenden Abschluss eines Versorgungsvertrags zu beauftragen
-sind, sind bis zum 30. September 2025 zu beauftragen. Der Medizinische
-Dienst hat die in Satz 7 genannten Prüfungen bis zum 30. Juni 2026
-abzuschließen.
+korrigieren. Prüfungen, die nach Satz 1 vor einer voraussichtlich vor
+dem 1. Januar 2027 erfolgenden Zuweisung oder nach Satz 2 vor einem
+voraussichtlich vor dem 1. Januar 2027 erfolgenden Abschluss eines
+Versorgungsvertrags zu beauftragen sind, sind bis zum 31. Dezember
+2025 zu beauftragen. Der Medizinische Dienst hat die in Satz 7
+genannten Prüfungen bis zum 31. Juli 2026 abzuschließen.
 
 (3) Die in Absatz 2 Satz 1 oder Satz 2 genannte beauftragende Stelle
 hat den Medizinischen Dienst mit Prüfungen zur Erfüllung der in Absatz
@@ -36655,15 +36783,14 @@ genannten Qualitätskriterien auf elektronischem Wege an
 2.  die Landesverbände der Krankenkassen und die Ersatzkassen,
 
 
-3.  das Institut für Qualitätssicherung und Transparenz im
-    Gesundheitswesen und
+3.  die nach § 135d Absatz 2 Satz 1 beauftragte Stelle und
 
 
 4.  das jeweils geprüfte Krankenhaus.
 
 
 
-Krankenhäuser, die an einem Krankenhausstandort ein nach § 135e Absatz
+Krankenhäuser, die an einem Krankenhausstandort ein nach § 135e Absatz
 2 Satz 2 maßgebliches Qualitätskriterium für eine nach § 6a Absatz 1
 Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesene
 Leistungsgruppe über einen Zeitraum von mehr als einem Monat nicht
@@ -36679,14 +36806,14 @@ erfüllen, haben dies unverzüglich auf elektronischem Wege mitzuteilen
 
 
 
-Der Medizinische Dienst informiert das Institut für Qualitätssicherung
-und Transparenz im Gesundheitswesen unverzüglich über eine ihm nach
-Satz 2 Nummer 3 mitgeteilte Nichterfüllung eines Qualitätskriteriums.
-Stellt der Medizinische Dienst fest, dass ein Krankenhaus seiner
+Der Medizinische Dienst informiert die nach § 135d Absatz 2 Satz 1
+beauftragte Stelle unverzüglich über eine ihm nach Satz 2 Nummer 3
+mitgeteilte Nichterfüllung eines Qualitätskriteriums. Stellt der
+Medizinische Dienst fest, dass ein Krankenhaus seiner
 Mitteilungspflicht nach Satz 2 nicht oder nicht rechtzeitig
 nachgekommen ist, so informiert er unverzüglich die in Satz 2 Nummer 1
-und 2 genannten Stellen sowie das Institut für Qualitätssicherung und
-Transparenz im Gesundheitswesen hierüber.
+und 2 genannten Stellen, die nach § 135d Absatz 2 Satz 1 beauftragte
+Stelle sowie den Verband der Privaten Krankenversicherung hierüber.
 
 (5) Krankenhäuser, die der Mitteilungspflicht nach Absatz 4 Satz 2
 nicht oder nicht rechtzeitig nachkommen, dürfen nach dem Beginn der
@@ -36700,10 +36827,10 @@ Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesen wurde oder für
 die die jeweilige Leistungsgruppe nach § 109 Absatz 1 Satz 1 in
 Verbindung mit Absatz 3a Satz 4 vereinbart wurde.
 
-(6) Krankenhäuser können den Medizinischen Dienst mit Prüfungen zu der
+(6) Krankenhäuser können beim Medizinischen Dienst Prüfungen zu der
 Erfüllung der in Absatz 1 Satz 1 Nummer 2 genannten Strukturmerkmale
-beauftragen. Der Medizinische Dienst stellt das Ergebnis der Prüfung
-zu der Erfüllung der in Absatz 1 Satz 1 Nummer 2 genannten
+beantragen. Der Medizinische Dienst stellt das Ergebnis der Prüfung zu
+der Erfüllung der in Absatz 1 Satz 1 Nummer 2 genannten
 Strukturmerkmale durch Bescheid fest. Der Medizinische Dienst
 übermittelt dem jeweiligen geprüften Krankenhaus zusätzlich in
 elektronischer Form ein Gutachten über die Prüfung und, wenn dieses
@@ -36712,8 +36839,10 @@ Bescheinigung über das Ergebnis der Prüfung, die auch Angaben darüber
 enthält, für welchen Zeitraum die jeweiligen Strukturmerkmale als
 erfüllt angesehen werden. Das geprüfte Krankenhaus hat die in Satz 3
 genannte Bescheinigung den Landesverbänden der Krankenkassen und den
-Ersatzkassen jeweils anlässlich der Vereinbarungen nach § 6c oder § 11
-des Krankenhausentgeltgesetzes oder nach § 11 der
+Ersatzkassen sowie dem Verband der Privaten Krankenversicherung
+jeweils anlässlich der Vereinbarungen nach § 6c des
+Krankenhausentgeltgesetzes oder nach § 11 des
+Krankenhausentgeltgesetzes oder nach § 11 der
 Bundespflegesatzverordnung auf elektronischem Wege zu übermitteln.
 Krankenhäuser, die ein Strukturmerkmal, dessen Erfüllung in einer in
 Satz 1 genannten Prüfung festgestellt wurde, über einen Zeitraum von
@@ -36723,24 +36852,26 @@ elektronischem Wege mitzuteilen
 1.  den Landesverbänden der Krankenkassen und den Ersatzkassen,
 
 
-2.  dem Landesausschuss des Verbandes der Privaten Krankenversicherung e.
-    V. und
+2.  dem Verband der Privaten Krankenversicherung und
 
 
 3.  dem zuständigen Medizinischen Dienst.
 
 
 
-Krankenhäuser dürfen Leistungen nicht vereinbaren und nicht abrechnen,
-soweit diese Leistungen in einem Zeitraum erbracht werden, für den
-diesen Krankenhäusern keine in Satz 3 genannte Bescheinigung über die
-Erfüllung der Strukturmerkmale übermittelt wurde, die nach § 301
-Absatz 2 in dem vom Bundesinstitut für Arzneimittel und
+Hebt der Medizinische Dienst den in Satz 2 genannten Bescheid oder die
+in Satz 3 genannte Bescheinigung auf, so informiert er unverzüglich
+die in Satz 4 genannten Stellen auf elektronischem Wege
+hierüber.Krankenhäuser dürfen Leistungen nicht vereinbaren und nicht
+abrechnen, soweit diese Leistungen in einem Zeitraum erbracht werden,
+für den diesen Krankenhäusern keine in Satz 3 genannte Bescheinigung
+über die Erfüllung der Strukturmerkmale übermittelt wurde, die nach §
+301 Absatz 2 in dem vom Bundesinstitut für Arzneimittel und
 Medizinprodukte herausgegebenen Operationen- und Prozedurenschlüssel
 für einen Kode festgelegt sind, der den jeweiligen Leistungen zugrunde
 liegt.
 
-(7) Krankenhäuser können abweichend von Absatz 6 Satz 6 bis zum
+(7) Krankenhäuser können abweichend von Absatz 6 Satz 7 bis zum
 Abschluss einer Prüfung zu der Erfüllung der in Absatz 1 Satz 1 Nummer
 2 genannten Strukturmerkmale, längstens bis zum 30. Juni eines
 Kalenderjahres, erbrachte Leistungen abrechnen, wenn
@@ -36755,26 +36886,25 @@ Kalenderjahres, erbrachte Leistungen abrechnen, wenn
     zugrunde liegt, als erfüllt und nachweisbar ansehen, und
 
 
-2.  der der Leistung zugrunde liegende Kode des in § 301 Absatz 2
+2.  der der Leistung zugrunde liegende Kode des in § 301 Absatz 2
     genannten Operationen- und Prozedurenschlüssels in dem jeweiligen
     Kalenderjahr erstmals vergütungsrelevant wurde.
 
 
 
-Krankenhäuser können abweichend von Absatz 6 Satz 6 bis zum Abschluss
-einer Prüfung zu der Erfüllung der in Absatz 1 Satz 1 Nummer 2
-genannten Strukturmerkmale, längstens bis zu sechs Monate ab dem Tag
-der in Nummer 1 genannten Anzeige, erbrachte Leistungen abrechnen,
-wenn sie
+Krankenhäuser können abweichend von Absatz 6 Satz 7 Leistungen
+abrechnen, die sie ab dem Tag der in Nummer 1 genannten Anzeige bis
+zum Abschluss einer Prüfung zu der Erfüllung der in Absatz 1 Satz 1
+Nummer 2 genannten Strukturmerkmale, längstens bis zu sechs Monate ab
+dem Tag der in Nummer 1 genannten Anzeige, erbringen, wenn sie
 
 1.  dem zuständigen Medizinischen Dienst, den Landesverbänden der
     Krankenkassen, den Ersatzkassen und dem Verband der Privaten
     Krankenversicherung unter Angabe des betreffenden Standortes des
     Krankenhauses auf elektronischem Wege angezeigt haben, dass sie die in
-    dem Operationen- und Prozedurenschlüssel nach § 301 Absatz 2
+    dem Operationen- und Prozedurenschlüssel nach § 301 Absatz 2
     festgelegten Strukturmerkmale des Kodes, der der jeweiligen Leistung
-    zugrunde liegt, während der drei dieser Anzeige vorhergehenden
-    Kalendermonate als erfüllt und nachweisbar ansehen, und
+    zugrunde liegt, als erfüllt und nachweisbar ansehen, und
 
 
 2.  in den letzten zwölf Monaten vor der in Nummer 1 genannten Anzeige
@@ -36783,23 +36913,28 @@ wenn sie
 
 
 
-Krankenhäuser, denen nach Abschluss einer Prüfung zu der Erfüllung der
-in Absatz 1 Satz 1 Nummer 2 genannten Strukturmerkmale, mit der sie
-den Medizinischen Dienst nach einer in Satz 1 Nummer 1 oder Satz 2
-Nummer 1 genannten Anzeige beauftragt haben, keine in Absatz 6 Satz 3
-genannte Bescheinigung übermittelt wurde, haben dies unverzüglich auf
+Mit der Anzeige nach Satz 1 Nummer 1 oder Satz 2 Nummer 1 gilt ein
+Antrag nach Absatz 6 Satz 1 auf die Prüfung zu der Erfüllung der in
+Absatz 1 Satz 1 Nummer 2 genannten Strukturmerkmale als gestellt. Der
+Medizinische Dienst hat den in Absatz 6 Satz 2 genannten Bescheid bei
+einer Anzeige nach Satz 1 Nummer 1 spätestens bis zum 30. Juni des auf
+die Anzeige folgenden Kalenderjahres und bei einer Anzeige nach Satz 2
+Nummer 1 spätestens sechs Monate nach dem Tag dieser Anzeige zu
+erteilen. Krankenhäuser, denen nach Abschluss einer nach Satz 3
+beantragten Prüfung zu der Erfüllung der in Absatz 1 Satz 1 Nummer 2
+genannten Strukturmerkmale keine in Absatz 6 Satz 3 genannte
+Bescheinigung übermittelt wurde, haben dies unverzüglich auf
 elektronischem Wege den Landesverbänden der Krankenkassen, den
-Ersatzkassen und dem Verband der Privaten Krankenversicherung e. V.
-unter Angabe des betreffenden Standortes des Krankenhauses
-mitzuteilen.
+Ersatzkassen und dem Verband der Privaten Krankenversicherung unter
+Angabe des betreffenden Standortes des Krankenhauses mitzuteilen.
 
-(8) Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 3
-genannten Qualitätsanforderungen sind nur durchzuführen, wenn sie
-aufgrund begründeter Anhaltspunkte, als Stichprobenprüfungen oder,
-soweit die Prüfungen die Erfüllung der Qualitätsanforderungen nach §
-136 Absatz 2 und 5 zum Gegenstand haben, aufgrund eines konkreten
-Anlasses erforderlich sind und wenn der Medizinische Dienst hiermit
-von einer in der Richtlinie nach § 137 Absatz 3 Satz 1 und 2
+(8) Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 3 und 5
+genannten Qualitätsanforderungen und Vorgaben sind nur durchzuführen,
+wenn sie aufgrund begründeter Anhaltspunkte, als Stichprobenprüfungen
+oder, soweit die Prüfungen die Erfüllung der Qualitätsanforderungen
+nach § 136a Absatz 2 und 5 zum Gegenstand haben, aufgrund eines
+konkreten Anlasses erforderlich sind und wenn der Medizinische Dienst
+hiermit von einer in der Richtlinie nach § 137 Absatz 3 Satz 1 und 2
 festgelegten Stelle beauftragt wurde. Art und Umfang der vom
 Medizinischen Dienst durchzuführenden Prüfungen bestimmen sich
 abschließend nach dem jeweiligen Auftrag. Soweit der Auftrag auch eine
@@ -36830,12 +36965,12 @@ Medizinische Dienst diese Anhaltspunkte unverzüglich mit
 
 
 
-Bei Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 3
+Bei Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 3 und 5
 genannten Qualitätsanforderungen erfolgt die Mitteilung abweichend von
 Satz 1 an das Krankenhaus und die jeweilige beauftragende Stelle.
 
 (11) Abweichend von Absatz 4, Absatz 6 Satz 4 und 5 sowie Absatz 7
-Satz 3 ist von einer dort jeweils genannten Übermittlung, Mitteilung
+Satz 5 ist von einer dort jeweils genannten Übermittlung, Mitteilung
 oder Information abzusehen, wenn die von der jeweiligen Übermittlung,
 Mitteilung oder Information umfassten Angaben und Unterlagen dem
 jeweiligen Empfänger in der in § 283 Absatz 5 Satz 1 genannten
@@ -37281,20 +37416,20 @@ betreten, um dort die zur Prüfung erforderlichen Unterlagen
 einzusehen.
 
 (4a) Der Medizinische Dienst ist im Rahmen der Prüfungen nach § 275a
-Absatz 1 Satz 1 Nummer 1, 3 und 4 befugt, zu den üblichen Geschäfts-
-und Betriebszeiten die Räume des Krankenhauses zu betreten, die
-erforderlichen Unterlagen einzusehen und personenbezogene Daten zu
+Absatz 1 Satz 1 Nummer 1 und 3 bis 5 befugt, zu den üblichen
+Geschäfts- und Betriebszeiten die Räume des Krankenhauses zu betreten,
+die erforderlichen Unterlagen einzusehen und personenbezogene Daten zu
 verarbeiten, soweit dies in der Richtlinie des Gemeinsamen
 Bundesausschusses nach § 137 Absatz 3 oder in der Richtlinie des
 Medizinischen Dienstes Bund nach § 283 Absatz 2 Satz 1 Nummer 3
 festgelegt und für die Prüfungen erforderlich ist. Absatz 2 Satz 3 bis
 9 gilt für die Durchführung von Prüfungen nach § 275a Absatz 1 Satz 1
-Nummer 1, 3 und 4 entsprechend. Das Krankenhaus ist zur Mitwirkung
+Nummer 1 und 3 bis 5 entsprechend. Das Krankenhaus ist zur Mitwirkung
 verpflichtet und hat dem Medizinischen Dienst Zugang zu den Räumen und
 den Unterlagen zu verschaffen sowie die Voraussetzungen dafür zu
-schaffen, dass er die Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 1,
-3 und 4 ordnungsgemäß durchführen kann; das Krankenhaus ist hierbei
-befugt und verpflichtet, dem Medizinischen Dienst Einsicht in
+schaffen, dass er die Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 1
+und 3 bis 5 ordnungsgemäß durchführen kann; das Krankenhaus ist
+hierbei befugt und verpflichtet, dem Medizinischen Dienst Einsicht in
 personenbezogene Daten zu gewähren oder diese auf Anforderung des
 Medizinischen Dienstes zu übermitteln. Die Sätze 1 und 2 gelten für
 Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 4 nur unter der
@@ -37341,7 +37476,7 @@ Medizinischen Dienst erhobenen versichertenbezogenen Daten enthalten.
 Der Medizinische Dienst hat den Versicherten die sie betreffenden
 Gutachten nach § 275 Absatz 3 Satz 1 Nummer 4 schriftlich oder
 elektronisch vollständig zu übermitteln. Nach Abschluss der Prüfungen
-nach § 275a Absatz 1 Satz 1 Nummer 3 und 4 hat der Medizinische Dienst
+nach § 275a Absatz 1 Satz 1 Nummer 3 bis 5 hat der Medizinische Dienst
 die Prüfergebnisse dem geprüften Krankenhaus und der jeweiligen
 beauftragenden Stelle mitzuteilen. Soweit in der Richtlinie nach § 137
 Absatz 3 Fälle festgelegt sind, in denen Dritte wegen erheblicher
@@ -37405,8 +37540,8 @@ Internetseite. Das Nähere regelt die Satzung nach § 279 Absatz 2 Satz
 bis zum 1. April jedes zweiten Kalenderjahres über
 
 1.  die Anzahl und die Ergebnisse der Begutachtungen nach § 275 und der
-    Prüfungen nach § 17c Absatz 1a des Krankenhausfinanzierungsgesetzes, §
-    275a Absatz 1 Satz 1 Nummer 1, 3 und 4, § 275b und § 275c,
+    Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 1 und 3 bis 5, § 275b und
+    § 275c,
 
 
 2.  die Personalausstattung der Medizinischen Dienste und
@@ -37425,13 +37560,17 @@ den einzelnen in dem Operationen- und Prozedurenschlüssel nach § 301
 Absatz 2 festgelegten Strukturmerkmalen einschließlich der Anzahl der
 in § 275a Absatz 7 Satz 1 Nummer 1 und der in § 275a Absatz 7 Satz 2
 Nummer 1 genannten Anzeigen sowie der Anzahl der in § 275a Absatz 6
-Satz 5 und der in § 275a Absatz 7 Satz 3 genannten Mitteilungen. Das
+Satz 5 und der in § 275a Absatz 7 Satz 5 genannten Mitteilungen. Das
 Nähere zum Verfahren hinsichtlich der in den Sätzen 1 und 2 genannten
 Berichte regeln die Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 7
-und 8. Die Medizinischen Dienste übermitteln dem Medizinischen Dienst
-Bund regelmäßig die nach der Richtlinie nach § 283 Absatz 2 Satz 1
-Nummer 3 für die in § 283 Absatz 5 genannte Datenbank erforderlichen
-Daten.
+und 8. Der Medizinische Dienst Bund kann in den Richtlinien nach § 283
+Absatz 2 Satz 1 Nummer 7 und 8 festlegen, dass von den
+Berichtspflichten der Medizinischen Dienste nach den Sätzen 1 und 2
+abzusehen ist, wenn ihm die entsprechenden Daten in der Datenbank nach
+§ 283 Absatz 5 Satz 1 zugänglich sind. Die Medizinischen Dienste
+übermitteln dem Medizinischen Dienst Bund regelmäßig die nach der
+Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3 für die in § 283 Absatz
+5 genannte Datenbank erforderlichen Daten.
 
 (5) Die Medizinischen Dienste, die gemäß § 278 Absatz 1 Satz 2 in der
 am 31. Dezember 2019 geltenden Fassung in Verbindung mit Artikel 73
@@ -37586,7 +37725,7 @@ bis 5, § 64 Absatz 1 und 2 Satz 2, Absatz 3 Satz 2 und 3 und die §§
 
 (1) Die erforderlichen Mittel zur Finanzierung der Aufgaben des
 Medizinischen Dienstes nach § 275 Absatz 1 bis 3b, § 275a Absatz 1
-Satz 1 Nummer 1 bis 3, den §§ 275b und 275c werden von den
+Satz 1 Nummer 1 bis 3 und 5, den §§ 275b und 275c werden von den
 Krankenkassen nach § 279 Absatz 4 Satz 1 durch eine Umlage
 aufgebracht. Die Mittel sind im Verhältnis der Zahl der Mitglieder der
 einzelnen Krankenkassen mit Wohnort im Einzugsbereich des
@@ -37832,9 +37971,12 @@ Der Medizinische Dienst Bund hat bis zum 12. Juni 2025 die Richtlinie
 nach Satz 1 Nummer 3 zu erlassen oder anzupassen, soweit dies auf
 Grund der Änderung dieses Buches durch das
 Krankenhausversorgungsverbesserungsgesetz vom 5. Dezember 2024 (BGBl.
-2024 I Nr. 400) erforderlich ist. Der Medizinische Dienst Bund hat
-folgenden Stellen Gelegenheit zur Stellungnahme zu geben, soweit sie
-von der jeweiligen Richtlinie betroffen sind:
+2024 I Nr. 400) erforderlich ist. In den in Satz 1 genannten
+Richtlinien kann der Medizinische Dienst Bund auch Regelungen zu
+einheitlichen und digitalen Prozessen zur Umsetzung der Richtlinien
+treffen. Der Medizinische Dienst Bund hat folgenden Stellen
+Gelegenheit zur Stellungnahme zu geben, soweit sie von der jeweiligen
+Richtlinie betroffen sind:
 
 1.  dem Spitzenverband Bund der Krankenkassen,
 
@@ -37858,17 +38000,19 @@ von der jeweiligen Richtlinie betroffen sind:
 
 
 
-Er hat die Stellungnahmen in die Entscheidung einzubeziehen. Der
-Vorstand beschließt die Richtlinien im Benehmen mit dem
-Verwaltungsrat. Die Richtlinien sind für die Medizinischen Dienste
-verbindlich und bedürfen der Genehmigung des Bundesministeriums für
-Gesundheit. Im Übrigen kann der Medizinische Dienst Bund Empfehlungen
-abgeben. Das Nähere zum Verfahren regelt die Satzung nach § 282 Absatz
-3 Satz 1 Nummer 1. Richtlinien und Empfehlungen, die der
-Spitzenverband Bund der Krankenkassen nach § 282 Absatz 2 Satz 3 und 4
-in der bis zum 31. Dezember 2019 geltenden Fassung erlassen und
-abgegeben hat, gelten bis zu ihrer Änderung oder Aufhebung durch den
-Medizinischen Dienst Bund fort.
+Der Medizinische Dienst Bund gibt den für die Krankenhausplanung
+zuständigen Landesbehörden zur Richtlinie nach Satz 1 Nummer 3
+Gelegenheit zur Stellungnahme. Er hat die Stellungnahmen in die
+Entscheidung einzubeziehen. Der Vorstand beschließt die Richtlinien im
+Benehmen mit dem Verwaltungsrat. Die Richtlinien sind für die
+Medizinischen Dienste verbindlich und bedürfen der Genehmigung des
+Bundesministeriums für Gesundheit. Im Übrigen kann der Medizinische
+Dienst Bund Empfehlungen abgeben. Das Nähere zum Verfahren regelt die
+Satzung nach § 282 Absatz 3 Satz 1 Nummer 1. Richtlinien und
+Empfehlungen, die der Spitzenverband Bund der Krankenkassen nach § 282
+Absatz 2 Satz 3 und 4 in der bis zum 31. Dezember 2019 geltenden
+Fassung erlassen und abgegeben hat, gelten bis zu ihrer Änderung oder
+Aufhebung durch den Medizinischen Dienst Bund fort.
 
 (2a) In der Richtlinie nach Absatz 2 Satz 1 Nummer 4 ist eine
 bundeseinheitliche Methodik und Vorgehensweise nach angemessenen und
@@ -37894,15 +38038,16 @@ Verfahren nach den Vorschriften des Elften Buches. Der Vorstand
 beschließt die Richtlinien im Benehmen mit dem Verwaltungsrat.
 
 (4) Der Medizinische Dienst Bund fasst die Berichte der Medizinischen
-Dienste nach
+Dienste oder die entsprechenden in der Datenbank nach Absatz 5 Satz 1
+enthaltenen Daten
 
-1.  § 278 Absatz 4 Satz 1 in einem Bericht zusammen, legt diesen dem
+1.  nach § 278 Absatz 4 Satz 1 in einem Bericht zusammen, legt diesen dem
     Bundesministerium für Gesundheit bis zum 1. Juni jedes zweiten
     Kalenderjahres vor und veröffentlicht den Bericht bis zum 1. September
-    des jeweiligen Kalenderjahres,
+    des jeweiligen Kalenderjahres und
 
 
-2.  § 278 Absatz 4 Satz 2 in einem Bericht zusammen, legt diesen dem
+2.  nach § 278 Absatz 4 Satz 2 in einem Bericht zusammen, legt diesen dem
     Bundesministerium für Gesundheit bis zum 1. Juni eines jeden
     Kalenderjahres vor und veröffentlicht den Bericht bis zum 1. September
     des jeweiligen Kalenderjahres.
@@ -37926,30 +38071,39 @@ differenziert nach Krankenhausstandorten
 
 
 2.  die in § 275a Absatz 4 Satz 2 und 3, Absatz 6 Satz 5 und Absatz 7 Satz
-    3 genannten Mitteilungen und Informationen sowie
+    5 genannten Mitteilungen und Informationen und die in § 275a Absatz 7
+    Satz 1 Nummer 1 und in § 275a Absatz 7 Satz 2 Nummer 1 genannten
+    Anzeigen und
 
 
 3.  die in § 275a Absatz 4 Satz 4 genannten Feststellungen.
 
 
 
-§ 135d Absatz 3 Satz 2 gilt entsprechend. Die Verarbeitung und
-Veröffentlichung der Daten in der Datenbank erfolgt ohne
-Personenbezug. Die Datenbank ist fortlaufend auf Basis neuer
-Erkenntnisse der Medizinischen Dienste zu aktualisieren. Die
-Medizinischen Dienste erhalten Zugang zu den für sie entsprechend
-ihrer örtlichen Zuständigkeit relevanten und für ihre Prüfungen nach §
-275a Absatz 1 Satz 1 erforderlichen Daten. Der Medizinische Dienst
-Bund gewährt hinsichtlich der in § 275a Absatz 11 genannten
-Übermittlungen, Mitteilungen oder Informationen dem jeweiligen
-Empfänger Zugang zu den für ihn entsprechend seiner örtlichen
-Zuständigkeit relevanten und für die Erfüllung seiner gesetzlichen
-Aufgaben erforderlichen Daten. Der Medizinische Dienst Bund regelt das
-Nähere zum Verfahren, zur Art und zum Umfang des Zugangs zu der
-Datenbank sowie zum Umfang, Format und zur Spezifikation der für die
-Datenbank erforderlichen Daten bis zum 12. Dezember 2025 in der
-Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3. Der Medizinische
-Dienst Bund richtet die Datenbank bis zum 12. Dezember 2025 ein.
+§ 135d Absatz 3 Satz 2 gilt entsprechend. Der Medizinische Dienst Bund
+darf personen- und einrichtungsbezogene Daten in der Datenbank
+verarbeiten, soweit dies erforderlich ist, um die ihm nach § 275a
+Absatz 2 Satz 5 und Absatz 4 Satz 1 in Verbindung mit Satz 1 Nummer 1
+zugewiesenen Aufgaben zu erfüllen; die Erforderlichkeit der
+Verarbeitung personen- und einrichtungsbezogener Daten zu diesem Zweck
+ist jeweils in der Richtlinie nach Absatz 2 Satz 1 Nummer 3 zu
+begründen. Im Übrigen erfolgt die Verarbeitung und Veröffentlichung
+der Daten in der Datenbank ohne Personenbezug. Die Datenbank ist
+fortlaufend auf Basis neuer Erkenntnisse der Medizinischen Dienste zu
+aktualisieren. Die Medizinischen Dienste erhalten Zugang zu den für
+sie entsprechend ihrer örtlichen Zuständigkeit relevanten und für ihre
+Prüfungen nach § 275a Absatz 1 Satz 1 erforderlichen Daten. Der
+Medizinische Dienst Bund gewährt hinsichtlich der in § 275a Absatz 11
+genannten Übermittlungen, Mitteilungen oder Informationen dem
+jeweiligen Empfänger Zugang zu den für ihn entsprechend seiner
+örtlichen Zuständigkeit relevanten und für die Erfüllung seiner
+gesetzlichen Aufgaben erforderlichen Daten. Der Medizinische Dienst
+Bund regelt das Nähere zum Verfahren, zur Art und zum Umfang des
+Zugangs zu der Datenbank sowie zum Umfang, Format und zur
+Spezifikation der für die Datenbank erforderlichen Daten bis zum 12.
+Dezember 2025 in der Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3.
+Der Medizinische Dienst Bund richtet die Datenbank bis zum 12.
+Dezember 2025 ein.
 
 (6) Die Medizinischen Dienste haben den Medizinischen Dienst Bund bei
 der Wahrnehmung seiner Aufgaben zu unterstützen.
@@ -40048,7 +40202,12 @@ Stelle bei den Kassenärztlichen Vereinigungen sein. Die Gründe für die
 darzulegen. Bei einer Vollerhebung nach Absatz 1 Satz 5 hat die
 Pseudonymisierung durch eine von den Krankenkassen, Kassenärztlichen
 Vereinigungen oder deren jeweiligen Verbänden räumlich organisatorisch
-und personell getrennten Vertrauensstelle zu erfolgen.
+und personell getrennten Vertrauensstelle zu erfolgen. Abweichend von
+Satz 5 können die Richtlinien und Beschlüsse sowie Vereinbarungen nach
+Absatz 1 Satz 1 vorsehen, dass bei einer Vollerhebung nach Absatz 1
+Satz 5 die Pseudonymisierung durch die in Satz 1 genannten
+Leistungserbringer erfolgen kann, wenn aus methodischen Gründen eine
+Pseudonymisierung durch eine Vertrauensstelle nicht erforderlich ist.
 
 (2a) Enthalten die für Zwecke des Absatz 1 Satz 1 verarbeiteten Daten
 noch keine den Anforderungen des § 290 Absatz 1 Satz 2 entsprechende
@@ -40080,11 +40239,7 @@ Qualitätssicherung nach § 135a Abs. 2 für ein
 Qualitätssicherungsverfahren verarbeitet werden, dürfen nicht mit für
 andere Zwecke als die Qualitätssicherung erhobenen Datenbeständen
 zusammengeführt und ausgewertet werden. Für die unabhängige Stelle
-gilt § 35 Absatz 1 des Ersten Buches entsprechend. Abweichend von Satz
-1 ist für die in § 136 Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen
-zur datengestützten einrichtungsübergreifenden Qualitätssicherung das
-Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
-die unabhängige Stelle im Sinne des Satzes 1.
+gilt § 35 Absatz 1 des Ersten Buches entsprechend.
 
 (4) Der Gemeinsame Bundesausschuss kann zur Durchführung von
 Patientenbefragungen für Zwecke der Qualitätssicherung in den
@@ -40142,7 +40297,7 @@ Transplantationsgesetzes an die Transplantationsregisterstelle zu
 des Transplantationsgesetzes übermittelte Daten für die
 Weiterentwicklung von Richtlinien und Beschlüssen zur
 Qualitätssicherung transplantationsmedizinischer Leistungen nach den
-§§ 136 bis 136c zu verarbeiten.
+§§ 136 bis 136b zu verarbeiten.
 
 (6) Der Gemeinsame Bundesausschuss ist befugt und berechtigt,
 abweichend von Absatz 3 Satz 3 die Daten, die ihm von der
@@ -40150,53 +40305,51 @@ Registerstelle des Implantateregisters Deutschland nach § 29 Absatz 1
 Nummer 4 des Implantateregistergesetzes übermittelt werden, für die
 Umsetzung und Weiterentwicklung von Richtlinien und Beschlüssen zur
 Qualitätssicherung implantationsmedizinischer Leistungen nach den §§
-136 bis 136c zu verarbeiten.
+136 bis 136b zu verarbeiten.
 
-(7) Das Institut für Qualitätssicherung und Transparenz im
-Gesundheitswesen ist befugt, folgende personen- und
+(7) Die vom Gemeinsamen Bundesausschuss nach § 135d Absatz 2 Satz 1
+beauftragte Stelle ist befugt und berechtigt, folgende personen- und
 einrichtungsbezogenen Daten der Versicherten und der Krankenhäuser zum
-Zweck der Veröffentlichung im Transparenzverzeichnis nach § 135d zu
-verarbeiten:
+Zweck der Veröffentlichung im Transparenzverzeichnis nach § 135d
+Absatz 1 Satz 1 zu verarbeiten:
 
-1.  Daten, die das Institut für Qualitätssicherung und Transparenz im
-    Gesundheitswesen als unabhängige Stelle im Sinne des Absatzes 3 Satz 1
-    für die in § 136 Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen zur
-    datengestützten einrichtungsübergreifenden Qualitätssicherung erhält,
+1.  Daten, die die nach § 135d Absatz 2 Satz 1 beauftragte Stelle von der
+    nach Absatz 3 Satz 1 bestimmten unabhängigen Stelle für die in § 136
+    Absatz 1 Satz 1 Nummer 1 genannten Maßnahmen zur datengestützten
+    einrichtungsübergreifenden Qualitätssicherung erhält,
 
 
-2.  Auswertungen und Daten, die dem Institut für Qualitätssicherung und
-    Transparenz im Gesundheitswesen nach § 21 Absatz 3d des
-    Krankenhausentgeltgesetzes übermittelt werden,
+2.  Auswertungen und Daten, die der nach § 135d Absatz 2 Satz 1
+    beauftragten Stelle nach § 21 Absatz 3d des Krankenhausentgeltgesetzes
+    übermittelt werden,
 
 
 3.  die Daten aus den in § 136b Absatz 1 Satz 1 Nummer 3 genannten
     strukturierten Qualitätsberichten der zugelassenen Krankenhäuser,
 
 
-4.  Daten zur Erfüllung oder Nichterfüllung der nach § 135e Absatz 2 Satz
-    2 maßgeblichen Qualitätskriterien, die dem Institut für
-    Qualitätssicherung und Transparenz im Gesundheitswesen im Wege der in
-    § 275a Absatz 4 Satz 1, 3 und 4 genannten Übermittlung oder
-    Information übermittelt werden oder in der in § 283 Absatz 5 Satz 1
-    genannten Datenbank des Medizinischen Dienstes Bund zugänglich sind,
-    und
+4.  Daten zur Erfüllung oder Nichterfüllung der nach § 135e Absatz 2 Satz
+    2 maßgeblichen Qualitätskriterien, die der nach § 135d Absatz 2 Satz 1
+    beauftragten Stelle im Wege der in § 275a Absatz 4 Satz 1, 3 und 4
+    genannten Übermittlung oder Information übermittelt werden oder in der
+    in § 283 Absatz 5 Satz 1 genannten Datenbank des Medizinischen
+    Dienstes Bund zugänglich sind, und
 
 
-5.  Daten, die dem Institut für Qualitätssicherung und Transparenz im
-    Gesundheitswesen im Wege der in § 6a Absatz 7 des
-    Krankenhausfinanzierungsgesetzes genannten Übermittlung übermittelt
-    werden.
+5.  Daten, die der nach § 135d Absatz 2 Satz 1 beauftragten Stelle im Wege
+    der in § 6a Absatz 7 des Krankenhausfinanzierungsgesetzes genannten
+    Übermittlung übermittelt werden.
 
 
 
-Abweichend von Absatz 3 Satz 3 darf das Institut für
-Qualitätssicherung und Transparenz im Gesundheitswesen zum Zweck der
-Veröffentlichung im Transparenzverzeichnis nach § 135d die in Satz 1
-genannten Daten zusammenführen und verarbeiten. Die in den Richtlinien
-nach § 136 Absatz 1 Satz 1 Nummer 1 für Maßnahmen zur datengestützten
-einrichtungsübergreifenden Qualitätssicherung bestimmten
-Datenannahmestellen sind verpflichtet, dem Institut für
-Qualitätssicherung und Transparenz im Gesundheitswesen zum Zweck der
+Abweichend von Absatz 3 Satz 3 darf die vom Gemeinsamen
+Bundesausschuss nach § 135d Absatz 2 Satz 1 beauftragte Stelle zum
+Zweck der Veröffentlichung im Transparenzverzeichnis nach § 135d
+Absatz 1 Satz 1 die in Satz 1 genannten Daten zusammenführen und
+verarbeiten. Die in den Richtlinien nach § 136 Absatz 1 Satz 1 Nummer
+1 für Maßnahmen zur datengestützten einrichtungsübergreifenden
+Qualitätssicherung bestimmten Datenannahmestellen sind verpflichtet,
+der nach § 135d Absatz 2 Satz 1 beauftragten Stelle zum Zweck der
 Veröffentlichung im Transparenzverzeichnis mitzuteilen, wie die in
 Satz 1 Nummer 1 genannten Daten, soweit sie den Zeitraum ab dem 1.
 Januar 2022 betreffen, einzelnen Standorten der Krankenhäuser
@@ -50149,17 +50302,33 @@ Soziale Sicherung mit.
 Der Spitzenverband Bund der Krankenkassen, der Verband der Privaten
 Krankenversicherung e. V. und die Deutsche Krankenhausgesellschaft
 legen dem Bundesministerium für Gesundheit und den für die
-Krankenhausplanung zuständigen Landesbehörden zum 31. Dezember 2028,
-zum 31. Dezember 2030, zum 31. Dezember 2033, zum 31. Dezember 2036
-sowie zum 31. Dezember 2039 jeweils einen gemeinsamen Bericht vor über
+Krankenhausplanung zuständigen Landesbehörden zum 31. Juli 2027, zum
+31\. Dezember 2028, zum 31. Dezember 2030, zum 31. Dezember 2033, zum
+31\. Dezember 2036 sowie zum 31. Dezember 2039 jeweils einen
+gemeinsamen Bericht vor über
 
 1.  die Auswirkungen der Einteilung der von der Krankenhausbehandlung
-    umfassten Leistungen in Leistungsgruppen nach § 135e Absatz 1 Satz 1
-    und die Weiterentwicklung dieser Einteilung, insbesondere hinsichtlich
-    der mit der Zuweisung von Leistungsgruppen nach § 6a Absatz 1 Satz 1
-    des Krankenhausfinanzierungsgesetzes zusammenhängenden
-    Konzentrationswirkungen auf die Leistungserbringung durch die
-    Krankenhäuser, auch soweit diese länderübergreifend eingetreten sind,
+    umfassten Leistungen in Leistungsgruppen nach § 135e Absatz 1 Satz 1
+    und die Weiterentwicklung dieser Einteilung, einschließlich
+
+    a)  der Auswirkungen der Berücksichtigung von Fachärzten nach § 135e
+        Absatz 4 Satz 1 Nummer 6 Buchstabe d und
+
+
+    b)  der mit der Zuweisung von Leistungsgruppen nach § 6a Absatz 1 Satz 1
+        des Krankenhausfinanzierungsgesetzes zusammenhängenden
+        Konzentrationswirkungen auf die Leistungserbringung durch die
+        Krankenhäuser, auch soweit diese länderübergreifend eingetreten sind;
+        dabei sind insbesondere die Auswirkungen der Zuweisung von
+        Leistungsgruppen an Krankenhäuser, die die Qualitätskriterien nach
+        § 6a Absatz 4 des Krankenhausfinanzierungsgesetzes nicht erfüllen, auf
+        die Leistungserbringung dieser Krankenhäuser sowie der Umfang und die
+        Gründe der Zuweisung von Leistungsgruppen an Krankenhäuser, die die
+        Qualitätskriterien nach § 6a Absatz 4 des
+        Krankenhausfinanzierungsgesetzes nicht erfüllen, zu berücksichtigen,
+
+
+
 
 
 2.  die Auswirkungen der für Leistungsgruppen geltenden
@@ -50195,10 +50364,17 @@ sowie zum 31. Dezember 2039 jeweils einen gemeinsamen Bericht vor über
 
     d)  die Entwicklung des Leistungsgeschehens im Bereich der ambulanten und
         stationären medizinischen Rehabilitation sowie auf die Entwicklung des
-        sonstigen ambulanten Leistungsgeschehens.
+        sonstigen ambulanten Leistungsgeschehens und
 
 
 
+
+
+5.  die Zuordnung von Krankenhausstandorten zu der Versorgungsstufe „Level
+    F“ durch die für die Krankenhausplanung zuständige Landesbehörde nach
+    § 135d Absatz 4a Satz 3 oder Satz 4, insbesondere über die
+    Begründungen für die Zuordnung, die dem Institut für das Entgeltsystem
+    im Krankenhaus nach § 135d Absatz 4a Satz 8 zu übermitteln sind.
 
 
 
@@ -50211,7 +50387,14 @@ Krankenversicherung e. V., der Deutschen Krankenhausgesellschaft und
 dem nach § 142 Absatz 1 Satz 1 berufenen Sachverständigenrat von den
 Krankenkassen, den Unternehmen der privaten Krankenversicherung, den
 Kassenärztlichen Vereinigungen, den Krankenhäusern und den
-Medizinischen Diensten in anonymisierter Form zu übermitteln.
+Medizinischen Diensten in anonymisierter Form zu übermitteln. Die für
+die nach den Sätzen 1 und 2 vorzulegenden Berichte über die in Satz 1
+Nummer 5 genannte Zuordnung erforderlichen Daten sind dem
+Spitzenverband Bund der Krankenkassen, dem Verband der Privaten
+Krankenversicherung, der Deutschen Krankenhausgesellschaft und dem
+nach § 142 Absatz 1 Satz 1 berufenen Sachverständigenrat von dem
+Institut für das Entgeltsystem im Krankenhaus in anonymisierter Form
+und landesbezogen zu übermitteln.
 
 
 ### § 428 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
@@ -50229,8 +50412,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 ### Anlage 1 (zu § 135e) Leistungsgruppen und Qualitätskriterien
 
-
-(Fundstelle: BGBl. 2024 I Nr. 400, Seite 51 - 112)
+(Fundstelle: BGBl. 2026 I Nr. 98, S. 42 - 96)
 
 
 *    *   Leistungs-
@@ -50267,50 +50449,38 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   Allgemeine
         Innere Medizin
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraussetzung
 
     *   LG Intensivmedizin
 
-    *   LG Allgemeine
-        Chirurgie
+    *   LG Allgemeine Chirurgie
 
-    *   Röntgen,
-        Elektrokardiographie (EKG),
+    *   Konventionelles Röntgengerät zur Aufnahme von Radiographien
+        insbesondere des Skeletts, Thorax und Abdomens (Röntgen) jederzeit,
         Sonographiegerät,
-        Basislabor jederzeit,
-        Computertomographie (CT)
-        jederzeit mindestens
-        in Kooperation,
-        Endoskopie täglich
-        zehn Stunden im Zeitraum
-        von 6 Uhr bis 20 Uhr
+        Computertomographie (CT) jederzeit mindestens in Kooperation,
+        Gastroduodenoskopie und Koloskopie jederzeit
 
     *   Facharzt (FA) aus dem Gebiet Innere Medizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 der
-        Pflegepersonaluntergrenzen-Verordnung (PpUGV) festgelegten
-        Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *   Auswahlkriterium
 
     *   LG Geriatrie
         Mindestens eine der folgenden LG:
-        LG Allgemeine
-        Frauenheilkunde oder
-        LG Ovarial-CA oder
-        LG Senologie oder
+        LG Allgemeine Frauenheilkunde
+        oder
         LG Geburten
 
     *
-    *   Magnetresonanz-
-        tomographie (MRT)
+    *   Magnetresonanztomographie (MRT)
 
     *
     *
@@ -50318,136 +50488,57 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   2
 
-    *   Komplexe
-        Endo-
-        krinologie und
+    *   Komplexe Endokrinologie und
         Diabetologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
-    *   LG Allgemeine
-        Chirurgie
-        LG Allgemeine
-        Innere Medizin
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
         LG Intensivmedizin
-        Sofern Kinder und Jugendliche behandelt werden:
-        LG Allgemeine
-        Kinder- und Jugendmedizin
 
     *
     *
-    *   Sofern Erwachsene behandelt werden:
-        FA aus dem Gebiet Innere Medizin
-        FA Innere Medizin und Endokrinologie und Diabetologie
-        Sofern Kinder und Jugendliche behandelt werden:
-        FA Kinder- und
-        Jugendmedizin
-        FA Kinder- und
-        Jugendmedizin mit Zusatz-Weiterbildung (ZW) Kinder- und
-        Jugend-Endokrinologie und Diabetologie
+    *   FA aus dem Gebiet Innere Medizin
+        FA Innere Medizin und Endokrinologie und Diabetologie oder FA Innere
+        Medizin mit Zusatzweiterbildung (ZW) Diabetologie
+        Alternative:
+        FA Kinder- und Jugendmedizin
+        FA Kinder- und Jugendmedizin mit ZW Kinder- und Jugend-Endokrinologie
+        und Diabetologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Sofern Erwachsene behandelt werden:
-        Davon mindestens zwei FA Innere
-        Medizin und Endokrinologie und Diabetologie, dritter FA kann aus dem
-        Gebiet der Inneren Medizin sein
-        Sofern Kinder und Jugendliche behandelt werden:
-        Davon mindestens zwei FA Kinder- und Jugendmedizin mit ZW Kinder- und
-        Jugend-Endokrinologie und -Diabetologie, dritter FA kann FA Kinder-
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA Innere Medizin und Endokrinologie und
+        Diabetologie oder FA Innere Medizin mit ZW Diabetologie, dritter FA
+        kann aus dem Gebiet der Inneren Medizin sein
+        Alternative: Drei FA mindestens Rufbereitschaft, jederzeit;
+        davon mindestens zwei FA Kinder- und Jugendmedizin mit ZW Kinder- und
+        Jugend-Endokrinologie und ‑Diabetologie, dritter FA kann FA Kinder-
         und Jugendmedizin sein
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   3
 
-    *   Infektiologie
-
-    *   Mindest-
-        voraus-
-        setzung
-
-    *   LG Allgemeine Innere Medizin oder
-        LG Allgemeine Kinder- und Jugendmedizin,
-        LG Intensivmedizin
-        LG Notfallmedizin
-        LG Allgemeine Chirurgie
+    *   nicht belegt
 
     *
-    *   Mindestens vier Isolationsbetten mit Schleusenfunktion,
-        Notfall-Labor plus Point-of-Care Laboranalytik,
-        Zugang zu Mikrobiologischem Labor
-        jederzeit mindestens
-        in Kooperation,
-        CT,
-        MRT mindestens
-        in Kooperation,
-        Positronen-Emissions-Tomographie-CT (PET-CT)
-        mindestens in Kooperation
-
-    *   FA Innere Medizin und Infektiologie oder FA in einem Gebiet der
-        unmittelbaren Patientenversorgung mit ZW Infektiologie oder
-        FA Mikrobiologie, Virologie und
-        Infektionsepidemiologie mit ZW Infektiologie oder FA Hygiene und
-        Umweltmedizin mit ZW Infektiologie
-
-    *   Vier FA, mindestens Rufbereitschaft: jederzeit
-        Davon mindestens drei FA Innere Medizin und Infektiologie oder
-        mindestens ein FA Innere Medizin und Infektiologie und zwei FA in
-        einem Gebiet der unmittelbaren Patientenversorgung mit ZW
-        Infektiologie (davon mindestens ein FA Innere Medizin)
-        sowie
-        mindestens ein FA Mikrobiologie, Virologie und Infektionsepidemiologie
-        oder ein FA Hygiene und Umweltmedizin
-
-    *   Fachärztlicher infektiologischer Konsilservice
-        Fachapotheker oder Fachapothekerin mit der Bereichsweiterbildung
-        Infektiologie oder ABS-fortgebildeter Apotheker oder Apothekerin, die
-        entweder auf Station, in der Krankenhausapotheke oder in
-        krankenhausversorgenden Apotheken tätig sind
-        Antibiotic Stewardship (ABS) Team
-        Einrichtung der ambulanten Medizin mit Schwerpunkt Infektiologie
-        (mindestens in Kooperation, auch durch auf die Behandlung von HIV-
-        Patienten spezialisierte vertragsärztliche Leistungserbringer, wenn
-        eine schriftliche Kooperationsvereinbarung vorliegt)
-        Konsiliarische Erreichbarkeit, täglich von 8 Uhr bis 17 Uhr, folgender
-        Dienste:
-
-        •   Augenheilkunde
-
-
-        •   Hals-Nasen-Ohrenheilkunde (HNO)
-
-
-        •   Gynäkologie
-
-
-        •   Dermatologie
-
-
-        •   Neurologie
-
-
-
-        Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß
-        den §§ 13 bis 17 der Bekanntmachung eines Beschlusses des Gemeinsamen
-        Bundesausschusses (G-BA) über Regelungen zu einem gestuften System von
-        Notfallstrukturen in Krankenhäusern gemäß § 136c Absatz 4 des Fünften
-        Buches Sozialgesetzbuch (SGB V) vom 19. April 2018 (BAnz AT 18.05.2018
-        B4), der durch den Beschluss vom 20. November 2020 (BAnz AT 24.12.2020
-        B2) geändert worden ist
-
+    *
+    *
+    *
+    *
+    *
+    *
 
 *    *   4
 
     *   Komplexe Gastroenterologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -50462,21 +50553,21 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Gastroenterologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA Innere Medizin und Gastroenterologie, dritter
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA Innere Medizin und Gastroenterologie, dritter
         FA kann FA aus dem Gebiet Innere Medizin sein
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   5
 
     *   Komplexe Nephrologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -50487,28 +50578,26 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Nephrologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA Innere Medizin und Nephrologie, dritter FA
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA Innere Medizin und Nephrologie, dritter FA
         kann FA aus dem Gebiet Innere Medizin sein
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   6
 
     *   Komplexe Pneumologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Innere Medizin
         LG Intensivmedizin
 
     *   LG Palliativmedizin
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder LG Leukämie und Lymphome
 
     *   Röntgen,
         CT,
@@ -50518,29 +50607,24 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Pneumologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA Innere Medizin und Pneumologie, dritter FA
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA Innere Medizin und Pneumologie, dritter FA
         kann FA aus dem Gebiet Innere Medizin sein
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   7
 
     *   Komplexe Rheumatologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
-    *   LG Allgemeine Innere Medizin
-        oder
-        mindestens eine der folgenden LG:
-        LG Endoprothetik Hüfte oder
-        LG Endoprothetik Knie oder
-        LG Revision Hüftendoprothetik oder
-        LG Revision Knieendoprothese
+    *   LG Allgemeine Innere Medizin oder
+        LG Allgemeine Chirurgie
 
     *
     *   Sonographiegerät,
@@ -50548,20 +50632,26 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Rheumatologie
         FA Orthopädie und Unfallchirurgie mit ZW Orthopädische Rheumatologie
+        FA für Orthopädie und Unfallchirurgie
+        FA aus dem Gebiet der Inneren Medizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA Innere Medizin und Rheumatologie oder FA
+        Orthopädie und Unfallchirurgie mit ZW Orthopädische Rheumatologie, der
+        dritte FA kann FA aus dem Gebiet der Inneren Medizin oder FA für
+        Orthopädie und Unfallchirurgie sein
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   8
 
     *   Stammzelltransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -50582,15 +50672,20 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Hämatologie und Onkologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
+    *   Auswahl-kriterium
 
-*    *   Auswahl-
-        kriterium
-
-    *   LG Allgemeine Kinder- und Jugendmedizin
+    *   LG Allgemeine Kinder- und
+        Jugendmedizin
         LG Haut- und Geschlechtskrankheiten
         LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
         LG Komplexe Nephrologie
@@ -50607,9 +50702,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Leukämie und Lymphome
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -50624,13 +50717,18 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         FA Innere Medizin und Hämatologie und Onkologie
 
     *   Drei FA aus dem Gebiet Innere Medizin, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA Innere Medizin und Hämatologie und Onkologie
+        jederzeit;
+        davon mindestens zwei FA Innere Medizin und Hämatologie und Onkologie
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
         LG Komplexe Gastroenterologie
@@ -50646,11 +50744,10 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   10
 
-    *   EPU/Ablation
+    *   EPU/
+        Ablation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindest-voraus-setzung
 
     *   LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Komplex
@@ -50658,7 +50755,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   LG Interventionelle Kardiologie
         LG Kardiale Devices
         Mindestens eine der folgenden LG:
-        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder
+        LG Minimalinvasive Herzklappenintervention
 
     *   CT jederzeit,
         12-Kanal-EKG-
@@ -50668,14 +50766,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Kardiologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Kardiale Devices
         Mindestens eine der folgenden LG:
@@ -50683,7 +50784,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         LG Carotis operativ/interventionell oder
         LG Komplexe periphere arterielle Gefäße
         Mindestens eine der folgenden LG:
-        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+        LG Herzchirurgie oder
+        LG Herzchirurgie – Kinder und Jugendliche oder
+        LG Minimalinvasive Herzklappenintervention
 
     *
     *   Kardio-MRT
@@ -50696,16 +50799,15 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Interventionelle Kardiologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Komplex
 
     *   LG Kardiale Devices
         Mindestens eine der folgenden LG:
-        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder
+        LG Minimalinvasive Herzklappenintervention
 
     *   Katheterlabor,
         Röntgen,
@@ -50717,14 +50819,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Kardiologie
 
-    *   Fünf FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Fünf FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG EPU/Ablation
         LG Kardiale Devices
@@ -50733,7 +50838,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         LG Carotis operativ/interventionell oder
         LG Komplexe periphere arterielle Gefäße
         Mindestens eine der folgenden LG:
-        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+        LG Herzchirurgie oder
+        LG Herzchirurgie – Kinder und Jugendliche oder
+        LG Minimalinvasive Herzklappenintervention
 
     *
     *   Kardio-MRT
@@ -50742,13 +50849,12 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   Erfüllung der Voraussetzungen gemäß § 28 Nummer 1 bis 6 oder Erfüllung
         der Voraussetzungen der erweiterten Notfallversorgung gemäß den §§ 13
-        bis 17
-        oder Erfüllung der Voraussetzungen der umfassenden Notfallversorgung
-        gemäß den §§ 18 bis 22,
-        jeweils bezogen auf die Bekanntmachung eines Beschlusses des G-BA über
-        Regelungen zu einem gestuften System von Notfallstrukturen in
-        Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT
-        18\.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT
+        bis 17 oder Erfüllung der Voraussetzungen der umfassenden
+        Notfallversorgung gemäß den §§ 18 bis 22, jeweils bezogen auf die
+        Bekanntmachung eines Beschlusses des Gemeinsamen Bundesausschusses
+        (G-BA) über Regelungen zu einem gestuften System von Notfallstrukturen
+        in Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz
+        AT 18.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT
         24\.12.2020 B2) geändert wurde
 
 
@@ -50756,9 +50862,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Kardiale Devices
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Komplex
@@ -50766,7 +50870,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   LG EPU/Ablation
         LG Interventionelle Kardiologie
         Mindestens eine der folgenden LG:
-        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+        LG Herzchirurgie oder
+        LG Herzchirurgie – Kinder und Jugendliche oder
+        LG Minimalinvasive Herzklappenintervention
 
     *   CT jederzeit,
         12-Kanal-EKG-
@@ -50776,14 +50882,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Innere Medizin und Kardiologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG EPU/Ablation
         Mindestens eine der folgenden LG:
@@ -50791,7 +50900,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         LG Carotis operativ/interventionell oder
         LG Komplexe periphere arterielle Gefäße
         Mindestens eine der folgenden LG:
-        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+        LG Herzchirurgie oder
+        LG Herzchirurgie – Kinder und Jugendliche oder
+        LG Minimalinvasive Herzklappenintervention
 
     *
     *   Kardio-MRT
@@ -50804,15 +50915,14 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Minimalinvasive Herzklappenintervention
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
         LG Interventionelle Kardiologie
         Mindestens eine der folgenden LG:
-        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+        LG Herzchirurgie oder
+        LG Herzchirurgie – Kinder und Jugendliche
 
     *   LG Allgemeine Chirurgie
         LG EPU/Ablation
@@ -50820,15 +50930,20 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   Katheterlabor und herzchirurgischer Operationssaal (OP) oder Hybrid-OP
 
     *   FA Herzchirurgie
+        FA Innere Medizin und Kardiologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA Herzchirurgie sowie drei FA für Innere Medizin und
+        Kardiologie, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Chirurgie
 
@@ -50842,40 +50957,36 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Allgemeine Chirurgie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin
 
     *   LG Allgemeine Innere Medizin
 
     *   Röntgen,
-        EKG,
         Sonographiegerät,
-        Basislabor jederzeit,
-        CT jederzeit
-        mindestens in Kooperation,
-        Möglichkeit zur Anforderung und Transfusion von
-        Erythrozytenkonzentraten und Thrombozytenkonzentraten jederzeit
-        mindestens in Kooperation,
-        mindestens zwei
-        Operationssäle
+        CT jederzeit mindestens in Kooperation,
+        mindestens zwei Operationssäle
 
     *   FA Allgemeinchirurgie
         FA Orthopädie und Unfallchirurgie
         FA Viszeralchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
+    *   Drei FA für Allgemeinchirurgie, mindestens Rufbereitschaft:
         jederzeit
-        Davon mindestens ein FA Allgemeinchirurgie oder Viszeralchirurgie
-        sowie mindestens ein FA für Orthopädie und Unfallchirurgie
+        Jeweils ein FA für Allgemeinchirurgie kann durch einen FA für
+        Orthopädie und Unfallchirurgie und einen FA für Viszeralchirurgie
+        ersetzt werden
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Geriatrie
 
@@ -50887,12 +50998,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   15
 
-    *   Kinder- und
-        Jugendchirurgie
+    *   Kinder- und Jugendchirurgie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Kinder- und Jugendmedizin
         LG Intensivmedizin
@@ -50903,98 +51011,55 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Kinder- und Jugendchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   16
 
-    *   Spezielle Kinder- und
-        Jugendchirurgie
-
-    *   Mindest-
-        voraus-
-        setzung
-
-    *   LG Kinder- und Jugendchirurgie
+    *   nicht belegt
 
     *
-    *   CT jederzeit,
-        MRT jederzeit mindestens in Kooperation,
-        Sonographie
-
-    *   FA Kinder- und Jugendchirurgie
-        Sofern orthopädische Leistungen erbracht werden:
-        FA Kinder- und Jugendchirurgie mit Zusatz zur Weiterbildung (ZW)
-        Kinder- und Jugend-Orthopädie
-
-    *   Fünf FA, mindestens Rufbereitschaft:
-        jederzeit
-        Sofern orthopädische Leistungen erbracht werden:
-        mindestens zwei FA mit ZW Kinder- und Jugend-Orthopädie
-
-    *   Kinderradiologie in Kooperation
-        Kinderschutzstrukturen
-        Kinderanästhesiologische Kompetenz
-        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
-
+    *
+    *
+    *
+    *
+    *
+    *
 
 *    *   17
 
     *   Plastische und Rekonstruktive Chirurgie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindest-voraus-setzung
 
     *   LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
+    *
     *
     *   FA Plastische, Rekonstruktive und Ästhetische Chirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA Plastische, Rekonstruktive und Ästhetische
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA Plastische, Rekonstruktive und Ästhetische
         Chirurgie, dritter FA kann FA aus dem Gebiet Chirurgie sein
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
-
-*    *   Auswahl-
-        kriterium
-
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
-    *
-    *
-    *
-    *
-    *
 
 *    *   18
 
     *   Bauchaortenaneurysma
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin, Qualitätsanforderung Komplex
         LG Komplexe periphere arterielle Gefäße
@@ -51003,18 +51068,22 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   FA Gefäßchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
     *   Erfüllung der Anforderungen gemäß den §§ 4 und 5 der Bekanntmachung
-        eines Beschlusses des G-BA über eine Qualitätssicherungs-Richtlinie
+        eines Beschlusses des G‑BA über eine Qualitätssicherungs-Richtlinie
         zum Bauchaortenaneurysma vom 13. März 2008 (BAnz Nr. 71, S. 1706), die
-        zuletzt durch den Beschluss vom 6. Dezember 2023 (BAnz AT 29.01.2024
+        zuletzt durch den Beschluss vom 19. Dezember 2024 (BAnz AT 25.02.2025
         B4) geändert worden ist
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *
     *
@@ -51028,9 +51097,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Carotis operativ/interventionell
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -51039,36 +51106,45 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   LG Neurochirurgie
         Mindestens eine der folgenden LG:
-        LG EPU/Ablation oder LG Interventionelle Kardiologie oder
-        LG Neuro-Frühreha (Neurologisch-Neurochirurgische Frührehabilitation
-        (NNF), Phase B)
+        LG EPU/Ablation oder
+        LG Interventionelle Kardiologie oder
+        LG Kardiale Devices oder
+        LG Minimalinvasive Herzklappenintervention
         Mindestens eine der folgenden LG:
         LG Allgemeine Neurologie oder
-        LG Stroke Unit oder
+        LG Stroke Unit
+        oder
         LG Neuro-Frühreha (NNF, Phase B)
 
     *   Röntgen jederzeit,
         Teleradiologischer Befund möglich,
         CT jederzeit,
         MRT,
-        Digitale Substraktionsangiographie (DSA),
+        Digitale Subtraktionsangiographie (DSA),
         Periphere Dopplersonographie,
         Duplexsonographie,
         Funktionelle Gefäßdiagnostik
 
     *   FA Gefäßchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Neurochirurgie
         Mindestens eine der folgenden LG:
-        LG EPU/Ablation oder LG Interventionelle Kardiologie
+        LG EPU/Ablation oder
+        LG Interventionelle Kardiologie oder
+        LG Kardiale Devices oder
+        LG Minimalinvasive Herzklappenintervention
         Mindestens eine der folgenden LG:
         LG Allgemeine Neurologie oder
         LG Stroke Unit oder
@@ -51084,12 +51160,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   20
 
-    *   Komplexe
-        periphere arterielle Gefäße
+    *   Komplexe periphere arterielle Gefäße
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -51097,8 +51170,10 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   LG Komplexe Nephrologie
         Mindestens eine der folgenden LG:
-        LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Neuro-
-        Frühreha (NNF, Phase B)
+        LG EPU/Ablation oder
+        LG Interventionelle Kardiologie oder
+        LG Kardiale Devices oder
+        LG Minimalinvasive Herzklappenintervention
 
     *   Röntgen jederzeit,
         Teleradiologischer Befund möglich,
@@ -51114,18 +51189,25 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         FA Herzchirurgie
         FA Thoraxchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA Gefäßchirurgie
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA Gefäßchirurgie
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Komplexe Nephrologie
         Mindestens eine der folgenden LG:
-        LG EPU/Ablation oder LG Interventionelle Kardiologie
+        LG EPU/Ablation oder
+        LG Interventionelle Kardiologie oder
+        LG Kardiale Devices oder
+        LG Minimalinvasive Herzklappenintervention
         Mindestens eine der folgenden LG:
         LG Allgemeine Neurologie oder
         LG Stroke Unit oder
@@ -51142,9 +51224,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Herzchirurgie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
@@ -51160,18 +51240,22 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         Röntgen,
         CT jederzeit,
         Teleradiologischer Befund möglich,
-        Herz-Lungen-Maschine
+        Herz-Lungen-
+        Maschine
 
     *   FA Herzchirurgie
 
-    *   Fünf FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Fünf FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Herztransplantation
         Mindestens eine der folgenden LG:
@@ -51189,12 +51273,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   22
 
-    *   Herzchirurgie – Kinder und
-        Jugendliche
+    *   Herzchirurgie – Kinder und Jugendliche
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *
     *
@@ -51202,58 +51283,49 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *
     *   Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
-        gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine
+        gemäß § 6 der Bekanntmachung eines Beschlusses des G‑BA über eine
         Richtlinie über Maßnahmen zur Qualitätssicherung der herzchirurgischen
-        Versorgung bei Kindern und Jugendlichen gemäß § 137 Absatz 1 Nummer 2
-        SGB V vom 18. Februar 2010 (BAnz Nr. 89a – Beilage vom 16.06.2010),
-        der durch Beschluss vom 21. Dezember 2023 (BAnz AT 15.02.2024 B5)
+        Versorgung bei Kindern und Jugendlichen gemäß § 136 Absatz 1 Nummer 2
+        SGB V vom 18. Februar 2010 (BAnz Nr. 89a – Beilage vom 18.06.2010),
+        der durch Beschluss vom 4. Dezember 2024 (BAnz AT 21.01.2025 B4)
         geändert wurde
-        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   23
 
     *   Endoprothetik Hüfte
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
+    *
     *   Röntgen jederzeit,
         Teleradiologischer Befund möglich
 
     *   FA Orthopädie und Unfallchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Endoprothetik Knie
         LG Geriatrie
         LG Revision Hüftendoprothese
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *
     *   CT jederzeit,
@@ -51269,51 +51341,39 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Endoprothetik Knie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
+    *
     *   Röntgen jederzeit,
         Teleradiologischer Befund möglich
 
     *   FA Orthopädie und Unfallchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Endoprothetik Hüfte
         LG Geriatrie
         LG Revision Knieendoprothese
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *
     *   CT jederzeit,
         MRT
 
-    *   ZW Spezielle Orthopädische Chirurgie oder
+    *   ZW Spezielle Orthopädische Chirurgie
         ZW Spezielle Unfallchirurgie
 
     *
@@ -51323,46 +51383,34 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Revision Hüftendoprothese
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Endoprothetik Hüfte
         LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
+    *
     *   Röntgen jederzeit,
         Teleradiologischer Befund möglich
 
     *   FA Orthopädie und Unfallchirurgie
         ZW Spezielle Orthopädische Chirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Geriatrie
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *
     *   CT jederzeit,
@@ -51376,46 +51424,34 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Revision Knieendoprothese
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Endoprothetik Knie
         LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
+    *
     *   Röntgen jederzeit,
         Teleradiologischer Befund möglich
 
     *   FA Orthopädie und Unfallchirurgie
         ZW Spezielle Orthopädische Chirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Geriatrie
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *
     *   CT jederzeit,
@@ -51429,13 +51465,10 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Spezielle Traumatologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Intensivmedizin
-        LG Notfallmedizin
         LG Allgemeine Innere Medizin
 
     *   LG Neurochirurgie
@@ -51445,8 +51478,6 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   CT jederzeit,
         Röntgen jederzeit,
         Sonographie,
-        Basislabor,
-        Blutdepot,
         mindestens zwei Operationssäle,
         Intensivstation mit mindestens sechs Betten,
         MRT jederzeit,
@@ -51454,14 +51485,14 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         Angiographiearbeitsplatz,
         Teleradiologische Anbindung zum Standort mit LG Neurochirurgie, falls
         diese in Kooperation erbracht wird,
-        Hubschrauberlandeplatz oder Public-Interest-Site-(PIS-)Landestelle
+        Hubschrauberlandeplatz oder Public-
+        Interest-Site-(PIS-)Landestelle
 
     *   FA Orthopädie und Unfallchirurgie
         FA Orthopädie und Unfallchirurgie mit ZW Spezielle Unfallchirurgie
 
-    *   Fünf FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens drei FA mit ZW Spezielle Unfallchirurgie
+    *   Fünf FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens drei FA mit ZW Spezielle Unfallchirurgie
 
     *   Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß
         den §§ 13 bis 17 der Bekanntmachung eines Beschlusses des G-BA über
@@ -51469,31 +51500,46 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT
         18\.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT
         24\.12.2020 B2) geändert worden ist
-        Erfüllung der Anforderungen der gesetzlichen Unfallversicherungsträger
-        nach § 34 des Siebten Buches Sozialgesetzbuch (SGB VII) an
-        Krankenhäuser zur Beteiligung am Verletzungsartenverfahren (VAV) in
-        der Fassung vom 1. Januar 2013, welche auf Grundlage von § 34 Absatz 2
-        und 3 SGB VII von der Deutschen Gesetzlichen Unfallversicherung e. V.
-        und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
-        festgelegt worden sind. Die Anforderungen sind abrufbar auf der
-        Internetseite der Landesverbände der Deutschen Gesetzlichen
-        Unfallversicherung (www.dguv.de/landesverbaende) unter der Rubrik
-        „Medizinische Rehabilitation“ in der Unterrubrik
-        „Verletzungsartenverfahren“.
-        Erfüllung der Anforderungen an die personelle Ausstattung und der
+        Erfüllung der durch die gesetzliche Unfallversicherungsträger nach §
+        34 Absatz 1 Satz 2 des Siebten Buches Sozialgesetzbuch (SGB VII)
+        festgelegten Anforderungen an Krankenhäuser zur Beteiligung am
+        Verletzungsartenverfahren (VAV) in der Fassung vom 1. Juli 2025,
+        welche auf Grundlage von § 34 Absatz 2 und 3 SGB VII von der Deutschen
+        Gesetzlichen Unfallversicherung e. V. und der Sozialversicherung für
+        Landwirtschaft, Forsten und Gartenbau festgelegt worden sind. Die
+        Anforderungen sind abrufbar auf der Internetseite der Landesverbände
+        der Deutschen Gesetzlichen Unfallversicherung
+        (www.dguv.de/
+        landesverbaende) unter der Rubrik „Medizinische Rehabilitation“ in der
+        Unterrubrik „Verletzungsartenverfahren“.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   Erfüllung der Anforderungen an die personelle Ausstattung und der
         räumlichen Anforderungen für Regionales Traumazentrum (RTZ) oder
         Überregionales Traumazentrum (ÜTZ) nach dem „Weißbuch
         Schwerverletztenversorgung – Empfehlungen zur Struktur, Organisation,
         Ausstattung sowie Förderung von Qualität und Sicherheit in der
         Schwerverletztenversorgung in der Bundesrepublik Deutschland“;
         Herausgeber: Deutsche Gesellschaft für Unfallchirurgie e. V., 3.
-        erweiterte Auflage 2019, Seiten 16 bis 17 und Seiten 18 bis 20.
+        erweiterte Auflage 2019,
+        Seiten 16, 17 und 18 bis 20
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *
     *
-    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Geriatrie
         LG Wirbelsäuleneingriffe
@@ -51505,13 +51551,13 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         LG Thoraxchirurgie
         LG HNO
         LG Herzchirurgie
-        LG Mund-Kiefer-Gesichtschirurgie (MKG)
+        LG Mund-Kiefer-
+        Gesichtschirurgie (MKG)
 
     *
     *   FA Neurochirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
     *
 
@@ -51519,44 +51565,32 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Wirbelsäuleneingriffe
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
+    *
     *   Röntgen jederzeit,
         Teleradiologischer Befund möglich
 
     *   FA Orthopädie und Unfallchirurgie
         FA Neurochirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
+    *
     *   LG Neurochirurgie
 
     *   CT jederzeit,
@@ -51571,26 +51605,14 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Thoraxchirurgie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin, Qualitätsanforderung Hochkomplex
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
     *   LG Komplexe Pneumologie
         LG Palliativmedizin
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *   Röntgen jederzeit,
         CT jederzeit oder MRT jederzeit,
@@ -51598,36 +51620,30 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Thoraxchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
         Sofern LG Herzchirurgie am Standort erbracht wird: abweichend
         mindestens zwei FA Thoraxchirurgie, mindestens Rufbereitschaft:
         jederzeit
 
-    *
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
 
 *    *
     *
-    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Herzchirurgie
         LG Komplexe Pneumologie
         LG Palliativmedizin
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *   LG Neurochirurgie
         Mindestens eine der folgenden LG:
         LG Bauchaortenaneurysma oder
-        LG Carotis operativ/interventionell oder LG Komplexe periphere
-        arterielle Gefäße
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
         Mindestens eine der folgenden LG:
         LG Endoprothetik Hüfte oder
         LG Endoprothetik Knie oder
@@ -51650,9 +51666,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Bariatrische Chirurgie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -51660,24 +51674,28 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   LG Komplexe Gastroenterologie
 
-    *   CT jederzeit
-        oder MRT jederzeit
+    *   CT jederzeit oder MRT jederzeit
 
     *   FA Viszeralchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Komplexe Gastroenterologie
 
     *
-    *   Mindestens ein OP-Tisch mit einer Tragfähigkeit von mindestens 225
-        Kilogramm
+    *   Mindestens ein
+        OP-Tisch mit einer Tragfähigkeit von mindestens
+        225 Kilogramm
 
     *
     *
@@ -51687,18 +51705,13 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Lebereingriffe
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
 
     *   LG Komplexe Gastroenterologie
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
 
     *   Röntgen jederzeit,
         CT jederzeit oder MRT jederzeit,
@@ -51707,22 +51720,23 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   FA Viszeralchirurgie
         ZW Spezielle Viszeralchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Lebertransplantation
         LG Palliativmedizin
         LG Pankreaseingriffe
         LG Komplexe Gastroenterologie
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
 
     *
     *   Interventionelle Endoskopie einschließlich endoskopischer retrograder
@@ -51738,42 +51752,39 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Ösophaguseingriffe
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
 
-    *   Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
-
+    *
     *   Röntgen jederzeit,
         CT jederzeit oder MRT jederzeit,
         Teleradiologischer Befund möglich,
         interventionelle Endoskopie jederzeit
 
-    *   FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie
+    *   FA Viszeralchirurgie
+        ZW Spezielle Viszeralchirurgie
         FA Innere Medizin und Gastroenterologie
 
-    *   Fünf FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW
-        Spezielle Viszeralchirurgie,
-        Davon zwei FA Innere Medizin und Gastroenterologie
+    *   Fünf FA, mindestens Rufbereitschaft: jederzeit;
+        davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW
+        Spezielle Viszeralchirurgie;
+        davon zwei FA Innere Medizin und Gastroenterologie
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Komplexe Gastroenterologie
         LG Palliativmedizin
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
 
     *   LG Thoraxchirurgie
 
@@ -51787,18 +51798,13 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Pankreaseingriffe
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
-        LG Allgemeine Innere
+        LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
 
-    *   Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
-
+    *
     *   Röntgen jederzeit,
         CT jederzeit oder MRT jederzeit,
         Teleradiologischer Befund möglich,
@@ -51808,23 +51814,24 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         ZW Spezielle Viszeralchirurgie
         FA Innere Medizin und Gastroenterologie
 
-    *   Fünf FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens drei FA mit ZW
-        spezielle Viszeralchirurgrie und zwei FA Innere Medizin und
+    *   Fünf FA, mindestens Rufbereitschaft: jederzeit;
+        davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW
+        Spezielle Viszeralchirurgie; davon zwei FA Innere Medizin und
         Gastroenterologie
 
-    *
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
-*    *   Auswahl-
-        kriterium
+
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Komplexe Endokrinologie und Diabetologie
         LG Lebereingriffe
         LG Palliativmedizin
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
 
     *
     *   Interventionelle Radiologie,
@@ -51838,18 +51845,13 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Tiefe Rektumeingriffe
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Komplex
 
     *   LG Komplexe Gastroenterologie
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
 
     *   Röntgen jederzeit,
         CT jederzeit oder MRT jederzeit,
@@ -51858,21 +51860,22 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   FA Viszeralchirurgie
         ZW Spezielle Viszeralchirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Komplexe Gastroenterologie
         LG Palliativmedizin
         LG Urologie
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
 
     *
     *   Interventionelle Endoskopie jederzeit
@@ -51886,9 +51889,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Augenheilkunde
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *
     *   LG Allgemeine Chirurgie
@@ -51901,13 +51902,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Augenheilkunde
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Innere Medizin
         LG MKG
@@ -51925,49 +51930,40 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   36
 
-    *   Haut- und Geschlechtskrankheiten
+    *   Haut-
+        und Ge-
+        schlechts-
+        krankheiten
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
 
     *   LG Allgemeine Frauenheilkunde
         LG Urologie
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *   Lasertherapie,
-        Photo(chemo)therapie,
-        Balneophototherapie
+        Photo(chemo)therapie
 
     *   FA Haut- und Geschlechtskrankheiten
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Frauenheilkunde
         LG Neurochirurgie
         LG Urologie
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *   LG HNO
         LG MKG
@@ -51984,37 +51980,32 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   MKG
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
         LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
-
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
-
-    *   Panendoskop,
-        B-Bild-Sonograph,
-        CT,
-        Orthopantomogramm (OPG)-Röntgengerät
-
-    *   FA Mund-Kiefer-Gesichtschirurgie
-
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
 
     *
+    *   B-Bild-Sonograph,
+        CT,
+        Orthopantomogramm (OPG)-
+        Röntgengerät
 
-*    *   Auswahl-
-        kriterium
+    *   FA Mund-Kiefer-
+        Gesichtschirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
+
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Neurochirurgie
         Mindestens eine der folgenden LG:
@@ -52022,11 +52013,6 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         LG Endoprothetik Knie oder
         LG Revision Hüftendoprothetik oder
         LG Revision Knieendoprothese
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
-        LG Allgemeine Innere Medizin
 
     *   LG Augenheilkunde
         LG HNO
@@ -52040,9 +52026,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Urologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -52052,24 +52036,26 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Endoskop,
         Laparoskop,
-        Sonographiegerät (einschließlich Doppler- oder Duplex-Sonographie)
+        Sonographiegerät (einschließlich Doppler- oder
+        Duplex-Sonographie)
 
     *   FA Urologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Komplexe Nephrologie
 
     *   LG Allgemeine Frauenheilkunde
-        Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
 
     *   CT,
         MRT,
@@ -52085,9 +52071,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Allgemeine Frauenheilkunde
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -52097,19 +52081,22 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   FA Frauenheilkunde und Geburtshilfe
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Urologie
         Mindestens eine der folgenden LG:
-        LG Bariatrische Chirurgie oder
-        LG Lebereingriffe oder LG Ösophaguseingriffe oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
         LG Pankreaseingriffe oder
         LG Tiefe Rektumeingriffe
 
@@ -52125,9 +52112,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Ovarial-CA
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Frauenheilkunde
@@ -52137,26 +52122,25 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   LG Urologie
 
     *
-    *   FA Frauenheilkunde und Geburtshilfe SP Gynäkologische Onkologie
+    *   FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Onkologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens ein FA mit SP Gynäkologische Onkologie
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens ein FA mit SP Gynäkologische Onkologie
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Palliativmedizin
         LG Senologie
         LG Urologie
         Mindestens eine der folgenden LG:
-        LG Stammzelltransplantation oder
-        LG Leukämie und Lymphome
-        Mindestens eine der folgenden LG:
-        LG Bariatrische Chirurgie oder
         LG Lebereingriffe oder
         LG Ösophaguseingriffe oder
         LG Pankreaseingriffe oder
@@ -52174,9 +52158,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Senologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Frauenheilkunde
@@ -52187,14 +52169,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   FA Frauenheilkunde und Geburtshilfe
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Ovarial-CA
         LG Palliativmedizin
@@ -52215,9 +52200,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Geburten
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Frauenheilkunde
@@ -52229,14 +52212,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   FA Frauenheilkunde und Geburtshilfe
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Kinder- und Jugendmedizin
         LG Kinder- und Jugendchirurgie
@@ -52246,8 +52232,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   FA Frauenheilkunde und Geburtshilfe mit SP Spezielle Geburtshilfe und
         Perinatalmedizin
 
-    *   FA anwesend:
-        jederzeit
+    *   FA anwesend: jederzeit
 
     *
 
@@ -52255,9 +52240,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Perinataler Schwerpunkt
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *
     *
@@ -52265,22 +52248,23 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *
     *   Erfüllung der Anforderungen der Versorgungsstufe III gemäß Nummer III
-        der Anlage 2 der Bekanntmachung eines Beschlusses des G-BA über
+        der Anlage 1 der Bekanntmachung eines Beschlusses des G‑BA über
         Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und
-        Neugeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit §
+        Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit §
         92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S.
-        15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 16. Mai
-        2024 (BAnz. AT 25.07.2024 B2) geändert wurde
-        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+        15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17.
+        Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   44
 
     *   Perinatalzentrum Level 1
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *
     *
@@ -52288,19 +52272,21 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *
     *   Erfüllung der Anforderungen der Versorgungsstufe I gemäß Nummer I der
-        Anlage 2 der Bekanntmachung eines Beschlusses des G-BA über Maßnahmen
-        zur Qualitätssicherung der Versorgung von Früh- und Neugeborenen gemäß
-        § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2
-        Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom
-        28\.10.2005), der zuletzt durch den Beschluss vom 16. Mai 2024 (BAnz.
-        AT 25.07.2024 B2) geändert wurde
-        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+        Anlage 1 der Bekanntmachung eines Beschlusses des G-BA über Maßnahmen
+        zur Qualitätssicherung der Versorgung von Früh- und Reifgeborenen
+        gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1
+        Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom
+        28\.10.2005), der zuletzt durch den Beschluss vom 17. Oktober 2024
+        (BAnz AT 20.01.2025 B4) geändert wurde
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *
     *
-    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *
     *
@@ -52314,9 +52300,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Perinatalzentrum Level 2
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *
     *
@@ -52324,23 +52308,25 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *
     *   Erfüllung der Anforderungen der Versorgungsstufe II gemäß Nummer II
-        der Anlage 2 der Bekanntmachung eines Beschlusses des G-BA über
+        der Anlage 1 der Bekanntmachung eines Beschlusses des G-BA über
         Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und
-        Neugeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit §
+        Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit §
         92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S.
-        15 684 vom 16.06.2005), der zuletzt durch den Beschluss vom 16. Mai
-        2024 (BAnz. AT 25.07.2024 B2) geändert wurde
-        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+        15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17.
+        Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *   46
 
     *   Allgemeine Kinder- und
-        Jugendmedizin
+        Jugend-
+        medizin
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *
     *   LG Intensivmedizin
@@ -52348,16 +52334,22 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   FA Kinder- und Jugendmedizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
-    *   LG Perinataler Schwerpunkt oder LG Perinatalzentrum Level 1 oder
+    *   Mindestens eine der folgenden LG:
+        LG Perinataler Schwerpunkt
+        oder
+        LG Perinatalzentrum Level 1 oder
         LG Perinatalzentrum Level 2
         LG Geburten
         LG Intensivmedizin
@@ -52372,56 +52364,11 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   47
 
-    *   Spezielle Kinder- und
-        Jugendmedizin
-
-    *   Mindest-
-        voraus-
-        setzung
-
-    *   Erfüllung der Mindestvoraussetzungen der LG Allgemeine Kinder- und
-        Jugendmedizin
-        Zusätzlich außer in Fachkrankenhäusern, die von der für die
-        Krankenhausplanung zuständigen Landesbehörde gemäß § 135d Absatz 4
-        Satz 3 der Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Perinatalzentrum Level 2
-        LG Intensivmedizin
+    *   nicht
+        belegt
 
     *
     *
-    *   FA Kinder- und Jugendmedizin
-        FA Kinder- und Jugendmedizin mit mindestens einer ZW oder einem SP:
-        ZW Kinder- und Jugend-Endokrinologie und Diabetologie
-        ZW Kinder- und Jugend-Gastroenterologie
-        ZW Kinder- und Jugend-Nephrologie
-        ZW Kinder- und Jugend-Pneumologie
-        ZW Kinder- und Jugend-Rheumatologie
-        SP Kinder- und Jugend-Kardiologie
-        SP Kinder- und Jugend-Neuropädiatrie
-
-    *   Fünf FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon drei FA mit ZW oder SP:
-        ZW Kinder- und Jugend-Endokrinologie und Diabetologie
-        ZW Kinder- und Jugend-Gastroenterologie
-        ZW Kinder- und Jugend-Nephrologie
-        ZW Kinder- und Jugend-Pneumologie
-        ZW Kinder- und Jugend-Rheumatologie
-        SP Kinder- und Jugend-Kardiologie
-        SP Kinder- und Jugend-Neuropädiatrie
-
-    *
-
-*    *   Auswahl-
-        kriterium
-
-    *   LG Kinder- und Jugendchirurgie
-        LG Spezielle Kinder- und Jugendchirurgie
-        Mindestens eine der folgenden LG:
-        LG Perinataler Schwerpunkt oder
-        LG Perinatalzentrum Level 1 oder
-        LG Perinatalzentrum Level 2
-
     *
     *
     *
@@ -52432,9 +52379,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Kinder-Hämatologie und ‑Onkologie – Stammzelltransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Kinder- und Jugendmedizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
@@ -52452,22 +52397,25 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Kinder- und Jugendmedizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
-        Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
-        gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine
+    *   Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
+        gemäß § 6 der Bekanntmachung eines Beschlusses des GBA über eine
         Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre
         Versorgung von Kindern und Jugendlichen mit hämato-onkologischen
         Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108
         SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz S. 4997 vom
-        16\.05.2006), der zuletzt durch Beschluss vom 1. November 2023 (BAnz AT
-        22\.12.2023 B1) geändert wurde
+        13\.07.2006), der zuletzt durch Beschluss vom 16. November 2024 (BAnz
+        AT 12.12.2024 B6) geändert wurde
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -52483,8 +52431,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   Telemedizinische Behandlung
 
     *   FA Transfusionsmedizin
-        FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und
-        -Onkologie
+        FA Kinder- und Jugendmedizin mit SP Kinder- und
+        Jugend-Hämatologie und -Onkologie
         FA Innere Medizin und Hämatologie und Onkologie
 
     *
@@ -52492,11 +52440,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 *    *   49
 
-    *   Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
+    *   Kinder-Hämatologie und Onkologie – Leukämie und Lymphome
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Kinder- und Jugendmedizin
         LG Intensivmedizin, Qualitätsanforderung Komplex
@@ -52504,27 +52450,29 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
         LG Palliativmedizin
 
-    *   CT jederzeit
-        oder MRT jederzeit
+    *   CT jederzeit oder MRT jederzeit
 
     *   FA Kinder- und Jugendmedizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
-        Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
-        gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine
+    *   Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
+        gemäß § 6 der Bekanntmachung eines Beschlusses des GBA über eine
         Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre
         Versorgung von Kindern und Jugendlichen mit hämato-onkologischen
         Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108
         SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz, S. 4997 vom
-        16\.05.2006), der zuletzt durch Beschluss vom 1. November 2023 (BAnz AT
-        22\.12.2023 B1) geändert wurde
+        13\.07.2006), der zuletzt durch Beschluss vom
+        16\. November 2024 (BAnz AT 12.12.2024 B6) geändert wurde
+        Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -52539,8 +52487,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Telemedizinische Behandlung
 
-    *   FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und
-        -Onkologie
+    *   FA Kinder- und Jugendmedizin mit SP Kinder- und
+        Jugend-Hämatologie und -Onkologie
         FA Innere Medizin und Hämatologie und Onkologie
 
     *
@@ -52550,9 +52498,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   HNO
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -52561,15 +52507,21 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   Elektrische Reaktionsaudiometrie (ERA)
 
-    *   FA Hals-Nasen-Ohrenheilkunde
+    *   FA Hals-Nasen-
+        Ohrenheilkunde
 
     *   Drei FA, mindestens Rufbereitschaft:
         jederzeit
 
-    *
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
-*    *   Auswahl-
-        kriterium
+
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Kinder- und Jugendmedizin
 
@@ -52577,7 +52529,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   MRT,
         PET-CT,
-        Doppler- oder Duplex-Sonographien
+        Doppler- oder
+        Duplex-Sonographien
 
     *   ZW Allergologie
 
@@ -52588,9 +52541,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Cochleaimplantate
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -52602,13 +52553,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA für Hals-Nasen-Ohrenheilkunde
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Kinder- und Jugendmedizin
 
@@ -52616,7 +52571,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   MRT,
         PET-CT,
-        Doppler- oder Duplex-Sonographien
+        Doppler- oder
+        Duplex-Sonographien
 
     *   FA Phoniatrie und Pädaudiologie
 
@@ -52627,9 +52583,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Neurochirurgie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -52638,10 +52592,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   LG Allgemeine Neurologie
         LG Stroke Unit
 
-    *   Elektroenzephalogramm (EEG),
-        Evozierte Potentiale,
-        Elektromyographie (EMG),
-        Elektroneurographie (ENG),
+    *   Evozierte Potentiale,
         Sonographie einschließlich extra- und intrakranielle Doppler- und
         Farbduplexsonographie,
         CT jederzeit,
@@ -52649,13 +52600,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Neurochirurgie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Neurologie
         LG Stroke Unit
@@ -52663,7 +52618,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         Mindestens eine der folgenden LG:
         LG Endoprothetik Hüfte oder
         LG Endoprothetik Knie oder
-        LG Revision Hüftendoprothetik oder
+        LG Revision Hüftendoprothetik
+        oder
         LG Revision Knieendoprothese
 
     *   LG HNO
@@ -52682,62 +52638,51 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Allgemeine Neurologie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
-    *   Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Innere Medizin
+    *   LG Allgemeine Innere Medizin
         LG Intensivmedizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine
-        Innere Medizin
-        LG Intensivmedizin
-
+    *
     *   CT oder MRT (Teleradiologie möglich),
-        EEG,
-        EMG,
+        Elektroenzephalogramm (EEG),
+        Elektromyographie (EMG),
         Evozierte Potentiale,
-        ENG,
+        Elektroneurographie (ENG),
         Sonographie einschließlich extra- und intrakranielle Doppler- und
         Farbduplexsonographie,
         Schluckdiagnostik
 
     *   FA Neurologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Geriatrie
         LG Neurochirurgie
         Mindestens einer der folgenden LG:
         LG EPU/Ablation oder
-        LG Interventionelle Kardiologie
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Innere Medizin
-        LG Intensivmedizin
+        LG Interventionelle Kardiologie oder
+        LG Kardiale Devices oder
+        LG Minimalinvasive Herzklappenintervention
 
     *   LG Allgemeine Chirurgie
         LG Augenheilkunde
         LG HNO
 
-    *   Polysomnographie
-
-    *   FA Neurologie mit ZW Geriatrie oder
-        ZW Intensivmedizin oder ZW Palliativmedizin oder
+    *
+    *   ZW Geriatrie oder
+        ZW Intensivmedizin oder
+        ZW Palliativmedizin oder
         ZW Schlafmedizin
 
     *
@@ -52747,9 +52692,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Stroke Unit
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Innere Medizin
         LG Allgemeine Neurologie
@@ -52758,8 +52701,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   LG Neurochirurgie
         Mindestens eine der folgenden LG:
         LG Bauchaortenaneurysma oder
-        LG Carotis operativ/interventionell oder LG Komplexe periphere
-        arterielle Gefäße
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
 
     *   CT jederzeit oder MRT jederzeit (Befundung auch durch Teleradiologie
         möglich),
@@ -52773,14 +52716,17 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Neurologie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Neurochirurgie
         LG Neuro-Frühreha (NNF, Phase B)
@@ -52790,7 +52736,9 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         LG Komplexe periphere arterielle Gefäße
         Mindestens eine der folgenden LG:
         LG EPU/Ablation oder
-        LG Interventionelle Kardiologie
+        LG Interventionelle Kardiologie oder
+        LG Kardiale Devices oder
+        LG Minimalinvasive Herzklappenintervention
 
     *
     *   Neuroradiologische Behandlungsmöglichkeit (einschließlich
@@ -52807,14 +52755,11 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Neuro-Frühreha (NNF, Phase B)
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin
 
-    *   LG Allgemeine
-        Innere Medizin
+    *   LG Allgemeine Innere Medizin
         LG Allgemeine Neurologie
 
     *   CT oder MRT (Teleradiologie möglich),
@@ -52827,22 +52772,23 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   FA Neurochirurgie
         FA Neurologie
-        FA Neuropädiatrie
+        FA Kinder- und Jugendmedizin mit SP Neuropädiatrie
         FA Physikalische und Rehabilitative Medizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
-    *   LG Allgemeine
-        Innere Medizin
-        LG Allgemeine
-        Neurologie
+    *   LG Allgemeine Innere Medizin
+        LG Allgemeine Neurologie
 
     *
     *
@@ -52854,52 +52800,41 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Geriatrie
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
-    *   Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Innere Medizin
+    *   LG Allgemeine Innere Medizin
         LG Intensivmedizin
 
     *   LG Urologie
         Mindestens eine der folgenden LG:
         LG Allgemeine Neurologie oder
-        LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B)
+        LG Stroke Unit oder
+        LG Neuro-Frühreha (NNF, Phase B)
         Mindestens eine der folgenden LG:
         LG Endoprothetik Hüfte oder
         LG Endoprothetik Knie oder
-        LG Revision Hüftendoprothese oder LG Revision Knieendoprothese
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Innere
-        Medizin
-        LG Intensivmedizin
+        LG Revision Hüftendoprothese oder
+        LG Revision Knieendoprothese oder
+        LG Wirbelsäuleneingriffe
 
-    *   CT oder für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden, mindestens in
-        Kooperation
+    *   CT
 
-    *   FA Allgemeinmedizin,
-        FA Innere Medizin, FA Neurologie,
-        FA Physikalische und Rehabilitative Medizin oder
-        FA Psychiatrie und Psychotherapie mit ZW Geriatrie
+    *   ZW Geriatrie oder Schwerpunkt Geriatrie oder FA für Innere Medizin und
+        Geriatrie
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA Neurologie oder FA Physikalische und
-        Rehabilitative Medizin mit ZW Geriatrie
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei mit ZW Geriatrie oder Schwerpunkt Geriatrie oder
+        FA für Innere Medizin und Geriatrie
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *
     *
-    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Chirurgie
         LG Palliativmedizin
@@ -52911,12 +52846,8 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         LG Endoprothetik Hüfte oder
         LG Endoprothetik Knie oder
         LG Revision Hüftendoprothese oder
-        LG Revision Knieendoprothese
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Innere
-        Medizin
-        LG Intensivmedizin
+        LG Revision Knieendoprothese oder
+        LG Wirbelsäuleneingriffe
 
     *
     *
@@ -52928,34 +52859,27 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Palliativmedizin
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
-    *   Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Innere Medizin
-        oder
+    *   LG Allgemeine Innere Medizin oder
         LG Allgemeine Kinder- und Jugendmedizin
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Innere Medizin oder
-        LG Allgemeine Kinder- und Jugendmedizin
-
+    *
     *
     *   ZW Palliativmedizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA mit ZW Palliativmedizin
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens zwei FA mit ZW Palliativmedizin
 
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
+
+
+*    *
     *
-
-*    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Intensivmedizin
         LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
@@ -52976,28 +52900,11 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *
 
-*    *
-    *
-    *
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Innere Medizin oder
-        LG Allgemeine Kinder- und Jugendmedizin
-
-    *
-    *
-    *
-    *
-    *
-
 *    *   58
 
     *   Darmtransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -53018,18 +52925,21 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   FA Viszeralchirurgie
         ZW Transplantationsmedizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit
         Davon mindestens ein FA mit ZW Transplantationsmedizin
 
-    *   Transplantationsbeauftragter
-        Interdisziplinäre Transplantkonferenz
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
-    *   LG Bauchaortenaneurysma oder
+    *   Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
         LG Carotis operativ/interventionell oder
         LG Komplexe periphere arterielle Gefäße
 
@@ -53047,29 +52957,24 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Herztransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
-    *   LG Allgemeine Innere Medizin
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
         Mindestens eine der folgenden LG:
         LG Herzchirurgie oder
         LG Herzchirurgie – Kinder und Jugendliche
         Mindestens eine der folgenden LG:
         LG EPU/Ablation oder
-        LG Interventionelle Kardiologie
-        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
+        LG Interventionelle Kardiologie oder
+        LG Kardiale Devices oder
+        LG Minimalinvasive Herzklappenintervention
 
-    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Chirurgie
-
+    *
     *   Herzkatheterlabor (Rechts- und Linkskatheter),
-        Herz-Lungen-Maschine,
+        Herz-Lungen-
+        Maschine,
         Röntgen,
         CT jederzeit,
         Teleradiologischer Befund möglich,
@@ -53079,25 +52984,22 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         FA Innere Medizin und Kardiologie
         ZW Transplantationsmedizin
 
-    *   Sechs FA, mindestens Rufbereitschaft: jederzeit
-        Davon mindestens drei FA Herzchirurgie und drei FA Innere Medizin und
-        Kardiologie
-        Davon mindestens ein FA mit ZW Transplantationsmedizin
+    *   Sechs FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens drei FA Herzchirurgie und drei FA Innere Medizin und
+        Kardiologie;
+        davon mindestens ein FA mit ZW Transplantationsmedizin
 
-    *   Transplantationsbeauftragter
-        Interdisziplinäre Transplantkonferenz
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *
     *
-    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Thoraxchirurgie
-        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
-        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
-        Versorgungsstufe „Level F“ zugeordnet wurden:
-        LG Allgemeine Chirurgie
 
     *
     *   ECMO
@@ -53114,9 +53016,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Lebertransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Intensivmedizin, Qualitätsanforderung Hochkomplex
         LG Komplexe Gastroenterologie
@@ -53137,17 +53037,20 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         FA Innere Medizin und Gastroenterologie
         ZW Transplantationsmedizin
 
-    *   Sechs FA, mindestens Rufbereitschaft: jederzeit
-        Davon mindestens drei FA Viszeralchirurgie und drei FA Innere Medizin
-        und Gastroenterologie
-        Davon mindestens ein FA mit ZW Transplantationsmedizin
+    *   Sechs FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens drei FA Viszeralchirurgie und drei FA Innere Medizin
+        und Gastroenterologie;
+        davon mindestens ein FA mit ZW Transplantationsmedizin
 
-    *   Transplantationsbeauftragter
-        Interdisziplinäre Transplantkonferenz
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -53170,9 +53073,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Lungentransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -53193,17 +53094,20 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         ZW Transplantationsmedizin
 
     *   Fünf FA Herzchirurgie und ein FA Thoraxchirurgie, mindestens
-        Rufbereitschaft jederzeit
-        oder drei FA Thoraxchirurgie und ein FA Herzchirurgie, mindestens
-        Rufbereitschaft: jederzeit
-        Davon mindestens ein FA mit ZW Transplantationsmedizin
+        Rufbereitschaft jederzeit oder
+        drei FA Thoraxchirurgie und ein FA Herzchirurgie, mindestens
+        Rufbereitschaft: jederzeit;
+        davon mindestens ein FA mit ZW Transplantationsmedizin
 
-    *   Transplantationsbeauftragter
-        Interdisziplinäre Transplantkonferenz
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *
     *
@@ -53219,15 +53123,14 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Nierentransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
         LG Intensivmedizin, Qualitätsanforderung Hochkomplex
         Mindestens zwei der folgenden LG:
-        LG Komplexe Nephrologie oder
+        LG Komplexe Nephrologie
+        oder
         LG Urologie oder mindestens eine der folgenden LG:
         LG Bariatrische Chirurgie oder
         LG Lebereingriffe oder
@@ -53254,20 +53157,20 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         FA Innere Medizin und Nephrologie
         ZW Transplantationsmedizin
 
-    *   Neun FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens drei FA Viszeralchirurgie, drei FA Urologie und drei
-        FA Innere Medizin und Nephrologie
-        Davon mindestens ein FA mit ZW Transplantationsmedizin
+    *   Neun FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens drei FA Viszeralchirurgie, drei FA Urologie und drei
+        FA Innere Medizin und Nephrologie;
+        davon mindestens ein FA mit ZW Transplantationsmedizin
 
-    *   Transplantationsbeauftragter
-        Interdisziplinäre Transplantkonferenz
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
 *    *
     *
-    *   Auswahl-
-        kriterium
+    *   Auswahl-kriterium
 
     *   LG Urologie
         Mindestens eine der folgenden LG:
@@ -53295,9 +53198,7 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Pankreastransplantation
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindestvoraus-setzung
 
     *   LG Allgemeine Chirurgie
         LG Allgemeine Innere Medizin
@@ -53318,16 +53219,18 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *   FA Viszeralchirurgie
         ZW Transplantationsmedizin
 
-    *   Drei FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens ein FA mit ZW Transplantationsmedizin
+    *   Drei FA, mindestens Rufbereitschaft: jederzeit;
+        davon mindestens ein FA mit ZW Transplantationsmedizin
 
-    *   Transplantationsbeauftragter
-        Interdisziplinäre Transplantkonferenz
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Auswahl-
-        kriterium
+*    *
+    *
+    *   Auswahl-kriterium
 
     *   Mindestens eine der folgenden LG:
         LG Bauchaortenaneurysma oder
@@ -53348,55 +53251,55 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
     *   Intensivmedizin
 
-    *   Mindest-
-        voraus-
-        setzung
+    *   Mindest-voraus-setzung
 
     *
     *
-    *   Notfall-Labor am Standort oder Notfall-Labor in Kooperation plus PoC-
-        Laboranalytik
-
+    *
     *   FA aus einem Gebiet der unmittelbaren Patientenversorgung
         ZW Intensivmedizin
         FA Anästhesiologie
 
     *   Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens ein FA mit ZW Intensivmedizin oder ein FA
+        jederzeit;
+        davon mindestens ein FA mit ZW Intensivmedizin oder ein FA
         Anästhesiologie
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+    *   Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung
+        festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen
+        pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort
+        nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden
 
 
-*    *   Qualitätsanforderung Komplex
+*    *
+    *
+    *   Qualitätsanforderung Komplex
 
     *
     *
     *   Verfügbarkeit folgender Untersuchungs-/Behandlungsverfahren auf der
         Intensivstation:
-        a. Kontinuierliche Nierenersatzverfahren jederzeit
-        b. Flexible Bronchoskopie täglich acht Stunden im Zeitraum von 6 Uhr
-        bis 18 Uhr
-        c. Ultraschall-Verfahren täglich acht Stunden im Zeitraum von 6 Uhr
-        bis 18 Uhr:
+        a) Kontinuierliche Nierenersatzverfahren jederzeit,
+        b) Flexible Bronchoskopie täglich acht Stunden im Zeitraum von 6 Uhr
+        bis 18 Uhr,
+        c) Ultraschall-Verfahren täglich acht Stunden im Zeitraum von 6 Uhr
+        bis 18 Uhr,
         Abdomen,
         TTE,
-        TEE am Standort täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr,
-        Notfall-Labor am Standort plus PoC-Laboranalytik
+        TEE am Standort täglich acht Stunden im Zeitraum von
+        6 Uhr bis 18 Uhr
 
     *   FA aus einem Gebiet der unmittelbaren Patientenversorgung
         ZW Intensivmedizin
 
     *   Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft:
-        jederzeit
-        Davon mindestens zwei FA mit ZW Intensivmedizin
-        Ständige Arztpräsenz auf der Intensivstation (Arzt kann zu einem
-        kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen
-        werden)
+        jederzeit;
+        davon mindestens zwei FA mit ZW Intensivmedizin
+        Ständige Arztpräsenz auf der Intensivstation
+        (Arzt kann zu einem kurzfristigen Notfalleinsatz innerhalb des
+        Krankenhauses hinzugezogen werden)
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
-
+    *
 
 *    *
     *
@@ -53406,14 +53309,14 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     *
     *   Verfügbarkeit folgender Untersuchungs- oder Behandlungsverfahren auf
         der Intensivstation:
-        a. Kontinuierliche Nierenersatzverfahren jederzeit
-        b. Flexible Bronchoskopie jederzeit
-        c. Ultraschall-Verfahren
-        jederzeit: Abdomen,
+        a) Kontinuierliche Nierenersatzverfahren jederzeit
+        b) Flexible Bronchoskopie jederzeit
+        c) Ultraschall-Verfahren jederzeit:
+        Abdomen,
         TTE,
         TEE am Standort,
-        täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr,
-        Notfall-Labor am Standort plus PoC-Laboranalytik
+        täglich acht Stunden im Zeitraum von
+        6 Uhr bis 18 Uhr
 
     *   ZW Intensivmedizin
 
@@ -53422,55 +53325,24 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
         kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen
         werden)
 
-    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
-
+    *
 
 *    *   65
 
-    *   Notfallmedizin
-
-    *   Mindest-
-        voraus-
-        setzung
-
-    *   LG Intensivmedizin
-        LG Allgemeine Innere Medizin
-        LG Allgemeine Chirurgie
+    *   Nicht
+        belegt
 
     *
-    *   Ultraschall,
-        Videolaryngoskopie,
-        Möglichkeit zur nichtinvasiven und invasiven Beatmung oder
-        Transportbeatmung,
-        Sauerstofftherapie,
-        Blutgasanalyse,
-        Röntgen,
-        CT jederzeit,
-        Telemedizinische Behandlung,
-        Monitoring von Elektrokardiogramm (EKG)
-
-    *   FA in einem Gebiet der unmittelbaren Patientenversorgung
-        FA in einem Gebiet der unmittelbaren Patientenversorgung jeweils mit
-        ZW Klinische Akut- und Notfallmedizin
-
-    *   Fünf FA, die fachlich, räumlich und organisatorisch eindeutig der
-        Versorgung in der Notaufnahme zugeordnet sind, mindestens
-        Rufbereitschaft: jederzeit
-        davon mindestens drei FA mit der ZW Klinische Akut- und Notfallmedizin
-        Davon bis zum 31.12.2028 maximal zwei FA in der Zusatz-
-        Weiterbildungsphase zur ZW Klinische Akut- und Notfallmedizin
-
-    *   Erfüllung der Voraussetzungen der Basisnotfallversorgung gemäß den §§
-        8 bis 12 der Bekanntmachung eines Beschlusses des G-BA über Regelungen
-        zu einem gestuften System von Notfallstrukturen in Krankenhäusern
-        gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT 18.05.2018
-        B4), der durch den Beschluss vom 20. November 2020 (BAnz AT 24.12.2020
-        B2) geändert worden ist
+    *
+    *
+    *
+    *
+    *
+    *
 
 
 
-
-(zu § 307 Absatz 1 Satz 3 SGB V)
+   (zu § 307 Absatz 1 Satz 3 SGB V)
 
 ### Anlage 2 Datenschutz-Folgenabschätzung
 
