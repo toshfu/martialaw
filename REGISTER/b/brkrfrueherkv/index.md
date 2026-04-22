@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 2660
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.2.2024 I Nr. 53
+:   Art. 1 V v. 27.2.2026 I Nr. 53
 
 [^F805426_01_BJNR266000018]:     Diese Verordnung dient der Umsetzung des Artikels 55 Absatz 2
     Buchstabe f und h der Richtlinie 2013/59/Euratom des Rates vom 5.
