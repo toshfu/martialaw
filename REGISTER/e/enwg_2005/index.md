@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 18.12.2025 I Nr. 347
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 11.3.2026 I Nr. 66 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 11.3.2026 I Nr. 66
 
 Änderung durch
 :   Art. 5 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
