@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 540
 
 Zuletzt geändert durch
-:   Art. 1 V v. 12.12.2022 I 2277; 2023 I Nr. 20
-
-Änderung durch
-:   Art. 3 G v. 11.3.2026 I Nr. 66 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 11.3.2026 I Nr. 66
 
 
 
