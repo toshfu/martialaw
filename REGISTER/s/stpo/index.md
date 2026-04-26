@@ -7905,7 +7905,7 @@ Erkenntnisse erbringen würde, über die diese das Zeugnis verweigern
 dürfte, ist unzulässig. Dennoch erlangte Erkenntnisse dürfen nicht
 verwendet werden. Aufzeichnungen hierüber sind unverzüglich zu
 löschen. Die Tatsache ihrer Erlangung und der Löschung der
-Aufzeichnungen ist aktenkundig zu machen.Die Sätze 2 bis 4 gelten
+Aufzeichnungen ist aktenkundig zu machen. Die Sätze 2 bis 4 gelten
 entsprechend, wenn durch eine Ermittlungsmaßnahme, die sich nicht
 gegen eine in Satz 1 in Bezug genommene Person richtet, von dieser
 Person Erkenntnisse erlangt werden, über die sie das Zeugnis
