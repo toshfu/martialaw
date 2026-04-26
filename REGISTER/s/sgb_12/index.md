@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3022, 3023
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2025 I Nr. 363
-
-Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 16.1.2026 I Nr. 14
 
 
 ## Inhaltsverzeichnis
