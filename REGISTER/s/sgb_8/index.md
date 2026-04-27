@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.9.2012 I 2022;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 29.3.2026 I Nr. 85
+:   Art. 7 G v. 16.4.2026 I Nr. 107
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
