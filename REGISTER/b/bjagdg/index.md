@@ -1140,7 +1140,7 @@ zu bewahren, ist dieses unverzüglich zu erlegen; das gleiche gilt für
 schwerkrankes Wild, es sei denn, daß es genügt und möglich ist, es zu
 fangen und zu versorgen.
 
-(2) Krankgeschossenes oder schwerkrankes Wild, das in einem fremden
+(2) Krankgeschossenes oder schwerkrankes Wild, das in einen fremden
 Jagdbezirk wechselt, darf nur verfolgt werden (Wildfolge), wenn mit
 dem Jagdausübungsberechtigten dieses Jagdbezirkes eine schriftliche
 Vereinbarung über die Wildfolge abgeschlossen worden ist. Die Länder
