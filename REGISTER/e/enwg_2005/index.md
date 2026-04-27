@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 11.3.2026 I Nr. 66
-
-Änderung durch
-:   Art. 5 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 29.3.2026 I Nr. 84
 
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
