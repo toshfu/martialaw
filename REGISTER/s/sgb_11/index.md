@@ -28,6 +28,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 7 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 8 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -226,8 +229,6 @@ nach Eintritt der Pflegebedürftigkeit ihre Leistungen zur
 medizinischen Rehabilitation und ergänzenden Leistungen in vollem
 Umfang einzusetzen und darauf hinzuwirken, die Pflegebedürftigkeit zu
 überwinden, zu mindern sowie eine Verschlimmerung zu verhindern.
-
-(7) (weggefallen)
 
 
 ### § 6 Eigenverantwortung
@@ -3187,9 +3188,6 @@ Buches gilt entsprechend.
 3.  Kombination von Geldleistung und Sachleistung (§ 38),
 
 
-3a. (weggefallen)
-
-
 4.  Verhinderungspflege (§ 39 in Verbindung mit § 42a),
 
 
@@ -5239,8 +5237,6 @@ Verbände der Menschen mit Behinderungen, der Pflegebedürftigen und
 ihrer Angehörigen und vergleichbar Nahestehenden auf Bundesebene vor
 dem Beschluss anzuhören.
 
-(9) (weggefallen)
-
 
 #### § 45d Förderung der Selbsthilfe in der Pflege, Verordnungsermächtigung
 
@@ -5285,8 +5281,8 @@ Fördermaßnahme insgesamt geleistet werden.
 (4) Von den in Absatz 1 Satz 1 genannten Fördermitteln werden Mittel
 im Umfang von 0,05 Euro pro Versichertem zur Verfügung gestellt, um
 bundesweite Tätigkeiten und Strukturen von Selbsthilfegruppen,
-‑organisationen und ‑kontaktstellen zu fördern sowie um
-Gründungszuschüsse für neue Selbsthilfegruppen, ‑organisationen und
+-organisationen und -kontaktstellen zu fördern sowie um
+Gründungszuschüsse für neue Selbsthilfegruppen, -organisationen und
 -kontaktstellen zu gewähren, ohne dass es einer Mitfinanzierung durch
 ein Land oder durch eine kommunale Gebietskörperschaft bedarf; die
 Gewährung insbesondere von Gründungszuschüssen im Rahmen einer
@@ -6286,12 +6282,6 @@ Eintritt eines vergleichbaren Ereignisses erbracht werden. Ansonsten
 wirkt der Nachweis ab Beginn des Monats, der dem Monat folgt, in dem
 der Nachweis erbracht wird. Die beitragsabführenden Stellen und die
 Pflegekassen sind berechtigt, entsprechende Nachweise anzufordern.
-
-(3b) (weggefallen)
-
-(3c) (weggefallen)
-
-(3d) (weggefallen)
 
 (4) Zu den Eltern im Sinne des Absatzes 3 Satz 3 gehören nicht
 
@@ -8099,11 +8089,12 @@ Aufnahme der digitalen Pflegeanwendung in das Verzeichnis nach Absatz
 3 einen Vergütungsbetrag sowie technische und vertragliche
 Rahmenbedingungen für die Zurverfügungstellung der digitalen
 Pflegeanwendungen nach § 40a Absatz 4. Die Vereinbarungen gelten ab
-dem darin vereinbarten Zeitpunkt. Kommt innerhalb der Frist nach Satz
-1 keine Einigung zustande, entscheidet die Schiedsstelle nach § 134
-Absatz 3 des Fünften Buches mit der Maßgabe, dass an die Stelle der
-zwei Vertreter der Krankenkassen zwei Vertreter der Pflegekassen und
-an die Stelle der zwei Vertreter der Hersteller digitaler
+dem Zeitpunkt der Aufnahme in das Verzeichnis für digitale
+Pflegeanwendungen. Kommt innerhalb der Frist nach Satz 1 keine
+Einigung zustande, entscheidet die Schiedsstelle nach § 134 Absatz 3
+des Fünften Buches mit der Maßgabe, dass an die Stelle der zwei
+Vertreter der Krankenkassen zwei Vertreter der Pflegekassen und an die
+Stelle der zwei Vertreter der Hersteller digitaler
 Gesundheitsanwendungen zwei Vertreter der Hersteller von digitalen
 Pflegeanwendungen treten. An den Sitzungen der Schiedsstelle können
 anstelle der Vertreter der Patientenorganisationen nach § 140f des
@@ -8166,7 +8157,7 @@ Antrag Nachweise darüber beizufügen, dass die digitale Pflegeanwendung
 
 
 3.  im Sinne der Rechtsverordnung nach Absatz 6 Nummer 2 einen
-    pflegerischen Nutzen im Sinne des § 40a Absatz 1 oder 1a aufweist.
+    pflegerischen Nutzen aufweist.
 
 
 
@@ -8211,17 +8202,19 @@ verlängert werden. Legt der Hersteller unvollständige
 Antragsunterlagen vor, fordert ihn das Bundesinstitut für Arzneimittel
 und Medizinprodukte auf, den Antrag innerhalb von einer Frist von drei
 Monaten zu ergänzen. Liegen nach Ablauf der Frist keine vollständigen
-Antragsunterlagen vor und hat der Hersteller keine Erprobung nach
-Absatz 6a beantragt, ist der Antrag abzulehnen. Das Bundesinstitut für
-Arzneimittel und Medizinprodukte berät die Hersteller digitaler
+Antragsunterlagen vor, ist der Antrag abzulehnen. Das Bundesinstitut
+für Arzneimittel und Medizinprodukte berät die Hersteller digitaler
 Pflegeanwendungen zu den Antrags- und Anzeigeverfahren sowie zu den
 Voraussetzungen, die erfüllt sein müssen, damit die Versorgung mit der
 jeweiligen digitalen Pflegeanwendung nach den §§ 40a und 40b zu Lasten
 der Pflegeversicherung erbracht werden kann. Im Übrigen gilt § 139e
-Absatz 6 bis 8 des Fünften Buches entsprechend. Das Bundesinstitut für
-Arzneimittel und Medizinprodukte informiert die Vertragsparteien nach
-§ 75 Absatz 1, die an Rahmenverträgen über ambulante Pflege beteiligt
-sind, über die erforderlichen ergänzenden Unterstützungsleistungen.
+Absatz 6 bis 8 des Fünften Buches entsprechend. In seiner Entscheidung
+stellt das Bundesinstitut für Arzneimittel und Medizinprodukte fest,
+welche ergänzenden Unterstützungsleistungen für die Nutzung der
+digitalen Pflegeanwendung erforderlich sind, und informiert die
+Vertragsparteien nach § 75 Absatz 1, die an Rahmenverträgen über
+ambulante Pflege beteiligt sind, zeitgleich mit der Aufnahme der
+digitalen Pflegeanwendung in das Verzeichnis nach Absatz 3 hierüber.
 Das Bundesinstitut für Arzneimittel und Medizinprodukte informiert
 unverzüglich den Spitzenverband Bund der Pflegekassen über die
 Aufnahme einer digitalen Pflegeanwendung in das Verzeichnis nach
@@ -8272,54 +8265,6 @@ Soziales ohne Zustimmung des Bundesrates das Nähere zu regeln zu
 
 
 
-
-(6a) Ist dem Hersteller noch nicht möglich, einen pflegerischen Nutzen
-im Sinne des § 40a Absatz 1 oder 1a nachzuweisen, so kann er nach
-Absatz 4 auch beantragen, dass die digitale Pflegeanwendung ab dem in
-Absatz 1 Satz 2 zwischen den Vertragspartnern vereinbarten Zeitpunkt
-für bis zu zwölf Monate in das Verzeichnis nach Absatz 3 zur Erprobung
-aufgenommen wird. Der Hersteller hat dem Antrag folgende Unterlagen
-beizufügen:
-
-1.  Nachweise nach Absatz 4 Satz 3 Nummer 1 und 2,
-
-
-2.  eine plausible Begründung für den pflegerischen Nutzen und
-
-
-3.  ein von einer herstellerunabhängigen Institution erstelltes
-    wissenschaftliches Evaluationskonzept zum Nachweis des pflegerischen
-    Nutzens.
-
-
-
-Über die Aufnahme der digitalen Pflegeanwendung in das Verzeichnis
-nach Absatz 3 zur Erprobung entscheidet das Bundesinstitut für
-Arzneimittel und Medizinprodukte durch Bescheid. Die Erprobung und
-ihre Dauer sind im Verzeichnis für digitale Pflegeanwendungen
-kenntlich zu machen. Der Hersteller hat dem Bundesinstitut für
-Arzneimittel und Medizinprodukte spätestens nach Ablauf des
-Erprobungszeitraums den Nachweis des pflegerischen Nutzens der
-erprobten digitalen Pflegeanwendung vorzulegen. Das Bundesinstitut für
-Arzneimittel und Medizinprodukte entscheidet über die endgültige
-Aufnahme der erprobten digitalen Pflegeanwendung in das Verzeichnis
-innerhalb von drei Monaten nach Eingang der vollständigen Nachweise
-durch Bescheid. Ist der pflegerische Nutzen nicht hinreichend belegt,
-besteht aber aufgrund der vorgelegten Erprobungsergebnisse eine
-überwiegende Wahrscheinlichkeit einer späteren Nachweisführung, so
-kann das Bundesinstitut für Arzneimittel und Medizinprodukte den
-Zeitraum der vorläufigen Aufnahme in das Verzeichnis zur Erprobung um
-bis zu zwölf Monate verlängern. Lehnt das Bundesinstitut für
-Arzneimittel und Medizinprodukte eine Aufnahme in das Verzeichnis
-endgültig ab, so hat es die zur Erprobung vorläufig aufgenommene
-digitale Pflegeanwendung aus dem Verzeichnis zu streichen. Eine
-erneute Antragstellung nach Absatz 4 ist frühestens zwölf Monate nach
-dem ablehnenden Bescheid des Bundesinstituts für Arzneimittel und
-Medizinprodukte und auch nur dann zulässig, wenn neue Nachweise
-vorgelegt werden. Eine wiederholte vorläufige Aufnahme in das
-Verzeichnis zur Erprobung ist nicht zulässig. Soweit in diesem Absatz
-nichts anderes bestimmt ist, gelten die Absätze 1 bis 6 und 7 bis 9
-entsprechend.
 
 (7) Das Bundesamt für Sicherheit in der Informationstechnik legt im
 Einvernehmen mit dem Bundesinstitut für Arzneimittel und
@@ -11824,6 +11769,74 @@ orientieren. Die Grundlagen des Berichts nach den Sätzen 3 und 4 legt
 der Spitzenverband Bund der Pflegekassen bis zum 31. März 2024 fest.
 Die Grundlagen des Berichts bedürfen der Zustimmung des
 Bundesministeriums für Gesundheit.
+
+
+### § 113d Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen
+
+Die maßgeblichen Organisationen der Pflegeberufe auf Bundesebene
+beauftragen gemeinsam mit den Vertragsparteien nach § 113 Absatz 1
+Satz 1 bis zum 31. Dezember 2026 eine unabhängige qualifizierte
+Geschäftsstelle mit der Begleitung und Unterstützung einer fachlich
+fundierten Personal- und Organisationsentwicklung von
+Pflegeeinrichtungen. Die beauftragte Geschäftsstelle soll insbesondere
+die folgenden Zielgruppen und Maßnahmen unterstützen:
+
+1.  Pflegefachpersonen und Pflegeeinrichtungen bei der fachgerechten
+    Wahrnehmung der Pflegeprozessverantwortung,
+
+
+2.  Pflegefachpersonen und Pflegeeinrichtungen bei der Umsetzung von
+    Pflegedokumentationskonzepten, die den Anforderungen des § 113 Absatz
+    1 Satz 3 bis 5 entsprechen,
+
+
+3.  Pflegeeinrichtungen bei der Umsetzung von personzentrierten und
+    kompetenzorientierten Personal- und
+    Organisationsentwicklungsmaßnahmen, für vollstationäre
+    Pflegeeinrichtungen auch nach § 113c Absatz 3 Satz 1 Nummer 1,
+
+
+4.  Pflegeeinrichtungen bei der Umsetzung pflegerischer Aufgaben auf der
+    Grundlage der wissenschaftlichen Expertisen nach § 8 Absatz 3c sowie
+    bei der Entwicklung und Umsetzung von Führungs- und
+    Delegationskonzepten und
+
+
+5.  Pflegefachpersonen und Pflegeeinrichtungen bei der Umsetzung eines
+    ganzheitlichen, personzentrierten Pflegeverständnisses, das die
+    Stärkung der Selbständigkeit und der Fähigkeiten der pflegebedürftigen
+    Menschen in den Mittelpunkt stellt.
+
+
+
+Die Unterstützung nach Satz 2 soll insbesondere erfolgen durch
+
+1.  die Entwicklung und Durchführung von Schulungsmaßnahmen zu den
+    Maßnahmen nach Satz 2, insbesondere für Multiplikatorinnen und
+    Multiplikatoren, um entsprechende Schulungsmaßnahmen bundesweit in
+    geeigneter regionaler Dichte und Häufigkeit anbieten zu können, sowie
+
+
+2.  die Entwicklung und Bewertung fachlicher Informationen, von
+    Assessmentinstrumenten und Konzepten zur Nutzung durch
+    Pflegefachpersonen und Leitungskräfte in der Pflege zu den Maßnahmen
+    nach Satz 2 und die öffentliche Bereitstellung dieser Informationen,
+    Assessmentinstrumente und Konzepte im Internet.
+
+
+
+Der Medizinische Dienst Bund und die maßgeblichen Organisationen für
+die Wahrnehmung der Interessen und der Selbsthilfe der
+pflegebedürftigen und behinderten Menschen nach Maßgabe von § 118
+sowie weitere relevante Fachorganisationen sind bei der Entwicklung
+der Maßnahmen nach Satz 2 zu beteiligen. Näheres zur Zusammensetzung
+und Arbeitsweise der Geschäftsstelle, insbesondere zur Auswahl und
+Qualifikation der Multiplikatorinnen und Multiplikatoren, regeln die
+maßgeblichen Organisationen der Pflegeberufe auf Bundesebene und die
+Vertragsparteien nach § 113 Absatz 1 Satz 1 in einer Geschäftsordnung.
+Die Geschäftsstelle ist bis zum 31. Dezember 2029 befristet. Sie legt
+der oder dem Bevollmächtigten der Bundesregierung für Pflege jährlich,
+erstmals zum 31. März 2028, einen Bericht über ihre Arbeit vor.
 
 
 ### § 113d Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen
