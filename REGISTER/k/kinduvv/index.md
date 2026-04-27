@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 1364
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 20 G v. 16.12.2022 I 2328
+:   Art. 11 Abs. 6 G v. 16.4.2026 I Nr. 107
 
 
 ## § 1 Formulare
