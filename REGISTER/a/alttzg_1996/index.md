@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 Abs. 16 G v. 16.12.2022 I 2328
 
+Änderung durch
+:   Art. 11 Abs. 10 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Grundsatz
 
