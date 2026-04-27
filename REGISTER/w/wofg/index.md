@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2376
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 15 G v. 16.12.2022 I 2328
+:   Art. 11 Abs. 2 G v. 16.4.2026 I Nr. 107
 
 
 ## Teil 1 - Allgemeines zur Förderung
