@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
