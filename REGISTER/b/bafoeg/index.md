@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.12.2010 I 1952; 2012 I 197;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.7.2024 I Nr. 249
+:   Art. 11 Abs. 1 G v. 16.4.2026 I Nr. 107
 
 
 ## § 1 Grundsatz
