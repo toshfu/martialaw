@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1649
 
+Änderung durch
+:   Art. 1 G v. 16.4.2026 I Nr. 106 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Regelungen
 
@@ -42,7 +45,7 @@ Statistische Bundesamt hält in Zusammenarbeit mit dem
 Informationstechnikzentrum Bund die für die Aufbereitung und
 Datenhaltung notwendige IT-Infrastruktur vor. Die Verantwortlichkeit
 der statistischen Ämter der Länder für die zur Erfüllung der Aufgaben
-nach § 9 notwendige IT-Infrastruktur bleibt davon unberührt.
+nach § 16 notwendige IT-Infrastruktur bleibt davon unberührt.
 
 
 ### § 3 Kosten der Datenübermittlung an das Statistische Bundesamt
@@ -56,10 +59,10 @@ Bundesamt entstehen, werden nicht erstattet.
 
 ### § 4 Daten der Meldebehörden
 
-(1) Die nach Landesrecht für das Meldewesen zuständigen Stellen
-(Meldebehörden) übermitteln den statistischen Ämtern der Länder zur
+(1) Die für die alleinige Wohnung oder Hauptwohnung zuständigen
+Meldebehörden übermitteln den statistischen Ämtern der Länder zur
 Erstellung ergänzender Bevölkerungsstatistiken ab dem 31. Dezember
-2023 bis zum 31. Dezember 2028 jährlich zum Stichtag 31. Dezember für
+2023 bis zum 31. Dezember 2030 jährlich zum Stichtag 31. Dezember für
 jede zum Stichtag mit alleiniger Wohnung oder Hauptwohnung gemeldete
 Person die Daten zu folgenden Merkmalen:
 
@@ -128,11 +131,9 @@ Person die Daten zu folgenden Merkmalen:
     frühere Gemeindenamen,
 
 
-21. Identifikationsnummer nach § 1 des Identifikationsnummerngesetzes vom
-    28\. März 2021 (BGBl. I S. 591), übergangsweise die
-    Identifikationsnummer für steuerliche Zwecke gemäß § 139b Absatz 3
-    Nummer 1 der Abgabenordnung einschließlich des vorläufigen
-    Bearbeitungsmerkmals der Meldebehörden.
+21. Identifikationsnummer nach § 1 des Identifikationsnummerngesetzes,
+    übergangsweise die Identifikationsnummer für steuerliche Zwecke nach §
+    139b der Abgabenordnung.
 
 
 
@@ -157,6 +158,18 @@ drei Jahre nach dem Stichtag. Die Daten zu den Hilfsmerkmalen nach
 Absatz 1 Satz 1 Nummer 1 und 3 sowie Nummer 13 bis 15 sind nach
 Abschluss der Aufbereitung zu löschen, jedoch spätestens vier Jahre
 nach dem Stichtag.
+
+(3a) Für die Zwecke der Erprobung der Ermittlung der
+Arbeitsmarktbeteiligung der Bevölkerung darf das Hilfsmerkmal nach
+Absatz 1 Nummer 21 für das Berichtsjahr 2023 bis zur Zusammenführung
+nach § 10 gespeichert werden und ist abweichend von Absatz 3 Satz 2
+nach der Zusammenführung nach § 10 zu löschen, spätestens jedoch sechs
+Jahre nach Übermittlung. Für die Zwecke der Erprobung der Ermittlung
+des Bildungsstands der Bevölkerung dürfen die Hilfsmerkmale nach
+Absatz 1 Nummer 2, 3 und 5 (Tag der Geburt) für die Berichtsjahre 2023
+und 2024 bis zur Zusammenführung nach § 14 gespeichert werden und sind
+abweichend von Absatz 3 Satz 2 nach der Zusammenführung nach § 14 zu
+löschen, spätestens jedoch sechs Jahre nach Übermittlung.
 
 (4) Die statistischen Ämter der Länder überprüfen innerhalb von 16
 Wochen nach dem jeweiligen Stichtag der Datenübermittlungen nach
@@ -216,86 +229,312 @@ frühestmöglich, spätestens jedoch bis zum
 31\. Dezember 2026              zu löschen.
 
 
-### § 7 Übermittlung von Daten aus Vergleichsdatenbeständen
+### § 7 Zusammenführungen
 
-(1) Die Stellen nach Absatz 2 übermitteln aus den dort genannten
-Datenbeständen einmalig zum Zensusstichtag 2022 zu Personen, die
-innerhalb eines Zeitraums von 24 Monaten vor dem Stichtag einen
-Verwaltungskontakt hatten, die Daten zu den Merkmalen nach Absatz 3 an
-das Statistische Bundesamt. Das Statistische Bundesamt ist befugt, den
-in Satz 1 genannten Zeitraum von 24 Monaten um bis zu zwölf Monate zu
-verkürzen.
+(1) Das Statistische Bundesamt darf die in § 4 genannten Daten für die
+Erstellung ergänzender Bevölkerungsstatistiken mit dem
+fortgeschriebenen Bevölkerungsstand nach § 5 Absatz 1 des
+Bevölkerungsstatistikgesetzes zusammenführen.
 
-(2) Die Stellen und die jeweils dazugehörigen Datenbestände nach
-Absatz 1 sind:
+(2) Das Statistische Bundesamt darf die in § 6 Satz 1 Nummer 1
+genannten Daten für Zwecke der Entwicklung der Methoden der
+ergänzenden Bevölkerungsstatistiken mit dem fortgeschriebenen
+Bevölkerungsstand nach § 5 Absatz 1 des Bevölkerungsstatistikgesetzes
+zusammenführen.
 
-1.  gesetzliche Rentenversicherung einschließlich der Alterssicherung der
-    Landwirte:
-
-    a)  Stammsatzdatei der Rentenversicherung,
-
-
-    b)  Versichertenkonten der Rentenversicherungsträger einschließlich des
-        Trägers der Alterssicherung der Landwirte,
+(3) Nach Abschluss aller einmaligen und jährlichen
+Aufbereitungsschritte erhalten die statistischen Ämter der Länder auf
+Anforderung für ihren jeweiligen Zuständigkeitsbereich zur Evaluation
+der entwickelten Methoden eine Kopie der Daten nach den Absätzen 1 bis
+3 ohne die Hilfsmerkmale.
 
 
+## Abschnitt 3 - Weitere Datenquellen
 
 
-
-2.  Bundesagentur für Arbeit:
-
-    a)  Einzelangaben aus den Statistikregistern zu den Arbeitsuchenden und
-        Arbeitslosen,
+### Unterabschnitt 1 - Erhebung von Daten zur Erprobung der Ermittlung der Arbeitsmarktbeteiligung der Bevölkerung
 
 
-    b)  Einzelangaben aus den Statistikregistern zu den Bewerbern für
-        Berufsausbildungsstellen,
+#### § 8 Daten der Finanzbehörden der Länder
+
+(1) Zur Erprobung von Verfahren zur Ermittlung der
+Arbeitsmarktbeteiligung der Bevölkerung übermitteln die Finanzbehörden
+der Länder an das Statistische Bundesamt die in elektronischer Form
+gespeicherten Daten aller einkommensteuerpflichtigen natürlichen
+Personen nach § 1 des Einkommensteuergesetzes mit Gewinneinkunftsart
+zu folgenden Merkmalen:
+
+1.  Identifikationsnummer für steuerliche Zwecke nach § 139b der
+    Abgabenordnung,
 
 
-    c)  Einzelangaben aus den Statistikregistern zu den Beziehern von
-        Lohnersatzleistungen nach dem Dritten Buch Sozialgesetzbuch und von
-        Leistungen zur Grundsicherung für Arbeitsuchende,
+2.  Status der aktiven Arbeitgebertätigkeit,
 
 
-    d)  Einzelangaben aus den Statistikregistern zu den Teilnehmern von
-        Aktivierungs-, Weiterbildungs- und Beschäftigungsmaßnahmen,
+3.  aktive Gewerbekennzahl,
 
 
+4.  amtlicher Gemeindeschlüssel der betrieblichen Anschrift,
 
 
-
-3.  Kraftfahrt-Bundesamt:
-
-    a)  Zentrales Fahrzeugregister,
+5.  amtlicher Gemeindeschlüssel der Wohnanschrift,
 
 
-    b)  Zentrales Fahrerlaubnisregister,
+6.  Angaben zur Art der Tätigkeit laut Gewinnermittlung,
 
 
+7.  ausgeübter Beruf und Art der Tätigkeit laut Fragebogen zur
+    steuerlichen Erfassung und
 
 
-
-4.  Bundesamt für Migration und Flüchtlinge: Ausländerzentralregister,
-
-
-5.  personalabrechnende Stellen des Bundes und der Länder: Daten der
-    öffentlichen Arbeitgeber in Bund, Ländern und Kommunen,
-
-
-6.  gesetzliche Unfallversicherung: Zentrales Unternehmerverzeichnis der
-    gesetzlichen Unfallversicherung.
+8.  ausgeübter Beruf laut Hauptvordruck der Einkommensteuererklärung.
 
 
 
-Die Information zur jeweils absendenden datenführenden Stelle wird für
-Zwecke der Einschätzung möglicher Unstimmigkeiten pseudonymisiert
-gespeichert und gesondert gesichert aufbewahrt.
 
-(3) Aus den in Absatz 2 genannten Datenbeständen sind, soweit
-vorhanden, die Daten zu den folgenden Merkmalen zu übermitteln:
+(2) Von den nach Absatz 1 übermittelten Daten werden die Daten zu den
+Merkmalen nach Absatz 1 Nummer 2 bis 8 als Erhebungsmerkmale und die
+Daten nach Absatz 1 Nummer 1 als Hilfsmerkmal erfasst. Das
+Hilfsmerkmal ist von den Erhebungsmerkmalen zum frühestmöglichen
+Zeitpunkt zu trennen und gesondert aufzubewahren oder gesondert zu
+speichern.
 
-1.  Familienname, frühere Namen, Vornamen und Vornamen vor Änderung,
-    Doktorgrad,
+(3) Für die Daten nach Absatz 1 Nummer 1 bis 5 ist Stichtag der 31.
+Dezember 2023. Die Daten nach Absatz 1 Nummer 6 bis 8 werden
+übermittelt, soweit sie für das Berichtsjahr 2026 vorliegen. Die
+Übermittlung der Daten nach den Sätzen 1 und 2 erfolgt spätestens zum
+30\. Juni 2026. Die Daten nach Absatz 1 Nummer 7 und 8 werden
+unverzüglich übermittelt, sobald sie bei den Finanzbehörden der Länder
+vorliegen.
+
+
+#### § 9 Daten aus den Lohn- und Einkommensteuerstatistiken
+
+(1) Soweit die Finanzbehörden der Länder für die Lohn- und
+Einkommensteuerstatistik nach § 2 Absatz 2 Nummer 2 des Gesetzes über
+Steuerstatistiken Daten übermittelt haben, verwendet das Statistische
+Bundesamt zur Erprobung von Verfahren zur Ermittlung der
+Arbeitsmarktbeteiligung der Bevölkerung und zur Qualitätssicherung die
+hieraus aufbereiteten Daten aller einkommensteuerpflichtigen
+natürlichen Personen nach § 1 des Einkommensteuergesetzes mit
+Gewinneinkunftsart für das Jahr 2023 zu den Merkmalen:
+
+1.  Identifikationsnummer für steuerliche Zwecke nach § 139b der
+    Abgabenordnung,
+
+
+2.  Gewerbekennzahl,
+
+
+3.  Vorliegen eines aktiven Geschäftsverhaltens und
+
+
+4.  Relation der versteuerten Einkunftsarten.
+
+
+
+Zusätzlich zu Satz 1 werden, soweit die Finanzbehörden der Länder für
+die Lohn- und Einkommensteuerstatistik nach § 2 Absatz 2 Nummer 2 des
+Gesetzes über Steuerstatistiken Daten übermittelt haben, für alle
+übrigen einkommensteuerpflichtigen Personen nach § 1 des
+Einkommensteuergesetzes für das Jahr 2023 Daten zu den Merkmalen nach
+Satz 1 Nummer 1 und 4 verwendet.
+
+(2) Von den nach Absatz 1 übermittelten Daten werden die Daten zu den
+Merkmalen nach Absatz 1 Nummer 2 bis 4 als Erhebungsmerkmale und die
+Daten nach Absatz 1 Nummer 1 als Hilfsmerkmal erfasst. Das
+Hilfsmerkmal ist von den Erhebungsmerkmalen zum frühestmöglichen
+Zeitpunkt zu trennen und gesondert aufzubewahren oder gesondert zu
+speichern.
+
+(3) Die statistischen Ämter der Länder übermitteln an das Statistische
+Bundesamt zur Erprobung von Verfahren zur Ermittlung der
+Arbeitsmarktbeteiligung der Bevölkerung die aufbereiteten Daten zu den
+Merkmalen nach Absatz 1. Sofern die Daten nach Absatz 1 noch nicht
+aufbereitet vorliegen, sind Daten zu den Merkmalen nach Absatz 1
+unverzüglich, spätestens jedoch bis zum 31. Dezember 2026, zu
+übermitteln. Ist eine Datenübermittlung nach Satz 2 erfolgt, sind
+zusätzlich die aufbereiteten Daten nach Absatz 1 nach Abschluss der
+Aufbereitung zu übermitteln.
+
+
+#### § 10 Zusammenführung
+
+Zur Erprobung von Verfahren zur Ermittlung der Arbeitsmarktbeteiligung
+der Bevölkerung dürfen die folgenden Daten für die Gesamtbevölkerung
+zusammengeführt und verarbeitet werden:
+
+1.  Daten zu den Merkmalen nach § 4 Absatz 1 Nummer 4, 5 (Angabe des
+    Jahres), 7 bis 10 und 21 für das Berichtsjahr 2023,
+
+
+2.  nach § 5 Absatz 1 geprüfte und bereinigte Daten zu den Merkmalen nach
+    Nummer 1 für das Berichtsjahr 2023,
+
+
+3.  nach § 5 Absatz 2 aufbereitete Daten zu den Merkmalen nach Nummer 1
+    für das Berichtsjahr 2023 sowie
+
+
+4.  Daten zu den Merkmalen nach den §§ 8 und 9.
+
+
+
+Die Zusammenführung nach Satz 1 darf mittels der Identifikationsnummer
+für steuerliche Zwecke nach § 139b der Abgabenordnung erfolgen.
+
+
+#### § 11 Löschung
+
+Die Daten zu den Hilfsmerkmalen nach § 8 Absatz 2 Satz 1 und § 9
+Absatz 2 Satz 1 sind nach der Zusammenführung nach § 10 Satz 1 zu
+löschen, spätestens jedoch drei Jahre nach Ablauf des Kalenderjahres,
+in dem die Daten an das Statistische Bundesamt übermittelt wurden. Die
+Daten zu den Erhebungsmerkmalen nach § 8 Absatz 2 Satz 1 und § 9
+Absatz 2 Satz 1 sind nach der Zusammenführung und Verarbeitung nach
+§ 10 Satz 1 zu löschen, spätestens jedoch sechs Jahre nach Ablauf des
+Kalenderjahres, in dem die Daten an das Statistische Bundesamt
+übermittelt wurden.
+
+
+### Unterabschnitt 2 - Erhebung von Daten zur Erprobung der Ermittlung des Bildungsstands der Bevölkerung
+
+
+#### § 12 Daten aus den Statistiken der Bundesagentur für Arbeit
+
+(1) Zur Erprobung von Verfahren zur Ermittlung des Bildungsstands der
+Bevölkerung übermittelt die Bundesagentur für Arbeit an das
+Statistische Bundesamt zu allen zum jeweiligen Stichtag erfassten
+Personen:
+
+1.  Daten aus der Statistik zu den sozialversicherungspflichtig und den
+    geringfügig Beschäftigten zum Stichtag 31. Dezember 2023 und 31.
+    Dezember 2024 sowie
+
+
+2.  Daten aus der Statistik zu den Arbeitsuchenden und den Arbeitslosen
+    zum Stichtag 13. Dezember 2023 und 12. Dezember 2024.
+
+
+
+
+(2) Aus den Statistiken nach Absatz 1 werden Daten zu folgenden
+Merkmalen, soweit vorhanden, übermittelt:
+
+1.  höchster oder angestrebter beziehungsweise erreichter Schulabschluss,
+
+
+2.  höchster oder letzter Berufsabschluss,
+
+
+3.  Bildungsstand nach der Internationalen Standardklassifikation des
+    Bildungswesens (ISCED),
+
+
+4.  ausgeübte Tätigkeit (Beruf),
+
+
+5.  Ausbildungsberuf,
+
+
+6.  Beschäftigungsart,
+
+
+7.  Wirtschaftszweig,
+
+
+8.  Familienname, frühere Namen einschließlich Geburtsnamen, Vornamen und
+    Vornamen vor Änderung, Doktorgrad,
+
+
+9.  Straße, Straßenschlüssel, Hausnummer und Anschriftenzusätze,
+
+
+10. Wohnort, Postleitzahl, amtlicher Gemeindeschlüssel und frühere
+    Gemeindenamen,
+
+
+11. Geburtsdatum,
+
+
+12. Geburtsort,
+
+
+13. Geschlecht,
+
+
+14. Staatsangehörigkeit und
+
+
+15. Familienstand.
+
+
+
+
+(3) Von den nach Absatz 2 übermittelten Daten werden die Daten zu den
+Merkmalen nach Absatz 2 Nummer 1 bis 7, 10 und 12 bis 15 als
+Erhebungsmerkmale und die Daten nach Absatz 2 Nummer 8 und 9 als
+Hilfsmerkmale erfasst. Vom Geburtsdatum nach Absatz 2 Nummer 11 werden
+die Angaben des Monats und des Jahres als Erhebungsmerkmale und die
+Angabe des Tages als Hilfsmerkmal erfasst. Die Hilfsmerkmale sind von
+den Erhebungsmerkmalen zum frühestmöglichen Zeitpunkt zu trennen und
+gesondert aufzubewahren oder gesondert zu speichern.
+
+(4) Die Datenübermittlungen nach den Absätzen 1 und 2 erfolgen
+spätestens am 31. August 2026.
+
+
+#### § 13 Daten aus dem Zensus 2022 und dem Mikrozensus
+
+(1) Die statistischen Ämter der Länder übermitteln zur Erprobung von
+Verfahren zur Ermittlung des Bildungsstands der Bevölkerung die Daten
+nach § 16 Absatz 1 und die Daten nach § 16 Absatz 3 für die
+Berichtsjahre 2022, 2023 und 2024 zum 30. Juni 2026 an das
+Statistische Bundesamt. Von der Übermittlung nach Satz 1 sind die
+Daten nach § 6 Absatz 1 Nummer 4 Buchstabe a Doppelbuchstabe cc und ee
+des Mikrozensusgesetzes sowie die Daten nach § 13 Absatz 1 Nummer 7
+und Absatz 2 Nummer 4 des Zensusgesetzes 2022 ausgenommen.
+
+(2) Die nach Absatz 1 übermittelten Daten nach § 13 Absatz 2 des
+Zensusgesetzes 2022 sowie nach § 11 Absatz 1 Nummer 1 und 3 des
+Mikrozensusgesetzes werden als Hilfsmerkmale erfasst. Die nach Absatz
+1 übermittelten Daten nach § 13 Absatz 1 Nummer 2 bis 5 und 9 sowie 16
+bis 18 des Zensusgesetzes 2022 und nach § 6 Absatz 1 Nummer 1
+Buchstabe a, Nummer 3, 4 Buchstabe a Doppelbuchstabe aa und ff, Nummer
+7 Buchstabe a bis c und Nummer 8 des Mikrozensusgesetzes werden als
+Erhebungsmerkmale erfasst. Die Hilfsmerkmale sind von den
+Erhebungsmerkmalen zum frühestmöglichen Zeitpunkt zu trennen und
+gesondert aufzubewahren oder gesondert zu speichern.
+
+
+#### § 14 Zusammenführung
+
+(1) Zur Erprobung von Verfahren zur Ermittlung des Bildungsstands der
+Bevölkerung dürfen die folgenden Daten für die Gesamtbevölkerung
+zusammengeführt und verarbeitet werden:
+
+1.  Daten zu den Merkmalen nach § 4 Absatz 1 Nummer 2 bis 10 für die
+    Berichtsjahre 2023 und 2024,
+
+
+2.  nach § 5 Absatz 1 geprüfte und bereinigte Daten zu den Merkmalen nach
+    Nummer 1 für die Berichtsjahre 2023 und 2024,
+
+
+3.  nach § 5 Absatz 2 aufbereitete Daten zu den Merkmalen nach Nummer 1
+    für die Berichtsjahre 2023 und 2024 sowie
+
+
+4.  Daten zu den Merkmalen nach den §§ 12 und 13.
+
+
+
+
+(2) Die Zusammenführung nach Absatz 1 darf mittels der Daten zu
+folgenden Merkmalen erfolgen:
+
+1.  Familienname, frühere Namen einschließlich Geburtsnamen, Vornamen und
+    Vornamen vor Änderung, Doktorgrad,
 
 
 2.  Straße, Straßenschlüssel, Hausnummer und Anschriftenzusätze,
@@ -305,121 +544,44 @@ vorhanden, die Daten zu den folgenden Merkmalen zu übermitteln:
     Gemeindenamen,
 
 
-4.  Geburtsdatum, Geburtsort, Geburtsstaat,
+4.  Geburtsdatum,
 
 
-5.  Geschlecht,
+5.  Geburtsort,
 
 
-6.  Staatsangehörigkeiten.
+6.  Geburtsstaat,
+
+
+7.  Geschlecht,
+
+
+8.  Staatsangehörigkeiten und
+
+
+9.  Familienstand.
 
 
 
-Die Daten zu den Merkmalen nach Nummer 1 bis 3 werden gesondert
-gesichert aufbewahrt.
-
-(4) Ist eine Einkommensteuerfestsetzung für einen unbeschränkt
-Steuerpflichtigen innerhalb des Zeitraums vom 16. November 2020 bis
-zum Zensusstichtag nach § 1 Absatz 1 Zensusgesetz 2022 erfolgt,
-übermittelt die Finanzverwaltung die bei ihr zum Zensusstichtag
-gespeicherten Daten nach Absatz 3 Satz 1 für den jeweiligen
-Steuerpflichtigen an das Statistische Bundesamt. Die Familienkasse der
-Bundesagentur für Arbeit übermittelt die bei ihr gespeicherten Daten
-nach Absatz 3 des Kindergeldberechtigten, demgegenüber das Kindergeld
-festgesetzt wurde, sowie die Daten des Kindes, wenn Kindergeld nach
-dem Einkommensteuergesetz für mindestens einen innerhalb des Zeitraums
-vom 16. November 2020 bis zum Zensusstichtag nach § 1 Absatz 1
-Zensusgesetz 2022 liegenden Kalendermonat festgesetzt worden ist, an
-das Statistische Bundesamt. Absatz 2 Satz 2 und Absatz 3 Satz 2 finden
-Anwendung. Das Statistische Bundesamt ist befugt, den in den Sätzen 1
-und 2 genannten Zeitraum zu verkürzen.
-
-(5) Die nach Absatz 1 und 4 übermittelten Daten dürfen für die
-Entwicklung von Verfahren zur zuverlässigen Zuordnung von
-Personendatensätzen aus Datenbeständen und die Erprobung eines
-registerbasierten Verfahrens zur Qualitätssicherung verwendet werden.
-Für diese Zwecke werden die in Absatz 2 und 4 genannten Datenbestände
-und die Merkmale nach Absatz 3 auf ihre Eignung für die Zuordnung von
-Personendatensätzen und für Verfahren der Qualitätssicherung
-untersucht.
-
-(6) Die Übermittlungen erfolgen innerhalb von fünf Monaten nach dem
-Stichtag.
-
-(7) Das Statistische Bundesamt prüft die Daten auf Schlüssigkeit und
-Vollständigkeit. Sofern hierfür manuelle Prüfungen erforderlich sind,
-nehmen die statistischen Ämter der Länder diese für ihren jeweiligen
-Zuständigkeitsbereich vor. Das Statistische Bundesamt übermittelt die
-dafür erforderlichen Daten zu diesem Zweck an die statistischen Ämter
-der Länder.
-
-(8) Die Daten nach Absatz 3 sind nach erfolgter Zuordnung eines
-stattgefundenen Verwaltungskontaktes zu den Daten nach § 6, spätestens
-jedoch drei Jahre nach der Übermittlung zu löschen.
 
 
-### § 8 Zusammenführungen
+#### § 15 Löschung
 
-(1) Das Statistische Bundesamt darf die in § 4 genannten Daten für die
-Erstellung ergänzender Bevölkerungsstatistiken mit dem
-fortgeschriebenen Bevölkerungsstand nach § 5 Absatz 1 des
-Bevölkerungsstatistikgesetzes zusammenführen.
-
-(2) Die in den §§ 6 und 7 genannten Daten dürfen für Zwecke der
-Methodenentwicklung zusammengeführt werden. Sofern hierfür manuelle
-Abgleiche erforderlich sind, nehmen die statistischen Ämter der Länder
-diese für ihren jeweiligen Zuständigkeitsbereich vor. Das Statistische
-Bundesamt übermittelt die dafür erforderlichen Daten zu diesem Zweck
-an die statistischen Ämter der Länder.
-
-(3) Das Statistische Bundesamt darf die in § 6 Satz 1 Nummer 1
-genannten Daten für Zwecke der Entwicklung der Methoden der
-ergänzenden Bevölkerungsstatistiken mit dem fortgeschriebenen
-Bevölkerungsstand nach § 5 Absatz 1 des Bevölkerungsstatistikgesetzes
-zusammenführen.
-
-(4) Nach Abschluss aller einmaligen und jährlichen
-Aufbereitungsschritte erhalten die statistischen Ämter der Länder auf
-Anforderung für ihren jeweiligen Zuständigkeitsbereich zur Evaluation
-der entwickelten Methoden eine Kopie der Daten nach § 8 ohne die
-Hilfsmerkmale.
+Die Daten zu den Hilfsmerkmalen nach § 12 Absatz 3 Satz 1 und 2 sowie
+§ 13 Absatz 2 Satz 1 sind nach der Zusammenführung nach § 14 zu
+löschen, spätestens jedoch drei Jahre nach Ablauf des Kalenderjahres,
+in dem die Daten an das Statistische Bundesamt übermittelt wurden. Die
+Daten zu den Erhebungsmerkmalen nach § 12 Absatz 3 Satz 1 und 2 sowie
+§ 13 Absatz 2 Satz 2 sind nach der Zusammenführung und Verarbeitung
+nach § 14 Satz 1 zu löschen, spätestens jedoch sechs Jahre nach Ablauf
+des Kalenderjahres, in dem die Daten an das Statistische Bundesamt
+übermittelt wurden.
 
 
-### § 8a Klärung von Unstimmigkeiten
-
-(1) Soweit bei der Zusammenführung von Daten nach § 8 Absatz 2
-Unstimmigkeiten in Bezug auf die Anschrift festgestellt werden, dürfen
-die statistischen Ämter der Länder bei bis zu 100 000 Personen zur
-Klärung der Unstimmigkeiten elektronisch oder schriftlich erfragen, ob
-sie zum Zensusstichtag an einer bestimmten Anschrift wohnhaft gewesen
-sind und welche weiteren Wohnsitze gegebenenfalls in Deutschland
-bestanden. Personen, die in der Haushaltebefragung des Zensus 2022
-befragt wurden, dürfen nicht erneut befragt werden. Es besteht
-Auskunftspflicht.
-
-(2) Auskunftspflichtig sind alle Volljährigen und alle Minderjährigen,
-die ohne Erziehungsberechtigten an einer Anschrift wohnhaft sind. Sie
-sind jeweils auch auskunftspflichtig für minderjährige Personen, die
-in der gleichen Wohnung wohnen.
-
-(3) Für volljährige Personen, die insbesondere wegen einer Krankheit
-oder Behinderung nicht selbst Auskunft geben können, ist jede andere
-in der Wohnung wohnende auskunftspflichtige Person auskunftspflichtig.
-Gibt es keine andere auskunftspflichtige Person in der Wohnung und ist
-für die nicht auskunftsfähige Person ein Betreuer oder eine Betreuerin
-bestellt, so ist dieser oder diese auskunftspflichtig, soweit die
-Auskunft in seinen oder ihren Aufgabenbereich fällt.
-
-(4) Benennt eine wegen einer Krankheit oder Behinderung nicht
-auskunftsfähige Person eine Vertrauensperson und erteilt diese die
-erforderliche Auskunft für die nicht auskunftsfähige Person, so
-erlischt die Auskunftspflicht nach den Absätzen 2 und 3.
+## Abschnitt 4 - Weitere Regelungen
 
 
-## Abschnitt 3 - Weitere Regelungen
-
-
-### § 9 Verarbeitung von Daten aus dem Zensus 2022 und dem Mikrozensus für Zwecke europäischer Bevölkerungsstatistiken einschließlich Zensus
+### § 16 Verarbeitung von Daten aus dem Zensus 2022 und dem Mikrozensus für Zwecke europäischer Bevölkerungsstatistiken einschließlich Zensus
 
 (1) Für Zwecke europäischer Bevölkerungsstatistiken einschließlich
 Zensus speichern die statistischen Ämter der Länder jeweils für ihren
@@ -456,7 +618,7 @@ spätestens jedoch sechs Jahre nach Abschluss der Aufbereitung des
 jeweiligen Mikrozensus zu löschen.
 
 
-### § 10 Einrichtungsregister
+### § 17 Einrichtungsregister
 
 (1) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung
 von Bundes- und Landesstatistiken sowie für Auswertungszwecke ein
@@ -515,7 +677,7 @@ Erfüllung der Zwecke nach Satz 1 erforderlich ist.
 
 
 
-### § 11 Durchführung von Untersuchungen zur Nutzung von Fernerkundungsdaten
+### § 18 Durchführung von Untersuchungen zur Nutzung von Fernerkundungsdaten
 
 Für Untersuchungen zur Eignung von Fernerkundungsdaten für die
 Gewinnung und Qualitätssicherung von Daten zu Gebäuden und Wohnungen
