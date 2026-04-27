@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 6 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
