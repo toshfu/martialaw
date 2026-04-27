@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 30.11.2017 I 3826
 
+Änderung durch
+:   Art. 11 Abs. 13 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Verfahren bei der Bundesagentur für Arbeit
 
