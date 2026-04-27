@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 20 G v. 22.12.2025 I Nr. 355
 
+Änderung durch
+:   Art. 11 Abs. 16 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeines
 
