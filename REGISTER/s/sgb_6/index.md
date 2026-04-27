@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 5 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
