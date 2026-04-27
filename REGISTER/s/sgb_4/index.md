@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 16.1.2026 I Nr. 14
 
+Änderung durch
+:   Art. 3 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
 
@@ -9148,7 +9151,7 @@ Rentenversicherung sowie nach dem Recht der Arbeitsförderung nach §
 28h Absatz 2 oder § 28p Absatz 1 Satz 5 fest, dass bei einer
 Lehrtätigkeit eine Beschäftigung vorliegt, so tritt
 Versicherungspflicht aufgrund dieser Beschäftigung erst ab dem 1.
-Januar 2027 ein, wenn
+Januar 2028 ein, wenn
 
 1.  die Vertragsparteien bei Vertragsschluss übereinstimmend von einer
     selbständigen Tätigkeit ausgegangen sind und
@@ -9162,11 +9165,11 @@ Sofern keine solche Feststellung vorliegt und die Vertragsparteien bei
 Vertragsschluss übereinstimmend von einer selbständigen Tätigkeit
 ausgegangen sind und die Person, die die Lehrtätigkeit ausübt,
 gegenüber dem Vertragspartner zustimmt, tritt bis zum 31. Dezember
-2026 keine Versicherungs- und Beitragspflicht aufgrund einer
+2027 keine Versicherungs- und Beitragspflicht aufgrund einer
 Beschäftigung ein.
 
 (2) Sofern die Voraussetzungen des Absatzes 1 erfüllt sind, gelten ab
-dem 1. März 2025 bis zum 31. Dezember 2026 die betroffenen Personen
+dem 1. März 2025 bis zum 31. Dezember 2027 die betroffenen Personen
 als Selbständige im Sinne der Regelungen zur Versicherungs- und
 Beitragspflicht für selbständig tätige Lehrer nach dem Sechsten Buch.
 Abweichend von Satz 1 gelten für Personen, bei denen die
@@ -9175,7 +9178,7 @@ Lehrtätigkeit nach Absatz 1 die Voraussetzungen des § 1 des
 Künstlersozialversicherungsgesetzes erfüllen würden, wenn diese als
 selbständige Tätigkeit ausgeübt würde, die Regelungen zur
 Versicherungs-und Beitragspflicht nach dem
-Künstlersozialversicherungsgesetz bis zum 31. Dezember 2026
+Künstlersozialversicherungsgesetz bis zum 31. Dezember 2027
 entsprechend.
 
 (3) Sofern die Voraussetzungen des Absatzes 1 erfüllt sind, gelten
@@ -9187,7 +9190,7 @@ für selbständig tätige Lehrer nach dem Sechsten Buch vor dem 1. März
 die betroffenen Personen, die zum Zeitpunkt der Feststellung nach
 Absatz 1 Satz 1 oder der Zustimmung nach Absatz 1 Satz 2 nach § 28a
 des Dritten Buches versichert waren, § 28a des Dritten Buches ab
-Beginn der Beschäftigung bis zum 31. Dezember 2026 entsprechend.
+Beginn der Beschäftigung bis zum 31. Dezember 2027 entsprechend.
 
 
 ### § 128 Außerordentliche Hemmung der Verjährung
