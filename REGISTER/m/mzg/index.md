@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 2826
 
 Zuletzt geändert durch
-:   Art. 14 G v. 17.7.2023 I Nr. 191
+:   Art. 11 Abs. 3 G v. 16.4.2026 I Nr. 107
 
 
 ## § 1 Art und Gegenstand der Erhebung
