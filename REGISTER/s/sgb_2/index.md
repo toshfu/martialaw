@@ -22,6 +22,21 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2025 I Nr. 363
 
+Änderung durch
+:   Art. 1 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1a G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 1b G v. 16.4.2026 I Nr. 107 ist berücksichtigt
+
+Stand: Zukünftige Überschrift: Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende (ab 1.7.2026; 2026 I Nr. 107)
+[^BJNR295500003]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 G v.
+    16\.4.2026 I Nr. 107 mWv 1.7.2026 wie folgt gefasst:
+    **Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für
+    Arbeitsuchende**
+
 
 ## Kapitel 1 - Fördern und Fordern
 
@@ -3444,6 +3459,16 @@ Feststellung einer Leistungsminderung ein Beratungsangebot erhalten,
 in dem die Inhalte des Kooperationsplans überprüft und bei Bedarf
 fortgeschrieben werden.
 
+(7) Abweichend von Absatz 4 Satz 1 entfällt der Leistungsanspruch in
+Höhe des Regelbedarfes, wenn erwerbsfähige Leistungsberechtigte eine
+zumutbare Arbeit nicht aufnehmen. Die Arbeitsaufnahme muss tatsächlich
+und unmittelbar möglich sein und willentlich verweigert werden. In
+diesem Fall soll das Grundsicherungsgeld, soweit es für die Bedarfe
+für Unterkunft und Heizung erbracht wird, für die gesamte
+Bedarfsgemeinschaft an den Vermieter oder andere Empfangsberechtigte
+gezahlt werden. Absatz 1 Satz 2, die Absätze 2 und 3 sowie § 31 Absatz
+1 Satz 2 finden Anwendung.
+
 
 ##### § 31b Beginn und Dauer der Minderung
 
@@ -3473,7 +3498,11 @@ Zeitpunkt der Pflichterfüllung oder der Erklärung der Bereitschaft zur
 Pflichterfüllung aufzuheben, soweit der Minderungszeitraum mindestens
 einen Monat betragen hat, andernfalls nach Ablauf dieses Monats.
 
-(3) (weggefallen)
+(3) In den Fällen des § 31a Absatz 7 wird die Minderung nach Ablauf
+eines Minderungszeitraums von einem Monat aufgehoben, wenn die
+Möglichkeit der Arbeitsaufnahme nicht mehr besteht, spätestens aber
+mit dem Ablauf eines Zeitraums von zwei Monaten. Absatz 1 Satz 1 und 3
+ist entsprechend anzuwenden.
 
 (4) Während der Minderung des Auszahlungsanspruchs besteht kein
 Anspruch auf ergänzende Hilfe zum Lebensunterhalt nach den
