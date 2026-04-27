@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 14 G v. 16.1.2026 I Nr. 14
+:   Art. 2 G v. 16.4.2026 I Nr. 106
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -2709,12 +2709,18 @@ Mitteilungspflichten
     Aufgaben nach dem Einkommensteuergesetz durchführt,
 
 
-12. zur Erfüllung der Aufgaben des Statistischen Bundesamtes nach § 5a
-    Absatz 1 in Verbindung mit Absatz 3 des Bundesstatistikgesetzes sowie
-    nach § 7 des Registerzensuserprobungsgesetzes zum Zwecke der
-    Entwicklung von Verfahren für die zuverlässige Zuordnung von
-    Personendatensätzen aus ihren Datenbeständen und von Verfahren der
-    Qualitätssicherung eines Registerzensus,
+12. zur Erfüllung der Aufgaben des Statistischen Bundesamtes
+
+    a)  nach § 5a Absatz 1 in Verbindung mit Absatz 3 des
+        Bundesstatistikgesetzes und
+
+
+    b)  nach § 12 des Registerzensuserprobungsgesetzes zum Zwecke der
+        Erprobung von Verfahren zur Ermittlung des Bildungsstands der
+        Bevölkerung,
+
+
+
 
 
 13. nach § 58 des Energiefinanzierungsgesetzes zur Berechnung der
