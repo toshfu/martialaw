@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 3932, 3933
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.6.2025 I Nr. 143
+:   Art. 11 Abs. 9 G v. 16.4.2026 I Nr. 107
 
 Stand: Das G tritt gem. Art. 90 Abs. 1 G v. 20.8.2021 I 3932 am 1.1.2025 in Kraft. Gem. Art. 90 Abs. 4 Satz 1 dieses G treten § 6 Abs. 5 u. § 18 Abs. 2 am 1.10.2021 in Kraft.
 
