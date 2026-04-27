@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3022, 3023
 
 Zuletzt geändert durch
-:   Art. 15 G v. 16.1.2026 I Nr. 14
+:   Art. 9 G v. 16.4.2026 I Nr. 107
 
 
 ## Inhaltsverzeichnis
