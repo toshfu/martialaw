@@ -19,6 +19,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.8.2024 I Nr. 267
 
+Änderung durch
+:   Art. 11 Abs. 14 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Zukünftige Überschrift: Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld (Grundsicherungsgeld-Verordnung - GrusiGV) (ab 1.7.2026; 2026 I Nr. 107)
+[^BJNR294200007]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 11 Abs. 14 Nr.
+    1 G v. 16.4.2026 I Nr. 107 mWv 1.7.2026 wie folgt gefasst:
+    **Verordnung zur Berechnung von Einkommen sowie zur
+    Nichtberücksichtigung von Einkommen und Vermögen beim
+    Grundsicherungsgeld (Grundsicherungsgeld-Verordnung - GrusiGV)**
+
 
 ## Eingangsformel
 
