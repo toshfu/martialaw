@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 2 Abs 4 G v. 20.3.2026 I Nr. 95
+:   Art. 11 Abs. 4 G v. 16.4.2026 I Nr. 107
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
