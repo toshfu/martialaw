@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 9 Abs. 2 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 16.4.2026 I Nr. 106 ist berücksichtigt
+
 
 ## Erster Teil - Einleitende Vorschriften
 
@@ -8625,8 +8628,12 @@ Daten vorgesehen ist. Die in Absatz 3 aufgeführten Daten werden bei
 einer natürlichen Person auch für die in Satz 1 genannten Zwecke
 gespeichert.
 
+(4d) Das in Absatz 3 Nummer 1 aufgeführte Datum wird bei einer
+natürlichen Person auch für die Zwecke der Erprobung des
+Registerzensus gespeichert.
+
 (5) Die in Absatz 3 aufgeführten Daten dürfen nur für die in den
-Absätzen 4 bis 4c genannten Zwecke verarbeitet werden; darüber hinaus
+Absätzen 4 bis 4d genannten Zwecke verarbeitet werden; darüber hinaus
 dürfen die in Absatz 3 Nummer 2 bis 10 und Nummer 12 bis 15
 aufgeführten Daten nur unter den Voraussetzungen des § 30 Absatz 4
 Nummer 5 Buchstabe a den jeweils zuständigen Stellen auf deren
