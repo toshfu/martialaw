@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 94 (2018 I 1389)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 29.3.2026 I Nr. 86
+:   Art. 2 V v. 21.4.2026 I Nr. 108
 
 Stand: Ersetzt V 8053-6-20 v. 14.10.1993 I 1720 (ChemVerbotsV)
 
@@ -139,19 +139,13 @@ Verweis auf diese Normen ausreichend.
 Eintrag 6 der Verordnung (EG) Nr. 1907/2006 gelten nicht für das
 Inverkehrbringen
 
-1.  chrysotilhaltiger Diaphragmen einschließlich der zu ihrer Herstellung
-    benötigten chrysotilhaltigen Rohstoffe zum Zweck einer nach § 17
-    Absatz 1 der Gefahrstoffverordnung zulässigen Verwendung in
-    bestehenden Anlagen zur Chloralkalielektrolyse,
-
-
-2.  von Verkehrsmitteln, die vor dem 31. Dezember 1994 hergestellt worden
+1.  von Verkehrsmitteln, die vor dem 31. Dezember 1994 hergestellt worden
     sind und die aufgrund ihres Originalherstellungsprozesses die in
     Anhang XVII Eintrag 6 Spalte 1 der Verordnung (EG) Nr. 1907/2006
     bezeichneten Asbestfasern enthalten, und
 
 
-3.  von kulturhistorischen Gegenständen, die vor dem 31. Dezember 1994
+2.  von kulturhistorischen Gegenständen, die vor dem 31. Dezember 1994
     hergestellt worden sind, für Sammlungs- oder Ausstellungszwecke.
 
 
