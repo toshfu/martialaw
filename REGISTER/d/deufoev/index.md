@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: AT 04.05.2016 V1
 
 Zuletzt geändert durch
-:   Art. 6 G v. 21.12.2022 I 2847
+:   Art. 11 Abs. 5 G v. 16.4.2026 I Nr. 107
 
 
 ## Eingangsformel
