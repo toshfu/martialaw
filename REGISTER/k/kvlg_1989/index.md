@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13a G v. 22.12.2023 I Nr. 408
 
+Änderung durch
+:   Art. 11 Abs. 12 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Änderung der inhaltsübersicht durch
 :   Art. 23 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
 
