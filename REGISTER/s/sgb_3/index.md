@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2025 I Nr. 371
+:   Art. 2 G v. 16.4.2026 I Nr. 107
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -12387,6 +12387,7 @@ Versicherungspflichtverhältnisses.
 
 
 #### § 426 (weggefallen)
+
 
 
 #### § 427 (weggefallen)
