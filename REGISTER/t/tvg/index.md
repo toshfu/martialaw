@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.8.1969 I 1323;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 20.5.2020 I 1055
+:   Art. 7 G v. 27.4.2026 I Nr. 119
 
 
 ## § 1 Inhalt und Form des Tarifvertrags
@@ -249,9 +249,11 @@ erfassten Rechtsnormen des Tarifvertrages.
 ## § 6 Tarifregister
 
 Bei dem Bundesministerium für Arbeit und Soziales wird ein
-Tarifregister geführt, in das der Abschluß, die Änderung und die
-Aufhebung der Tarifverträge sowie der Beginn und die Beendigung der
-Allgemeinverbindlichkeit eingetragen werden.
+Tarifregister geführt, in das der Abschluss, die Änderung und die
+Aufhebung der Tarifverträge, der Beginn und die Beendigung der
+Allgemeinverbindlichkeit sowie der Beginn und die Beendigung der
+verbindlichen Erstreckung von tariflichen Arbeitsbedingungen in einer
+Rechtsverordnung eingetragen werden.
 
 
 ## § 7 Übersendungs- und Mitteilungspflicht
