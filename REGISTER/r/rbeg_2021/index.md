@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2855
 
-Geändert durch
-:   Art. 12 Abs. 13 G v. 16.12.2022 I 2328
-
-Änderung durch
-:   Art. 11 Abs. 17 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 11 Abs. 17 G v. 16.4.2026 I Nr. 107
 
 Stand: Ersetzt G 8601-8 v. 22.12.2016 I 3159 (RBEG 2017)
 
