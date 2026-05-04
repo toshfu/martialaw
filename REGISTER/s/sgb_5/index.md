@@ -23,7 +23,10 @@ Zuletzt geändert durch
 :   Art. 1 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 16.4.2026 I Nr. 107 ist berücksichtigt
+
+Änderung durch
+:   Art. 4 G v. 23.4.2026 I Nr. 112 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
