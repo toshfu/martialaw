@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 90
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 V v. 11.3.2026 I Nr. 67
+:   Art. 2 Abs. 1 V v. 11.3.2026 I Nr. 67, Nr. 115
 
 
 ## Eingangsformel
@@ -165,14 +165,14 @@ Finanzen
     3 Satz 1 der Bundeslaufbahnverordnung festlegen,
 
 
-2.  abweichend von § 38 Absatz 2 Satz 2 der Bundeslaufbahnverordnung
+2.  abweichend von § 46 Absatz 3 Satz 2 der Bundeslaufbahnverordnung
     festlegen, dass die fachtheoretische Ausbildung auch für den Aufstieg
     in den mittleren Dienst zum Teil berufsbegleitend durchgeführt werden
     kann, und
 
 
-3.  die Inhalte der fachtheoretischen Ausbildung abweichend von § 38
-    Absatz 2 Satz 3 der Bundeslaufbahnverordnung festlegen.
+3.  die Inhalte der fachtheoretischen Ausbildung abweichend von § 46
+    Absatz 4 Satz 1 der Bundeslaufbahnverordnung festlegen.
 
 
 
