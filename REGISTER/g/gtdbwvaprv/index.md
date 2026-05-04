@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 3240 (3692)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 12 V v. 11.3.2026 I Nr. 67
+:   Art. 2 Abs. 12 V v. 11.3.2026 I Nr. 67, Nr. 115
 
 
 ## Eingangsformel
@@ -436,7 +436,7 @@ Wehrtechnik kann eingestellt werden, wer
         Absatz 3 zugeordnet werden kann, oder
 
 
-    b)  nach § 2 Nummer 3
+    b)  nach § 2 Nummer 2
 
         aa) die Zugangsberechtigung für eine mit der Einstellungsbehörde
             kooperierende Hochschule nachweist und
@@ -486,9 +486,8 @@ Ausbildungsabschnitte vorzusehen:
 1.  Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 
 
-2.  Vorstellung der Verwendungsmöglichkeiten
-    im Verwendungsbereich                    Wehrtechnik des gehobenen
-    technischen Verwaltungsdienstes,
+2.  Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich
+    Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
 
 
 3.  Lehrgang „Allgemeine Wehrtechnik“,
