@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1997 I 2022;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2025 I Nr. 363
+:   Art. 3 G v. 23.4.2026 I Nr. 112
 
 
 ## § 1 Leistungsberechtigte
@@ -128,7 +128,7 @@ nicht vorgesehen ist.
 
 1.  denen bereits von einem anderen Mitgliedstaat der Europäischen Union
     oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne
-    von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist,
+    von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist,
     der fortbesteht, oder
 
 
@@ -136,21 +136,22 @@ nicht vorgesehen ist.
     und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31
     Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde, für die eine
     Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des
-    Asylgesetzes angeordnet wurde und für die nach der Feststellung des
-    Bundesamtes für Migration und Flüchtlinge die Ausreise rechtlich und
-    tatsächlich möglich ist, auch wenn die Entscheidung noch nicht
-    unanfechtbar ist,
+    Asylgesetzes angeordnet wurde und somit durch das Bundesamt für
+    Migration und Flüchtlinge auch die rechtliche und tatsächliche
+    Möglichkeit der Ausreise bereits festgestellt wurde, auch wenn die
+    Entscheidung noch nicht unanfechtbar ist,
 
 
 
-haben keinen Anspruch auf Leistungen nach diesem Gesetz.
-Hilfebedürftigen Ausländern, die Satz 1 unterfallen, werden bis zur
-Ausreise, längstens jedoch für einen Zeitraum von zwei Wochen,
-einmalig innerhalb von zwei Jahren nur eingeschränkte Hilfen gewährt,
-um den Zeitraum bis zur Ausreise zu überbrücken
-(Überbrückungsleistungen); die Zweijahresfrist beginnt mit dem Erhalt
-der Überbrückungsleistungen nach Satz 2. Hierüber und über den
-Ausnahmecharakter von Härtefallleistungen nach Satz 6 sind die
+haben keinen Anspruch auf Leistungen nach diesem Gesetz; in den Fällen
+der Nummer 2 wird vermutet, dass die freiwillige Ausreise rechtlich
+und tatsächlich möglich ist. Hilfebedürftigen Ausländern, die Satz 1
+unterfallen, werden bis zur Ausreise, längstens jedoch für einen
+Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur
+eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu
+überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit
+dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über
+den Ausnahmecharakter von Härtefallleistungen nach Satz 6 sind die
 Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen
 umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz
 1 und Absatz 2. Sie sollen als Sachleistung erbracht werden; die
@@ -289,6 +290,19 @@ aufzubrauchen ist,
 und deshalb zu Unrecht Leistungen nach diesem Gesetz beziehen, haben
 nur Anspruch auf Leistungen entsprechend Absatz 1.
 
+(7) Soweit hinreichend begründet und verhältnismäßig, erhalten
+Leistungsberechtigte nach § 1 Absatz 1 für die Dauer von höchstens
+einem Monat ebenso nur Leistungen entsprechend Absatz 1, wenn sie
+durch ihr Verhalten die Ordnung in der Aufnahmeeinrichtung im Sinne
+des § 44 des Asylgesetzes oder der Gemeinschaftsunterkunft im Sinne
+des § 53 des Asylgesetzes schwerwiegend beeinträchtigt oder in diesen
+Einrichtungen Personen bedroht oder sich gewalttätig verhalten haben.
+Die Verstöße nach Satz 1 werden der für die Leistungsgewährung
+zuständigen Behörde von der Leitung der Unterkunft schriftlich oder
+elektronisch mitgeteilt. Bei der Bemessung der Einschränkungsdauer
+werden Art und Umfang des Verstoßes und die konkreten Umstände, unter
+denen dieser Verstoß begangen wurde, berücksichtigt.
+
 
 ## § 2 Leistungen in besonderen Fällen
 
@@ -343,11 +357,13 @@ Anwendung, dass
 
 
 (2) Bei der Unterbringung von Leistungsberechtigten nach Absatz 1 in
-einer Gemeinschaftsunterkunft bestimmt die zuständige Behörde die Form
-der Leistung auf Grund der örtlichen Umstände. Unabhängig von der Art
-der Unterbringung ist die Leistungserbringung auch in Form der
-Bezahlkarte möglich. Soweit einzelne Bedarfe des monatlichen
-Regelbedarfs entsprechend § 27a Absatz 2 Satz 1 des Zwölften Buches
+einer Gemeinschaftsunterkunft im Sinne des § 53 Absatz 1 des
+Asylgesetzes oder in einer Aufnahmeeinrichtung im Sinne des § 44
+Absatz 1 des Asylgesetzes bestimmt die zuständige Behörde die Form der
+Leistung auf Grund der örtlichen Umstände. Unabhängig von der Art der
+Unterbringung ist die Leistungserbringung auch in Form der Bezahlkarte
+möglich. Soweit einzelne Bedarfe des monatlichen Regelbedarfs
+entsprechend § 27a Absatz 2 Satz 1 des Zwölften Buches
 Sozialgesetzbuch nicht mittels der Bezahlkarte gedeckt werden können,
 sind diese als Geldleistung zu erbringen.
 
