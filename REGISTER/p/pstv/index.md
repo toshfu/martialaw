@@ -16,9 +16,8 @@ Fundstelle
 :   BGBl I: 2008, 2263
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.4.2025 I Nr. 112
+:   Art. 6 G v. 23.4.2026 I Nr. 111
 
-Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 ## Eingangsformel
 
