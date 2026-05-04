@@ -33,6 +33,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 29.3.2026 I Nr. 84 ist berücksichtigt
 
+Änderung durch
+:   Art. 12a G v. 23.4.2026 I Nr. 111 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -1103,6 +1106,14 @@ Für die örtliche Zuständigkeit gilt folgendes:
     Stiftung ihren Sitz hat, vorbehaltlich der Nummern 1 und 4. Dies gilt
     auch bei Verpflichtungsklagen in den Fällen des Satzes 1. In
     Streitigkeiten nach dem Asylgesetz ist jedoch das Verwaltungsgericht
+    örtlich zuständig, bei dem bereits ein Verfahren von
+    Familienangehörigen im Sinne des § 26 Absatz 1 bis 3 des Asylgesetzes
+    anhängig ist, es sei denn, die Streitigkeit bezieht sich auf ein
+    Verfahren nach § 18a des Asylgesetzes und der Ausländer ist noch
+    verpflichtet, sich an einem Standort gemäß § 18a Absatz 6 oder Absatz
+    6a des Asylgesetzes aufzuhalten; dies gilt unabhängig davon, ob die
+    Familie bereits vor der Ankunft des Ausländers im Hoheitsgebiet der
+    Mitgliedstaaten bestanden hat; im Übrigen ist das Verwaltungsgericht
     örtlich zuständig, in dessen Bezirk der Ausländer nach dem Asylgesetz
     seinen Aufenthalt zu nehmen hat; ist eine örtliche Zuständigkeit
     danach nicht gegeben, bestimmt sie sich nach Nummer 3. Soweit ein
