@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 20 G v. 8.12.2025 I Nr. 318
-
-Änderung durch
-:   Art. 6 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+:   Art. 6 G v. 10.12.2025 I Nr. 320
 
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
