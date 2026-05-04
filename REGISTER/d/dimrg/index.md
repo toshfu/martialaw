@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1194
 
+Geändert durch
+:   Art. 12 G v. 23.4.2026 I Nr. 111
+
 Stand: § 1 Abs. 1 Satz 2 ist gem. § 8 Satz 2 dieses G am 1.1.2016 in Kraft getreten
 
 ## § 1 Rechtsstellung und Finanzierung
