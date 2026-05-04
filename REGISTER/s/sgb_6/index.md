@@ -20,12 +20,8 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33
+:   Art. 9 G v. 27.4.2026 I Nr. 119
 
-Änderung durch
-:   Art. 5 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -21390,7 +21386,7 @@ b, § 175 Absatz 1 und § 301 Absatz 1 Satz 2 gilt das
 Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung.
 
 
-## Sechstes Kapitel - Bußgeldvorschriften
+## Sechstes Kapitel - Bußgeldvorschriften, Unterrichtung von Behörden
 
 
 
@@ -21482,6 +21478,22 @@ nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben
 über die Tatsachen enthalten, die für die Abgabe der Meldungen des
 Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung
 erforderlich sind.
+
+
+### § 322 Unterrichtung durch die Träger der Rentenversicherung zum Zwecke der Sicherung der Tariftreue
+
+Die Träger der Rentenversicherung unterrichten die jeweils zuständigen
+Stellen, wenn sich konkrete Anhaltspunkte für Verstöße gegen das
+Bundestariftreuegesetz oder die Tariftreuegesetze der Länder ergeben.
+Die jeweils zuständigen Stellen können, sofern konkrete Anhaltspunkte
+für einen Verstoß vorliegen, bei den Trägern der Rentenversicherung
+anfragen, ob auch dort Erkenntnisse für Verstöße vorliegen. Zuständige
+Stellen sind die Prüfstelle Bundestariftreue bei der Deutschen
+Rentenversicherung Knappschaft-Bahn-See nach § 8 des
+Bundestariftreuegesetzes sowie die jeweils nach landesrechtlichen
+Bestimmungen zuständigen Stellen für die Prüfung der Einhaltung des
+jeweils nach landesgesetzlichen Regelungen normierten
+Tariftreueversprechens.
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
