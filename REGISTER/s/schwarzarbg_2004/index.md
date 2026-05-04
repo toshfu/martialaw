@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1842
 
 Zuletzt geändert durch
-:   Art. 20 G v. 20.12.2025 I Nr. 369
+:   Art. 3 G v. 27.4.2026 I Nr. 119
 
 
 ## Abschnitt 1 - Zweck
@@ -332,6 +332,10 @@ Absatz 1 unterstützt von
 17. den nach Landesrecht für die Überprüfung der Einhaltung der Vergabe-
     und Tariftreuegesetze der Länder zuständigen Prüfungs- oder
     Kontrollstellen,
+
+
+17a. der Prüfstelle Bundestariftreue nach § 8 Absatz 1 des
+    Bundestariftreuegesetzes,
 
 
 18. den nach Landesrecht für die Entgegennahme der Anmeldung von
@@ -947,10 +951,13 @@ nach diesem Gesetz Anhaltspunkte ergeben für Verstöße gegen
 13. das Mindestlohngesetz,
 
 
-14. die Arbeitsschutzgesetze oder
+14. die Arbeitsschutzgesetze,
 
 
-15. die Vergabe- und Tariftreuegesetze der Länder.
+15. die Vergabe- und Tariftreuegesetze der Länder oder
+
+
+16. das Bundestariftreuegesetz.
 
 
 
