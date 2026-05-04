@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1534 (2008 I 660, 1007)
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2025 I Nr. 341
+:   Art. 1 G v. 24.4.2026 I Nr. 116
 
 Stand: § 66 ist gem. Art. 3 Abs. 2 G v. 15.7.2006 I 1534 am 20.7.2006 in Kraft getreten
 Stand: § 3a ist gem. Art. 3 Abs. 4 Satz 1 G v. 15.7.2006 I 1534 iVm Bek. v. 7.4.2008 I 660 am 1.4.2008 in Kraft getreten
@@ -5321,8 +5321,45 @@ Februar 2024 auf anderem Wege als über das EDV-gestützte System
 erfolgen.
 
 
-### § 68 (weggefallen)
+### § 68 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
 
+(1) § 2 Absatz 1 ist vom 1. Mai 2026 bis zum 30. Juni 2026 mit der
+Maßgabe anzuwenden, dass die Steuer für
+
+1.  1 000 l Benzin der Unterpositionen 2710 12 41, 2710 12 45 und 2710 12
+    49 der Kombinierten Nomenklatur mit einem Schwefelgehalt von höchstens
+    10 mg/kg nach § 2 Absatz 1 Nummer 1 Buchstabe b 514,10 Euro,
+
+
+2.  1 000 l Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der
+    Unterpositionen 2710 20 11
+    bis 2710 20 19                    der Kombinierten Nomenklatur mit
+    einem Schwefelgehalt von höchstens 10 mg/kg nach § 2 Absatz 1 Nummer 4
+    Buchstabe b 330,00 Euro
+
+
+
+beträgt.
+
+(2) § 47a Absatz 2 Satz 1 Nummer 1 ist mit der Maßgabe anzuwenden,
+dass keine Steuerentlastung für nach § 2 Absatz 1 Nummer 4 Buchstabe b
+versteuerte und vom 1. Mai 2026 bis zum 30. Juni 2026 bezogene
+Energieerzeugnisse gewährt wird.
+
+(3) § 56 ist mit der Maßgabe anzuwenden, dass keine Steuerentlastung
+für vom 1. Mai 2026 bis zum 30. Juni 2026 bezogene Gasöle nach § 2
+Absatz 1 Nummer 4 Buchstabe b gewährt wird.
+
+(4) § 8 Absatz 7 und die §§ 46, 47, 48, 49, 52, 53, 58, 58a, 59 sowie
+60 sind mit der Maßgabe anzuwenden, dass sich die Steuerentlastung für
+die in Absatz 1 genannten Energieerzeugnisse, für die im Zeitraum vom
+1\. Mai 2026 bis zum 30. Juni 2026 der Entlastungsanspruch entstanden
+ist, nach den in diesem Absatz genannten Steuersätzen bemisst.
+
+(5) Unbeschadet der Regelungen in den §§ 47a, 48, 49, 56, 57 bemisst
+sich die Entlastung für die in Absatz 1 genannten Energieerzeugnisse,
+für die ab dem 1. Juli 2026 der Entlastungsanspruch entsteht, nach dem
+zutreffenden Steuersatz in § 2 Absatz 1.
 
 
 ### Anlage (weggefallen)
