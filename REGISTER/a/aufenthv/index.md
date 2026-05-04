@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 6 G v. 30.1.2026 I Nr. 31
+:   Art. 7 G v. 23.4.2026 I Nr. 111
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
