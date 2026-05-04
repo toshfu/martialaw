@@ -17,28 +17,13 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 21 G v. 8.12.2025 I Nr. 319
-
-Änderung durch
-:   Art. 4 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 3.2.2026 I Nr. 27 ist berücksichtigt
-
-Änderung durch
-:   Art. 26 Abs. 1 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
-
-Änderung durch
-:   Art. 27 Abs. 1 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+:   Art. 27 Abs. 1 G v. 25.3.2026 I Nr. 81
 
 Änderung durch
 :   Art. 4 G v. 29.3.2026 I Nr. 83 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 G v. 23.4.2026 I Nr. 111 ist berücksichtigt
 
 Änderung durch
 :   Art. 11 Abs. 7 G v. 16.4.2026 I Nr. 107 ist berücksichtigt
