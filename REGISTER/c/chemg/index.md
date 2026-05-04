@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.8.2013 I 3498, 3991;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.11.2023 I Nr. 313
-
-Änderung durch
-:   Art. 1 G v. 29.3.2026 I Nr. 86 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 29.3.2026 I Nr. 86
 
 [^F782353_01_BJNR017180980]:     Das Gesetz dient der Umsetzung folgender Richtlinien:
     –                                Richtlinie 67/548/EWG des Rates vom
