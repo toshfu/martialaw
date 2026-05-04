@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 1354 (2019 I 400)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 20.3.2026 I Nr. 95
+:   Art. 11 G v. 23.4.2026 I Nr. 111
 
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
