@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1984 I 1229, 1985 I 195;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.7.2024 I Nr. 245
+:   Art. 10 G v. 23.4.2026 I Nr. 111
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
