@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1856
 
 Zuletzt geändert durch
-:   Art. 62 Abs. 6 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 11 Abs. 8 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 Abs. 8 G v. 16.4.2026 I Nr. 107
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
