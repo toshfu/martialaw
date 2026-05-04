@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 3508
 
 Zuletzt geändert durch
-:   Art. 297 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 2 Abs. 1 G v. 29.3.2026 I Nr. 86 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 1 G v. 29.3.2026 I Nr. 86
 
 
 ## Eingangsformel
@@ -212,12 +209,14 @@ a)  die Produktkategorie des gebrauchsfertigen Produktes und die
 
 
 b)  der maximale Gehalt an flüchtigen organischen Verbindungen des
-    gebrauchsfertigen Produktes in g/l. Satz 1 gilt nicht, soweit ein
-    Einführer lediglich einen Transitverkehr unter zollamtlicher
-    Überwachung durchführt, bei dem keine Be- oder Verarbeitung erfolgt.
+    gebrauchsfertigen Produktes in g/l.
 
 
 
+
+Satz 1 gilt nicht, soweit ein Einführer lediglich einen Transitverkehr
+unter zollamtlicher Überwachung durchführt, bei dem keine Be- oder
+Verarbeitung erfolgt.
 
 
 ## § 5 Überprüfung der Einhaltung der Verordnung
