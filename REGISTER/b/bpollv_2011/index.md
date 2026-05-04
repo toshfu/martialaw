@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2408
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 5 V v. 11.3.2026 I Nr. 67
+:   Art. 2 Abs. 5 V v. 11.3.2026 I Nr. 67, Nr. 115
 
 
 ## § 1 Geltungsbereich
@@ -569,11 +569,11 @@ zugelassen werden, wenn
 (2) Für das Auswahlverfahren gilt § 44 der Bundeslaufbahnverordnung
 mit der Maßgabe, dass
 
-1.  über die Zulassung zum Aufstieg – abweichend von § 44 Absatz 6 der
+1.  über die Zulassung zum Aufstieg – abweichend von § 44 Absatz 7 der
     Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
 
 
-2.  im Fall des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die
+2.  im Fall des § 44 Absatz 5 Satz 8 der Bundeslaufbahnverordnung die
     Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch
     mehrfach wiederholt werden kann.
 
