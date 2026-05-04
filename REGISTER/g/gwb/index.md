@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 9.4.2026 I Nr. 98
+:   Art. 4 G v. 27.4.2026 I Nr. 119
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -8633,11 +8633,11 @@ ausschließen, wenn
 
 
 
-(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des
-Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des
-Schwarzarbeitsbekämpfungsgesetzes und § 22 des
-Lieferkettensorgfaltspflichtengesetzes vom 16. Juli 2021 (BGBl. I S.
-2959) bleiben unberührt.
+(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des
+Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des
+Schwarzarbeitsbekämpfungsgesetzes, § 22 des
+Lieferkettensorgfaltspflichtengesetzes und § 14 des
+Bundestariftreuegesetzes bleiben unberührt.
 
 
 ###### § 125 Selbstreinigung
@@ -8756,9 +8756,26 @@ Schutz der Vertraulichkeit von Informationen umfassen.
 
 ###### § 129 Zwingend zu berücksichtigende Ausführungsbedingungen
 
-Ausführungsbedingungen, die der öffentliche Auftraggeber dem
+(1) Ausführungsbedingungen, die der öffentliche Auftraggeber dem
 beauftragten Unternehmen verbindlich vorzugeben hat, dürfen nur
 aufgrund eines Bundes- oder Landesgesetzes festgelegt werden.
+
+(2) Aufgrund eines Bundesgesetzes zwingend zu berücksichtigende
+Ausführungsbedingungen nach Absatz 1 müssen in Vergabeverfahren
+ausnahmsweise nicht verbindlich vorgegeben werden, wenn in einem
+vorhergehenden Verfahren zur Vergabe desselben öffentlichen Auftrags
+oder derselben Konzession keine oder keine geeigneten Angebote
+abgegeben wurden und die Ausführung des öffentlichen Auftrags oder der
+Konzession zur Bewältigung einer oder in Vorbereitung auf eine
+konkrete Krisensituation durch die Bundeswehr, den Zivil- und
+Katastrophenschutz, die Bundespolizei oder andere Sicherheitskräfte
+oder in dieser Krisensituation zur Sicherung der Energieversorgung,
+für die Funktionsfähigkeit des Gesundheitswesens, zum Erhalt der
+Bauwerksicherheit oder für die Bundesinfrastruktur unmittelbar und
+zwingend erforderlich ist. Ein Angebot gilt als ungeeignet im Sinne
+des Satzes 1, wenn es ohne Abänderung den in den Vergabeunterlagen
+genannten Anforderungen des öffentlichen Bundesauftraggebers
+offensichtlich nicht entsprechen kann.
 
 
 ###### § 130 Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen
@@ -9922,9 +9939,14 @@ ein.
 (2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem
 öffentlichen Auftrag oder der Konzession hat und eine Verletzung in
 seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von
-Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem
-Unternehmen durch die behauptete Verletzung der Vergabevorschriften
-ein Schaden entstanden ist oder zu entstehen droht.
+Vergabevorschriften geltend macht. Ein Unternehmen ist nicht
+antragsbefugt, soweit es sich auf die Unwirksamkeit einer
+Rechtsverordnung nach § 5 des Bundestariftreuegesetzes beruft, wenn
+die Unwirksamkeit dieser Rechtsverordnung nicht durch rechtskräftigen
+Beschluss nach § 98 Absatz 4 Satz 1 des Arbeitsgerichtsgesetzes
+festgestellt ist. Das Unternehmen hat darzulegen, dass ihm durch die
+behauptete Verletzung der Vergabevorschriften ein Schaden entstanden
+ist oder zu entstehen droht.
 
 (3) Der Antrag ist unzulässig, soweit
 
