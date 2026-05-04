@@ -33,6 +33,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 12 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 G v. 27.4.2026 I Nr. 119 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -261,8 +264,9 @@ zuständig für
 5.  die Entscheidung über die Wirksamkeit einer
     Allgemeinverbindlicherklärung nach § 5 des Tarifvertragsgesetzes,
     einer Rechtsverordnung nach § 7 oder § 7a des Arbeitnehmer-
-    Entsendegesetzes und einer Rechtsverordnung nach § 3a des
-    Arbeitnehmerüberlassungsgesetzes;
+    Entsendegesetzes, einer Rechtsverordnung nach § 3a des
+    Arbeitnehmerüberlassungsgesetzes und einer Rechtsverordnung nach § 5
+    des Bundestariftreuegesetzes;
 
 
 6.  die Entscheidung über den nach § 4a Absatz 2 Satz 2 des
