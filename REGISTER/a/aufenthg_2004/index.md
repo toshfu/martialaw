@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 Abs. 4 G v. 16.4.2026 I Nr. 107
 
+Änderung durch
+:   Art. 2 G v. 23.4.2026 I Nr. 111 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
 
