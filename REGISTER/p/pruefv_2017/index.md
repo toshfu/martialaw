@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 2846
 
 Zuletzt geändert durch
-:   Art. 11 G v. 19.3.2020 I 529
+:   Art. 1 V v. 29.4.2026 I Nr. 124
 
 
 ## Eingangsformel
@@ -98,16 +98,12 @@ und die Lesbarkeit des Prüfungsberichts nicht beeinträchtigt wird.
 
 Gegenstand der Berichterstattung ist die Prüfung der
 Solvabilitätsübersicht, die das Versicherungsunternehmen nach Maßgabe
-des Artikels 9 Buchstabe a oder des Artikels 26 Buchstabe a der
-Durchführungsverordnung (EU) 2015/2450 der Kommission vom 2. Dezember
-2015 zur Festlegung technischer Durchführungsstandards hinsichtlich
-der Meldebögen für die Übermittlung von Informationen an die
-Aufsichtsbehörde gemäß der Richtlinie 2009/138/EG des Europäischen
-Parlaments und des Rates (ABl. L 347 vom 31.12.2015, S. 1) in den
-Meldebogen S.02.01.01 aus Anhang I der Durchführungsverordnung (EU)
-2015/2450 eingetragen hat. Von der Prüfung ausgenommen sind die
-Angaben in der Spalte „Bewertung im gesetzlichen Abschluss“ des
-Meldebogens.
+der Artikel 9 Buchstabe a, Artikel 10 Buchstabe a, Artikel 11
+Buchstabe a und des Artikels 30 Absatz 1 Buchstabe a der
+Durchführungsverordnung (EU) 2023/894 in den Meldebogen S.02.01.01 aus
+Anhang I der Durchführungsverordnung (EU) 2023/894 eingetragen hat.
+Von der Prüfung ausgenommen sind die Angaben in der Spalte „Bewertung
+im gesetzlichen Abschluss“ des Meldebogens.
 
 
 #### § 5 Grundsätze zur Berichterstattung
@@ -150,17 +146,8 @@ unerheblich nach oben oder unten beeinflusst, anzugeben und zu
 beurteilen.
 
 
-#### § 7 Datenqualität
+#### § 7 (weggefallen)
 
-(1) Der Prüfer hat insbesondere darzustellen und zu beurteilen, ob die
-organisatorischen, personellen und technischen Vorkehrungen zur
-Sicherstellung der Integrität, Authentizität und Verfügbarkeit der
-aufsichtlich relevanten Daten angemessen sind und wirksam umgesetzt
-werden.
-
-(2) Werden externe IT-Ressourcen eingesetzt, so erstrecken sich die
-Berichtspflichten nach Absatz 1 auch auf diese IT-Ressourcen sowie
-deren Einbindung im berichtspflichtigen Unternehmen.
 
 
 ### Abschnitt 2 - Ansatz und Bewertung
@@ -178,14 +165,8 @@ sind, für die ein Ansatzverbot besteht.
 #### § 9 Bewertung
 
 (1) Der Prüfer hat darüber zu berichten, ob Artikel 9 Absatz 1 bis 3,
-5 und 6 sowie Artikel 10 der Delegierten Verordnung (EU) 2015/35 der
-Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie
-2009/138/EG des Europäischen Parlaments und des Rates betreffend die
-Aufnahme und Ausübung der Versicherungs- und der
-Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015,
-S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2016/2283 vom
-22\. August 2016 (ABl. L 346 vom 20.12.2016, S. 111) geändert worden
-ist, beachtet wurden.
+5 und 6 sowie Artikel 10 der Delegierten Verordnung (EU) 2015/35
+beachtet wurden.
 
 (2) Erfolgt die Bewertung
 
@@ -237,11 +218,8 @@ Prüfungsbericht Ausführungen dazu enthalten,
 3.  dass die Vermögenswerte oder die Verbindlichkeiten im Jahresabschluss
     oder im konsolidierten Abschluss nicht gemäß den internationalen
     Rechnungslegungsstandards bewertet werden, die die Europäische
-    Kommission durch die Verordnung (EG) Nr. 1126/2008 der Kommission vom
-    3\. November 2008 zur Übernahme bestimmter internationaler
-    Rechnungslegungsstandards gemäß der Verordnung (EG) Nr. 1606/2002 des
-    Europäischen Parlaments und des Rates (ABl. L 320 vom 29.11.2008, S.
-    1) in der jeweils geltenden Fassung zur Anwendung übernommen hat, und
+    Kommission durch die Verordnung (EU) 2023/1803 zur Anwendung
+    übernommen hat, und
 
 
 4.  ob und warum eine Bewertung der Vermögenswerte oder der
@@ -992,11 +970,7 @@ nach Maßgabe des Absatzes 1 Satz 2 und des Absatzes 2 zu berichten.
 
 
 2.  die Einhaltung der Clearingpflicht gemäß Artikel 4 Absatz 1, 2 und 3
-    Unterabsatz 2 der Verordnung (EU) Nr. 648/2012 des Europäischen
-    Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale
-    Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S.
-    1), die zuletzt durch die Delegierte Verordnung (EU) 2017/610 (ABl. L
-    86 vom 31.3.2017, S. 3) geändert worden ist.
+    Unterabsatz 2 der Verordnung (EU) Nr. 648/2012.
 
 
 
@@ -1054,14 +1028,7 @@ insbesondere Folgendes zu beurteilen:
 
 3.  den Umfang, in dem das Unternehmen Gebrauch gemacht hat von der
     Möglichkeit der Portfoliokomprimierung gemäß Artikel 14 der
-    Delegierten Verordnung (EU) Nr. 149/2013 der Kommission vom 19.
-    Dezember 2012 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des
-    Europäischen Parlaments und des Rates im Hinblick auf technische
-    Regulierungsstandards für indirekte Clearingvereinbarungen, die
-    Clearingpflicht, das öffentliche Register, den Zugang zu einem
-    Handelsplatz, nichtfinanzielle Gegenparteien und
-    Risikominderungstechniken für nicht durch eine CCP geclearte OTC-
-    Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11),
+    Delegierten Verordnung (EU) Nr. 149/2013,
 
 
 4.  die Prozesse zur Identifizierung streitbefangener Geschäfte und zur
@@ -1097,6 +1064,118 @@ dritte Person oder ein anderes Unternehmen übertragen worden ist, hat
 der Prüfer hierüber zu berichten.
 
 
+#### § 40a Einhaltung der Pflichten gemäß der Verordnung (EU) 2019/2088 und gemäß der Verordnung (EU) 2020/852
+
+(1) Der Prüfer hat zu beurteilen, ob und inwieweit die Angaben zur
+Erfüllung der Anforderungen nach den Artikeln 3 bis 13 der Verordnung
+(EU) 2019/2088 und nach den Artikeln 5 bis 7 der Verordnung (EU)
+2020/852 den gesetzlichen Anforderungen entsprechen. Die Beurteilung
+hat unter Berücksichtigung von Leitlinien und Verlautbarungen zur
+einheitlichen Auslegung der in Satz 1 genannten Verordnungen zu
+erfolgen, die von folgenden Institutionen veröffentlicht werden:
+
+1.  der Europäischen Kommission,
+
+
+2.  den Europäischen Aufsichtsbehörden des Europäischen
+    Finanzaufsichtssystems und
+
+
+3.  der Bundesanstalt.
+
+
+
+Die Prüfungsergebnisse sind jeweils zusammenfassend für die
+unternehmensbezogenen Offenlegungspflichten nach den Artikeln 3 bis 5
+in Verbindung mit Artikel 12 der Verordnung (EU) 2019/2088, für die
+produktbezogenen Offenlegungspflichten nach den Artikeln 6 bis 12 der
+Verordnung (EU) 2019/2088 und nach den Artikeln 5 bis 7 der Verordnung
+(EU) 2020/852 sowie für die Widerspruchsfreiheit zwischen
+Marketingmitteilungen und zu veröffentlichenden Informationen nach
+Artikel 13 der Verordnung (EU) 2019/2088 darzustellen. Die Beurteilung
+und deren Begründung hat jeweils separat für die in den jeweiligen
+Artikeln aufgestellten Anforderungen zu erfolgen, wobei die
+festgestellten Mängel darzustellen und nach ihrer Schwere zu bewerten
+sind. Bei geprüften Produkten, bei denen Widersprüche zwischen
+Marketingmitteilungen und zu veröffentlichenden Informationen im Sinne
+des Artikels 13 der Verordnung (EU) 2019/2088 festgestellt wurden,
+sind diese Widersprüche darzustellen.
+
+(2) Darüber hinaus hat der Prüfer die organisatorischen Vorkehrungen
+zur Erfüllung der Anforderungen nach den Artikeln 3 bis 13 der
+Verordnung (EU) 2019/2088 zusammenfassend darzustellen und zu
+beurteilen, inwieweit diese angemessen sind. Dabei hat der Prüfer auch
+die organisatorischen Vorkehrungen darzustellen, die sicherstellen
+sollen, dass die Marketingmitteilungen nicht im Widerspruch zu den
+gemäß der Verordnung (EU) 2019/2088 veröffentlichten Informationen
+stehen, und die festgestellten organisatorischen Mängel anzugeben.
+
+
+#### § 40b Berücksichtigung der Informations- und Kommunikationstechnologie des Versicherungsunternehmens bei der Prüfung
+
+(1) Der Prüfer hat im Prüfungsbericht zusammenfassend über die
+Organisation der Informations- und Kommunikationstechnologie des
+Unternehmens und diejenigen Systeme der Informations- und
+Kommunikationstechnologie, die wesentliche Geschäftsprozesse des
+Unternehmens unterstützen oder aufsichtsrechtlich relevante Daten
+verarbeiten, zu berichten. Wesentliche Änderungen an diesen Systemen
+sowie die der Änderung dienenden Projekte sind im Prüfungsbericht
+darzustellen. Der Prüfer hat darzustellen und zu beurteilen, ob die
+organisatorischen, personellen und technischen Vorkehrungen zur
+Sicherstellung der Integrität, der Vertraulichkeit, der Authentizität
+und der Verfügbarkeit dieser Systeme angemessen sind und wirksam
+umgesetzt werden. Werden externe Ressourcen der Informations- und
+Kommunikationstechnologie eingesetzt, so erstrecken sich die
+vorgenannten Berichtspflichten auch auf diese Ressourcen.
+
+(2) Der Prüfer hat im Prüfungsbericht zu beurteilen, ob das
+Unternehmen die Anforderungen der Artikel 5 bis 14, 16 bis 19, 24, 25,
+28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in
+Verbindung mit Rechtsakten, die gemäß den Artikeln 15, 16, 20, 28 oder
+30 der Verordnung (EU) 2022/2554 erlassen wurden, unter
+Berücksichtigung des Grundsatzes der Verhältnismäßigkeit gemäß Artikel
+4 der Verordnung (EU)
+2022/2554             , angemessen und wirksam einhält. Dabei ist
+insbesondere einzugehen auf
+
+1.  das auf die Informations- und Kommunikationstechnologie bezogene
+    Risikomanagement gemäß den Artikeln 5 bis 14 und 16 der Verordnung
+    (EU) 2022/2554,
+
+
+2.  die Dokumentation des auf die Informations- und
+    Kommunikationstechnologie bezogenen Risikomanagementrahmens gemäß
+    Artikel 6 Absatz 5 Satz 1 oder Artikel 16 Absatz 2 Satz 1 der
+    Verordnung (EU) 2022/2554,
+
+
+3.  die auf die Informations- und Kommunikationstechnologie bezogene
+    Geschäftsfortführungsleitlinie gemäß Artikel 11 Absatz 1 der
+    Verordnung (EU) 2022/2554,
+
+
+4.  die Behandlung und Klassifizierung von auf die Informations- und
+    Kommunikationstechnologie bezogenen Vorfällen sowie die Meldung
+    darüber gemäß den Artikeln 17 bis 19 der Verordnung (EU) 2022/2554,
+
+
+5.  das Testen der digitalen operationalen Resilienz gemäß den Artikeln 24
+    und 25 der Verordnung (EU) 2022/2554,
+
+
+6.  das Management des auf die Informations- und Kommunikationstechnologie
+    bezogenen Drittparteienrisikos gemäß den Artikeln 28 bis 30 der
+    Verordnung (EU) 2022/2554 und
+
+
+7.  die Einhaltung der Mitteilungspflicht in Bezug auf Vereinbarungen über
+    den Austausch von Informationen gemäß Artikel 45 Absatz 3 der
+    Verordnung (EU) 2022/2554.
+
+
+
+
+
 #### § 41 Berichterstattung über die Verwendung von Ratings
 
 (1) Im Prüfungsbericht ist darauf einzugehen, wie und in welchem
@@ -1112,11 +1191,8 @@ die Gruppe ausgesetzt ist, Stellung zu nehmen.
 strukturierten Finanzinstrumenten fungiert, sind die betreffenden
 Finanzinstrumente darzustellen. Es ist anzugeben, auf welche Weise die
 Anforderungen eingehalten worden sind, die sich ergeben aus den
-Artikeln 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen
-Parlaments und des Rates vom 16. September 2009 über Ratingagenturen
-(ABl. L 302 vom 17.11.2009, S. 1; L 145 vom 31.5.2011, S. 57), die
-zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S.
-1) geändert worden ist, und aus den technischen Regulierungsstandards.
+Artikeln 8b bis 8d der Verordnung (EG) Nr. 1060/2009 und aus den
+technischen Regulierungsstandards.
 
 
 #### § 42 Anzeigewesen
@@ -1503,9 +1579,8 @@ dargestellt ist.
 
 ### § 53 Ort der Berichterstattung
 
-Die Berichterstattung nach diesem Abschnitt kann auch im
-Prüfungsbericht für den Einzelabschluss des Mutterunternehmens
-erfolgen.
+Die Berichterstattung nach diesem Kapitel kann auch im Prüfungsbericht
+für den Einzelabschluss des Mutterunternehmens erfolgen.
 
 
 ## Kapitel 5 - Schlussvorschriften
@@ -1513,14 +1588,8 @@ erfolgen.
 
 ### § 54 Übergangsvorschrift
 
-(1) Die Vorschriften dieser Verordnung sind erstmals für das
-Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
-
-(2) Für die Geschäftsjahre, die vor dem 1. Januar 2016 begonnen haben,
-ist die Prüfungsberichteverordnung vom 3. Juni 1998 (BGBl. I S. 1209),
-die durch Artikel 2 Nummer 1 der Verordnung vom 16. Dezember 2015
-(BGBl. I S. 2345) aufgehoben worden ist, in der bis zum 31. März 2016
-geltenden Fassung weiter anzuwenden.
+Die §§ 40a und 40b sind erstmals auf ein nach dem 31. Dezember 2024
+beginnendes Geschäftsjahr anzuwenden.
 
 
 ### § 55 Inkrafttreten
