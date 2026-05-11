@@ -34,7 +34,7 @@ beschlossen:
 
 
 
-## Art 3 bis 6
+## Art 3 bis 6 - 
 
 
 
@@ -276,7 +276,7 @@ Rücksicht auf Absatz 1 vorgenommen werden, bedürfen der Zustimmung des
 Bundesministeriums für Wirtschaft und Technologie.
 
 
-## Art 9 bis 11
+## Art 9 bis 11 - 
 
 
 
