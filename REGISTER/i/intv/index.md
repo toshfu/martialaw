@@ -239,9 +239,9 @@ berücksichtigen sind insbesondere:
 
 ### § 5a Zulassung durch den Träger der Grundsicherung für Arbeitsuchende
 
-(1) Der Träger der Grundsicherung für Arbeitsuchende kann einen
-Ausländer zur Teilnahme an einem Integrationskurs nach § 44 Absatz 4
-des Aufenthaltsgesetzes zulassen, wenn die Teilnahme im Rahmen eines
+(1) Der Träger der Grundsicherung für Arbeitsuchende kann eine Person
+zur Teilnahme an einem Integrationskurs nach § 44 Absatz 4 des
+Aufenthaltsgesetzes zulassen, wenn die Teilnahme im Rahmen eines
 Kooperationsplans nach § 15 Absatz 2 des Zweiten Buches
 Sozialgesetzbuch vorgesehen ist.
 
