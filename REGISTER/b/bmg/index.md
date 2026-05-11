@@ -16,10 +16,11 @@ Fundstelle
 :   BGBl I: 2013, 1084
 
 Zuletzt geändert durch
-:   Art. 12 G v. 22.12.2025 I Nr. 370
+:   Art. 12 G v. 22.12.2025 I Nr. 370; I 2026 Nr. 121
 
 Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
+Stand: Bek. v. 16.4.2026 I Nr. 121 ist berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -103,10 +104,13 @@ erforderlichen Hinweise im Melderegister:
     f)  Geschlecht,
 
 
-    g)  Sterbedatum sowie
+    g)  Sterbedatum,
 
 
-    h)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+    h)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+
+    i)  die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 
 
@@ -163,10 +167,13 @@ erforderlichen Hinweise im Melderegister:
         des Zuständigkeitsbereichs der Meldebehörde,
 
 
-    h)  Sterbedatum sowie
+    h)  Sterbedatum,
 
 
-    i)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+    i)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+
+    j)  die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 
 
@@ -192,7 +199,10 @@ erforderlichen Hinweise im Melderegister:
     f)  Sterbedatum,
 
 
-    g)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+    g)  Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+
+    h)  die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 
 
@@ -206,8 +216,9 @@ erforderlichen Hinweise im Melderegister:
     und Sperrsumme des Personalausweises und der eID-Karte,
 
 
-17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 1
-    und 2 Nummer 4 des AZR-Gesetzes,
+17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2
+    Nummer 4 des AZR-Gesetzes, übergangsweise die Seriennummer des
+    Ankunftsnachweises nach § 63a Absatz 1 Nummer 10 des Asylgesetzes,
 
 
 18. Auskunfts- und Übermittlungssperren,
@@ -252,23 +263,11 @@ erforderlichen Hinweise im Melderegister:
         sowie das Datum des Eintritts und Austritts,
 
 
-    b)  den Familienstand,
+    b)  den Familienstand sowie
 
 
     c)  das Datum der Begründung oder Auflösung der Ehe oder
-        Lebenspartnerschaft sowie
-
-
-    d)  die Identifikationsnummern oder die Vorläufigen Bearbeitungsmerkmale
-
-        aa) des Ehegatten oder Lebenspartners,
-
-
-        bb) der minderjährigen Kinder, die ihre alleinige Wohnung oder ihre
-            Hauptwohnung im Zuständigkeitsbereich derselben Meldebehörde haben,
-
-
-
+        Lebenspartnerschaft,
 
 
 
@@ -286,10 +285,19 @@ erforderlichen Hinweise im Melderegister:
     oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist,
 
 
-5.  (weggefallen)
+5.  für staatsangehörigkeitsrechtliche Verfahren
+
+    die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3
+    oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach §
+    29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen
+    Staatsangehörigkeit eintreten kann,
 
 
-6.  (weggefallen)
+6.  für Zwecke der Suchdienste
+
+    die Anschrift vom 1. September 1939 derjenigen Einwohner, die aus den
+    in § 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten
+    Gebieten stammen,
 
 
 7.  für waffenrechtliche Verfahren
