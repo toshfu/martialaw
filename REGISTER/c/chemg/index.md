@@ -5501,7 +5501,8 @@ GLP-Bescheinigung/Statement of GLP Compliance
 
 ### Anhang 2 (gemäß/according to § 19b Abs. 1 Chemikaliengesetz)
 
-(Fundstelle: BGBl. I 2013, 3532)
+(Fundstelle: BGBl. I 2013, 3532;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Eine GLP-Inspektion zur Überwachung der Einhaltung der GLP-Grundsätze
