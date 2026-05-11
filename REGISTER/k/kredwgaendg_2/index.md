@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 6 G v. 20.12.1984 I 1693
 
 
-## Art 1
+## Art 1 - 
 
 
 
@@ -60,11 +60,11 @@ dieses Gesetzes Inhaber eines derartigen Kreditinstituts ist.
 -
 
 
-## Art 3
+## Art 3 - 
 
 
 
-## Art 4
+## Art 4 - 
 
 
 
