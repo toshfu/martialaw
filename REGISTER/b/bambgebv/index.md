@@ -17,11 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1712
 
-Geändert durch
-:   Art. 4 V v. 2.12.2024 I Nr. 384
-
-Änderung durch
-:   Art. 1 V v. 26.11.2025 I Nr. 294 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 26.11.2025 I Nr. 294
 
 Stand: Ersetzt V 7134-1-2 v. 17.12.1970 I 1748 (BAMKostO)
 
