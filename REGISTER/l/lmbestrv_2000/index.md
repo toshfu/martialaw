@@ -19,11 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 15.2.2019 I 116;
 
-Geändert durch
-:   Art. 1 V v. 21.10.2022 I 1879
-
-Änderung durch
-:   Art. 4 V v. 25.11.2025 I Nr. 289 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 V v. 25.11.2025 I Nr. 289
 
 
 ## § 1 Zulassungen
@@ -311,7 +308,9 @@ Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Absatz 1 Satz
 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
 Weise oder nicht rechtzeitig kenntlich macht.
 
-(3) (weggefallen)
+(3) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Absatz 1 ein
+dort genanntes Lebensmittel in den Verkehr bringt.
 
 (4) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Absatz 1 Satz
