@@ -15,7 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 645
 
+V aufgeh. durch
+:   Art. 3 V 26-7-6 v. 30.4.2026 I Nr. 127 mWv 12.6.2026
+
 Stand: Die V ersetzt die V 26-7-1 v. 26.11.1993 I 1914 mWv 11.4.2008
+Ersetzt durch
+:   V 26-7-6 v. 30.4.2026 I Nr. 127 (AsylZBV 2026)
+
 
 ## Eingangsformel
 
