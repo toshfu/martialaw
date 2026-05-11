@@ -578,6 +578,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     ist zu unterstellen, dass der Fettgehalt jeweils 5 % beträgt.
 [^F777478_02_BJNR028700010BJNE000802116]:     Die angegebenen Höchstgehalte gelten für das im Lebensmittel
     enthaltene Fett.
-[^F777478_03_BJNR028700010BJNE000802116]: [^F777478_04_BJNR028700010BJNE000802116]:     Die angegebenen Höchstgehalte beziehen sich auf das Gewicht der
+[^F777478_03_BJNR028700010BJNE000802116]:     Die angegebenen Höchstgehalte beziehen sich auf das Gewicht der
     verwendeten Eier ohne Schale.
-
+[^F777478_04_BJNR028700010BJNE000802116]: 
