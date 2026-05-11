@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1649
 
-Änderung durch
-:   Art. 1 G v. 16.4.2026 I Nr. 106 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 G v. 16.4.2026 I Nr. 106
 
 
 ## Abschnitt 1 - Allgemeine Regelungen
