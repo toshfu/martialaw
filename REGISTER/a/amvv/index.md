@@ -457,12 +457,10 @@ gemischt werden.
 
 ## § 8 (weggefallen)
 
--
 
 
-## § 9
+## § 9 (weggefallen)
 
-(weggefallen)
 
 (zu § 1 Nr. 1 und § 5)
 
