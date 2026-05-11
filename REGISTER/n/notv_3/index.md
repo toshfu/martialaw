@@ -229,11 +229,11 @@ Reich,              Ländern und Gemeinden keine Steuern, Abgaben oder
 Gebühren erhoben.
 
 
-#### Art 4
+#### Art 4 - 
 
 
 
-#### Art 5
+#### Art 5 - 
 
 
 
