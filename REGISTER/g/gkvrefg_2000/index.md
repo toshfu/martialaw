@@ -23,7 +23,7 @@ Geändert durch
 
 
 
-## Art 19
+## Art 19 - 
 
 
 
