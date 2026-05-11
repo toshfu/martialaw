@@ -8425,12 +8425,6 @@ Abschnitt II
 
 
 *    *
-    *   **b) Fahrerlaubnis-Verordnung**
-
-    *
-    *
-
-*    *
     *   Verkehrseinrichtungen zum Schutz der Infrastruktur ****
 
     *
