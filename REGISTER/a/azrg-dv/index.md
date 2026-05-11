@@ -19,10 +19,10 @@ Zuletzt geändert durch
 :   Art. 8 G v. 30.1.2026 I Nr. 31
 
 Änderung durch
-:   Art. 2 G v. 23.4.2026 I Nr. 112 mWv 12.6.2026 bzw. 1.11.2026 noch nicht berücksichtigt
+:   Art. 2 G v. 23.4.2026 I Nr. 112 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 5 G v. 23.4.2026 I Nr. 112 mWv 12.6.2026 noch nicht berücksichtigt
+:   Art. 5 G v. 23.4.2026 I Nr. 112 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
