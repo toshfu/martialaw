@@ -17,7 +17,7 @@ Fundstelle
 
 
 
-## Art 1
+## Art 1 - 
 
 
 
@@ -151,7 +151,7 @@ hunderttausend Deutsche Mark geahndet werden.
 anzuwenden.
 
 
-## Art 3 bis 6
+## Art 3 bis 6 - 
 
 
 
