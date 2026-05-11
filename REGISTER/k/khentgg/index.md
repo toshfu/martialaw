@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1412, 1422
 
 Zuletzt geändert durch
-:   Art. 13a G v. 22.12.2025 I Nr. 371
-
-Änderung durch
-:   Art. 3 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 9.4.2026 I Nr. 98
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -3871,6 +3868,17 @@ Entgelte anwendbar:
 
 
 
+Für die Vereinbarungsjahre 2020 bis 2025 sind Mindererlöse infolge der
+Erhebung des Pflegeentgeltwertes nach Absatz 2a Satz 1 oder infolge
+der Weitererhebung des bisherigen krankenhausindividuellen
+Pflegeentgeltwertes nach Absatz 2 und § 6a Absatz 4 auch für die auf
+das Vereinbarungsjahr folgenden Jahre, höchstens bis zum Jahr des
+Inkrafttretens der Vereinbarung des Pflegebudgets für das Kalenderjahr
+2025, vorläufig zu berechnen und auszugleichen. Der endgültige
+Erlösausgleich erfolgt mit dem krankenhausindividuellen
+Pflegeentgeltwert nach § 6a Absatz 4 des jeweiligen
+Vereinbarungsjahres.
+
 
 ## Abschnitt 5 - Gesondert berechenbare ärztliche und andere Leistungen
 
@@ -4310,9 +4318,6 @@ d und Nummer 2 Buchstabe b, d, e, g und h zur Fusionskontrolle nach
 dem Gesetz gegen Wettbewerbsbeschränkungen zur Verfügung zu stellen,
 soweit die Krankenhäuser von einem jeweils zu benennenden
 Fusionskontrollverfahren betroffen sind. Andere als die in diesem
-Absatz, in § 17b Absatz 8 des Krankenhausfinanzierungsgesetzes und in
-§ 186a Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen genannten
-Verarbeitungen der Daten sind unzulässig. Andere als die in diesem
 Absatz, in § 17b Absatz 8 des Krankenhausfinanzierungsgesetzes und in
 § 186a Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen genannten
 Verarbeitungen der Daten sind unzulässig.
