@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;
 
 Zuletzt geändert durch
-:   Art. 14 G v. 8.12.2025 I Nr. 319
-
-Änderung durch
-:   Art. 8 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+:   Art. 8 G v. 10.12.2025 I Nr. 320
 
 Änderung durch
 :   Art. 1 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
