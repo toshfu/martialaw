@@ -18,10 +18,7 @@ Fundstelle
 
 Stand: Ersetzt G 9231-11 v. 14.8.2006 I 1958 (BKrFQG)
 Zuletzt geändert durch
-:   Art. 2 G v. 16.8.2023 I Nr. 218
-
-Änderung durch
-:   Art. 1 G v. 3.2.2026 I Nr. 30 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 3.2.2026 I Nr. 30
 
 Mittelbare änderung durch
 :   Art. 2 G v. 3.2.2026 I Nr. 30 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
