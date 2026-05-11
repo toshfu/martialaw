@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1016
 
 Zuletzt geändert durch
-:   Art. 3 V v. 26.4.2023 I Nr. 115
-
-Änderung durch
-:   Art. 2 V v. 25.11.2025 I Nr. 289 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 25.11.2025 I Nr. 289
 
 Mit dieser Verordnung wird die Richtlinie 2001/112/EG des Rates vom
 20\. Dezember 2001 über Fruchtsäfte und bestimmte gleichartige
