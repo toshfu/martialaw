@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 3126
 
 Zuletzt geändert durch
-:   Art. 30 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 1 V v. 5.3.2026 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 5.3.2026 I Nr. 63
 
 
 ## Eingangsformel
@@ -494,12 +491,12 @@ Anzahl der Personen nicht, nicht richtig, nicht vollständig, nicht in
 der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
 
-## Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.
 
