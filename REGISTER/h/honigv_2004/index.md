@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 92
 
 Zuletzt geändert durch
-:   Art. 10 V v. 5.7.2017 I 2272
-
-Änderung durch
-:   Art. 1 V v. 25.11.2025 I Nr. 289 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 25.11.2025 I Nr. 289
 
 Mit dieser Verordnung wird die Richtlinie 2001/110/EG des Rates vom
 20\. Dezember 2001 über Honig (ABl. EG 2002 Nr. L 10 S. 47) in
