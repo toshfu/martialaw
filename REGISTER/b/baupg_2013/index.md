@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 2449, 2450
 
 Zuletzt geändert durch
-:   Art. 5 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 1 G v. 9.1.2026 I Nr. 4 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 9.1.2026 I Nr. 4
 
 
 ## Abschnitt 1 - Durchführungsbestimmungen zur Verordnung (EU) Nr. 305/2011
