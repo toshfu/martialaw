@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2006
 
+Ano aufgeh. durch
+:   § 4 Abs. 2 iVm Abs. 1 AnO 900-10-4-60 v. 18.5.2026 I Nr. 154 (DPAGBefugAnO 2026)
+
 Stand: Ersetzt Anordnung 900-10-4-49 v. 27.9.2013 I 3752, 3899 (DPAGBefugAnO)
 
 ## Eingangsformel
