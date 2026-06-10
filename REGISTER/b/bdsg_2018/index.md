@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2097
 
 Zuletzt geändert durch
-:   Art. 7 G v. 6.5.2024 I Nr. 149
+:   Art. 3 G v. 12.5.2026 I Nr. 139
 
 Stand: Ersetzt G 204-3 v. 20.12.1990 I 2954, 2955 (BDSG 1990)
 
