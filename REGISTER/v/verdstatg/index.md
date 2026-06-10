@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 3291
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.8.2020 I 1872
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.12.2025 I Nr. 354
 
 
 ## § 1 Zwecke der Verdienststatistik
