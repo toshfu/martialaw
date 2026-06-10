@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 27.4.2026 I Nr. 119
+:   Art. 2 Abs. 10 G v. 12.5.2026 I Nr. 143
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
@@ -233,7 +233,7 @@ Versicherungspflichtig sind Personen in der Zeit,
     truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
     Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das
     Landesrecht dies vorsieht, Leistungen für den Ausfall von
-    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8b des
     Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
     oder im Zusammenhang mit einer im Sinne von § 9 des
     Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
@@ -9144,7 +9144,7 @@ Beschäftigung behandelt werden.
     truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
     Träger von Kosten in Krankheitsfällen auf Landesebene, soweit
     Landesrecht dies vorsieht, Leistungen für den Ausfall von
-    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8b des
     Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
     oder im Zusammenhang mit einer im Sinne von § 9 des
     Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
@@ -9472,14 +9472,14 @@ Die Beiträge werden getragen
         Leistungsträger,
 
 
-    d)  für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im
-        Zusammenhang mit einer nach den §§ 8 und 8a des
-        Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
-        oder im Zusammenhang mit einer im Sinne von § 9 des
-        Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
-        Blutstammzellen oder anderen Blutbestandteilen erhalten, von der
-        Stelle, die die Leistung erbringt; wird die Leistung von mehreren
-        Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen,
+    d)  Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit
+        einer nach den §§ 8 und 8b des Transplantationsgesetzes erfolgenden
+        Spende von Organen oder Geweben oder im Zusammenhang mit einer im
+        Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur
+        Separation von Blutstammzellen oder anderen Blutbestandteilen
+        erhalten, von der Stelle, die die Leistung erbringt; wird die Leistung
+        von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig
+        zu tragen,
 
 
     e)  Pflegeunterstützungsgeld beziehen, von den Beziehern der Leistung zur
