@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.12.1980; 1981 I 1;
 
 Zuletzt geändert durch
-:   Art. 26 G v. 23.10.2024 I Nr. 323
+:   Art. 13 G v. 20.5.2026 I Nr. 152
 
 Stand: Bek. v. 27.6.2023 I Nr. 175 ist berücksichtigt
 
