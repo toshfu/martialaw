@@ -23,10 +23,13 @@ Zuletzt geändert durch
 :   Art. 4 G v. 29.3.2026 I Nr. 83 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
+:   Art. 11 Abs. 7 G v. 16.4.2026 I Nr. 107 ist berücksichtigt
+
+Änderung durch
 :   Art. 5 G v. 23.4.2026 I Nr. 111 ist berücksichtigt
 
 Änderung durch
-:   Art. 11 Abs. 7 G v. 16.4.2026 I Nr. 107 ist berücksichtigt
+:   Art. 6 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
