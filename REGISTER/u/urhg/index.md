@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1273
 
 Zuletzt geändert durch
-:   Art. 28 G v. 23.10.2024 I Nr. 323
+:   Art. 2 G v. 26.5.2026 I Nr. 157
 
 
 ## Teil 1 - Urheberrecht
@@ -2022,12 +2022,12 @@ Verwendung, wahrscheinlich ist.
 
 ##### § 54d Hinweispflicht
 
-Soweit nach § 14 Abs. 2 Satz 1 Nr. 2 Satz 2 des Umsatzsteuergesetzes
-eine Verpflichtung zur Erteilung einer Rechnung besteht, ist in
-Rechnungen über die Veräußerung oder ein sonstiges Inverkehrbringen
-der in § 54 Abs. 1 genannten Geräte oder Speichermedien auf die auf
-das Gerät oder Speichermedium entfallende Urhebervergütung
-hinzuweisen.
+Soweit nach § 14 Absatz 2 Satz 2 Nummer 1 und 2 des
+Umsatzsteuergesetzes eine Verpflichtung zur Erteilung einer Rechnung
+besteht, ist in Rechnungen über die Veräußerung oder ein sonstiges
+Inverkehrbringen der in § 54 Abs. 1 genannten Geräte oder
+Speichermedien auf die auf das Gerät oder Speichermedium entfallende
+Urhebervergütung hinzuweisen.
 
 
 ##### § 54e Meldepflicht
@@ -3529,6 +3529,9 @@ Interessen des Datenbankherstellers unzumutbar beeinträchtigen.
 
 (2) § 10 Abs. 1, § 17 Abs. 2 und § 27 Abs. 2 und 3 gelten
 entsprechend.
+
+(3) Absatz 1 ist in den in Artikel 43 der Verordnung (EU) 2023/2854
+genannten Fällen nicht anzuwenden.
 
 
 #### § 87c Schranken des Rechts des Datenbankherstellers
