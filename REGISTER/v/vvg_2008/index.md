@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2631
 
 Zuletzt geändert durch
-:   Art. 4 G v. 3.2.2026 I Nr. 28
+:   Art. 12 G v. 26.5.2026 I Nr. 156
 
 
 ## Teil 1 - Allgemeiner Teil
