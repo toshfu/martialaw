@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1273
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.10.2025 I Nr. 247
+:   Art. 2 G v. 12.5.2026 I Nr. 137
 
 
 ## Eingangsformel
