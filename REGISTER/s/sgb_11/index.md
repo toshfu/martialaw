@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1015
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 371
-
-Änderung durch
-:   Art. 7 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 16.4.2026 I Nr. 107
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
