@@ -25,6 +25,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 3 Abs. 4 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 Abs. 3 G v. 15.5.2026 I Nr. 148 ist berücksichtigt
+
 
 ## § 1 Autobahn- und Bundesstraßenmaut
 
@@ -1208,10 +1211,9 @@ ihrer statistischen Auswertung unverzüglich automatisiert zu löschen.
 (7) Die Mautdaten nach § 4 Absatz 3 Satz 3 Nummer 1, 2 und 6 werden in
 anonymisierter Form in regelmäßigen Abständen durch das Bundesamt für
 Logistik und Mobilität über den Nationalen Zugangspunkt nach § 2
-Nummer 11 des Intelligente Verkehrssysteme Gesetzes vom 11. Juni 2013
-(BGBl. I S. 1553), das zuletzt durch Artikel 1 des Gesetzes vom 17.
-Juni 2017 (BGBl. I S. 2690) geändert worden ist, allen Interessierten
-gebührenfrei und in standardisierter Form bereitgestellt.
+Nummer 11 des Intelligente-Verkehrssysteme-Gesetzes allen
+Interessierten gebührenfrei und in standardisierter Form
+bereitgestellt.
 
 
 ## § 10 Bußgeldvorschriften
