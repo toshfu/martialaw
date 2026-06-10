@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 29 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 1 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Steuerpflicht
 
@@ -25512,8 +25521,9 @@ Tilgungsleistungen als Altersvorsorgebeiträge nach Satz 1.
 Nummer 1 gelten im Beitragsjahr der Reinvestition auch die davor
 geleisteten Beiträge oder Tilgungsleistungen als
 Altersvorsorgebeiträge nach Satz 1.
-8             Bei einem beruflich bedingten Umzug nach § 92a Absatz 4
-gelten
+8             Bei einer Wiederaufnahme der Selbstnutzung nach § 92a
+Absatz 3 Satz 9 Nummer 5 oder bei einem beruflich bedingten Umzug nach
+§ 92a Absatz 4 gelten
 
 1.  im Beitragsjahr des Wegzugs auch die nach dem Wegzug und
 
@@ -25606,53 +25616,7 @@ wenn in der Leistungsphase die Auszahlung in Form einer Rente erfolgt.
 
 
 
-(5)
-1             Der Zulageberechtigte kann für ein abgelaufenes
-Beitragsjahr bis zum Beitragsjahr 2011 Altersvorsorgebeiträge auf
-einen auf seinen Namen lautenden Altersvorsorgevertrag leisten, wenn
-
-1.  der Anbieter des Altersvorsorgevertrags davon Kenntnis erhält, in
-    welcher Höhe und für welches Beitragsjahr die Altersvorsorgebeiträge
-    berücksichtigt werden sollen,
-
-
-2.  in dem Beitragsjahr, für das die Altersvorsorgebeiträge berücksichtigt
-    werden sollen, ein Altersvorsorgevertrag bestanden hat,
-
-
-3.  im fristgerechten Antrag auf Zulage für dieses Beitragsjahr eine
-    Zulageberechtigung nach § 79 Satz 2 angegeben wurde, aber tatsächlich
-    eine Zulageberechtigung nach § 79 Satz 1 vorliegt,
-
-
-4.  die Zahlung der Altersvorsorgebeiträge für abgelaufene Beitragsjahre
-    bis zum Ablauf von zwei Jahren nach Erteilung der Bescheinigung nach §
-    92, mit der zuletzt Ermittlungsergebnisse für dieses Beitragsjahr
-    bescheinigt wurden, längstens jedoch bis zum Beginn der
-    Auszahlungsphase des Altersvorsorgevertrages erfolgt und
-
-
-5.  der Zulageberechtigte vom Anbieter in hervorgehobener Weise darüber
-    informiert wurde oder dem Anbieter seine Kenntnis darüber versichert,
-    dass die Leistungen aus diesen Altersvorsorgebeiträgen der vollen
-    nachgelagerten Besteuerung nach § 22 Nummer 5 Satz 1 unterliegen.
-
-
-
-2             Wurden die Altersvorsorgebeiträge dem
-Altersvorsorgevertrag gutgeschrieben und sind die Voraussetzungen nach
-Satz 1 erfüllt, so hat der Anbieter der zentralen Stelle (§ 81) die
-entsprechenden Daten nach § 89 Absatz 2 Satz 1 für das zurückliegende
-Beitragsjahr nach einem mit der zentralen Stelle abgestimmten
-Verfahren mitzuteilen.
-3             Die Beträge nach Satz 1 gelten für die Ermittlung der zu
-zahlenden Altersvorsorgezulage nach § 83 als Altersvorsorgebeiträge
-für das Beitragsjahr, für das sie gezahlt wurden.
-4             Für die Anwendung des § 10a Absatz 1 Satz 1 sowie bei
-der Ermittlung der dem Steuerpflichtigen zustehenden Zulage im Rahmen
-des § 2 Absatz 6 und des § 10a sind die nach Satz 1 gezahlten
-Altersvorsorgebeiträge weder für das Beitragsjahr nach Satz 1 Nummer 2
-noch für das Beitragsjahr der Zahlung zu berücksichtigen.
+(5) (weggefallen)
 
 
 ### § 83 Altersvorsorgezulage
@@ -26030,7 +25994,7 @@ Datenfernübertragung mitzuteilen.
 
 
 3.  auf besonderen Antrag des Zulageberechtigten, sofern nicht bereits
-    eine Festsetzung von Amts wegen erfolgt ist, oder
+    eine Festsetzung nach Nummer 1, 2 oder 4 erfolgt ist, oder
 
 
 4.  auf Anforderung des zuständigen Finanzamtes, wenn dessen Daten von den
@@ -26142,8 +26106,7 @@ nach amtlich vorgeschriebenem Muster zu erteilen über
     Altersvorsorgebeiträge (Beiträge und Tilgungsleistungen),
 
 
-2.  die im abgelaufenen Beitragsjahr getroffenen, aufgehobenen oder
-    geänderten Ermittlungsergebnisse (§ 90),
+2.  die Ermittlungsergebnisse (§ 90) im abgelaufenen Beitragsjahr,
 
 
 3.  die Summe der bis zum Ende des abgelaufenen Beitragsjahres dem Vertrag
@@ -26763,13 +26726,24 @@ Absatz 1 des Betriebsrentengesetzes.
 
 (3)
 1             Auszahlungen zur Abfindung einer Kleinbetragsrente zu
-Beginn der Auszahlungsphase oder im darauffolgenden Jahr gelten nicht
-als schädliche Verwendung.
-2             Eine Kleinbetragsrente ist eine Rente, die bei
-gleichmäßiger Verrentung des gesamten zu Beginn der Auszahlungsphase
-zur Verfügung stehenden Kapitals eine monatliche Rente ergibt, die 1
-Prozent der monatlichen Bezugsgröße nach § 18 des Vierten Buches
-Sozialgesetzbuch nicht übersteigt.
+Beginn der Auszahlungsphase gelten nicht als schädliche Verwendung.
+2             Eine Kleinbetragsrente ist
+
+1.  eine Rente, die bei gleichmäßiger Verrentung des gesamten zu Beginn
+    der Auszahlungsphase zur Verfügung stehenden Kapitals eine monatliche
+    Rente ergibt, die 1,5 Prozent der monatlichen Bezugsgröße nach § 18
+    des Vierten Buches Sozialgesetzbuch nicht übersteigt, oder
+
+
+2.  eine monatliche Leistung ab dem 1. Januar 2027, die bei einer
+    gleichmäßigen Verteilung des gesamten zu Beginn der Auszahlungsphase
+    zur Verfügung stehenden Kapitals im Rahmen eines Auszahlungsplans nach
+    § 1 Absatz 1 Satz 1 Nummer 4 Buchstabe b des Altersvorsorgeverträge-
+    Zertifizierungsgesetzes 1,5 Prozent der monatlichen Bezugsgröße nach §
+    18 des Vierten Buches Sozialgesetzbuch nicht übersteigt.
+
+
+
 3             Bei der Berechnung dieses Betrags sind alle bei einem
 Anbieter bestehenden Verträge des Zulageberechtigten insgesamt zu
 berücksichtigen, auf die nach diesem Abschnitt geförderte
