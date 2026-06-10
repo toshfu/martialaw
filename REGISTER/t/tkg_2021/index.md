@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 11.3.2026 I Nr. 66
 
+Änderung durch
+:   Art. 2 G v. 12.5.2026 I Nr. 138 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
 ## Teil 1 - Allgemeine Vorschriften
