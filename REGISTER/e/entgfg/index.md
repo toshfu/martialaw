@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1065
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.11.2019 I 1746
-
-Mittelbare änderung durch
-:   Art. 12b G v. 11.2.2021 I 154 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 4b G v. 23.3.2022 I 482 ist berücksichtigt
+:   Art. 2 Abs. 7 G v. 12.5.2026 I Nr. 143
 
 
 ## § 1 Anwendungsbereich
@@ -91,7 +85,7 @@ ununterbrochener Dauer des Arbeitsverhältnisses.
 ## § 3a Anspruch auf Entgeltfortzahlung bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
 
 (1) Ist ein Arbeitnehmer durch Arbeitsunfähigkeit infolge der Spende
-von Organen oder Geweben, die nach den §§ 8 und 8a des
+von Organen oder Geweben, die nach den §§ 8 und 8b des
 Transplantationsgesetzes erfolgt, oder einer Blutspende zur Separation
 von Blutstammzellen oder anderen Blutbestandteilen im Sinne von § 9
 des Transfusionsgesetzes an seiner Arbeitsleistung verhindert, hat er
@@ -105,8 +99,12 @@ Blutstammzellen oder anderen Blutbestandteilen das an den Arbeitnehmer
 nach Absatz 1 fortgezahlte Arbeitsentgelt sowie die hierauf
 entfallenden vom Arbeitgeber zu tragenden Beiträge zur
 Sozialversicherung und zur betrieblichen Alters- und
-Hinterbliebenenversorgung auf Antrag zu erstatten. Ist der Empfänger
-von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder
+Hinterbliebenenversorgung auf Antrag zu erstatten. Im Rahmen von
+Überkreuzlebendnierenspenden und nicht gerichteten anonymen
+Nierenspenden ist die Krankenkasse des Spenders der Niere befugt, dem
+Arbeitgeber des Spenders der Niere die nach Satz 1
+erstattungspflichtige Krankenkasse zu benennen. Ist der Empfänger von
+Organen, Geweben oder Blut zur Separation von Blutstammzellen oder
 anderen Blutbestandteilen gemäß § 193 Absatz 3 des
 Versicherungsvertragsgesetzes bei einem privaten
 Krankenversicherungsunternehmen versichert, erstattet dieses dem
