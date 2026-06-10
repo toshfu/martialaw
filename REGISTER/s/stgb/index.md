@@ -971,21 +971,27 @@ Nr. 1 Buchstabe a, Abs. 3 oder § 316 die Entziehung der Fahrerlaubnis
 nach § 69 unterbleibt.
 
 (2) Das Fahrverbot wird wirksam, wenn der Führerschein nach
-Rechtskraft des Urteils in amtliche Verwahrung gelangt, spätestens
-jedoch mit Ablauf von einem Monat seit Eintritt der Rechtskraft. Für
-seine Dauer werden von einer deutschen Behörde ausgestellte nationale
-und internationale Führerscheine amtlich verwahrt. Dies gilt auch,
-wenn der Führerschein von einer Behörde eines Mitgliedstaates der
-Europäischen Union oder eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum ausgestellt worden ist, sofern
-der Inhaber seinen ordentlichen Wohnsitz im Inland hat. In anderen
-ausländischen Führerscheinen wird das Fahrverbot vermerkt.
+Rechtskraft des Urteils in amtliche Verwahrung gelangt oder das
+Fahrverbot im Inland im Führerschein vermerkt ist, spätestens jedoch
+einen Monat nach Eintritt der Rechtskraft. Für seine Dauer werden von
+einer deutschen Behörde ausgestellte nationale und internationale
+Führerscheine amtlich verwahrt. Dies gilt auch, wenn der Führerschein
+von einer Behörde eines Mitgliedstaates der Europäischen Union oder
+eines anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum ausgestellt worden ist, sofern der Inhaber seinen
+ordentlichen Wohnsitz im Inland hat. In einem ausländischen
+Führerschein, der weder von einem Mitgliedstaat der Europäischen Union
+noch von einem anderen Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum ausgestellt wurde, wird das Fahrverbot
+vermerkt.
 
 (3) Ist ein Führerschein amtlich zu verwahren oder das Fahrverbot in
-einem ausländischen Führerschein zu vermerken, so wird die
-Verbotsfrist erst von dem Tage an gerechnet, an dem dies geschieht. In
-die Verbotsfrist wird die Zeit nicht eingerechnet, in welcher der
-Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist.
+einem ausländischen Führerschein nach Absatz 2 Satz 4 zu vermerken, so
+wird die Verbotsfrist erst von dem Tag an gerechnet, an dem dies
+geschieht. In den übrigen Fällen wird die Verbotsfrist ab dem Tag des
+Eintritts der Wirksamkeit des Fahrverbots gerechnet. In die
+Verbotsfrist wird die Zeit nicht eingerechnet, in welcher der Täter
+auf behördliche Anordnung in einer Anstalt verwahrt worden ist.
 
 (4) Werden gegen den Täter mehrere Fahrverbote rechtskräftig verhängt,
 so sind die Verbotsfristen nacheinander zu berechnen. Die Verbotsfrist
@@ -2909,9 +2915,11 @@ Mitgliedstaates der Europäischen Union oder eines anderen
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
 ausgestellt worden und hat der Inhaber seinen ordentlichen Wohnsitz im
 Inland, so wird der Führerschein im Urteil eingezogen und an die
-ausstellende Behörde zurückgesandt. In anderen Fällen werden die
-Entziehung der Fahrerlaubnis und die Sperre in den ausländischen
-Führerscheinen vermerkt.
+ausstellende Behörde zurückgesandt. In einem ausländischen
+Führerschein, der weder von einem Mitgliedstaat der Europäischen Union
+noch von einem anderen Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum ausgestellt wurde, werden die Entziehung
+der Fahrerlaubnis und die Sperre vermerkt.
 
 
 ##### Berufsverbot - 
