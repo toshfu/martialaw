@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 27.4.2026 I Nr. 119
 
+Änderung durch
+:   Art. 4 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Einrichtung des Wettbewerbsregisters
 
