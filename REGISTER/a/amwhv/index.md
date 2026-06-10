@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 23.10.2024 I Nr. 324
 
+Änderung durch
+:   Art. 2 Abs. 5 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
 
@@ -2624,7 +2627,7 @@ Probenahme hervorgehen.
 
 (7) Die Gewebeentnahme und die Probenahme sind gemäß der
 Entnahmeanweisung nach Absatz 3 durchzuführen und unbeschadet der
-ärztlichen Dokumentationspflichten nach § 8d Abs. 2 des
+ärztlichen Dokumentationspflichten nach § 8e Abs. 2 des
 Transplantationsgesetzes vollständig aufzuzeichnen (Entnahmebericht).
 Der Entnahmebericht muss mindestens folgende Angaben enthalten:
 
@@ -2672,7 +2675,7 @@ für die Entnahme verantwortliche Person hat im Entnahmebericht mit
 Datum und Unterschrift zu bestätigen, dass die Entnahme entsprechend
 der Entnahmeanweisung durchgeführt worden ist und die Gewebe für die
 Aufbereitung, Be- oder Verarbeitung, Konservierung oder Aufbewahrung
-im Sinne des § 8d Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
+im Sinne des § 8e Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
 freigegeben sind. Der Entnahmebericht ist der Gewebeeinrichtung, die
 das entnommene Gewebe be- oder verarbeitet, zu übermitteln. Die
 Anforderungen an die Spenderakte gemäß § 5 der TPG-Gewebeverordnung
