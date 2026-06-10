@@ -23,6 +23,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 31 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 8 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 9 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 10 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Grundsätze der Datenübermittlung
 
@@ -161,8 +170,9 @@ widerspricht.
 
 ### § 5 Identifikation der am Verfahren Beteiligten
 
-(1) Der Anbieter, die zuständige Stelle und die Familienkassen haben
-der zentralen Stelle auf Anforderung anzuzeigen:
+(1) Der Anbieter, die zuständige Stelle und die Familienkassen der
+Bundesagentur für Arbeit haben der zentralen Stelle auf Anforderung
+anzuzeigen:
 
 1.  die Kundenart,
 
@@ -191,10 +201,7 @@ der Anbieter ausschließlich Daten nach § 10 Absatz 2a, 2b und 4b des
 Einkommensteuergesetzes zu übermitteln, ist die Angabe der
 Bankverbindung nicht erforderlich.
 
-(2a) Die Familienkassen haben zusätzlich zu den in Absatz 1
-aufgeführten Angaben eine von ihnen im Außenverhältnis gegenüber dem
-Kindergeldempfänger verwendete Kurzbezeichnung der Familienkasse
-anzuzeigen.
+(2a) (weggefallen)
 
 (3) Im Fall der Beauftragung eines Auftragnehmers (§ 87d der
 Abgabenordnung) hat der Auftraggeber der zentralen Stelle auch die in
@@ -315,12 +322,13 @@ Kalenderjahr der Rückforderung folgt, mitzuteilen.
 
 
 
-#### § 9 Besondere Mitteilungspflicht der Familienkasse
+#### § 9 Besondere Mitteilungspflicht der Familienkassen der Bundesagentur für Arbeit
 
-Hat die zuständige Familienkasse der zentralen Stelle die Daten für
-die Gewährung der Kinderzulage übermittelt und wird für diesen
-gemeldeten Zeitraum das Kindergeld insgesamt zurückgefordert, hat die
-Familienkasse dies der zentralen Stelle unverzüglich mitzuteilen.
+Haben die Familienkassen der Bundesagentur für Arbeit der zentralen
+Stelle die Daten für die Gewährung der Kinderzulage übermittelt und
+wird für diesen gemeldeten Zeitraum das Kindergeld insgesamt
+zurückgefordert, so haben die Familienkassen der Bundesagentur für
+Arbeit dies der zentralen Stelle unverzüglich mitzuteilen.
 
 
 #### § 10 Besondere Mitteilungspflichten des Anbieters
