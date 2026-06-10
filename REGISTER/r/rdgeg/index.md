@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 10.3.2023 I Nr. 64
 
+Änderung durch
+:   Art. 4 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Erlaubnisinhaber nach dem Rechtsberatungsgesetz
 
