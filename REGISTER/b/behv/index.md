@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 3026
 
-Geändert durch
-:   Art. 1 V v. 21.6.2023 I Nr. 163
-
-Änderung durch
-:   Art. 1 V v. 11.9.2025 I Nr. 209 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 11.9.2025 I Nr. 209
 
 
 ## Eingangsformel
@@ -1785,7 +1782,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 Kontoarten
 
-(Fundstelle: BGBl. I 2020, 3037)
+(Fundstelle: BGBl. I 2020, 3037;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -1877,7 +1875,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 2 Mit dem Antrag auf Kontoeröffnung zu übermittelnde Angaben
 
-(Fundstelle: BGBl. I 2020, 3038)
+(Fundstelle: BGBl. I 2020, 3038;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -1923,7 +1922,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 3 Für die Eröffnung eines Veräußerungs- oder Handelskontos zu übermittelnde Angaben
 
-(Fundstelle: BGBl. I 2020, 3039)
+(Fundstelle: BGBl. I 2020, 3039;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben
@@ -2008,7 +2008,8 @@ und Dokumente erforderlich:
 
 ### Anlage 4 Für die Eröffnung eines Compliance-Kontos zu übermittelnde Angaben
 
-(Fundstelle: BGBl. I 2020, 3040)
+(Fundstelle: BGBl. I 2020, 3040;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben
@@ -2062,7 +2063,8 @@ und Dokumente erforderlich:
 
 ### Anlage 5 Von dem Kontoinhaber zu übermittelnde Angaben zu kontobevollmächtigten Personen
 
-(Fundstelle: BGBl. I 2020, 3041)
+(Fundstelle: BGBl. I 2020, 3041;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
