@@ -19,10 +19,7 @@ Fundstelle
 :   BGBl I: 2013, 4183
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.6.2021 I 1847
-
-Änderung durch
-:   Art. 10 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 25.3.2026 I Nr. 81
 
 Stand: Ersetzt V 7610-2-31 v. 14.12.2006 I 3065
 [^F783293_01_BJNR418300013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
