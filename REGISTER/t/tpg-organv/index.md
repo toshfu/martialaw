@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 28.5.2014 I 601, 1582
 
+Änderung durch
+:   Art. 2 Abs. 3 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
 
@@ -508,7 +511,7 @@ und die Vermittlungsstelle hiervon zu unterrichten.
 
 Der behandelnde Arzt eines Lebendspenders ist verpflichtet, jeden
 Vorfall, der im Rahmen der ärztlich empfohlenen Nachbetreuung nach § 8
-Absatz 3 Satz 1 des Transplantationsgesetzes beim lebenden Spender
+Absatz 4 des Transplantationsgesetzes beim lebenden Spender
 festgestellt wird und der sich auf die Qualität und Sicherheit des
 gespendeten Organs auswirkt, oder jede schwerwiegende unerwünschte
 Reaktion nach § 6 Absatz 4 Satz 2 beim lebenden Spender, die infolge
