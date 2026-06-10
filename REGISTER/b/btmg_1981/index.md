@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2025 I Nr. 365
+:   Art. 1 V v. 19.5.2026 I Nr. 150
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -3930,6 +3930,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   4-Brommethcathinon
+        (4-BMC, Brephedron)
+
+    *   1-(4-Bromphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   -
+
     *   Brorphin
 
     *   1-{1-[1-(4-Bromphenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazo
@@ -4115,7 +4123,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008122130]
+    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008123130]
    CUMYL-4CN-BINACA
         (SGT-78)
 
@@ -4164,6 +4172,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   N                       -Phenyl-
         N                       -[1-(2-phenylethyl)piperidin-4-yl]
         cyclopropancarboxamid
+
+
+*    *   -
+
+    *   N-Desethyletonitazen
+
+    *   2-[(4-Ethoxyphenyl)methyl]-N-ethyl-5-nitro-
+        1
+        H                       -benzimidazol-1-ethanamin
+
+
+*    *   -
+
+    *   N-Desethylisotonitazen
+
+    *   N-Ethyl-2-{[4-(1-methylethoxy)phenyl]methyl}-5-nitro-1
+        H                       -benzimidazol-1-ethanamin
 
 
 *    *   -
@@ -4402,6 +4427,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   N-Ethylnorpentedron (NEP)
+
+    *   2-(Ethylamino)-1-phenylpentan-1-on
+
+
+*    *   -
+
     *   N                       -Ethylnorpentylon
         (Ephylon, bk-EBDP,
         bk-Ethyl-K)
@@ -4421,6 +4453,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   N-Ethylamphetamin
 
     *   (Ethyl)(1-phenylpropan-2-yl)azan
+
+
+*    *   -
+
+    *   Etonitazepipne
+        (N-Piperidinyl Etonitazen)
+
+    *   2-[(4-Ethoxyphenyl)methyl]-5-nitro-1-
+        (2-piperidin-1-ylethyl)-1
+        H                       -benzimidazol
 
 
 *    *   -
@@ -4712,6 +4754,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         piperidin-4-yl]furan-2-carboxamid
 
 
+*    *   -
+
+    *   Hexahydrocannabinol (HHC)
+
+    *   6a,7,8,9,10,10a-Hexahydro-6,6,9-trimethyl-3-
+        pentyl-6
+        H                       -dibenzo[
+        b,d                       ]pyran-1-ol
+
+
+*    *   – ausgenommen,
+        a) wenn es sich um Cannabis zu medizinischen Zwecken oder Cannabis zu
+        medizinisch-wissenschaftlichen Zwecken im Sinne des Medizinal-
+        Cannabisgesetzes handelt oder
+        b) wenn es sich um eine nichtsynthetische Form handelt, die zu
+        nichtmedizinischen Zwecken im Verkehr ist –
+
+
 *    *   **Glutethimid**
 
     *   -
@@ -4925,6 +4985,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         dimethylbutanoat}
 
 
+*    *
+    *   MDMB-FUBINACA (FUB-MDMB)
+
+    *   Methyl {2-[1-(4-fluorbenzyl)-1
+        H                       -indazol-3-
+        carboxamido]-3,3-dimethylbutanoat}
+
+
 *    *   **Mefenorex**
 
     *   -
@@ -5047,6 +5115,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   4-Methylethcathinon (4-MEC)
 
     *   2-(Ethylamino)-1-(4-methylphenyl)propan-1-on
+
+
+*    *
+    *   2-Methylmethcathinon
+        (2-MMC, Ortomephedron)
+
+    *   2-(Methylamino)-1-(2-methylphenyl)propan-1-on
 
 
 *    *   -
@@ -5331,6 +5406,36 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   N-Pyrrolidinoisotonitazen
+        (Isotonitazepyn)
+
+    *   2-{[4-(1-Methylethoxy)phenyl]methyl}-5-nitro-1-[2-(1-pyrrolidinyl)ethy
+        l]-1
+        H                       -benzimidazol
+
+
+*    *   -
+
+    *   N-Pyrrolidinometonitazen
+        (Metonitazepyn)
+
+    *   2-[(4-Methoxyphenyl)methyl]-5-nitro-1-
+        (2-pyrrolidin-1-ylethyl)-1
+        H                       -benzimidazol
+
+
+*    *   -
+
+    *   N-Pyrrolidinoprotonitazen
+        (Protonitazepyn)
+
+    *   2-[(4-Propoxyphenyl)methyl]-5-nitro-1-
+        (2-pyrrolidin-1-ylethyl)-1
+        H                       -benzimidazol
+
+
+*    *   -
+
     *   α-Pyrrolidinovalerophenon (α-PVP)
 
     *   1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-on
@@ -5584,7 +5689,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Rahmenbeschlusses 2004/757/JI des Rates zur Aufnahme neuer
     psychoaktiver Substanzen in die Drogendefinition (ABl. L 66 vom
     7\.3.2019, S. 3) umgesetzt.
-[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008122130]: 
+[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008123130]: 
 (zu § 1 Abs. 1)
 
 ### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel
@@ -5777,6 +5882,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   (7-Chlor-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1
         H                       -1,4-enzodiazepin-3-yl)(dimethylcarbamat)
+
+
+*    *   **Carisoprodol**
+
+    *   -
+
+    *   (2RS)-2-[(Carbamoyloxy)methyl]-2-methylpentyl(1-methylethyl)carbamat
 
 
 *    *   **Cathin**
@@ -6486,7 +6598,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         -   ausgenommen, wenn der Verkehr mit ihnen (ausgenommen der Anbau)
             Zierzwecken dient und wenn im getrockneten Zustand ihr Gehalt an
             Morphin 0,02 vom Hundert nicht übersteigt; in diesem Fall finden die
-            betäubungsmittelrechtlichen Vorschriften zur Anwendung auf die
+            betäubungsmittelrechtlichen Vorschriften nur Anwendung auf die
             Einfuhr, Ausfuhr und Durchfuhr -
 
 
