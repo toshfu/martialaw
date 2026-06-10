@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 1477
 
 Zuletzt geändert durch
-:   Art. 10 V v. 30.10.2023 I Nr. 290
-
-Änderung durch
-:   Art. 4 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 30.1.2026 I Nr. 31
 
 
 ## Eingangsformel
