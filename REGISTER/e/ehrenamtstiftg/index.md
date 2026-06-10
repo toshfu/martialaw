@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 712
 
-Änderung durch
-:   Art. 2 G v. 29.3.2026 I Nr. 85 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 G v. 29.3.2026 I Nr. 85
 
 
 ## Eingangsformel
@@ -341,7 +341,7 @@ Die Auflösung der Stiftung kann nur durch Gesetz erfolgen. Im Fall der
 Auflösung ist der Bund Anfallberechtigter für das Stiftungsvermögen.
 
 
-## § 14 Inkrafttreten
+## § 13 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
