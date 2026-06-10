@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 10.4.1991 I 886;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.12.2025 I Nr. 371
-
-Änderung durch
-:   Art. 2 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 9.4.2026 I Nr. 98
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
