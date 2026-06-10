@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 5126, 5143
 
+Geändert durch
+:   Art. 5 G v. 1.6.2026 I Nr. 163
+
 Stand: Ersetzt V 754-22-4 v. 30.9.2009 I 3182 (Biokraft-NachV)
 Diese Verordnung ist notifiziert gemäß der Richtlinie (EU) 2015/1535
 des Europäischen Parlaments und des Rates vom 9. September 2015 über
@@ -28,12 +31,19 @@ und der Vorschriften für die Dienste der Informationsgesellschaft
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung ist für die Erfüllung der Verpflichtung nach § 37a
-Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-
-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai
-2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des
-Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist,
-in der jeweils geltenden Fassung anzuwenden.
+Diese Verordnung ist anzuwenden für die Erfüllung
+
+1.  der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit
+    § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes und
+
+
+2.  der Verpflichtung nach Artikel 4 in Verbindung mit dem Anhang I der
+    Verordnung (EU) 2023/2405, soweit es sich um Biokraftstoffe für die
+    Luftfahrt nach Artikel 3 Nummer 7 Buchstabe b der Verordnung (EU)
+    2023/2405 handelt.
+
+
+
 
 
 ### § 2 Begriffsbestimmungen
@@ -124,13 +134,12 @@ der Europäischen Kommission als solche veröffentlicht sind.
 Kreislaufwirtschaftsgesetzes.
 
 (6) Biokraftstoffe sind Biokraftstoffe im Sinne des § 37b Absatz 1 und
-Absatz 8 Satz 2 des Bundes-
-Immissionsschutzgesetzes              in Verbindung mit § 4 der
-Verordnung zur Festlegung weiterer Bestimmungen zur
+Absatz 8 Satz 2 des Bundes-Immissionsschutzgesetzes in Verbindung mit
+§ 4 der Verordnung zur Festlegung weiterer Bestimmungen zur
 Treibhausgasminderung bei Kraftstoffen.
 
 (7) Biokraftstoffquotenstelle ist die zuständige Stelle im Sinne des
-§ 37d Absatz 1 Satz 1 des Bundes-
+§ 37d Absatz 1 Satz 1 oder des § 37m Absatz 1 des Bundes-
 Immissionsschutzgesetzes.
 
 (8) Biomasse
@@ -277,11 +286,12 @@ forstbasierten Wirtschaft.
 
 (26) Nachweispflichtige sind
 
-1.  Verpflichtete nach § 37a Absatz 4 des Bundes-
-    Immissionsschutzgesetzes                    oder
+1.  Verpflichtete nach § 37a Absatz 1 Satz 1 und 2 des Bundes-
+    Immissionsschutzgesetzes und Flugkraftstoffanbieter nach § 37j Absatz
+    1 des Bundes-Immissionsschutzgesetzes oder
 
 
-2.  Dritte nach § 37a Absatz 6 oder Absatz 7 des Bundes-
+2.  Dritte nach § 37a Absatz 6 oder Absatz 7 des Bundes-
     Immissionsschutzgesetzes.
 
 
@@ -408,11 +418,10 @@ Zwischenfrüchte vor und nach Hauptkulturen, Untersaaten, industrielle
 Reststoffe, einschließlich Nahrungs- und Futtermittelpflanzen nach
 Extraktion von Pflanzenölen, Zucker, Stärken und Protein, sowie
 Material aus Bioabfall; als Untersaaten und Deckpflanzen werden
-vorübergehend angebaute Weiden mit Gras-Klee-
-Mischungen              mit einem niedrigen Stärkegehalt bezeichnet,
-die zur Fütterung von Vieh sowie dazu dienen, die Bodenfruchtbarkeit
-im Interesse höherer Ernteerträge bei den Ackerhauptkulturen zu
-verbessern.
+vorübergehend angebaute Weiden mit Gras-Klee-Mischungen mit einem
+niedrigen Stärkegehalt bezeichnet, die zur Fütterung von Vieh sowie
+dazu dienen, die Bodenfruchtbarkeit im Interesse höherer Ernteerträge
+bei den Ackerhauptkulturen zu verbessern.
 
 (36) Zertifikate sind Konformitätsbescheinigungen darüber, dass
 Schnittstellen oder Lieferanten einschließlich aller von ihnen mit der
@@ -442,8 +451,11 @@ juristische Personen, die in einem anerkannten Zertifizierungssystem
 
 (1) Biokraftstoffe werden auf die Erfüllung von Verpflichtungen nach §
 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-
-Immissionsschutzgesetzes angerechnet, wenn zum Zeitpunkt des
-Inverkehrbringens
+Immissionsschutzgesetzes oder auf die Erfüllung der Verpflichtung nach
+Artikel 4 in Verbindung mit dem Anhang I der Verordnung (EU)
+2023/2405, soweit es sich um Biokraftstoffe für die Luftfahrt nach
+Artikel 3 Nummer 7 Buchstabe b der Verordnung (EU) 2023/2405 handelt,
+angerechnet, wenn zum Zeitpunkt des Inverkehrbringens
 
 1.  die zur Herstellung der Biokraftstoffe eingesetzte
 
@@ -1044,7 +1056,7 @@ in dem Nachhaltigkeitsnachweis zu bestätigen.
     weitergegeben werden,
 
 
-10. die Bestätigung des letzten Lieferanten nach § 11 Absatz 5 und
+10. die Bestätigung des letzten Lieferanten nach § 11 Absatz 5,
 
 
 11. eine der folgenden Angaben:
@@ -1064,24 +1076,34 @@ in dem Nachhaltigkeitsnachweis zu bestätigen.
     c)  die Angabe „abfallbasierter Biokraftstoff“, soweit es sich um einen
         Biokraftstoff, der aus Rohstoffen gemäß Anlage 4 der Verordnung zur
         Festlegung weiterer Bestimmungen zur Treibhausgaseinsparung bei
-        Kraftstoffen hergestellt wurde, handelt, oder
+        Kraftstoffen hergestellt wurde, handelt,
 
 
-    d)  die Angabe „Biokraftstoff mit hohem iLUC-
-        Risiko“,                          soweit es sich um einen
-        Biokraftstoff mit hohem Risiko indirekter Landnutzungsänderung nach
-        Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission vom
-        13\. März 2019 zur Ergänzung der Richtlinie (EU) 2018/2001 des
+    d)  die Angabe „Biokraftstoff mit hohem iLUC-Risiko“, soweit es sich um
+        einen Biokraftstoff mit hohem Risiko indirekter Landnutzungsänderung
+        nach Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission
+        vom 13. März 2019 zur Ergänzung der Richtlinie (EU) 2018/2001 des
         Europäischen Parlaments und des Rates im Hinblick auf die Bestimmung
         der Rohstoffe mit hohem Risiko indirekter Landnutzungsänderungen, in
         deren Fall eine wesentliche Ausdehnung der Produktionsflächen auf
         Flächen mit hohem Kohlenstoffbestand zu beobachten ist, und die
         Zertifizierung von Biokraftstoffen, flüssigen Biobrennstoffen und
         Biomasse-Brennstoffen mit geringem Risiko indirekter
-        Landnutzungsänderungen (ABl. L 133 vom 21.5.2019, S. 1) handelt.
+        Landnutzungsänderungen (ABl. L 133 vom 21.5.2019, S. 1) handelt, oder
+
+
+    e)  die Angabe „Biokraftstoff aus Tierfetten der Kategorie 3“, soweit es
+        sich um einen Biokraftstoff handelt, der vollständig oder teilweise
+        aus tierischen Fetten und Ölen der Kategorie 3 gemäß Artikel 10 der
+        Verordnung (EG) Nr. 1069/2009 handelt, und
 
 
 
+
+
+12. die Angabe, ob Vor-Ort-Kontrollen nach § 4b der Verordnung zur
+    Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei
+    Kraftstoffen ermöglicht werden.
 
 
 
@@ -1104,12 +1126,15 @@ Treibhausgaseinsparung nicht den Vergleichswert für die Verwendung, zu
 deren Zweck die Biokraftstoffe eingesetzt werden, so muss die oder der
 Nachweispflichtige zur Erfüllung der Verpflichtungen nach § 37a Absatz
 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-
-Immissionsschutzgesetzes gegenüber der Biokraftstoffquotenstelle
-nachweisen, dass die Biokraftstoffe die Mindestanforderungen an die
-Treibhausgaseinsparung nach § 6 Absatz 1 auch bei dieser Verwendung
-erfüllen. Die zuständige Behörde kann eine Methode zur Umrechnung der
-Treibhausgaseinsparung für unterschiedliche Verwendungen im
-Bundesanzeiger bekannt machen.
+Immissionsschutzgesetzes oder der Verpflichtung nach Artikel 4 in
+Verbindung mit Anhang I der Verordnung (EU) 2023/2405, soweit es sich
+um Biokraftstoffe für die Luftfahrt nach Artikel 3 Nummer 7 Buchstabe
+b der Verordnung (EU) 2023/2405 handelt, gegenüber der
+Biokraftstoffquotenstelle nachweisen, dass die Biokraftstoffe die
+Mindestanforderungen an die Treibhausgaseinsparung nach § 6 Absatz 1
+auch bei dieser Verwendung erfüllen. Die zuständige Behörde kann eine
+Methode zur Umrechnung der Treibhausgaseinsparung für unterschiedliche
+Verwendungen im Bundesanzeiger bekannt machen.
 
 (2) Wird der Biokraftstoff nicht in dem Staat oder in der Region, der
 oder die auf dem Nachhaltigkeitsnachweis angegeben wurde, in Verkehr
@@ -1924,8 +1949,11 @@ speichern und zu verwenden:
 (2) Die zuständige Behörde hat der Biokraftstoffquotenstelle die
 erforderlichen Auskünfte zur Überwachung der Verpflichtungen der
 Nachweispflichtigen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit
-§ 37a Absatz 4 des Bundes-Immissionsschutzgesetzes auf Verlangen zu
-erteilen.
+§ 37a Absatz 4 des Bundes-Immissionsschutzgesetzes und der
+Verpflichtung nach Artikel 4 in Verbindung mit Anhang I der Verordnung
+(EU) 2023/2405, soweit es sich um Biokraftstoffe für die Luftfahrt
+nach Artikel 3 Nummer 7 Buchstabe b der Verordnung (EU) 2023/2405
+handelt, auf Verlangen zu erteilen.
 
 
 ### § 43 Datenabgleich
