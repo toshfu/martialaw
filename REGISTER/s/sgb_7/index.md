@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 6 G v. 16.4.2026 I Nr. 107
+:   Art. 3 G v. 12.5.2026 I Nr. 140
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -1410,18 +1410,24 @@ befolgen.
 
 ### § 22 Sicherheitsbeauftragte
 
-(1) In Unternehmen mit regelmäßig mehr als 20 Beschäftigten hat der
+(1) In Unternehmen mit regelmäßig 50 oder mehr Beschäftigten hat der
 Unternehmer unter Beteiligung des Betriebsrates oder Personalrates
 Sicherheitsbeauftragte unter Berücksichtigung der im Unternehmen für
 die Beschäftigten bestehenden Unfall- und Gesundheitsgefahren und der
 Zahl der Beschäftigten zu bestellen. Als Beschäftigte gelten auch die
-nach § 2 Abs. 1 Nr. 2, 8 und 12 Versicherten. In Unternehmen mit
-besonderen Gefahren für Leben und Gesundheit kann der
-Unfallversicherungsträger anordnen, daß Sicherheitsbeauftragte auch
-dann zu bestellen sind, wenn die Mindestbeschäftigtenzahl nach Satz 1
-nicht erreicht wird. Für Unternehmen mit geringen Gefahren für Leben
-und Gesundheit kann der Unfallversicherungsträger die Zahl 20 in
-seiner Unfallverhütungsvorschrift erhöhen.
+nach § 2 Absatz 1 Nummer 2, 8 und 12 Versicherten. In Unternehmen mit
+regelmäßig mehr als 20 und weniger als 50 Beschäftigten hat der
+Unternehmer unter Beteiligung des Betriebsrates oder Personalrates
+einen Sicherheitsbeauftragten zu bestellen, wenn unter Zugrundelegung
+der Beurteilung der Arbeitsbedingungen nach § 5 des
+Arbeitsschutzgesetzes eine besondere Gefährdung für Leben und
+Gesundheit besteht. In Unternehmen mit regelmäßig weniger als 250
+Beschäftigten und keiner besonderen Gefährdung für Leben und
+Gesundheit erfüllt der Unternehmer die Voraussetzungen nach Satz 1,
+wenn er einen Sicherheitsbeauftragten bestellt. Der
+Unfallversicherungsträger kann anordnen, dass Sicherheitsbeauftragte
+zu bestellen sind, wenn eine besondere Gefährdung für Leben und
+Gesundheit besteht.
 
 (2) Die Sicherheitsbeauftragten haben den Unternehmer bei der
 Durchführung der Maßnahmen zur Verhütung von Arbeitsunfällen und
@@ -1431,8 +1437,9 @@ Schutzeinrichtungen und persönlichen Schutzausrüstungen zu überzeugen
 und auf Unfall- und Gesundheitsgefahren für die Versicherten
 aufmerksam zu machen.
 
-(3) Die Sicherheitsbeauftragten dürfen wegen der Erfüllung der ihnen
-übertragenen Aufgaben nicht benachteiligt werden.
+(3) Die Sicherheitsbeauftragten dürfen ab der Bestellung bis zum
+Widerruf der Bestellung wegen der Erfüllung der ihnen übertragenen
+Aufgaben nicht benachteiligt werden.
 
 
 ### § 23 Aus- und Fortbildung
@@ -7701,6 +7708,10 @@ gilt § 151 des Sechsten Buches entsprechend.
 3.  entgegen § 19 Abs. 2 Satz 2 eine Maßnahme nicht duldet,
 
 
+3a. entgegen § 22 Absatz 1 Satz 1, 3 oder 4 keinen Sicherheitsbeauftragten
+    bestellt,
+
+
 4.  entgegen § 138 die Versicherten nicht unterrichtet,
 
 
@@ -7760,8 +7771,8 @@ findet § 266a Abs. 2 des Strafgesetzbuches keine Anwendung.
 (2) Ordnungswidrig handelt, wer als Unternehmer Versicherten Beiträge
 ganz oder zum Teil auf das Arbeitsentgelt anrechnet.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 bis
-3 mit einer Geldbuße bis zu zehntausend Euro, in den Fällen des
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
+bis 3a mit einer Geldbuße bis zu zehntausend Euro, in den Fällen des
 Absatzes 2 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen
 Fällen mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet
 werden.
