@@ -21,6 +21,9 @@ Geändert durch
 Mittelbare änderung durch
 :   Art. 6 Abs. 2 G v. 25.3.2020 I 674 ist berücksichtigt
 
+Änderung durch
+:   Art. 12 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich und Grundsätze der Datenübermittlung
 
