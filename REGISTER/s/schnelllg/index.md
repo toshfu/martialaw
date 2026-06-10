@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2141
 
-Geändert durch
-:   Art. 12 G v. 22.12.2023 I Nr. 409
+Zuletzt geändert durch
+:   Art. 8 Abs. 2 G v. 12.5.2026 I Nr. 137
 
 
 ## Eingangsformel
