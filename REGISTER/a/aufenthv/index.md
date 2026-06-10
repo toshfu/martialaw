@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 7 G v. 23.4.2026 I Nr. 111
+:   Art. 1 V v. 26.5.2026 I Nr. 161
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -188,7 +188,7 @@ dass
 (1) Durch deutsche Behörden ausgestellte Passersatzpapiere für
 Ausländer sind:
 
-1.  der Reiseausweis für Ausländer (§ 5 Absatz 1),
+1.  der Reiseausweis für Ausländer (§ 5 Absatz 1 und § 11a Absatz 1),
 
 
 2.  der Notreiseausweis (§ 13 Absatz 1),
@@ -590,6 +590,40 @@ bedarf der Zustimmung der zuständigen oder zuletzt zuständigen
 Ausländerbehörde. Ist eine solche Behörde nicht vorhanden oder
 feststellbar, ist die Zustimmung bei der Behörde einzuholen, die die
 Beschränkung eingetragen hat.
+
+
+#### § 11a Ausstellung von Reiseausweisen für Ausländer für Schülerreisen in das Vereinigte Königreich Großbritannien und Nordirland
+
+(1) Ein Reiseausweis für Ausländer kann ausgestellt werden an
+Ausländer, die als Mitglied einer Schülergruppe einer deutschen
+allgemeinbildenden oder berufsbildenden Schule in Begleitung einer
+Lehrkraft in das Vereinigte Königreich Großbritannien und Nordirland
+reisen, sofern sie keinen hierfür ausreichenden eigenen Pass oder
+Passersatz besitzen. Satz 1 gilt nicht, wenn die Schülerreise in oder
+durch den Herkunftsstaat des Ausländers führt.
+
+(2) Die §§ 5 bis 11 finden mit Ausnahme des § 5 Absatz 4 in den Fällen
+des Absatzes 1 keine Anwendung.
+
+(3) Ein nach Absatz 1 Satz 1 ausgestellter Reiseausweis für Ausländer
+enthält einen Chip. Der Reiseausweis ist für einen Gültigkeitszeitraum
+auszustellen, der die geplante Reise umfasst und die Anforderungen
+erfüllt, die das Vereinigte Königreich Großbritannien und Nordirland
+und die Staaten, durch die die beabsichtigte Reise führt, an die
+Gültigkeitsdauer stellen. Der Geltungsbereich ist auf das Vereinigte
+Königreich Großbritannien und Nordirland und die Staaten zu
+beschränken, durch die die beabsichtigte Reise führt. In dem
+Reiseausweis ist zu vermerken, dass er nur für die während des
+Gültigkeitszeitraums durchgeführte Reise als Mitglied einer
+Schülergruppe einer deutschen allgemeinbildenden oder berufsbildenden
+Schule gilt. Geht ein nach Absatz 1 Satz 1 ausgestellter Reiseausweis
+für Ausländer verloren oder wird er gestohlen und wird im Ausland
+ersatzweise erneut ausgestellt, muss dieser keinen Chip enthalten.
+
+(4) Der Ausländer hat den nach Absatz 1 Satz 1 ausgestellten
+Reiseausweis für Ausländer nach Rückkehr in das Bundesgebiet oder bei
+Nichtantritt der Reise der zuständigen Ausländerbehörde unverzüglich
+zurückzugeben.
 
 
 #### § 12 Grenzgängerkarte
@@ -1072,7 +1106,9 @@ von deutschen Behörden ausgestellten Schülersammelliste aufgeführt
 sind, sind für die Wiedereinreise in das Bundesgebiet vom Erfordernis
 eines Aufenthaltstitels befreit, wenn die Ausländerbehörde angeordnet
 hat, dass die Abschiebung nach der Wiedereinreise ausgesetzt wird.
-Diese Anordnung ist auf der Schülersammelliste zu vermerken.
+Diese Anordnung ist auf der Schülersammelliste oder in einem der
+Schülerin oder dem Schüler ausgestellten deutschen Passersatz zu
+vermerken.
 
 
 #### Unterabschnitt 3 - Befreiungen im grenzüberschreitenden Beförderungswesen
@@ -5813,9 +5849,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *   Ecuador,
 
 
-*   Georgien,
-
-
 *   Indien,
 
 
@@ -5847,9 +5880,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *   Peru,
-
-
-*   Russische Föderation,
 
 
 *   Serbien,
@@ -5912,7 +5942,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage C (zu § 26 Absatz 2 Satz 1)
 
-Indien
 Jordanien
 Ausgenommen von der Flughafentransitvisumpflicht sind Staatsangehörige
 Jordaniens, sofern sie
