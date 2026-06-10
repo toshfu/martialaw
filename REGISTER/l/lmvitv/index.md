@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1942, 538
 
-Zuletzt geändert durch
-:   Art. 24 V v. 5.7.2017 I 2272
+V aufgeh. durch
+:   § 4 dieser V idF v. 24.11.2025 mWv 14.7.2026
 
-Änderung durch
-:   Art. 9 Abs. 5 V v. 24.11.2025 I Nr. 280 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 9 Abs. 5 V v. 24.11.2025 I Nr. 280
 
 
 ## Eingangsformel
