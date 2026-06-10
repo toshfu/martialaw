@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.3.2010 I 254;
 
 Zuletzt geändert durch
-:   Art. 1 G vom 12.2.2026 I Nr. 43
+:   Art. 6 G v. 12.5.2026 I Nr. 139
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des
 Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere
