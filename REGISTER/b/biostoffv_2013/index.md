@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2514
 
 Zuletzt geändert durch
-:   Art. 3 V v. 2.12.2024 I Nr. 384
+:   Art. 2 V v. 11.5.2026 I Nr. 136
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen und Risikogruppeneinstufung
@@ -95,11 +95,8 @@ Gesundheitsschäden oder den Tod bewirken können.
 sind solche Biostoffe, bei denen das Infektionsrisiko für Beschäftigte
 begrenzt ist, weil eine Übertragung über den Luftweg normalerweise
 nicht erfolgen kann. Diese Biostoffe sind in Anhang III der Richtlinie
-2000/54/EG des Europäischen Parlaments und des Rates vom 18. September
-2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch
-biologische Arbeitsstoffe bei der Arbeit (ABl. L 262 vom 17.10.2000,
-S. 21) sowie in den Bekanntmachungen nach § 19 Absatz 4 Nummer 1
-entsprechend aufgeführt.
+2000/54/EG in der Fassung vom 18. September 2000 sowie in den
+Bekanntmachungen nach § 19 Absatz 4 Nummer 1 entsprechend aufgeführt.
 
 (7) Tätigkeiten sind
 
@@ -239,20 +236,18 @@ Risikogruppen eingestuft:
 
 
 (2) Für die Einstufung der Biostoffe in die Risikogruppen 2 bis 4 gilt
-Anhang III der Richtlinie 2000/54/EG des Europäischen Parlaments und
-des Rates vom 18. September 2000 über den Schutz der Arbeitnehmer
-gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit (ABl.
-L 262 vom 17.10.2000, S. 21). Wird dieser Anhang im Verfahren nach
-Artikel 19 dieser Richtlinie an den technischen Fortschritt angepasst,
-so kann die geänderte Fassung bereits ab ihrem Inkrafttreten
-angewendet werden. Sie ist nach Ablauf der festgelegten
-Umsetzungsfrist anzuwenden.
+Anhang III der Richtlinie 2000/54/EG in der Fassung vom 18. September
+2000\. Wird dieser Anhang im Verfahren nach Artikel 19 dieser
+Richtlinie an den technischen Fortschritt angepasst, so kann die
+geänderte Fassung bereits ab ihrem Inkrafttreten angewendet werden.
+Sie ist nach Ablauf der festgelegten Umsetzungsfrist anzuwenden.
 
 (3) Ist ein Biostoff nicht nach Absatz 2 eingestuft, kann das
 Bundesministerium für Arbeit und Soziales nach Beratung durch den
 Ausschuss nach § 19 die Einstufung in eine Risikogruppe nach Absatz 1
-vornehmen. Die Einstufungen werden im Gemeinsamen Ministerialblatt
-bekannt gegeben. Der Arbeitgeber hat diese Einstufungen zu beachten.
+vornehmen. Der Arbeitgeber hat diese Einstufungen zu beachten. Die
+Fundstellen, die die Listen mit den Einstufungen enthalten, werden im
+Gemeinsamen Ministerialblatt bekannt gegeben.
 
 (4) Liegt für einen Biostoff weder eine Einstufung nach Absatz 2 noch
 eine nach Absatz 3 vor, hat der Arbeitgeber, der eine gezielte
@@ -1536,7 +1531,7 @@ Die Anzeigepflicht nach § 16 Absatz 1 Nummer 4 bleibt unberührt.
 
 
 
-    *[^F781759_02_BJNR251410013BJNE002502126]
+    *[^F781759_02_BJNR251410013BJNE002503131]
    verbindlich bei gelisteten humanpathogenen Biostoffen
         mit Zugangskontrolle
 
@@ -1850,16 +1845,11 @@ Anmerkung: Gemäß § 10 Absatz 1 sind die als empfohlen bezeichneten
 
 
 
-    In Anhang I der Verordnung (EU) 2021/821 des Europäischen Parlaments
-    und des Rates vom 20. Mai 2021 über eine Unionsregelung für die
-    Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung
-    der Durchfuhr und der Verbringung betreffend Güter mit doppeltem
-    Verwendungszweck (Neufassung) (ABl. L 206 vom 11.6.2021, S. 1), die
-    zuletzt durch die Delegierte Verordnung (EU) 2023/66 (ABl. L 9 vom
-    11\.1.2023, S. 1), geändert worden ist, unter 1C351 gelistete human-
-    und tierpathogene Erreger sowie „Toxine“ und unter 1C353 aufgeführte
-    genetisch modifizierte Organismen.
-[^F781759_02_BJNR251410013BJNE002502126]: 
+    In Anhang I der Verordnung (EU) 2021/821 in der Fassung vom 8.
+    September 2025, unter 1C351 gelistete human- und tierpathogene Erreger
+    sowie „Toxine“ und unter 1C353 aufgeführte genetisch modifizierte
+    Organismen.
+[^F781759_02_BJNR251410013BJNE002503131]: 
 
 ### Anhang III Zusätzliche Schutzmaßnahmen bei Tätigkeiten in der Biotechnologie
 
