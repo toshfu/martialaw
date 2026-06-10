@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 2010, 1980
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.10.2024 I Nr. 299
+:   Art. 3 G v. 23.2.2026 I Nr. 46
 
 Änderung durch
-:   Art. 3 G v. 23.2.2026 I Nr. 46 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 7 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Nr. 41) ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -3641,12 +3644,26 @@ Auflagen werden diese in den Führerschein eingetragen. Die
 entscheidende Behörde teilt die Aberkennung der Fahrberechtigung oder
 die Feststellung der fehlenden Fahrberechtigung in Deutschland der
 Behörde, die den Führerschein ausgestellt hat, über das Kraftfahrt-
-Bundesamt mit. Erfolgt die Entziehung durch die erteilende oder eine
-sonstige zuständige ausländische Behörde, sind ausländische und im
-Ausland ausgestellte internationale Führerscheine unverzüglich der
-Fahrerlaubnisbehörde vorzulegen und dort in Verwahrung zu nehmen. Die
-Fahrerlaubnisbehörde sendet die Führerscheine über das Kraftfahrt-
-Bundesamt an die entziehende Stelle zurück.
+Bundesamt mit. Die Sätze 1 bis 5 gelten nicht, sofern es sich um einen
+Führerschein handelt, der in einem anderen Mitgliedstaat der
+Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+den Europäischen Wirtschaftsraum ausgestellt wurde und dessen Inhaber
+seinen ordentlichen Wohnsitz nicht im Inland hat. In den Fällen des
+Satzes 6 teilt die zuständige Behörde über das Kraftfahrt-Bundesamt
+die Aberkennung der Fahrberechtigung oder die Feststellung der
+fehlenden Fahrberechtigung in Deutschland der zuständigen Behörde des
+anderen Mitgliedstaates der Europäischen Union oder des
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+mit, in dem der Inhaber des Führerscheins seinen ordentlichen Wohnsitz
+hat, andernfalls der Behörde, die den Führerschein ausgestellt hat.
+
+(2a) Erfolgt die Entziehung der Fahrerlaubnis durch die erteilende
+oder eine sonstige zuständige ausländische Behörde, so sind
+ausländische und im Ausland ausgestellte internationale Führerscheine
+unverzüglich der Fahrerlaubnisbehörde vorzulegen und dort in
+Verwahrung zu nehmen. Die Fahrerlaubnisbehörde sendet die
+Führerscheine über das Kraftfahrt-Bundesamt an die entziehende Stelle
+zurück.
 
 (3) Ist dem Betroffenen nach § 31 eine deutsche Fahrerlaubnis erteilt
 worden, ist er aber noch im Besitz des ausländischen Führerscheins,
@@ -4836,7 +4853,7 @@ Straßenverkehrsgesetzes folgende Daten zu speichern:
     Ablaufs der Sperrfrist,
 
 
-11. bei einem Fahrverbot der Hinweis auf § 25 Absatz 2a Satz 1 des
+11. bei einem Fahrverbot der Hinweis auf § 25 Absatz 3 des
     Straßenverkehrsgesetzes und der Tag des Fristablaufs sowie bei einem
     Verbot oder einer Beschränkung, ein fahrerlaubnisfreies Fahrzeug zu
     führen, der Tag des Ablaufs oder der Aufhebung der Maßnahme,
@@ -5078,7 +5095,7 @@ dürfen folgende Daten bereitgehalten werden:
         Vorschriften, die Höhe der Geldbuße und das Fahrverbot,
 
 
-    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 2a Satz 1 des
+    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 3 des
         Straßenverkehrsgesetzes und den Tag des Fristablaufs,
 
 
@@ -5172,8 +5189,8 @@ dürfen folgende Daten bereitgehalten werden:
         mit zwei Punkten und die entsprechende Kennziffer,
 
 
-    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 2a Satz 1 des
-        Straßenverkehrsgesetzes oder § 44 Absatz 3 Satz 1 des
+    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 3 des
+        Straßenverkehrsgesetzes oder § 44 Absatz 3 Satz 1 und 2 des
         Strafgesetzbuches und den Tag des Fristablaufs,
 
 
