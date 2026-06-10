@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 23.10.2024 I Nr. 324
 
+Änderung durch
+:   Art. 2 Abs. 4 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
 
@@ -2279,7 +2282,7 @@ und zu transportieren. Die Erlaubnis darf nur versagt werden, wenn
 1.  eine angemessen ausgebildete Person mit der erforderlichen
     Berufserfahrung (verantwortliche Person nach § 20b) nicht vorhanden
     ist, die, soweit es sich um eine Entnahmeeinrichtung handelt, zugleich
-    die ärztliche Person im Sinne von § 8d Abs. 1 Satz 1 des
+    die ärztliche Person im Sinne von § 8e Absatz 1 Satz 1 des
     Transplantationsgesetzes sein kann,
 
 
