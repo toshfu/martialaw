@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 29.3.2026 I Nr. 83
+:   Art. 2 Abs. 1 G v. 12.5.2026 I Nr. 143
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -3746,12 +3746,13 @@ bestimmt ist.
 
 [^BJNR001950896BJNE024003377]
 
-(1) Der Basiszinssatz beträgt 3,62 Prozent. Er verändert sich zum 1.
-Januar und 1. Juli eines jeden Jahres um die Prozentpunkte, um welche
-die Bezugsgröße seit der letzten Veränderung des Basiszinssatzes
-gestiegen oder gefallen ist. Bezugsgröße ist der Zinssatz für die
-jüngste Hauptrefinanzierungsoperation der Europäischen Zentralbank vor
-dem ersten Kalendertag des betreffenden Halbjahrs.
+(1) Der Basiszinssatz beträgt
+3,62 Prozent             . Er verändert sich zum 1. Januar und 1. Juli
+eines jeden Jahres um die Prozentpunkte, um welche die Bezugsgröße
+seit der letzten Veränderung des Basiszinssatzes gestiegen oder
+gefallen ist. Bezugsgröße ist der Zinssatz für die jüngste
+Hauptrefinanzierungsoperation der Europäischen Zentralbank vor dem
+ersten Kalendertag des betreffenden Halbjahrs.
 
 (2) Die Deutsche Bundesbank gibt den geltenden Basiszinssatz
 unverzüglich nach den in Absatz 1 Satz 2 genannten Zeitpunkten im
@@ -8034,23 +8035,25 @@ Durchführung des Projekts Funktionen des Veräußerers übernimmt oder
 den Veräußerer einseitig begünstigt.
 
 (4) Auf die Rückabwicklung des verbundenen Vertrags sind unabhängig
-von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen
-Vertrags, die §§ 357 bis 357c entsprechend anzuwenden. Ist der
-verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem
-körperlichen Datenträger befindlichen digitalen Inhalten, hat der
-Verbraucher abweichend von § 357a Absatz 3 unter den Voraussetzungen
-des § 356 Absatz 5 Nummer 2 Wertersatz für die bis zum Widerruf
-gelieferten digitalen Inhalte zu leisten. Ist der verbundene Vertrag
-ein im Fernabsatz oder außerhalb von Geschäftsräumen geschlossener
-Ratenlieferungsvertrag, sind neben § 355 Absatz 3 auch die §§ 357 und
-357a entsprechend anzuwenden; im Übrigen gelten für verbundene
-Ratenlieferungsverträge § 355 Absatz 3 und § 357d entsprechend. Im
-Falle des Absatzes 1 sind jedoch Ansprüche auf Zahlung von Zinsen und
-Kosten aus der Rückabwicklung des Darlehensvertrags gegen den
-Verbraucher ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum
-Verbraucher hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte
-und Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn
-das Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs bereits
+von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen
+Vertrags, § 357 Absatz 1 bis 3 sowie 5 bis 8 und die §§ 357a bis 357c
+entsprechend anzuwenden. Ist der verbundene Vertrag ein Vertrag über
+die Lieferung von nicht auf einem körperlichen Datenträger
+befindlichen digitalen Inhalten, hat der Verbraucher abweichend von §
+357a Absatz 3 unter den Voraussetzungen des § 356 Absatz 5 Nummer 2
+Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu
+leisten. Ist der verbundene Vertrag ein im Fernabsatz oder außerhalb
+von Geschäftsräumen geschlossener Ratenlieferungsvertrag, so sind
+neben § 355 Absatz 3 auch § 357 Absatz 1 bis 3 sowie 5 bis 8 und
+§ 357a entsprechend anzuwenden; im Übrigen gelten für verbundene
+Ratenlieferungsverträge § 355 Absatz 3, § 357 Absatz 1 bis 3 und 6
+sowie § 357d Satz 2 und 3 entsprechend. Im Falle des Absatzes 1 sind
+jedoch Ansprüche auf Zahlung von Zinsen und Kosten aus der
+Rückabwicklung des Darlehensvertrags gegen den Verbraucher
+ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum Verbraucher
+hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und
+Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn das
+Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs bereits
 zugeflossen ist.
 
 (5) Die Absätze 2 und 4 sind nicht anzuwenden auf Darlehensverträge,
@@ -10927,6 +10930,8 @@ Immobiliar-Verbraucherdarlehensvertrags, für den ein gebundener
 Sollzinssatz vereinbart wurde, seine Verbindlichkeiten im Zeitraum der
 Sollzinsbindung nur dann ganz oder teilweise vorzeitig erfüllen, wenn
 hierfür ein berechtigtes Interesse des Darlehensnehmers besteht.
+Liegen die Voraussetzungen für die vorzeitige Rückzahlung vor, findet
+§ 490 Absatz 2 keine Anwendung.
 
 
 ###### § 501 Kostenermäßigung bei vorzeitiger Rückzahlung und bei Kündigung
@@ -30150,10 +30155,6 @@ anzuwenden.
 
 
 
-##### Untertitel 3 - (weggefallen)
-
-
-
 ###### (XXXX) §§ 1558 bis 1563 (weggefallen)
 
 
@@ -31219,7 +31220,7 @@ Empfängniszeit.
 
 (4) Ist das Kind durch eine ärztlich unterstützte künstliche
 Befruchtung in einer Einrichtung der medizinischen Versorgung im Sinne
-von § 1a Nummer 9 des Transplantationsgesetzes unter heterologer
+von § 1a Nummer 13 des Transplantationsgesetzes unter heterologer
 Verwendung von Samen gezeugt worden, der vom Spender einer
 Entnahmeeinrichtung im Sinne von § 2 Absatz 1 Satz 1 des
 Samenspenderregistergesetzes zur Verfügung gestellt wurde, so kann der
