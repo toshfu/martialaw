@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 3.2.2026 I Nr. 28
 
+Änderung durch
+:   Art. 2 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Allgemeine Vorschriften
 
