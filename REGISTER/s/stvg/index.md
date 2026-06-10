@@ -19,10 +19,13 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.2.2026 I Nr. 30
+:   Art. 2 G v. 23.2.2026 I Nr. 46
 
 Änderung durch
-:   Art. 2 G v. 23.2.2026 I Nr. 46 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
@@ -1399,9 +1402,13 @@ Gebrauch zu machen. § 2 Abs. 7 und 8 gilt entsprechend.
 ausländischen Fahrerlaubnis erlischt das Recht zum Führen von
 Kraftfahrzeugen im Inland. Nach der Entziehung ist der Führerschein
 der Fahrerlaubnisbehörde abzuliefern oder zur Eintragung der
-Entscheidung vorzulegen. Die Sätze 1 bis 3 gelten auch, wenn die
-Fahrerlaubnisbehörde die Fahrerlaubnis auf Grund anderer Vorschriften
-entzieht.
+Entscheidung vorzulegen. Satz 3 gilt nicht, sofern es sich um einen
+Führerschein handelt, der in einem anderen Mitgliedstaat der
+Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+den Europäischen Wirtschaftsraum ausgestellt wurde und dessen Inhaber
+seinen ordentlichen Wohnsitz nicht im Inland hat. Die Sätze 1 bis 4
+gelten auch, wenn die Fahrerlaubnisbehörde die Fahrerlaubnis auf Grund
+anderer Vorschriften entzieht.
 
 (3) Solange gegen den Inhaber der Fahrerlaubnis ein Strafverfahren
 anhängig ist, in dem die Entziehung der Fahrerlaubnis nach § 69 des
@@ -1663,10 +1670,22 @@ worden, darf eine neue Fahrerlaubnis frühestens sechs Monate nach
 Wirksamkeit der Entziehung erteilt werden. Das gilt auch bei einem
 Verzicht auf die Fahrerlaubnis, wenn zum Zeitpunkt der Wirksamkeit des
 Verzichtes mindestens zwei Entscheidungen nach § 28 Absatz 3 Nummer 1
-oder 3 Buchstabe a oder c gespeichert waren. Die Frist nach Satz 1,
-auch in Verbindung mit Satz 2, beginnt mit der Ablieferung des
-Führerscheins nach § 3 Absatz 2 Satz 3 in Verbindung mit dessen Satz
-4\. In den Fällen des Satzes 1, auch in Verbindung mit Satz 2, hat die
+oder 3 Buchstabe a oder c gespeichert waren. Im Fall des Satzes 1,
+auch in Verbindung mit Satz 2, beginnt die Frist
+
+1.  in den Fällen, in denen der Führerschein der Fahrerlaubnisbehörde
+    abzuliefern oder zur Eintragung der Entscheidung vorzulegen ist, mit
+    der Ablieferung oder Vorlage des Führerscheins nach § 3 Absatz 2 Satz
+    3 in Verbindung mit Satz 5,
+
+
+2.  in den Fällen, in denen der Führerschein weder abzuliefern noch zur
+    Eintragung der Entscheidung vorzulegen ist, mit Wirksamkeit der
+    Entziehung nach Absatz 5 Satz 1 Nummer 3.
+
+
+
+In den Fällen des Satzes 1, auch in Verbindung mit Satz 2, hat die
 nach Landesrecht zuständige Behörde unbeschadet der Erfüllung der
 sonstigen Voraussetzungen für die Erteilung der Fahrerlaubnis zum
 Nachweis, dass die Eignung zum Führen von Kraftfahrzeugen
@@ -3687,50 +3706,83 @@ bestimmten Art zu führen. Wird gegen die betroffene Person wegen einer
 Ordnungswidrigkeit nach § 24a Absatz 1 bis 2a eine Geldbuße
 festgesetzt, so ist in der Regel auch ein Fahrverbot anzuordnen.
 
-(2) Das Fahrverbot wird mit der Rechtskraft der Bußgeldentscheidung
-wirksam. Für seine Dauer werden von einer deutschen Behörde
+(2) Das Fahrverbot wird wirksam, wenn der Führerschein nach
+Rechtskraft der Bußgeldentscheidung in amtliche Verwahrung gelangt
+oder das Fahrverbot im Inland in ihm vermerkt ist, spätestens jedoch
+einen Monat nach Eintritt der Rechtskraft der Bußgeldentscheidung.
+
+(2a) Für die Dauer des Fahrverbots werden von einer deutschen Behörde
 ausgestellte nationale und internationale Führerscheine amtlich
 verwahrt. Dies gilt auch, wenn der Führerschein von einer Behörde
 eines Mitgliedstaates der Europäischen Union oder eines anderen
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-ausgestellt worden ist, sofern der Inhaber seinen ordentlichen
-Wohnsitz im Inland hat. Wird er nicht freiwillig herausgegeben, so ist
-er zu beschlagnahmen.
+ausgestellt wurde, sofern der Inhaber seinen ordentlichen Wohnsitz im
+Inland hat. In einem ausländischen Führerschein, der weder von einem
+Mitgliedstaat der Europäischen Union noch von einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+ausgestellt wurde, wird das Fahrverbot vermerkt. Wird der Führerschein
+für die Zwecke der amtlichen Verwahrung oder der Eintragung des
+Vermerks nicht freiwillig herausgegeben, so ist er zu beschlagnahmen.
 
-(2a) Ist in den zwei Jahren vor der Ordnungswidrigkeit ein Fahrverbot
-gegen die betroffene Person nicht verhängt worden und wird auch bis
-zur Bußgeldentscheidung ein Fahrverbot nicht verhängt, so bestimmt die
-Verwaltungsbehörde oder das Gericht abweichend von Absatz 2 Satz 1,
-dass das Fahrverbot erst wirksam wird, wenn der Führerschein nach
-Rechtskraft der Bußgeldentscheidung in amtliche Verwahrung gelangt,
-spätestens jedoch mit Ablauf von vier Monaten seit Eintritt der
-Rechtskraft.
+(3) Ist in den zwei Jahren vor Begehen der Ordnungswidrigkeit nicht
+die Rechtskraft einer Entscheidung über ein gegen die betroffene
+Person verhängtes Fahrverbot eingetreten und tritt diese bis zur
+Entscheidung nach Absatz 1 auch nicht ein, so hat die
+Verwaltungsbehörde oder das Gericht,
 
-(2b) Werden gegen die betroffene Person mehrere Fahrverbote
+1.  wenn der Führerschein amtlich zu verwahren oder das Fahrverbot auf dem
+    Führerschein zu vermerken ist, zu bestimmen, dass abweichend von der
+    in Absatz 2 genannten Frist von einem Monat nach Eintritt der
+    Rechtskraft der Bußgeldentscheidung das Fahrverbot spätestens vier
+    Monate nach Eintritt der Rechtskraft der Bußgeldentscheidung wirksam
+    wird,
+
+
+2.  in den in Nummer 1 nicht genannten Fällen abweichend von Absatz 2,
+
+    a)  wenn der Betroffene in einer schriftlichen oder elektronischen
+        Erklärung einen Zeitpunkt abstrakt nach Tagen, Wochen oder Monaten
+        nach Eintritt der Rechtskraft der Bußgeldentscheidung für den Beginn
+        der Wirksamkeit des Fahrverbots benannt hat, der innerhalb eines
+        Zeitraums von einem bis vier Monaten nach Eintritt der Rechtskraft der
+        Bußgeldentscheidung liegt, diesen Zeitpunkt für den Beginn der
+        Wirksamkeit des Fahrverbots festzulegen oder
+
+
+    b)  wenn der Betroffene keine Erklärung im Sinne des Buchstabens a
+        abgegeben hat, zu bestimmen, dass das Fahrverbot mit Ablauf von vier
+        Monaten nach Eintritt der Rechtskraft der Bußgeldentscheidung wirksam
+        wird.
+
+
+
+
+
+
+
+(4) Werden gegen die betroffene Person mehrere Fahrverbote
 rechtskräftig verhängt, so sind die Verbotsfristen nacheinander zu
 berechnen. Die Verbotsfrist auf Grund des früher wirksam gewordenen
 Fahrverbots läuft zuerst. Werden Fahrverbote gleichzeitig wirksam, so
 läuft die Verbotsfrist auf Grund des früher angeordneten Fahrverbots
-zuerst, bei gleichzeitiger Anordnung ist die frühere Tat maßgebend.
+zuerst; bei gleichzeitiger Anordnung ist die frühere Tat maßgebend.
 
-(3) In anderen als in Absatz 2 Satz 3 genannten ausländischen
-Führerscheinen wird das Fahrverbot vermerkt. Zu diesem Zweck kann der
-Führerschein beschlagnahmt werden.
+(5) Wird der Führerschein in den Fällen Absatzes 2a Satz 4 bei der
+betroffenen Person nicht vorgefunden, so hat sie auf Antrag der
+Vollstreckungsbehörde (§ 92 des Gesetzes über Ordnungswidrigkeiten)
+bei dem Amtsgericht eine eidesstattliche Versicherung über den
+Verbleib des Führerscheins abzugeben. § 883 Abs. 2 und 3 der
+Zivilprozessordnung gilt entsprechend.
 
-(4) Wird der Führerschein in den Fällen des Absatzes 2 Satz 4 oder des
-Absatzes 3 Satz 2 bei der betroffenen Person nicht vorgefunden, so hat
-sie auf Antrag der Vollstreckungsbehörde (§ 92 des Gesetzes über
-Ordnungswidrigkeiten) bei dem Amtsgericht eine eidesstattliche
-Versicherung über den Verbleib des Führerscheins abzugeben. § 883 Abs.
-2 und 3 der Zivilprozessordnung gilt entsprechend.
-
-(5) Ist ein Führerschein amtlich zu verwahren oder das Fahrverbot in
+(6) Ist ein Führerschein amtlich zu verwahren oder das Fahrverbot in
 einem ausländischen Führerschein zu vermerken, so wird die
 Verbotsfrist erst von dem Tag an gerechnet, an dem dies geschieht. In
-die Verbotsfrist wird die Zeit nicht eingerechnet, in welcher der
-Täter auf behördliche Anordnung in einer Anstalt verwahrt wird.
+den übrigen Fällen wird die Verbotsfrist ab dem Tag des Eintritts der
+Wirksamkeit des Fahrverbots gerechnet. In die Verbotsfrist wird die
+Zeit nicht eingerechnet, in welcher der Täter auf behördliche
+Anordnung in einer Anstalt verwahrt wird.
 
-(6) Die Dauer einer vorläufigen Entziehung der Fahrerlaubnis (§ 111a
+(7) Die Dauer einer vorläufigen Entziehung der Fahrerlaubnis (§ 111a
 der Strafprozessordnung) wird auf das Fahrverbot angerechnet. Es kann
 jedoch angeordnet werden, dass die Anrechnung ganz oder zum Teil
 unterbleibt, wenn sie im Hinblick auf das Verhalten der betroffenen
@@ -3739,16 +3791,16 @@ Der vorläufigen Entziehung der Fahrerlaubnis steht die Verwahrung,
 Sicherstellung oder Beschlagnahme des Führerscheins (§ 94 der
 Strafprozessordnung) gleich.
 
-(7) Wird das Fahrverbot nach Absatz 1 im Strafverfahren angeordnet (§
+(8) Wird das Fahrverbot nach Absatz 1 im Strafverfahren angeordnet (§
 82 des Gesetzes über Ordnungswidrigkeiten), so kann die Rückgabe eines
 in Verwahrung genommenen, sichergestellten oder beschlagnahmten
 Führerscheins aufgeschoben werden, wenn die betroffene Person nicht
 widerspricht. In diesem Fall ist die Zeit nach dem Urteil unverkürzt
 auf das Fahrverbot anzurechnen.
 
-(8) Über den Zeitpunkt der Wirksamkeit des Fahrverbots nach Absatz 2
-oder 2a Satz 1 und über den Beginn der Verbotsfrist nach Absatz 5 Satz
-1 ist die betroffene Person bei der Zustellung der Bußgeldentscheidung
+(9) Über den Zeitpunkt der Wirksamkeit des Fahrverbots nach Absatz 2
+oder 3 und über den Beginn der Verbotsfrist nach Absatz 6 Satz 1 oder
+2 ist die betroffene Person bei der Zustellung der Bußgeldentscheidung
 oder im Anschluss an deren Verkündung zu belehren.
 
 
@@ -4405,8 +4457,9 @@ Inhabern ausländischer Fahrerlaubnisse die Fahrerlaubnis entzogen oder
 ein Fahrverbot angeordnet wird oder die fehlende Berechtigung von der
 Fahrerlaubnis im Inland Gebrauch zu machen festgestellt wird, werden
 vom Kraftfahrt-Bundesamt an die zuständigen Stellen der
-Mitgliedstaaten der Europäischen Union übermittelt, um ihnen die
-Einleitung eigener Maßnahmen zu ermöglichen. Der Umfang der zu
+Mitgliedstaaten der Europäischen Union oder der Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum übermittelt, um ihnen
+die Einleitung eigener Maßnahmen zu ermöglichen. Der Umfang der zu
 übermittelnden Daten wird durch Rechtsverordnung bestimmt (§ 30c
 Absatz 1 Nummer 3).
 
