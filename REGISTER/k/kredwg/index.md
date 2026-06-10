@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 7 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 9 G v. 12.5.2026 I Nr. 139 ist berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
