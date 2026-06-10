@@ -133,11 +133,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 2.  EU-Konformitätserklärung: eine Erklärung gemäß Artikel 14 der
-    Richtlinie 2014/34/EU des Europäischen Parlaments und des Rates vom
-    26\. Februar 2014 zur Harmonisierung der Rechtsvorschriften der
-    Mitgliedstaaten für Geräte und Schutzsysteme zur bestimmungsgemäßen
-    Verwendung in explosionsgefährdeten Bereichen (ABl. L 96 vom
-    29\.3.2014, S. 309),
+    Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024,
 
 
 3.  explosionsfähige Atmosphäre: ein Gemisch aus Luft und brennbaren
@@ -171,14 +167,15 @@ Im Sinne dieser Verordnung ist oder sind
     Bergwerken bestimmt sind oder zur Verwendung in deren Übertageanlagen,
     die durch Grubengas oder brennbare Stäube gefährdet werden können,
     bestimmt sind; die Gerätegruppe I umfasst die in Anhang I der
-    Richtlinie 2014/34/EU genannten Gerätekategorien M1 und M2,
+    Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 genannten
+    Gerätekategorien M1 und M2,
 
 
 7.  Gerätegruppe II: Geräte, die zur Verwendung in allen Bereichen, die
     durch eine explosionsfähige Atmosphäre gefährdet werden können,
     bestimmt sind, mit Ausnahme der in Nummer 6 genannten Bereiche; die
-    Gerätegruppe II umfasst die in Anhang I der Richtlinie 2014/34/EU
-    genannten Gerätekategorien 1, 2 und 3,
+    Gerätegruppe II umfasst die in Anhang I der Richtlinie 2014/34/EU in
+    der Fassung vom 9. Oktober 2024 genannten Gerätekategorien 1, 2 und 3,
 
 
 8.  Gerätekategorie: eine Kategorie, in die Geräte innerhalb jeder
@@ -187,15 +184,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 9.  harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2
-    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des
-    Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur
-    europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und
-    93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG,
-    97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG
-    des Europäischen Parlaments und des Rates und zur Aufhebung des
-    Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG
-    des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012,
-    S. 12),
+    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012,
 
 
 10. Hersteller: jede natürliche oder juristische Person, die ein Produkt
@@ -210,7 +199,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 12. Konformitätsbescheinigung: eine Bescheinigung nach Artikel 13 Absatz 3
-    Satz 2 der Richtlinie 2014/34/EU,
+    Satz 2 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024,
 
 
 13. Schutzsysteme: alle Vorrichtungen mit Ausnahme der Komponenten von
@@ -220,7 +209,15 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 14. technische Spezifikation: ein Dokument, in dem die technischen
-    Anforderungen vorgeschrieben sind, denen ein Produkt genügen muss.
+    Anforderungen vorgeschrieben sind, denen ein Produkt genügen muss,
+
+
+15. krisenrelevante Waren: krisenrelevante Waren im Sinne von Artikel 3
+    Nummer 6 der Verordnung (EU) 2024/2747,
+
+
+16. Notfallmodus für den Binnenmarkt: der Notfallmodus für den Binnenmarkt
+    im Sinne von Artikel 3 Nummer 3 der Verordnung (EU) 2024/2747.
 
 
 
@@ -243,8 +240,9 @@ Bei Produkten, die harmonisierten Normen oder Teilen dieser Normen
 entsprechen, deren Fundstellen im Amtsblatt der Europäischen Union
 veröffentlicht worden sind, wird vermutet, dass sie die wesentlichen
 Gesundheits- und Sicherheitsanforderungen nach Anhang II der
-Richtlinie 2014/34/EU erfüllen, soweit diese von den betreffenden
-Normen oder von Teilen dieser Normen abgedeckt sind.
+Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 erfüllen,
+soweit diese von den betreffenden Normen oder von Teilen dieser Normen
+abgedeckt sind.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
@@ -255,19 +253,21 @@ Normen oder von Teilen dieser Normen abgedeckt sind.
 (1) Der Hersteller stellt sicher, wenn er Produkte in den Verkehr
 bringt oder für eigene Zwecke erstmals verwendet, dass sie nach den
 wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU entworfen und hergestellt wurden.
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 entworfen
+und hergestellt wurden.
 
 (2) Der Hersteller darf Produkte nur in den Verkehr bringen oder für
 eigene Zwecke erstmals verwenden, wenn die technischen Unterlagen nach
 Anhang III Nummer 3 Buchstabe c, nach Anhang IV Nummer 3.1 Buchstabe
 e, nach Anhang VII Nummer 3.1 Buchstabe e, nach Anhang VIII Nummer 2
-oder nach Anhang IX Nummer 2 der Richtlinie 2014/34/EU erstellt wurden
-und das Konformitätsbewertungsverfahren nach § 13 Absatz 1 Satz 1
-durchgeführt wurde. Wurde mit dem Konformitätsbewertungsverfahren
-nachgewiesen, dass das Produkt die anwendbaren wesentlichen
-Gesundheits- und Sicherheitsanforderungen nach Anhang II der
-Richtlinie 2014/34/EU erfüllt, so stellt der Hersteller für das
-Produkt,
+oder nach Anhang IX Nummer 2 der Richtlinie 2014/34/EU in der Fassung
+vom 9. Oktober 2024 erstellt wurden und das
+Konformitätsbewertungsverfahren nach § 13 Absatz 1 Satz 1 durchgeführt
+wurde. Wurde mit dem Konformitätsbewertungsverfahren nachgewiesen,
+dass das Produkt die anwendbaren wesentlichen Gesundheits- und
+Sicherheitsanforderungen nach Anhang II der Richtlinie 2014/34/EU in
+der Fassung vom 9. Oktober 2024 erfüllt, so stellt der Hersteller für
+das Produkt,
 
 1.  sofern es sich um ein Gerät, ein Schutzsystem oder eine Sicherheits-,
     Kontroll- oder Regelvorrichtung handelt, eine EU-Konformitätserklärung
@@ -437,16 +437,18 @@ er sichergestellt hat, dass
 
 (3) Hat der Einführer Grund zu der Annahme, dass ein Produkt nicht den
 wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU entspricht, darf er dieses Produkt erst in
-den Verkehr bringen, wenn die Konformität hergestellt ist. Ist mit dem
-Produkt ein Risiko verbunden, so informiert der Einführer den
-Hersteller und die Marktüberwachungsbehörden darüber.
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024
+entspricht, darf er dieses Produkt erst in den Verkehr bringen, wenn
+die Konformität hergestellt ist. Ist mit dem Produkt ein Risiko
+verbunden, so informiert der Einführer den Hersteller und die
+Marktüberwachungsbehörden darüber.
 
 (4) Solange sich ein Produkt im Verantwortungsbereich des Einführers
 befindet, ist dieser dafür verantwortlich, dass die Lagerungs- und
 Transportbedingungen die Übereinstimmung des Produkts mit den
 wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU nicht beeinträchtigen.
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 nicht
+beeinträchtigen.
 
 (5) Wenn es der Einführer angesichts der Risiken, die mit einem von
 ihm auf dem Markt bereitgestellten Produkt verbunden sind, als
@@ -532,17 +534,18 @@ zu überprüfen, ob
 
 (3) Hat der Händler Grund zu der Annahme, dass ein Produkt nicht den
 wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU entspricht, darf er dieses Produkt erst auf
-dem Markt bereitstellen, wenn die Konformität hergestellt ist. Ist mit
-dem Produkt ein Risiko verbunden, so informiert der Händler außerdem
-den Hersteller oder den Einführer sowie die Marktüberwachungsbehörden
-darüber.
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024
+entspricht, darf er dieses Produkt erst auf dem Markt bereitstellen,
+wenn die Konformität hergestellt ist. Ist mit dem Produkt ein Risiko
+verbunden, so informiert der Händler außerdem den Hersteller oder den
+Einführer sowie die Marktüberwachungsbehörden darüber.
 
 (4) Solange sich ein Produkt im Verantwortungsbereich des Händlers
 befindet, ist dieser dafür verantwortlich, dass die Lagerungs- und
 Transportbedingungen die Übereinstimmung des Produkts mit den
 wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU nicht beeinträchtigen.
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 nicht
+beeinträchtigen.
 
 (5) Hat der Händler Grund zu der Annahme, dass ein von ihm auf dem
 Markt bereitgestelltes Produkt nicht den Anforderungen dieser
@@ -605,13 +608,12 @@ Produkts vorlegen können.
 ### § 13 Konformitätsbewertungsverfahren
 
 (1) Für Produkte sind entsprechend den Vorgaben des Artikels 13 Absatz
-1 bis 4 der Richtlinie
-2014/34/EU              die Konformitätsbewertungsverfahren nach den
-Anhängen III bis IX der Richtlinie
-2014/34/EU              durchzuführen. Die Unterlagen und der
-Schriftwechsel im Zusammenhang mit den Konformitätsbewertungsverfahren
-sind in deutscher Sprache oder in einer von der notifizierten Stelle
-anerkannten Sprache abzufassen.
+1 bis 4 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024
+die Konformitätsbewertungsverfahren nach den Anhängen III bis IX der
+Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024
+durchzuführen. Die Unterlagen und der Schriftwechsel im Zusammenhang
+mit den Konformitätsbewertungsverfahren sind in deutscher Sprache oder
+in einer von der notifizierten Stelle anerkannten Sprache abzufassen.
 
 (2) Abweichend von Absatz 1 kann die Marktüberwachungsbehörde auf
 hinreichend begründeten Antrag genehmigen, dass Produkte in den
@@ -638,8 +640,8 @@ notifizierten Stelle stehen
 *    *   2.
 
     *   die anderen Kennzeichnungen und Informationen nach Anhang II Nummer
-        1\.0.5 der Richtlinie
-        2014/34/EU,                        soweit sie erforderlich sind.
+        1\.0.5 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024,
+        soweit sie erforderlich sind.
 
 
 
@@ -648,7 +650,201 @@ notifizierten Stelle stehen
 Atmosphäre konzipiert sind, müssen entsprechend gekennzeichnet werden.
 
 
-## Abschnitt 4 - Marktüberwachung
+## Abschnitt 4 - Notfallverfahren
+
+
+### § 14a Anwendung der Notfallverfahren
+
+(1) Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn
+
+1.  die Europäische Kommission nach Artikel 28 Absatz 1 Satz 1 der
+    Verordnung (EU) 2024/2747 einen Durchführungsrechtsakt in Bezug auf
+    ein Produkt erlassen hat, für das diese Verordnung anzuwenden ist, und
+
+
+2.  das Produkt nach Nummer 1 in der Liste krisenrelevanter Waren nach
+    Artikel 18 Absatz 4 Satz 1, auch in Verbindung mit Satz 3, der
+    Verordnung (EU) 2024/2747 enthalten ist.
+
+
+
+
+(2) Die Bestimmungen dieses Abschnitts sind nur anzuwenden, während
+der Notfallmodus für den Binnenmarkt nach Artikel 18 Absatz 4 Satz 1
+der Verordnung (EU) 2024/2747 aktiviert ist. § 14d Absatz 3 bleibt
+unberührt.
+
+
+### § 14b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Produkten
+
+(1) Die notifizierte Stelle soll die Anträge auf Konformitätsbewertung
+der Produkte, die in dem in § 14a Absatz 1 Nummer 1 genannten
+Durchführungsrechtsakt aufgeführt sind und die den
+Konformitätsbewertungsverfahren nach § 13 unterliegen, vorrangig
+bearbeiten. Dies gilt unabhängig davon, ob ein Antrag vor oder nach
+der Aktivierung des Notfallmodus nach § 14a Absatz 2 Satz 1 gestellt
+wurde.
+
+(2) Dem antragstellenden Hersteller dürfen durch die Priorisierung von
+Anträgen auf Konformitätsbewertung nach Absatz 1 keine
+unverhältnismäßigen zusätzlichen Kosten entstehen.
+
+(3) Die notifizierten Stellen haben zumutbare Anstrengungen zu
+unternehmen, ihre Prüfkapazitäten für die Produkte nach Absatz 1, für
+die sie notifiziert wurden, zu erhöhen.
+
+
+### § 14c Ausnahme von den Konformitätsbewertungsverfahren
+
+(1) Abweichend von § 13 Absatz 1 kann die zuständige Behörde auf
+Antrag eines Wirtschaftsakteurs genehmigen, dass ein in einem in § 14a
+Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführtes
+Produkt ohne Durchführung der in § 13 genannten
+Konformitätsbewertungsverfahren in den Verkehr gebracht oder in
+Betrieb genommen wird. Die Genehmigung nach Satz 1 setzt voraus, dass
+die Erfüllung der wesentlichen Gesundheits- und
+Sicherheitsanforderungen nach Anhang II der Richtlinie 2014/34/EU in
+der Fassung vom 9. Oktober 2024 nachgewiesen worden ist.
+
+(2) Jede nach Absatz 1 Satz 1 erteilte Genehmigung hat die Bedingungen
+und Anforderungen zu bestimmen, unter denen das Produkt in den Verkehr
+gebracht oder in Betrieb genommen werden darf. Die Genehmigung hat
+insbesondere Folgendes zu bestimmen:
+
+1.  das Enddatum für die Gültigkeit der Genehmigung, das nicht über den
+    letzten Tag des Zeitraums hinausgehen darf, für den der Notfallmodus
+    für den Binnenmarkt gemäß Artikel 18 der Verordnung (EU) 2024/2747
+    aktiviert wurde,
+
+
+2.  Maßnahmen, die bei Auslaufen oder Deaktivierung des Notfallmodus für
+    den Binnenmarkt in Bezug auf das betreffende Produkt zu ergreifen
+    sind.
+
+
+
+
+(3) Die Begründung des Bescheids über die Genehmigung nach Absatz 1
+Satz 1 hat eine Beschreibung der Verfahren zu enthalten, mit denen die
+Einhaltung der geltenden wesentlichen Gesundheits- und
+Sicherheitsanforderungen nach Anhang II der Richtlinie 2014/34/EU in
+der Fassung vom 9. Oktober 2024 erfolgreich nachgewiesen wurde. Die
+Genehmigung kann in Bezug auf die Rückverfolgbarkeit des betreffenden
+Produkts und in Bezug auf die Notwendigkeit einer fortlaufenden
+Konformitätsbewertung Anforderungen festlegen.
+
+(4) Die zuständige Behörde hat die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin unverzüglich über jede nach Absatz 1 Satz 1 erteilte
+Genehmigung zu informieren. Die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin hat die Informationen unverzüglich der Europäischen
+Kommission und den übrigen Mitgliedstaaten der Europäischen Union
+zuzuleiten.
+
+(5) Auf Verlangen der Europäische Kommission hat die
+Marktüberwachungsbehörde zu der technischen Bewertung, die der nach
+Absatz 1 Satz 1 erteilten Genehmigung zu Grunde lag, Stellung zu
+nehmen und sachdienliche Informationen bereitzustellen, die von der
+Europäischen Kommission zum Erlass eines nach Artikel 38c Absatz 2
+Unterabsatz 1 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober
+2024 benötigt werden.
+
+(6) Vor dem Inverkehrbringen hat der Wirtschaftsakteur auf einem
+Produkt, für das eine Genehmigung erteilt wurde, die durch einen
+Durchführungsrechtsakt der Europäischen Kommission nach Artikel 38c
+Absatz 2 Unterabsatz 1 der Richtlinie 2014/34/EU in der Fassung vom 9.
+Oktober 2024 auf das Gebiet der gesamten Europäischen Union ausgedehnt
+wurde, den Hinweis, dass das Produkt als „krisenrelevante Ware“ in den
+Verkehr gebracht oder in Betrieb genommen wird, gemäß Satz 2
+anzubringen. Vorbehaltlich näherer oder abweichender Bestimmungen in
+dem betreffenden Durchführungsrechtsakt muss der Hinweis in deutscher
+Sprache abgefasst und klar, verständlich und leserlich sein.
+
+(7) Solange kein Durchführungsrechtsakt nach Artikel 38c Absatz 2
+Unterabsatz 1 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober
+2024 erlassen wurde, kann die zuständige Behörde die Gültigkeit einer
+von einem anderen Mitgliedstaat der Europäischen Union erteilten
+Genehmigung anerkennen. Die zuständige Behörde hat die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin unverzüglich über die Anerkennung
+der Gültigkeit einer von einem anderen Mitgliedstaat der Europäischen
+Union erteilten Genehmigung zu informieren. Die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin hat die Informationen unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+(8) Der Hersteller eines Produkts, das dem in Absatz 1 genannten
+Genehmigungsverfahren unterliegt, hat zu erklären, dass das
+betreffende Produkt alle wesentlichen Gesundheits- und
+Sicherheitsanforderungen gemäß Anhang II der Richtlinie 2014/34/EU in
+der Fassung vom 9. Oktober 2024 erfüllt. Der Hersteller ist für die
+Durchführung aller von der zuständigen Behörde vorgegebenen
+Konformitätsbewertungsverfahren verantwortlich.
+
+(9) Ein Produkt, für das eine Genehmigung nach Absatz 1 Satz 1 erteilt
+wurde, darf nicht mit der
+CE-Kennzeichnung              gemäß § 7 des Produktsicherheitsgesetzes
+versehen werden.
+
+(10) Die Marktüberwachungsbehörde hat die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin unverzüglich über alle von ihr
+getroffenen Abhilfemaßnahmen und beschränkenden Maßnahmen zu
+informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+hat die Informationen der Marktüberwachungsbehörde unverzüglich der
+Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+
+### § 14d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen
+
+(1) Bei einem Produkt, das den in einem Durchführungsrechtsakt nach
+Artikel 38d Absatz 1 der Richtlinie 2014/34/EU in der Fassung vom 9.
+Oktober 2024 genannten Normen oder gemeinsamen Spezifikationen oder
+Teilen davon entspricht, wird vermutet, dass es die wesentlichen
+Gesundheits- und Sicherheitsanforderungen nach Anhang II der
+Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 erfüllt,
+soweit diese von den betreffenden Normen oder gemeinsamen
+Spezifikationen oder Teilen davon abgedeckt sind.
+
+(2) Ab dem Tag, der auf das Auslaufen oder die Deaktivierung des
+Notfallmodus für den Binnenmarkt folgt, können sich Hersteller nicht
+mehr auf die Konformitätsvermutung nach Absatz 1 berufen.
+
+(3) In den Verkehr gebrachte Produkte, die mit den in Absatz 1
+genannten Normen oder gemeinsamen Spezifikationen übereinstimmen,
+gelten auch nach dem Außerkrafttreten oder der Aufhebung eines
+Durchführungsrechtsakts nach Absatz 1 und dem Auslaufen oder der
+Deaktivierung des Notfallmodus für den Binnenmarkt als konform mit den
+wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024, sofern
+kein hinreichender Grund zu der Annahme besteht, dass diese ein Risiko
+für die Gesundheit oder Sicherheit von Menschen darstellen.
+
+
+### § 14e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden
+
+(1) Die Marktüberwachungsbehörde hat Marktüberwachungstätigkeiten für
+Produkte, die in dem in § 14a Absatz 1 Nummer 1 genannten
+Durchführungsrechtsakt aufgeführt sind, Vorrang einzuräumen.
+
+(2) Die Marktüberwachungsbehörde hat alle erdenklichen Anstrengungen
+zu unternehmen, um die Marktüberwachungsbehörden der anderen
+Mitgliedstaaten der Europäischen Union während eines Notfallmodus für
+den Binnenmarkt zu unterstützen. Auf Ersuchen der
+Marktüberwachungsbehörde eines anderen Mitgliedstaats der Europäischen
+Union ist die Marktüberwachungsbehörde gehalten,
+
+1.  eigene fachkundige Beschäftigte zur vorübergehenden Verstärkung des
+    Personals der ersuchenden Marktüberwachungsbehörde zu entsenden oder
+
+
+2.  logistische Unterstützung zu leisten, insbesondere durch den Ausbau
+    der Prüfkapazitäten für jene Produkte, die in dem in § 14a Absatz 1
+    Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind.
+
+
+
+
+
+## Abschnitt 5 - Marktüberwachung
 
 
 ### § 15 Korrekturmaßnahmen der Wirtschaftsakteure
@@ -730,19 +926,20 @@ dass
 (4) Wird die Marktüberwachungsbehörde von der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem
 anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme
-nach Artikel 35 Absatz 4 der Richtlinie 2014/34/EU getroffen wurde,
-trifft die Marktüberwachungsbehörde, sofern sie diese Maßnahme für
-gerechtfertigt hält, alle geeigneten vorläufigen Maßnahmen nach Absatz
-1\. Sie informiert die Bundesanstalt für Arbeitsschutz und
-Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden
-Informationen hinsichtlich der Nichtkonformität des Produkts. Sofern
-die Marktüberwachungsbehörde die von dem anderen Mitgliedstaat
-getroffene vorläufige Maßnahme nicht für gerechtfertigt hält,
-informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
-innerhalb von zwei Monaten darüber und gibt ihre Einwände an. Die
-Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die
-Informationen gemäß den Sätzen 2 und 3 unverzüglich der Europäischen
-Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu.
+nach Artikel 35 Absatz 4 der Richtlinie 2014/34/EU in der Fassung vom
+9\. Oktober 2024 getroffen wurde, trifft die Marktüberwachungsbehörde,
+sofern sie diese Maßnahme für gerechtfertigt hält, alle geeigneten
+vorläufigen Maßnahmen nach Absatz 1. Sie informiert die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin darüber sowie über alle weiteren
+ihr vorliegenden Informationen hinsichtlich der Nichtkonformität des
+Produkts. Sofern die Marktüberwachungsbehörde die von dem anderen
+Mitgliedstaat getroffene vorläufige Maßnahme nicht für gerechtfertigt
+hält, informiert sie die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin innerhalb von zwei Monaten darüber und gibt ihre
+Einwände an. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+leitet die Informationen gemäß den Sätzen 2 und 3 unverzüglich der
+Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zu.
 
 (5) Liegen der Marktüberwachungsbehörde innerhalb von drei Monaten
 nach einer Information gemäß Absatz 2 Satz 1 oder nach Erhalt einer
@@ -831,7 +1028,7 @@ untersagt die Bereitstellung auf dem Markt oder sorgt dafür, dass das
 Produkt zurückgerufen oder zurückgenommen wird.
 
 
-## Abschnitt 5 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+## Abschnitt 6 - Ordnungswidrigkeiten und Schlussbestimmungen
 
 
 ### § 19 Ordnungswidrigkeiten
@@ -866,11 +1063,14 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 7.  entgegen § 6 Absatz 4 nicht dafür sorgt, dass einem Produkt eine
     Betriebsanleitung und die Sicherheitsinformationen beigefügt sind,
-    oder
 
 
 8.  entgegen § 8 Absatz 2 Nummer 1, 3, 4 oder Nummer 5 ein Produkt in den
-    Verkehr bringt.
+    Verkehr bringt oder
+
+
+9.  entgegen § 14c Absatz 6 Satz 1 einen Hinweis nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig anbringt.
 
 
 
@@ -898,24 +1098,17 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-### § 20 Straftaten
+### § 20 (weggefallen)
 
-Wer eine in § 19 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
-wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
-Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
-gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 21 Übergangsvorschriften
 
-(1) Produkte, die die Anforderungen der Richtlinie 94/9/EG des
-Europäischen Parlaments und des Rates vom 23. März 1994 zur
-Angleichung der Rechtsvorschriften der Mitgliedstaaten für Geräte und
-Schutzsysteme zur bestimmungsgemäßen Verwendung in
-explosionsgefährdeten Bereichen (ABl. L 100 vom 19.4.1994, S. 1), die
-durch die Richtlinie 2014/34/EU aufgehoben worden ist, erfüllen und
-bis zum 20. April 2016 in den Verkehr gebracht wurden, dürfen auf dem
-Markt bereitgestellt und in Betrieb genommen werden.
+(1) Produkte, die die Anforderungen der Richtlinie 94/9/EG in der
+Fassung vom 25. Oktober 2012, die durch die Richtlinie 2014/34/EU
+aufgehoben worden ist, erfüllen und bis zum 20. April 2016 in den
+Verkehr gebracht wurden, dürfen auf dem Markt bereitgestellt und in
+Betrieb genommen werden.
 
 (2) Bescheinigungen, die von notifizierten Stellen gemäß der
 Richtlinie 94/9/EG ausgestellt worden sind, bleiben im Rahmen dieser
