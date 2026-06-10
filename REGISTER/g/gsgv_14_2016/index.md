@@ -56,11 +56,8 @@ bereitgestellt, ausgestellt oder erstmals verwendet werden,
 anzuwenden.
 
 (2) Diese Verordnung ist nicht auf Produkte anzuwenden, die in Artikel
-1 Absatz 2 der Richtlinie
-2014/68/EU              des Europäischen Parlaments und des Rates vom
-15\. Mai 2014 zur Harmonisierung der Rechtsvorschriften der
-Mitgliedstaaten über die Bereitstellung von Druckgeräten auf dem Markt
-(ABl. L 189 vom 27.6.2014, S. 164) aufgeführt sind.
+1 Absatz 2 der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober
+2024 aufgeführt sind.
 
 
 ### § 2 Begriffsbestimmungen
@@ -89,15 +86,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 5.  harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2
-    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des
-    Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur
-    europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und
-    93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG,
-    97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG
-    des Europäischen Parlaments und des Rates und zur Aufhebung des
-    Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG
-    des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012,
-    S. 12);
+    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012;
 
 
 6.  Hersteller: jede natürliche oder juristische Person, die ein
@@ -125,13 +114,22 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 10. EU-Konformitätserklärung: eine Erklärung gemäß Artikel 17 der
-    Richtlinie 2014/68/EU.
+    Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024;
+
+
+11. krisenrelevante Waren: krisenrelevante Waren im Sinne von Artikel 3
+    Nummer 6 der Verordnung (EU) 2024/2747;
+
+
+12. Notfallmodus für den Binnenmarkt: der Notfallmodus für den Binnenmarkt
+    im Sinne von Artikel 3 Nummer 3 der Verordnung (EU) 2024/2747.
 
 
 
-Wenn auf Artikel 4 oder 13 der Richtlinie 2014/68/EU verwiesen wird,
-sind die Begriffsbestimmungen des Artikels 2 der Richtlinie 2014/68/EU
-anzuwenden. Im Übrigen sind die Begriffsbestimmungen des
+Wenn auf Artikel 4 oder 13 der Richtlinie 2014/68/EU in der Fassung
+vom 9. Oktober 2024 verwiesen wird, sind die Begriffsbestimmungen des
+Artikels 2 der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober
+2024 anzuwenden. Im Übrigen sind die Begriffsbestimmungen des
 Produktsicherheitsgesetzes anzuwenden.
 
 
@@ -145,21 +143,23 @@ Betrieb die Anforderungen dieser Verordnung erfüllen.
 
 ### § 4 Konformitätsvermutung
 
-(1) Bei den in Artikel 4 Absatz 1 und 2 der Richtlinie 2014/68/EU
-aufgeführten Druckgeräten und Baugruppen, die harmonisierten Normen
-oder Teilen dieser Normen entsprechen, deren Fundstellen im Amtsblatt
-der Europäischen Union veröffentlicht worden sind, wird vermutet, dass
-sie die wesentlichen Sicherheitsanforderungen nach Anhang I der
-Richtlinie 2014/68/EU erfüllen, soweit diese von den betreffenden
-Normen oder von Teilen dieser Normen abgedeckt sind.
+(1) Bei den in Artikel 4 Absatz 1 und 2 der Richtlinie 2014/68/EU in
+der Fassung vom 9. Oktober 2024 aufgeführten Druckgeräten und
+Baugruppen, die harmonisierten Normen oder Teilen dieser Normen
+entsprechen, deren Fundstellen im Amtsblatt der Europäischen Union
+veröffentlicht worden sind, wird vermutet, dass sie die wesentlichen
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/68/EU in
+der Fassung vom 9. Oktober 2024 erfüllen, soweit diese von den
+betreffenden Normen oder von Teilen dieser Normen abgedeckt sind.
 
 (2) Bei den für die Herstellung von Druckgeräten oder Baugruppen
 verwendeten Werkstoffen, für die eine europäische Werkstoffzulassung
 erteilt wurde, deren Fundstelle gemäß Artikel 15 Absatz 4 der
-Richtlinie 2014/68/EU im Amtsblatt der Europäischen Union
-veröffentlicht worden ist, wird vermutet, dass sie die zutreffenden
-wesentlichen Sicherheitsanforderungen nach Anhang I der Richtlinie
-2014/68/EU erfüllen.
+Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024 im Amtsblatt
+der Europäischen Union veröffentlicht worden ist, wird vermutet, dass
+sie die zutreffenden wesentlichen Sicherheitsanforderungen nach Anhang
+I der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024
+erfüllen.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
@@ -168,24 +168,27 @@ wesentlichen Sicherheitsanforderungen nach Anhang I der Richtlinie
 ### § 5 Allgemeine Pflichten des Herstellers
 
 (1) Der Hersteller stellt sicher, wenn er die in Artikel 4 Absatz 1
-und 2 der Richtlinie 2014/68/EU aufgeführten Druckgeräte oder
-Baugruppen in den Verkehr bringt oder für eigene Zwecke verwendet,
-dass sie nach den wesentlichen Sicherheitsanforderungen nach Anhang I
-der Richtlinie 2014/68/EU entworfen und hergestellt wurden.
+und 2 der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024
+aufgeführten Druckgeräte oder Baugruppen in den Verkehr bringt oder
+für eigene Zwecke verwendet, dass sie nach den wesentlichen
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/68/EU in
+der Fassung vom 9. Oktober 2024 entworfen und hergestellt wurden.
 
 (2) Der Hersteller stellt sicher, wenn er die in Artikel 4 Absatz 3
-der Richtlinie 2014/68/EU aufgeführten Druckgeräte oder Baugruppen in
-den Verkehr bringt oder für eigene Zwecke verwendet, dass sie gemäß
-der in einem Mitgliedstaat der Europäischen Union geltenden guten
-Ingenieurpraxis entworfen und hergestellt wurden.
+der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024
+aufgeführten Druckgeräte oder Baugruppen in den Verkehr bringt oder
+für eigene Zwecke verwendet, dass sie gemäß der in einem Mitgliedstaat
+der Europäischen Union geltenden guten Ingenieurpraxis entworfen und
+hergestellt wurden.
 
 (3) Der Hersteller darf die in Artikel 4 Absatz 1 und 2 der Richtlinie
-2014/68/EU aufgeführten Druckgeräte oder Baugruppen nur in den Verkehr
-bringen oder für eigene Zwecke verwenden, wenn das
-Konformitätsbewertungsverfahren nach § 13 Absatz 1 oder Absatz 2
-durchgeführt wurde. Wurde mit dem Konformitätsbewertungsverfahren
-nachgewiesen, dass die Druckgeräte oder Baugruppen die wesentlichen
-Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/68/EU
+2014/68/EU in der Fassung vom 9. Oktober 2024 aufgeführten Druckgeräte
+oder Baugruppen nur in den Verkehr bringen oder für eigene Zwecke
+verwenden, wenn das Konformitätsbewertungsverfahren nach § 13 Absatz 1
+oder Absatz 2 durchgeführt wurde. Wurde mit dem
+Konformitätsbewertungsverfahren nachgewiesen, dass die Druckgeräte
+oder Baugruppen die wesentlichen Sicherheitsanforderungen nach Anhang
+I der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024
 erfüllen, stellt der Hersteller eine EU-Konformitätserklärung aus und
 bringt die CE-Kennzeichnung gemäß § 15 an.
 
@@ -251,15 +254,16 @@ kann.
 
 (3) Der Hersteller hat dafür zu sorgen, dass
 
-1.  den in Artikel 4 Absatz 1 und 2 der Richtlinie 2014/68/EU aufgeführten
-    Druckgeräten oder Baugruppen die Betriebsanleitung und die
-    Sicherheitsinformationen nach Anhang I Nummer 3.3 und 3.4 der
-    Richtlinie 2014/68/EU in deutscher Sprache beigefügt sind und
+1.  den in Artikel 4 Absatz 1 und 2 der Richtlinie 2014/68/EU in der
+    Fassung vom 9. Oktober 2024 aufgeführten Druckgeräten oder Baugruppen
+    die Betriebsanleitung und die Sicherheitsinformationen nach Anhang I
+    Nummer 3.3 und 3.4 der Richtlinie 2014/68/EU in der Fassung vom 9.
+    Oktober 2024 in deutscher Sprache beigefügt sind und
 
 
-2.  den in Artikel 4 Absatz 3 der Richtlinie 2014/68/EU aufgeführten
-    Druckgeräten oder Baugruppen die Betriebsanleitung in deutscher
-    Sprache beigefügt ist.
+2.  den in Artikel 4 Absatz 3 der Richtlinie 2014/68/EU in der Fassung vom
+    9\. Oktober 2024 aufgeführten Druckgeräten oder Baugruppen die
+    Betriebsanleitung in deutscher Sprache beigefügt ist.
 
 
 
@@ -316,9 +320,9 @@ Hersteller nicht auf einen Bevollmächtigten übertragen.
 bringen, die die Anforderungen dieser Verordnung erfüllen.
 
 (2) Der Einführer darf ein in Artikel 4 Absatz 1 und 2 der Richtlinie
-2014/68/EU aufgeführtes Druckgerät oder eine dort aufgeführte
-Baugruppe erst in den Verkehr bringen, wenn er sichergestellt hat,
-dass
+2014/68/EU in der Fassung vom 9. Oktober 2024 aufgeführtes Druckgerät
+oder eine dort aufgeführte Baugruppe erst in den Verkehr bringen, wenn
+er sichergestellt hat, dass
 
 1.  der Hersteller das Konformitätsbewertungsverfahren nach § 13 Absatz 1
     oder Absatz 2 durchgeführt hat oder
@@ -335,9 +339,9 @@ Druckgerät oder der Baugruppe beim Inverkehrbringen anzubringen. § 6
 Absatz 2 Satz 2 bis 4 ist entsprechend anzuwenden.
 
 (3) Der Einführer darf ein in Artikel 4 Absatz 3 der Richtlinie
-2014/68/EU aufgeführtes Druckgerät oder eine dort aufgeführte
-Baugruppe erst in den Verkehr bringen, wenn er sichergestellt hat,
-dass
+2014/68/EU in der Fassung vom 9. Oktober 2024 aufgeführtes Druckgerät
+oder eine dort aufgeführte Baugruppe erst in den Verkehr bringen, wenn
+er sichergestellt hat, dass
 
 1.  der Hersteller die technischen Unterlagen erstellt hat oder
 
@@ -360,12 +364,13 @@ oder der Baugruppe ein Risiko verbunden, so informiert der Einführer
 den Hersteller und die Marktüberwachungsbehörden darüber.
 
 (5) Solange sich ein in Artikel 4 Absatz 1 und 2 der Richtlinie
-2014/68/EU aufgeführtes Druckgerät oder eine dort aufgeführte
-Baugruppe im Verantwortungsbereich des Einführers befindet, ist dieser
-dafür verantwortlich, dass die Lagerungs- oder Transportbedingungen
-die Übereinstimmung des Druckgeräts oder der Baugruppe mit den
-wesentlichen Sicherheitsanforderungen nach Anhang I der Richtlinie
-2014/68/EU nicht beeinträchtigen.
+2014/68/EU in der Fassung vom 9. Oktober 2024 aufgeführtes Druckgerät
+oder eine dort aufgeführte Baugruppe im Verantwortungsbereich des
+Einführers befindet, ist dieser dafür verantwortlich, dass die
+Lagerungs- oder Transportbedingungen die Übereinstimmung des
+Druckgeräts oder der Baugruppe mit den wesentlichen
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/68/EU in
+der Fassung vom 9. Oktober 2024 nicht beeinträchtigen.
 
 (6) Der Einführer hat nach dem Inverkehrbringen des Druckgeräts oder
 der Baugruppe zehn Jahre lang eine Abschrift der EU-
@@ -384,8 +389,9 @@ gebührenden Sorgfalt berücksichtigen, wenn er ein Druckgerät oder eine
 Baugruppe auf dem Markt bereitstellt.
 
 (2) Bevor der Händler ein in Artikel 4 Absatz 1 und 2 der Richtlinie
-2014/68/EU aufgeführtes Druckgerät oder eine dort aufgeführte
-Baugruppe auf dem Markt bereitstellt, hat er zu überprüfen, ob
+2014/68/EU in der Fassung vom 9. Oktober 2024 aufgeführtes Druckgerät
+oder eine dort aufgeführte Baugruppe auf dem Markt bereitstellt, hat
+er zu überprüfen, ob
 
 1.  das Druckgerät oder die Baugruppe mit der CE-Kennzeichnung versehen
     ist,
@@ -404,20 +410,20 @@ Baugruppe auf dem Markt bereitstellt, hat er zu überprüfen, ob
 
 (3) Hat der Händler Grund zu der Annahme, dass das Druckgerät oder die
 Baugruppe nicht den wesentlichen Sicherheitsanforderungen nach Anhang
-I der Richtlinie 2014/68/EU entspricht, darf der Händler dieses
-Druckgerät oder diese Baugruppe erst auf dem Markt bereitstellen, wenn
-die Konformität hergestellt ist. Ist mit dem Druckgerät oder der
-Baugruppe ein Risiko verbunden, so informiert der Händler außerdem den
-Hersteller oder den Einführer sowie die Marktüberwachungsbehörden
-darüber.
+I der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024
+entspricht, darf der Händler dieses Druckgerät oder diese Baugruppe
+erst auf dem Markt bereitstellen, wenn die Konformität hergestellt
+ist. Ist mit dem Druckgerät oder der Baugruppe ein Risiko verbunden,
+so informiert der Händler außerdem den Hersteller oder den Einführer
+sowie die Marktüberwachungsbehörden darüber.
 
 (4) Bevor der Händler ein in Artikel 4 Absatz 3 der Richtlinie
-2014/68/EU aufgeführtes Druckgerät oder eine dort aufgeführte
-Baugruppe auf dem Markt bereitstellt, hat er zu überprüfen, ob dem
-Druckgerät oder der Baugruppe eine geeignete Betriebsanleitung in
-deutscher Sprache beigefügt ist und ob der Hersteller die Pflichten
-nach § 6 Absatz 1 und 2 und der Einführer die Pflichten nach § 8
-Absatz 3 Satz 2 erfüllt hat.
+2014/68/EU in der Fassung vom 9. Oktober 2024 aufgeführtes Druckgerät
+oder eine dort aufgeführte Baugruppe auf dem Markt bereitstellt, hat
+er zu überprüfen, ob dem Druckgerät oder der Baugruppe eine geeignete
+Betriebsanleitung in deutscher Sprache beigefügt ist und ob der
+Hersteller die Pflichten nach § 6 Absatz 1 und 2 und der Einführer die
+Pflichten nach § 8 Absatz 3 Satz 2 erfüllt hat.
 
 (5) Hat der Händler Grund zu der Annahme, dass ein von ihm auf dem
 Markt bereitgestelltes Druckgerät oder eine von ihm auf dem Markt
@@ -479,25 +485,27 @@ können.
 
 ### § 12 Einstufung von Druckgeräten
 
-Die in Artikel 4 Absatz 1 der Richtlinie 2014/68/EU aufgeführten
-Druckgeräte sind vom Hersteller nach zunehmendem Gefahrenpotential in
-Kategorien einzustufen. Die Einstufung erfolgt nach Artikel 13 der
-Richtlinie 2014/68/EU.
+Die in Artikel 4 Absatz 1 der Richtlinie 2014/68/EU in der Fassung vom
+9\. Oktober 2024 aufgeführten Druckgeräte sind vom Hersteller nach
+zunehmendem Gefahrenpotential in Kategorien einzustufen. Die
+Einstufung erfolgt nach Artikel 13 der Richtlinie 2014/68/EU in der
+Fassung vom 9. Oktober 2024.
 
 
 ### § 13 Konformitätsbewertungsverfahren
 
-(1) Für die in Artikel 4 Absatz 1 der Richtlinie
-2014/68/EU              aufgeführten Druckgeräte sind die
+(1) Für die in Artikel 4 Absatz 1 der Richtlinie 2014/68/EU in der
+Fassung vom 9. Oktober 2024 aufgeführten Druckgeräte sind die
 Konformitätsbewertungsverfahren nach Artikel 14 Absatz 1 bis 5 in
-Verbindung mit Anhang III der Richtlinie
-2014/68/EU              entsprechend der Kategorie, in die sie nach §
-12 eingestuft worden sind, durchzuführen.
+Verbindung mit Anhang III der Richtlinie 2014/68/EU in der Fassung vom
+9\. Oktober 2024 entsprechend der Kategorie, in die sie nach § 12
+eingestuft worden sind, durchzuführen.
 
-(2) Für die in Artikel 4 Absatz 2 der Richtlinie
-2014/68/EU              aufgeführten Baugruppen ist das
+(2) Für die in Artikel 4 Absatz 2 der Richtlinie 2014/68/EU in der
+Fassung vom 9. Oktober 2024 aufgeführten Baugruppen ist das
 Konformitätsbewertungsverfahren nach Artikel 14 Absatz 6 in Verbindung
-mit Anhang III der Richtlinie 2014/68/EU durchzuführen.
+mit Anhang III der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober
+2024 durchzuführen.
 
 (3) Die Marktüberwachungsbehörden können in Einzelfällen gestatten,
 dass für Versuchszwecke einzelne Druckgeräte und Baugruppen auf dem
@@ -514,22 +522,24 @@ abzufassen.
 
 Für Werkstoffe, für die eine europäische Werkstoffzulassung gemäß § 2
 Satz 1 Nummer 4 beantragt wird, ist das Verfahren nach Artikel 15 der
-Richtlinie 2014/68/EU anzuwenden.
+Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024 anzuwenden.
 
 
 ### § 15 CE-Kennzeichnung
 
 (1) Die CE-Kennzeichnung ist nach § 7 Absatz 1 und 3 bis 5 des
 Produktsicherheitsgesetzes auf dem in Artikel 4 Absatz 1 und 2 der
-Richtlinie 2014/68/EU aufgeführten Druckgerät oder der dort
-aufgeführten Baugruppe oder auf dem jeweiligen Typenschild
-anzubringen. Falls die Art des Druckgeräts oder der Baugruppe dies
-nicht zulässt oder nicht rechtfertigt, ist die CE-Kennzeichnung auf
-der Verpackung und den Begleitunterlagen anzubringen.
+Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024 aufgeführten
+Druckgerät oder der dort aufgeführten Baugruppe oder auf dem
+jeweiligen Typenschild anzubringen. Falls die Art des Druckgeräts oder
+der Baugruppe dies nicht zulässt oder nicht rechtfertigt, ist die CE-
+Kennzeichnung auf der Verpackung und den Begleitunterlagen
+anzubringen.
 
 (2) Das Druckgerät oder die Baugruppe muss fertig hergestellt sein
 oder sich in einem Zustand befinden, der die Abnahme gemäß Anhang I
-Nummer 3.2 der Richtlinie 2014/68/EU ermöglicht.
+Nummer 3.2 der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober
+2024 ermöglicht.
 
 (3) Es ist nicht erforderlich, die CE-Kennzeichnung auf jedem
 einzelnen der Druckgeräte anzubringen, aus denen sich eine Baugruppe
@@ -537,8 +547,8 @@ zusammensetzt. Die einzelnen Druckgeräte, die bei ihrem Einbau in die
 Baugruppe bereits die CE-Kennzeichnung tragen, behalten diese
 Kennzeichnung.
 
-(4) Die in Artikel 4 Absatz 3 der Richtlinie
-2014/68/EU              aufgeführten Druckgeräte und Baugruppen sowie
+(4) Die in Artikel 4 Absatz 3 der Richtlinie 2014/68/EU in der Fassung
+vom 9. Oktober 2024 aufgeführten Druckgeräte und Baugruppen sowie
 Druckgeräte und Baugruppen, deren Konformität von einer
 Betreiberprüfstelle nach § 17 festgestellt wurde, dürfen nicht mit der
 CE-Kennzeichnung nach Absatz 1 versehen werden. Davon unberührt bleibt
@@ -560,7 +570,8 @@ Notifizierung von Konformitätsbewertungsstellen.
 
 (1) Die Notifizierung von Betreiberprüfstellen erfolgt nach den
 Vorschriften der §§ 12 und 14 bis 19 des Produktsicherheitsgesetzes
-sowie nach Artikel 25 der Richtlinie 2014/68/EU.
+sowie nach Artikel 25 der Richtlinie 2014/68/EU in der Fassung vom 9.
+Oktober 2024.
 
 (2) Die von einer Betreiberprüfstelle bewerteten Druckgeräte oder
 Baugruppen dürfen ausschließlich in den Betrieben der
@@ -574,11 +585,210 @@ Unternehmensgruppe, der sie angehören.
 
 (4) Für die Konformitätsbewertung durch Betreiberprüfstellen dürfen
 ausschließlich die Verfahren nach Anhang III Modul A2, C2, F und G der
-Richtlinie
-2014/68/EU              angewendet werden.
+Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024 angewendet
+werden.
 
 
-## Abschnitt 5 - Marktüberwachung
+## Abschnitt 5 - Notfallverfahren
+
+
+### § 17a Anwendung der Notfallverfahren
+
+(1) Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn
+
+1.  die Europäische Kommission nach Artikel 28 Absatz 1 Satz 1 der
+    Verordnung (EU) 2024/2747 einen Durchführungsrechtsakt in Bezug auf
+    Druckgeräte und Baugruppen erlassen hat, für die diese Verordnung
+    anzuwenden ist, und
+
+
+2.  diese Druckgeräte und Baugruppen nach Nummer 1 in der Liste
+    krisenrelevanter Waren nach Artikel 18 Absatz 4 Satz 1, auch in
+    Verbindung mit Satz 3, der Verordnung (EU) 2024/2747 enthalten sind.
+
+
+
+
+(2) Die Bestimmungen dieses Abschnitts sind nur anzuwenden, während
+der Notfallmodus für den Binnenmarkt nach Artikel 18 Absatz 4 Satz 1
+der Verordnung (EU) 2024/2747 aktiviert ist. § 17d Absatz 3 bleibt
+unberührt.
+
+
+### § 17b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Druckgeräten und Baugruppen
+
+(1) Die notifizierte Stelle soll die Anträge auf Konformitätsbewertung
+der Druckgeräte und Baugruppen, die in dem in § 17a Absatz 1 Nummer 1
+genannten Durchführungsrechtsakt aufgeführt sind und die den
+Konformitätsbewertungsverfahren nach § 13 unterliegen, vorrangig
+bearbeiten. Dies gilt unabhängig davon, ob ein Antrag vor oder nach
+der Aktivierung des Notfallmodus nach § 17a Absatz 2 Satz 1 gestellt
+wurde.
+
+(2) Dem antragstellenden Hersteller dürfen durch die Priorisierung von
+Anträgen auf Konformitätsbewertung nach Absatz 1 keine
+unverhältnismäßigen zusätzlichen Kosten entstehen.
+
+(3) Die notifizierten Stellen haben zumutbare Anstrengungen zu
+unternehmen, ihre Prüfkapazitäten für Druckgeräte und Baugruppen nach
+Absatz 1, für die sie notifiziert wurden, zu erhöhen.
+
+
+### § 17c Ausnahme von den Konformitätsbewertungsverfahren, bei denen die Einschaltung einer notifizierten Stelle vorgeschrieben ist
+
+(1) Abweichend von § 13 Absatz 1 kann die zuständige Behörde auf
+Antrag eines Wirtschaftsakteurs das Inverkehrbringen oder die
+Inbetriebnahme eines Druckgeräts oder einer Baugruppe, das oder die in
+einem in
+§ 17a              Absatz 1 Nummer 1 genannten Durchführungsrechtsakt
+aufgeführt ist, ohne Durchführung der in § 13 genannten
+Konformitätsbewertungsverfahren, bei denen die Einschaltung einer
+notifizierten Stelle vorgeschrieben ist, genehmigen. Die Genehmigung
+nach Satz 1 setzt voraus, dass die Erfüllung der wesentlichen
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/68/EU in
+der Fassung vom 9. Oktober 2024 nachgewiesen worden ist.
+
+(2) Jede nach Absatz 1 Satz 1 erteilte Genehmigung hat die Bedingungen
+und Anforderungen zu bestimmen, unter denen das Druckgerät oder die
+Baugruppe in den Verkehr gebracht oder in Betrieb genommen werden
+darf. Die Genehmigung hat insbesondere Folgendes zu bestimmen:
+
+1.  das Enddatum für die Gültigkeit der Genehmigung, das nicht über den
+    letzten Tag des Zeitraums hinausgehen darf, für den der Notfallmodus
+    für den Binnenmarkt gemäß Artikel 18 der Verordnung (EU) 2024/2747
+    aktiviert wurde,
+
+
+2.  Maßnahmen, die beim Auslaufen oder der Deaktivierung des Notfallmodus
+    für den Binnenmarkt in Bezug auf das betreffende Druckgerät oder die
+    betreffende Baugruppe zu ergreifen sind.
+
+
+
+
+(3) Die Begründung des Bescheids über die Genehmigung nach Absatz 1
+Satz 1 hat eine Beschreibung der Verfahren zu enthalten, mit denen die
+Einhaltung der geltenden wesentlichen Sicherheitsanforderungen nach
+Anhang I der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024
+erfolgreich nachgewiesen wurde. Die Genehmigung kann in Bezug auf die
+Rückverfolgbarkeit des betreffenden Druckgeräts oder der betreffenden
+Baugruppe und auf die Notwendigkeit einer fortlaufenden
+Konformitätsbewertung Anforderungen festlegen.
+
+(4) Die zuständige Behörde hat die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin unverzüglich über jede nach Absatz 1 Satz 1 erteilte
+Genehmigung zu informieren. Die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin hat die Informationen unverzüglich der Europäischen
+Kommission und den übrigen Mitgliedstaaten der Europäischen Union
+zuzuleiten.
+
+(5) Auf Verlangen der Europäischen Kommission hat die
+Marktüberwachungsbehörde Stellung zu der technischen Bewertung, die
+der in Absatz 1 Satz 1 erteilten Genehmigung zu Grunde lag, Stellung
+zu nehmen und sachdienliche Informationen bereitzustellen, die von der
+Europäischen Kommission zum Erlass eines Durchführungsrechtsakts nach
+Artikel 43c Absatz 2 Unterabsatz 1 der Richtlinie 2014/68/EU in der
+Fassung vom 9. Oktober 2024 benötigt werden.
+
+(6) Vor dem Inverkehrbringen hat der Wirtschaftsakteur auf
+Druckgeräten oder Baugruppen, für die eine Genehmigung erteilt wurde,
+die durch einen Durchführungsrechtsakt der Europäischen Kommission
+nach Artikel 43c Absatz 2 Unterabsatz 1 der Richtlinie 2014/68/EU in
+der Fassung vom 9. Oktober 2024 auf das Gebiet der gesamten
+Europäischen Union ausgedehnt wurde, den Hinweis, dass die Druckgeräte
+oder Baugruppen als „krisenrelevante Ware“ in den Verkehr gebracht
+oder in Betrieb genommen werden, gemäß Satz 2 anzubringen.
+Vorbehaltlich näherer oder abweichender Bestimmungen in dem
+betreffenden Durchführungsrechtsakt muss der Hinweis in deutscher
+Sprache abgefasst und klar, verständlich und leserlich sein.
+
+(7) Solange kein Durchführungsrechtsakt nach Artikel 43c Absatz 2
+Unterabsatz 1 der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober
+2024 erlassen wurde, kann die zuständige Behörde die Gültigkeit einer
+von einem anderen Mitgliedstaat der Europäischen Union erteilten
+Genehmigung anerkennen. Die zuständige Behörde hat die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin unverzüglich über die Anerkennung
+der Gültigkeit einer von einem anderen Mitgliedstaat der Europäischen
+Union erteilten Genehmigung zu informieren. Die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin hat die Informationen unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+(8) Der Hersteller von Druckgeräten oder Baugruppen, die dem in Absatz
+1 genannten Genehmigungsverfahren unterliegen, hat zu erklären, dass
+das betreffende Druckgerät oder die betreffende Baugruppe alle
+geltenden wesentlichen Sicherheitsanforderungen nach Anlage I der
+Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024 erfüllt. Der
+Hersteller ist für die Durchführung aller von der zuständigen Behörde
+vorgegebenen Konformitätsbewertungsverfahren verantwortlich.
+
+(9) Druckgeräte oder Baugruppen, für die eine Genehmigung nach Absatz
+1 Satz 1 erteilt wurde, dürfen nicht mit der CE-Kennzeichnung gemäß §
+7 des Produktsicherheitsgesetzes versehen werden.
+
+(10) Die Marktüberwachungsbehörde hat die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin unverzüglich über alle von ihr
+getroffenen Abhilfemaßnahmen und beschränkenden Maßnahmen zu
+informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+hat die Informationen der Marktüberwachungsbehörde unverzüglich der
+Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+
+### § 17d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen
+
+(1) Bei Druckgeräten oder Baugruppen, die den in einem
+Durchführungsrechtsakt nach Artikel 43d Absatz 1 der Richtlinie
+2014/68/EU in der Fassung vom 9. Oktober 2024 genannten Normen oder
+gemeinsamen Spezifikationen oder Teilen davon entsprechen, wird
+vermutet, dass sie die wesentlichen Sicherheitsanforderungen nach
+Anhang I der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024
+erfüllen, soweit diese von den betreffenden Normen oder gemeinsamen
+Spezifikationen oder Teilen davon abgedeckt sind.
+
+(2) Ab dem Tag, der auf das Auslaufen oder die Deaktivierung des
+Notfallmodus für den Binnenmarkt folgt, können sich Hersteller nicht
+mehr auf die Konformitätsvermutung nach Absatz 1 berufen.
+
+(3) In den Verkehr gebrachte oder in Betrieb genommene Druckgeräte
+oder Baugruppen, die mit den in Absatz 1 genannten Normen oder
+gemeinsamen Spezifikationen übereinstimmen, gelten auch nach dem
+Außerkrafttreten eines Durchführungsrechtsakts nach Absatz 1 oder nach
+dem Auslaufen oder der Deaktivierung des Notfallmodus für den
+Binnenmarkt als konform mit den wesentlichen Sicherheitsanforderungen
+nach Anhang I der Richtlinie 2014/68/EU in der Fassung vom 9. Oktober
+2024, sofern kein hinreichender Grund zu der Annahme besteht, dass
+diese ein Risiko für die Gesundheit oder Sicherheit von Menschen
+darstellen.
+
+
+### § 17e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden
+
+(1) Die Marktüberwachungsbehörde räumt Marktüberwachungstätigkeiten
+für Druckgeräte und Baugruppen, die in dem in § 17a Satz 1 Nummer 2
+genannten Durchführungsrechtsakt aufgeführt sind, Vorrang ein.
+
+(2) Die Marktüberwachungsbehörde hat alle erdenklichen Anstrengungen
+zu unternehmen, um die Marktüberwachungsbehörden der anderen
+Mitgliedstaaten der Europäischen Union während eines Notfallmodus für
+den Binnenmarkt zu unterstützen. Auf Ersuchen der
+Marktüberwachungsbehörde eines anderen Mitgliedstaats der Europäischen
+Union ist die Marktüberwachungsbehörde gehalten,
+
+1.  eigene fachkundige Beschäftigte zur vorübergehenden Verstärkung des
+    Personals der ersuchenden Marktüberwachungsbehörde zu entsenden oder
+
+
+2.  logistische Unterstützung zu leisten, insbesondere durch den Ausbau
+    der Prüfkapazitäten für jene Druckgeräte oder Baugruppen, die in dem
+    in § 17a Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführt
+    sind.
+
+
+
+
+
+## Abschnitt 6 - Marktüberwachung
 
 
 ### § 18 Korrekturmaßnahmen der Wirtschaftsakteure
@@ -656,19 +866,19 @@ darauf zurückzuführen ist, dass
 (4) Wird die Marktüberwachungsbehörde von der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem
 anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme
-nach Artikel 40 Absatz 4 der Richtlinie 2014/68/EU getroffen wurde,
-trifft die Marktüberwachungsbehörde, sofern sie dieser Maßnahme
-zustimmt, alle geeigneten vorläufigen Maßnahmen. Sie informiert die
-Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber sowie über
-alle weiteren ihr vorliegenden Informationen hinsichtlich der
-Nichtkonformität des Druckgeräts oder der Baugruppe. Sofern die
-Marktüberwachungsbehörde der von dem anderen Mitgliedstaat getroffenen
-vorläufigen Maßnahme nicht zustimmt, informiert sie die Bundesanstalt
-für Arbeitsschutz und Arbeitsmedizin innerhalb von zwei Monaten
-darüber und gibt ihre Einwände an. Die Bundesanstalt für Arbeitsschutz
-und Arbeitsmedizin leitet die Informationen nach den Sätzen 2 und 3
-unverzüglich der Europäischen Kommission und den übrigen
-Mitgliedstaaten der Europäischen Union zu.
+nach Artikel 40 Absatz 4 der Richtlinie 2014/68/EU in der Fassung vom
+9\. Oktober 2024 getroffen wurde, trifft die Marktüberwachungsbehörde,
+sofern sie dieser Maßnahme zustimmt, alle geeigneten vorläufigen
+Maßnahmen. Sie informiert die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden
+Informationen hinsichtlich der Nichtkonformität des Druckgeräts oder
+der Baugruppe. Sofern die Marktüberwachungsbehörde der von dem anderen
+Mitgliedstaat getroffenen vorläufigen Maßnahme nicht zustimmt,
+informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+innerhalb von zwei Monaten darüber und gibt ihre Einwände an. Die
+Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die
+Informationen nach den Sätzen 2 und 3 unverzüglich der Europäischen
+Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
 (5) Liegen der Marktüberwachungsbehörde innerhalb von drei Monaten
 nach einer Information gemäß Absatz 2 Satz 1 oder einer Information
@@ -729,8 +939,9 @@ die folgenden Fälle der Nichtkonformität zu korrigieren:
 
 
 3.  die Kennzeichnung und Etikettierung nach Anhang I Nummer 3.3 der
-    Richtlinie 2014/68/EU wurde nicht oder unter Verletzung von § 15 oder
-    Anhang I Nummer 3.3 der Richtlinie 2014/68/EU angebracht,
+    Richtlinie 2014/68/EU in der Fassung vom 9. Oktober 2024 wurde nicht
+    oder unter Verletzung von § 15 oder Anhang I Nummer 3.3 der Richtlinie
+    2014/68/EU in der Fassung vom 9. Oktober 2024 angebracht,
 
 
 4.  die EU-Konformitätserklärung wurde nicht oder nicht ordnungsgemäß
@@ -759,10 +970,10 @@ beschränken oder zu untersagen oder um dafür zu sorgen, dass sie
 zurückgerufen oder zurückgenommen werden.
 
 
-## Abschnitt 6 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+## Abschnitt 7 - Ordnungswidrigkeiten und Schlussbestimmungen
 
 
-### § 22 Straftaten und Ordnungswidrigkeiten
+### § 22 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -782,11 +993,15 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 4.  entgegen § 6 Absatz 2 Satz 1 oder § 8 Absatz 2 Satz 2 oder § 8 Absatz
     3 Satz 2 dort genannte Daten nicht, nicht richtig, nicht vollständig
-    oder nicht rechtzeitig anbringt oder
+    oder nicht rechtzeitig anbringt,
 
 
 5.  entgegen § 8 Absatz 2 Satz 1 oder Absatz 3 Satz 1 ein Druckgerät oder
-    eine Baugruppe in den Verkehr bringt.
+    eine Baugruppe in den Verkehr bringt oder
+
+
+6.  entgegen § 17c Absatz 6 Satz 1 einen Hinweis nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig anbringt.
 
 
 
@@ -815,18 +1030,13 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(3) Wer eine in Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
-wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
-Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
-gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
+(3) (weggefallen)
 
 
 ### § 23 Übergangsvorschriften
 
 (1) Druckgeräte und Baugruppen, die die Anforderungen der Richtlinie
-97/23/EG des Europäischen Parlaments und des Rates vom 29. Mai 1997
-zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über
-Druckgeräte (ABl. L 181 vom 9.7.1997, S. 1) erfüllen und bis zum 29.
+97/23/EG in der Fassung vom 25. Oktober 2012 erfüllen und bis zum 29.
 Mai 2002 in den Verkehr gebracht wurden, dürfen in Betrieb genommen
 werden.
 
