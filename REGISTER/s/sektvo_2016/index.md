@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 10.2.2026 I Nr. 40
 
+Änderung durch
+:   Art. 10 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/25/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
 Vergabe von Aufträgen durch Auftraggeber im Bereich der Wasser-,
