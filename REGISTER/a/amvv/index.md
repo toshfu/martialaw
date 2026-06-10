@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3632
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.10.2025 I Nr. 236
+:   Art. 1 V v. 19.5.2026 I Nr. 149
 
 
 ## § 1
@@ -503,6 +503,10 @@ bei Menschen -
 **Acetylsalicylsäure**
 – zur parenteralen Anwendung –
 **Aciclovir**
+– ausgenommen als Buccaltablette in Konzentrationen von 50 mg je
+abgeteilter Arzneiform zur Anwendung bei rezidivierendem Herpes
+labialis bei immunkompetenten Erwachsenen in Packungsgrößen bis zu 100
+mg –
 – ausgenommen in Zubereitungen als Creme zur Anwendung bei Herpes
 labialis in Packungsgrößen bis zu 2 g und einem Wirkstoffgehalt bis zu
 100 mg Aciclovir je abgeteilter Arzneiform –
@@ -522,6 +526,7 @@ Zubereitungen daraus sowie Aconitum-Alkaloide und deren Derivate**
 - ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung,
 die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen
 Arzneibuches hergestellt sind -
+**Acoramidis**              und seine Ester
 **Adapalen**
 **Adefovir**
 **Ademetionin**
@@ -683,6 +688,7 @@ Tagesdosis bis zu 1,5 g angegeben ist -
 **Atenolol**
 **Atipamezol**
 - zur Anwendung bei Tieren -
+**Atogepant**
 **Atomoxetin**
 **Atorvastatin**
 **Atosiban**
@@ -751,6 +757,7 @@ beschränkt ist –
 - ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung,
 die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen
 Arzneibuches hergestellt sind -
+**Belzutifan**              und seine Ester
 **Bemegrid**
 **Bemetizid**
 **Bemiparin**
@@ -1306,6 +1313,7 @@ zugelassene Arzneimittel –
 **Detajmiumbitartrat**
 **Detomidin**
 **Deucravacitinib**
+**Deutivacaftor**
 **Dexamethason**              und seine Ester
 – ausgenommen Dexamethasondihydrogenphosphat zur einmaligen
 parenteralen Anwendung in wässriger Lösung in Ampullen/Fertigspritzen
@@ -1450,6 +1458,7 @@ Trägersubstanz für (
 **Doravirin**
 **Doripenem**
 **Dornase alfa**
+**Dorocubicel**
 **Dorzolamid**
 **Dosulepin**
 **Doxapram**
@@ -1561,6 +1570,7 @@ anaphylaktischer Reaktionen beim Menschen nach Neuraltherapie bis zum
 Eintreffen des Rettungsdienstes –
 **Epirubicin**
 **Eplerenon**
+**Eplontersen**
 **Epoetin alfa, beta, delta, theta und zeta**
 **Epoetin alfa, beta, delta, theta und zeta**
 **Epoprostenol**              und seine Derivate
@@ -1656,6 +1666,7 @@ bei Tieren -
 **Etrasimod**              und seine Ester
 **Etravirin**
 **Etretinat**
+**Etuvetidigen autotemcel**
 **Etynodiol**              und seine Ester
 **Everolimus**
 **Exametazim**
@@ -1809,6 +1820,7 @@ Schleimhaut, außer zur Anwendung am Auge –
 **Fosaprepitant**
 **Foscarnet**
 - zur cutanen und parenteralen Anwendung -
+**Fosdenopterin**              und seine Ester
 **Fosfestrol**
 **Fosfomycin**
 **Fosinopril**
@@ -1853,6 +1865,7 @@ Arzneibuches hergestellt sind -
 Gewebezüchtungen**
 **Gilteritinib**
 **Gitoformat**
+**Givinostat**
 **Givosiran**
 **Glafenin**
 **Glasdegib**
@@ -2072,6 +2085,7 @@ symptomatische Behandlung leichter bis mäßig starker Schmerzen –
 **Imatinib**
 **Imepitoin**
 – zur Anwendung bei Tieren –
+**Imetelstat**
 **Imiclopazin**
 **Imidapril**
 **Imiglucerase**
@@ -2083,6 +2097,7 @@ symptomatische Behandlung leichter bis mäßig starker Schmerzen –
 **Impfstoffe**
 - zur Anwendung am oder im menschlichen Körper; die Vorschriften der
 Tierimpfstoff-Verordnung zur Verschreibungspflicht bleiben unberührt -
+**Inavolisib**
 **Inclisiran**
 **Indacaterol**
 **Indapamid**
@@ -2393,6 +2408,9 @@ hergestellt sind
 **Megestrol**
 **Melagatran**
 **Melatonin**
+– ausgenommen in Konzentrationen von 3 mg je abgeteilter Arzneiform,
+einer Tagesmaximaldosis von 3 mg und einer Packungsgröße bis zu 30 mg
+zur oralen Anwendung bei Jetlag bei Erwachsenen –
 **Melitracen**
 **Meloxicam**
 **Melperon**
@@ -2433,6 +2451,8 @@ hergestellt sind
 **Methandriol**              und seine Ester
 **Methantheliniumbromid**
 **Methazolamid**
+**Methenamin**
+– ausgenommen zum Aufbringen auf die Haut –
 **Methocarbamol**
 **Methohexital**
 **Methotrexat**
@@ -2496,6 +2516,7 @@ O             -Acyl-Derivate
 - ausgenommen zur topischen Anwendung bei androgenetischer Alopezie in
 einer Konzentration von bis zu 5% -
 **Mirabegron**              und seine Derivate
+**Mirdametinib**              und seine Ester
 **Mirtazapin**
 **Misoprostol**
 **Mitapivat**
@@ -2649,6 +2670,7 @@ maximalen Tagesdosis von 64 mg –
 **Niraparib**
 **Niridazol**
 **Nirmatrelvir**
+**Nirogacestat**
 **Nisoldipin**
 **Nitisinon**
 **Nitrendipin**
@@ -2695,6 +2717,7 @@ maximalen Tagesdosis von 64 mg –
 **Olaparib**
 **Oleander-Glykoside**
 **Oleandomycin**
+**Olezarsen**
 **Olipudase alfa**
 **Olmesartan**              und seine Ester
 **Olodaterol**
@@ -3247,6 +3270,7 @@ Arzneibuches hergestellt sind –
 **Repotrectinib**
 **Reproterol**
 **Reserpin**
+**Resmetirom**
 **Resocortol**              und seine Ester
 - zur Anwendung bei Tieren -
 **Resorantel**
@@ -3273,6 +3297,7 @@ Tagesdosis bis zu 50 000 I.E. -
 **Rilpivirin**
 **Riluzol**
 **Rimazolium**
+**Rimegepant**
 **Rimexolon**
 **Rimonabant**
 **Riociguat**
@@ -3343,11 +3368,13 @@ Stereoisomerengemische)
 **Scopolamin**
 **Scopoliawurzelstock**              und seine Zubereitungen
 **Sebelipase alfa**
+**Sebetralstat**
 **Secale-Alkaloide**
 **Secale cornutum**              und seine Zubereitungen
 **Secnidazol**
 **Secretin**
 - zur Anwendung als Diagnostikum -
+**Seladelpar**              und seine Ester
 **Selamectin**
 **Selegilin**
 **Selenverbindungen**
@@ -3360,6 +3387,7 @@ Tagesdosis bis zu 70 µg Selen -
 **Semaglutid**
 **Selpercatinib**              und seine Ester
 **Selumetinib**              und seine Ester
+**Sepiapterin**              und seine Ester
 **Sera und monoklonale Antikörper**
 - zur Anwendung am oder im menschlichen oder tierischen Körper -
 **Sermorelin**
@@ -3490,6 +3518,7 @@ von 100 mg je Packung –
 **Tedizolid**              und seine Ester
 **Teduglutid**
 **Tegafur**
+**Tegomilfumarat**
 **Teicoplanin**
 **Telaprevir**
 **Telavancin**
@@ -3735,6 +3764,7 @@ Notfallkontrazeption –
 **Vamorolon**              und seine Ester
 **Vancomycin**
 **Vandetanib**
+**Vanzacaftor**
 **Vardenafil**
 **Vareniclin**
 **Vasopressin**              und seine Analoga
@@ -3763,6 +3793,7 @@ Nieswurzel -
 **Vilanterol**
 **Vildagliptin**
 **Viloxazin**
+**Vimseltinib**
 **Vinblastin**
 **Vincamin**
 **Vincristin**
@@ -3777,6 +3808,7 @@ Nieswurzel -
 **Voclosporin**              und seine Ester
 **Volanesorsen**
 **Vorapaxar**
+**Vorasidenib**
 **Voriconazol**
 **Vortioxetin**
 **Vosoritid**
