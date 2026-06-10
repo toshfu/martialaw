@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 2021, 4728
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.7.2022 I 1039
+:   Art. 2 G v. 15.5.2026 I Nr. 148
 
+Stand: Die V tritt gem. § 9 idF d. Art. 2 G v. 15.5.2026 I Nr. 148 mit Ablauf des 30.11.2028 außer Kraft
 
 ## Eingangsformel
 
@@ -300,9 +301,9 @@ jederzeit gewährleisten, dass eine Datenweitergabe an den Nationalen
 Zugangspunkt auch in Echtzeit möglich ist.
 
 
-## § 9 Inkrafttreten
+## § 9 Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 30. November 2028 außer Kraft.
 
 
 ## Schlussformel
