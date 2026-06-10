@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1284
 
 Zuletzt geändert durch
-:   Art. 2 G v. 30.9.2025 I Nr. 231
+:   Art. 3 G v. 12.5.2026 I Nr. 137
 
 
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
