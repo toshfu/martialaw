@@ -122,19 +122,11 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 3.  EU-Konformitätserklärung: eine Erklärung gemäß Artikel 14 der
-    Richtlinie 2014/29/EU,
+    Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024,
 
 
 4.  harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2
-    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des
-    Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur
-    europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und
-    93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG,
-    97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG
-    des Europäischen Parlaments und des Rates und zur Aufhebung des
-    Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG
-    des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012,
-    S. 12),
+    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012,
 
 
 5.  Hersteller: jede natürliche oder juristische Person, die einen
@@ -145,7 +137,15 @@ Im Sinne dieser Verordnung ist oder sind
 
 6.  technische Spezifikation: ein Dokument, in dem die technischen
     Anforderungen vorgeschrieben sind, denen ein einfacher Druckbehälter
-    genügen muss.
+    genügen muss,
+
+
+7.  krisenrelevante Waren: krisenrelevante Waren im Sinne des Artikels 3
+    Nummer 6 der Verordnung (EU) 2024/2747,
+
+
+8.  Notfallmodus für den Binnenmarkt: der Notfallmodus für den Binnenmarkt
+    im Sinne des Artikels 3 Nummer 3 der Verordnung (EU) 2024/2747.
 
 
 
@@ -168,9 +168,9 @@ Bei einfachen Druckbehältern mit einem Druckinhaltsprodukt von mehr
 als 50 bar∙Liter, die harmonisierten Normen oder Teilen dieser Normen
 entsprechen, deren Fundstellen im Amtsblatt der Europäischen Union
 veröffentlicht worden sind, wird vermutet, dass sie die wesentlichen
-Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/29/EU
-erfüllen, soweit diese von den betreffenden Normen oder von Teilen
-dieser Normen abgedeckt sind.
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/29/EU in
+der Fassung vom 9. Oktober 2024 erfüllen, soweit diese von den
+betreffenden Normen oder von Teilen dieser Normen abgedeckt sind.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure, Konformitätsbewertungsverfahren
@@ -181,7 +181,8 @@ dieser Normen abgedeckt sind.
 (1) Der Hersteller stellt sicher, wenn er einfache Druckbehälter mit
 einem Druckinhaltsprodukt von mehr als 50 bar∙Liter in den Verkehr
 bringt, dass sie nach den wesentlichen Sicherheitsanforderungen nach
-Anhang I der Richtlinie 2014/29/EU entworfen und hergestellt wurden.
+Anhang I der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024
+entworfen und hergestellt wurden.
 
 (2) Der Hersteller stellt sicher, wenn er einfache Druckbehälter mit
 einem Druckinhaltsprodukt von nicht mehr als 50 bar∙Liter in den
@@ -194,16 +195,17 @@ bringen, wenn er das Konformitätsbewertungsverfahren nach § 12 Absatz
 1 durchgeführt hat oder hat durchführen lassen. Wurde mit dem
 Konformitätsbewertungsverfahren nachgewiesen, dass der einfache
 Druckbehälter die wesentlichen Sicherheitsanforderungen nach Anhang I
-der Richtlinie 2014/29/EU erfüllt, so stellt der Hersteller eine EU-
-Konformitätserklärung aus und bringt die CE-Kennzeichnung gemäß § 7
-des Produktsicherheitsgesetzes sowie die in Anhang III Nummer 1.1 und
-1\.2 der Richtlinie 2014/29/EU genannten Angaben an.
+der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024 erfüllt,
+so stellt der Hersteller eine EU-Konformitätserklärung aus und bringt
+die CE-Kennzeichnung gemäß § 7 des Produktsicherheitsgesetzes sowie
+die in Anhang III Nummer 1.1 und 1.2 der Richtlinie 2014/29/EU in der
+Fassung vom 9. Oktober 2024 genannten Angaben an.
 
 (4) Der Hersteller darf einen einfachen Druckbehälter mit einem
 Druckinhaltsprodukt von nicht mehr als 50 bar∙Liter nur in den Verkehr
 bringen, wenn er sichergestellt hat, dass der einfache Druckbehälter
-die in Anhang III Nummer 1.2 der Richtlinie 2014/29/EU genannten
-Angaben trägt.
+die in Anhang III Nummer 1.2 der Richtlinie 2014/29/EU in der Fassung
+vom 9. Oktober 2024 genannten Angaben trägt.
 
 (5) Der Hersteller muss die technischen Unterlagen und die EU-
 Konformitätserklärung ab dem Inverkehrbringen von einfachen
@@ -257,8 +259,8 @@ kann.
 
 (3) Der Hersteller hat dafür zu sorgen, dass den einfachen
 Druckbehältern die Betriebsanleitung und die Sicherheitsinformationen
-nach Anhang III Nummer 2 der Richtlinie 2014/29/EU in deutscher
-Sprache beigefügt sind.
+nach Anhang III Nummer 2 der Richtlinie 2014/29/EU in der Fassung vom
+9\. Oktober 2024 in deutscher Sprache beigefügt sind.
 
 (4) Alle Kennzeichnungen, die Betriebsanleitung und die
 Sicherheitsinformationen müssen klar, verständlich und deutlich sein.
@@ -345,7 +347,8 @@ Verkehr bringen, wenn er sichergestellt hat, dass
 
 
 2.  der einfache Druckbehälter die in Anhang III Nummer 1.2 der Richtlinie
-    2014/29/EU festgelegten Angaben trägt und
+    2014/29/EU in der Fassung vom 9. Oktober 2024 festgelegten Angaben
+    trägt und
 
 
 3.  der Hersteller die Pflichten nach § 6 Absatz 1 und 2 erfüllt hat.
@@ -363,18 +366,19 @@ Satz 2 und 3 ist entsprechend anzuwenden.
 (4) Hat der Einführer Grund zu der Annahme, dass ein einfacher
 Druckbehälter mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter
 nicht den wesentlichen Sicherheitsanforderungen nach Anhang I der
-Richtlinie 2014/29/EU entspricht, darf er diesen einfachen
-Druckbehälter erst in den Verkehr bringen, wenn die Konformität
-hergestellt ist. Ist mit dem einfachen Druckbehälter ein Risiko
-verbunden, so informiert der Einführer den Hersteller und die
-Marktüberwachungsbehörden darüber.
+Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024 entspricht,
+darf er diesen einfachen Druckbehälter erst in den Verkehr bringen,
+wenn die Konformität hergestellt ist. Ist mit dem einfachen
+Druckbehälter ein Risiko verbunden, so informiert der Einführer den
+Hersteller und die Marktüberwachungsbehörden darüber.
 
 (5) Solange sich ein einfacher Druckbehälter mit einem
 Druckinhaltsprodukt von mehr als 50 bar∙Liter im Verantwortungsbereich
 des Einführers befindet, ist dieser dafür verantwortlich, dass die
 Lagerungs- und Transportbedingungen die Übereinstimmung des einfachen
 Druckbehälters mit den wesentlichen Sicherheitsanforderungen nach
-Anhang I der Richtlinie 2014/29/EU nicht beeinträchtigen.
+Anhang I der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024
+nicht beeinträchtigen.
 
 (6) Der Einführer hat ab dem Inverkehrbringen eines einfachen
 Druckbehälters mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter
@@ -397,8 +401,8 @@ Druckinhaltsprodukt von mehr als 50 bar∙Liter auf dem Markt
 bereitstellt, hat er zu überprüfen, ob
 
 1.  der einfache Druckbehälter mit der CE-Kennzeichnung und den Angaben
-    gemäß Anhang III Nummer 1.1 und 1.2 der Richtlinie 2014/29/EU versehen
-    ist,
+    gemäß Anhang III Nummer 1.1 und 1.2 der Richtlinie 2014/29/EU in der
+    Fassung vom 9. Oktober 2024 versehen ist,
 
 
 2.  dem einfachen Druckbehälter die Betriebsanleitung und die
@@ -414,18 +418,20 @@ bereitstellt, hat er zu überprüfen, ob
 (3) Hat der Händler Grund zu der Annahme, dass ein einfacher
 Druckbehälter mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter
 nicht den wesentlichen Sicherheitsanforderungen nach Anhang I der
-Richtlinie 2014/29/EU entspricht, darf der Händler diesen einfachen
-Druckbehälter erst auf dem Markt bereitstellen, wenn die Konformität
-hergestellt ist. Ist mit dem einfachen Druckbehälter ein Risiko
-verbunden, so informiert der Händler außerdem den Hersteller oder den
-Einführer sowie die Marktüberwachungsbehörden darüber.
+Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024 entspricht,
+darf der Händler diesen einfachen Druckbehälter erst auf dem Markt
+bereitstellen, wenn die Konformität hergestellt ist. Ist mit dem
+einfachen Druckbehälter ein Risiko verbunden, so informiert der
+Händler außerdem den Hersteller oder den Einführer sowie die
+Marktüberwachungsbehörden darüber.
 
 (4) Bevor der Händler einen einfachen Druckbehälter mit einem
 Druckinhaltsprodukt von nicht mehr als 50 bar∙Liter auf dem Markt
 bereitstellt, hat er zu überprüfen, ob
 
 1.  der einfache Druckbehälter mit den Angaben gemäß Anhang III Nummer 1.2
-    der Richtlinie 2014/29/EU versehen ist,
+    der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024 versehen
+    ist,
 
 
 2.  dem einfachen Druckbehälter die Betriebsanleitung und die
@@ -496,15 +502,211 @@ der Abgabe des einfachen Druckbehälters vorlegen können.
 
 (1) Für einfache Druckbehälter mit einem Druckinhaltsprodukt von mehr
 als 50 bar∙Liter sind entsprechend den Vorgaben des Artikels 13 Absatz
-1 und 2 der Richtlinie 2014/29/EU die Konformitätsbewertungsverfahren
-durchzuführen.
+1 und 2 der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024
+die Konformitätsbewertungsverfahren durchzuführen.
 
 (2) Die Aufzeichnungen und der Schriftwechsel im Zusammenhang mit den
 Konformitätsbewertungsverfahren sind in deutscher Sprache oder in
 einer von der notifizierten Stelle anerkannten Sprache abzufassen.
 
 
-## Abschnitt 3 - Marktüberwachung
+## Abschnitt 3 - Notfallverfahren
+
+
+### § 12a Anwendung der Notfallverfahren
+
+(1) Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn
+
+1.  die Europäische Kommission nach Artikel 28 Absatz 1 Satz 1 der
+    Verordnung (EU) 2024/2747 einen Durchführungsrechtsakt in Bezug auf
+    einen Behälter erlassen hat, für den diese Verordnung anzuwenden ist,
+    und
+
+
+2.  der Behälter nach Nummer 1 in der Liste krisenrelevanter Waren nach
+    Artikel 18 Absatz 4 Satz 1, auch in Verbindung mit Satz 3, der
+    Verordnung (EU) 2024/2747 enthalten ist.
+
+
+
+
+(2) Die Bestimmungen dieses Abschnitts sind nur anzuwenden, während
+der Notfallmodus für den Binnenmarkt nach Artikel 18 Absatz 4 Satz 1
+der Verordnung (EU) 2024/2747 aktiviert ist. § 12d Absatz 3 bleibt
+unberührt.
+
+
+### § 12b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Behältern
+
+(1) Die notifizierte Stelle soll die Anträge auf Konformitätsbewertung
+der Behälter, die in dem in § 12a Absatz 1 Nummer 1 genannten
+Durchführungsrechtsakt aufgeführt sind und die den
+Konformitätsbewertungsverfahren nach § 12 unterliegen, vorrangig
+bearbeiten. Dies gilt unabhängig davon, ob ein Antrag vor oder nach
+der Aktivierung des Notfallmodus nach § 12a Absatz 2 Satz 1 gestellt
+wurde.
+
+(2) Dem antragstellenden Hersteller dürfen durch die Priorisierung von
+Anträgen auf Konformitätsbewertung nach Absatz 1 keine
+unverhältnismäßigen zusätzlichen Kosten entstehen.
+
+(3) Die notifizierten Stellen haben zumutbare Anstrengungen zu
+unternehmen, ihre Prüfkapazitäten für die Behälter nach Absatz 1 zu
+erhöhen, für die sie notifiziert wurden.
+
+
+### § 12c Ausnahme von den Konformitätsbewertungsverfahren, bei denen die Einschaltung einer notifizierten Stelle vorgeschrieben ist
+
+(1) Abweichend von § 12 Absatz 1 kann die zuständige Behörde auf
+Antrag eines Wirtschaftsakteurs genehmigen, dass ein in einem in § 12a
+Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführter
+Behälter ohne Durchführung der in § 12 genannten
+Konformitätsbewertungsverfahren in den Verkehr gebracht oder in
+Betrieb genommen wird. Die Genehmigung nach Satz 1 setzt voraus, dass
+die Erfüllung der wesentlichen Sicherheitsanforderungen nach Anhang I
+der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024
+nachgewiesen worden ist.
+
+(2) Jede nach Absatz 1 Satz 1 erteilte Genehmigung hat die Bedingungen
+und Anforderungen zu bestimmen, unter denen der Behälter in den
+Verkehr gebracht werden darf. Die Genehmigung hat insbesondere
+Folgendes zu bestimmen:
+
+1.  das Enddatum für die Gültigkeit der Genehmigung, das nicht über den
+    letzten Tag des Zeitraums hinausgehen darf, für den der Notfallmodus
+    für den Binnenmarkt gemäß Artikel 18 der Verordnung (EU) 2024/2747
+    aktiviert wurde,
+
+
+2.  Maßnahmen, die beim Auslaufen oder der Deaktivierung des Notfallmodus
+    für den Binnenmarkt in Bezug auf den betreffenden Behälter zu
+    ergreifen sind.
+
+
+
+
+(3) Die Begründung des Bescheids über die Genehmigung nach Absatz 1
+Satz 1 hat eine Beschreibung der Verfahren zu enthalten, mit denen die
+Einhaltung der geltenden wesentlichen Sicherheitsanforderungen der
+Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024 erfolgreich
+nachgewiesen wurde. Die Genehmigung kann in Bezug auf die
+Rückverfolgbarkeit des betreffenden Behälters und in Bezug auf die
+Notwendigkeit einer fortlaufenden Konformitätsbewertung Anforderungen
+festlegen.
+
+(4) Die zuständige Behörde hat die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin unverzüglich über jede nach Absatz 1 Satz 1 erteilte
+Genehmigung zu informieren. Die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin hat die Informationen unverzüglich der Europäischen
+Kommission und den übrigen Mitgliedstaaten der Europäischen Union
+zuzuleiten.
+
+(5) Auf Verlangen der Europäischen Kommission hat die
+Marktüberwachungsbehörde zu der technischen Bewertung, die der nach
+Absatz 1 Satz 1 erteilten Genehmigung zu Grunde lag, Stellung zu
+nehmen und sachdienliche Informationen bereitzustellen, die von der
+Europäischen Kommission zum Erlass eines Durchführungsrechtsakts nach
+Artikel 38c Absatz 2 Unterabsatz 1 der Richtlinie 2014/29/EU in der
+Fassung vom 9. Oktober 2024 benötigt werden.
+
+(6) Vor dem Inverkehrbringen hat der Wirtschaftsakteur auf einem
+Behälter, für den eine Genehmigung erteilt wurde, die durch einen
+Durchführungsrechtsakt der Europäischen Kommission nach Artikel 38c
+Absatz 2 Unterabsatz 1 der Richtlinie 2014/29/EU in der Fassung vom 9.
+Oktober 2024 auf das Gebiet der gesamten Europäischen Union ausgedehnt
+wurde, die Information, dass der Behälter als „krisenrelevante Ware“
+in den Verkehr gebracht wird, gemäß Satz 2 anzubringen. Vorbehaltlich
+näherer oder abweichender Bestimmungen in dem betreffenden
+Durchführungsrechtsakt muss der Hinweis in deutscher Sprache abgefasst
+und klar, verständlich und leserlich sein.
+
+(7) Solange kein Durchführungsrechtsakt nach Artikel 38c Absatz 2
+Unterabsatz 1 der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober
+2024 erlassen wurde, kann die zuständige Behörde die Gültigkeit einer
+von einem anderen Mitgliedstaat der Europäischen Union erteilten
+Genehmigung anerkennen. Die zuständige Behörde hat die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin unverzüglich über die Anerkennung
+der Gültigkeit einer von einem anderen Mitgliedstaat der Europäischen
+Union erteilten Genehmigung zu informieren. Die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin hat die Informationen unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+(8) Der Hersteller eines Behälters, der dem in Absatz 1 genannten
+Genehmigungsverfahren unterliegt, hat zu erklären, dass der
+betreffende Behälter alle geltenden wesentlichen
+Sicherheitsanforderungen gemäß Anhang I der Richtlinie 2014/29/EU in
+der Fassung vom 9. Oktober 2024 erfüllt. Der Hersteller ist für die
+Durchführung aller von der zuständigen Behörde vorgegebenen
+Konformitätsbewertungsverfahren verantwortlich.
+
+(9) Ein Behälter, für den eine Genehmigung nach Absatz 1 Satz 1
+erteilt wurde, darf nicht mit der CE-Kennzeichnung gemäß § 7 des
+Produktsicherheitsgesetzes und den Aufschriften nach Anhang III Nummer
+1 der Richtlinie 2014/29/EU in der Fassung vom 9. Oktober 2024
+versehen werden.
+
+(10) Die Marktüberwachungsbehörde hat die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin unverzüglich über alle von ihr
+getroffenen Abhilfemaßnahmen und beschränkenden Maßnahmen zu
+informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+hat die Informationen der Marktüberwachungsbehörde unverzüglich der
+Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+
+### § 12d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen
+
+(1) Bei einem Behälter, der den in einem Durchführungsrechtsakt nach
+Artikel 38d Absatz 1 der Richtlinie 2014/29/EU in der Fassung vom 9.
+Oktober 2024 genannten Normen oder gemeinsamen Spezifikationen oder
+Teilen davon entspricht, wird vermutet, dass er die wesentlichen
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/29/EU in
+der Fassung vom 9. Oktober 2024 erfüllt, soweit diese von den
+betreffenden Normen oder gemeinsamen Spezifikationen oder Teilen davon
+abgedeckt sind.
+
+(2) Ab dem Tag, der auf das Auslaufen oder die Deaktivierung des
+Notfallmodus für den Binnenmarkt folgt, können sich Hersteller nicht
+mehr auf die Konformitätsvermutung nach Absatz 1 berufen.
+
+(3) Ein in den Verkehr gebrachter Behälter, der mit den in Absatz 1
+genannten Normen oder gemeinsamen Spezifikationen übereinstimmt, gilt
+auch nach dem Außerkrafttreten eines Durchführungsrechtsakts nach
+Absatz 1 oder nach dem Auslaufen oder der Deaktivierung des
+Notfallmodus für den Binnenmarkt als konform mit den wesentlichen
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/29/EU in
+der Fassung vom 9. Oktober 2024, sofern kein hinreichender Grund zu
+der Annahme besteht, dass er ein Risiko für die Gesundheit oder
+Sicherheit von Menschen darstellt.
+
+
+### § 12e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden
+
+(1) Die Marktüberwachungsbehörde hat Marktüberwachungstätigkeiten für
+Behälter, die in dem in § 12a Absatz 1 Nummer 2 genannten
+Durchführungsrechtsakt aufgeführt sind, Vorrang einzuräumen.
+
+(2) Die Marktüberwachungsbehörde hat alle erdenklichen Anstrengungen
+zu unternehmen, um die Marktüberwachungsbehörden der anderen
+Mitgliedstaaten der Europäischen Union während eines Notfallmodus für
+den Binnenmarkt zu unterstützen. Auf Ersuchen der
+Marktüberwachungsbehörde eines anderen Mitgliedstaats der Europäischen
+Union ist die Marktüberwachungsbehörde gehalten,
+
+1.  eigene fachkundige Beschäftigte zur vorübergehenden Verstärkung des
+    Personals der ersuchenden Marktüberwachungsbehörde zu entsenden oder
+
+
+2.  logistische Unterstützung zu leisten, insbesondere durch den Ausbau
+    der Prüfkapazitäten für jene Behälter, die in dem in § 12a Absatz 1
+    Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind.
+
+
+
+
+
+## Abschnitt 4 - Marktüberwachung
 
 
 ### § 13 Korrekturmaßnahmen der Wirtschaftsakteure
@@ -588,14 +790,14 @@ darauf zurückzuführen ist, dass
 (4) Wird die Marktüberwachungsbehörde von der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem
 anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme
-nach Artikel 35 Absatz 4 der Richtlinie 2014/29/EU getroffen wurde,
-trifft die Marktüberwachungsbehörde, sofern sie diese Maßnahme für
-gerechtfertigt hält, alle geeigneten vorläufigen Maßnahmen nach Absatz
-1\. Sie informiert die Bundesanstalt für Arbeitsschutz und
-Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden
-Informationen hinsichtlich der Nichtkonformität des einfachen
-Druckbehälters. Sofern die Marktüberwachungsbehörde die von dem
-anderen Mitgliedstaat getroffene vorläufige Maßnahme nicht für
+nach Artikel 35 Absatz 4 der Richtlinie 2014/29/EU in der Fassung vom
+9\. Oktober 2024 getroffen wurde, trifft die Marktüberwachungsbehörde,
+sofern sie diese Maßnahme für gerechtfertigt hält, alle geeigneten
+vorläufigen Maßnahmen nach Absatz 1. Sie informiert die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin darüber sowie über alle weiteren
+ihr vorliegenden Informationen hinsichtlich der Nichtkonformität des
+einfachen Druckbehälters. Sofern die Marktüberwachungsbehörde die von
+dem anderen Mitgliedstaat getroffene vorläufige Maßnahme nicht für
 gerechtfertigt hält, informiert sie die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin innerhalb von zwei Monaten darüber
 und gibt ihre Einwände an. Die Bundesanstalt für Arbeitsschutz und
@@ -658,9 +860,10 @@ die folgenden Fälle der Nichtkonformität zu korrigieren:
     Verletzung von § 7 Absatz 4 des Produktsicherheitsgesetzes angebracht,
 
 
-3.  die Angaben nach Anhang III Nummer 1 der Richtlinie 2014/29/EU wurden
-    nicht oder unter Verletzung von Anhang III Nummer 1 der Richtlinie
-    2014/29/EU angebracht,
+3.  die Angaben nach Anhang III Nummer 1 der Richtlinie 2014/29/EU in der
+    Fassung vom 9. Oktober 2024 wurden nicht oder unter Verletzung von
+    Anhang III Nummer 1 der Richtlinie 2014/29/EU in der Fassung vom 9.
+    Oktober 2024 angebracht,
 
 
 4.  die EU-Konformitätserklärung wurde nicht oder nicht ordnungsgemäß
@@ -690,7 +893,7 @@ oder sorgt dafür, dass der einfache Druckbehälter zurückgerufen oder
 zurückgenommen wird.
 
 
-## Abschnitt 4 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+## Abschnitt 5 - Ordnungswidrigkeiten und Schlussbestimmungen
 
 
 ### § 17 Ordnungswidrigkeiten
@@ -713,11 +916,15 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 4.  entgegen § 6 Absatz 3 nicht dafür sorgt, dass dem einfachen
     Druckbehälter die Betriebsanleitung und die Sicherheitsinformationen
-    beigefügt sind, oder
+    beigefügt sind,
 
 
 5.  entgegen § 8 Absatz 2 Satz 1 oder Absatz 3 Satz 1 Nummer 2 oder Nummer
-    3 einen einfachen Druckbehälter in den Verkehr bringt.
+    3 einen einfachen Druckbehälter in den Verkehr bringt oder
+
+
+6.  entgegen § 12c Absatz 6 Satz 1 eine Information nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig anbringt.
 
 
 
@@ -745,22 +952,17 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-### § 18 Straftaten
+### § 18 (weggefallen)
 
-Wer eine in § 17 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
-wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
-Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
-gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 19 Übergangsvorschriften
 
 (1) Einfache Druckbehälter, die die Anforderungen der Richtlinie
-2009/105/EG des Europäischen Parlaments und des Rates vom 16.
-September 2009 über einfache Druckbehälter (ABl. L 264 vom 8.10.2009,
-S. 12), die durch die Richtlinie 2014/29/EU aufgehoben worden ist,
-erfüllen und vor dem 20. April 2016 in den Verkehr gebracht wurden,
-dürfen auf dem Markt bereitgestellt und in Betrieb genommen werden.
+2009/105/EG in der Fassung vom 25. Oktober 2012, die durch die
+Richtlinie 2014/29/EU aufgehoben worden ist, erfüllen und vor dem 20.
+April 2016 in den Verkehr gebracht wurden, dürfen auf dem Markt
+bereitgestellt und in Betrieb genommen werden.
 
 (2) Bescheinigungen, die von notifizierten Stellen gemäß der
 Richtlinie 2009/105/EG ausgestellt worden sind, bleiben im Rahmen der
