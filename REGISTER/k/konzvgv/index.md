@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 17.8.2023 I Nr. 222
 
+Änderung durch
+:   Art. 11 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/23/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
 Konzessionsvergabe (ABl. L 94 vom 28.3.2014, S. 1).
