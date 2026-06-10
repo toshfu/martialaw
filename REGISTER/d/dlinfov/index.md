@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 267
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 V v. 12.11.2021 I 4921
+:   Art. 3 G v. 12.5.2026 I Nr. 138
 
 [^F1_772974_BJNR026700010]:     Diese Verordnung dient der Umsetzung der Richtlinie 2006/123/EG des
     Europäischen Parlaments und des Rates vom 12. Dezember 2006 über
