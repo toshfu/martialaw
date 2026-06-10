@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2768
 
 Zuletzt geändert durch
-:   Art. 1 V v. 12.7.2019 I 1082
+:   Art. 1 V v. 11.5.2026 I Nr. 136
 
 
 ## § 1 Ziel und Anwendungsbereich
@@ -530,8 +530,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     h)  Tätigkeiten mit Exposition gegenüber Blei und anorganischen
-        Bleiverbindungen bei Überschreitung einer Luftkonzentration von 0,075
-        Milligramm pro Kubikmeter,
+        Bleiverbindungen bei Überschreitung einer Luftkonzentration von 15
+        Mikrogramm pro Kubikmeter,
 
 
     i)  Tätigkeiten mit Hochtemperaturwollen, soweit dabei als krebserzeugend
@@ -604,8 +604,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     i)  Tätigkeiten mit Exposition gegenüber Blei und anorganischen
-        Bleiverbindungen bei Einhaltung einer Luftkonzentration von 0,075
-        Milligramm pro Kubikmeter,
+        Bleiverbindungen bei Einhaltung einer Luftkonzentration von 15
+        Mikrogramm pro Kubikmeter, insbesondere für weibliche Beschäftigte im
+        gebärfähigen Alter, für die der Arbeitgeber keine Pflichtvorsorge nach
+        Absatz 1 Nummer 2 Buchstabe h zu veranlassen hat,
 
 
     j)  Tätigkeiten mit Exposition gegenüber Mehlstaub bei Einhaltung einer
