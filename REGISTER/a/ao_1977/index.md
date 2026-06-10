@@ -27,6 +27,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 3 G v. 16.4.2026 I Nr. 106 ist berücksichtigt
 
+Änderung durch
+:   Art. 15 G v. 20.5.2026 I Nr. 152 ist berücksichtigt
+
 
 ## Erster Teil - Einleitende Vorschriften
 
