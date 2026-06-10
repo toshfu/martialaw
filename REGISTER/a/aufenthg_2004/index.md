@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 11 Abs. 4 G v. 16.4.2026 I Nr. 107
-
-Änderung durch
-:   Art. 2 G v. 23.4.2026 I Nr. 111 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 23.4.2026 I Nr. 111
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -378,11 +375,10 @@ c)  der begründete Verdacht vorliegt, dass sich der Ausländer der
 Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die
 Anordnung der Überstellungshaft vorzuführen. Auf das Verfahren auf
 Anordnung von Haft zur Überstellung nach der Verordnung (EU) Nr.
-604/2013 finden § 62d sowie die Vorschriften des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend Anwendung, soweit das
-Verfahren in der Verordnung (EU) Nr. 604/2013 nicht abweichend
-geregelt ist.
+604/2013 finden die Vorschriften des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit entsprechend Anwendung, soweit das Verfahren in der
+Verordnung (EU) Nr. 604/2013 nicht abweichend geregelt ist.
 
 
 ## Kapitel 2 - Einreise und Aufenthalt im Bundesgebiet
@@ -9091,13 +9087,8 @@ Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die
 Anordnung der Haft nach Absatz 1 vorzuführen.
 
 
-#### § 62d Bestellung eines anwaltlichen Vertreters
+#### § 62d (weggefallen)
 
-Zur richterlichen Entscheidung über die Anordnung von Abschiebungshaft
-nach § 62 und Ausreisegewahrsam nach § 62b bestellt das Gericht dem
-Betroffenen, der noch keinen anwaltlichen Vertreter hat, von Amts
-wegen für die Dauer des Verfahrens einen anwaltlichen Vertreter als
-Bevollmächtigten.
 
 
 ## Kapitel 6 - Haftung und Gebühren
