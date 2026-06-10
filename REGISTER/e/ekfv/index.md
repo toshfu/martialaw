@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 756
 
 Zuletzt geändert durch
-:   Art. 3 V v. 10.6.2024 I Nr. 191
-
-Änderung durch
-:   Art. 1 V v. 30.1.2026 I Nr. 32 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 30.1.2026 I Nr. 32 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 30.1.2026 I Nr. 32
 
 [^F807515_01_BJNR075610019]:     Notifiziert gemäß Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
