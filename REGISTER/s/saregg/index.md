@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 16a Abs. 1 G v. 28.4.2020 I 960
 
+Änderung durch
+:   Art. 2 Abs. 6 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Samenspenderregister
 
@@ -154,7 +157,7 @@ Absatz 3 Satz 2 widerrufen hat.
 
 (1) Die Entnahmeeinrichtung darf Samen zur heterologen Verwendung nur
 an eine Einrichtung der medizinischen Versorgung im Sinne des § 1a
-Nummer 9 des Transplantationsgesetzes (Einrichtung der medizinischen
+Nummer 13 des Transplantationsgesetzes (Einrichtung der medizinischen
 Versorgung) und nur abgeben, wenn die Voraussetzung nach § 2 Absatz 1
 Satz 2 erfüllt ist.
 
