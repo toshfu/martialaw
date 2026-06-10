@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 21.11.2023 I Nr. 315
 
+Änderung durch
+:   Art. 3 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
