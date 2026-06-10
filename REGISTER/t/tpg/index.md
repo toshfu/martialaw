@@ -19,10 +19,10 @@ Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206;
 
 Zuletzt geändert durch
-:   Art. 8b G v. 22.3.2024 I Nr. 101
+:   Art. 7a G v. 9.4.2026 I Nr. 98
 
 Änderung durch
-:   Art. 7a G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -36,14 +36,18 @@ beschlossen:
 
 ### § 1 Ziel und Anwendungsbereich des Gesetzes
 
-(1) Ziel des Gesetzes ist es, die Bereitschaft zur Organspende in
-Deutschland zu fördern. Hierzu soll jede Bürgerin und jeder Bürger
-regelmäßig im Leben in die Lage versetzt werden, sich mit der Frage
-seiner eigenen Spendebereitschaft ernsthaft zu befassen und
-aufgefordert werden, die jeweilige Erklärung auch zu dokumentieren. Um
-eine informierte und unabhängige Entscheidung jedes Einzelnen zu
-ermöglichen, sieht dieses Gesetz eine breite Aufklärung der
-Bevölkerung zu den Möglichkeiten der Organ- und Gewebespende vor.
+(1) Ziel des Gesetzes ist es, die Bereitschaft zur Organ- und
+Gewebespende in Deutschland zu fördern. Hierzu soll jede Bürgerin und
+jeder Bürger regelmäßig im Leben in die Lage versetzt werden, sich mit
+der Frage der eigenen Bereitschaft zu einer Organ- oder Gewebespende
+nach dem Tod ernsthaft zu befassen, und aufgefordert werden, die
+jeweilige Erklärung auch zu dokumentieren. Um eine informierte und
+unabhängige Entscheidung jedes Einzelnen zu ermöglichen, sieht dieses
+Gesetz eine breite Aufklärung der Bevölkerung zu den Möglichkeiten der
+Organ- und Gewebespende nach dem Tod vor. Daneben verfolgt das Gesetz
+das Ziel, die Voraussetzungen für eine Organ- und Gewebespende einer
+lebenden Person unter Wahrung eines hohen Schutzniveaus für diese
+Person zu schaffen.
 
 (2) Dieses Gesetz gilt für die Spende und die Entnahme von
 menschlichen Organen oder Geweben zum Zwecke der Übertragung sowie für
@@ -125,23 +129,60 @@ Im Sinne dieses Gesetzes
     außerhalb des Körpers;
 
 
-8.  ist Gewebeeinrichtung eine Einrichtung, die Gewebe zum Zwecke der
+8.  ist Organspendepaar ein Paar von zwei lebenden Personen, die
+    zueinander in einem nach § 8 Absatz 1 Satz 2 genannten Verhältnis
+    stehen und von denen eine Person als Spender bereit ist, der anderen
+    Person als Empfänger ein Organ zu spenden;
+
+
+9.  ist inkompatibles Organspendepaar ein Organspendepaar, bei dem
+    medizinische Gründe einer Übertragung eines Organs des Spenders auf
+    den Empfänger entgegenstehen;
+
+
+10. ist Überkreuzlebendnierenspende die Entnahme von Nieren und ihre
+    Übertragung, bei der
+
+    a)  jedem Spender eines beteiligten inkompatiblen Organspendepaars eine
+        Niere entnommen wird, um sie auf einen Empfänger eines jeweils anderen
+        beteiligten inkompatiblen Organspendepaars oder auf einen in die
+        Warteliste aufgenommenen Patienten zu übertragen, und
+
+
+    b)  jedem Empfänger eines beteiligten inkompatiblen Organspendepaars eine
+        Niere eines Spenders eines jeweils anderen beteiligten inkompatiblen
+        Organspendepaars oder eine Niere aus einer nicht gerichteten anonymen
+        Nierenspende übertragen wird;
+
+
+
+
+
+11. ist nicht gerichtete anonyme Nierenspende die Entnahme einer Niere bei
+    einem lebenden Spender zum Zweck der Übertragung auf einen dem Spender
+    nicht bekannten Empfänger eines inkompatiblen Organspendepaars im
+    Rahmen einer Überkreuzlebendnierenspende oder zum Zweck der
+    Übertragung auf einen dem Spender nicht bekannten in die Warteliste
+    aufgenommenen Patienten;
+
+
+12. ist Gewebeeinrichtung eine Einrichtung, die Gewebe zum Zwecke der
     Übertragung entnimmt, untersucht, aufbereitet, be- oder verarbeitet,
     konserviert, kennzeichnet, verpackt, aufbewahrt oder an andere abgibt;
 
 
-9.  ist Einrichtung der medizinischen Versorgung ein Krankenhaus oder eine
+13. ist Einrichtung der medizinischen Versorgung ein Krankenhaus oder eine
     andere Einrichtung mit unmittelbarer Patientenbetreuung, die fachlich-
     medizinisch unter ständiger ärztlicher Leitung steht und in der
     ärztliche medizinische Leistungen erbracht werden;
 
 
-10. sind Verfahrensanweisungen schriftliche Anweisungen, die die Schritte
+14. sind Verfahrensanweisungen schriftliche Anweisungen, die die Schritte
     eines spezifischen Verfahrens beschreiben, einschließlich der zu
     verwendenden Materialien und Methoden und des erwarteten Ergebnisses;
 
 
-11. ist Rückverfolgbarkeit die Möglichkeit, das Organ in jeder Phase von
+15. ist Rückverfolgbarkeit die Möglichkeit, das Organ in jeder Phase von
     der Spende bis zur Übertragung oder Verwerfung zu verfolgen und zu
     identifizieren; dies umfasst auch die Möglichkeit, den Spender, das
     Entnahmekrankenhaus und den Empfänger im Transplantationszentrum zu
@@ -201,16 +242,8 @@ Personalausweisen, Pässen oder Passersatzpapieren sowie von eID-Karten
 händigen die in Satz 6 genannten Stellen dem Antragsteller die in Satz
 6 genannten Unterlagen aus und weisen auf weitere Informations- und
 Beratungsmöglichkeiten sowie die Möglichkeit, eine Erklärung zur
-Organ- und Gewebespende im Register abzugeben, hin. Ist eine
-elektronische Antragstellung der in Satz 6 genannten Dokumente nach
-anderen Rechtsvorschriften zugelassen und werden sie elektronisch
-beantragt, sind die Unterlagen dem Antragstellenden zu übermitteln.
-Die für die Ausstellung und die Ausgabe von Personalausweisen, Pässen
-oder Passersatzpapieren sowie von eID-Karten zuständigen Stellen des
-Bundes und der Länder stellen sicher, dass die Abgabe einer Erklärung
-zur Organ- und Gewebespende vor Ort erfolgen kann. Satz 9 gilt nicht
-für die Passstellen der deutschen Auslandsvertretungen. Bund und
-Länder stellen sicher, dass den Ausländerbehörden mehrsprachige
+Organ- und Gewebespende im Register abzugeben, hin. Bund und Länder
+stellen sicher, dass den Ausländerbehörden mehrsprachige
 Organspendeausweise und den in den Sätzen 1 bis 4 genannten
 Anforderungen entsprechende mehrsprachige Aufklärungsunterlagen von
 der Bundeszentrale für gesundheitliche Aufklärung zur Verfügung
@@ -264,27 +297,20 @@ gleichwertigen Leistungen gegenüber anderen Leistungen des
 Gebührenverzeichnisses für ärztliche Leistungen nicht gelten.
 
 (1c) Die Krankenkassen haben, unbeschadet ihrer Pflichten nach Absatz
-1, die in Absatz 1 Satz 3 genannten Unterlagen ihren Versicherten, die
+1, die in Absatz 1 Satz 5 genannten Unterlagen ihren Versicherten, die
 das 16. Lebensjahr vollendet haben, zur Verfügung zu stellen, wenn
-ihnen die elektronische Gesundheitskarte nach § 291 Absatz 1 des
+ihnen die elektronische Gesundheitskarte nach § 291 Absatz 1 des
 Fünften Buches Sozialgesetzbuch ausgestellt wird. Die privaten
-Krankenversicherungsunternehmen haben die in Absatz 1 Satz 3 genannten
+Krankenversicherungsunternehmen haben die in Absatz 1 Satz 5 genannten
 Unterlagen ihren Versicherten, die das 16. Lebensjahr vollendet haben,
-alle fünf Jahre zusammen mit der Beitragsmitteilung nach § 10 Absatz
-2a Satz 9 des Einkommensteuergesetzes zur Verfügung zu stellen. Ist
-den Krankenkassen und den privaten Krankenversicherungsunternehmen ein
-erstmaliges Erfüllen der Verpflichtungen nach den Sätzen 1 und 2
-innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes nicht
-möglich, haben sie die Unterlagen nach Absatz 1 Satz 3 ihren
-Versicherten innerhalb des vorgenannten Zeitraums in anderer
-geeigneter Weise zur Verfügung zu stellen. Mit der
-Zurverfügungstellung der Unterlagen fordern die Krankenkassen und die
-privaten Krankenversicherungsunternehmen die Versicherten auf, eine
-Erklärung zur Organ- und Gewebespende zu dokumentieren und benennen
-ihnen gegenüber fachlich qualifizierte Ansprechpartner für Fragen zur
-Organ- und Gewebespende sowie zur Bedeutung einer zu Lebzeiten
-abgegebenen Erklärung zur Organ- und Gewebespende, auch im Verhältnis
-zu einer Patientenverfügung.
+alle fünf Jahre zur Verfügung zu stellen. Mit der Zurverfügungstellung
+der Unterlagen fordern die Krankenkassen und die privaten
+Krankenversicherungsunternehmen die Versicherten auf, eine Erklärung
+zur Organ- und Gewebespende zu dokumentieren, und benennen ihnen
+gegenüber fachlich qualifizierte Ansprechpartner für Fragen zur Organ-
+und Gewebespende sowie zur Bedeutung einer zu Lebzeiten abgegebenen
+Erklärung zur Organ- und Gewebespende, auch im Verhältnis zu einer
+Patientenverfügung.
 
 (1d) Die Aufklärungsunterlagen der Bundeszentrale für gesundheitliche
 Aufklärung sowie ihre sonstigen Informationsangebote zur Organ- und
@@ -324,7 +350,7 @@ Gewebespendeausweis festlegen und im Bundesanzeiger bekannt machen.
 (4a) (weggefallen)
 
 
-### § 2a Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung
+### § 2a Register für Erklärungen zur Organ- und Gewebespende
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte richtet
 ein Register für Erklärungen zur Organ- und Gewebespende ein und führt
@@ -338,45 +364,49 @@ nach Absatz 4 auf Anfrage Auskunft über die im Register gespeicherten
 Erklärungen zur Organ- und Gewebespende. Die im Register gespeicherten
 personenbezogenen Daten dürfen nur zum Zweck der Feststellung
 verwendet werden, ob bei derjenigen Person, die die Erklärung
-abgegeben hat, eine Organ- oder Gewebeentnahme nach § 3 oder § 4
-zulässig ist und nur zu diesem Zweck nach Absatz 3 oder Absatz 4
+abgegeben hat, eine Organ- oder Gewebeentnahme nach den §§ 3 oder 4
+zulässig ist, und nur zu diesem Zweck nach den Absätzen 4, 5 oder 7
 übermittelt werden. Das Bundesinstitut für Arzneimittel und
 Medizinprodukte darf die im Register gespeicherten personenbezogenen
 Daten zudem zum Zweck der Erstellung eines Jahresberichts verwenden.
 In dem Jahresbericht sind die im Register dokumentierten Erklärungen
 zur Organ- und Gewebespende, ihre Änderungen und Widerrufe in
-anonymisierter Form nach Anzahl, Geschlecht, Geburtsjahr und
-Bundesland, in dem die erklärende Person ihren Wohnsitz hat,
-auszuwerten. Der Jahresbericht ist jährlich bis zum 30. Juni zu
-veröffentlichen.
+anonymisierter Form nach Anzahl, Geburtsjahr und Bundesland, in dem
+die erklärende Person ihren Wohnsitz hat, auszuwerten. Der
+Jahresbericht ist jährlich bis zum 30. Juni zu veröffentlichen.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat im
 Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik
 sichere Authentifizierungsverfahren für die Abgabe, Änderung und den
-Widerruf von Erklärungen zur Organ- und Gewebespende und für den Abruf
-von Erklärungen zur Organ- und Gewebespende nach Absatz 5 festzulegen.
-Dabei ist sicherzustellen, dass sowohl die Erklärung zur Organ- und
-Gewebespende, deren Änderung und Widerruf als auch deren Abruf
-jederzeit online durch die Person, die die Erklärung zur Organ- und
-Gewebespende abgegeben hat, und durch den Arzt oder
-Transplantationsbeauftragten, der von einem Krankenhaus dem
-Bundesinstitut für Arzneimittel und Medizinprodukte als
-auskunftsberechtigt benannt wurde, erfolgen kann. Das Bundesinstitut
-für Arzneimittel und Medizinprodukte hat die erforderlichen
-räumlichen, technischen und organisatorischen Maßnahmen zu treffen,
-damit die im Register gespeicherten Daten gegen unbefugtes Hinzufügen,
-Löschen oder Verändern geschützt sind und keine unbefugte
+Widerruf von Erklärungen zur Organ- und Gewebespende und für die
+Erteilung der Auskunft über Erklärungen zur Organ- und Gewebespende
+festzulegen. Dabei ist sicherzustellen, dass jederzeit online
+
+1.  eine Erklärung zur Organ- und Gewebespende abgegeben und durch die
+    Person, die die Erklärung zur Organ- und Gewebespende abgegeben hat,
+    geändert oder widerrufen werden kann und
+
+
+2.  eine Auskunft über eine solche Erklärung an eine Person erteilt werden
+    kann, an die nach Absatz 4 eine Auskunft erteilt werden darf.
+
+
+
+Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die
+erforderlichen räumlichen, technischen und organisatorischen Maßnahmen
+zu treffen, damit die im Register gespeicherten Daten gegen unbefugtes
+Hinzufügen, Löschen oder Verändern geschützt sind und keine unbefugte
 Kenntnisnahme oder Weitergabe erfolgen kann.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte darf
-folgende personenbezogene Daten erheben und speichern
+folgende personenbezogene Daten erheben und speichern:
 
 1.  im Hinblick auf die Person, die eine Erklärung zur Organ- und
     Gewebespende abgibt, neben der Erklärung selbst
 
-    a)  ihre Vornamen, Familiennamen, Doktortitel, Geburtsname, Geburtsdatum
-        und Geburtsort, Anschrift, die zu pseudonymisierende
-        Krankenversichertennummer und E-Mail-Adresse,
+    a)  ihre Vornamen, Familiennamen, Doktortitel, ihren Geburtsnamen, ihr
+        Geburtsdatum und ihren Geburtsort, ihre Anschrift, die zu
+        pseudonymisierende Krankenversichertennummer und ihre E-Mail-Adresse,
 
 
     b)  die für den Zugriff auf das Register erforderlichen Kennungen und
@@ -393,17 +423,49 @@ folgende personenbezogene Daten erheben und speichern
 
 2.  im Hinblick auf den Arzt oder Transplantationsbeauftragten, der von
     einem Krankenhaus dem Bundesinstitut für Arzneimittel und
-    Medizinprodukte als auskunftsberechtigt benannt wurde
+    Medizinprodukte als auskunftsberechtigt benannt wurde,
 
-    a)  mit seiner Einwilligung seine Vornamen, Familiennamen, Namenszusätze,
-        Geburtsdatum, E-Mail-Adresse und Kennnummer,
+    a)  mit seiner Einwilligung seine Vornamen, Familiennamen, Doktortitel,
+        E-Mail-Adresse, Telefonnummer und Kenn-Nummer,
 
 
-    b)  Institutskennzeichen, E-Mail-Adresse und Kennnummer des Krankenhauses
+    b)  Institutskennzeichen, E-Mail-Adresse und Kenn-Nummer des Krankenhauses
         und
 
 
-    c)  Kennnummer des Eintrags.
+    c)  Kenn-Nummer des Eintrags,
+
+
+
+
+
+3.  im Hinblick auf den Arzt, der von einer nach § 8g gemeldeten
+    Gewebeeinrichtung oder von einem nach § 8g gemeldeten Hersteller dem
+    Bundesinstitut für Arzneimittel und Medizinprodukte als
+    auskunftsberechtigt benannt wurde,
+
+    a)  mit seiner Einwilligung seine Vornamen, Familiennamen, Doktortitel,
+        E-Mail-Adresse, Telefonnummer und Kenn-Nummer und
+
+
+    b)  Kenn-Nummer und E-Mail-Adresse der Gewebeeinrichtung oder des
+        Herstellers sowie die für den Zugriff auf das Register erforderlichen
+        Kennungen,
+
+
+
+
+
+4.  im Hinblick auf den Arzt, der von der Koordinierungsstelle nach § 11
+    dem Bundesinstitut für Arzneimittel und Medizinprodukte als
+    auskunftsberechtigt benannt wurde,
+
+    a)  mit seiner Einwilligung seine Vornamen, Familiennamen, Doktortitel,
+        E-Mail-Adresse, Telefonnummer und Kenn-Nummer und
+
+
+    b)  Kenn-Nummer und E-Mail-Adresse der Koordinierungsstelle nach § 11
+        sowie die für den Zugriff auf das Register erforderlichen Kennungen.
 
 
 
@@ -416,24 +478,48 @@ ausschließlich zum Zweck der eindeutigen Zuordnung der Erklärungen zu
 den erklärenden Personen verarbeiten. Das Verfahren zur
 Pseudonymisierung der Krankenversichertennummer legt das
 Bundesinstitut für Arzneimittel und Medizinprodukte im Benehmen mit
-dem Bundesamt für die Sicherheit in der Informationstechnik und dem
-Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-fest.
+dem Bundesamt für die Sicherheit in der Informationstechnik und der
+oder dem Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit fest.
 
-(4) Eine Auskunft aus dem Register darf ausschließlich an die Person,
-die die Erklärung zur Organ- und Gewebespende abgegeben hat, sowie an
-einen Arzt oder Transplantationsbeauftragten erteilt werden, der von
-einem Krankenhaus dem Bundesinstitut für Arzneimittel und
-Medizinprodukte als auskunftsberechtigt benannt wurde und der weder an
-der Entnahme noch an der Übertragung der Organe oder der Gewebe des
-möglichen Organ- oder Gewebespenders beteiligt ist und auch nicht
-Weisungen eines Arztes untersteht, der an diesen Maßnahmen beteiligt
-ist. Ein als auskunftsberechtigt benannter Arzt oder
+(4) Eine Auskunft aus dem Register darf ausschließlich erteilt werden
+an
+
+1.  die Person, die die Erklärung zur Organ- und Gewebespende abgegeben
+    hat,
+
+
+2.  einen Arzt oder Transplantationsbeauftragten, der von einem
+    Krankenhaus dem Bundesinstitut für Arzneimittel und Medizinprodukte
+    als auskunftsberechtigt benannt wurde und der weder an der Entnahme
+    noch an der Übertragung von Organen oder Gewebe des möglichen Organ-
+    oder Gewebespenders beteiligt ist und auch nicht Weisungen eines
+    Arztes untersteht, der an diesen Maßnahmen beteiligt ist,
+
+
+3.  einen Arzt, der von einer nach § 8g gemeldeten Gewebeeinrichtung oder
+    von einem nach § 8g gemeldeten Hersteller dem Bundesinstitut für
+    Arzneimittel und Medizinprodukte als auskunftsberechtigt benannt
+    wurde, und
+
+
+4.  einen Arzt, der von der Koordinierungsstelle nach § 11 dem
+    Bundesinstitut für Arzneimittel und Medizinprodukte als
+    auskunftsberechtigt benannt wurde und der weder an der Entnahme noch
+    an der Übertragung von Organen oder Gewebe des möglichen Organ- oder
+    Gewebespenders beteiligt ist und auch nicht Weisungen eines Arztes
+    untersteht, der an diesen Maßnahmen beteiligt ist.
+
+
+
+
+(5) Ein von einem Krankenhaus dem Bundesinstitut für Arzneimittel und
+Medizinprodukte als auskunftsberechtigt benannter Arzt oder
 Transplantationsbeauftragter darf eine Auskunft zu einem möglichen
 Organ- oder Gewebespender erfragen,
 
-1.  wenn der Tod des möglichen Organ- oder Gewebespenders gemäß § 3 Absatz
-    1 Satz 1 Nummer 2 festgestellt worden ist oder
+1.  wenn der Tod des möglichen Organ- oder Gewebespenders gemäß den in § 3
+    Absatz 1 Satz 1 Nummer 2 genannten Regeln festgestellt worden ist oder
 
 
 2.  in Behandlungssituationen, in denen der nicht behebbare Ausfall der
@@ -443,61 +529,66 @@ Organ- oder Gewebespender erfragen,
 
 
 
-Zur Prüfung der Zulässigkeit der Anfragen an das Register und der
-Auskünfte aus dem Register hat das Bundesinstitut für Arzneimittel und
-Medizinprodukte die Auskünfte sowie deren Anlass und Zweck
-aufzuzeichnen. Die Auskunft aus dem Register darf von dem als
-auskunftsberechtigt benannten Arzt oder Transplantationsbeauftragten
-nur an die folgenden Personen übermittelt werden:
+Ein von der Koordinierungsstelle nach § 11 dem Bundesinstitut für
+Arzneimittel und Medizinprodukte als auskunftsberechtigt benannter
+Arzt darf eine Auskunft zu einem möglichen Organ- oder Gewebespender
+erfragen, wenn der Tod des möglichen Organ- oder Gewebespenders gemäß
+den in § 3 Absatz 1 Satz 1 Nummer 2 genannten Regeln festgestellt
+worden ist und eine Auskunft in diesem Fall nicht durch einen Arzt
+oder Transplantationsbeauftragten, der von einem Krankenhaus dem
+Bundesinstitut für Arzneimittel und Medizinprodukte als
+auskunftsberechtigt benannt wurde, erfragt werden konnte. Ein von
+einer nach § 8g gemeldeten Gewebeeinrichtung oder von einem nach § 8g
+gemeldeten Hersteller dem Bundesinstitut für Arzneimittel und
+Medizinprodukte als auskunftsberechtigt benannter Arzt darf eine
+Auskunft zu einem möglichen Gewebespender erfragen, wenn der Tod des
+möglichen Gewebespenders gemäß den in § 3 Absatz 1 Satz 1 Nummer 2
+genannten Regeln festgestellt worden ist und der möglichen
+Gewebeentnahme medizinische Gründe nicht entgegenstehen.
 
-1.  in den Fällen des Satzes 2 Nummer 1 den Arzt, der die Organ- oder
-    Gewebeentnahme vornehmen oder unter dessen Verantwortung die
-    Gewebeentnahme nach § 3 Absatz 1 Satz 2 vorgenommen werden soll, und
+(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte überprüft
+die Zulässigkeit der Anfragen an das Register und die Zulässigkeit der
+Erteilung von Auskünften aus dem Register durch geeignete
+Stichprobenverfahren und im Übrigen nur, wenn dazu Anlass besteht. Um
+die in Satz 1 genannte Überprüfung durchführen zu können, hat das
+Bundesinstitut für Arzneimittel und Medizinprodukte Anfragen und
+erteilte Auskünfte sowie deren Anlass und Zweck aufzuzeichnen.
+
+(7) Die Auskunft aus dem Register darf von dem dem Bundesinstitut für
+Arzneimittel und Medizinprodukte als auskunftsberechtigt benannten
+Arzt oder Transplantationsbeauftragten nur an die folgenden Personen
+übermittelt werden:
+
+1.  in den in Absatz 5 Satz 1 Nummer 1 und Satz 3 genannten Fällen an den
+    Arzt, der die Organ- oder Gewebeentnahme vornehmen oder unter dessen
+    Verantwortung und nach dessen fachlicher Weisung die Gewebeentnahme
+    vorgenommen werden soll,
 
 
-2.  in den Fällen des Satzes 2 Nummer 2 an den Arzt, der den möglichen
-    Organ- oder Gewebespender behandelt, und
+2.  in den in Absatz 5 Satz 1 Nummer 2 genannten Fällen an den Arzt, der
+    den möglichen Organ- oder Gewebespender behandelt,
 
 
-3.  an die Person, die
+3.  in den in Absatz 5 Satz 2 genannten Fällen an den Arzt, der die
+    Gewebeentnahme vornehmen oder unter dessen Verantwortung und nach
+    dessen fachlicher Weisung die Gewebeentnahme vorgenommen werden soll,
+    und
+
+
+4.  an die Person, die
 
     a)  nach § 3 Absatz 3 Satz 1 über die beabsichtigte Organ- oder
         Gewebeentnahme zu unterrichten ist oder
 
 
-    b)  nach § 4 über eine in Frage kommende Organ- oder Gewebeentnahme zu
-        unterrichten ist.
+    b)  nach § 4 Absatz 1 bis 3 über eine in Frage kommende Organ- und
+        Gewebeentnahme zu befragen ist.
 
 
 
 
 
 
-
-(5) Die Auskunft nach Absatz 4 Satz 1 kann in einem automatisierten
-Abrufverfahren übermittelt werden. Das automatisierte Abrufverfahren
-darf nur eingerichtet werden, sofern die beteiligten Stellen die
-technischen und organisatorischen Maßnahmen getroffen haben, die nach
-den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des
-Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
-natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum
-freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG
-(Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314
-vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
-geltenden Fassung erforderlich sind. Die Verantwortung für die
-Zulässigkeit des einzelnen Abrufs trägt die Person, die die Erklärung
-zur Organ- und Gewebespende im Register abgegeben hat, oder der Arzt
-oder Transplantationsbeauftragte, der von einem Krankenhaus dem
-Bundesinstitut für Arzneimittel und Medizinprodukte als
-auskunftsberechtigt benannt wurde. Das Bundesinstitut für Arzneimittel
-und Medizinprodukte überprüft die Zulässigkeit der Abrufe durch
-geeignete Stichprobenverfahren und im Übrigen nur, wenn dazu Anlass
-besteht.
-
-(6) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
-mit Zustimmung des Bundesrates das Nähere insbesondere zu den
-Authentifizierungsverfahren sowie den Datensätzen nach Absatz 3
-festlegen.
 
 
 ## Abschnitt 2 - Entnahme von Organen und Geweben bei toten Spendern
@@ -799,25 +890,42 @@ behandeln, eingeholt werden.
 ## Abschnitt 3 - Entnahme von Organen und Geweben bei lebenden  Spendern
 
 
-### § 8 Entnahme von Organen und Geweben
+### § 8 Entnahme von Organen und Geweben bei lebenden Spendern
 
-(1) Die Entnahme von Organen oder Geweben zum Zwecke der Übertragung
-auf andere ist bei einer lebenden Person, soweit in § 8a nichts
-Abweichendes bestimmt ist, nur zulässig, wenn
+(1) Die Entnahme von Organen oder Geweben bei einer lebenden Person
+zum Zwecke der Übertragung auf andere Personen ist, soweit in § 8b
+nichts Abweichendes bestimmt ist, nur zulässig, wenn
 
-1.  die Person
+1.  die Person, bei der Organe oder Gewebe entnommen werden,
 
     a)  volljährig und einwilligungsfähig ist,
 
 
-    b)  nach Absatz 2 Satz 1 und 2 aufgeklärt worden ist und in die Entnahme
-        eingewilligt hat,
+    b)  in die Entnahme eingewilligt hat, nachdem sie
+
+        aa) nach Absatz 2 Satz 1 bis 3 aufgeklärt worden ist,
+
+
+        bb) nach Absatz 2 Satz 6 aufgeklärt worden ist und
+
+
+        cc) nach Absatz 3 Satz 1 informiert worden ist,
+
+
+
 
 
     c)  nach ärztlicher Beurteilung als Spender geeignet ist und
-        voraussichtlich nicht über das Operationsrisiko hinaus gefährdet oder
-        über die unmittelbaren Folgen der Entnahme hinaus gesundheitlich
-        schwer beeinträchtigt wird,
+        voraussichtlich nicht über das mit der Entnahme des Organs oder des
+        Gewebes verbundene Operationsrisiko hinaus gefährdet und
+        voraussichtlich nicht über die zu erwartenden unmittelbaren Folgen der
+        Entnahme hinaus gesundheitlich schwer beeinträchtigt wird und
+
+
+    d)  im Fall der Entnahme eines Organs durch eine unabhängige
+        sachverständige Person, die über eine psychologische oder
+        psychotherapeutische Berufsqualifikation verfügt, umfassend
+        psychosozial beraten und evaluiert worden ist,
 
 
 
@@ -826,143 +934,321 @@ Abweichendes bestimmt ist, nur zulässig, wenn
 2.  die Übertragung des Organs oder Gewebes auf den vorgesehenen Empfänger
     nach ärztlicher Beurteilung geeignet ist, das Leben dieses Menschen zu
     erhalten oder bei ihm eine schwerwiegende Krankheit zu heilen, ihre
-    Verschlimmerung zu verhüten oder ihre Beschwerden zu lindern,
+    Verschlimmerung zu verhüten oder ihre Beschwerden zu lindern, und
 
 
-3.  im Fall der Organentnahme ein geeignetes Organ eines Spenders nach § 3
-    oder § 4 im Zeitpunkt der Organentnahme nicht zur Verfügung steht und
-
-
-4.  der Eingriff durch einen Arzt vorgenommen wird.
+3.  der Eingriff durch einen Arzt vorgenommen wird.
 
 
 
 Die Entnahme einer Niere, des Teils einer Leber oder anderer nicht
 regenerierungsfähiger Organe ist darüber hinaus nur zulässig zum
 Zwecke der Übertragung auf Verwandte ersten oder zweiten Grades,
-Ehegatten, eingetragene Lebenspartner, Verlobte oder andere Personen,
-die dem Spender in besonderer persönlicher Verbundenheit offenkundig
-nahestehen.
+Ehegatten, eingetragene Lebenspartner, Verlobte oder auf andere
+Personen, die dem Spender in besonderer persönlicher Verbundenheit
+offenkundig nahestehen. Der verantwortliche Arzt ist verpflichtet,
+eine Spenderakte zu führen und das Vorliegen der Voraussetzungen nach
+den Sätzen 1 und 2 oder nach Absatz 1a in der Spenderakte zu
+dokumentieren.
 
-(2) Der Spender ist durch einen Arzt in verständlicher Form
-aufzuklären über
+(1a) Die Entnahme einer Niere bei einer lebenden Person ist abweichend
+von Absatz 1 Satz 2 auch zulässig, wenn
 
-1.  den Zweck und die Art des Eingriffs,
+1.  im Rahmen einer Überkreuzlebendnierenspende
 
+    a)  jeder Spender eines beteiligten inkompatiblen Organspendepaars
+        aufgeklärt worden ist und
 
-2.  die Untersuchungen sowie das Recht, über die Ergebnisse der
-    Untersuchungen unterrichtet zu werden,
-
-
-3.  die Maßnahmen, die dem Schutz des Spenders dienen, sowie den Umfang
-    und mögliche, auch mittelbare Folgen und Spätfolgen der beabsichtigten
-    Organ- oder Gewebeentnahme für seine Gesundheit,
-
-
-4.  die ärztliche Schweigepflicht,
+        aa) eingewilligt hat, eine Niere einem ihm nicht bekannten Empfänger eines
+            anderen beteiligten inkompatiblen Organspendepaars zu spenden oder
 
 
-5.  die zu erwartende Erfolgsaussicht der Organ- oder Gewebeübertragung
-    und die Folgen für den Empfänger sowie sonstige Umstände, denen er
-    erkennbar eine Bedeutung für die Spende beimisst, sowie über
-
-
-6.  die Verarbeitung personenbezogener Daten.
+        bb) in dem Fall, dass auf Grund der Vermittlung einer Niere aus einer
+            nicht gerichteten anonymen Nierenspende an einen Empfänger eines
+            beteiligten inkompatiblen Organspendepaars die Niere des betreffenden
+            Spenders nicht einem Empfänger eines anderen beteiligten inkompatiblen
+            Organspendepaars vermittelt wurde, eingewilligt hat, eine Niere einem
+            ihm nicht bekannten in die Warteliste aufgenommenen Patienten zu
+            spenden, und
 
 
 
-Der Spender ist darüber zu informieren, dass seine Einwilligung
-Voraussetzung für die Organ- oder Gewebeentnahme ist. Die Aufklärung
-hat in Anwesenheit eines weiteren Arztes, für den § 5 Abs. 2 Satz 1
-und 2 entsprechend gilt, und, soweit erforderlich, anderer
-sachverständiger Personen zu erfolgen. Der Inhalt der Aufklärung und
+
+
+    b)  jeder Empfänger eines beteiligten inkompatiblen Organspendepaars
+        aufgeklärt worden ist und eingewilligt hat, eine Niere von einem ihm
+        nicht bekannten Spender eines anderen beteiligten inkompatiblen
+        Organspendepaars oder eine Niere aus einer nicht gerichteten anonymen
+        Nierenspende anzunehmen, oder
+
+
+
+
+
+2.  im Rahmen einer nicht gerichteten anonymen Nierenspende
+
+    a)  der Spender aufgeklärt worden ist und eingewilligt hat, eine Niere zum
+        Zweck der Übertragung auf einen ihm nicht bekannten Empfänger eines
+        beteiligten inkompatiblen Organspendepaars im Rahmen einer
+        Überkreuzlebendnierenspende oder zum Zweck der Übertragung auf einen
+        ihm nicht bekannten in die Warteliste aufgenommenen Patienten zu
+        spenden, und
+
+
+    b)  die Beweggründe des Spenders und dessen Verständnis von den mit der
+        Entnahme der Niere verbundenen Risiken, das seiner Entscheidung, in
+        den Eingriff einzuwilligen, zugrunde liegt, umfänglich nach Absatz 1
+        Satz 1 Nummer 1 Buchstabe d evaluiert worden sind.
+
+
+
+
+
+
+
+(1b) Der Spender eines Organs kann während des gesamten Prozesses von
+der ärztlichen Beurteilung der Eignung als Spender bis zur
+Nachbehandlung im Transplantationszentrum die Begleitung und Beratung
+durch eine Lebendspendebegleitperson nach § 10 Absatz 2 Satz 1 Nummer
+8 in Anspruch nehmen.
+
+(2) Der Spender ist durch einen verantwortlichen Arzt in einer für ihn
+verständlichen Form umfassend über folgende sämtliche für seine
+Einwilligung nach Absatz 1 Satz 1 Nummer 1 Buchstabe b wesentliche
+Umstände aufzuklären:
+
+1.  den Zweck, die Art, den Umfang und die Durchführung des Eingriffs,
+
+
+2.  die Untersuchungen, die für die in Absatz 1 Satz 1 Nummer 1 Buchstabe
+    c genannte ärztliche Beurteilung der Eignung als Spender erforderlich
+    sind, sowie die Ergebnisse dieser Untersuchungen, insbesondere
+    hinsichtlich des Operationsrisikos, hinsichtlich einer über das
+    Operationsrisiko hinausgehenden Gefährdung und hinsichtlich über die
+    unmittelbaren Folgen der Entnahme hinausgehender gesundheitlicher
+    Risiken oder gesundheitlicher Beeinträchtigungen,
+
+
+3.  die Maßnahmen, die dem Schutz des Spenders dienen,
+
+
+4.  den Umfang und mögliche, auch mittelbare Folgen und Spätfolgen der
+    beabsichtigten Organ- oder Gewebeentnahme für seine Gesundheit sowie
+    über sonstige Einschränkungen in seiner Lebensqualität,
+
+
+5.  die empfohlene ärztliche Nachsorge,
+
+
+6.  die ärztliche Schweigepflicht,
+
+
+7.  die Alternativen zur Lebendspende und die Notwendigkeit,
+    Dringlichkeit, Eignung und die zu erwartende Erfolgsaussicht der
+    Organ- oder Gewebeübertragung, das Risiko des Transplantatverlusts und
+    die kurz- und langfristigen Folgen der Organ- oder Gewebeübertragung
+    für den Empfänger sowie über sonstige Umstände, denen der Spender
+    erkennbar eine Bedeutung für die Spende beimisst, und
+
+
+8.  die Aufgaben der und das Verfahren vor der nach Landesrecht
+    zuständigen Lebendspendekommission, einschließlich der Vorlage der
+    Spenderakte mit der Niederschrift nach Satz 4, der notwendigen
+    Dokumentation der ärztlichen Beurteilung der Eignung als Spender und
+    der Dokumentation der psychosozialen Evaluation des Spenders.
+
+
+
+Die Aufklärung hat außer im Fall einer beabsichtigten Entnahme von
+Knochenmark in Anwesenheit eines weiteren Arztes, der weder an der
+Entnahme noch an der Übertragung der Organe oder Gewebe beteiligt ist,
+noch Weisungen eines Arztes untersteht, der an diesen Maßnahmen
+beteiligt ist, und, soweit erforderlich, anderer sachverständiger
+Personen zu erfolgen. Bei der Aufklärung sind auf Wunsch des Spenders
+eines Organs die unabhängige sachverständige Person, die die
+psychosoziale Evaluation des Spenders vorgenommen hat, und die
+Lebendspendebegleitperson hinzuzuziehen. Der Inhalt der Aufklärung und
 die Einwilligungserklärung des Spenders sind in einer Niederschrift
-aufzuzeichnen, die von den aufklärenden Personen, dem weiteren Arzt
-und dem Spender zu unterschreiben ist. Die Niederschrift muss auch
-eine Angabe über die versicherungsrechtliche Absicherung der
-gesundheitlichen Risiken nach Satz 1 enthalten. Die Einwilligung kann
-schriftlich, elektronisch oder mündlich widerrufen werden. Satz 3 gilt
-nicht im Fall der beabsichtigten Entnahme von Knochenmark.
+aufzuzeichnen, die von dem Arzt, der die Aufklärung durchgeführt hat,
+den weiteren bei der Aufklärung beteiligten Personen und dem Spender
+zu unterschreiben ist. Die Niederschrift muss auch eine Angabe über
+die versicherungsrechtliche Absicherung enthalten und der Spenderakte
+beigefügt werden. Die Aufklärung muss so rechtzeitig erfolgen, dass
+der Spender seine Entscheidung über die Einwilligung wohlüberlegt
+treffen kann. Die Einwilligung kann jederzeit und ohne Angabe von
+Gründen formlos widerrufen werden.
 
-(3) Bei einem Lebenden darf die Entnahme von Organen erst durchgeführt
-werden, nachdem sich der Spender und der Empfänger, die Entnahme von
-Geweben erst, nachdem sich der Spender zur Teilnahme an einer ärztlich
-empfohlenen Nachbetreuung bereit erklärt hat. Weitere Voraussetzung
-für die Entnahme von Organen bei einem Lebenden ist, dass die nach
-Landesrecht zuständige Kommission gutachtlich dazu Stellung genommen
+(3) Der Spender ist vor der Aufklärung durch den verantwortlichen Arzt
+darüber zu informieren, dass
+
+1.  seine Einwilligung Voraussetzung für die Organ- oder Gewebeentnahme
+    ist,
+
+
+2.  eine umfassende psychosoziale Beratung und Evaluierung durch eine
+    unabhängige sachverständige Person nach Absatz 1 Satz 1 Nummer 1
+    Buchstabe d erforderlich ist und
+
+
+3.  er nach Absatz 1b die Begleitung durch eine Lebendspendebegleitperson
+    in Anspruch nehmen kann.
+
+
+
+Der verantwortliche Arzt hat Kontakte zu unabhängigen sachverständigen
+Personen zu vermitteln, sofern der Spender hierin eingewilligt hat.
+
+(4) Bei einem Lebenden darf die Entnahme von Organen erst durchgeführt
+werden, nachdem sich der Spender und der Empfänger zur Teilnahme an
+einer ärztlich empfohlenen Nachsorge bereit erklärt haben, und die
+Entnahme von Geweben erst durchgeführt werden, nachdem sich der
+Spender zur Teilnahme an einer ärztlich empfohlenen Nachsorge bereit
+erklärt hat.
+
+
+### § 8a Lebendspendekommissionen
+
+(1) Liegen die Voraussetzungen für die Entnahme von Organen bei einem
+lebenden Spender nach § 8 Absatz 1, auch in Verbindung mit Absatz 1a,
+vor, darf das Organ zum Zweck der Übertragung auf andere nur entnommen
+werden, wenn zuvor die nach Landesrecht zuständige
+Lebendspendekommission auf Antrag des Transplantationszentrums, in dem
+das Organ entnommen werden soll, gutachtlich dazu Stellung genommen
 hat, ob begründete tatsächliche Anhaltspunkte dafür vorliegen, dass
 die Einwilligung in die Organspende nicht freiwillig erfolgt oder das
-Organ Gegenstand verbotenen Handeltreibens nach § 17 ist. Der
-Kommission muss ein Arzt, der weder an der Entnahme noch an der
-Übertragung von Organen beteiligt ist, noch Weisungen eines Arztes
-untersteht, der an solchen Maßnahmen beteiligt ist, eine Person mit
-der Befähigung zum Richteramt und eine in psychologischen Fragen
-erfahrene Person angehören. Das Nähere, insbesondere zur
-Zusammensetzung der Kommission, zum Verfahren und zur Finanzierung,
-wird durch Landesrecht bestimmt.
+Organ nach § 17 Absatz 1 Gegenstand verbotenen Handeltreibens ist. Mit
+dem Antrag ist die Spenderakte einschließlich der Niederschrift nach §
+8 Absatz 2 Satz 4, der Dokumentation der ärztlichen Beurteilung der
+Eignung als Spender nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe c
+sowie der Dokumentation der psychosozialen Evaluation des Spenders
+nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe d vorzulegen.
+
+(2) Die Lebendspendekommission erstellt die in Absatz 1 Satz 1
+genannte gutachtliche Stellungnahme unter Würdigung aller Umstände und
+auf Grund des Gesamtergebnisses ihrer Beratung. Hierfür soll die
+Lebendspendekommission den Spender und in dem Fall, dass der Spender
+und der Empfänger zueinander in einem in § 8 Absatz 1 Satz 2 genannten
+Verhältnis stehen, in der Regel auch den Empfänger auf geeignete Weise
+persönlich anhören.
+
+(3) Die Lebendspendekommission soll bei der Beschlussfassung über die
+gutachtliche Stellungnahme eine einstimmige Entscheidung anstreben.
+Wird keine einstimmige Entscheidung erzielt, beschließt die
+Lebendspendekommission die gutachtliche Stellungnahme mit
+Stimmenmehrheit. Abweichende Voten sind in der gutachtlichen
+Stellungnahme darzulegen. Die gutachtliche Stellungnahme ist
+schriftlich abzugeben und zu begründen und dem antragstellenden Arzt
+sowie dem Spender bekannt zu geben. Kommt die Lebendspendekommission
+in ihrer gutachtlichen Stellungnahme zu dem Ergebnis, dass in Absatz 1
+Satz 1 genannte begründete tatsächliche Anhaltspunkte vorliegen, darf
+das Organ nicht entnommen werden.
+
+(4) Der Lebendspendekommission müssen ein Arzt, der weder an der
+Entnahme noch an der Übertragung von Organen beteiligt ist, noch
+Weisungen eines Arztes untersteht, der an solchen Maßnahmen beteiligt
+ist, eine Person mit der Befähigung zum Richteramt und eine
+unabhängige sachverständige Person, die über eine psychologische oder
+psychotherapeutische Berufsqualifikation verfügt, angehören. Das
+Nähere, insbesondere zur Zusammensetzung und Finanzierung der
+Lebendspendekommission sowie zum weiteren Verfahren zur Erstellung der
+gutachtlichen Stellungnahme, wird durch Landesrecht bestimmt.
 
 
-### § 8a Entnahme von Knochenmark bei minderjährigen Personen
+### § 8b Entnahme von Knochenmark bei minderjährigen Personen
 
 Die Entnahme von Knochenmark bei einer minderjährigen Person zum
-Zwecke der Übertragung ist abweichend von § 8 Abs. 1 Satz 1 Nr. 1
-Buchstabe a und b sowie Nr. 2 mit folgender Maßgabe zulässig:
+Zwecke der Übertragung ist abweichend von § 8 Absatz 1 Satz 1 Nummer 1
+Buchstabe a und b und Nummer 2 mit folgender Maßgabe zulässig:
 
-1.  Die Verwendung des Knochenmarks ist für Verwandte ersten Grades oder
-    Geschwister der minderjährigen Person vorgesehen.
+1.  die Verwendung des Knochenmarks ist für Verwandte ersten Grades oder
+    Geschwister der minderjährigen Person vorgesehen,
 
 
-2.  Die Übertragung des Knochenmarks auf den vorgesehenen Empfänger ist
+2.  die Übertragung des Knochenmarks auf den vorgesehenen Empfänger ist
     nach ärztlicher Beurteilung geeignet, bei ihm eine lebensbedrohende
-    Krankheit zu heilen.
+    Krankheit zu heilen,
 
 
-3.  Ein geeigneter Spender nach § 8 Abs. 1 Satz 1 Nr. 1 steht im Zeitpunkt
-    der Entnahme des Knochenmarks nicht zur Verfügung.
+3.  ein geeigneter Spender nach § 8 Absatz 1 Satz 1 Nummer 1 steht im
+    Zeitpunkt der Entnahme des Knochenmarks nicht zur Verfügung,
 
 
-4.  Der gesetzliche Vertreter ist entsprechend § 8 Abs. 2 aufgeklärt
-    worden und hat in die Entnahme und die Verwendung des Knochenmarks
-    eingewilligt. § 1627 des Bürgerlichen Gesetzbuchs ist anzuwenden. Die
-    minderjährige Person ist durch einen Arzt entsprechend § 8 Abs. 2
-    aufzuklären, soweit dies im Hinblick auf ihr Alter und ihre geistige
-    Reife möglich ist. Lehnt die minderjährige Person die beabsichtigte
-    Entnahme oder Verwendung ab oder bringt sie dies in sonstiger Weise
-    zum Ausdruck, so ist dies zu beachten.
+4.  der gesetzliche Vertreter hat in die Entnahme und die Verwendung des
+    Knochenmarks eingewilligt, nachdem er entsprechend § 8 Absatz 2 Satz 1
+    bis 3 und 6 aufgeklärt und entsprechend § 8 Absatz 3 Satz 1 Nummer 1
+    informiert worden ist,
 
 
-5.  Ist die minderjährige Person in der Lage, Wesen, Bedeutung und
-    Tragweite der Entnahme zu erkennen und ihren Willen hiernach
-    auszurichten, so ist auch ihre Einwilligung erforderlich.
+5.  die minderjährige Person lehnt die beabsichtigte Entnahme oder
+    Verwendung nicht ab und bringt dies nicht in sonstiger Weise zum
+    Ausdruck, nachdem sie, soweit dies im Hinblick auf ihr Alter und ihre
+    geistige Reife möglich ist, durch einen Arzt entsprechend § 8 Absatz 2
+    Satz 1, 2, 3 und 6 aufgeklärt und entsprechend § 8 Absatz 3 Satz 1
+    Nummer 1 informiert worden ist,
+
+
+6.  die minderjährige Person, sofern sie in der Lage ist, Wesen, Bedeutung
+    und Tragweite der Entnahme zu erkennen und ihren Willen hiernach
+    auszurichten, hat eingewilligt.
 
 
 
 Soll das Knochenmark der minderjährigen Person für Verwandte ersten
 Grades verwendet werden, hat der gesetzliche Vertreter dies dem
-Familiengericht unverzüglich anzuzeigen, um eine Entscheidung nach
-§ 1629 Absatz 2 Satz 3 in Verbindung mit § 1789 Absatz 2 Satz 3 und 4
-des Bürgerlichen Gesetzbuchs herbeizuführen.
+Familiengericht unverzüglich anzuzeigen, um eine Entscheidung nach §
+1629 Absatz 2 Satz 3 in Verbindung mit § 1789 Absatz 2 Satz 3 und 4
+des Bürgerlichen Gesetzbuches herbeizuführen.
 
 
-### § 8b Entnahme von Organen und Geweben in besonderen Fällen
+### § 8c Entnahme von Organen und Geweben in besonderen Fällen
 
 (1) Sind Organe oder Gewebe bei einer lebenden Person im Rahmen einer
 medizinischen Behandlung dieser Person entnommen worden, ist ihre
-Übertragung nur zulässig, wenn die Person einwilligungsfähig und
-entsprechend § 8 Abs. 2 Satz 1 und 2 aufgeklärt worden ist und in
-diese Übertragung der Organe oder Gewebe eingewilligt hat. Für die
-Aufzeichnung der Aufklärung und der Einwilligung gilt § 8 Abs. 2 Satz
-4 entsprechend.
+Übertragung nur zulässig, wenn die Person einwilligungsfähig ist und
+in diese Übertragung der Organe oder Gewebe eingewilligt hat, nachdem
+sie entsprechend § 8 Absatz 2 Satz 1 aufgeklärt und entsprechend § 8
+Absatz 3 Satz 1 informiert worden ist.
 
-(2) Absatz 1 gilt entsprechend für die Gewinnung von menschlichen
-Samenzellen, die für eine medizinisch unterstützte Befruchtung
-bestimmt sind.
+(2) Sind Organe oder Gewebe bei einer lebenden nicht
+einwilligungsfähigen Person im Rahmen einer medizinischen Behandlung
+dieser Person entnommen worden, ist ihre Übertragung abweichend von
+Absatz 1 nur zulässig, wenn der gesetzliche Vertreter oder ein
+Bevollmächtigter in diese Übertragung der Organe oder Gewebe
+eingewilligt hat, nachdem er entsprechend § 8 Absatz 2 Satz 1
+aufgeklärt und entsprechend § 8 Absatz 3 Satz 1 Nummer 1 informiert
+worden ist.
 
-(3) Für einen Widerruf der Einwilligung gilt § 8 Abs. 2 Satz 6
-entsprechend.
+(3) Die Gewinnung von männlichen Keimzellen, die für eine medizinisch
+unterstützte Befruchtung bestimmt sind, ist nur zulässig, wenn die
+Person einwilligungsfähig ist und in die Gewinnung eingewilligt hat,
+nachdem sie entsprechend § 8 Absatz 2 Satz 1 aufgeklärt und
+entsprechend § 8 Absatz 3 Satz 1 Nummer 1 informiert worden ist.
+Abweichend von Satz 1 ist die Gewinnung von männlichen Keimzellen, die
+für eine spätere medizinisch unterstützte Befruchtung bestimmt sind,
+auf Grund einer Erkrankung und deren Behandlung mit einer
+keimzellschädigenden Therapie bei einer nicht einwilligungsfähigen
+Person nur zulässig, wenn der gesetzliche Vertreter oder ein
+Bevollmächtigter in die Gewinnung eingewilligt hat, nachdem er
+entsprechend § 8 Absatz 2 Satz 1 aufgeklärt und entsprechend § 8
+Absatz 3 Satz 1 Nummer 1 informiert worden ist.
+
+(4) Der Inhalt der Aufklärung und die Einwilligungserklärung des
+Spenders oder, im Fall eines nicht einwilligungsfähigen Spenders, der
+Inhalt der Aufklärung und die Einwilligungserklärung des gesetzlichen
+Vertreters oder des Bevollmächtigten sind in einer Niederschrift
+aufzuzeichnen, die von dem Arzt, der die Aufklärung durchgeführt hat,
+und dem Spender oder, im Fall eines nicht einwilligungsfähigen
+Spenders, dem gesetzlichen Vertreter oder dem Bevollmächtigten zu
+unterschreiben ist.
+
+(5) Die Einwilligung kann jederzeit und ohne Angabe von Gründen
+formlos widerrufen werden.
 
 
-### § 8c Entnahme von Organen und Geweben zur Rückübertragung
+## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
+
+
+### § 8d Entnahme von Organen und Geweben zur Rückübertragung
 
 (1) Die Entnahme von Organen oder Geweben zum Zwecke der
 Rückübertragung ist bei einer lebenden Person nur zulässig, wenn
@@ -972,9 +1258,9 @@ Rückübertragung ist bei einer lebenden Person nur zulässig, wenn
     a)  einwilligungsfähig ist,
 
 
-    b)  entsprechend § 8 Abs. 2 Satz 1 und 2 aufgeklärt worden ist und in die
-        Entnahme und die Rückübertragung des Organs oder Gewebes eingewilligt
-        hat,
+    b)  in die Entnahme und die Rückübertragung des Organs oder Gewebes
+        eingewilligt hat, nachdem sie entsprechend § 8 Absatz 2 Satz 1
+        aufgeklärt und entsprechend § 8 Absatz 3 Satz 1 informiert worden ist,
 
 
 
@@ -993,36 +1279,36 @@ Rückübertragung ist bei einer lebenden Person nur zulässig, wenn
 
 
 (2) Die Entnahme von Organen oder Geweben zum Zwecke der
-Rückübertragung bei einer Person, die nicht in der Lage ist, Wesen,
-Bedeutung und Tragweite der vorgesehenen Entnahme zu erkennen und
-ihren Willen hiernach auszurichten, ist abweichend von Absatz 1 Nr. 1
-nur zulässig, wenn der gesetzliche Vertreter oder ein Bevollmächtigter
-entsprechend § 8 Abs. 2 Satz 1 und 2 aufgeklärt worden ist und in die
-Entnahme und die Rückübertragung des Organs oder Gewebes eingewilligt
-hat. Die §§ 1627, 1821 Absatz 2 bis 4 sowie § 1829 des Bürgerlichen
-Gesetzbuchs sind anzuwenden.
+Rückübertragung bei einer nicht einwilligungsfähigen Person ist
+abweichend von Absatz 1 Nummer 1 nur zulässig, wenn der gesetzliche
+Vertreter oder ein Bevollmächtigter in die Entnahme und die
+Rückübertragung des Organs oder Gewebes eingewilligt hat, nachdem er
+entsprechend § 8 Absatz 2 Satz 1 aufgeklärt und entsprechend § 8
+Absatz 3 Satz 1 Nummer 1 informiert worden ist.
 
 (3) Die Entnahme von Organen oder Geweben zum Zwecke der
 Rückübertragung bei einem lebenden Embryo oder Fötus ist unter den
-Voraussetzungen des Absatzes 1 Nr. 2 und 3 nur zulässig, wenn die
-Frau, die mit dem Embryo oder Fötus schwanger ist, entsprechend § 8
-Abs. 2 Satz 1 und 2 aufgeklärt worden ist und in die Entnahme und die
-Rückübertragung des Organs oder Gewebes eingewilligt hat. Ist diese
-Frau nicht in der Lage, Wesen, Bedeutung und Tragweite der
-vorgesehenen Entnahme zu erkennen und ihren Willen hiernach
-auszurichten, gilt Absatz 2 entsprechend.
+Voraussetzungen des Absatzes 1 Nummer 2 und 3 nur zulässig, wenn die
+Frau, die mit dem Embryo oder Fötus schwanger ist, in die Entnahme und
+die Rückübertragung des Organs oder Gewebes eingewilligt hat, nachdem
+sie entsprechend § 8 Absatz 2 Satz 1 aufgeklärt und entsprechend § 8
+Absatz 3 Satz 1 informiert worden ist. Ist diese Frau nicht
+einwilligungsfähig, gilt Absatz 2 entsprechend.
 
-(4) Für die Aufzeichnung der Aufklärung und der Einwilligung gilt § 8
-Abs. 2 Satz 4 entsprechend.
+(4) Der Inhalt der Aufklärung und die Einwilligungserklärung des
+Spenders oder, im Fall eines nicht einwilligungsfähigen Spenders, der
+Inhalt der Aufklärung und die Einwilligungserklärung des gesetzlichen
+Vertreters oder des Bevollmächtigten sind in einer Niederschrift
+aufzuzeichnen, die von dem Arzt, der die Aufklärung durchgeführt hat,
+und dem Spender oder, im Fall eines nicht einwilligungsfähigen
+Spenders, dem gesetzlichen Vertreter oder dem Bevollmächtigten zu
+unterschreiben ist.
 
-(5) Für einen Widerruf der Einwilligung gilt § 8 Abs. 2 Satz 6
-entsprechend.
+(5) Die Einwilligung kann jederzeit und ohne Angabe von Gründen
+formlos widerrufen werden.
 
 
-## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
-
-
-### § 8d Besondere Pflichten der Gewebeeinrichtungen
+### § 8e Besondere Pflichten der Gewebeeinrichtungen
 
 (1) Eine Gewebeeinrichtung, die Gewebe entnimmt oder untersucht, darf
 unbeschadet der Vorschriften des Arzneimittelrechts nur betrieben
@@ -1104,7 +1390,11 @@ zuständigen Behörde mindestens alle zwei Jahre oder auf Anforderung
 eine Liste der belieferten Einrichtungen der medizinischen Versorgung.
 
 
-### § 8e Untersuchungslabore
+### § 8f (weggefallen)
+
+
+
+### § 8f Untersuchungslabore
 
 Die für Gewebespender nach § 8d Abs. 1 Satz 2 Nr. 3 vorgeschriebenen
 Laboruntersuchungen dürfen nur von einem Untersuchungslabor
@@ -1114,7 +1404,29 @@ verpflichtet, eine Qualitätssicherung für die nach § 8d Abs. 1 Satz 2
 Nr. 3 vorgeschriebenen Laboruntersuchungen sicherzustellen.
 
 
-### § 8f (weggefallen)
+### § 8g Meldung bestimmter Gewebeeinrichtungen
+
+Die nach Landesrecht für den Vollzug der §§ 13, 20b und 20c des
+Arzneimittelgesetzes zuständigen Behörden melden dem Bundesinstitut
+für Arzneimittel und Medizinprodukte
+
+1.  unverzüglich die Gewebeeinrichtungen und Hersteller, die
+
+    a)  über eine Erlaubnis nach § 13 Absatz 1, § 20b Absatz 1 oder § 20c
+        Absatz 1 des Arzneimittelgesetzes verfügen und
+
+
+    b)  Gewebe nach Feststellung des Todes eines möglichen Gewebespenders
+        entnehmen oder entnehmen lassen sowie
+
+
+
+
+
+2.  unverzüglich den Wegfall einer in Nummer 1 Buchstabe a genannten
+    Erlaubnis.
+
+
 
 
 
@@ -1135,7 +1447,11 @@ die Koordinierungsstelle organisiert und unter Beachtung der weiteren
 Regelungen nach § 11 durchgeführt worden ist. Die Übertragung
 vermittlungspflichtiger Organe ist darüber hinaus nur zulässig, wenn
 die Organe durch die Vermittlungsstelle unter Beachtung der Regelungen
-nach § 12 Absatz 3 Satz 1 vermittelt worden sind.
+nach § 12 Absatz 3 Satz 1 vermittelt worden sind. Die Übertragung von
+Nieren im Rahmen einer Überkreuzlebendnierenspende ist nur zulässig,
+wenn die Nieren durch die Stelle zur Vermittlung von Nieren im Rahmen
+der Überkreuzlebendnierenspende unter Beachtung der Regelungen nach §
+12 Absatz 3a vermittelt worden sind.
 
 (3) Die mögliche Entnahme und Übertragung eines Organs hat Vorrang vor
 der Entnahme von Geweben; sie darf nicht durch eine Gewebeentnahme
@@ -1373,42 +1689,107 @@ die erforderliche Qualität der Organübertragung zu sichern.
     Warteliste,
 
 
-2.  über die Aufnahme in die Warteliste nach Regeln zu entscheiden, die
+2.  im Fall einer Lebendorganspende über die Aufnahme des vorgesehenen
+    Empfängers in die Warteliste zu entscheiden, wenn der Empfänger in
+    diese Aufnahme eingewilligt hat,
+
+
+3.  über die Aufnahme in die Warteliste nach Regeln zu entscheiden, die
     dem Stand der Erkenntnisse der medizinischen Wissenschaft entsprechen,
     insbesondere nach Notwendigkeit und Erfolgsaussicht einer
     Organübertragung,
 
 
-3.  die auf Grund des § 11 getroffenen Regelungen zur Organentnahme sowie
-    bei vermittlungspflichtigen Organen die auf Grund des § 12 getroffenen
-    Regelungen zur Organvermittlung einzuhalten,
+4.  die auf Grund des § 11 getroffenen Regelungen zur Organentnahme sowie
+    bei vermittlungspflichtigen Organen die auf Grund des § 12 Absatz 3
+    getroffenen Regelungen zur Organvermittlung einzuhalten,
 
 
-4.  vor der Organübertragung festzustellen, dass die Organ- und
-    Spendercharakterisierung nach § 10a abgeschlossen und dokumentiert ist
+5.  soweit sie Überkreuzlebendnierenspenden oder nicht gerichtete anonyme
+    Nierenspenden durchführen, bei diesen
+
+    a)  mit den anderen Transplantationszentren zusammenzuarbeiten, die
+        Überkreuzlebendnierenspenden oder nicht gerichtete anonyme
+        Nierenspenden durchführen,
+
+
+    b)  über die Annahme eines inkompatiblen Organspendepaars oder über die
+        Annahme eines Spenders einer Niere im Rahmen einer nicht gerichteten
+        anonymen Nierenspende zu entscheiden und die für die Organvermittlung
+        nach § 12 Absatz 3a erforderlichen Angaben zu erheben,
+
+
+    c)  im Fall einer Vermittlung einer Niere an einen in die Warteliste
+        aufgenommenen Patienten nach § 12 Absatz 3a Satz 3 Nummer 2 oder Satz
+        4 die für die Organvermittlung nach § 12 Absatz 3 erforderlichen
+        Angaben zu erheben,
+
+
+    d)  die auf Grund des § 12 Absatz 3a getroffenen Regelungen zur
+        Organvermittlung einzuhalten,
+
+
+    e)  nach einer Vermittlungsentscheidung die Durchführung des Transports
+        der Nieren durch die Koordinierungsstelle zu veranlassen, die Entnahme
+        und die Übertragung der Nieren gemeinschaftlich zu organisieren und
+        durchzuführen und dabei sicherzustellen, dass die Entnahme der Nieren
+        möglichst zeitgleich und in der Regel in dem jeweiligen
+        Transplantationszentrum erfolgt, in dem der Spender für eine
+        Überkreuzlebendnierenspende oder für eine nicht gerichtete anonyme
+        Nierenspende angenommen worden ist, und die Übertragung in dem
+        jeweiligen Transplantationszentrum durchgeführt wird, in dem der
+        Empfänger für eine Überkreuzlebendnierenspende angenommen oder in die
+        Warteliste aufgenommen worden ist,
+
+
+
+
+
+6.  vor der Organübertragung festzustellen, dass die Organ- und
+    Spendercharakterisierung nach § 10a abgeschlossen und dokumentiert ist
     und die Bedingungen für die Konservierung und den Transport
     eingehalten worden sind,
 
 
-5.  jede Organübertragung unverzüglich so zu dokumentieren, dass eine
+7.  jede Organübertragung unverzüglich so zu dokumentieren, dass eine
     lückenlose Rückverfolgung der Organe vom Empfänger zum Spender
     ermöglicht wird; bei der Übertragung von Organen verstorbener Spender
-    ist die Kenn-Nummer (§ 13 Abs. 1 Satz 1) anzugeben, um eine
-    Rückverfolgung durch die Koordinierungsstelle zu ermöglichen,
+    oder von Nieren im Rahmen einer Überkreuzlebendnierenspende oder bei
+    der Übertragung von Nieren, die im Rahmen einer nicht gerichteten
+    anonymen Nierenspende entnommen wurden, auf einen in die Warteliste
+    aufgenommenen Patienten ist die Kenn-Nummer nach § 13 Absatz 1 Satz 1
+    oder Absatz 3a Satz 1 anzugeben, um eine Rückverfolgung von Organen
+    verstorbener Spender durch die Koordinierungsstelle oder von Nieren,
+    die im Rahmen einer Überkreuzlebendnierenspende oder im Rahmen einer
+    nicht gerichteten anonymen Nierenspende entnommen wurden, durch die
+    Transplantationszentren zu ermöglichen,
 
 
-6.  die durchgeführten Lebendorganspenden aufzuzeichnen,
+8.  sofern sie einer lebenden Person Organe zum Zweck der Übertragung auf
+    eine andere Person entnehmen, zur Wahrung der Interessen des Spenders
+    und zur Gewährleistung der Beachtung seiner Entscheidungen mindestens
+    einen Arzt, eine Pflegefachperson oder eine in psychologischen oder
+    psychotherapeutischen Fragen erfahrene Person zu bestellen, der oder
+    die weder an der Entnahme noch an der Übertragung der Organe beteiligt
+    ist, noch Weisungen eines Arztes untersteht, der an diesen Maßnahmen
+    beteiligt ist, und der oder die den Spender während des gesamten
+    Prozesses von der ärztlichen Beurteilung der Eignung als Spender bis
+    zur Nachbehandlung im Transplantationszentrum begleitet und unabhängig
+    berät,
 
 
-7.  vor und nach einer Organübertragung Maßnahmen für eine erforderliche
+9.  die durchgeführten Lebendorganspenden aufzuzeichnen,
+
+
+10. vor und nach einer Organübertragung Maßnahmen für eine erforderliche
     psychische Betreuung der Patienten im Krankenhaus sicherzustellen und
 
 
-8.  nach Maßgabe der Vorschriften des Fünften Buches Sozialgesetzbuch
+11. nach Maßgabe der Vorschriften des Fünften Buches Sozialgesetzbuch
     Maßnahmen zur Qualitätssicherung, die auch einen Vergleich mit anderen
     Transplantationszentren ermöglichen, im Rahmen ihrer Tätigkeit nach
-    diesem Gesetz durchzuführen; dies gilt für die Nachbetreuung von
-    Organspendern nach § 8 Abs. 3 Satz 1 entsprechend.
+    diesem Gesetz durchzuführen; dies gilt für die Nachsorge von
+    Organspendern nach § 8 Absatz 4 entsprechend.
 
 
 
@@ -1642,11 +2023,15 @@ die Entnahmekrankenhäuser. Der Vertrag regelt insbesondere
         4,
 
 
-    c)  des angemessenen Ausgleichs der Kosten nach § 9a Absatz 2 Satz 5 und
+    c)  des angemessenen Ausgleichs der Kosten nach § 9a Absatz 2 Satz 5,
 
 
     d)  der angemessenen Vergütung einschließlich einer Einsatzpauschale nach
-        § 9a Absatz 2 Satz 6.
+        § 9a Absatz 2 Satz 6 und
+
+
+    e)  des Ersatzes angemessener Aufwendungen für die Durchführung des
+        Transports nach § 11 Absatz 4a Satz 1,
 
 
 
@@ -1703,6 +2088,14 @@ Koordinierungsstelle zu übermitteln. Die Organentnahme wird durch die
 Koordinierungsstelle organisiert und erfolgt durch die von ihr
 beauftragten Ärzte.
 
+(4a) Die Koordinierungsstelle führt bei einer
+Überkreuzlebendnierenspende oder einer nicht gerichteten anonymen
+Nierenspende den Transport der entnommenen Nieren durch. Sie kann die
+Transplantationszentren auf der Grundlage vertraglicher Vereinbarungen
+mit den jeweiligen Transplantationszentren darüber hinaus bei der
+Vorbereitung und Durchführung der Lebendorganspende unterstützen. Das
+Nähere ist durch den in Absatz 2 Satz 1 genannten Vertrag zu regeln.
+
 (5) Die Koordinierungsstelle führt ein Verzeichnis über die
 Entnahmekrankenhäuser nach § 9a und über die Transplantationszentren
 nach § 10. Sie dokumentiert die Tätigkeiten der Entnahmekrankenhäuser
@@ -1735,13 +2128,12 @@ Daten enthält:
     den Nummern 2 bis 4 betroffenen Patienten,
 
 
-6.  die Nachbetreuung der Spender nach § 8 Absatz 3 Satz 1 und die
-    Dokumentation ihrer durch die Organspende bedingten gesundheitlichen
-    Risiken,
+6.  die Nachsorge der Spender nach § 8 Absatz 4 und die Dokumentation
+    ihrer durch die Organspende bedingten gesundheitlichen Risiken,
 
 
 7.  die durchgeführten Maßnahmen zur Qualitätssicherung nach § 10 Absatz 2
-    Nummer 8,
+    Satz 1 Nummer 11,
 
 
 8.  die Ergebnisse der Auswertung nach Absatz 1b Satz 1.
@@ -1756,15 +2148,15 @@ werden.
 (6) (weggefallen)
 
 
-### § 12 Organvermittlung, Vermittlungsstelle
+### § 12 Organvermittlung, Vermittlungsstelle, Stelle zur Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende
 
 (1) Zur Vermittlung der vermittlungspflichtigen Organe errichten oder
 beauftragen der Spitzenverband Bund der Krankenkassen, die
 Bundesärztekammer und die Deutsche Krankenhausgesellschaft eine
-geeignete Einrichtung (Vermittlungsstelle). Sie muß auf Grund einer
+geeignete Einrichtung (Vermittlungsstelle). Sie muss auf Grund einer
 finanziell und organisatorisch eigenständigen Trägerschaft, der Zahl
 und Qualifikation ihrer Mitarbeiter, ihrer betrieblichen Organisation
-sowie ihrer sachlichen Ausstattung die Gewähr dafür bieten, daß die
+sowie ihrer sachlichen Ausstattung die Gewähr dafür bieten, dass die
 Organvermittlung nach den Vorschriften dieses Gesetzes erfolgt. Soweit
 sie Organe vermittelt, die in Ländern entnommen werden, die nicht
 Mitgliedstaaten der Europäischen Union oder andere Vertragsstaaten des
@@ -1786,38 +2178,102 @@ soweit deren Anwendung nicht zu einem Ergebnis führt, das mit
 wesentlichen Grundsätzen des deutschen Rechts, insbesondere mit den
 Grundrechten, offensichtlich unvereinbar ist.
 
-(2) Als Vermittlungsstelle kann auch eine geeignete Einrichtung
-beauftragt werden, die ihren Sitz außerhalb des Geltungsbereichs
-dieses Gesetzes hat und die Organe im Rahmen eines internationalen
-Organaustausches unter Anwendung der Vorschriften dieses Gesetzes für
-die Organvermittlung vermittelt. Dabei ist sicherzustellen, daß die
-Vorschriften der §§ 14 und 15 sinngemäß Anwendung finden; eine
-angemessene Datenschutzaufsicht muß gewährleistet sein.
+(1a) Zur Vermittlung von Nieren im Rahmen einer
+Überkreuzlebendnierenspende errichten oder beauftragen der
+Spitzenverband Bund der Krankenkassen, die Bundesärztekammer und die
+Deutsche Krankenhausgesellschaft eine geeignete Einrichtung (Stelle
+zur Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende).
+Absatz 1 Satz 2 bis 4 gilt entsprechend. Sie können als Stelle zur
+Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende auch
+die Vermittlungsstelle nach Absatz 1 Satz 1 beauftragen.
 
-(3) Die vermittlungspflichtigen Organe sind von der Vermittlungsstelle
-nach Regeln, die dem Stand der Erkenntnisse der medizinischen
-Wissenschaft entsprechen, insbesondere nach Erfolgsaussicht und
-Dringlichkeit für geeignete Patienten zu vermitteln. Die Wartelisten
-der Transplantationszentren sind dabei als eine einheitliche
-Warteliste zu behandeln. Die Vermittlungsentscheidung ist für jedes
-Organ unter Angabe der Gründe zu dokumentieren und unter Verwendung
-der Kenn-Nummer dem Transplantationszentrum und der
-Koordinierungsstelle zu übermitteln, um eine lückenlose Rückverfolgung
-der Organe zu ermöglichen.
+(2) Als Vermittlungsstelle oder als Stelle zur Vermittlung von Nieren
+im Rahmen der Überkreuzlebendnierenspende kann auch eine geeignete
+Einrichtung beauftragt werden, die ihren Sitz außerhalb des
+Geltungsbereichs dieses Gesetzes hat und die Organe im Rahmen eines
+internationalen Organaustausches unter Anwendung der Vorschriften
+dieses Gesetzes für die Organvermittlung vermittelt. Dabei ist
+sicherzustellen, dass die Vorschriften der §§ 14 und 15 sinngemäß
+Anwendung finden; eine angemessene Datenschutzaufsicht muss
+gewährleistet sein.
+
+(3) Die vermittlungspflichtigen Organe, die Nieren aus einer nicht
+gerichteten anonymen Nierenspende, die an einen Patienten in der
+Warteliste nach Absatz 3a Satz 3 Nummer 2 vermittelt werden sollen und
+die Nieren, die im Rahmen einer Überkreuzlebendnierenspende an einen
+Patienten in der Warteliste nach Absatz 3a Satz 4 vermittelt werden
+sollen, sind von der Vermittlungsstelle nach Regeln, die dem Stand der
+Erkenntnisse der medizinischen Wissenschaft entsprechen, insbesondere
+nach Erfolgsaussicht und Dringlichkeit für geeignete Patienten zu
+vermitteln. Wurde einem in die Warteliste für eine Niere aufgenommenen
+Patienten zuvor eine Niere zum Zweck der Übertragung auf eine andere
+Person entnommen, so ist dies im Verhältnis zu den anderen in die
+Warteliste aufgenommenen Patienten abweichend von Satz 1 bei der
+Vermittlung einer Niere zugunsten des Patienten angemessen zu
+berücksichtigen. Die Wartelisten der Transplantationszentren sind bei
+der Vermittlung als eine einheitliche Warteliste zu behandeln. Die
+Vermittlungsentscheidung ist für jedes Organ unter Angabe der Gründe
+zu dokumentieren und unter Verwendung der Kenn-Nummer dem
+Transplantationszentrum und der Koordinierungsstelle zu übermitteln,
+um eine lückenlose Rückverfolgung der Organe zu ermöglichen.
+
+(3a) Im Rahmen einer Überkreuzlebendnierenspende sind die Nieren der
+Spender der inkompatiblen Organspendepaare und die Nieren aus nicht
+gerichteten anonymen Nierenspenden von der Stelle zur Vermittlung von
+Nieren im Rahmen der Überkreuzlebendnierenspende regelmäßig nach
+Regeln, die dem Stand der Erkenntnisse der medizinischen Wissenschaft
+entsprechen, insbesondere nach Erfolgsaussicht und Dringlichkeit, an
+die Empfänger der inkompatiblen Organspendepaare, bei denen keine
+medizinischen Gründe einer Übertragung entgegenstehen, zu vermitteln.
+Wird die Niere aus einer nicht gerichteten anonymen Nierenspende
+infolge eines für die Vermittlung nach Satz 1 erfolgten Abgleichs
+nicht an einen Empfänger eines inkompatiblen Organspendepaars
+vermittelt, teilt die Stelle zur Vermittlung von Nieren im Rahmen der
+Überkreuzlebendnierenspende dies dem Transplantationszentrum mit, das
+den Spender dieser Niere angenommen hat. In diesem Fall ist die Niere
+
+1.  weiterhin nach Satz 1 im Rahmen einer Überkreuzlebendnierenspende zu
+    vermitteln, wenn der Spender gegenüber dem Transplantationszentrum
+    erklärt, dass ein weiterer Abgleich für eine Vermittlung nach Satz 1
+    erfolgen soll, oder
+
+
+2.  nach Absatz 3 Satz 1 einem in die Warteliste aufgenommenen Patienten
+    zu vermitteln, wenn der Spender gegenüber dem Transplantationszentrum
+    erklärt, dass die Niere auf einen in die Warteliste aufgenommenen
+    Patienten übertragen werden soll.
+
+
+
+Wird eine Niere aus einer nicht gerichteten anonymen Nierenspende nach
+Satz 1 vermittelt, ist die Niere desjenigen Spenders eines an der
+Überkreuzlebendnierenspende beteiligten inkompatiblen
+Organspendepaars, dessen Niere nicht einem Empfänger eines
+inkompatiblen Organspendepaars vermittelt wurde, nach Absatz 3 Satz 1
+einem in die Warteliste aufgenommenen Patienten zu vermitteln. Die
+Entscheidung über die Vermittlung nach Satz 1 ist von der Stelle zur
+Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende unter
+Angabe der Gründe schriftlich oder elektronisch zu dokumentieren und
+unter Verwendung der in § 13 Absatz 3a Satz 1 genannten Kenn-Nummer
+den betroffenen Transplantationszentren zu übermitteln.
 
 (4) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer,
 die Deutsche Krankenhausgesellschaft und die Vermittlungsstelle regeln
 durch Vertrag die Aufgaben der Vermittlungsstelle mit Wirkung für die
 Transplantationszentren. Der Vertrag regelt insbesondere
 
-1.  die Art der von den Transplantationszentren nach § 13 Abs. 3 Satz 3 zu
-    meldenden Angaben über die Patienten sowie die Verwendung dieser
+1.  die Art der von den Transplantationszentren nach § 13 Absatz 3 Satz 3
+    zu meldenden Angaben über die Patienten sowie die Verwendung dieser
     Angaben durch die Vermittlungsstelle in einheitlichen Wartelisten für
     die jeweiligen Arten der durchzuführenden Organübertragungen,
 
 
-2.  die Erfassung der von der Koordinierungsstelle nach § 13 Abs. 1 Satz 4
-    gemeldeten Organe,
+1a. die notwendigen Anforderungen an die Datenübermittlung nach § 27
+    Absatz 1a Satz 10 des Fünften Buches Sozialgesetzbuch,
+
+
+2.  die Erfassung der von der Koordinierungsstelle nach § 13 Absatz 1 Satz
+    4 gemeldeten Organe,
 
 
 3.  die Vermittlung der Organe nach den Vorschriften des Absatzes 3 sowie
@@ -1864,27 +2320,95 @@ Transplantationszentren. Der Vertrag regelt insbesondere
 Der Vertrag nach Satz 1 bedarf des Einvernehmens mit dem Verband der
 Privaten Krankenversicherung.
 
-(5) Der Vertrag nach den Absätzen 1 und 4 sowie seine Änderung bedarf
-der Genehmigung durch das Bundesministerium für Gesundheit und ist im
-Bundesanzeiger bekanntzumachen. Die Genehmigung ist zu erteilen, wenn
-der Vertrag oder seine Änderung den Vorschriften dieses Gesetzes und
-sonstigem Recht entspricht. Der Spitzenverband Bund der Krankenkassen,
-die Bundesärztekammer und die Deutsche Krankenhausgesellschaft
-überwachen die Einhaltung der Vertragsbestimmungen. Zur Erfüllung
-ihrer Verpflichtung nach Satz 3 setzen sie eine Kommission ein, die
-jeweils aus mindestens einem Vertreter des Spitzenverbandes Bund der
-Krankenkassen, der Bundesärztekammer und der Deutschen
-Krankenhausgesellschaft und zwei Vertretern der Länder zusammengesetzt
-ist. Die Vermittlungsstelle und die Transplantationszentren sind
+(4a) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer,
+die Deutsche Krankenhausgesellschaft und die Stelle zur Vermittlung
+von Nieren im Rahmen der Überkreuzlebendnierenspende regeln durch
+Vertrag die Aufgaben der Stelle zur Vermittlung von Nieren im Rahmen
+der Überkreuzlebendnierenspende mit Wirkung für die
+Transplantationszentren. Der Vertrag regelt insbesondere
+
+1.  die Art der von den Transplantationszentren nach § 13 Absatz 3 Satz 3
+    zu meldenden Angaben über die inkompatiblen Organspendepaare und über
+    die Spender im Rahmen nicht gerichteter anonymer Nierenspenden sowie
+    die Verwendung dieser Angaben durch die Stelle zur Vermittlung von
+    Nieren im Rahmen der Überkreuzlebendnierenspende,
+
+
+2.  die Anforderungen an das Verfahren zur Verschlüsselung der
+    personenbezogenen Daten der inkompatiblen Organspendepaare und der
+    Spender im Rahmen nicht gerichteter anonymer Nierenspenden und an die
+    Bildung einer in § 13 Absatz 3a Satz 1 genannten Kenn-Nummer,
+
+
+3.  die notwendigen Anforderungen an die Datenübermittlung nach § 27
+    Absatz 1a Satz 10 des Fünften Buches Sozialgesetzbuch,
+
+
+4.  die Vermittlung der Nieren nach den Vorschriften des Absatzes 3a und
+    das Verfahren zur Einhaltung der Vorschriften des Absatzes 1 Satz 3
+    und 4 in Verbindung mit Absatz 1a Satz 2,
+
+
+5.  die Überprüfung von Vermittlungsentscheidungen in regelmäßigen
+    Abständen,
+
+
+6.  die Zusammenarbeit und den Erfahrungsaustausch mit den
+    Transplantationszentren,
+
+
+7.  eine regelmäßige barrierefreie Berichterstattung der Stelle zur
+    Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende an
+    die anderen Vertragspartner,
+
+
+8.  den Ersatz angemessener Aufwendungen der Stelle zur Vermittlung von
+    Nieren im Rahmen der Überkreuzlebendnierenspende für die Erfüllung
+    ihrer Aufgaben nach diesem Gesetz,
+
+
+9.  Maßgaben zur Vorfinanzierung der medizinischen Untersuchungen zur
+    Vorbereitung einer nicht gerichteten anonymen Lebendnierenspende und
+
+
+10. eine vertragliche Kündigungsmöglichkeit bei Vertragsverletzungen der
+    Stelle zur Vermittlung von Nieren im Rahmen der
+    Überkreuzlebendnierenspende.
+
+
+
+Der Vertrag kann für Nieren, die in einem anderen Mitgliedstaat der
+Europäischen Union oder anderen Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum entnommen werden, um diese Nieren im
+Geltungsbereich dieses Gesetzes zu übertragen, oder die im
+Geltungsbereich dieses Gesetzes entnommen werden, um diese Nieren in
+diesen Staaten zu übertragen, die Anforderungen an die Vermittlung
+dieser Nieren unter Einhaltung der Regelungen dieses Gesetzes und der
+auf Grund dieses Gesetzes erlassenen Rechtsverordnungen regeln. Der
+Vertrag nach Satz 1 bedarf des Einvernehmens mit dem Verband der
+Privaten Krankenversicherung.
+
+(5) Die Verträge nach den Absätzen 4 und 4a sowie ihre Änderung
+bedürfen der Genehmigung durch das Bundesministerium für Gesundheit
+und sind im Bundesanzeiger bekanntzumachen. Die Genehmigung ist zu
+erteilen, wenn der jeweilige Vertrag oder seine Änderung den
+Vorschriften dieses Gesetzes und sonstigem Recht entspricht. Der
+Spitzenverband Bund der Krankenkassen, die Bundesärztekammer und die
+Deutsche Krankenhausgesellschaft überwachen die Einhaltung der
+Vertragsbestimmungen. Zur Erfüllung ihrer Verpflichtung nach Satz 3
+setzen sie eine Kommission ein, die jeweils aus mindestens einem
+Vertreter des Spitzenverbandes Bund der Krankenkassen, der
+Bundesärztekammer und der Deutschen Krankenhausgesellschaft und zwei
+Vertretern der Länder zusammengesetzt ist. Die Vermittlungsstelle, die
+Stelle zur Vermittlung von Nieren im Rahmen der
+Überkreuzlebendnierenspende und die Transplantationszentren sind
 verpflichtet, der Kommission die erforderlichen Unterlagen zur
 Verfügung zu stellen und die erforderlichen Auskünfte zu erteilen. Die
 Kommission ist verpflichtet, Erkenntnisse über Verstöße gegen dieses
 Gesetz und auf Grund dieses Gesetzes erlassene Rechtsverordnungen an
 die zuständigen Behörden der Länder weiterzuleiten. Das Nähere zur
 Zusammensetzung der Kommission, zur Arbeitsweise und zum Verfahren
-regelt der Vertrag nach Absatz 4.
-
-(6) (weggefallen)
+regeln der Vertrag nach Absatz 4 und der Vertrag nach Absatz 4a.
 
 
 ### § 12a Angehörigenbetreuung
@@ -2030,7 +2554,7 @@ Absatz 3 ausgeschlossen sind.
 
 (1) Die Koordinierungsstelle verschlüsselt in einem mit den
 Transplantationszentren abgestimmten Verfahren die personenbezogenen
-Daten des Organspenders und bildet eine Kenn-Nummer, die
+Daten des verstorbenen Organspenders und bildet eine Kenn-Nummer, die
 ausschließlich der Koordinierungsstelle einen Rückschluss auf die
 Person des Organspenders zulässt, um eine lückenlose Rückverfolgung
 der Organe zu ermöglichen. Die Kenn-Nummer ist in die Begleitpapiere
@@ -2043,7 +2567,7 @@ erforderlichen medizinischen Angaben an die Vermittlungsstelle und
 übermittelt nach Entscheidung der Vermittlungsstelle die
 Begleitpapiere an das Transplantationszentrum, in dem das Organ auf
 den Empfänger übertragen werden soll. Das Nähere wird im Vertrag nach
-§ 11 Abs. 2 geregelt.
+§ 11 Absatz 2 geregelt.
 
 (2) Die Koordinierungsstelle darf Angaben aus den Begleitpapieren mit
 den personenbezogenen Daten des Organspenders zur weiteren Information
@@ -2059,13 +2583,52 @@ schriftlicher oder elektronischer Einwilligung unverzüglich an das
 Transplantationszentrum zu melden, in dem die Organübertragung
 vorgenommen werden soll. Die Meldung hat auch dann zu erfolgen, wenn
 eine Ersatztherapie durchgeführt wird. Die Transplantationszentren
-melden die für die Organvermittlung erforderlichen Angaben über die in
-die Wartelisten aufgenommenen Patienten nach deren schriftlicher oder
-elektronischer Einwilligung an die Vermittlungsstelle. Duldet die
-Meldung nach Satz 1 oder 3 wegen der Gefahr des Todes oder einer
-schweren Gesundheitsschädigung des Patienten keinen Aufschub, kann sie
-auch ohne seine vorherige Einwilligung erfolgen; die Einwilligung ist
-unverzüglich nachträglich einzuholen.
+melden
+
+1.  die für die Organvermittlung erforderlichen Angaben über die in die
+    Wartelisten aufgenommenen Patienten, die Spender im Rahmen einer nicht
+    gerichteten anonymen Nierenspende, die die in § 12 Absatz 3a Satz 3
+    Nummer 2 genannte Erklärung abgegeben haben, dass die Nieren auf einen
+    in die Warteliste aufgenommenen Patienten übertragen werden sollen,
+    sowie die in § 12 Absatz 3a Satz 4 genannten Spender der an der
+    Überkreuzlebendnierenspende beteiligten inkompatiblen Organspendepaare
+    nach deren schriftlicher oder elektronischer Einwilligung an die
+    Vermittlungsstelle und
+
+
+2.  die für die Organvermittlung im Rahmen einer
+    Überkreuzlebendnierenspende erforderlichen Angaben der angenommenen
+    inkompatiblen Organspendepaare oder der für eine nicht gerichtete
+    anonyme Nierenspende angenommenen Spender nach deren schriftlicher
+    oder elektronischer Einwilligung an die Stelle zur Vermittlung von
+    Nieren im Rahmen der Überkreuzlebendnierenspende.
+
+
+
+Duldet die Meldung nach den Sätzen 1 oder 3 wegen der Gefahr des Todes
+oder einer schweren Gesundheitsschädigung des Patienten keinen
+Aufschub, kann sie auch ohne seine vorherige Einwilligung erfolgen;
+die Einwilligung ist unverzüglich nachträglich einzuholen.
+
+(3a) Im Fall einer Überkreuzlebendnierenspende oder einer nicht
+gerichteten anonymen Nierenspende verschlüsselt das jeweilige
+Transplantationszentrum, in dem eine Niere entnommen werden soll, die
+personenbezogenen Daten des jeweiligen Spenders entsprechend den nach
+§ 12 Absatz 4a Satz 2 Nummer 2 vereinbarten Anforderungen und bildet
+die Kenn-Nummer, die ausschließlich dem Transplantationszentrum, in
+dem die jeweilige Niere entnommen werden soll, einen Rückschluss auf
+die Person des Spenders zulässt, um eine lückenlose Rückverfolgung der
+Niere zu ermöglichen. Die Kenn-Nummer ist in die Begleitpapiere für
+die jeweilige entnommene Niere aufzunehmen. Die Begleitpapiere
+enthalten daneben alle für die Nierenübertragung erforderlichen
+medizinischen Angaben, einschließlich der in § 10a Absatz 1 Satz 2 bis
+4 und in der Rechtsverordnung nach § 10a Absatz 4 genannten Angaben
+zur Organ- und Spendercharakterisierung. Nach der Entscheidung der
+Stelle zur Vermittlung von Nieren im Rahmen der
+Überkreuzlebendnierenspende übermittelt das Transplantationszentrum,
+in dem die Niere entnommen werden soll, die Begleitpapiere an das
+Transplantationszentrum, in dem die Niere auf den Empfänger übertragen
+werden soll.
 
 (4) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
 mit Zustimmung des Bundesrates das Verfahren regeln
@@ -2144,44 +2707,47 @@ sperren, wenn sich der Verdacht bestätigt.
 
 ### § 14 Datenschutz
 
-(1) Ist die Koordinierungsstelle, die Vermittlungsstelle oder die
-Gewebeeinrichtung eine nicht-öffentliche Stelle im Geltungsbereich
-dieses Gesetzes, so überwachen die Aufsichtsbehörden der Länder die
-Anwendung der Vorschriften über den Datenschutz gemäß § 40 Absatz 1
-des Bundesdatenschutzgesetzes auch in den Fällen, die nicht in den
-Anwendungsbereich der Verordnung (EU) 2016/679 nach Artikel 2 Absatz 1
-der Verordnung (EU) 2016/679 fallen. Dies gilt auch für die
-Verarbeitung personenbezogener Daten durch Personen mit Ausnahme des
-Erklärenden, denen nach § 2a Absatz 4 Satz 1 oder Absatz 5 Satz 1
-Auskunft aus dem Register für Erklärungen zur Organ- und Gewebespende
-erteilt oder an die nach § 2a Absatz 4 Satz 4 die Auskunft übermittelt
-worden ist.
+(1) Ist die Koordinierungsstelle, die Vermittlungsstelle, die Stelle
+zur Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende
+oder die Gewebeeinrichtung eine nicht-öffentliche Stelle im
+Geltungsbereich dieses Gesetzes, so überwachen die Aufsichtsbehörden
+der Länder die Anwendung der Vorschriften über den Datenschutz gemäß §
+40 Absatz 1 des Bundesdatenschutzgesetzes auch in den Fällen, die
+nicht in den Anwendungsbereich der Verordnung (EU) 2016/679 nach deren
+Artikel 2 Absatz 1 fallen. Dies gilt auch für die Verarbeitung
+personenbezogener Daten durch Personen mit Ausnahme des Erklärenden,
+denen nach § 2a Absatz 4 Satz 1 Auskunft aus dem Register für
+Erklärungen zur Organ- und Gewebespende erteilt oder an die nach § 2a
+Absatz 7 die Auskunft übermittelt worden ist.
 
 (2) Die an der Erteilung oder Übermittlung der Auskunft nach § 2a
-Absatz 4 oder Absatz 5 beteiligten Personen mit Ausnahme des
-Erklärenden, die an der Stellungnahme nach § 8 Abs. 3 Satz 2, die an
-der Mitteilung, Unterrichtung oder Übermittlung nach § 9a Absatz 2
-Nummer 1 und § 11 Abs. 4 sowie die an der Organ- oder Gewebeentnahme,
-der Organvermittlung oder -übertragung oder der Gewebeabgabe oder
--übertragung beteiligten Personen sowie die Personen, die bei der
-Transplantationsregisterstelle nach § 15b Absatz 2 und bei der
-Vertrauensstelle nach § 15c Absatz 1 Satz 2 personenbezogene Daten
-verarbeiten, dürfen personenbezogene Daten der Spender und der
-Empfänger nicht offenbaren. Dies gilt auch für personenbezogene Daten
-von Personen, die nach § 3 Abs. 3 Satz 1 über die beabsichtigte oder
-nach § 4 oder § 4a über eine in Frage kommende Organ- oder
-Gewebeentnahme unterrichtet worden sind. Die im Rahmen dieses Gesetzes
-erhobenen personenbezogenen Daten dürfen für andere als in diesem
-Gesetz genannte Zwecke nicht verarbeitet werden. Sie dürfen für
-gerichtliche Verfahren verarbeitet werden, deren Gegenstand die
-Verletzung des Offenbarungsverbots nach Satz 1 oder 2 ist.
+Absatz 4 oder Absatz 7 beteiligten Personen mit Ausnahme des
+Erklärenden, die an der Stellungnahme nach § 8a Absatz 1 Satz 1, die
+an der Mitteilung, Unterrichtung oder Übermittlung nach § 9a Absatz 2
+Nummer 1 und § 11 Absatz 4 sowie die an der Organ- oder
+Gewebeentnahme, der Organvermittlung oder -übertragung oder der
+Gewebeabgabe oder ‑übertragung beteiligten Personen sowie die
+Personen, die bei der Transplantationsregisterstelle nach § 15b Absatz
+2 und bei der Vertrauensstelle nach § 15c Absatz 1 Satz 2
+personenbezogene Daten verarbeiten, dürfen personenbezogene Daten der
+Spender und der Empfänger nicht offenbaren. Dies gilt auch für
+personenbezogene Daten von Personen, die nach § 3 Absatz 3 Satz 1 über
+die beabsichtigte oder nach den §§ 4 oder 4a über eine in Frage
+kommende Organ- oder Gewebeentnahme unterrichtet worden sind. Die im
+Rahmen dieses Gesetzes erhobenen personenbezogenen Daten dürfen für
+andere als in diesem Gesetz genannte Zwecke nicht verarbeitet werden.
+Sie dürfen für gerichtliche Verfahren verarbeitet werden, deren
+Gegenstand die Verletzung des Offenbarungsverbots nach den Sätzen 1
+oder 2 ist.
 
 (2a) Ärzte und anderes wissenschaftliches Personal des
 Entnahmekrankenhauses, des Transplantationszentrums, der
-Koordinierungsstelle nach § 11 und der Vermittlungsstelle nach § 12
-dürfen personenbezogene Daten, die von dem jeweiligen
-Entnahmekrankenhaus, dem jeweiligen Transplantationszentrum oder der
-jeweiligen Stelle nach § 11 oder § 12 im Rahmen der Organ- und
+Koordinierungsstelle nach § 11, der Vermittlungsstelle nach § 12
+Absatz 1 und der Stelle zur Vermittlung von Nieren im Rahmen der
+Überkreuzlebendnierenspende nach § 12 Absatz 1a dürfen
+personenbezogene Daten, die von dem jeweiligen Entnahmekrankenhaus,
+dem jeweiligen Transplantationszentrum oder der jeweiligen Stelle nach
+§ 11 oder § 12 Absatz 1 oder 1a im Rahmen der Organ- und
 Spendercharakterisierung beim Organ- oder Gewebespender oder im Rahmen
 der Organ- oder Gewebeübertragung beim Organ- oder Gewebeempfänger
 erhoben oder an diese übermittelt worden sind, abweichend von Absatz 2
@@ -2193,11 +2759,11 @@ verarbeitet werden, wenn
 1.  die Daten der betroffenen Person nicht mehr zugeordnet werden können,
 
 
-2.  im Falle, dass der Forschungszweck die Möglichkeit der Zuordnung
+2.  im Fall, dass der Forschungszweck die Möglichkeit der Zuordnung
     erfordert, die betroffene Person eingewilligt hat oder
 
 
-3.  im Falle, dass weder auf die Zuordnungsmöglichkeit verzichtet noch die
+3.  im Fall, dass weder auf die Zuordnungsmöglichkeit verzichtet noch die
     Einwilligung mit verhältnismäßigem Aufwand eingeholt werden kann, das
     öffentliche Interesse an der Durchführung des Forschungsvorhabens die
     schützenswerten Interessen der betroffenen Person überwiegt und der
@@ -2210,30 +2776,46 @@ möglich ist und keinen im Verhältnis zu dem angestrebten Schutzzweck
 unverhältnismäßigen Aufwand erfordert, zu anonymisieren oder, solange
 eine Anonymisierung noch nicht möglich ist, zu pseudonymisieren.
 
-(3) Von diesen Vorschriften unberührt bleibt im Falle der Samenspende
-das Recht des Kindes auf Kenntnis der eigenen Abstammung. Im Falle der
-Knochenmarkspende darf abweichend von Absatz 2 die Identität des
-Gewebespenders und des Gewebeempfängers gegenseitig oder den
-jeweiligen Verwandten bekannt gegeben werden, wenn der Gewebespender
-und der Gewebeempfänger oder ihre gesetzlichen Vertreter darin
-ausdrücklich eingewilligt haben.
+(3) Von diesen Vorschriften unberührt bleibt im Fall der Samenspende
+das Recht des Kindes auf Kenntnis der eigenen Abstammung. Abweichend
+von Absatz 2
+
+1.  darf im Fall der Knochenmarkspende die Identität des Gewebespenders
+    und des Gewebeempfängers gegenseitig oder den jeweiligen Verwandten
+    bekanntgegeben werden, wenn der Gewebespender und der Gewebeempfänger
+    oder, im Fall eines nicht einwilligungsfähigen Gewebespenders oder
+    Gewebeempfängers, der jeweilige gesetzliche Vertreter oder
+    Bevollmächtigte darin ausdrücklich eingewilligt haben,
+
+
+2.  dürfen im Fall einer Überkreuzlebendnierenspende nach Ablauf von 24
+    Monaten nach der Übertragung einer Niere die Identität des jeweiligen
+    Spenders eines inkompatiblen Organspendepaars und die Identität des
+    jeweiligen Empfängers eines inkompatiblen Organspendepaars gegenseitig
+    bekannt geben werden, wenn der Spender und der Empfänger oder, im Fall
+    eines nicht einwilligungsfähigen Empfängers, der Spender und der
+    gesetzliche Vertreter oder der Bevollmächtigte des Empfängers darin
+    ausdrücklich eingewilligt haben.
+
+
+
 
 
 ### § 15 Aufbewahrungs- und Löschungsfristen
 
-(1) Die Aufzeichnungen über die Beteiligung nach § 4 Abs. 4, über die
-Aufklärung nach § 4a Abs. 2, zur Feststellung der
-Untersuchungsergebnisse nach § 5 Abs. 2 Satz 3 und Abs. 3 Satz 3, zur
-Aufklärung nach § 8 Abs. 2 Satz 4, auch in Verbindung mit § 8a Satz 1
-Nr. 4, § 8b Abs. 1 und 2, § 8c Abs. 1 Nr. 1 Buchstabe b und Abs. 2 und
-3 und zur gutachtlichen Stellungnahme nach § 8 Abs. 3 Satz 2 sowie die
+(1) Die Aufzeichnungen über die Beteiligung nach § 4 Absatz 4, über
+die Aufklärung nach § 4a Absatz 2, zur Feststellung der
+Untersuchungsergebnisse nach § 5 Absatz 2 Satz 3 und Absatz 3 Satz 3,
+über die Aufklärung nach § 8 Absatz 2 Satz 4, auch in Verbindung mit §
+8b Satz 1 Nummer 4 und 5, nach § 8c Absatz 4, § 8d Absatz 4 und zur
+gutachtlichen Stellungnahme nach § 8a Absatz 3 Satz 4 sowie die
 Dokumentationen der Organentnahme, -vermittlung und -übertragung und
-die nach § 10a erhobenen Angaben zur Organ- und
+die nach § 10a erhobenen Angaben zur Organ- und
 Spendercharakterisierung sind, soweit § 15h nichts anderes bestimmt,
 30 Jahre aufzubewahren, um eine lückenlose Rückverfolgung der Organe
 zu ermöglichen.
 
-(2) Die nach § 8d Absatz 2 zu dokumentierenden Angaben müssen 30 Jahre
+(2) Die nach § 8e Absatz 2 zu dokumentierenden Angaben müssen 30 Jahre
 lang nach Ablauf des Verfalldatums des Gewebes und die nach § 13a zu
 dokumentierenden Daten 30 Jahre lang nach der Übertragung des Gewebes
 aufbewahrt werden und unverzüglich verfügbar sein.
@@ -2505,10 +3087,14 @@ eingerichtet. Dem Fachbeirat gehören an jeweils zwei Vertreter
 
 
 
-Weitere Experten können im Einzelfall hinzugezogen werden. Der
-Fachbeirat zieht die wissenschaftlichen medizinischen
-Fachgesellschaften bei der Erarbeitung und bei der Fortschreibung des
-bundesweit einheitlichen Datensatzes nach § 15e Absatz 5 hinzu.
+Ein Vertreter der Stelle zur Vermittlung von Nieren im Rahmen der
+Überkreuzlebendnierenspende ist hinzuzuziehen, sofern nicht die
+Vermittlungsstelle als Stelle zur Vermittlung von Nieren im Rahmen der
+Überkreuzlebendnierenspende beauftragt worden ist. Weitere Experten
+können im Einzelfall hinzugezogen werden. Der Fachbeirat zieht die
+wissenschaftlichen medizinischen Fachgesellschaften bei der
+Erarbeitung und bei der Fortschreibung des bundesweit einheitlichen
+Datensatzes nach § 15e Absatz 5 hinzu.
 
 (2) Der Fachbeirat berät und unterstützt die
 Transplantationsregisterstelle und die Vertrauensstelle. Er ist
@@ -2544,6 +3130,10 @@ Transplantationsregisterstelle sind verpflichtet:
 
 
 2.  die Vermittlungsstelle nach § 12 Absatz 1 Satz 1,
+
+
+2a. die Stelle zur Vermittlung von Nieren im Rahmen der
+    Überkreuzlebendnierenspende nach § 12 Absatz 1a,
 
 
 3.  die Transplantationszentren,
@@ -2584,12 +3174,23 @@ insbesondere
 
 3.  die für die Organvermittlung nach § 12 Absatz 3 Satz 1 in Verbindung
     mit § 16 Absatz 1 Satz 1 Nummer 5 erforderlichen Daten der in die
-    Warteliste aufgenommenen Patienten und verstorbenen Organspender,
+    Warteliste aufgenommenen Patienten, der verstorbenen Organspender
+    sowie derjenigen Spender im Rahmen einer nicht gerichteten anonymen
+    Nierenspende und derjenigen Spender der an einer
+    Überkreuzlebendnierenspende beteiligten inkompatiblen
+    Organspendepaare, deren Niere einem in die Warteliste aufgenommenen
+    Patienten vermittelt wurde,
 
 
 4.  die Daten des lebenden Organspenders, die im Rahmen der ärztlichen
     Beurteilung nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe c erhoben
     werden,
+
+
+4a. die für die Organvermittlung nach § 12 Absatz 3a in Verbindung mit §
+    16 Absatz 1 Satz 1 Nummer 5a erforderlichen Daten der im Rahmen der
+    Überkreuzlebendnierenspende erfassten Organspendepaare und der Spender
+    im Rahmen einer nicht gerichteten anonymen Nierenspende,
 
 
 5.  die für die Organ- und Spendercharakterisierung nach § 10a Absatz 1
@@ -2668,13 +3269,14 @@ ihrer datenschutzrechtlichen Einwilligung nach Absatz 7 die bis dahin
 Transplantationszentrum die von ihm erhobenen
 transplantationsmedizinischen Daten eines in die Warteliste
 aufgenommenen Patienten, eines Organempfängers oder eines lebenden
-Organspenders an die Vermittlungsstelle nach § 13 Absatz 3 Satz 3 oder
-an den Gemeinsamen Bundesausschuss auf der Grundlage von Richtlinien
-nach § 136 Absatz 1 Satz 1 Nummer 1 des Fünften Buches
-Sozialgesetzbuch, so ist auch die jeweilige Stelle über die erfolgte
-Aufklärung und die erklärte Einwilligung des in die Warteliste
-aufgenommenen Patienten, des Organempfängers oder des lebenden
-Organspenders zu unterrichten. Wird ein in die Warteliste
+Organspenders an die Vermittlungsstelle oder an die Stelle zur
+Vermittlung von Nieren im Rahmen der Überkreuzlebendnierenspende nach
+§ 13 Absatz 3 Satz 3 oder an den Gemeinsamen Bundesausschuss auf der
+Grundlage von Richtlinien nach § 136 Absatz 1 Satz 1 Nummer 1 des
+Fünften Buches Sozialgesetzbuch, so ist auch die jeweilige Stelle über
+die erfolgte Aufklärung und die erklärte Einwilligung des in die
+Warteliste aufgenommenen Patienten, des Organempfängers oder des
+lebenden Organspenders zu unterrichten. Wird ein in die Warteliste
 aufgenommener Patient, ein Organempfänger oder ein lebender
 Organspender durch eine mit der Nachsorge betraute Einrichtung oder
 durch einen Arzt in der ambulanten Versorgung im Rahmen der Nachsorge
@@ -2725,6 +3327,11 @@ das Bundesamt für Sicherheit in der Informationstechnik zu beteiligen.
 
 2.  der Vermittlungsstelle die zur Weiterentwicklung der Organvermittlung
     nach § 12 Absatz 3 Satz 1 erforderlichen Daten,
+
+
+2a. der Stelle zur Vermittlung von Nieren im Rahmen der
+    Überkreuzlebendnierenspende die zur Weiterentwicklung der Vermittlung
+    von Nieren nach § 12 Absatz 3a erforderlichen Angaben,
 
 
 3.  der Bundesärztekammer die zur Fortschreibung der Richtlinien nach § 16
@@ -2876,22 +3483,27 @@ Finanzierung der Vertrauensstelle nach § 15c Absatz 3.
 (1) Die Bundesärztekammer stellt den Stand der Erkenntnisse der
 medizinischen Wissenschaft in Richtlinien fest für
 
-1.  die Regeln zur Feststellung des Todes nach § 3 Abs. 1 Satz 1 Nr. 2 und
-    die Verfahrensregeln zur Feststellung des endgültigen, nicht
+1.  die Regeln zur Feststellung des Todes nach § 3 Absatz 1 Satz 1 Nummer
+    2 und die Verfahrensregeln zur Feststellung des endgültigen, nicht
     behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns
-    und des Hirnstamms nach § 3 Abs. 2 Nr. 2 einschließlich der dazu
+    und des Hirnstamms nach § 3 Absatz 2 Nummer 2 einschließlich der dazu
     jeweils erforderlichen ärztlichen Qualifikation,
 
 
-1a. die Regeln zur Feststellung des Todes nach § 4a Abs. 1 Satz 1 Nr. 1,
+1a. die Regeln zur Feststellung des Todes nach § 4a Absatz 1 Satz 1 Nummer
+    1,
 
 
-2.  die Regeln zur Aufnahme in die Warteliste nach § 10 Abs. 2 Nr. 2
-    einschließlich der Dokumentation der Gründe für die Aufnahme oder die
-    Ablehnung der Aufnahme,
+2.  die Regeln zur Aufnahme in die Warteliste nach § 10 Absatz 2 Satz 1
+    Nummer 2 einschließlich der Dokumentation der Gründe für die Aufnahme
+    oder die Ablehnung der Aufnahme,
 
 
 3.  die ärztliche Beurteilung nach § 9a Absatz 2 Nummer 1,
+
+
+3a. die Anforderungen an die in § 10 Absatz 2 Satz 1 Nummer 10 genannten
+    Maßnahmen für eine erforderliche psychische Vor- und Nachbetreuung,
 
 
 4.  die Anforderungen an die im Zusammenhang mit einer Organentnahme zum
@@ -2914,28 +3526,64 @@ medizinischen Wissenschaft in Richtlinien fest für
     c)  die Erkennung und Behandlung von Vorfällen bei einer
         Lebendorganspende, die mit der Qualität und Sicherheit des gespendeten
         Organs zusammenhängen können, oder von schwerwiegenden unerwünschten
-        Reaktionen beim lebenden Spender, die im Rahmen seiner Nachbetreuung
+        Reaktionen beim lebenden Spender, die im Rahmen seiner Nachsorge
         festgestellt werden,
 
 
 
 
 
-5.  die Regeln zur Organvermittlung nach § 12 Abs. 3 Satz 1,
+4a. die Anforderungen an die im Zusammenhang mit einer Organentnahme zum
+    Schutz der lebenden Organspender erforderlichen Maßnahmen
+    einschließlich ihrer Dokumentation, insbesondere an
+
+    a)  die in § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe c genannte Beurteilung
+        der Eignung als Spender,
+
+
+    b)  die in § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe d genannte umfassende
+        psychosoziale Beratung und Evaluation,
+
+
+    c)  die Aufklärung der lebenden Organspender nach § 8 Absatz 2,
+
+
+    d)  die in § 8 Absatz 4 genannte Nachsorge einschließlich der
+        psychosozialen Nachsorge der lebenden Organspender,
+
+
+    e)  die Aufzeichnung der durchgeführten Lebendorganspenden nach § 10
+        Absatz 2 Satz 1 Nummer 9,
+
+
+
+
+
+5.  die Regeln zur Organvermittlung nach § 12 Absatz 3 Satz 1,
+
+
+5a. die Regeln zur Annahme von inkompatiblen Organspendepaaren und von
+    Spendern im Rahmen nicht gerichteter anonymer Nierenspenden nach § 10
+    Absatz 2 Satz 1 Nummer 5 Buchstabe b und zur Vermittlung von Nieren im
+    Rahmen einer Überkreuzlebendnierenspende nach § 12 Absatz 3a und
 
 
 6.  die Anforderungen an die im Zusammenhang mit einer Organentnahme und
-    -übertragung erforderlichen Maßnahmen zur Qualitätssicherung und
-
-
-7.  die Anforderungen an die Aufzeichnung der Lebendorganspenden nach § 10
-    Absatz 2 Nummer 6.
+    -übertragung erforderlichen Maßnahmen zur Qualitätssicherung.
 
 
 
 Die Einhaltung des Standes der Erkenntnisse der medizinischen
 Wissenschaft wird vermutet, wenn die Richtlinien der Bundesärztekammer
-beachtet worden sind.
+beachtet worden sind. Bei der Feststellung des Standes der
+Erkenntnisse der medizinischen Wissenschaft für die in Satz 1 Nummer 5
+genannten Regeln zur Organvermittlung einer Niere kann die
+Bundesärztekammer eine Vermittlung nach Punktwert vorsehen. In diesem
+Fall legt die Bundesärztekammer für die Vermittlung einer Niere bei
+einem Patienten, dem zuvor eine Niere zum Zweck der Übertragung auf
+einen anderen entnommen worden ist, auch einen Punktwert fest, der
+dies gemäß § 12 Absatz 3 Satz 2 im Verhältnis zu den anderen in die
+Warteliste aufgenommenen Patienten angemessen berücksichtigt.
 
 (2) Die Bundesärztekammer legt das Verfahren für die Erarbeitung der
 Richtlinien nach Absatz 1 und für die Beschlussfassung fest. Die
@@ -2943,20 +3591,22 @@ Richtlinien nach Absatz 1 sind zu begründen; dabei ist insbesondere
 die Feststellung des Standes der Erkenntnisse der medizinischen
 Wissenschaft nachvollziehbar darzulegen. Bei der Erarbeitung der
 Richtlinien ist die angemessene Beteiligung von Sachverständigen der
-betroffenen Fach- und Verkehrskreise‚ einschließlich des
+betroffenen Fach- und Verkehrskreise einschließlich des
 Spitzenverbandes Bund der Krankenkassen, der Deutschen
 Krankenhausgesellschaft, der Deutschen Transplantationsgesellschaft,
-der Koordinierungsstelle nach § 11, der Vermittlungsstelle nach § 12
-und der zuständigen Behörden der Länder vorzusehen. Darüber hinaus
-sollen bei der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 1,
-1a und 5 Ärzte, die weder an der Entnahme noch an der Übertragung von
-Organen beteiligt sind, noch Weisungen eines Arztes unterstehen, der
-an solchen Maßnahmen beteiligt ist, bei der Erarbeitung der
-Richtlinien nach Absatz 1 Satz 1 Nr. 2 und 5 Personen mit der
-Befähigung zum Richteramt und Personen aus dem Kreis der Patienten,
-bei der Erarbeitung von Richtlinien nach Absatz 1 Satz 1 Nr. 5 ferner
-Personen aus dem Kreis der Angehörigen von Organspendern nach § 3 oder
-§ 4 angemessen vertreten sein.
+der Koordinierungsstelle nach § 11, der Vermittlungsstelle nach § 12
+Absatz 1, der Stelle zur Vermittlung von Nieren im Rahmen der
+Überkreuzlebendnierenspende nach § 12 Absatz 1a und der zuständigen
+Behörden der Länder vorzusehen. Darüber hinaus sollen bei der
+Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 1, 1a und 5
+Ärzte, die weder an der Entnahme noch an der Übertragung von Organen
+beteiligt sind, noch Weisungen eines Arztes unterstehen, der an
+solchen Maßnahmen beteiligt ist, bei der Erarbeitung der Richtlinien
+nach Absatz 1 Satz 1 Nr. 2 und 5 Personen mit der Befähigung zum
+Richteramt und Personen aus dem Kreis der Patienten, bei der
+Erarbeitung von Richtlinien nach Absatz 1 Satz 1 Nr. 5 ferner Personen
+aus dem Kreis der Angehörigen von Organspendern nach § 3 oder § 4
+angemessen vertreten sein.
 
 (3) Die Richtlinien nach Absatz 1 sowie deren Änderungen sind dem
 Bundesministerium für Gesundheit zur Genehmigung vorzulegen. Das
@@ -3089,18 +3739,17 @@ Strafgesetzbuchs).
 
 (1) Wer
 
-1.  entgegen § 8 Abs. 1 Satz 1 Nr. 1 Buchstabe a oder Buchstabe b oder Nr.
-    4 oder § 8c Abs. 1 Nr. 1 oder Nr. 3, Abs. 2 Satz 1, auch in Verbindung
-    mit Abs. 3 Satz 2, oder § 8c Abs. 3 Satz 1 ein Organ oder Gewebe
-    entnimmt,
+1.  entgegen § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe a oder b
+    Doppelbuchstabe aa oder cc oder Nummer 3, § 8d Absatz 1 Nummer 1 oder
+    3 oder Absatz 2, auch in Verbindung mit Absatz 3 Satz 2, oder entgegen
+    § 8d Absatz 3 Satz 1 ein Organ oder Gewebe entnimmt,
 
 
 2.  entgegen § 8 Abs. 1 Satz 2 ein Organ entnimmt oder
 
 
-3.  entgegen § 8b Abs. 1 Satz 1, auch in Verbindung mit Abs. 2, ein Organ
-    oder Gewebe zur Übertragung auf eine andere Person verwendet oder
-    menschliche Samenzellen gewinnt,
+3.  entgegen § 8c Absatz 1, 2 oder 3 ein Organ oder Gewebe überträgt oder
+    männliche Keimzellen gewinnt,
 
 
 
@@ -3118,8 +3767,7 @@ Gesundheitszustand eines Patienten erhebt, dokumentiert oder
 
 (3) Wer
 
-1.  entgegen § 2a Absatz 4 Satz 1 oder Satz 4 eine Auskunft erteilt oder
-    übermittelt,
+1.  entgegen § 2a Absatz 4 oder 7 eine Auskunft erteilt oder übermittelt,
 
 
 2.  entgegen § 13 Abs. 2 eine Angabe verarbeitet oder
@@ -3147,22 +3795,22 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-2.  entgegen § 8d Abs. 1 Satz 2 Nr. 3 in Verbindung mit einer
+2.  entgegen § 8e Abs. 1 Satz 2 Nr. 3 in Verbindung mit einer
     Rechtsverordnung nach § 16a Satz 2 Nr. 3 nicht sicherstellt, dass eine
     Laboruntersuchung durchgeführt wird,
 
 
-3.  entgegen § 8d Abs. 2 in Verbindung mit einer Rechtsverordnung nach §
+3.  entgegen § 8e Abs. 2 in Verbindung mit einer Rechtsverordnung nach §
     16a Satz 2 Nr. 1 eine Gewebeentnahme, eine Gewebeabgabe, eine damit
     verbundene Maßnahme oder eine dort genannte Angabe nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
 
 
-3a. entgegen § 8d Absatz 3 Satz 2 einen Bericht nicht, nicht richtig,
+3a. entgegen § 8e Absatz 3 Satz 2 einen Bericht nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig übermittelt,
 
 
-4.  entgegen § 9 Absatz 1 oder Absatz 2 Satz 1 oder Satz 3 ein Organ
+4.  entgegen § 9 Absatz 1 oder Absatz 2 Satz 1, 3 oder 4 ein Organ
     entnimmt oder überträgt,
 
 
@@ -3170,15 +3818,16 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     Entnahme des Organs durch die Koordinierungsstelle organisiert wurde,
 
 
-6.  entgegen § 10 Absatz 2 Nummer 4 nicht, nicht richtig, nicht
+6.  entgegen § 10 Absatz 2 Satz 1 Nummer 6 nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig feststellt, dass die Organ- und
     Spendercharakterisierung nach § 10a Absatz 1 abgeschlossen ist oder
     die Bedingungen für den Transport nach § 10a Absatz 3 Satz 1
     eingehalten sind,
 
 
-7.  entgegen § 10 Absatz 2 Nummer 5 die Organübertragung nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
+7.  entgegen § 10 Absatz 2 Satz 1 Nummer 7 erster Halbsatz die
+    Organübertragung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig dokumentiert,
 
 
 8.  entgegen § 10a Absatz 1 Satz 1 nicht sicherstellt, dass ein Organ nur
@@ -3244,17 +3893,10 @@ Stellen und Sachverständigen der Bundeswehr.
 (Änderung des Strafgesetzbuchs)
 
 
-### § 25 Übergangsregelungen
+### § 25 Übergangsregelung
 
-(1) Bei Inkrafttreten dieses Gesetzes bestehende Verträge über
-Regelungsgegenstände nach § 11 gelten weiter, bis sie durch Vertrag
-nach § 11 Abs. 1 und 2 abgelöst oder durch Rechtsverordnung nach § 11
-Abs. 6 ersetzt werden.
-
-(2) Bei Inkrafttreten dieses Gesetzes bestehende Verträge über
-Regelungsgegenstände nach § 12 gelten weiter, bis sie durch Vertrag
-nach § 12 Abs. 1 und 4 abgelöst oder durch Rechtsverordnung nach § 12
-Abs. 6 ersetzt werden.
+§ 8 Absatz 1a, § 10 Absatz 2 Satz 1 Nummer 5 und § 12 Absatz 3a sind
+ab dem 1. Juni 2029 anzuwenden.
 
 
 ### § 26 (Inkrafttreten, Außerkrafttreten)
