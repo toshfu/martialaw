@@ -15,10 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2386
 
-Stand: Zuletzt geändert Art. 2 V v. 29.10.2025 I Nr. 260
-Änderung durch
-:   Art. 1 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Zuletzt geändert Art. 1 V v. 30.1.2026 I Nr. 31
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -939,7 +936,8 @@ ihre Geltung und sind Pässe im Sinne des § 1 des Passgesetzes.
 
 ### Anlage 1 Übersicht über die zu zertifizierenden Systemkomponenten
 
-(Fundstelle: BGBl. I 2010, S. 1456)
+(Fundstelle: BGBl. I 2010, S. 1456;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nr.
 
