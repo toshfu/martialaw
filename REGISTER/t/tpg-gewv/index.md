@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 7.7.2017 I 2842
 
+Änderung durch
+:   Art. 2 Abs. 2 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^f770878_01_BJNR051200008]:     Diese Verordnung dient zur Umsetzung der
     –                                    Richtlinie 2004/23/EG des
     Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung
@@ -58,18 +61,18 @@ Bundesärztekammer und weiterer Sachverständiger:
 ## § 1 Anwendungsbereich
 
 Diese Verordnung findet Anwendung auf Gewebeeinrichtungen im Sinne des
-§ 1a Nr. 8 des Transplantationsgesetzes, die Gewebe im Sinne des § 1a
-Nr. 4 des Transplantationsgesetzes entnehmen (Entnahmeeinrichtung)
-oder die die für Gewebespender erforderlichen Laboruntersuchungen in
-einem Untersuchungslabor nach § 8e des Transplantationsgesetzes
-durchführen oder durchführen lassen. Sie gilt ferner für Einrichtungen
-der medizinischen Versorgung, die Gewebe im Sinne des § 1a Nr. 4 des
-Transplantationsgesetzes übertragen.
+§ 1a Nummer 12 des Transplantationsgesetzes, die Gewebe im Sinne des
+§ 1a Nummer 4 des Transplantationsgesetzes entnehmen
+(Entnahmeeinrichtung) oder die die für Gewebespender erforderlichen
+Laboruntersuchungen in einem Untersuchungslabor nach § 8f des
+Transplantationsgesetzes durchführen oder durchführen lassen. Sie gilt
+ferner für Einrichtungen der medizinischen Versorgung, die Gewebe im
+Sinne des § 1a Nummer 4 des Transplantationsgesetzes übertragen.
 
 
 ## § 2 Anforderungen an die Entnahme von Geweben
 
-Zur Einhaltung der Anforderungen an die Entnahme von Geweben nach § 8d
+Zur Einhaltung der Anforderungen an die Entnahme von Geweben nach § 8e
 Abs. 1 Satz 2 Nr. 1 des Transplantationsgesetzes ist die
 Entnahmeeinrichtung insbesondere verpflichtet, sicherzustellen, dass
 die Art und Weise der Entnahme hinsichtlich der Art der gespendeten
@@ -80,7 +83,7 @@ biologischen und physikalischen Eigenschaften erhalten bleiben.
 ## § 3 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders
 
 (1) Die ärztliche Beurteilung zur medizinischen Eignung des toten
-Spenders nach § 8d Abs. 1 Satz 2 Nr. 2 des Transplantationsgesetzes
+Spenders nach § 8e Abs. 1 Satz 2 Nr. 2 des Transplantationsgesetzes
 beruht auf der Risikobewertung in Bezug auf die jeweilige Verwendung
 und der Art des Gewebes. Dabei sind die in Anlage 1 Nr. 1 genannten
 Anforderungen zu beachten. Der Spender ist von der Spende
@@ -97,7 +100,7 @@ dass die in Anlage 2 genannten Anforderungen zu beachten sind.
 ## § 4 Anforderungen an Laboruntersuchungen und Untersuchungsverfahren
 
 Bei den für Gewebespender erforderlichen Laboruntersuchungen im Sinne
-des § 8d Abs. 1 Satz 2 Nr. 3 des Transplantationsgesetzes hat die
+des § 8e Abs. 1 Satz 2 Nr. 3 des Transplantationsgesetzes hat die
 Entnahmeeinrichtung mindestens die in Anlage 3 Nr. 1 genannten
 Laboruntersuchungen für Gewebespender mit Ausnahme von Keimzellen in
 einem Untersuchungslabor durchzuführen oder durchführen zu lassen. Bei
@@ -125,7 +128,7 @@ dokumentiert werden:
     Transplantationsgesetzes genannten Person oder der Einwilligung der
     Frau, die mit dem Embryo oder Fötus schwanger war, nach § 4a Abs. 1
     Satz 1 Nr. 2 des Transplantationsgesetzes und bei lebenden Spendern
-    die Einwilligung des Spenders nach § 8, § 8b oder § 8c des
+    die Einwilligung des Spenders nach den §§ 8, 8c oder 8d des
     Transplantationsgesetzes;
 
 
@@ -200,7 +203,7 @@ mindestens folgende Angaben enthält:
 
 Im Entnahmebericht ist zu dokumentieren, dass die Gewebe für die
 Aufbereitung, Be- oder Verarbeitung, Konservierung oder Aufbewahrung
-im Sinne des § 8d Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
+im Sinne des § 8e Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
 freigegeben sind.
 
 
