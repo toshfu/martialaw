@@ -19,22 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 30 G v. 8.12.2025 I Nr. 319
-
-Mittelbare änderung durch
-:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Änderung durch
-:   Art. 13 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1a G v. 9.4.2026 I Nr. 98 ist berücksichtigt
+:   Art. 1a G v. 9.4.2026 I Nr. 98
 
 Änderung durch
 :   Art. 8 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
