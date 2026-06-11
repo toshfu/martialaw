@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 32 G v. 8.12.2025 I Nr. 319
-
-Mittelbare änderung durch
-:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Änderung durch
-:   Art. 17 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 22.12.2025 I Nr. 349
 
 Änderung durch
 :   Art. 10 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
