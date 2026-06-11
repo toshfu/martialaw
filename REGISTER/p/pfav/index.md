@@ -2217,6 +2217,9 @@ versicherungsmathematischen Gutachtens nach § 17 der
 Versicherungsberichterstattungs-Verordnung.
 
 
+## Teil 3 - Schlussbestimmungen
+
+
 ### § 42a Elektronische Einreichungen gegenüber der Aufsichtsbehörde
 
 (1) Soweit in dieser Verordnung nichts anderes geregelt ist, sind der
@@ -2329,9 +2332,6 @@ entsprechen.
 (2) Zurückgewiesene Datensätze gelten als nicht eingereicht. Die
 Zurückweisungsnachricht ist einschließlich der Angabe des
 Zurückweisungsgrundes im MVP-Portal abrufbar.
-
-
-## Teil 3 - Schlussbestimmungen
 
 
 ### § 43 Übergangsvorschriften zu Teil 1
