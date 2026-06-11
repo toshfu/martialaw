@@ -19,22 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.7.1979 I 853, 1036;
 
 Zuletzt geändert durch
-:   Art. 27 G v. 8.12.2025 I Nr. 319
-
-Mittelbare änderung durch
-:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 27.4.2026 I Nr. 119 ist berücksichtigt
+:   Art. 2 G v. 27.4.2026 I Nr. 119
 
 Änderung durch
 :   Art. 7 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
