@@ -18,8 +18,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 509
 
-Geändert durch
-:   Art. 2 V v. 26.10.2021 I 4740
+Zuletzt geändert durch
+:   Art. 1 V v. 9.6.2026 I Nr. 172
 
 Stand: Ersetzt V 7110-1-7 v. 20.12.2007 I 3075 (EU/EWRHwV)
 [^F793412_01_BJNR050900016]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
@@ -473,9 +473,9 @@ Teilzeitbeschäftigung tatsächlich und rechtmäßig ausgeübt worden sind
 und nicht länger als zehn Jahre zurückliegen.
 
 (2) Beabsichtigen Staatsangehörige eines Herkunftsstaates,
-Dienstleistungen erstmals in einem Handwerk der Anlage A Nummer 12
-oder Nummer 33 bis 37 der Handwerksordnung in der Bundesrepublik
-Deutschland zu erbringen, so muss die zuständige Behörde vor der
+Dienstleistungen erstmals in einem Handwerk der Anlage A Nummer 33 bis
+37 der Handwerksordnung in der Bundesrepublik Deutschland zu
+erbringen, so muss die zuständige Behörde vor der
 Dienstleistungserbringung die Berufsqualifikation der
 Dienstleistungserbringerin oder des Dienstleistungserbringers prüfen,
 wenn unter Berücksichtigung der beabsichtigten Tätigkeit bei
@@ -497,11 +497,11 @@ Dienstleistungserbringung.
 (2) Liegen die Voraussetzungen nach § 8 Absatz 1 vor, darf die
 Dienstleistung vorbehaltlich von Satz 2 sofort nach der Anzeige
 erbracht werden. Dienstleistungen in einem Handwerk der Anlage A
-Nummer 12 oder Nummer 33 bis 37 der Handwerksordnung dürfen erst
-erbracht werden, wenn die Behörde entweder mitgeteilt hat, dass keine
-Prüfung der Berufsqualifikation nach § 8 Absatz 2 beabsichtigt ist,
-oder wenn eine ausreichende Berufsqualifikation festgestellt wurde. §
-10 Absatz 3 bleibt unberührt.
+Nummer 33 bis 37 der Handwerksordnung dürfen erst erbracht werden,
+wenn die Behörde entweder mitgeteilt hat, dass keine Prüfung der
+Berufsqualifikation nach § 8 Absatz 2 beabsichtigt ist, oder wenn eine
+ausreichende Berufsqualifikation festgestellt wurde. § 10 Absatz 3
+bleibt unberührt.
 
 (3) Die zuständige Behörde stellt eine Eingangsbestätigung aus, aus
 der hervorgeht, ob die Voraussetzungen nach § 8 Absatz 1 vorliegen und
@@ -558,7 +558,7 @@ Dienstleistungserbringerin oder des Dienstleistungserbringers im Sinne
 von § 8 Absatz 2 ausreicht, ist eine Bescheinigung darüber
 auszustellen. Die Bescheinigung kann auf einen wesentlichen Teil der
 Tätigkeiten beschränkt werden, die zu einem Handwerk der Anlage A
-Nummer 12 oder Nummer 33 bis 37 der Handwerksordnung gehören.
+Nummer 33 bis 37 der Handwerksordnung gehören.
 
 
 ## Abschnitt 3 - Ordnungswidrigkeiten, Inkrafttreten, Außerkrafttreten
