@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 10.2.2026 I Nr. 39
-
-Änderung durch
-:   Art. 4 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 26.5.2026 I Nr. 156
 
 
 ## Abschnitt I - Allgemeine Vorschriften
