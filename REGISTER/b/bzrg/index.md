@@ -1561,9 +1561,10 @@ Kenntnis gegeben werden
 
 
 7.  den Ausländerbehörden, den mit der polizeilichen Kontrolle des
-    grenzüberschreitenden Verkehrs beauftragten Behörden und dem Bundesamt
-    für Migration und Flüchtlinge, wenn sich die Auskunft auf einen
-    Ausländer bezieht,
+    grenzüberschreitenden Verkehrs beauftragten Behörden, den für die
+    Überprüfung nach § 15b des Aufenthaltsgesetzes zuständigen Behörden
+    des Bundes und der Länder und dem Bundesamt für Migration und
+    Flüchtlinge, wenn sich die Auskunft auf einen Ausländer bezieht,
 
 
 8.  den Gnadenbehörden für Gnadensachen,
