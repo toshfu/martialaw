@@ -9657,13 +9657,6 @@ vermerken.
 (3) Der Beschluss, durch den eine Freiheitsentziehung angeordnet wird,
 wird von der zuständigen Verwaltungsbehörde vollzogen.
 
-(4) Wird Zurückweisungshaft (§ 15 des Aufenthaltsgesetzes) oder
-Abschiebungshaft (§ 62 des Aufenthaltsgesetzes) im Wege der Amtshilfe
-in Justizvollzugsanstalten vollzogen, gelten die §§ 171, 173 bis 175
-und 178 Abs. 3 des Strafvollzugsgesetzes entsprechend, soweit in § 62a
-des Aufenthaltsgesetzes für die Abschiebungshaft nichts Abweichendes
-bestimmt ist.
-
 
 ### § 423 Absehen von der Bekanntgabe
 
