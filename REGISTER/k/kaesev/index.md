@@ -16,13 +16,13 @@ Fundstelle
 :   BAnz: 1965, Nr 118
 
 V aufgeh. durch
-:   § 32 dieser V idF v. 24.11.2025 mWv 14.7.2026
+:   § 32 dieser V idF v. 21.5.2026 mWv 14.6.2026
 
 Neugefasst durch
 :   Bek. v. 14.4.1986 I 412;
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 3 V v. 24.11.2025 I Nr. 280
+:   Art. 6 V v. 21.5.2026 I Nr. 168
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
