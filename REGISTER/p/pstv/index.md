@@ -1335,11 +1335,10 @@ versagen, wenn dem Standesamt bekannt ist, dass es sich bei der
 betreffenden Person um einen Ausländer handelt,
 
 1.  der als Asylberechtigter nach Artikel 16a des Grundgesetzes anerkannt
-    ist, dem die Flüchtlingseigenschaft im Sinne des § 3 Absatz 1 des
-    Asylgesetzes oder subsidiärer Schutz im Sinne des § 4 Absatz 1 des
-    Asylgesetzes zuerkannt wurde, bei dem ein Abschiebungsverbot nach § 60
-    Absatz 5 oder Absatz 7 des Aufenthaltsgesetzes festgestellt wurde oder
-    der einen Asylantrag gestellt hat, über den noch nicht bestandskräftig
+    ist, dem internationaler Schutz nach der Verordnung (EU) 2024/1347
+    zuerkannt wurde, bei dem ein Abschiebungsverbot nach § 60 Absatz 5
+    oder Absatz 7 des Aufenthaltsgesetzes festgestellt wurde oder der
+    einen Asylantrag gestellt hat, über den noch nicht bestandskräftig
     entschieden worden ist, oder bei dem die zuständige Behörde das
     Bestehen von Abschiebungsverboten im Sinne des § 60 Absatz 5 oder
     Absatz 7 des Aufenthaltsgesetzes prüft, oder
