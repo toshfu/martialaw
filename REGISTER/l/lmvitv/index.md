@@ -16,10 +16,10 @@ Fundstelle
 :   RGBl I: 1942, 538
 
 V aufgeh. durch
-:   § 4 dieser V idF v. 24.11.2025 mWv 14.7.2026
+:   § 4 dieser V idF v. 21.5.2026 mWv 14.6.2026
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 5 V v. 24.11.2025 I Nr. 280
+:   Art. 8 V v. 21.5.2026 I Nr. 168
 
 
 ## Eingangsformel
@@ -145,7 +145,7 @@ bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
 ## § 4 Außerkrafttreten
 
-Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+Diese Verordnung tritt am 14. Juni 2026 außer Kraft.
 
 
 ## Schlußformel
