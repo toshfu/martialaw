@@ -35233,8 +35233,8 @@ Aufwendungen und der Verwaltungskosten der Krankenkassen nach Satz 1.
 
 (2) Die Krankenbehandlung von Empfängern von Leistungen nach dem
 Dritten bis Neunten Kapitel des Zwölften Buches, nach dem Teil 2 des
-Neunten Buches, von Empfängern laufender Leistungen nach § 2 des
-Asylbewerberleistungsgesetzes und von Empfängern von
+Neunten Buches, von Empfängern laufender Leistungen nach den §§ 2 oder
+4 Absatz 4 des Asylbewerberleistungsgesetzes und von Empfängern von
 Krankenhilfeleistungen nach dem Achten Buch, die nicht versichert
 sind, wird von der Krankenkasse übernommen. Satz 1 gilt nicht für
 Empfänger, die voraussichtlich nicht mindestens einen Monat
@@ -35245,10 +35245,11 @@ genannten Personen.
 
 (3) Die in Absatz 2 Satz 1 genannten Empfänger haben unverzüglich eine
 Krankenkasse im Bereich des für die Hilfe zuständigen Trägers der
-Sozialhilfe oder der öffentlichen Jugendhilfe zu wählen, die ihre
-Krankenbehandlung übernimmt. Leben mehrere Empfänger in häuslicher
-Gemeinschaft, wird das Wahlrecht vom Haushaltsvorstand für sich und
-für die Familienangehörigen ausgeübt, die bei Versicherungspflicht des
+Sozialhilfe, der öffentlichen Jugendhilfe oder nach dem
+Asylbewerberleistungsgesetz zu wählen, die ihre Krankenbehandlung
+übernimmt. Leben mehrere Empfänger in häuslicher Gemeinschaft, wird
+das Wahlrecht vom Haushaltsvorstand für sich und für die
+Familienangehörigen ausgeübt, die bei Versicherungspflicht des
 Haushaltsvorstands nach § 10 versichert wären. Wird das Wahlrecht nach
 den Sätzen 1 und 2 nicht ausgeübt, gelten § 28i des Vierten Buches und
 § 175 Abs. 3 Satz 2 entsprechend.
@@ -35263,15 +35264,17 @@ die Statusbezeichnung "Mitglied", für Empfänger nach Vollendung des
 leben und nicht Haushaltsvorstand sind, erhalten die Statusbezeichnung
 "Familienversicherte".
 
-(5) Wenn Empfänger nicht mehr bedürftig im Sinne des Zwölften Buches
-oder des Achten Buches sind, meldet der Träger der Sozialhilfe oder
-der öffentlichen Jugendhilfe diese bei der jeweiligen Krankenkasse ab.
-Bei der Abmeldung hat der Träger der Sozialhilfe oder der öffentlichen
-Jugendhilfe die elektronische Gesundheitskarte vom Empfänger
-einzuziehen und an die Krankenkasse zu übermitteln. Aufwendungen, die
-der Krankenkasse nach Abmeldung durch eine missbräuchliche Verwendung
-der Karte entstehen, hat der Träger der Sozialhilfe oder der
-öffentlichen Jugendhilfe zu erstatten. Satz 3 gilt nicht in den
+(5) Wenn Empfänger nicht mehr bedürftig im Sinne des Zwölften Buches,
+des Achten Buches oder des Asylbewerberleistungsgesetzes sind, meldet
+der Träger der Sozialhilfe, der öffentlichen Jugendhilfe oder nach dem
+Asylbewerberleistungsgesetz diese bei der jeweiligen Krankenkasse ab.
+Bei der Abmeldung hat der Träger der Sozialhilfe, der öffentlichen
+Jugendhilfe oder nach dem Asylbewerberleistungsgesetz die
+elektronische Gesundheitskarte vom Empfänger einzuziehen und an die
+Krankenkasse zu übermitteln. Aufwendungen, die der Krankenkasse nach
+Abmeldung durch eine missbräuchliche Verwendung der Karte entstehen,
+hat der Träger der Sozialhilfe, der öffentlichen Jugendhilfe oder nach
+dem Asylbewerberleistungsgesetz zu erstatten. Satz 3 gilt nicht in den
 Fällen, in denen die Krankenkasse auf Grund gesetzlicher Vorschriften
 oder vertraglicher Vereinbarungen verpflichtet ist, ihre
 Leistungspflicht vor der Inanspruchnahme der Leistung zu prüfen.
@@ -35287,15 +35290,16 @@ für den Haushaltsvorstand zu zahlende Kopfpauschale vergütet.
 
 (7) Die Aufwendungen, die den Krankenkassen durch die Übernahme der
 Krankenbehandlung nach den Absätzen 2 bis 6 entstehen, werden ihnen
-von den für die Hilfe zuständigen Trägern der Sozialhilfe oder der
-öffentlichen Jugendhilfe vierteljährlich erstattet. Als angemessene
-Verwaltungskosten einschließlich Personalaufwand für den Personenkreis
-nach Absatz 2 werden bis zu 5 vom Hundert der abgerechneten
-Leistungsaufwendungen festgelegt. Wenn Anhaltspunkte für eine
-unwirtschaftliche Leistungserbringung oder -gewährung vorliegen, kann
-der zuständige Träger der Sozialhilfe oder der öffentlichen
-Jugendhilfe von der jeweiligen Krankenkasse verlangen, die
-Angemessenheit der Aufwendungen zu prüfen und nachzuweisen.
+von den für die Hilfe zuständigen Trägern der Sozialhilfe, der
+öffentlichen Jugendhilfe oder nach dem Asylbewerberleistungsgesetz
+vierteljährlich erstattet. Als angemessene Verwaltungskosten
+einschließlich Personalaufwand für den Personenkreis nach Absatz 2
+werden bis zu 5 vom Hundert der abgerechneten Leistungsaufwendungen
+festgelegt. Wenn Anhaltspunkte für eine unwirtschaftliche
+Leistungserbringung oder -gewährung vorliegen, kann der zuständige
+Träger der Sozialhilfe, der öffentlichen Jugendhilfe oder nach dem
+Asylbewerberleistungsgesetz von der jeweiligen Krankenkasse verlangen,
+die Angemessenheit der Aufwendungen zu prüfen und nachzuweisen.
 
 
 ### Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem  Gesundheitsfonds
