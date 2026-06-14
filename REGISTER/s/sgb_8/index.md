@@ -2044,7 +2044,7 @@ Wohl des Kindes oder Jugendlichen notwendig sind; der mutmaßliche
 Wille der Personensorge- oder der Erziehungsberechtigten ist dabei
 angemessen zu berücksichtigen. Im Fall des Absatzes 1 Satz 1 Nummer 3
 gehört zu den Rechtshandlungen nach Satz 4, zu denen das Jugendamt
-verpflichtet ist, insbesondere die unverzügliche Stellung eines
+verpflichtet ist, insbesondere die unverzügliche Einreichung eines
 Asylantrags für das Kind oder den Jugendlichen in Fällen, in denen
 Tatsachen die Annahme rechtfertigen, dass das Kind oder der
 Jugendliche internationalen Schutz im Sinne des § 1 Absatz 1 Nummer 2
@@ -2144,7 +2144,8 @@ Jugendlichen zur Verteilung oder den Ausschluss der Verteilung.
 und verpflichtet, alle Rechtshandlungen vorzunehmen, die zum Wohl des
 Kindes oder des Jugendlichen notwendig sind. Dabei ist das Kind oder
 der Jugendliche zu beteiligen und der mutmaßliche Wille der Personen-
-oder der Erziehungsberechtigten angemessen zu berücksichtigen.
+oder der Erziehungsberechtigten angemessen zu berücksichtigen. § 55
+Absatz 3 und 5 gilt entsprechend.
 
 (3a) Das Jugendamt hat dafür Sorge zu tragen, dass für die in Absatz 1
 genannten Kinder oder Jugendlichen unverzüglich erkennungsdienstliche
