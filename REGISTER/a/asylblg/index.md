@@ -30,12 +30,24 @@ tatsächlich im Bundesgebiet aufhalten und die
 1.  eine Aufenthaltsgestattung nach dem Asylgesetz besitzen,
 
 
-1a. ein Asylgesuch geäußert haben und nicht die in den Nummern 1, 2 bis 5
-    und 7 genannten Voraussetzungen erfüllen,
+1a. einen Asylantrag gestellt haben und nicht die in den Nummern 1, 2 bis
+    5 und 7 genannten Voraussetzungen erfüllen,
 
 
-2.  über einen Flughafen einreisen wollen und denen die Einreise nicht
-    oder noch nicht gestattet ist,
+1b. ein Schutzgesuch zur Erlangung einer Aufenthaltserlaubnis nach § 24
+    Absatz 1 des Aufenthaltsgesetzes geäußert haben und die weder eine
+    Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes noch
+    eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in
+    Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes
+    besitzen,
+
+
+2.  über einen Flughafen oder einen Hafen einreisen wollen und denen die
+    Einreise noch nicht gestattet ist,
+
+
+2a. über einen Flughafen oder einen Hafen einreisen wollen und denen die
+    Einreise nicht gestattet ist,
 
 
 3.  eine Aufenthaltserlaubnis besitzen
@@ -67,8 +79,7 @@ tatsächlich im Bundesgebiet aufhalten und die
     genannten Voraussetzungen erfüllen,
 
 
-7.  einen Folgeantrag nach § 71 des Asylgesetzes oder einen Zweitantrag
-    nach § 71a des Asylgesetzes stellen oder
+7.  einen Folgeantrag nach § 71 des Asylgesetzes stellen oder
 
 
 8.
@@ -124,7 +135,7 @@ Behandlung in den Sätzen 1 und 2 gilt nicht, soweit eine
 erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes
 nicht vorgesehen ist.
 
-(4) Leistungsberechtigte nach Absatz 1 Nummer 5,
+(4) Leistungsberechtigte nach Absatz 1 Nummer 2a und 5,
 
 1.  denen bereits von einem anderen Mitgliedstaat der Europäischen Union
     oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne
@@ -132,14 +143,13 @@ nicht vorgesehen ist.
     der fortbesteht, oder
 
 
-2.  deren Asylantrag durch eine Entscheidung des Bundesamtes für Migration
-    und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31
-    Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde, für die eine
-    Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des
-    Asylgesetzes angeordnet wurde und somit durch das Bundesamt für
-    Migration und Flüchtlinge auch die rechtliche und tatsächliche
-    Möglichkeit der Ausreise bereits festgestellt wurde, auch wenn die
-    Entscheidung noch nicht unanfechtbar ist,
+2.  für die eine Überstellungsentscheidung nach Artikel 42 Absatz 1 der
+    Verordnung (EU) 2024/1351 getroffen und eine Abschiebung nach § 34a
+    Absatz 1 Satz 1 des Asylgesetzes angeordnet wurde und somit durch das
+    Bundesamt für Migration und Flüchtlinge auch die rechtliche und
+    tatsächliche Möglichkeit der Ausreise bereits festgestellt wurde, auch
+    wenn die Entscheidung noch nicht unanfechtbar ist, es sei denn, ein
+    Gericht hat die aufschiebende Wirkung der Klage angeordnet,
 
 
 
@@ -173,28 +183,30 @@ Darlehen zu erbringen.
 
 ## § 1a Anspruchseinschränkung
 
-(1) Leistungsberechtigte nach § 1 Absatz 1 Nummer 5, für die ein
-Ausreisetermin und eine Ausreisemöglichkeit feststehen, haben ab dem
-auf den Ausreisetermin folgenden Tag keinen Anspruch auf Leistungen
-nach den §§ 2, 3 und 6, es sei denn, die Ausreise konnte aus Gründen,
-die sie nicht zu vertreten haben, nicht durchgeführt werden. Ihnen
-werden bis zu ihrer Ausreise oder der Durchführung ihrer Abschiebung
-nur noch Leistungen zur Deckung ihres Bedarfs an Ernährung und
-Unterkunft einschließlich Heizung sowie Körper- und Gesundheitspflege
-gewährt. Nur soweit im Einzelfall besondere Umstände vorliegen, können
-ihnen auch andere Leistungen im Sinne von § 3 Absatz 1 Satz 1 gewährt
-werden. Die Leistungen sollen als Sachleistungen erbracht werden.
+(1) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a und 5, für die
+ein Ausreisetermin und eine Ausreisemöglichkeit feststehen, haben ab
+dem auf den Ausreisetermin folgenden Tag keinen Anspruch auf
+Leistungen nach den §§ 2, 3 und 6, es sei denn, die Ausreise konnte
+aus Gründen, die sie nicht zu vertreten haben, nicht durchgeführt
+werden. Ihnen werden bis zu ihrer Ausreise oder der Durchführung ihrer
+Abschiebung nur noch Leistungen zur Deckung ihres Bedarfs an Ernährung
+und Unterkunft einschließlich Heizung sowie Körper- und
+Gesundheitspflege gewährt. Nur soweit im Einzelfall besondere Umstände
+vorliegen, können ihnen auch andere Leistungen im Sinne von § 3 Absatz
+1 Satz 1 gewährt werden. Die Leistungen sollen als Sachleistungen
+erbracht werden.
 
-(2) Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5 und
+(2) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a, 4 und 5 und
 Leistungsberechtigte nach § 1 Absatz 1 Nummer 6, soweit es sich um
-Familienangehörige der in § 1 Absatz 1 Nummer 4 und 5 genannten
+Familienangehörige der in § 1 Absatz 1 Nummer 2a, 4 und 5 genannten
 Personen handelt, die sich in den Geltungsbereich dieses Gesetzes
 begeben haben, um Leistungen nach diesem Gesetz zu erlangen, erhalten
 nur Leistungen entsprechend Absatz 1.
 
-(3) Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5, bei denen
-aus von ihnen selbst zu vertretenden Gründen aufenthaltsbeendende
-Maßnahmen nicht vollzogen werden können, erhalten ab dem auf die
+(3) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a, 4 und 5, bei
+denen aus von ihnen selbst zu vertretenden Gründen
+aufenthaltsbeendende Maßnahmen nicht vollzogen werden können, erhalten
+ab dem auf die Vollziehbarkeit einer Einreiseverweigerung, die
 Vollziehbarkeit einer Abschiebungsandrohung oder Vollziehbarkeit einer
 Abschiebungsanordnung folgenden Tag nur Leistungen entsprechend Absatz
 1\. Können bei nach § 1 Absatz 1 Nummer 6 leistungsberechtigten
@@ -203,21 +215,16 @@ Leistungsberechtigten nach § 1 Absatz 1 Nummer 4 oder 5 aus von ihnen
 selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht
 vollzogen werden, so gilt Satz 1 entsprechend.
 
-(4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a oder 5, für
+(4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a, 2 oder 5, für
 die in Abweichung von der Regelzuständigkeit nach der Verordnung (EU)
-Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni
-2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des
-Mitgliedstaats, der für die Prüfung eines von einem
-Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat
-gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L
-180 vom 29.6.2013, S. 31) nach einer Verteilung durch die Europäische
-Union ein anderer Mitgliedstaat oder ein am Verteilmechanismus
-teilnehmender Drittstaat, der die Verordnung (EU) Nr. 604/2013
-anwendet, zuständig ist, erhalten ebenfalls nur Leistungen
-entsprechend Absatz 1. Satz 1 gilt entsprechend für
-Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 1a, denen bereits
-von einem anderen Mitgliedstaat der Europäischen Union oder von einem
-am Verteilmechanismus teilnehmenden Drittstaat im Sinne von Satz 1
+2024/1351 nach einer Verteilung durch die Europäische Union ein
+anderer Mitgliedstaat oder ein am Verteilmechanismus teilnehmender
+Drittstaat, der die Verordnung (EU) 2024/1351 anwendet, zuständig ist,
+erhalten ebenfalls nur Leistungen entsprechend Absatz 1. Satz 1 gilt
+entsprechend für Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a
+und 2, denen bereits von einem anderen Mitgliedstaat der Europäischen
+Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im
+Sinne von Satz 1
 
 1.  internationaler Schutz oder
 
@@ -228,13 +235,13 @@ am Verteilmechanismus teilnehmenden Drittstaat im Sinne von Satz 1
 
 wenn der internationale Schutz oder das aus anderen Gründen gewährte
 Aufenthaltsrecht fortbesteht. Satz 2 Nummer 2 gilt für
-Leistungsberechtigte nach § 1 Absatz 1 Nummer 5 entsprechend.
+Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a und 5 entsprechend.
 
-(5) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a oder 7
+(5) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a, 2 oder 7
 erhalten nur Leistungen entsprechend Absatz 1, wenn
 
-1.  sie ihrer Pflicht nach § 13 Absatz 3 Satz 3 des Asylgesetzes nicht
-    nachkommen,
+1.  sie ihrer Pflicht nach Artikel 28 Absatz 1 der Verordnung (EU)
+    2024/1348 nicht nachkommen,
 
 
 2.  sie ihrer Mitwirkungspflicht nach § 15 Absatz 2 Nummer 4 des
@@ -302,6 +309,23 @@ zuständigen Behörde von der Leitung der Unterkunft schriftlich oder
 elektronisch mitgeteilt. Bei der Bemessung der Einschränkungsdauer
 werden Art und Umfang des Verstoßes und die konkreten Umstände, unter
 denen dieser Verstoß begangen wurde, berücksichtigt.
+
+(8) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a, 2, 2a oder 4
+bis 7, die ihren Pflichten gemäß einer Anordnung nach § 68 Absatz 1
+Satz 1 oder Absatz 6 Satz 1 oder § 68a Absatz 1 Satz 1 oder Absatz 3
+Satz 1 des Asylgesetzes nicht nachkommen, erhalten nur Leistungen
+entsprechend Absatz 1. Die Anspruchseinschränkung nach Satz 1 endet,
+sobald die Leistungsberechtigten ihre Pflichten gemäß der Anordnung
+nach § 68 Absatz 1 Satz 1 oder Absatz 6 Satz 1 oder § 68a Absatz 1
+Satz 1 oder Absatz 3 Satz 1 des Asylgesetzes erfüllen.
+
+(9) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a und 5, denen eine
+Überstellungsentscheidung im Sinne des Artikels 67 Absatz 10 der
+Verordnung (EU) 2024/1351 zugestellt wurde und für die eine
+Abschiebung nach § 34a Absatz 1 Satz 1 des Asylgesetzes angeordnet
+wurde, erhalten nur Leistungen entsprechend Absatz 1, auch wenn die
+Entscheidung noch nicht unanfechtbar ist. Satz 1 gilt nicht, sofern
+ein Gericht die aufschiebende Wirkung der Klage angeordnet hat.
 
 
 ## § 2 Leistungen in besonderen Fällen
@@ -604,6 +628,17 @@ Vergütung nach den am Ort der Niederlassung des Arztes oder Zahnarztes
 geltenden Verträgen nach § 72 Absatz 2 und § 132e Absatz 1 des Fünften
 Buches Sozialgesetzbuch. Die zuständige Behörde bestimmt, welcher
 Vertrag Anwendung findet.
+
+(4) Abweichend von den Absätzen 1 bis 3 sind die §§ 47 bis 52 des
+Zwölften Buches Sozialgesetzbuch auf minderjährige
+Leistungsberechtigte entsprechend anzuwenden. Zuzahlungen und
+Eigenbeteiligungen sind von der zuständigen Leistungsbehörde zu
+übernehmen. Auf Grundlage von Satz 1 begonnene medizinische
+Behandlungen sind bei Eintritt der Volljährigkeit der
+Leistungsberechtigten ohne Unterbrechung oder Verzögerung weiter zu
+gewähren. Satz 3 gilt entsprechend für Personen, die vor Eintritt der
+Volljährigkeit Leistungen auf Grundlage des § 40 des Achten Buches
+Sozialgesetzbuch erhalten haben.
 
 
 ## § 5 Arbeitsgelegenheiten
@@ -1023,11 +1058,12 @@ hinzuwirken.
 
 (2) Leistungsberechtigten darf in den Teilen der Bundesrepublik
 Deutschland, in denen sie sich einer asyl- oder ausländerrechtlichen
-räumlichen Beschränkung zuwider aufhalten, von der für den
-tatsächlichen Aufenthaltsort zuständigen Behörde regelmäßig nur eine
-Reisebeihilfe zur Deckung des unabweisbaren Bedarfs für die Reise zu
-ihrem rechtmäßigen Aufenthaltsort gewährt werden.
-Leistungsberechtigten darf in den Teilen der Bundesrepublik
+räumlichen Beschränkung oder einer Verpflichtung nach § 68 Absatz 1
+Satz 1 oder § 68a Absatz 1 Satz 1 des Asylgesetzes zuwider aufhalten,
+von der für den tatsächlichen Aufenthaltsort zuständigen Behörde
+regelmäßig nur eine Reisebeihilfe zur Deckung des unabweisbaren
+Bedarfs für die Reise zu ihrem rechtmäßigen Aufenthaltsort gewährt
+werden. Leistungsberechtigten darf in den Teilen der Bundesrepublik
 Deutschland, in denen sie entgegen einer Wohnsitzauflage ihren
 gewöhnlichen Aufenthalt nehmen, von der für den tatsächlichen
 Aufenthaltsort zuständigen Behörde regelmäßig nur eine Reisebeihilfe
@@ -1073,9 +1109,8 @@ Asylgesetzes verletzt hat. Die Sätze 1 bis 4 gelten auch
 
 
 2.  für Leistungsberechtigte nach § 1 Absatz 1 Nummer 7, die einer
-    Wohnverpflichtung nach § 71 Absatz 2 Satz 2 oder § 71a Absatz 2 Satz 1
-    des Asylgesetzes in Verbindung mit den §§ 47 bis 50 des Asylgesetzes
-    unterliegen.
+    Wohnverpflichtung nach § 71 Absatz 1 Satz 3 des Asylgesetzes in
+    Verbindung mit den §§ 47 bis 50 des Asylgesetzes unterliegen.
 
 
 
