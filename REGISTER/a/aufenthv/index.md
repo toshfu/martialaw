@@ -2701,9 +2701,9 @@ von 10 Euro zu erheben.
     *   für die Ausstellung eines Reiseausweises für Flüchtlinge, eines
         Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4)
         oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer
-        1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des
-        Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4
-        Satz 1 des Aufenthaltsgesetzes sind,
+        1), die subsidiär Schutzberechtigte im Sinne des Artikels 3 Nummer 2
+        der Verordnung (EU) 2024/1347 oder Resettlement-Flüchtlinge im Sinne
+        von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,
 
     *   70 Euro,
 
@@ -2713,10 +2713,10 @@ von 10 Euro zu erheben.
     *   für die Ausstellung eines Reiseausweises für Flüchtlinge, eines
         Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4)
         oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer
-        1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des
-        Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4
-        Satz 1 des Aufenthaltsgesetzes sind, bis zum vollendeten 24.
-        Lebensjahr
+        1), die subsidiär Schutzberechtigte im Sinne des Artikels 3 Nummer 2
+        der Verordnung (EU) 2024/1347 oder Resettlement-Flüchtlinge im Sinne
+        von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind, bis zum
+        vollendeten 24. Lebensjahr
 
     *   38 Euro,
 
@@ -2734,9 +2734,10 @@ von 10 Euro zu erheben.
     *   für die Ausstellung eines vorläufigen Reiseausweises für Flüchtlinge,
         eines vorläufigen Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1
         Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1
-        Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4
-        Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von §
-        23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,
+        Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des
+        Artikels 3 Nummer 2 der Verordnung (EU) 2024/1347 oder Resettlement-
+        Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes
+        sind,
 
     *   26 Euro,
 
@@ -2746,9 +2747,10 @@ von 10 Euro zu erheben.
     *   für die Ausstellung eines Reiseausweises ohne Speichermedium für
         Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), für Flüchtlinge, für
         Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder für subsidiär
-        Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder
-        Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des
-        Aufenthaltsgesetzes bis zur Vollendung des zwölften Lebensjahres
+        Schutzberechtigte im Sinne des Artikels 3 Nummer 2 der Verordnung (EU)
+        2024/1347 oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4
+        Satz 1 des Aufenthaltsgesetzes bis zur Vollendung des zwölften
+        Lebensjahres
 
     *   14 Euro,
 
@@ -3123,8 +3125,8 @@ genannten Amtshandlungen entfallen bei Staatsangehörigen der Schweiz.
 (3) Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Absatz
 4 Satz 1 des Aufenthaltsgesetzes und sonstige Ausländer, die im
 Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge oder
-subsidiär Schutzberechtigter im Sinne des § 4 Absatz 1 des
-Asylgesetzes genießen, sind befreit von den Gebühren nach
+subsidiär Schutzberechtigter im Sinne des Artikels 3 Nummer 2 der
+Verordnung (EU) 2024/1347 genießen, sind befreit von den Gebühren nach
 
 1.  § 44 Nummer 3, § 45c Absatz 1 Nummer 1 und 2, § 45b und 47 Absatz 1
     Nummer 11 für die Erteilung, Neuausstellung sowie Ausstellung und
