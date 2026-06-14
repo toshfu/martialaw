@@ -19,6 +19,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 24.6.2024 I Nr. 215, Nr. 350
 
+Änderung durch
+:   Art. 1 V v. 9.6.2026 I Nr. 169 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Zukünftige Überschrift: Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich (Besondere Gebührenverordnung BMLEH – BMLEHBGebV)(ab 1.7.2026; BGBl 2026 I Nr. 169)
+[^BJNR287400021]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 V v.
+    9\.6.2026 I Nr. 169 mWv 1.7.2026 wie folgt gefasst:  **Besondere
+    Gebührenverordnung des Bundesministeriums für Landwirtschaft,
+    Ernährung und Heimat für individuell zurechenbare öffentliche
+    Leistungen in dessen Zuständigkeitsbereich (Besondere
+    Gebührenverordnung BMLEH – BMLEHBGebV)**
+
 
 ## Eingangsformel
 
