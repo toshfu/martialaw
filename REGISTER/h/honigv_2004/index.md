@@ -48,8 +48,8 @@ Landwirtschaft verordnet auf Grund
 ## § 1 Anwendungsbereich
 
 Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
-Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
-gewerbsmäßig in den Verkehr gebracht zu werden.
+Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel in den
+Verkehr gebracht zu werden.
 
 
 ## § 2 Anforderungen an die Beschaffenheit
@@ -59,17 +59,7 @@ nach Anlage 2 entsprechen.
 
 (2) Pollen ist ein natürlicher Bestandteil von Honig und keine Zutat
 im Sinne von Artikel 2 Absatz 2 Buchstabe f der Verordnung (EU) Nr.
-1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober
-2011 betreffend die Information der Verbraucher über Lebensmittel und
-zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr.
-1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung
-der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG
-des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie
-2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien
-2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr.
-608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18), die
-zuletzt durch die Delegierte Verordnung (EU) Nr. 78/2014 (ABl. L 27
-vom 30.1.2014, S. 7) geändert worden ist.
+1169/2011.
 
 
 ## § 3 Kennzeichnung
@@ -80,12 +70,12 @@ Verordnung (EU) Nr. 1169/2011.
 
 (2) Die in Anlage 1 genannten Bezeichnungen sind den dort aufgeführten
 Erzeugnissen vorbehalten. Diese Bezeichnungen können außer bei
-Erzeugnissen nach Anlage 1 Abschnitt II Nr. 3, 4, 8 und 9 durch die
+Erzeugnissen nach Anlage 1 Abschnitt II Nummer 3, 4 und 8 durch die
 Bezeichnung "Honig" ersetzt werden.
 
 (3) Die in Anlage 1 genannten Bezeichnungen können außer bei
-Erzeugnissen nach Anlage 1 Abschnitt II Nr. 8 und 9 ergänzt werden
-durch Angaben
+Erzeugnissen nach Anlage 1 Abschnitt II Nummer 8 ergänzt werden durch
+Angaben
 
 1.  zur Herkunft aus Blüten oder lebenden Pflanzenteilen, wenn der Honig
     vollständig oder überwiegend den genannten Blüten oder Pflanzen
@@ -105,38 +95,39 @@ durch Angaben
 (4) Zusätzlich zu den nach der Verordnung (EU) Nr. 1169/2011
 vorgeschriebenen Angaben muss die Kennzeichnung der in Anlage 1
 aufgeführten Erzeugnisse folgende Angaben enthalten, die nach Maßgabe
-des Absatzes 5 anzugeben sind:
+des Absatzes 6 anzugeben sind:
 
-1.  das Ursprungsland oder die Ursprungsländer, in dem oder denen der
-    Honig erzeugt wurde; bei mehr als einem Ursprungsland kann stattdessen
-    jeweils eine der folgenden Angaben gemacht werden, sofern der Honig
-    dort erzeugt wurde:
-
-    a)  "Mischung von Honig aus EU-Ländern",
-
-
-    b)  "Mischung von Honig aus Nicht-EU-Ländern",
+1.  das Ursprungsland, in dem der Honig erzeugt wurde; hat der Honig
+    seinen Ursprung in mehr als einem Land, so sind die Ursprungsländer,
+    in denen der Honig erzeugt wurde, in absteigender Reihenfolge zusammen
+    mit dem entsprechenden Gewichtsanteil in Prozent, im Hauptsichtfeld
+    anzugeben,
 
 
-    c)  "Mischung von Honig aus EU-Ländern und Nicht-EU-Ländern",
+2.  den Hinweis „nur zum Kochen und Backen“ bei Erzeugnissen nach Anlage 1
+    Abschnitt II Nummer 8.
 
 
 
+(5) Bei der Angabe nach Absatz 4 Nummer 1 ist für jeden einzelnen
+Anteil der Mischung, berechnet auf Grundlage der
+Rückverfolgbarkeitsunterlagen des Unternehmers, eine Toleranzspanne
+von 5 Prozent zulässig. Bei den Angaben nach Absatz 4 Nummer 1 können
+außerdem bei Packungen, die Nettomengen an Honig von weniger als 30
+Gramm enthalten, die Namen der Ursprungsländer durch einen aus zwei
+Buchstaben bestehenden Code der internationalen Norm ISO 3166-1 (aus
+zwei Buchstaben bestehender Ländercode; Alpha 2) in der jeweils
+geltenden Fassung, die bei DIN Media GmbH, Berlin, zu beziehen und bei
+der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt
+ist, ersetzt werden.
 
-
-2.  den Hinweis "nur zum Kochen und Backen" bei Erzeugnissen nach Anlage 1
-    Abschnitt II Nr. 9.
-
-
-
-
-(5) Die Angabe nach Absatz 4 Nr. 2 ist in Verbindung mit der
+(6) Die Angabe nach Absatz 4 Nummer 2 ist in Verbindung mit der
 Bezeichnung des Lebensmittels anzubringen. Im Übrigen sind Artikel 8
 Absatz 7, Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1 bis 3 der
 Verordnung (EU) Nr. 1169/2011 sowie § 2 der Lebensmittelinformations-
 Durchführungsverordnung anzuwenden.
 
-(6) Bei Erzeugnissen nach Anlage 1 Abschnitt II Nr. 8 und 9, die nicht
+(7) Bei Erzeugnissen nach Anlage 1 Abschnitt II Nummer 8, die nicht
 zur Abgabe an Verbraucher bestimmt sind, sind die Bezeichnungen der
 Lebensmittel auf den Transportbehältern, den Verpackungen und in den
 Geschäftspapieren anzugeben; dem Verbraucher stehen Anbieter von
@@ -147,20 +138,21 @@ gleich.
 
 ## § 4 Verkehrsverbote
 
-Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
+Nicht in den Verkehr gebracht werden dürfen:
 
 1.  Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung
     versehen sind, ohne den in Anlage 1 genannten Begriffsbestimmungen
     oder den Vorschriften des § 2 zu entsprechen,
 
 
-2.  Honig, dessen Bezeichnung durch die in § 3 Abs. 3 vorgesehenen Angaben
-    ergänzt ist, ohne den dort genannten Anforderungen zu entsprechen,
+2.  Honig, dessen Bezeichnung durch die in § 3 Absatz 3 vorgesehenen
+    Angaben ergänzt ist, ohne den dort genannten Anforderungen zu
+    entsprechen,
 
 
-3.  Erzeugnisse im Sinne der Anlage 1, die nicht mit einer nach § 3 Abs.
-    4, auch in Verbindung mit Abs. 5 Satz 1, oder Abs. 6 vorgeschriebenen
-    Angabe versehen sind.
+3.  Erzeugnisse im Sinne der Anlage 1, die nicht mit einer nach § 3 Absatz
+    4, auch in Verbindung mit Absatz 6 Satz 1, oder Absatz 7
+    vorgeschriebenen Angabe versehen sind.
 
 
 
@@ -168,26 +160,22 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
-(1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Nr. 1 oder 2
-Lebensmittel in den Verkehr bringt.
+(1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Nummer 1 oder
+2 ein Lebensmittel in den Verkehr bringt.
 
-(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
-handelt nach § 60 Abs. 1 des Lebensmittel- und
-Futtermittelgesetzbuches ordnungswidrig.
-
-(3) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen § 4 Nr. 3 ein Erzeugnis in den Verkehr
-bringt.
+(2) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a
+des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
+vorsätzlich oder fahrlässig entgegen § 4 Nummer 3 ein Erzeugnis in den
+Verkehr bringt.
 
 
 ## § 6 Übergangsregelung
 
-Bis zum 23. Juni 2015 dürfen Erzeugnisse nach den bis zum 8. Juli 2015
-geltenden Vorschriften hergestellt und gekennzeichnet werden. Nach
-Satz 1 hergestellte und gekennzeichnete Erzeugnisse dürfen bis zum
-Abbau der Vorräte in den Verkehr gebracht werden.
+Erzeugnisse, die vor dem 14. Juni 2026 nach den bis zum Ablauf des 13.
+Juni 2026 geltenden Vorschriften dieser Verordnung hergestellt und
+gekennzeichnet werden, dürfen bis zur Erschöpfung der Bestände in den
+Verkehr gebracht werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
@@ -289,19 +277,15 @@ folgende Honigarten unterschieden:
 
 *    *   8.
 
-    *   gefilterter Honig
-
-    *   Honig, der gewonnen wird, indem anorganische oder organische
-        Fremdstoffe so entzogen werden, dass Pollen in erheblichem Maße
-        entfernt werden
-
-
-*    *   9.
-
     *   Backhonig
 
     *   Honig, der für industrielle Zwecke oder als Zutat für andere
-        Lebensmittel, die anschließend verarbeitet werden, geeignet ist
+        Lebensmittel, die anschließend verarbeitet werden, geeignet ist und
+        der einen fremden Geschmack oder Geruch aufweisen kann oder in Gärung
+        übergegangen sein oder gegoren haben kann oder überhitzt worden sein
+        kann oder gewonnen worden sein kann, indem anorganische oder
+        organische Fremdstoffe so entzogen wurden, dass Pollen in erheblichem
+        Maße entfernt wurden.
 
 
 
@@ -317,8 +301,8 @@ Honig muss, soweit möglich, frei von organischen und anorganischen
 honigfremden Stoffen sein. Honig dürfen jedoch weder Pollen noch
 andere honigeigene Stoffe entzogen werden, soweit dies beim Entfernen
 von anorganischen oder organischen honigfremden Stoffen nicht
-unvermeidbar ist. Abweichend davon dürfen gefiltertem Honig Pollen
-entzogen worden sein.
+unvermeidbar ist. Abweichend davon dürfen Backhonig Pollen entzogen
+worden sein.
 Honig darf keinen künstlich veränderten Säuregrad aufweisen. Honig
 darf mit Ausnahme von Backhonig keinen fremden Geschmack oder Geruch
 aufweisen, nicht in Gärung übergegangen oder gegoren sein oder so
@@ -483,7 +467,7 @@ Spezifische Anforderungen
 
     *   Im Allgemeinen, mit Ausnahme von Backhonig
 
-    *   höchstens 40 mg/kg (vorbehaltlich der Bestimmungen unter Nr. 7
+    *   höchstens 40 mg/kg (vorbehaltlich der Bestimmungen unter Nummer 7
         Buchstabe b),
 
 
