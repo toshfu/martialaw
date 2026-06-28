@@ -56,8 +56,8 @@ sind:
 ### § 1 Anwendungsbereich
 
 (1) Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
-Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
-gewerbsmäßig in den Verkehr gebracht zu werden.
+Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel in den
+Verkehr gebracht zu werden.
 
 (2) Diese Verordnung gilt nach Maßgabe des Abschnitts 3 auch für
 koffeinhaltige Erfrischungsgetränke.
@@ -80,8 +80,7 @@ verwendet werden.
 Anlage 4 Abschnitt A aufgeführten Verfahren nach den dort genannten
 Maßgaben angewendet werden.
 
-(4) Bei dem gewerbsmäßigen Herstellen von Erzeugnissen nach Anlage 1
-dürfen
+(4) Bei dem Herstellen von Erzeugnissen nach Anlage 1 dürfen
 
 1.  vorbehaltlich Absatz 5 Satz 2 und Absatz 7 andere als die in den
     Absätzen 1 und 2 bezeichneten Zutaten nicht verwendet und
@@ -94,13 +93,10 @@ dürfen
 
 werden.
 
-(5) Als Lebensmittelzusatzstoffe für die Bearbeitung von Erzeugnissen
-nach Anlage 1 bei ihrer Herstellung sind die in Anlage 4 Abschnitt B
-aufgeführten Stoffe nur nach den dort genannten Maßgaben zugelassen.
-Im Übrigen sind die Vorschriften der Verordnung (EG) Nr. 1333/2008 des
-Europäischen Parlaments und des Rates vom 16. Dezember 2008 über
-Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16)
-anzuwenden.
+(5) Als Stoffe für die Bearbeitung von Erzeugnissen nach Anlage 1 bei
+ihrer Herstellung sind die in Anlage 4 Abschnitt B aufgeführten Stoffe
+nur nach den dort genannten Maßgaben zugelassen. Im Übrigen sind die
+Vorschriften der Verordnung (EG) Nr. 1333/2008 anzuwenden.
 
 (6) Fruchtnektare müssen die nach Anlage 5 vorgeschriebenen
 Mindestgehalte an Fruchtsaft oder Fruchtmark aufweisen.
@@ -121,17 +117,7 @@ und Mineralstoffen zu Lebensmitteln.
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort in
 Spalte 1 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach
-der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
-Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
-über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
-und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
-zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
-90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
-Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
-Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
-(EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
-331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
-30\.9.2016, S. 7) in der jeweils geltenden Fassung.
+der Verordnung (EU) Nr. 1169/2011.
 
 (2) Die in Anlage 1 vorgeschriebenen Bezeichnungen sind den dort in
 Spalte 1 genannten Erzeugnissen vorbehalten. Abweichend von Satz 1
@@ -164,10 +150,10 @@ Ergänzend zu den nach den Sätzen 1 und 2 vorgeschriebenen
 Bezeichnungen können die in Anlage 7 vorgesehenen Bezeichnungen nach
 den dort genannten Maßgaben verwendet werden.
 
-(3) In Anlage 1 aufgeführte Erzeugnisse dürfen gewerbsmäßig nur in den
-Verkehr gebracht werden, wenn zusätzlich zu den nach der Verordnung
-(EU) Nr. 1169/2011 vorgeschriebenen Angaben nach Maßgabe des Absatzes
-4 angegeben sind:
+(3) In Anlage 1 aufgeführte Erzeugnisse dürfen nur in den Verkehr
+gebracht werden, wenn zusätzlich zu den nach der Verordnung (EU) Nr.
+1169/2011 vorgeschriebenen Angaben nach Maßgabe des Absatzes 4
+angegeben sind:
 
 1.  bei Erzeugnissen aus zwei oder mehr Fruchtarten als Bestandteil der
     Bezeichnung des Lebensmittels die Angabe der verwendeten Fruchtarten
@@ -179,11 +165,12 @@ Verkehr gebracht werden, wenn zusätzlich zu den nach der Verordnung
 2.  bei Fruchtsäften der Zusatz von Fruchtfleisch oder Zellen,
 
 
-3.  bei Mischungen aus Fruchtsäften und aus Konzentrat gewonnenen
-    Fruchtsäften sowie bei Fruchtnektar, der ganz oder teilweise aus einem
-    oder mehreren konzentrierten Erzeugnissen gewonnen wurde, die Angabe
-    "aus Fruchtsaftkonzentrat(en)" oder "teilweise aus
-    Fruchtsaftkonzentrat(en)",
+3.  bei Mischungen von aus Konzentrat gewonnenem Fruchtsaft oder aus
+    Konzentrat gewonnenem zuckerreduziertem Fruchtsaft mit Fruchtsaft oder
+    mit zuckerreduziertem Fruchtsaft sowie bei Fruchtnektar, der ganz oder
+    teilweise aus einem oder mehreren konzentrierten Erzeugnissen gewonnen
+    wurde, die Angabe „aus Fruchtsaftkonzentrat(en)“ oder „teilweise aus
+    Fruchtsaftkonzentrat(en)“,
 
 
 4.  bei Fruchtnektar der Mindestgehalt an Fruchtsaft oder Fruchtmark durch
@@ -200,11 +187,11 @@ Verkehr gebracht werden, wenn zusätzlich zu den nach der Verordnung
 
 Die Angabe nach Satz 1 Nummer 5 hat auf der Verpackung, auf einem an
 der Verpackung angebrachten Etikett oder in einem Begleitdokument zu
-erfolgen. Abweichend von Satz 1 Nr. 1 kann bei aus drei oder mehr
+erfolgen. Abweichend von Satz 1 Nummer 1 kann bei aus drei oder mehr
 Fruchtarten hergestellten Erzeugnissen statt der dort vorgeschriebenen
 Angabe die Angabe "Mehrfrucht", eine ähnliche Angabe oder die Angabe
 der Zahl der verwendeten Fruchtarten gebraucht werden; Zitronensaft
-oder Limettensaft, der nach Maßgabe von Anlage 3 Nr. 2 verwendet
+oder Limettensaft, der nach Maßgabe von Anlage 3 Nummer 2 verwendet
 wurde, muss bei der Feststellung der Zahl der verwendeten Fruchtarten
 nicht berücksichtigt werden.
 
@@ -238,9 +225,14 @@ gebracht werden, wenn das Erzeugnis keine zugesetzten
 
 
 
-enthält. Ist Zucker von Natur aus in Fruchtnektar enthalten, sollte
-dieser mit dem zusätzlichen Hinweis auf dem Etikett „Enthält von Natur
-aus Zucker“ in den Verkehr gebracht werden.
+enthält. Wird eine solche Angabe gemacht, so darf Fruchtnektar nur mit
+dem Hinweis auf dem Etikett „enthält von Natur aus Zucker“ in den
+Verkehr gebracht werden.
+
+(7) Die Angabe „Fruchtsäfte enthalten nur von Natur aus vorkommende
+Zucker“ darf auf dem Etikett im selben Sichtfeld erscheinen wie die
+Bezeichnung der in der Anlage 1 laufende Nummer 1 genannten
+Erzeugnisse.
 
 
 ## Abschnitt 3 - Koffeinhaltige Erfrischungsgetränke
@@ -336,8 +328,7 @@ Lebensmittels auf die entsprechende Fußnote hingewiesen wird.
 Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung
 versehen sind, ohne der in Anlage 1 jeweils festgelegten
 Herstellungsanforderung oder § 2 Absatz 1, 4, 5 Satz 1, Absatz 6 oder
-7 zu entsprechen, dürfen gewerbsmäßig nicht in den Verkehr gebracht
-werden.
+7 zu entsprechen, dürfen nicht in den Verkehr gebracht werden.
 
 
 ### § 8 Straftaten und Ordnungswidrigkeiten
@@ -351,24 +342,29 @@ in den Verkehr bringt.
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 7 ein
 Lebensmittel in den Verkehr bringt.
 
-(3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht,
-handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
-Futtermittelgesetzbuches ordnungswidrig.
-
-(4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen § 3 Absatz 2 Satz 2, Absatz 3 Satz 1 oder
-Absatz 6 Satz 1 oder § 6 Absatz 1 ein Erzeugnis in den Verkehr bringt.
+(3) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a
+des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
+vorsätzlich oder fahrlässig entgegen § 3 Absatz 2 Satz 2, Absatz 3
+Satz 1 oder Absatz 6 Satz 1 oder § 6 Absatz 1 ein Erzeugnis in den
+Verkehr bringt.
 
 
-### § 9 Inkrafttreten, Außerkrafttreten
+### § 9 Übergangsregelung
 
-Die Verordnung tritt am Tag nach der Verkündung in Kraft.
+Erzeugnisse, die vor dem 14. Juni 2026 nach den bis zum Ablauf des 13.
+Juni 2026 geltenden Vorschriften dieser Verordnung hergestellt und
+gekennzeichnet werden, dürfen bis zur Erschöpfung der Bestände in den
+Verkehr gebracht werden.
 
 
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
+
+
+### § 10 Inkrafttreten, Außerkrafttreten
+
+Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 7)
@@ -379,76 +375,108 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Bezeichnungen der Lebensmittel, Herstellungsanforderungen
 
-*    *   Lfd. Nr.
+*    *   Lfd.
+        Nr.
+
+    *   Bezeichnungen
+        der Lebensmittel
 
     *
-    *   Bezeichnungen der Lebensmittel
-
     *   Herstellungsanforderungen
 
 
-*    *   1.
+*    *   1
 
     *   a)
 
     *   Fruchtsaft
 
-    *
-        a)  Fruchtsaft ist das gärfähige, jedoch nicht gegorene, aus dem
-            genießbaren Teil gesunder und reifer Früchte (frisch oder durch Kälte
-            haltbar gemacht) einer oder mehrerer Fruchtarten gewonnene Erzeugnis,
-            das die für den Saft dieser Frucht/Früchte charakteristische Farbe,
-            das dafür charakteristische Aroma und den dafür charakteristischen
-            Geschmack aufweist. Aroma, Fruchtfleisch und Zellen, die mit
-            geeigneten physikalischen Verfahren aus derselben Fruchtart gewonnen
-            wurden, dürfen im Saft wiederhergestellt werden. Das Mischen von
-            Fruchtsaft mit Fruchtmark bei der Herstellung von Fruchtsaft ist
-            zulässig.
-            Der Brixwert des Fruchtsaftes muss dem des aus der Frucht gewonnenen
-            Saftes entsprechen und darf nicht verändert werden, ausgenommen bei
-            Verschnitten mit dem Saft derselben Fruchtart.
-            Bei Zitrusfrüchten stammt der Fruchtsaft vom Endokarp; Limettensaft
-            kann jedoch auch aus der ganzen Frucht hergestellt werden.
-            Werden Fruchtsäfte aus Früchten mit Kernen, Samenkörnern und Schale
-            hergestellt, dürfen Stücke oder Bestandteile von Kernen, Samenkörnern
-            und Schale nicht im Fruchtsaft enthalten sein. Dies gilt jedoch nicht
-            in Fällen, in denen Stücke oder Bestandteile von Kernen, Samenkörnern
-            und Schale nicht durch Verfahren der guten Herstellungspraxis entfernt
-            werden können.
+    *   a)
 
-
-
+    *   Fruchtsaft ist das gärfähige, jedoch nicht gegorene, aus dem
+        genießbaren Teil gesunder und reifer Früchte (frisch oder durch Kälte
+        haltbar gemacht) einer oder mehrerer Fruchtarten gewonnene Erzeugnis,
+        das die für den Saft dieser Frucht/Früchte charakteristische Farbe,
+        das dafür charakteristische Aroma und den dafür charakteristischen
+        Geschmack aufweist. Aroma, Fruchtfleisch und Zellen, die mit
+        geeigneten physikalischen Verfahren aus derselben Fruchtart gewonnen
+        wurden, dürfen im Saft wiederhergestellt werden. Das Mischen von
+        Fruchtsaft mit Fruchtmark bei der Herstellung von Fruchtsaft ist
+        zulässig.
 
 
 *    *
+    *
+    *
+    *
+    *   Der Brixwert des Fruchtsaftes muss dem des aus der Frucht gewonnenen
+        Saftes entsprechen und darf nicht verändert werden, ausgenommen bei
+        Verschnitten mit dem Saft derselben Fruchtart.
+
+
+*    *
+    *
+    *
+    *
+    *   Bei Zitrusfrüchten stammt der Fruchtsaft vom Endokarp; Limettensaft
+        kann jedoch auch aus der ganzen Frucht hergestellt werden.
+
+
+*    *
+    *
+    *
+    *
+    *   Werden Fruchtsäfte aus Früchten mit Kernen, Samenkörnern und Schale
+        hergestellt, dürfen Stücke oder Bestandteile von Kernen, Samenkörnern
+        und Schale nicht im Fruchtsaft enthalten sein. Dies gilt jedoch nicht
+        in Fällen, in denen Stücke oder Bestandteile von Kernen, Samenkörnern
+        und Schale nicht durch Verfahren der guten Herstellungspraxis entfernt
+        werden können.
+
+
+*    *   1
+
     *   b)
 
-    *   Fruchtsaft aus
-        Fruchtsaftkonzentrat
+    *   Fruchtsaft aus Fruchtsaftkonzentrat
 
+    *   b)
+
+    *   Fruchtsaft aus Fruchtsaftkonzentrat ist das Erzeugnis, das aus
+        konzentriertem Fruchtsaft im Sinne der Nummer 2 mit Trinkwasser
+        wiederhergestellt wird, das die Anforderungen erfüllt, die in der
+        Trinkwasserverordnung vom 20. Juni 2023 (BGBl. 2023 I Nr. 159, S. 2),
+        in der jeweils geltenden Fassung, aufgeführt sind.
+
+
+*    *
     *
-        b)  Fruchtsaft aus Fruchtsaftkonzentrat ist das Erzeugnis, das aus
-            konzentriertem Fruchtsaft im Sinne der Nummer 2 mit Trinkwasser
-            wiederhergestellt wird, das die Anforderungen erfüllt, die in der
-            Trinkwasserverordnung in der Fassung der Bekanntmachung vom 10. März
-            2016 (BGBl. I S. 459), die zuletzt durch Artikel 1 der Verordnung vom
-            22\. September 2021 (BGBl. I S. 4343) geändert worden ist, in der
-            jeweils geltenden Fassung, aufgeführt sind.
-            Fruchtsaft aus Fruchtsaftkonzentrat wird nur mit geeigneten Verfahren
-            hergestellt, die die wesentlichen physikalischen, chemischen,
-            organoleptischen und nährstoffbezogenen Merkmale eines
-            durchschnittlichen, aus Früchten derselben Art hergestellten Saftes
-            erhalten.
-            Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen
-            Verfahren aus derselben Fruchtart gewonnen werden, dürfen im
-            Fruchtsaft aus Fruchtsaftkonzentrat wiederhergestellt werden.
-            Das Mischen von Fruchtsaft oder konzentriertem Fruchtsaft mit
-            Fruchtmark oder konzentriertem Fruchtmark bei der Herstellung von
-            Fruchtsaft aus Fruchtsaftkonzentrat ist zulässig.
+    *
+    *
+    *   Fruchtsaft aus Fruchtsaftkonzentrat wird nur mit geeigneten Verfahren
+        hergestellt, die die wesentlichen physikalischen, chemischen,
+        organoleptischen und nährstoffbezogenen Merkmale eines
+        durchschnittlichen, aus Früchten derselben Art hergestellten Saftes
+        erhalten.
 
 
+*    *
+    *
+    *
+    *
+    *   Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen
+        Verfahren aus derselben Fruchtart gewonnen werden, dürfen im
+        Fruchtsaft aus Fruchtsaftkonzentrat wiederhergestellt werden. Das
+        Mischen von Fruchtsaft oder konzentriertem Fruchtsaft mit Fruchtmark
+        oder konzentriertem Fruchtmark bei der Herstellung von Fruchtsaft aus
+        Fruchtsaftkonzentrat ist zulässig.
 
-        Bei Traubensaft dürfen die Weinsäuresalze, die bei der Herstellung
+
+*    *
+    *
+    *
+    *
+    *   Bei Traubensaft dürfen die Weinsäuresalze, die bei der Herstellung
         abgetrennt wurden, wieder zugefügt werden.
 
 
@@ -457,6 +485,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Konzentrierter Fruchtsaft/Fruchtsaftkonzentrat
 
+    *
     *   Konzentrierter Fruchtsaft oder Fruchtsaftkonzentrat ist das Erzeugnis,
         das aus dem Saft einer oder mehrerer Fruchtarten durch physikalischen
         Entzug eines bestimmten Teils des natürlich enthaltenen Wassers
@@ -472,6 +501,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Mit Wasser extrahierter Fruchtsaft
 
+    *
     *   Mit Wasser extrahierter Fruchtsaft ist das Erzeugnis, das durch
         Diffusion mit Wasser aus fleischigen ganzen Früchten, deren Saft nicht
         mit physikalischen Verfahren extrahiert werden kann, oder aus
@@ -483,6 +513,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Getrockneter Fruchtsaft/Fruchtsaftpulver
 
+    *
     *   Getrockneter Fruchtsaft oder Fruchtsaftpulver ist das Erzeugnis, das
         aus dem Saft einer oder mehrerer Fruchtarten durch physikalischen
         Entzug nahezu des gesamten natürlich enthaltenen Wassers hergestellt
@@ -494,6 +525,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Fruchtnektar
 
+    *
     *   Fruchtnektar ist das gärfähige, jedoch nicht gegorene Erzeugnis, das
         durch Zusatz von Wasser mit oder ohne Zusatz von Zuckerarten oder
         Honig zu den unter den Nummern 1 bis 4 genannten Erzeugnissen, zu
@@ -504,24 +536,160 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   Der Zusatz von Zuckerarten oder Honig ist bis zu höchstens 20 Prozent
-        des Gesamtgewichts des fertigen Erzeugnisses zulässig.
-        Unbeschadet der Verordnung (EG) Nr. 1924/2006 des Europäischen
-        Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und
-        gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom
-        30\.12.2006, S. 9) kann bei der Herstellung von Fruchtnektaren ohne
-        zugesetzte Zuckerarten oder mit vermindertem Energiegehalt der Zucker
-        in Übereinstimmung mit der Verordnung (EG) Nr. 1333/2008 ganz oder
-        teilweise durch Süßungsmittel ersetzt werden.
-        Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen
-        Verfahren aus derselben Fruchtart gewonnen werden, dürfen im
+    *
+    *   Der Zusatz von Zuckerarten oder Honig ist bis zu 20 Prozent des
+        Gesamtgewichts des fertigen Erzeugnisses aus in Anlage 5 Teil I
+        genannten Früchten, bis zu 15 Prozent des Gesamtgewichts des fertigen
+        Erzeugnisses aus in Anlage 5 Teil II genannten Früchten und bis zu 10
+        Prozent des Gesamtgewichts des fertigen Erzeugnisses aus in Anlage 5
+        Teil III genannten Früchten zulässig.
+
+
+*    *
+    *
+    *
+    *
+    *   Unbeschadet der Verordnung (EG) Nr. 1924/2006 kann bei der Herstellung
+        von Fruchtnektaren ohne zugesetzte Zuckerarten oder mit vermindertem
+        Energiegehalt der Zucker in Übereinstimmung mit der Verordnung (EG)
+        Nr. 1333/2008 ganz oder teilweise durch Süßungsmittel ersetzt werden.
+
+
+*    *
+    *
+    *
+    *
+    *   Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen
+        Verfahren aus derselben Fruchtart gewonnen wurden, dürfen im
         Fruchtnektar wiederhergestellt werden.
 
 
+*    *   6.
+
+    *   a)
+
+    *   Zuckerreduzierter Fruchtsaft
+
+    *
+    *   Erzeugnis, das aus Fruchtsaft im Sinne von Nummer 1 Buchstabe a
+        gewonnen wird, bei dem der von Natur aus vorkommende Zuckergehalt um
+        mindestens 30 Prozent nach einem Verfahren reduziert wurde, das unter
+        den Bedingungen von Anlage 4 Teil A Nummer 3 zugelassen ist und bei
+        dem alle anderen wesentlichen physikalischen, chemischen,
+        organoleptischen und ernährungsphysiologischen Merkmale eines
+        durchschnittlichen Saftes der Frucht, aus der es erzeugt wurde,
+        erhalten bleiben.
+
+
+*    *
+    *
+    *
+    *
+    *   Zuckerreduzierter Fruchtsaft kann durch Mischen von zuckerreduziertem
+        Fruchtsaft mit Fruchtsaft, Fruchtmark oder beidem gewonnen werden.
+
+
+*    *
+    *
+    *
+    *
+    *   Wasser darf zugesetzt werden, soweit dies unbedingt erforderlich ist,
+        um die durch den Prozess der Zuckerreduzierung entzogene Wassermenge
+        wiederherzustellen.
+
+
+*    *
+    *
+    *
+    *
+    *   Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen
+        Verfahren aus derselben Fruchtart gewonnen werden, dürfen in
+        zuckerreduziertem Fruchtsaft wiederhergestellt werden.
+
+
+*    *   6.
+
+    *   b)
+
+    *   Zuckerreduzierter Fruchtsaft aus Fruchtsaftkonzentrat
+
+    *
+    *   Erzeugnis, das aus Fruchtsaft aus Fruchtsaftkonzentrat im Sinne von
+        Nummer 1 Buchstabe b gewonnen wird, bei dem der von Natur aus
+        vorkommende Zuckergehalt um mindestens 30 Prozent nach einem Verfahren
+        reduziert wurde, das unter den Bedingungen von Anlage 4 Teil A Nummer
+        3 zugelassen ist und bei dem alle anderen wesentlichen physikalischen,
+        chemischen, organoleptischen und ernährungsphysiologischen Merkmale
+        eines durchschnittlichen Saftes der Frucht, aus der es erzeugt wurde,
+        erhalten bleiben, oder das aus konzentriertem zuckerreduziertem
+        Fruchtsaft im Sinne von Nummer 7 mit Trinkwasser wiederhergestellt
+        wird, das die Anforderungen erfüllt, die in der Trinkwasserverordnung
+        in der Fassung der Bekanntmachung vom 20. Juni 2023 (BGBl. 2023 I Nr.
+        159, S. 2), in der jeweils geltenden Fassung, aufgeführt sind.
+
+
+*    *
+    *
+    *
+    *
+    *   Zuckerreduzierter Fruchtsaft aus Fruchtsaftkonzentrat kann durch
+        Mischen von zuckerreduziertem Fruchtsaft aus Fruchtsaftkonzentrat mit
+        einem oder mehreren der nachstehenden Erzeugnisse gewonnen werden:
+        Fruchtsaft, Fruchtsaft aus Fruchtsaftkonzentrat, zuckerreduziertem
+        Fruchtsaft, konzentriertem Fruchtmark und Fruchtmark.
+
+
+*    *
+    *
+    *
+    *
+    *   Wasser darf zugesetzt werden, soweit dies unbedingt erforderlich ist,
+        um die durch den Prozess der Zuckerreduzierung entzogene Wassermenge
+        wiederherzustellen.
+
+
+*    *
+    *
+    *
+    *
+    *   Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen
+        Verfahren aus derselben Fruchtart gewonnen werden, dürfen in
+        zuckerreduziertem Fruchtsaft aus Konzentrat wiederhergestellt werden.
+
+
+*    *   7.
+
+    *
+    *   Konzentrierter zuckerreduzierter Fruchtsaft
+
+    *
+    *   Erzeugnis, das aus konzentriertem Fruchtsaft/Fruchtsaftkonzentrat im
+        Sinne der Nummer 2 gewonnen wird und bei dem mindestens 30 Prozent des
+        von Natur aus vorkommenden Zuckergehalts durch ein unter den
+        Bedingungen von Anlage 4 Teil A Nummer 3 zugelassenes Verfahren
+        reduziert wurde, wobei alle anderen für einen durchschnittlichen Typ
+        des Erzeugnisses wesentlichen physikalischen, chemischen,
+        organoleptischen und ernährungsphysiologischen Merkmale erhalten
+        bleiben, oder Erzeugnis, das aus zuckerreduziertem Fruchtsaft im Sinne
+        der Nummer 6 Buchstabe a durch physikalischen Entzug eines bestimmten
+        Teils des natürlich enthaltenen Wassers gewonnen wird. Wenn das
+        Erzeugnis zum direkten Verbrauch bestimmt ist, muss dieser Entzug
+        mindestens 50 Prozent betragen.
+
+
+*    *
+    *
+    *
+    *
+    *   Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen
+        Verfahren aus derselben Fruchtart gewonnen werden, dürfen in
+        konzentriertem zuckerreduziertem Fruchtsaft wiederhergestellt werden.
 
 
 
-### Anlage 2 (zu § 2 Abs. 1)
+
+
+### Anlage 2 (zu § 2 Absatz 1)
 
 (Fundstelle: BGBl. I 2004, 1021;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -578,21 +746,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 5.  Aroma:
 
-    unbeschadet der Verordnung (EG) Nr. 1334/2008 des Europäischen
-    Parlaments und des Rates vom 16. Dezember 2008 über Aromen und
-    bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in
-    und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr.
-    1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr.
-    110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S.
-    34) werden fruchteigene Restaurationsaromen bei der Verarbeitung von
-    Früchten mittels geeigneter physikalischer Verfahren gewonnen; diese
-    physikalischen Verfahren können eingesetzt werden, um die
-    Aromaqualität zu erhalten, zu bewahren oder zu stabilisieren, und
-    umfassen vor allem Pressen, Extraktion, Destillation, Filtern,
-    Adsorption, Evaporation, Fraktionieren und Konzentrieren; das
-    Restaurationsaroma wird aus den genießbaren Teilen der Frucht
-    gewonnen, kann jedoch auch kaltgepresstes Öl aus Zitrusschalen und
-    Bestandteile der Steine enthalten.
+    unbeschadet der Verordnung (EG) Nr. 1334/2008 werden fruchteigene
+    Restaurationsaromen bei der Verarbeitung von Früchten mittels
+    geeigneter physikalischer Verfahren gewonnen; diese physikalischen
+    Verfahren können eingesetzt werden, um die Aromaqualität zu erhalten,
+    zu bewahren oder zu stabilisieren, und umfassen vor allem Pressen,
+    Extraktion, Destillation, Filtern, Adsorption, Evaporation,
+    Fraktionieren und Konzentrieren; das Restaurationsaroma wird aus den
+    genießbaren Teilen der Frucht gewonnen, kann jedoch auch
+    kaltgepresstes Öl aus Zitrusschalen und Bestandteile der Steine
+    enthalten.
 
 
 
@@ -619,11 +782,8 @@ Zutaten verwendet werden:
     berechnet als wasserfreie Zitronensäure,
 
 
-3.  Vitamine und Mineralstoffe gemäß der Verordnung (EG) Nr. 1925/2006 des
-    Europäischen Parlaments und des Rates vom 20. Dezember 2006 über den
-    Zusatz von Vitaminen und Mineralstoffen sowie bestimmten anderen
-    Stoffen zu Lebensmitteln (ABl. L 404 vom 30.12.2006, S. 26): bei allen
-    Erzeugnissen nach Anlage 1,
+3.  Vitamine und Mineralstoffe gemäß der Verordnung (EG) Nr. 1925/2006:
+    bei allen Erzeugnissen nach Anlage 1,
 
 
 4.  Salz, Gewürze und aromatische Kräuter: bei Tomaten-/Paradeisersaft und
@@ -633,7 +793,7 @@ Zutaten verwendet werden:
 
 
 
-### Anlage 4 (zu § 2 Abs. 3 und 5)
+### Anlage 4 (zu § 2 Absatz 3 und 5)
 
 (Fundstelle: BGBl. I 2004, 1023;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -667,7 +827,7 @@ folgende Verfahren angewendet werden:
         durch Wasser („in-line“-Verfahren) des essbaren Teils der Früchte,
         ausgenommen Weintrauben, zur Herstellung der Fruchtsaftkonzentrate,
         sofern die so gewonnenen Fruchtsäfte den Anforderungen von Anlage 1
-        Nr. 1 entsprechen;
+        Nummer 1 entsprechen;
 
 
     c)  bei Traubensäften ist für den Fall, dass die Trauben mit
@@ -679,7 +839,16 @@ folgende Verfahren angewendet werden:
 
 
 
-2.  das Bearbeiten mit Speisegelatine.
+2.  das Bearbeiten mit Speisegelatine;
+
+
+3.  bei zuckerreduziertem Fruchtsaft, zuckerreduziertem Fruchtsaft aus
+    Konzentrat und konzentriertem zuckerreduziertem Fruchtsaft:
+    Membranfiltration und Hefegärung zur Verringerung der von Natur aus
+    vorkommenden Zucker, sofern diese Verfahren alle anderen wesentlichen
+    physikalischen, chemischen, organoleptischen und
+    ernährungsphysiologischen Merkmale eines durchschnittlichen Saftes der
+    Frucht, aus der das Erzeugnis hergestellt wird, bewahren.
 
 
 
@@ -688,7 +857,7 @@ folgende Verfahren angewendet werden:
 *
     *
         *
-            *   B. Lebensmittelzusatzstoffe für die Bearbeitung
+            *   B. Stoffe für die Bearbeitung
 
 
 
@@ -701,12 +870,7 @@ folgende Verfahren angewendet werden:
 
 
 1.  Pectinasen, Proteinasen und Amylasen, die den Anforderungen der
-    Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des
-    Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung
-    der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999
-    des Rates, der Richtlinie 2000/13/EG, der Richtlinie 2001/112/EG des
-    Rates sowie der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008,
-    S. 7) entsprechen;
+    Verordnung (EG) Nr. 1332/2008 entsprechen;
 
 
 2.  Tannine;
@@ -717,11 +881,8 @@ folgende Verfahren angewendet werden:
 
 4.  chemisch inerte Filterstoffe und Fällungsmittel wie Perlit, Kieselgur,
     Zellulose, unlösliches Polyamid, Polyvinylpolypyrrolidon oder
-    Polystyrol, die den Vorschriften der Verordnung (EG) Nr. 1935/2004 des
-    Europäischen Parlaments und des Rates vom 27. Oktober 2004 über
-    Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln
-    in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG
-    und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4), entsprechen;
+    Polystyrol, die den Vorschriften der Verordnung (EG) Nr. 1935/2004,
+    entsprechen;
 
 
 5.  chemisch inerte Adsorptionsstoffe, die den Vorschriften der Verordnung
@@ -735,13 +896,14 @@ folgende Verfahren angewendet werden:
 6.  Stickstoff;
 
 
-7.  Pflanzenproteine aus Weizen, Erbsen oder Kartoffeln für die Klärung.
+7.  Pflanzenproteine aus Weizen, Erbsen, Kartoffeln oder
+    Sonnenblumenkernen für die Klärung.
 
 
 
 
 
-### Anlage 5 (zu § 2 Abs. 6)
+### Anlage 5 (zu § 2 Absatz 6)
 
 (Fundstelle: BGBl. I 2004, 1024 - 1025;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -869,7 +1031,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   30
 
 
-*    *   Quitten
+*    *   Quitten (
+        Cydonia oblonga                        L.)
 
     *   50
 
@@ -1008,7 +1171,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anlage 6 (zu § 2 Abs. 7)
+### Anlage 6 (zu § 2 Absatz 7)
 
 (Fundstelle: BGBl. I 2010, 675 - 676;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1051,6 +1214,13 @@ Mindestbrixwerte für
     *   Ribes nigrum                      L.
 
     *   11,0
+
+
+*    *   Kokosnuss (\*)
+
+    *   Cocos nucifera                      L.
+
+    *   4,5
 
 
 *    *   Weintraube (\*)
@@ -1172,16 +1342,15 @@ wiederhergestelltes Fruchtmark festgesetzten Mindestbrixwerte umfassen
 nicht die lösliche Trockenmasse hinzugefügter fakultativer Zutaten
 einschließlich Lebensmittelzusatzstoffen.
 
+(zu § 3 Absatz 2 Satz 6)
 
-### Anlage 7 (zu § 3 Abs. 2 Satz 4)
+### Anlage 7 Besondere Bezeichnungen für bestimmte in Anlage 1 aufgeführte Erzeugnisse
 
-(Fundstelle: BGBl. I 2004, 1026;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 289, S. 7)
 
+## I. Besondere Bezeichnungen,
 
-*    *
-
-*    *   Ergänzende Bezeichnungen
+## die nur in der Sprache der Bezeichnung verwendet werden dürfen
 
 
 *    *   Bezeichnungen der Lebensmittel
@@ -1198,78 +1367,114 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.
 
-    *
-        a)  Succo e polpa
+    *   a)
 
-
-
-
-        b)  Sumo e polpa
-
-
-
+    *   Succo e polpa
 
     *   Fruchtnektar, der ausschließlich aus Fruchtmark oder konzentriertem
-        Fruchtmark hergestellt wurde
+        Fruchtmark oder beidem hergestellt wurde
+
+
+*    *
+    *   b)
+
+    *   Sumo e polpa
 
 
 *    *   3.
 
-    *   Eblemost
+    *   Æblemost
 
     *   Apfelsaft
 
 
 *    *   4.
 
-    *   Sur...saft
+    *   Æblemost fra koncentrat
 
-    *   Säfte aus schwarzen, roten oder weißen Johannisbeeren/Ribiseln,
-        Kirschen, Himbeeren, Erdbeeren oder Holunderbeeren
+    *   Apfelsaft aus Konzentrat
 
 
 *    *   5.
 
-    *
-        a)  Sod...saft
+    *   Sur…saft
 
-
-
-
-        b)  sodet...saft
-
-
-
-
-    *   Saft mit einem Zuckerzusatz von mehr als 200 g/l
+    *   Säfte ohne Zuckerzusatz aus schwarzen, roten oder weißen
+        Johannisbeeren/Ribiseln, Kirschen, Himbeeren, Erdbeeren oder
+        Holunderbeeren
 
 
 *    *   6.
 
-    *   Äpplemust/Äppelmust
+    *   a)
+
+    *   Sød … saft
+
+    *   Saft mit einem Zuckerzusatz von über 200 g/l
+
+
+*    *
+    *   b)
+
+    *   sødet … saft
+
+
+*    *   7.
+
+    *   Äppelmust/Äpplemust
 
     *   Apfelsaft
 
 
-*    *   7.
+*    *   8.
 
     *   mosto
 
     *   Traubensaft
 
 
-*    *   8.
+*    *   9.
 
-    *   a)*
-        b)*
-        c)*
+    *   a)
+
+    *   smiltsērkšķu sula ar cukuru
 
     *   Aus Sanddorn gewonnene Säfte mit einem Zuckerzusatz von höchstens 140
         g/l
 
 
+*    *
+    *   b)
 
-In den Fällen der Nummern 4 und 5 sind die Bezeichnungen der
+    *   astelpaju mahl suhkruga
+
+
+*    *
+    *   c)
+
+    *   słodzony sok z rokitnika
+
+
+
+
+II. Besondere Bezeichnungen,
+## die in einer oder mehreren Amtssprachen der Union verwendet werden
+können
+
+
+*    *   Bezeichnungen der Lebensmittel
+
+    *   Erzeugnisse
+
+
+*    *   Kokosnusswasser
+
+    *   Erzeugnis, das unmittelbar aus der Kokosnuss gewonnen wird, ohne das
+        Kokosnussfleisch auszupressen, als Synonym für Kokosnusssaft
+
+
+
+In den Fällen des Teils I Nummer 5 und 6 sind die Bezeichnungen der
 Lebensmittel durch die Angabe der verwendeten Frucht in dänischer
 Sprache zu ergänzen.
 
