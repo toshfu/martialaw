@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 624, 683
 
 Zuletzt geändert durch
-:   Art. 4 V v. 17.8.2023 I Nr. 222
-
-Änderung durch
-:   Art. 11 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 12.5.2026 I Nr. 137
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/23/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
