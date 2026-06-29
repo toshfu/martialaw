@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 62 Abs. 8 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 4 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.6.2026 I Nr. 191
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen
