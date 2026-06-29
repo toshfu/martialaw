@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1968, 787
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2025 I Nr. 345
-
-Änderung durch
-:   Art. 13 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 22.12.2025 I Nr. 370
 
 
 ## Eingangsformel
