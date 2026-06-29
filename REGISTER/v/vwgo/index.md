@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 16 G v. 22.12.2025 I Nr. 349
-
-Änderung durch
-:   Art. 4 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 29.3.2026 I Nr. 84 ist berücksichtigt
-
-Änderung durch
-:   Art. 12a G v. 23.4.2026 I Nr. 111 ist berücksichtigt
+:   Art. 12a G v. 23.4.2026 I Nr. 111
 
 Änderung durch
 :   Art. 9 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
