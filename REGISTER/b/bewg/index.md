@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 53 G v. 2.12.2024 I Nr. 387 ist berücksichtigt
 
+Änderung durch
+:   Art. 19 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
 
