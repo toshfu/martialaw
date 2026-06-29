@@ -26,7 +26,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1a G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1a G v. 16.4.2026 I Nr. 107 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 1b G v. 16.4.2026 I Nr. 107 ist berücksichtigt
