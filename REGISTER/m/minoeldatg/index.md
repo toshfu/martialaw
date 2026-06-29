@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 258 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 6 G v. 22.6.2026 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Erhebungszweck, Zuständigkeit
 
