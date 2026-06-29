@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1822
 
 Zuletzt geändert durch
-:   Art. 53 G v. 4.2.2026 I Nr. 33
+:   Art. 15 G v. 22.6.2026 I Nr. 192
 
 Änderung durch
 :   Art. 41 Nr. 1 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 ist nicht ausführbar, da § 50c nicht vorhanden ist
@@ -4475,16 +4475,7 @@ die bei den Finanzbehörden der Zollverwaltung gespeichert sind und für
 deren Erhalt die Zentralstelle für Finanztransaktionsuntersuchungen
 die gesetzliche Berechtigung hat, Absatz 3 Anwendung.
 
-(5a) Wird von der Verordnungsermächtigung des § 22a des
-Grunderwerbsteuergesetzes zur elektronischen Übermittlung der Anzeige
-im Sinne des § 18 des Grunderwerbsteuergesetzes Gebrauch gemacht, darf
-die Zentralstelle für Finanztransaktionsuntersuchungen unter den
-Voraussetzungen des Absatzes 5 Satz 2 bei den Landesfinanzbehörden die
-dort hierzu eingegangenen Datensätze erheben und in sonstiger Weise
-verarbeiten, soweit Tatsachen die Annahme rechtfertigen, dass die
-Transaktion einen Zusammenhang mit einem nach § 18 Absatz 1 Satz 1 des
-Grunderwerbsteuergesetzes anzuzeigenden Vorgang aufweist. Absatz 5
-Satz 3 bis 5, 7 und 10 gilt entsprechend.
+(5a) (weggefallen)
 
 (6) Verpflichtete nach § 2 Absatz 1 Nummer 1 haben das nach § 24c
 Absatz 1 des Kreditwesengesetzes zu führende Dateisystem auch für
