@@ -16,19 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 40 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 14 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
-
-Änderung durch
-:   Art. 16 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
-
-Änderung durch
-:   Art. 11 G v. 12.5.2026 I Nr. 139 ist berücksichtigt
+:   Art. 11 G v. 12.5.2026 I Nr. 139
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
