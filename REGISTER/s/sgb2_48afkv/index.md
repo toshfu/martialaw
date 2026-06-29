@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.3.2019 I 339
 
+Änderung durch
+:   Art. 1 V v. 12.6.2026 I Nr. 175 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
