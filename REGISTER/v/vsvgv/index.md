@@ -20,10 +20,7 @@ Fundstelle
 :   BGBl I: 2012, 1509
 
 Zuletzt geändert durch
-:   Art. 2 V v. 7.2.2024 I Nr. 39
-
-Änderung durch
-:   Art. 13 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 12.5.2026 I Nr. 137
 
 [^f777502_01_BJNR150900012]:     ABl. L 216 vom 20.8.2009, S. 76.
 
