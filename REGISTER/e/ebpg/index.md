@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 260 V v. 19.6.2020 I 1328
 
+G aufgeh. durch
+:   § 15 idF d. Art. 7 G v. 22.6.2026 I Nr. 191 mWv 1.11.2026
+
 [^f770785_01_BJNR025800008]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/32/EG des
     Europäischen Parlaments und des Rates vom 6. Juli 2005 zur Schaffung
     eines Rahmens für die Festlegung von Anforderungen an die
@@ -779,9 +782,9 @@ werden können.
 -
 
 
-## § 15 Inkrafttreten
+## § 15 Außerkrafttreten
 
-Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
+Dieses Gesetz tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
 
 
 ## Anlage (zu § 4 Abs. 1 Nr. 3)
