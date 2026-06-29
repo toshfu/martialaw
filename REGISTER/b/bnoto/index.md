@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 10.12.2025 I Nr. 320
 
+Änderung durch
+:   Art. 1 G v. 18.6.2026 I Nr. 183 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Das Amt des Notars
 
@@ -5312,6 +5315,10 @@ Archiv aufbewahrt, so gelten für die Erteilung von Ausfertigungen und
 Abschriften durch das Amtsgericht die Vorschriften über die Erteilung
 von Ausfertigungen und Abschriften gerichtlicher Urkunden. Abweichend
 von § 45 Absatz 5 stehen die Kosten in diesem Fall der Staatskasse zu.
+
+
+### § 121 (weggefallen)
+
 
 (zu § 18d Absatz 1)
 Gebührenverzeichnis
