@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 774
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.6.2025 I Nr. 149
+:   Art. 1 V v. 17.6.2026 I Nr. 180
 
 
 ## Eingangsformel
@@ -54,7 +54,8 @@ beiden Fahrtrichtungen:
     *   A 1
 
     *   vom Autobahndreieck Erfttal über Autobahnkreuz Leverkusen-West,
-        Wuppertal, Kamener Kreuz, Münster bis Kreuz Lotte/Osnabrück
+        Wuppertal, Kamener Kreuz, Münster bis Kreuz Lotte/Osnabrück, von
+        Bremen Brinkum bis Bremer Kreuz
 
 
 *    *   2
@@ -192,19 +193,34 @@ beiden Fahrtrichtungen:
 
 *    *   18
 
+    *   A 113
+
+    *   Autobahnkreuz Schönefeld bis Autobahndreieck Neukölln, Fahrtrichtung
+        Hamburg
+
+
+*    *   19
+
+    *   A 115
+
+    *   A 115 von Autobahnkreuz Zehlendorf bis Autobahndreieck Funkturm
+
+
+*    *   20
+
     *   A 831
 
     *   von Anschlussstelle Stuttgart-Vaihingen bis Autobahnkreuz Stuttgart
 
 
-*    *   19
+*    *   21
 
     *   A 980
 
     *   von Autobahnkreuz Allgäu bis Anschlussstelle Waltenhofen
 
 
-*    *   20
+*    *   22
 
     *   A 995
 
