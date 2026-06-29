@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1961, 1091 (1652, 2000)
 
 Zuletzt geändert durch
-:   Art. 108 G v. 17.12.2008 I 2586
+:   Art. 16 G v. 22.6.2026 I Nr. 192
 
 
 ## ERSTER ABSCHNITT - Rechtsgeschäftliche Veräußerung
