@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1913
 
+V aufgeh. durch
+:   § 10 dieser V idF d. Art. 3 Nr. 2 V v. 18.6.2026 I Nr. 181 mit Ablauf d. 30.6.2026
+
 Zuletzt geändert durch
-:   Art. 6 V v. 3.3.2020 I 412
+:   Art. 3 V v. 18.6.2026 I Nr. 181
+
+Ersetzt durch
+:   V 9510-1-35 v. 18.6.2026 I Nr. 181 (SchAusrV 2026)
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
