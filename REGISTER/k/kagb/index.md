@@ -15690,12 +15690,25 @@ Wertes des inländischen OGAW anlegen; in diesen Werten dürfen jedoch
 bis zu 10 Prozent des Wertes des inländischen OGAW angelegt werden,
 wenn dies in den Anlagebedingungen vorgesehen ist und der Gesamtwert
 der Wertpapiere und Geldmarktinstrumente dieser Emittenten 40 Prozent
-des Wertes des inländischen OGAW nicht übersteigt. Die Emittenten von
-Wertpapieren und Geldmarktinstrumenten sind auch dann im Rahmen der in
-Satz 1 genannten Grenzen zu berücksichtigen, wenn die von diesen
-emittierten Wertpapiere und Geldmarktinstrumente mittelbar über andere
-im OGAW enthaltenen Wertpapiere, die an deren Wertentwicklung
-gekoppelt sind, erworben werden.
+des Wertes des inländischen OGAW nicht übersteigt. Die
+Emittentengrenze von 40 Prozent gilt nicht für
+
+1.  Einlagen bei Instituten gemäß § 1 Absatz 1b des Kreditwesengesetzes
+    und Wertpapierinstituten gemäß § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes und
+
+
+2.  Geschäfte, die Derivate zum Gegenstand haben, mit Instituten gemäß § 1
+    Absatz 1b des Kreditwesengesetzes und Wertpapierinstituten gemäß § 2
+    Absatz 1 des Wertpapierinstitutsgesetzes.
+
+
+
+Die Emittenten von Wertpapieren und Geldmarktinstrumenten sind auch
+dann im Rahmen der in Satz 1 genannten Grenzen zu berücksichtigen,
+wenn die von diesen emittierten Wertpapiere und Geldmarktinstrumente
+mittelbar über andere im OGAW enthaltenen Wertpapiere, die an deren
+Wertentwicklung gekoppelt sind, erworben werden.
 
 (2) Die OGAW-Kapitalverwaltungsgesellschaft darf in
 Schuldverschreibungen, Schuldscheindarlehen und Geldmarktinstrumente,
@@ -15737,7 +15750,10 @@ eine Kombination aus
 
 
 3.  Anrechnungsbeträgen für das Kontrahentenrisiko der mit dieser
-    Einrichtung eingegangenen Geschäfte
+    Einrichtung eingegangenen Geschäfte, die Derivate zum Gegenstand
+    haben, die nicht durch eine gemäß Artikel 14 der Verordnung (EU)
+    648/2012 zugelassene oder gemäß Artikel 25 dieser Verordnung
+    anerkannte zentrale Gegenpartei gecleart werden,
 
 
 
@@ -21066,9 +21082,9 @@ Erklärung nur gebunden, wenn er sie nicht innerhalb einer Frist von
 zwei Wochen bei der Verwaltungsgesellschaft oder einem Repräsentanten
 im Sinne des § 319 in Textform widerruft; dies gilt auch dann, wenn
 derjenige, der die Anteile oder Aktien verkauft oder den Verkauf
-vermittelt, keine ständigen Geschäftsräume hat. Bei
-Fernabsatzgeschäften gilt § 312g Absatz 2 Nummer 8 des Bürgerlichen
-Gesetzbuchs entsprechend.
+vermittelt, keine ständigen Geschäftsräume hat. Das Widerrufsrecht bei
+Fernabsatzverträgen (§ 312c des Bürgerlichen Gesetzbuchs) richtet sich
+nach dem Bürgerlichen Gesetzbuch.
 
 (2) Zur Wahrung der Frist genügt die rechtzeitige Absendung der
 Widerrufserklärung. Die Widerrufsfrist beginnt erst zu laufen, wenn
