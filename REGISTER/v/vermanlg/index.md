@@ -439,6 +439,10 @@ Gegenleistung gegenüber dem Anleger zu erbringen.
 (5) Von den Vorschriften dieses Paragraphen darf nicht zum Nachteil
 des Anlegers abgewichen werden.
 
+(6) Das Widerrufsrecht bei Fernabsatzverträgen (§ 312c des
+Bürgerlichen Gesetzbuchs) richtet sich nach dem Bürgerlichen
+Gesetzbuch.
+
 
 ### § 3 Aufsicht, Anordnungsbefugnis
 
