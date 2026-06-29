@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586, 2655
 
 Zuletzt geändert durch
-:   Art. 9 G v. 7.4.2025 I Nr. 109
+:   Art. 6 G v. 18.6.2026 I Nr. 184
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
