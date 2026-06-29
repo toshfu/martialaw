@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 43 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 5 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Einrichtung der Register im Allgemeinen
 
