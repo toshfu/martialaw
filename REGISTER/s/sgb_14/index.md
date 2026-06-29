@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2652
 
 Zuletzt geändert durch
-:   Art. 9a G v. 16.4.2026 I Nr. 107
+:   Art. 1 V v. 17.6.2026 I Nr. 179
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
