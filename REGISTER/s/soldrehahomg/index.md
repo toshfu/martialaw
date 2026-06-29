@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2993
 
+Geändert durch
+:   Art. 6 G v. 18.6.2026 I Nr. 183
+
 Stand: Das G tritt gem. § 5 am 31.12.2040 außer Kraft
 
 ## § 1 Rehabilitierung
