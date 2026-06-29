@@ -1,5 +1,5 @@
 ---
-Title: Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraftfahrzeugen
+Title: Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Personenkraftwagen
   und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 jurabk: EnVKG 2012
 layout: default
@@ -8,7 +8,7 @@ slug: envkg_2012
 
 ---
 
-# Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraftfahrzeugen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen (EnVKG 2012)
+# Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Personenkraftwagen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen (EnVKG 2012)
 
 Ausfertigungsdatum
 :   2012-05-10
@@ -18,6 +18,9 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 10a G v. 16.7.2021 I 3026
+
+Änderung durch
+:   Art. 2 G v. 22.6.2026 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
