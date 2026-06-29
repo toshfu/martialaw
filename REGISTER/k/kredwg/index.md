@@ -10561,8 +10561,15 @@ Notwendigkeiten gewährleistet. Die Geschäftsleiter sind für die
 ordnungsgemäße Geschäftsorganisation des Instituts verantwortlich; sie
 haben die erforderlichen Maßnahmen für die Ausarbeitung der
 entsprechenden institutsinternen Vorgaben zu ergreifen, sofern nicht
-das Verwaltungs- oder Aufsichtsorgan entscheidet. Eine ordnungsgemäße
-Geschäftsorganisation muss insbesondere eine solide
+das Verwaltungs- oder Aufsichtsorgan entscheidet. Dies umfasst
+insbesondere wirksame Verfahren zur Ermittlung, Steuerung, Überwachung
+und Meldung der Risiken, denen das Institut ausgesetzt ist oder sein
+könnte, einschließlich kurz-, mittel- und langfristiger Umwelt-,
+Sozial- und Unternehmensführungsrisiken sowie des
+Konzentrationsrisikos, das aus Risikopositionen gegenüber zentralen
+Gegenparteien erwächst, unter Berücksichtigung der in Artikel 7a der
+Verordnung (EU) Nr. 648/2012 festgelegten Bedingungen. Eine
+ordnungsgemäße Geschäftsorganisation muss insbesondere eine solide
 Unternehmensführung sowie ein angemessenes und wirksames
 Risikomanagement umfassen, auf dessen Basis ein Institut die
 Risikotragfähigkeit laufend sicherzustellen hat; das Risikomanagement
@@ -11293,7 +11300,16 @@ Konzepte verfügt:
 8.  eine Übersicht in Textform über die Aufgaben und individuellen
     Verantwortlichkeiten der in Artikel 88 Absatz 3 der Richtlinie
     2013/36/EU in der Fassung vom 27. November 2024 bestimmten Personen zu
-    erstellen, fortzuführen und zu aktualisieren.
+    erstellen, fortzuführen und zu aktualisieren;
+
+
+9.  konkrete Pläne und quantifizierbare Ziele gemäß den in Artikel 7a der
+    Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen, um das
+    Konzentrationsrisiko zu überwachen und zu bewältigen, das aus
+    Risikopositionen gegenüber zentralen Gegenparteien aus Drittstaaten
+    erwächst, die Dienstleistungen anbieten, die für die Europäische Union
+    oder mindestens einen ihrer Mitgliedstaaten von wesentlicher
+    Systemrelevanz sind.
 
 
 
@@ -12656,9 +12672,11 @@ die folgenden Anzeigepflichten und Anforderungen erfüllt hat:
         Aufsichtsgesetzes,
 
 
-    c)  nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, nach den Artikeln 4a
-        und 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz
-        1 und Absatz 12 der Verordnung (EU) Nr. 648/2012,
+    c)  nach Artikel 4 Absatz 1, 2, 3 Unterabsatz 2 und Absatz 3a, nach den
+        Artikeln 4a und 7a Absatz 1 bis 5, nach Artikel 7b Absatz 1 und 2,
+        nach Artikel 7c Absatz 1 bis 3, nach Artikel 7d Absatz 1, nach Artikel
+        9 Absatz 1 bis 3 sowie Artikel 11 Absatz 1 bis 11 Unterabsatz 1 und
+        Absatz 12 der Verordnung (EU) Nr. 648/2012,
 
 
     d)  nach den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 auch in
@@ -12751,18 +12769,20 @@ der Sanierungsplan die Voraussetzungen nach § 12 Absatz 1 sowie nach §
 Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
 (1a) Absatz 1 gilt hinsichtlich der Anforderungen nach Artikel 4
-Absatz 1, 2 und 3 Unterabsatz 2, nach den Artikeln 4a und 9 Absatz 1
-bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12
-der Verordnung (EU) Nr. 648/2012 für die Prüfung des Jahresabschlusses
-von zentralen Gegenparteien mit der Maßgabe, dass der Prüfer
-zusätzlich zu prüfen hat, ob die Anforderungen nach Artikel 7 Absatz 1
-bis 4, Artikel 8 Absatz 1 bis 4, den Artikeln 26, 29 und 33 bis 54 der
+Absatz 1, 2, 3 Unterabsatz 2 und Absatz 3a, nach den Artikeln 4a und
+7a Absatz 1 bis 5, nach Artikel 7b Absatz 1 und 2, nach Artikel 7c
+Absatz 1 bis 3, nach Artikel 7d Absatz 1, nach Artikel 9 Absatz 1 bis
+3 sowie Artikel 11 Absatz 1 bis 11 Unterabsatz 1 und Absatz 12 der
+Verordnung (EU) Nr. 648/2012 für die Prüfung des Jahresabschlusses von
+zentralen Gegenparteien mit der Maßgabe, dass der Prüfer zusätzlich zu
+prüfen hat, ob die Anforderungen nach Artikel 7 Absatz 1 bis 4, den
+Artikeln 7e, 8 Absatz 1 bis 4, den Artikeln 26, 29 und 33 bis 54 der
 Verordnung (EU) Nr. 648/2012 und nach Artikel 29 Absatz 2, den
 Artikeln 30 und 35 der Verordnung (EU) Nr. 600/2014 sowie der gemäß
 diesen Artikeln erlassenen technischen Regulierungsstandards
 eingehalten sind. Satz 1 gilt entsprechend für den verkürzten
-Abschluss einer zentralen Gegenpartei, wenn ein solcher nach den
-gesetzlichen Vorgaben zu erstellen ist.
+Abschluss einer zentralen Gegenpartei, wenn ein solcher Abschluss nach
+den gesetzlichen Vorgaben zu erstellen ist.
 
 (1b) Bei der Prüfung des Jahresabschlusses eines Zentralverwahrers ist
 auch zu prüfen, ob die Anforderungen nach den Artikeln 6, 7, 26 bis
@@ -15901,6 +15921,24 @@ bis 26e dieser Verordnung festgelegten Kriterien erfüllen.
 
 
 
+#### § 48a Maßnahmen bei Risiko einer übermäßigen Konzentration von Risikopositionen gegenüber einer zentralen Gegenpartei
+
+Die Bundesanstalt kann, wenn sie der Auffassung ist, dass ein Risiko
+einer übermäßigen Konzentration besteht, das aus Risikopositionen
+gegenüber einer zentralen Gegenpartei erwächst, die Geschäftsleiter
+eines Instituts anweisen,
+
+1.  die Risikopositionen des Instituts gegenüber dieser zentralen
+    Gegenpartei zu verringern oder
+
+
+2.  Risikopositionen über die Clearingkonten des Instituts gemäß Artikel
+    7a der Verordnung (EU) Nr. 648/2012 neu zuzuweisen.
+
+
+
+
+
 #### § 48t Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken
 
 (1) Stellt der Ausschuss für Finanzstabilität Veränderungen in der
@@ -18430,7 +18468,7 @@ Anforderungen nach Artikel 16 Absatz 2 der Verordnung (EU) Nr.
 nach dessen Absatz 3, hinausgehen.
 
 
-#### § 53m Inhalt des Zulassungsantrags
+#### § 53m Inhalt des Zulassungsantrags; Anforderung von Unterlagen; Verzicht auf die Anhörung
 
 (1) Ein Antrag auf Zulassung als zentrale Gegenpartei im Inland nach
 den Artikeln 14 und 17 der Verordnung (EU) Nr. 648/2012 muss
@@ -18485,6 +18523,24 @@ enthalten:
 
 (2) Die Bundesanstalt kann weitere Unterlagen verlangen, soweit diese
 für die Beurteilung des Zulassungsantrags erforderlich sind.
+
+(3) Die Bundesanstalt kann auf die Anhörung gemäß § 28 Absatz 1 des
+Verwaltungsverfahrensgesetzes verzichten, wenn sie
+
+1.  Zulassungen gemäß Artikel 14 der Verordnung (EU) Nr. 648/2012,
+
+
+2.  Genehmigungen von Zulassungserweiterungen gemäß Artikel 15, auch in
+    Verbindung mit Artikel 17a, der Verordnung (EU) Nr. 648/2012 oder
+
+
+3.  Genehmigungen und Validierungen gemäß Artikel 49, auch in Verbindung
+    mit Artikel 49a, der Verordnung (EU) Nr. 648/2012
+
+
+
+mit Bedingungen oder Empfehlungen im Sinne der Verordnung (EU) Nr.
+648/2012 versehen will.
 
 
 #### § 53n Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei
@@ -18989,7 +19045,10 @@ Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 ### § 56 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach §
-36 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 Satz 1 zuwiderhandelt.
+36 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 Satz 1, § 53e erster
+Halbsatz, den §§ 53g, 53h, 53l Absatz 1 Satz 2 oder Absatz 2 oder nach
+§ 53n Absatz 1 Satz 1, Absatz 2 erster Halbsatz, Absatz 3 Satz 1 oder
+5 oder Absatz 4 Satz 5 oder 6 zuwiderhandelt.
 
 (1a) (weggefallen)
 
