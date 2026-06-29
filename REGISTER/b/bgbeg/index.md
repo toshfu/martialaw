@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.2.2026 I Nr. 28
-
-Änderung durch
-:   Art. 2 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 12.5.2026 I Nr. 139
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -918,14 +915,7 @@ ihrer jeweils geltenden Fassung:
     21\.4.1993, S. 29);
 
 
-2.  die Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates
-    vom 23. September 2002 über den Fernabsatz von Finanzdienstleistungen
-    an Verbraucher und zur Änderung der Richtlinie 90/619/EWG des Rates
-    und der Richtlinien 97/7/EG und 98/27/EG (ABl. L 271 vom 9.10.2002, S.
-    16);
-
-
-3.  die Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates
+2.  die Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates
     vom 23. April 2008 über Verbraucherkreditverträge und zur Aufhebung
     der Richtlinie 87/102/EWG des Rates (ABl. L 133 vom 22.5.2008, S. 66).
 
@@ -7112,7 +7102,9 @@ Verbraucher zu informieren
 
 1.  über die Bedingungen, die Fristen und das Verfahren für die Ausübung
     des Widerrufsrechts nach § 355 Absatz 1 des Bürgerlichen Gesetzbuchs
-    sowie das Muster-Widerrufsformular in der Anlage 2,
+    sowie das Muster-Widerrufsformular in der Anlage 2 sowie
+    gegebenenfalls über das Bestehen und die Platzierung der
+    Widerrufsfunktion nach § 356a des Bürgerlichen Gesetzbuchs,
 
 
 2.  gegebenenfalls darüber, dass der Verbraucher im Widerrufsfall die
@@ -7122,16 +7114,22 @@ Verbraucher zu informieren
     normalen Postweg zurückgesendet werden können, und
 
 
-3.  darüber, dass der Verbraucher dem Unternehmer bei einem Vertrag über
-    die Erbringung von Dienstleistungen, für die die Zahlung eines Preises
-    vorgesehen ist, oder über die nicht in einem bestimmten Volumen oder
-    in einer bestimmten Menge vereinbarte Lieferung von Wasser, Gas, Strom
-    oder die Lieferung von Fernwärme einen angemessenen Betrag nach § 357a
-    Absatz 2 des Bürgerlichen Gesetzbuchs für die vom Unternehmer
-    erbrachte Leistung schuldet, wenn der Verbraucher das Widerrufsrecht
-    ausübt, nachdem er auf Aufforderung des Unternehmers von diesem
-    ausdrücklich den Beginn der Leistung vor Ablauf der Widerrufsfrist
-    verlangt hat.
+3.  darüber, dass der Verbraucher, wenn er das Widerrufsrecht ausübt,
+    nachdem er vom Unternehmer ausdrücklich schon die Erbringung
+    vertraglicher Leistungen vor Ablauf der Widerrufsfrist verlangt hat,
+    dem Unternehmer einen angemessenen Betrag nach § 357a Absatz 2 des
+    Bürgerlichen Gesetzbuchs schuldet
+
+    a)  für die bis zum Widerruf erbrachten Dienstleistungen, für die der
+        Vertrag die Zahlung eines Preises vorsieht, oder
+
+
+    b)  für die bis zum Widerruf erfolgte Lieferung von Wasser, Gas oder Strom
+        in nicht bestimmten Mengen oder in nicht begrenztem Umfang oder von
+        Fernwärme.
+
+
+
 
 
 
@@ -7147,7 +7145,7 @@ Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
 
 
 2.  das Widerrufsrecht des Verbrauchers nach § 312g Absatz 2 Nummer 3, 4
-    und 6 sowie § 356 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs
+    und 6 sowie § 356 Absatz 5 und 6 des Bürgerlichen Gesetzbuchs
     vorzeitig erlöschen kann, über die Umstände, unter denen der
     Verbraucher ein zunächst bestehendes Widerrufsrecht verliert.
 
@@ -7260,7 +7258,7 @@ Verbraucher die in § 3 Satz 2 genannten Informationen in geeigneter
 Weise zugänglich machen.
 
 
-#### Art 246b - Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen
+#### Art 246b - Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen; Gestaltung der Online-Benutzeroberfläche
 
 
 
@@ -7268,203 +7266,253 @@ Weise zugänglich machen.
 
 (1) Der Unternehmer ist nach § 312d Absatz 2 des Bürgerlichen
 Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von
-dessen Vertragserklärung klar und verständlich und unter Angabe des
-geschäftlichen Zwecks, bei Fernabsatzverträgen in einer dem benutzten
-Fernkommunikationsmittel angepassten Weise, folgende Informationen zur
-Verfügung zu stellen:
+dessen Willenserklärung folgende Informationen zur Verfügung zu
+stellen:
 
-1.  seine Identität, anzugeben ist auch das öffentliche
-    Unternehmensregister, bei dem der Rechtsträger eingetragen ist, und
-    die zugehörige Registernummer oder gleichwertige Kennung,
+1.  die Identität und die Hauptgeschäftstätigkeit des Unternehmers,
+    gegebenenfalls die Identität und die Hauptgeschäftstätigkeit des
+    Unternehmers, in dessen Auftrag er handelt,
 
 
-2.  die Hauptgeschäftstätigkeit des Unternehmers und die für seine
-    Zulassung zuständige Aufsichtsbehörde,
+2.  die Anschrift des Ortes, an dem der Unternehmer niedergelassen ist,
+    sowie seine Telefonnummer und
+    E-Mail-Adresse                    oder Angaben zu anderen
+    Kommunikationsmitteln, die der Unternehmer beziehungsweise
+    gegebenenfalls der Unternehmer, in dessen Auftrag er handelt,
+    anbietet,
 
 
-3.  die Identität des Vertreters des Unternehmers in dem Mitgliedstaat, in
-    dem der Verbraucher seinen Wohnsitz hat, wenn es einen solchen
-    Vertreter gibt, oder die Identität einer anderen gewerblich tätigen
-    Person als dem Anbieter, wenn der Verbraucher mit dieser Person
-    geschäftlich zu tun hat, und die Eigenschaft, in der diese Person
-    gegenüber dem Verbraucher tätig wird,
+3.  einschlägige Kontaktangaben, die es dem Verbraucher ermöglichen,
+    Beschwerden an den Unternehmer sowie gegebenenfalls an den
+    Unternehmer, in dessen Auftrag er handelt, zu richten,
 
 
-4.  die ladungsfähige Anschrift des Unternehmers und jede andere
-    Anschrift, die für die Geschäftsbeziehung zwischen diesem, seinem
-    Vertreter oder einer anderen gewerblich tätigen Person nach Nummer 3
-    und dem Verbraucher maßgeblich ist, bei juristischen Personen,
-    Personenvereinigungen oder Personengruppen auch den Namen des
-    Vertretungsberechtigten,
+4.  wenn der Unternehmer in ein Handelsregister oder ein vergleichbares
+    öffentliches Register eingetragen ist, das Register, in das er
+    eingetragen ist, und die Registernummer oder eine gleichwertige in
+    diesem Register verwendete Kennung,
 
 
-5.  die wesentlichen Merkmale der Finanzdienstleistung sowie Informationen
-    darüber, wie der Vertrag zustande kommt,
+5.  soweit für die Tätigkeit des Unternehmers eine Zulassung erforderlich
+    ist, den Namen, die Anschrift, die Website und etwaige andere
+    Kontaktangaben der zuständigen Aufsichtsbehörde,
 
 
-6.  den Gesamtpreis der Finanzdienstleistung einschließlich aller damit
-    verbundenen Preisbestandteile sowie alle über den Unternehmer
-    abgeführten Steuern oder, wenn kein genauer Preis angegeben werden
-    kann, seine Berechnungsgrundlage, die dem Verbraucher eine Überprüfung
-    des Preises ermöglicht,
+6.  eine Beschreibung der wesentlichen Merkmale der Finanzdienstleistung,
 
 
-7.  gegebenenfalls zusätzlich anfallende Kosten sowie einen Hinweis auf
-    mögliche weitere Steuern oder Kosten, die nicht über den Unternehmer
-    abgeführt oder von ihm in Rechnung gestellt werden,
+7.  den Gesamtpreis, den der Verbraucher dem Unternehmer für die
+    Finanzdienstleistung schuldet, einschließlich aller damit verbundenen
+    Provisionen, Gebühren, und Abgaben sowie aller über den Unternehmer
+    abgeführten Steuern, oder, wenn kein genauer Preis angegeben werden
+    kann, die Grundlage für seine Berechnung, die dem Verbraucher eine
+    Überprüfung des Preises ermöglicht,
 
 
-8.  gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf
+8.  gegebenenfalls Informationen zu den Konsequenzen bei Zahlungsverzug
+    oder Zahlungsausfall,
+
+
+9.  gegebenenfalls den Hinweis, dass der Preis auf der Grundlage einer
+    automatisierten Entscheidungsfindung personalisiert worden ist,
+
+
+10. gegebenenfalls einen Hinweis, dass sich die Finanzdienstleistung auf
     Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder
     der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind
     oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die
-    der Unternehmer keinen Einfluss hat, und dass in der Vergangenheit
-    erwirtschaftete Erträge kein Indikator für künftige Erträge sind,
+    der Unternehmer keinen Einfluss hat, und einen Hinweis, dass in der
+    Vergangenheit erwirtschaftete Erträge kein Indikator für künftige
+    Erträge sind,
 
 
-9.  gegebenenfalls eine Befristung der Gültigkeitsdauer der zur Verfügung
-    gestellten Informationen, beispielsweise die Gültigkeitsdauer
-    befristeter Angebote, insbesondere hinsichtlich des Preises,
+11. einen Hinweis auf mögliche weitere Steuern oder Kosten, die nicht über
+    den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden,
 
 
-10. Einzelheiten hinsichtlich der Zahlung und der Erfüllung,
+12. etwaige Beschränkungen des Zeitraums, währenddessen die gemäß diesem
+    Absatz zur Verfügung gestellten Informationen gültig sind,
 
 
-11. alle spezifischen zusätzlichen Kosten, die der Verbraucher für die
+13. Einzelheiten hinsichtlich der Zahlung und der Erfüllung,
+
+
+14. etwaige spezifische zusätzliche Kosten, die der Verbraucher für die
     Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche
-    zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden,
+    zusätzlichen Kosten in Rechnung gestellt werden,
 
 
-12. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die
-    Bedingungen, Einzelheiten der Ausübung, insbesondere Name und
-    Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
-    die Rechtsfolgen des Widerrufs einschließlich Informationen über den
-    Betrag, den der Verbraucher im Falle des Widerrufs nach § 357b des
-    Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat,
+15. wenn ökologische oder soziale Faktoren in die Anlagestrategie der
+    Finanzdienstleistung eingebunden werden, Informationen über
+    ökologische oder soziale Ziele, die mit der Finanzdienstleistung
+    verfolgt werden,
 
 
-13. die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder
-    regelmäßig wiederkehrende Leistung zum Inhalt hat,
+16. das Bestehen oder Nichtbestehen eines Widerrufsrechts und für den
+    Fall, dass ein Widerrufsrecht besteht, Angaben zur Widerrufsfrist und
+    zu den Modalitäten für die Ausübung des Widerrufsrechts,
+    einschließlich des Betrags, den der Verbraucher gegebenenfalls zu
+    entrichten hat, sowie die Folgen der Nichtausübung dieses Rechts,
 
 
-14. gegebenenfalls die vertraglichen Kündigungsbedingungen einschließlich
-    etwaiger Vertragsstrafen,
+17. die Mindestlaufzeit des Fernabsatzvertrags, wenn dieser die Erbringung
+    einer dauerhaften oder regelmäßig wiederkehrenden Finanzdienstleistung
+    zum Inhalt hat,
 
 
-15. die Mitgliedstaaten der Europäischen Union, deren Recht der
-    Unternehmer der Aufnahme von Beziehungen zum Verbraucher vor Abschluss
-    des Vertrags zugrunde legt,
+18. Angaben zum Recht der Parteien, den Fernabsatzvertrag vorzeitig oder
+    einseitig aufgrund der Vertragsbedingungen zu kündigen, einschließlich
+    aller Vertragsstrafen, die in einem solchen Fall auferlegt werden,
 
 
-16. gegebenenfalls eine Vertragsklausel über das auf den Vertrag
-    anwendbare Recht oder über das zuständige Gericht,
+19. praktische Hinweise und Verfahren zur Ausübung des Widerrufsrechts
+    nach § 355 des Bürgerlichen Gesetzbuchs, darunter Telefonnummer und
+    E-Mail-Adresse des Unternehmers oder Angaben zu anderen einschlägigen
+    Kommunikationsmitteln für die Übermittlung der Widerrufserklärung, und
+    bei über eine Online-Benutzeroberfläche geschlossenen
+    Finanzdienstleistungsverträgen Informationen über das Bestehen und die
+    Platzierung der Widerrufsfunktion nach § 356a des Bürgerlichen
+    Gesetzbuchs,
 
 
-17. die Sprachen, in welchen die Vertragsbedingungen und die in dieser
-    Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die
-    Sprachen, in welchen sich der Unternehmer verpflichtet, mit Zustimmung
-    des Verbrauchers die Kommunikation während der Laufzeit dieses
-    Vertrags zu führen,
+20. etwaige Vertragsklauseln, die das auf den Fernabsatzvertrag anwendbare
+    Recht oder das zuständige Gericht bestimmen,
 
 
-18. den Hinweis, ob der Verbraucher ein außergerichtliches Beschwerde- und
-    Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen
-    kann, und gegebenenfalls dessen Zugangsvoraussetzungen,
+21. in welcher Sprache oder in welchen Sprachen die Vertragsbedingungen
+    und die in diesem Artikel genannten Vorabinformationen mitgeteilt
+    werden sowie über die Sprache oder die Sprachen, zu deren Benutzung
+    sich der Unternehmer mit Zustimmung des Verbrauchers für die
+    Kommunikation während der Laufzeit des Fernabsatzvertrags
+    verpflichtet,
 
 
-19. gegebenenfalls das Bestehen eines Garantiefonds oder anderer
-    Entschädigungsregelungen, die weder unter die Richtlinie 2014/49/EU
-    des Europäischen Parlaments und des Rates vom 16. April 2014 über
-    Einlagensicherungssysteme (ABl. L 173 vom 12.6.2014, S. 149; L 212 vom
-    18\.7.2014, S. 47; L 309 vom 30.10.2014, S. 37) noch unter die
-    Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3.
-    März 1997 über Systeme für die Entschädigung der Anleger (ABl. L 84
-    vom 26.3.1997, S. 22) fallen.
+22. gegebenenfalls die Möglichkeit des Zugangs zu einem außergerichtlichen
+    Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer
+    unterworfen ist, und die Voraussetzungen für diesen Zugang,
 
 
-
-
-(2) Bei Telefongesprächen hat der Unternehmer nur folgende
-Informationen zur Verfügung zu stellen:
-
-1.  die Identität der Kontaktperson des Verbrauchers und deren Verbindung
-    zum Unternehmer,
-
-
-2.  die Beschreibung der Hauptmerkmale der Finanzdienstleistung,
-
-
-3.  den Gesamtpreis, den der Verbraucher dem Unternehmer für die
-    Finanzdienstleistung schuldet, einschließlich aller über den
-    Unternehmer abgeführten Steuern, oder, wenn kein genauer Preis
-    angegeben werden kann, die Grundlage für die Berechnung des Preises,
-    die dem Verbraucher eine Überprüfung des Preises ermöglicht,
-
-
-4.  mögliche weitere Steuern und Kosten, die nicht über den Unternehmer
-    abgeführt oder von ihm in Rechnung gestellt werden, und
-
-
-5.  das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie für den
-    Fall, dass ein Widerrufsrecht besteht, auch die Widerrufsfrist und die
-    Bedingungen, Einzelheiten der Ausübung und die Rechtsfolgen des
-    Widerrufs einschließlich Informationen über den Betrag, den der
-    Verbraucher im Falle des Widerrufs nach § 357b des Bürgerlichen
-    Gesetzbuchs für die erbrachte Leistung zu zahlen hat.
+23. das Bestehen eines Garantiefonds oder anderer
+    Entschädigungsregelungen, die nicht unter die Richtlinie 2014/49/EU in
+    der Fassung vom 16. April 2014 und die Richtlinie 97/9/EG in der
+    Fassung vom 3. März 1997 fallen.
 
 
 
-Satz 1 gilt nur, wenn der Unternehmer den Verbraucher darüber
-informiert hat, dass auf Wunsch weitere Informationen übermittelt
-werden können und welcher Art diese Informationen sind, und der
-Verbraucher ausdrücklich auf die Übermittlung der weiteren
-Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
+
+(2) Die Pflichten nach Absatz 1 bestehen nicht, wenn in Bezug auf den
+abzuschließenden Vertrag über Finanzdienstleistungen bereits in
+anderen Vorschriften Bestimmungen zu vorvertraglichen
+Informationspflichten enthalten sind. Informationspflichten nach dem
+Vermögensanlagengesetz und der Finanzanlagenvermittlungsverordnung
+sind keine Informationspflichten nach Satz 1. Enthalten die anderen
+Vorschriften keine Informationen zum Widerrufsrecht, ist der
+Unternehmer verpflichtet, den Verbraucher nach Maßgabe von Absatz 1
+Nummer 16 über das Bestehen oder Nichtbestehen eines solchen Rechts zu
+informieren.
+
+(3) Bei einem Telefongespräch hat der Unternehmer nur die
+Informationen nach Absatz 1 Nummer 1, 6, 7, 11 und 16 zur Verfügung zu
+stellen, bevor der Verbraucher durch den Vertrag gebunden ist. Er hat
+den Verbraucher über Art und Verfügbarkeit der übrigen in Absatz 1
+genannten Informationen zu unterrichten. Die Sätze 1 und 2 gelten nur,
+wenn der Verbraucher ausdrücklich zugestimmt hat.
 
 
-#### § 2 Weitere Informationspflichten
+#### § 2 Formale Anforderungen
 
-(1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von
-dessen Vertragserklärung die folgenden Informationen auf einem
-dauerhaften Datenträger mitzuteilen:
+(1) Der Unternehmer hat dem Verbraucher die Informationen nach § 1
+Absatz 1 in klarer und verständlicher Sprache leicht lesbar auf einem
+dauerhaften Datenträger zur Verfügung zu stellen. Verbrauchern mit
+Behinderungen, einschließlich Sehbehinderungen, sind bei
+Fernabsatzverträgen diese Informationen auf Verlangen in einem
+geeigneten und barrierefreien Format zur Verfügung zu stellen. Im
+Falle des § 1 Absatz 3 sind dem Verbraucher die übrigen Informationen
+nach § 1 Absatz 1 unverzüglich nach Abschluss des Vertrages auf einem
+dauerhaften Datenträger zur Verfügung zu stellen.
 
-1.  die Vertragsbestimmungen einschließlich der Allgemeinen
-    Geschäftsbedingungen und
+(2) Werden bei einem Fernabsatzvertrag die Informationen nach § 1
+Absatz 1 weniger als einen Tag vor dem Zeitpunkt, zu dem der
+Verbraucher durch den Vertrag gebunden ist, bereitgestellt, hat der
+Unternehmer den Verbraucher an die Möglichkeit des Widerrufs nach §
+355 des Bürgerlichen Gesetzbuchs sowie an das Verfahren für den
+Widerruf zu erinnern. Diese Erinnerung ist dem Verbraucher zwischen
+einem Tag und sieben Tagen nach Abschluss des Fernabsatzvertrages auf
+einem dauerhaften Datenträger zu übermitteln.
+
+(3) Werden die Informationen nach § 1 Absatz 1 auf elektronischem Wege
+bereitgestellt, kann der Unternehmer diese schichten; dies gilt nicht
+für die in § 1 Absatz 1 Nummer 1, 6, 7, 11 und 16 genannten
+Informationen. Im Falle der Schichtung muss es möglich sein, die in §
+1 Absatz 1 genannten Informationen in einem einzigen Dokument
+einzusehen, zu speichern und auszudrucken. Der Unternehmer hat dem
+Verbraucher alle in § 1 Absatz 1 genannten Informationen vor Abschluss
+des Vertrages zur Verfügung zu stellen.
 
 
-2.  die in § 1 Absatz 1 genannten Informationen.
+#### § 3 Angemessene Erläuterungen
+
+(1) Bei Fernabsatzverträgen ist der Unternehmer verpflichtet, dem
+Verbraucher vor Abschluss des Vertrages kostenfrei auf einem
+dauerhaften Datenträger angemessene Erläuterungen zur Verfügung zu
+stellen, damit der Verbraucher in die Lage versetzt wird zu
+beurteilen, ob der angebotene Vertrag und die Nebenleistungen seinen
+Bedürfnissen und seiner finanziellen Situation entsprechen. Hierzu hat
+der Unternehmer
+
+1.  die erforderlichen vorvertraglichen Informationen zu übermitteln,
+
+
+2.  die Hauptmerkmale des angebotenen Vertrags, einschließlich möglicher
+    Nebenleistungen, zu erläutern sowie
+
+
+3.  auf die besonderen Folgen hinzuweisen, die sich aus dem angebotenen
+    Vertrag für den Verbraucher ergeben können, gegebenenfalls
+    einschließlich der Folgen bei Zahlungsausfall und Zahlungsverzug.
 
 
 
-Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter
-Verwendung eines anderen Fernkommunikationsmittels geschlossen, das
-die Mitteilung auf einem dauerhaften Datenträger vor Vertragsschluss
-nicht gestattet, hat der Unternehmer dem Verbraucher abweichend von
-Satz 1 die Informationen unverzüglich nach Abschluss des
-Fernabsatzvertrags zu übermitteln.
+Bei einem Telefongespräch findet § 1 Absatz 3 entsprechende Anwendung.
 
-(2) Der Verbraucher kann während der Laufzeit des Vertrags vom
-Unternehmer jederzeit verlangen, dass dieser ihm die
-Vertragsbedingungen einschließlich der Allgemeinen
-Geschäftsbedingungen in Papierform zur Verfügung stellt.
+(2) Die Pflichten nach Absatz 1 bestehen nicht, wenn für den
+abzuschließenden Vertrag über Finanzdienstleistungen bereits in
+anderen Vorschriften Bestimmungen zu angemessenen Erläuterungen
+enthalten sind.
 
-(3) Zur Erfüllung seiner Informationspflicht nach Absatz 1 Satz 1
-Nummer 2 in Verbindung mit § 1 Absatz 1 Nummer 12 über das Bestehen
-eines Widerrufsrechts kann der Unternehmer dem Verbraucher das jeweils
-einschlägige, in der Anlage 3, der Anlage 3a oder der Anlage 3b
-vorgesehene Muster für die Widerrufsbelehrung bei
-Finanzdienstleistungsverträgen zutreffend ausgefüllt in Textform
-übermitteln. In Fällen des Artikels 247 § 1 Absatz 2 Satz 6 kann der
-Unternehmer zur Erfüllung seiner Informationspflicht nach Artikel 246b
-§ 2 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Artikel 246b § 1 Absatz
-1 Nummer 12 über das Bestehen eines Widerrufsrechts dem Verbraucher
-das in der Anlage 6 vorgesehene Muster für das ESIS-Merkblatt
-zutreffend ausgefüllt in Textform übermitteln. Zur Erfüllung seiner
-Informationspflichten nach den Sätzen 1 und 2 kann der Unternehmer bis
-zum Ablauf des 31. Dezember 2021 auch das Muster der Anlage 3 in der
-Fassung von Artikel 2 Nummer 7 des Gesetzes zur Umsetzung der
-Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung
-der Wohnungsvermittlung vom 20. September 2013 (BGBl. I S. 3642)
-verwenden.
+(3) Verwendet der Unternehmer bei Fernabsatzverträgen über
+Finanzdienstleistungen Online-Tools, hat der Unternehmer auf Verlangen
+des Verbrauchers vor Vertragsschluss sowie in begründeten Fällen auch
+nach Vertragsschluss menschliches Eingreifen bereitzustellen.
+
+
+#### § 4 Gestaltung der Online-Benutzeroberfläche
+
+(1) Der Unternehmer hat seine Online-Benutzeroberfläche so zu
+konzipieren, organisieren und betreiben, dass der Verbraucher beim
+Abschluss eines Fernabsatzvertrages über Finanzdienstleistungen nicht
+manipuliert oder anderweitig in seiner Fähigkeit, eine freie und
+informierte Entscheidung zu treffen, maßgeblich beeinträchtigt oder
+behindert wird.
+
+(2) Insbesondere ist unzulässig:
+
+1.  eine stärkere Hervorhebung bestimmter Auswahlmöglichkeiten, wenn der
+    Verbraucher, der Empfänger der Dienstleistung ist, aufgefordert wird,
+    eine Entscheidung zu treffen,
+
+
+2.  die wiederholte Aufforderung an den Verbraucher, der Empfänger der
+    Dienstleistung ist, eine Auswahl zu treffen, wenn eine solche Auswahl
+    bereits getroffen wurde, insbesondere durch die Einblendung eines Pop-
+    up-Fensters, mit der die Nutzererfahrung beeinträchtigt wird, und
+
+
+3.  die Erschwerung des Verfahrens zur Beendigung eines Dienstes im
+    Vergleich zur Anmeldung bei diesem Dienst.
+
+
+
 
 
 #### Art 246c - Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
@@ -7579,14 +7627,9 @@ angezeigt werden, unmittelbar und leicht zugänglich ist.
 
 (1) Die Verletzung von Verbraucherinteressen im Zusammenhang mit
 Verbraucherverträgen, bei der es sich um einen weitverbreiteten
-Verstoß gemäß Artikel 3 Nummer 3 oder einen weitverbreiteten Verstoß
-mit Unions-Dimension gemäß Artikel 3 Nummer 4 der Verordnung (EU)
-2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember
-2017 über die Zusammenarbeit zwischen den für die Durchsetzung der
-Verbraucherschutzgesetze zuständigen nationalen Behörden und zur
-Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom
-27\.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771
-(ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, handelt, ist
+Verstoß gemäß Artikel 3 Nummer 3 oder um einen weitverbreiteten
+Verstoß mit Unions-Dimension gemäß Artikel 3 Nummer 4 der Verordnung
+(EU) 2017/2394 in der Fassung vom 19. Dezember 2024 handelt, ist
 verboten.
 
 (2) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit
@@ -7610,11 +7653,18 @@ Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
 
 
 3.  eine Identität oder der geschäftliche Zweck eines Anrufs nicht nach §
-    312a Absatz 1 des Bürgerlichen Gesetzbuchs offengelegt wird,
+    312a Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs offengelegt wird,
+
+
+3a. der Verbraucher nicht nach § 312a Absatz 1 Satz 2 des Bürgerlichen
+    Gesetzbuchs in Kenntnis gesetzt wird,
 
 
 4.  der Verbraucher nicht nach § 312a Absatz 2 Satz 1 oder § 312d Absatz 1
-    des Bürgerlichen Gesetzbuchs informiert wird,
+    und 2 Satz 1 des Bürgerlichen Gesetzbuchs informiert wird oder der
+    Unternehmer seine Online-Benutzeroberfläche nicht nach § 312d Absatz 2
+    Satz 2 des Bürgerlichen Gesetzbuchs konzipiert, organisiert oder
+    betreibt,
 
 
 5.  eine Vereinbarung nach § 312a Absatz 3 Satz 1, auch in Verbindung mit
@@ -7624,6 +7674,10 @@ Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
 
 6.  eine nach § 312a Absatz 4 Nummer 2 oder Absatz 5 Satz 1 des
     Bürgerlichen Gesetzbuchs unwirksame Vereinbarung abgeschlossen wird,
+
+
+6a. dem Verbraucher entgegen Artikel 246b § 3 Absatz 3 kein menschliches
+    Eingreifen bereitgestellt wird,
 
 
 7.  von dem Verbraucher entgegen § 312e des Bürgerlichen Gesetzbuchs die
@@ -7672,8 +7726,8 @@ Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
 
 
     c)  eine empfangene Leistung dem Verbraucher nicht nach § 355 Absatz 3
-        Satz 1 in Verbindung mit § 357 Absatz 1 bis 3 des Bürgerlichen
-        Gesetzbuchs zurückgewährt wird oder
+        Satz 1 in Verbindung mit § 357 Absatz 1 bis 3 oder mit § 357b Absatz 1
+        und 2 Satz 1 des Bürgerlichen Gesetzbuchs zurückgewährt wird oder
 
 
     d)  Ware nicht nach § 357 Absatz 7 des Bürgerlichen Gesetzbuchs auf eigene
@@ -7689,7 +7743,16 @@ Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
 
 
 14. der Zugang eines Widerrufs nicht nach § 356 Absatz 1 Satz 2 des
-    Bürgerlichen Gesetzbuchs bestätigt wird oder
+    Bürgerlichen Gesetzbuchs bestätigt wird,
+
+
+14a. eine elektronische Widerrufsfunktion nach § 356a des Bürgerlichen
+    Gesetzbuchs, auch in Verbindung mit § 8 Absatz 1 Satz 3 des
+    Versicherungsvertragsgesetzes, nicht oder nicht nach Maßgabe von §
+    356a Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs zur Verfügung
+    gestellt wird oder wenn dem Verbraucher keine Eingangsbestätigung nach
+    Maßgabe von § 356a Absatz 4 des Bürgerlichen Gesetzbuchs übermittelt
+    wird, oder
 
 
 15. eine Sache dem Verbraucher nicht innerhalb der nach § 433 Absatz 1
@@ -7721,30 +7784,29 @@ Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
 1 Absatz 1 Verbraucherinteressen im Zusammenhang mit
 Verbraucherverträgen nach § 1 Absatz 2 oder 3 verletzt.
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfzigtausend Euro geahndet werden. Gegenüber einem Unternehmer, der
-in den von dem Verstoß betroffenen Mitgliedstaaten der Europäischen
-Union in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr
-mehr als eine Million zweihundertfünfzigtausend Euro Jahresumsatz
-erzielt hat, kann eine höhere Geldbuße verhängt werden; diese darf 4
-Prozent des Jahresumsatzes nicht übersteigen. Die Höhe des
-Jahresumsatzes kann geschätzt werden. Liegen keine Anhaltspunkte für
-eine Schätzung des Jahresumsatzes vor, beträgt das Höchstmaß der
-Geldbuße zwei Millionen Euro. Abweichend von den Sätzen 2 bis 4 gilt
-gegenüber einem Täter oder einem Beteiligten, der im Sinne des § 9 des
-Gesetzes über Ordnungswidrigkeiten für einen Unternehmer handelt, und
-gegenüber einem Beteiligten im Sinne von § 14 Absatz 1 Satz 2 des
-Gesetzes über Ordnungswidrigkeiten, der kein Unternehmer ist, der
-Bußgeldrahmen des Satzes 1. Das für die Ordnungswidrigkeit angedrohte
-Höchstmaß der Geldbuße im Sinne von § 30 Absatz 2 Satz 2 des Gesetzes
-über Ordnungswidrigkeiten ist das nach den Sätzen 1 bis 4 anwendbare
-Höchstmaß.
+(2) Die Ordnungswidrigkeit nach Absatz 1 kann mit einer Geldbuße bis
+zu fünfzigtausend Euro geahndet werden.
 
-(3) Die Ordnungswidrigkeit kann nur im Rahmen einer koordinierten
-Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394
-geahndet werden.
+(3) Gegenüber einem Unternehmer mit einem Jahresumsatz von mehr als
+1,25 Millionen Euro kann abweichend von Absatz 2, auch in Verbindung
+mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, die
+Ordnungswidrigkeit nach Absatz 1 mit einer Geldbuße bis zu 4 Prozent
+des Jahresumsatzes geahndet werden. Jahresumsatz nach Satz 1 ist die
+Summe aller Umsatzerlöse, die der Unternehmer in dem der
+Behördenentscheidung vorausgegangenen Geschäftsjahr in den
+Mitgliedstaaten der Europäischen Union erzielt hat, die von dem
+Verstoß betroffen sind. Der Jahresumsatz kann geschätzt werden. Liegen
+keine Anhaltspunkte für eine Schätzung des Jahresumsatzes vor, beträgt
+das Höchstmaß der Geldbuße zwei Millionen Euro.
 
-(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+(4) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist auf die
+Festsetzung der Geldbuße gegen einen Unternehmer nicht anzuwenden.
+
+(5) Die Ordnungswidrigkeit kann nur im Rahmen einer koordinierten
+Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394 in
+der Fassung vom 19. Dezember 2024 geahndet werden.
+
+(6) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
@@ -7776,11 +7838,7 @@ Bedingungen er sich bindet, beizufügen. Dies gilt nicht, wenn der
 Darlehensnehmer bereits ein Merkblatt erhalten hat, das über die
 speziellen Bedingungen des Vertragsangebots oder Vertragsvorschlags
 informiert. Jeder bindende Vertragsvorschlag ist dem Darlehensnehmer
-in Textform zur Verfügung zu stellen. Ist der Darlehensvertrag
-zugleich ein außerhalb von Geschäftsräumen geschlossener Vertrag oder
-ein Fernabsatzvertrag, gelten mit der Übermittlung des ESIS-Merkblatts
-auch die Anforderungen des § 312d Absatz 2 des Bürgerlichen
-Gesetzbuchs als erfüllt.
+in Textform zur Verfügung zu stellen.
 
 (3) Weitere vorvertragliche Informationen sind, soweit nichts anderes
 bestimmt ist, in einem gesonderten Dokument zu erteilen, das dem ESIS-
@@ -7820,17 +7878,13 @@ Angaben gleichartig zu gestalten und hervorzuheben.
 (4) Die Verpflichtung zur Unterrichtung nach § 491a Abs. 1 des
 Bürgerlichen Gesetzbuchs gilt als erfüllt, wenn der Darlehensgeber dem
 Darlehensnehmer das ordnungsgemäß ausgefüllte Muster in Textform
-übermittelt hat. Ist der Darlehensvertrag zugleich ein
-Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener
-Vertrag, gelten mit der Übermittlung des entsprechenden ausgefüllten
-Musters auch die Anforderungen des § 312d Absatz 2 des Bürgerlichen
-Gesetzbuchs als erfüllt. Die in diesem Absatz genannten
-Verpflichtungen gelten bis 31. Dezember 2010 auch bei Übermittlung des
-Musters in den Anlagen 4 und 5 in der Fassung des Gesetzes zur
-Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils
-der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften
-über das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S.
-2355) als erfüllt.
+übermittelt hat. Die in diesem Absatz genannten Verpflichtungen gelten
+bis 31. Dezember 2010 auch bei Übermittlung des Musters in den Anlagen
+4 und 5 in der Fassung des Gesetzes zur Umsetzung der
+Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der
+Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über
+das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355)
+als erfüllt.
 
 
 #### § 3 Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
@@ -7973,13 +8027,13 @@ Verbraucherdarlehensverträgen Kommunikationsmittel, die die
 Übermittlung der vorstehenden Informationen in der in § 2 vorgesehenen
 Form nicht gestatten, ist die vollständige Unterrichtung nach § 2
 unverzüglich nachzuholen. Bei Telefongesprächen muss die Beschreibung
-der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 6
 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und 4
 enthalten.
 
 (2) Bei Telefongesprächen, die sich auf Immobiliar-
 Verbraucherdarlehensverträge beziehen, muss die Beschreibung der
-wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 6
 zumindest die Angaben nach Teil A Abschnitt 3 bis 6 des ESIS-
 Merkblatts gemäß dem Muster in Anlage 6 enthalten.
 
@@ -8166,7 +8220,7 @@ anzugeben:
 
 
 (2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der
-wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 6
 zumindest die Angaben nach § 3 Absatz 1 Nummer 3 bis 5, 10, Absatz 3
 und 4 sowie nach Absatz 1 Nr. 1 Buchstabe c enthalten.
 
@@ -8216,7 +8270,7 @@ von den §§ 3, 4 und 6 nur anzugeben:
 
 
 (2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der
-wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 6
 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 6, 10 sowie Abs. 3 und
 4 enthalten.
 
@@ -8704,9 +8758,9 @@ außerhalb von Geschäftsräumen geschlossener Vertrag, so werden die
 Informationspflichten nach Artikel 246b § 1 Absatz 1 durch die
 Informationspflichten nach den §§ 2 bis 13 und 14 bis 16 ersetzt. Dies
 gilt bei Fernabsatzverträgen nicht für die in Artikel 246b § 1 Absatz
-1 Nummer 7 bis 12, 15 und 19 und bei außerhalb von Geschäftsräumen
+1 Nummer 10 bis 14, 16 und 23 und bei außerhalb von Geschäftsräumen
 geschlossenen Verträgen nicht für die in Artikel 246b § 1 Absatz 1
-Nummer 12 genannten Informationspflichten.
+Nummer 16 genannten Informationspflichten.
 
 
 ##### § 2 Allgemeine Form
@@ -10036,14 +10090,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     E-Mail-Adresse ein.
 
 
-*   Wenn Sie dem Verbraucher die Wahl einräumen, die Information über
+*   Wenn Sie dazu verpflichtet sind, eine Funktion bereitzustellen, mit
+    der der Verbraucher den online geschlossenen Vertrag widerrufen kann,
+    fügen Sie Folgendes ein: „Sie können Ihr Widerrufsrecht auch online
+    unter … [Internetadresse oder anderen geeigneten Hinweis darüber
+    eingeben, wo die Widerrufsfunktion verfügbar ist] ausüben. Wenn Sie
+    diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem
+    dauerhaften Datenträger (z. B. durch eine E-Mail) unverzüglich eine
+    Eingangsbestätigung mit Informationen zum Inhalt der
+    Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs. “
+    Wenn Sie dem Verbraucher die Wahl einräumen, die Information über
     seinen Widerruf des Vertrags auf Ihrer Webseite elektronisch
     auszufüllen und zu übermitteln, fügen Sie Folgendes ein: „Sie können
     das Muster-Widerrufsformular oder eine andere eindeutige Erklärung
-    auch auf unserer Webseite [Internet-Adresse einfügen] elektronisch
+    auch auf unserer Webseite … [Internet-Adresse einfügen] elektronisch
     ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch,
     so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung
-    über den Eingang eines solchen Widerrufs übermitteln.“
+    über den Eingang eines solchen Widerrufs übermitteln. “
 
 
 *   Im Falle von Kaufverträgen, in denen Sie nicht angeboten haben, im
@@ -10111,17 +10174,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*   Im Falle eines Vertrags zur Erbringung von Dienstleistungen oder der
-    Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem
+*   Im Falle eines Vertrags, der die Erbringung von Dienstleistungen oder
+    die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem
     begrenzten Volumen oder in einer bestimmten Menge zum Verkauf
-    angeboten werden, oder von Fernwärme fügen Sie Folgendes ein: „Haben
-    Sie verlangt, dass die Dienstleistungen oder Lieferung von
-    Wasser/Gas/Strom/Fernwärme [Unzutreffendes streichen] während der
-    Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen
-    Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie
-    uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags
-    unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum
-    Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.“
+    angeboten werden, oder von Fernwärme zum Gegenstand hat, fügen Sie
+    Folgendes ein: „Haben Sie verlangt, dass die Dienstleistungen oder
+    Lieferung von Wasser/Gas/Strom/Fernwärme [Unzutreffendes streichen]
+    während der Widerrufsfrist beginnen soll, so haben Sie uns einen
+    angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem
+    Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts
+    hinsichtlich dieses Vertrags unterrichten, bereits erbrachten
+    Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag
+    vorgesehenen Dienstleistungen entspricht. “
 
 
 
@@ -10176,1895 +10240,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anlage 3 (zu Artikel 246b § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über Finanzdienstleistungen mit Ausnahme von Verträgen über die Erbringung von Zahlungsdiensten und Immobiliarförderdarlehensverträgen
+### Anlage 3 (weggefallen)
 
-(Fundstelle: BGBl. I 2021, 1670 - 1672;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+### Anlage 3a (weggefallen)
 
-*    *   **Widerrufsbelehrung**
 
-
-*    *   **Abschnitt 1**
-        **Widerrufsrecht**
-
-
-*    *   Sie können Ihre Vertragserklärung **innerhalb von 14 Tagen ohne Angabe
-        von Gründen mittels einer eindeutigen Erklärung widerrufen**
-        . Die Frist beginnt nach Abschluss des Vertrags und nachdem Sie die
-        Vertragsbestimmungen einschließlich der Allgemeinen
-        Geschäftsbedingungen sowie **alle nachstehend unter Abschnitt 2
-        aufgeführten Informationen**                      auf einem
-        dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) **erhalten
-        haben**                     . **Zur Wahrung der Widerrufsfrist genügt
-        die rechtzeitige Absendung des Widerrufs**                     , wenn
-        die Erklärung auf einem dauerhaften Datenträger erfolgt. Der Widerruf
-        ist zu richten an:*
-
-
-*    *   **Abschnitt 2**
-        **Für den Beginn der Widerrufsfrist erforderliche Informationen**
-
-
-*    *   *
-
-
-*    *   Die Informationen im Sinne des Abschnitts 1 Satz 2 umfassen folgende
-        Angaben:
-
-
-*    *   1.
-
-    *   die Identität des Unternehmers; anzugeben ist auch das öffentliche
-        Unternehmensregister, bei dem der Rechtsträger eingetragen ist, und
-        die zugehörige Registernummer oder gleichwertige Kennung;
-
-
-*    *   2.
-
-    *   die Hauptgeschäftstätigkeit des Unternehmers und die für seine
-        Zulassung zuständige Aufsichtsbehörde;
-
-
-*    *   3.
-
-    *   die Identität des Vertreters des Unternehmers in dem Mitgliedstaat der
-        Europäischen Union, in dem der Verbraucher seinen Wohnsitz hat, wenn
-        es einen solchen Vertreter gibt, oder einer anderen gewerblich tätigen
-        Person als dem Unternehmer, wenn der Verbraucher mit dieser Person
-        geschäftlich zu tun hat, und die Eigenschaft, in der diese Person
-        gegenüber dem Verbraucher tätig wird;
-
-
-*    *   4.
-
-    *   zur Anschrift
-
-
-*    *
-    *   a)
-
-    *   die ladungsfähige Anschrift des Unternehmers und jede andere
-        Anschrift, die für die Geschäftsbeziehung zwischen dem Unternehmer und
-        dem Verbraucher maßgeblich ist, bei juristischen Personen,
-        Personenvereinigungen oder Personengruppen auch den Namen des
-        Vertretungsberechtigten;
-
-
-*    *
-    *   b)
-
-    *   jede andere Anschrift, die für die Geschäftsbeziehung zwischen dem
-        Verbraucher und einem Vertreter des Unternehmers oder einer anderen
-        gewerblich tätigen Person als dem Unternehmer, wenn der Verbraucher
-        mit dieser Person geschäftlich zu tun hat, maßgeblich ist, bei
-        juristischen Personen, Personenvereinigungen oder Personengruppen auch
-        den Namen des Vertretungsberechtigten;
-
-
-*    *   5.
-
-    *   die wesentlichen Merkmale der Finanzdienstleistung sowie Informationen
-        darüber, wie der Vertrag zustande kommt;
-
-
-*    *   6.
-
-    *   den Gesamtpreis der Finanzdienstleistung einschließlich aller damit
-        verbundenen Preisbestandteile sowie alle über den Unternehmer
-        abgeführten Steuern oder, wenn kein genauer Preis angegeben werden
-        kann, seine Berechnungsgrundlage, die dem Verbraucher eine Überprüfung
-        des Preises ermöglicht;
-
-
-*    *   7.
-
-    *   gegebenenfalls zusätzlich anfallende Kosten sowie einen Hinweis auf
-        mögliche weitere Steuern oder Kosten, die nicht über den Unternehmer
-        abgeführt oder von ihm in Rechnung gestellt werden;
-
-
-*    *   8.
-
-    *   den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente
-        bezieht, die wegen ihrer spezifischen Merkmale oder der
-        durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder
-        deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der
-        Unternehmer keinen Einfluss hat, und dass in der Vergangenheit
-        erwirtschaftete Erträge kein Indikator für künftige Erträge sind;
-
-
-*    *   9.
-
-    *   eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten
-        Informationen, beispielsweise die Gültigkeitsdauer befristeter
-        Angebote, insbesondere hinsichtlich des Preises;
-
-
-*    *   10.
-
-    *   Einzelheiten hinsichtlich der Zahlung und der Erfüllung;
-
-
-*    *   11.
-
-    *   alle spezifischen zusätzlichen Kosten, die der Verbraucher für die
-        Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche
-        zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden;
-
-
-*    *   12.
-
-    *   das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die
-        Bedingungen, Einzelheiten der Ausübung, insbesondere Name und
-        Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
-        die Rechtsfolgen des Widerrufs einschließlich Informationen über den
-        Betrag, den der Verbraucher im Fall des Widerrufs für die erbrachte
-        Leistung zu zahlen hat, sofern er zur Zahlung von Wertersatz
-        verpflichtet ist (zugrunde liegende Vorschrift: § 357b des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *   13.
-
-    *   die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder
-        regelmäßig wiederkehrende Leistung zum Inhalt hat;
-
-
-*    *   14.
-
-    *   die vertraglichen Kündigungsbedingungen einschließlich etwaiger
-        Vertragsstrafen;
-
-
-*    *   15.
-
-    *   die Mitgliedstaaten der Europäischen Union, deren Recht der
-        Unternehmer der Aufnahme von Beziehungen zum Verbraucher vor Abschluss
-        des Vertrags zugrunde legt;
-
-
-*    *   16.
-
-    *   eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder
-        über das zuständige Gericht;
-
-
-*    *   17.
-
-    *   die Sprachen, in denen die Vertragsbedingungen und die in dieser
-        Widerrufsbelehrung genannten Vorabinformationen mitgeteilt werden,
-        sowie die Sprachen, in denen sich der Unternehmer verpflichtet, mit
-        Zustimmung des Verbrauchers die Kommunikation während der Laufzeit
-        dieses Vertrags zu führen;
-
-
-*    *   18.
-
-    *   den Hinweis, ob der Verbraucher ein außergerichtliches Beschwerde- und
-        Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen
-        kann, und gegebenenfalls dessen Zugangsvoraussetzungen;
-
-
-*    *   19.
-
-    *   das Bestehen eines Garantiefonds oder anderer
-        Entschädigungsregelungen, die weder unter die gemäß der Richtlinie
-        2014/49/EU des Europäischen Parlaments und des Rates vom 16. April
-        2014 über Einlagensicherungssysteme (ABl. L 173 vom 12.6.2014, S. 149;
-        L 212 vom 18.7.2014, S. 47; L 309 vom 30.10.2014, S. 37) geschaffenen
-        Einlagensicherungssysteme noch unter die gemäß der Richtlinie 97/9/EG
-        des Europäischen Parlaments und des Rates vom 3. März 1997 über
-        Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S.
-        22) geschaffenen Anlegerentschädigungssysteme fallen.
-
-
-*    *   **Abschnitt 3**
-        **Widerrufsfolgen**
-
-
-*    *   Im Fall eines wirksamen Widerrufs **sind die beiderseits empfangenen
-        Leistungen zurückzugewähren**                     .*
-          Sie sind zur **Zahlung von Wertersatz**                      für die
-        bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie vor
-        Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen
-        wurden und ausdrücklich zugestimmt haben, dass vor dem Ende der
-        Widerrufsfrist mit der Ausführung der Gegenleistung begonnen werden
-        kann. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies
-        dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für
-        den Zeitraum bis zum Widerruf dennoch erfüllen müssen. **Ihr
-        Widerrufsrecht erlischt**                      vorzeitig, wenn der
-        Vertrag **von beiden Seiten auf Ihren ausdrücklichen Wunsch
-        vollständig erfüllt ist**                     , bevor Sie Ihr
-        Widerrufsrecht ausgeübt haben. **Verpflichtungen zur Erstattung von
-        Zahlungen müssen innerhalb von 30 Tagen erfüllt werden**
-        . Diese Frist beginnt für Sie mit der Absendung Ihrer
-        Widerrufserklärung, für uns mit deren Empfang.
-
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   (Ort), (Datum), (Unterschrift des Verbrauchers)*
-
-
-
-**Gestaltungshinweise:**
-
-*    *   *
-
-    *   Einsetzen: Namen/Firma und ladungsfähige Anschrift des
-        Widerrufsadressaten. Zusätzlich können angegeben werden:
-        Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine
-        Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch
-        eine Internetadresse.
-
-
-*    *   *
-
-    *   Die unter den **Nummern 3, 4 Buchstabe b, den Nummern 7, 8, 9, 11, 13,
-        14, 16 und 19 aufgelisteten und kursiv gedruckten Informationen**
-        sind nur dann in die Widerrufsbelehrung aufzunehmen, **wenn sie für
-        den vorliegenden Vertrag einschlägig sind**                       .
-        Der Kursivdruck ist dabei zu entfernen. Eine Information ist auch dann
-        vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist,
-        beispielsweise, wenn bei Nummer 7 nur zusätzliche Kosten, nicht aber
-        weitere Steuern, die nicht über den Unternehmer abgeführt oder von ihm
-        in Rechnung gestellt werden, anfallen. Werden Informationen gemäß der
-        vorstehenden Vorgabe nicht aufgenommen, so ist die fortlaufende
-        Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 8
-        nicht übernommen, so wird Nummer 9 zu Nummer 8 etc.). Wird bei Nummer
-        4 Buchstabe b nicht übernommen, so entfällt bei Buchstabe a im Text
-        der Buchstabe „a)“ sowie die Überschrift „zur Anschrift“. Die letzte
-        in der Widerrufsbelehrung aufgenommene Information soll mit dem
-        Satzzeichen „.“ abschließen.
-
-
-*    *   *
-
-    *   Bei der Vereinbarung eines Entgelts für die Duldung einer Überziehung
-        im Sinne des § 505 des Bürgerlichen Gesetzbuchs (BGB) ist hier
-        Folgendes einzufügen:
-
-
-*    *
-    *   „Überziehen Sie Ihr Konto ohne eingeräumte Überziehungsmöglichkeit
-        oder überschreiten Sie die Ihnen eingeräumte Überziehungsmöglichkeit,
-        können wir von Ihnen über die Rückzahlung des Betrags der Überziehung
-        oder Überschreitung hinaus weder Kosten noch Zinsen verlangen, wenn
-        wir Sie nicht ordnungsgemäß über die Bedingungen und Folgen der
-        Überziehung oder Überschreitung (z. B. anwendbarer Sollzinssatz,
-        Kosten) informiert haben.“
-
-
-*    *   *
-
-    *   Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von
-        der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:
-
-
-*    *
-    *   a)
-
-    *   Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der
-        Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten
-        Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden,
-        so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis*
-         Buchstabe a bis c der Anlage 1 des Einführungsgesetzes zum
-        Bürgerlichen Gesetzbuche (EGBGB) zu geben.
-
-
-*    *
-    *   b)
-
-    *   Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht
-        in der Überlassung einer Sache gemäß Buchstabe a oder in einer
-        Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder
-        Strom, wenn sie nicht in einem begrenzten Volumen oder in einer
-        bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von
-        Fernwärme, so sind hier die konkreten Hinweise entsprechend
-        Gestaltungshinweis*                         der Anlage 1 des EGBGB zu
-        geben.
-
-
-*    *
-    *   c)
-
-    *   Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen
-        Datenträger befindlichen digitalen Inhalten, so ist hier folgender
-        Hinweis zu geben:
-
-
-*    *
-    *
-    *   „Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf
-        gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer
-        Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und
-        ausdrücklich zugestimmt haben, dass wir vor dem Ende der
-        Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
-
-
-*    *   *
-
-    *   Bei Anwendung der Gestaltungshinweise*                         oder*
-         ist hier folgende Unterüberschrift einzufügen:
-
-
-*    *
-    *   **„Besondere Hinweise“**                       .
-
-
-*    *   *
-
-    *   Wenn ein verbundenes Geschäft (§ 358 BGB) vorliegt, ist für
-        finanzierte Geschäfte der nachfolgende Hinweis einzufügen:
-
-
-*    *
-    *   „Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später
-        widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden,
-        sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist
-        insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber
-        sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die
-        Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei
-        Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits
-        zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen
-        hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in
-        unsere Rechte und Pflichten aus dem finanzierten Vertrag ein.
-        Letzteres gilt nicht, wenn der finanzierte Vertrag den Erwerb von
-        Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten)
-        zum Gegenstand hat. Wollen Sie eine vertragliche Bindung so weitgehend
-        wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch
-        und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür
-        ein Widerrufsrecht zusteht.“
-
-
-*    *
-    *   Bei einem finanzierten Erwerb eines Grundstücks oder eines
-        grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie
-        folgt zu ändern:
-
-
-*    *
-    *   „Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen
-        identisch sind oder wenn der Darlehensgeber über die
-        Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch
-        Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen
-        Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der
-        Planung, Werbung oder Durchführung des Projekts Funktionen des
-        Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
-
-
-*    *   *
-
-    *   Wenn ein zusammenhängender Vertrag (§ 360 BGB) vorliegt, ist der
-        nachfolgende Hinweis einzufügen:
-
-
-*    *
-    *   „Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem
-        Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der
-        zusammenhängende Vertrag eine Leistung betrifft, die von uns oder
-        einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und
-        dem Dritten erbracht wird.“
-
-
-*    *   *
-
-    *   Wird für einen Vertrag belehrt, der auch einen Vertrag über die
-        Erbringung von Zahlungsdiensten betrifft, für den in Anlage 3a
-        und/oder in Anlage 3b des EGBGB ein Muster für eine Widerrufsbelehrung
-        zur Verfügung gestellt wird, so sind die jeweils zutreffenden
-        Ergänzungen aus den Mustern für die Widerrufsbelehrung zu kombinieren.
-        Soweit zu kombinierende Ergänzungen identisch sind, sind
-        Wiederholungen des Wortlauts nicht erforderlich.
-
-
-*    *   *
-
-    *   Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall
-        sind diese Angaben entweder durch die Wörter „Ende der
-        Widerrufsbelehrung“ oder durch die Wörter „(einsetzen: Firma des
-        Unternehmers)“ zu ersetzen.
-
-
-
-
-(zu Artikel 246b § 2 Absatz 3 Satz 1)
-
-### Anlage 3a Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Zahlungsdiensterahmenverträgen
-
-(Fundstelle: BGBl. I 2021, 1673 - 1677;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-*    *   **Widerrufsbelehrung**
-
-
-*    *   **Abschnitt 1**
-        **Widerrufsrecht**
-
-
-*    *   Sie können Ihre Vertragserklärung **innerhalb von 14 Tagen ohne Angabe
-        von Gründen mittels einer eindeutigen Erklärung widerrufen**
-        . Die Frist beginnt nach Abschluss des Vertrags und nachdem Sie die
-        Vertragsbestimmungen einschließlich der Allgemeinen
-        Geschäftsbedingungen sowie **alle nachstehend unter Abschnitt 2
-        aufgeführten Informationen**                      auf einem
-        dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) **erhalten
-        haben**                     . **Zur Wahrung der Widerrufsfrist genügt
-        die rechtzeitige Absendung des Widerrufs**                     , wenn
-        die Erklärung auf einem dauerhaften Datenträger erfolgt. Der Widerruf
-        ist zu richten an:*
-
-
-*    *   **Abschnitt 2**
-        **Für den Beginn der Widerrufsfrist erforderliche Informationen**
-
-
-*    *   *
-
-
-*    *   Die Informationen im Sinne des Abschnitts 1 Satz 2 umfassen folgende
-        Angaben:
-
-
-*    *   **Allgemeine Informationen:***
-
-
-*    *   1.
-
-    *   das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die
-        Bedingungen, Einzelheiten der Ausübung, insbesondere Name und
-        Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
-        die Rechtsfolgen des Widerrufs einschließlich Informationen über den
-        Betrag, den der Verbraucher im Fall des Widerrufs für die erbrachte
-        Leistung zu zahlen hat, sofern er zur Zahlung von Wertersatz
-        verpflichtet ist (zugrunde liegende Vorschrift: § 357b des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *   2.
-
-    *   die Mitgliedstaaten der Europäischen Union, deren Recht der
-        Zahlungsdienstleister der Aufnahme von Beziehungen zum Verbraucher vor
-        Abschluss des Vertrags zugrunde legt;
-
-
-*    *   3.
-
-    *   Einzelheiten hinsichtlich der Zahlung und der Erfüllung;
-
-
-*    *   4.
-
-    *   gegebenenfalls anfallende Kosten sowie einen Hinweis auf mögliche
-        Steuern oder Kosten, die nicht über den Zahlungsdienstleister
-        abgeführt oder von ihm in Rechnung gestellt werden;
-
-
-*    *   5.
-
-    *   den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente
-        bezieht, die wegen ihrer spezifischen Merkmale oder der
-        durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder
-        deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der
-        Zahlungsdienstleister keinen Einfluss hat, und dass in der
-        Vergangenheit erwirtschaftete Erträge kein Indikator für künftige
-        Erträge sind;
-
-
-*    *   6.
-
-    *   eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten
-        Informationen, beispielsweise die Gültigkeitsdauer befristeter
-        Angebote, insbesondere hinsichtlich des Preises;
-
-
-*    *   7.
-
-    *   alle spezifischen zusätzlichen Kosten, die der Verbraucher für die
-        Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche
-        zusätzlichen Kosten durch den Zahlungsdienstleister in Rechnung
-        gestellt werden;
-
-
-*    *   8.
-
-    *   das Bestehen eines Garantiefonds oder anderer
-        Entschädigungsregelungen, die weder unter die gemäß der Richtlinie
-        2014/49/EU des Europäischen Parlaments und des Rates vom 16. April
-        2014 über Einlagensicherungssysteme (ABl. L 173 vom 12.6.2014, S. 149;
-        L 212 vom 18.7.2014, S. 47; L 309 vom 30.10.2014, S. 37) geschaffenen
-        Einlagensicherungssysteme noch unter die gemäß der Richtlinie 97/9/EG
-        des Europäischen Parlaments und des Rates vom 3. März 1997 über
-        Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S.
-        22) geschaffenen Anlegerentschädigungssysteme fallen;
-
-
-*    *   **Informationen zur Erbringung von Zahlungsdiensten:**
-
-
-*    *   9.
-
-    *   zum Zahlungsdienstleister
-
-
-*    *
-    *   a)
-
-    *   den Namen und die ladungsfähige Anschrift seiner Hauptverwaltung sowie
-        alle anderen Anschriften einschließlich E-Mail-Adresse, die für die
-        Kommunikation mit dem Zahlungsdienstleister von Belang sind;
-
-
-*    *
-    *   b)
-
-    *   den Namen und die ladungsfähige Anschrift seines Agenten oder seiner
-        Zweigniederlassung in dem Mitgliedstaat, in dem der Zahlungsdienst
-        angeboten wird;
-
-
-*    *
-    *   c)
-
-    *   die für den Zahlungsdienstleister zuständigen Aufsichtsbehörden und
-        das bei der Bundesanstalt für Finanzdienstleistungsaufsicht geführte
-        Register oder jedes andere relevante öffentliche Register, in das der
-        Zahlungsdienstleister als zugelassen eingetragen ist, sowie seine
-        Registernummer oder eine gleichwertige in diesem Register verwendete
-        Kennung;
-
-
-*    *   10.
-
-    *   zur Nutzung des Zahlungsdienstes
-
-
-*    *
-    *   a)
-
-    *   eine Beschreibung der wesentlichen Merkmale des zu erbringenden
-        Zahlungsdienstes;
-
-
-*    *
-    *   b)
-
-    *   Informationen oder Kundenkennungen, die für die ordnungsgemäße
-        Auslösung oder Ausführung eines Zahlungsauftrags erforderlich sind;
-
-
-*    *
-    *   c)
-
-    *   die Art und Weise der Zustimmung zur Auslösung eines Zahlungsauftrags
-        oder zur Ausführung eines Zahlungsvorgangs und des Widerrufs eines
-        Zahlungsauftrags (zugrunde liegende Vorschriften: §§ 675j und 675p des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   d)
-
-    *   den Zeitpunkt, ab dem ein Zahlungsauftrag als zugegangen gilt
-        (zugrunde liegende Vorschrift: § 675n Absatz 1 des Bürgerlichen
-        Gesetzbuchs);
-
-
-*    *
-    *   e)
-
-    *   einen vom Zahlungsdienstleister festgelegten Zeitpunkt nahe am Ende
-        eines Geschäftstags, bei dessen Ablauf ein nach diesem Zeitpunkt
-        zugegangener Zahlungsauftrag des Verbrauchers als am darauf folgenden
-        Geschäftstag zugegangen gilt (zugrunde liegende Vorschrift: § 675n
-        Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   f)
-
-    *   die maximale Ausführungsfrist für die zu erbringenden Zahlungsdienste;
-
-
-*    *
-    *   g)
-
-    *   einen Hinweis auf die Möglichkeit, Betragsobergrenzen für die Nutzung
-        eines Zahlungsinstruments (wie beispielsweise eine Zahlungskarte) zu
-        vereinbaren (zugrunde liegende Vorschrift: § 675k Absatz 1 des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   h)
-
-    *   einen Hinweis auf das Recht des Verbrauchers, zwei oder mehrere
-        unterschiedliche Zahlungsmarken auf seinem kartengebundenen
-        Zahlungsinstrument zu verlangen, sofern sein Zahlungsdienstleister
-        diesen Dienst anbietet, sowie einen Hinweis auf das Recht des
-        Verbrauchers, rechtzeitig vor der Unterzeichnung des Vertrags vom
-        Zahlungsdienstleister in klarer und objektiver Weise über alle
-        verfügbaren Zahlungsmarken und deren Eigenschaften, einschließlich
-        ihrer Funktionsweise, Kosten und Sicherheit, informiert zu werden
-        (zugrunde liegende Vorschrift: Artikel 8 der Verordnung (EU) 2015/751
-        des Europäischen Parlaments und des Rates vom 29. April 2015 über
-        Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123
-        vom 19.5.2015, S. 1), die durch die Delegierte Verordnung (EU) 2018/72
-        (ABl. L 13 vom 18.1.2018, S. 1) geändert worden ist);
-
-
-*    *   11.
-
-    *   zu Entgelten, Zinsen und Wechselkursen
-
-
-*    *
-    *   a)
-
-    *   alle Entgelte, die der Verbraucher an den Zahlungsdienstleister zu
-        entrichten hat, einschließlich derjenigen, die sich danach richten,
-        wie und wie oft über die geforderten Informationen zu unterrichten
-        ist;
-
-
-*    *
-    *   b)
-
-    *   eine Aufschlüsselung dieser Entgelte;
-
-
-*    *
-    *   c)
-
-    *   die zugrunde gelegten Zinssätze und Wechselkurse oder, bei Anwendung
-        von Referenzzinssätzen und -wechselkursen, die Methode für die
-        Berechnung der tatsächlichen Zinsen sowie den maßgeblichen Stichtag
-        und den Index oder die Grundlage für die Bestimmung des
-        Referenzzinssatzes oder -wechselkurses;
-
-
-*    *
-    *   d)
-
-    *   das unmittelbare Wirksamwerden von Änderungen des Referenzzinssatzes
-        oder -wechselkurses, die auf den vereinbarten Referenzzinssätzen oder
-        -wechselkursen beruhen, ohne vorherige Benachrichtigung des
-        Verbrauchers (zugrunde liegende Vorschrift: § 675g Absatz 3 des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *   12.
-
-    *   zur Kommunikation
-
-
-*    *
-    *   a)
-
-    *   die Kommunikationsmittel, deren Nutzung für die
-        Informationsübermittlung und Anzeigepflichten vereinbart wird,
-        einschließlich der technischen Anforderungen an die Ausstattung und
-        die Software des Verbrauchers;
-
-
-*    *
-    *   b)
-
-    *   Angaben dazu, wie und wie oft die vom Zahlungsdienstleister vor und
-        während des Vertragsverhältnisses, vor der Ausführung von
-        Zahlungsvorgängen sowie bei einzelnen Zahlungsvorgängen zu erteilenden
-        Informationen mitzuteilen oder zugänglich zu machen sind;
-
-
-*    *
-    *   c)
-
-    *   die Sprache oder die Sprachen, in der oder in denen der Vertrag zu
-        schließen ist und in der oder in denen die Kommunikation für die Dauer
-        des Vertragsverhältnisses erfolgen soll;
-
-
-*    *
-    *   d)
-
-    *   einen Hinweis auf das Recht des Verbrauchers, während der
-        Vertragslaufzeit jederzeit die Übermittlung der Vertragsbedingungen
-        sowie der in dieser Widerrufsbelehrung genannten vorvertraglichen
-        Informationen zur Erbringung von Zahlungsdiensten in Papierform oder
-        auf einem anderen dauerhaften Datenträger zu verlangen;
-
-
-*    *   13.
-
-    *   zu den Schutz- und Abhilfemaßnahmen
-
-
-*    *
-    *   a)
-
-    *   eine Beschreibung, wie der Verbraucher ein Zahlungsinstrument sicher
-        aufbewahrt und wie er seine Pflicht gegenüber dem
-        Zahlungsdienstleister oder einer von diesem benannten Stelle erfüllt,
-        den Verlust, den Diebstahl, die missbräuchliche Verwendung oder die
-        sonstige nicht autorisierte Nutzung eines Zahlungsinstruments
-        unverzüglich anzuzeigen, nachdem er hiervon Kenntnis erlangt hat
-        (zugrunde liegende Vorschrift: § 675l Absatz 1 Satz 2 des Bürgerlichen
-        Gesetzbuchs);
-
-
-*    *
-    *   b)
-
-    *   eine Beschreibung des sicheren Verfahrens zur Unterrichtung des
-        Verbrauchers durch den Zahlungsdienstleister im Fall vermuteten oder
-        tatsächlichen Betrugs oder bei Sicherheitsrisiken;
-
-
-*    *
-    *   c)
-
-    *   die Bedingungen, unter denen sich der Zahlungsdienstleister das Recht
-        vorbehält, ein Zahlungsinstrument des Bürgerlichen Gesetzbuchs zu
-        sperren (zugrunde liegende Vorschrift: § 675k Absatz 2 des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   d)
-
-    *   Informationen zur Haftung des Verbrauchers bei Verlust, Diebstahl,
-        Abhandenkommen oder sonstiger missbräuchlicher Verwendung des
-        Zahlungsinstruments einschließlich Angaben zum Höchstbetrag (zugrunde
-        liegende Vorschrift: § 675v des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   e)
-
-    *   Informationen über die Haftung des Zahlungsdienstleisters bei nicht
-        autorisierten Zahlungsvorgängen (zugrunde liegende Vorschrift: § 675u
-        des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   f)
-
-    *   Angaben dazu, wie und innerhalb welcher Frist der Verbraucher dem
-        Zahlungsdienstleister nicht autorisierte oder fehlerhaft ausgelöste
-        oder ausgeführte Zahlungsvorgänge anzeigen muss (zugrunde liegende
-        Vorschrift: § 676b des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   g)
-
-    *   Informationen über die Haftung des Zahlungsdienstleisters bei nicht
-        erfolgter, fehlerhafter oder verspäteter Auslösung oder Ausführung von
-        Zahlungsvorgängen sowie Informationen über dessen Verpflichtung, auf
-        Verlangen Nachforschungen über den nicht oder fehlerhaft ausgeführten
-        Zahlungsvorgang anzustellen (zugrunde liegende Vorschrift: § 675y des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   h)
-
-    *   die Bedingungen für den Erstattungsanspruch des Verbrauchers bei einem
-        vom oder über den Zahlungsempfänger ausgelösten autorisierten
-        Zahlungsvorgang (beispielsweise bei SEPA-Lastschriften) (zugrunde
-        liegende Vorschrift: § 675x des Bürgerlichen Gesetzbuchs);
-
-
-*    *   14.
-
-    *   zu Änderungen der Bedingungen und Kündigung des
-        Zahlungsdiensterahmenvertrags
-
-
-*    *
-    *   a)
-
-    *   die Vereinbarung, dass die Zustimmung des Verbrauchers zu einer
-        Änderung der Vertragsbedingungen als erteilt gilt, wenn der
-        Verbraucher dem Zahlungsdienstleister seine Ablehnung nicht vor dem
-        Zeitpunkt angezeigt hat, zu dem die geänderten Vertragsbedingungen in
-        Kraft treten sollen (zugrunde liegende Vorschrift: § 675g des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   b)
-
-    *   die Laufzeit des Zahlungsdiensterahmenvertrags;
-
-
-*    *
-    *   c)
-
-    *   einen Hinweis auf das Recht des Verbrauchers, den Vertrag zu kündigen;
-
-
-*    *
-    *   d)
-
-    *   gegebenenfalls einen Hinweis auf folgende kündigungsrelevante
-        Vereinbarungen:
-
-
-*    *
-    *
-    *   aa)
-
-    *   die Vereinbarung einer Kündigungsfrist für das Recht des Verbrauchers,
-        den Vertrag zu kündigen, die einen Monat nicht überschreiten darf
-        (zugrunde liegende Vorschrift: § 675h Absatz 1 des Bürgerlichen
-        Gesetzbuchs),
-
-
-*    *
-    *
-    *   bb)
-
-    *   die Vereinbarung eines Kündigungsrechts des Zahlungsdienstleisters
-        unter Einhaltung einer Frist von mindestens zwei Monaten, die
-        voraussetzt, dass der Vertrag auf unbestimmte Zeit geschlossen ist
-        (zugrunde liegende Vorschrift: § 675h Absatz 2 des Bürgerlichen
-        Gesetzbuchs),
-
-
-*    *
-    *
-    *   cc)
-
-    *   das Recht zur fristlosen Kündigung des Verbrauchers vor dem
-        Wirksamwerden einer vom Zahlungsdienstleister vorgeschlagenen Änderung
-        des Vertrags, wenn die Zustimmung des Verbrauchers zur Änderung nach
-        einer Vereinbarung im Vertrag ohne ausdrückliche Ablehnung als erteilt
-        gälte, sofern der Zahlungsdienstleister den Verbraucher auf die Folgen
-        seines Schweigens sowie auf das Kündigungsrecht hingewiesen hat
-        (zugrunde liegende Vorschrift: § 675g Absatz 2 des Bürgerlichen
-        Gesetzbuchs);
-
-
-*    *   15.
-
-    *   die Vertragsklauseln über das auf den Zahlungsdiensterahmenvertrag
-        anwendbare Recht oder über das zuständige Gericht;
-
-
-*    *   16.
-
-    *   einen Hinweis auf die dem Verbraucher offenstehenden
-        Beschwerdeverfahren wegen mutmaßlicher Verstöße des
-        Zahlungsdienstleisters gegen dessen Verpflichtungen (zugrunde liegende
-        Vorschriften: §§ 60 bis 62 des Zahlungsdiensteaufsichtsgesetzes) sowie
-        auf Verbrauchern offenstehende außergerichtliche
-        Rechtsbehelfsverfahren (zugrunde liegende Vorschrift: § 14 des
-        Unterlassungsklagengesetzes).
-
-
-*    *   **Abschnitt 3**
-        **Widerrufsfolgen**
-
-
-*    *   Im Fall eines wirksamen Widerrufs **sind die beiderseits empfangenen
-        Leistungen zurückzugewähren**                     .*
-          Sie sind zur **Zahlung von Wertersatz**                      für die
-        bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie vor
-        Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen
-        wurden und ausdrücklich zugestimmt haben, dass vor dem Ende der
-        Widerrufsfrist mit der Ausführung der Gegenleistung begonnen werden
-        kann. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies
-        dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für
-        den Zeitraum bis zum Widerruf dennoch erfüllen müssen. **Ihr
-        Widerrufsrecht erlischt**                      vorzeitig, wenn der
-        Vertrag **von beiden Seiten auf Ihren ausdrücklichen Wunsch
-        vollständig erfüllt**                      ist, bevor Sie Ihr
-        Widerrufsrecht ausgeübt haben. **Verpflichtungen zur Erstattung von
-        Zahlungen müssen innerhalb von 30 Tagen erfüllt werden**
-        . Diese Frist beginnt für Sie mit der Absendung Ihrer
-        Widerrufserklärung, für uns mit deren Empfang.
-
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   (Ort), (Datum), (Unterschrift des Verbrauchers)*
-
-
-*    *   *
-
-    *
-    *
-    *
-
-
-   **Gestaltungshinweise:**
-
-*    *   *
-
-    *   Einsetzen: Namen/Firma und ladungsfähige Anschrift des
-        Widerrufsadressaten. Zusätzlich können angegeben werden:
-        Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine
-        Bestätigung seiner Widerrufserklärung an den Zahlungsdienstleister
-        erhält, auch eine Internetadresse.
-
-
-*    *   *
-
-    *   Die unter den **Nummern 4 bis 8, Nummer 9 Buchstabe b, Nummer 10
-        Buchstabe e, Nummer 10 Buchstabe g, Nummer 10 Buchstabe h, Nummer 11
-        Buchstabe b, Nummer 11 Buchstabe c, Nummer 11 Buchstabe d, Nummer 12
-        Buchstabe a, Nummer 13 Buchstabe a, Nummer 13 Buchstabe c, Nummer 13
-        Buchstabe d, Nummer 14 Buchstabe a, Nummer 14 Buchstabe d und Nummer
-        15 aufgelisteten und kursiv gedruckten Informationen**
-        sind nur dann in die Widerrufsbelehrung aufzunehmen, **wenn sie für
-        den vorliegenden Vertrag einschlägig sind**                       .
-        Der Kursivdruck ist dabei zu entfernen.
-
-
-*    *
-    *   Eine Information ist auch dann vollständig aufzunehmen, wenn sie nur
-        teilweise einschlägig ist, beispielsweise, wenn bei Nummer 4 nur
-        zusätzliche Kosten, nicht aber weitere Steuern, die nicht über den
-        Zahlungsdienstleister abgeführt oder von ihm in Rechnung gestellt
-        werden, anfallen. Dies gilt auch für die Informationen unter Nummer 14
-        Buchstabe d, die stets insgesamt aufzunehmen sind, selbst wenn nur
-        eine oder mehrere der dort unter Doppelbuchstabe aa, bb oder cc
-        aufgeführten Informationen einschlägig ist beziehungsweise sind.
-        Werden Informationen gemäß der vorstehenden Vorgabe nicht aufgenommen,
-        so ist die fortlaufende Nummerierung entsprechend anzupassen (wird
-        beispielsweise Nummer 10 Buchstabe g nicht übernommen, so wird Nummer
-        10 Buchstabe h zu Nummer 10 Buchstabe g etc.). Wird bei Nummer 11
-        weder Buchstabe b noch Buchstabe c oder Buchstabe d aufgenommen, so
-        entfällt bei Buchstabe a im Text der Buchstabe „a)“.
-
-
-*    *   *
-
-    *   Bei Abschluss von Verträgen **außerhalb von Geschäftsräumen**
-        sind die Nummern 2 bis 8 nicht in die Widerrufsbelehrung aufzunehmen.
-        Die Nummerierung ist – unter Fortgeltung von Gestaltungshinweis*
-          – entsprechend anzupassen, das heißt Nummer 9 wird zu Nummer 2 etc.
-
-
-*    *   *
-
-    *   Bei der Vereinbarung eines Entgelts für die Duldung einer Überziehung
-        im Sinne des § 505 des Bürgerlichen Gesetzbuchs (BGB) ist hier
-        Folgendes einzufügen:
-
-
-*    *
-    *   „Überziehen Sie Ihr Konto ohne eingeräumte Überziehungsmöglichkeit
-        oder überschreiten Sie die Ihnen eingeräumte Überziehungsmöglichkeit,
-        so können wir von Ihnen über die Rückzahlung des Betrags der
-        Überziehung oder Überschreitung hinaus weder Kosten noch Zinsen
-        verlangen, wenn wir Sie nicht ordnungsgemäß über die Bedingungen und
-        Folgen der Überziehung oder Überschreitung (z. B. anwendbarer
-        Sollzinssatz, Kosten) informiert haben.“
-
-
-*    *   *
-
-    *   Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von
-        der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:
-
-
-*    *
-    *   a)
-
-    *   Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der
-        Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten
-        Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden,
-        so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis*
-         Buchstabe a bis c der Anlage 1 des Einführungsgesetzes zum
-        Bürgerlichen Gesetzbuche (EGBGB) zu geben.
-
-
-*    *
-    *   b)
-
-    *   Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht
-        in der Überlassung einer Sache gemäß Buchstabe a oder in einer
-        Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder
-        Strom, wenn sie nicht in einem begrenzten Volumen oder in einer
-        bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von
-        Fernwärme, so sind hier die konkreten Hinweise entsprechend
-        Gestaltungshinweis*                         der Anlage 1 des EGBGB zu
-        geben.
-
-
-*    *
-    *   c)
-
-    *   Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen
-        Datenträger befindlichen digitalen Inhalten, so ist hier folgender
-        Hinweis zu geben:
-
-
-*    *
-    *
-    *   „Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf
-        gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer
-        Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und
-        ausdrücklich zugestimmt haben, dass wir vor dem Ende der
-        Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
-
-
-*    *   *
-
-    *   Bei Anwendung der Gestaltungshinweise*                         oder*
-         ist hier folgende Unterüberschrift einzufügen:
-
-
-*    *
-    *   **„Besondere Hinweise“**                       .
-
-
-*    *   *
-
-    *   Wenn ein verbundenes Geschäft (§ 358 BGB) vorliegt, ist für
-        finanzierte Geschäfte der nachfolgende Hinweis einzufügen:
-
-
-*    *
-    *   „Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später
-        widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden,
-        sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist
-        insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber
-        sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die
-        Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei
-        Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits
-        zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen
-        hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in
-        unsere Rechte und Pflichten aus dem finanzierten Vertrag ein.
-        Letzteres gilt nicht, wenn der finanzierte Vertrag den Erwerb von
-        Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten)
-        zum Gegenstand hat. Wollen Sie eine vertragliche Bindung so weitgehend
-        wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch
-        und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür
-        ein Widerrufsrecht zusteht.“
-
-
-*    *
-    *   Bei einem finanzierten Erwerb eines Grundstücks oder eines
-        grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie
-        folgt zu ändern:
-
-
-*    *
-    *   „Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen
-        identisch sind oder wenn der Darlehensgeber über die
-        Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch
-        Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen
-        Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der
-        Planung, Werbung oder Durchführung des Projekts Funktionen des
-        Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
-
-
-*    *   *
-
-    *   Wenn ein zusammenhängender Vertrag (§ 360 BGB) vorliegt, ist der
-        nachfolgende Hinweis einzufügen:
-
-
-*    *
-    *   „Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem
-        Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der
-        zusammenhängende Vertrag eine Leistung betrifft, die von uns oder
-        einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und
-        dem Dritten erbracht wird.“
-
-
-*    *   *
-
-    *   Wird für einen Vertrag belehrt, der zugleich einen Vertrag über
-        Finanzdienstleistungen betrifft, für den in Anlage 3 und/oder in
-        Anlage 3b des EGBGB ein Muster für eine Widerrufsbelehrung zur
-        Verfügung gestellt wird, so sind die jeweils zutreffenden Ergänzungen
-        aus den Mustern für die Widerrufsbelehrung zu kombinieren. Soweit zu
-        kombinierende Ergänzungen identisch sind, sind Wiederholungen des
-        Wortlauts nicht erforderlich.
-
-
-*    *   *
-
-    *   Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall
-        sind diese Angaben entweder durch die Wörter „Ende der
-        Widerrufsbelehrung“ oder durch die Wörter „(einsetzen: Firma des
-        Zahlungsdienstleisters)“ zu ersetzen.
-
-
-*    *   *
-
-    *   Das Muster für die Widerrufsbelehrung gemäß dieser Anlage ist auch auf
-        Verträge über die Erbringung von Zahlungsdiensten in Form eines
-        Zahlungsdiensterahmenvertrags mit einem Kontoinformationsdienstleister
-        anzuwenden.
-
-
-
-
-(zu Artikel 246b § 2 Absatz 3 Satz 1)
-
-### Anlage 3b Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Einzelzahlungsverträgen
-
-(Fundstelle: BGBl. I 2021, 1678 - 1681;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-*    *   **Widerrufsbelehrung**
-
-
-*    *   **Abschnitt 1**
-        **Widerrufsrecht**
-
-
-*    *   Sie können Ihre Vertragserklärung **innerhalb von 14 Tagen ohne Angabe
-        von Gründen mittels einer eindeutigen Erklärung widerrufen**
-        . Die Frist beginnt nach Abschluss des Vertrags und nachdem Sie die
-        Vertragsbestimmungen einschließlich der Allgemeinen
-        Geschäftsbedingungen sowie alle nachstehend unter Abschnitt 2
-        aufgeführten Informationen auf einem dauerhaften Datenträger (z. B.
-        Brief, Telefax, E-Mail) erhalten haben. **Zur Wahrung der
-        Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs**
-        , wenn die Erklärung auf einem dauerhaften Datenträger erfolgt. Der
-        Widerruf ist zu richten an:*
-
-
-*    *   **Abschnitt 2**
-        **Für den Beginn der Widerrufsfrist erforderliche Informationen**
-
-
-*    *   *
-
-
-*    *   Die Informationen im Sinne des Abschnitts 1 Satz 2 umfassen folgende
-        Angaben:
-
-
-*    *   **Allgemeine Informationen:***
-
-
-*    *   1.
-
-    *   das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die
-        Bedingungen, Einzelheiten der Ausübung, insbesondere Name und
-        Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
-        die Rechtsfolgen des Widerrufs einschließlich Informationen über den
-        Betrag, den der Verbraucher im Fall des Widerrufs für die erbrachte
-        Leistung zu zahlen hat, sofern er zur Zahlung von Wertersatz
-        verpflichtet ist (zugrunde liegende Vorschrift: § 357b des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *   2.
-
-    *   die Mitgliedstaaten der Europäischen Union, deren Recht der
-        Zahlungsdienstleister der Aufnahme von Beziehungen zum Verbraucher vor
-        Abschluss des Vertrags zugrunde legt;
-
-
-*    *   3.
-
-    *   Einzelheiten hinsichtlich der Zahlung und der Erfüllung;
-
-
-*    *   4.
-
-    *   gegebenenfalls anfallende Kosten sowie einen Hinweis auf mögliche
-        Steuern oder Kosten, die nicht über den Zahlungsdienstleister
-        abgeführt oder von ihm in Rechnung gestellt werden;
-
-
-*    *   5.
-
-    *   den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente
-        bezieht, die wegen ihrer spezifischen Merkmale oder der
-        durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder
-        deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der
-        Zahlungsdienstleister keinen Einfluss hat, und dass in der
-        Vergangenheit erwirtschaftete Erträge kein Indikator für künftige
-        Erträge sind;
-
-
-*    *   6.
-
-    *   eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten
-        Informationen, beispielsweise die Gültigkeitsdauer befristeter
-        Angebote, insbesondere hinsichtlich des Preises;
-
-
-*    *   7.
-
-    *   alle spezifischen zusätzlichen Kosten, die der Verbraucher für die
-        Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche
-        zusätzlichen Kosten durch den Zahlungsdienstleister in Rechnung
-        gestellt werden;
-
-
-*    *   8.
-
-    *   das Bestehen eines Garantiefonds oder anderer
-        Entschädigungsregelungen, die weder unter die gemäß der Richtlinie
-        2014/49/EU des Europäischen Parlaments und des Rates vom 16. April
-        2014 über Einlagensicherungssysteme (ABl. L 173 vom 12.6.2014, S. 149;
-        L 212 vom 18.7.2014, S. 47; L 309 vom 30.10.2014, S. 37) geschaffenen
-        Einlagensicherungssysteme noch unter die gemäß der Richtlinie 97/9/EG
-        des Europäischen Parlaments und des Rates vom 3. März 1997 über
-        Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S.
-        22) geschaffenen Anlegerentschädigungssysteme fallen;
-
-
-*    *   **Informationen zur Erbringung von Zahlungsdiensten:**
-
-
-*    *   9.
-
-    *   zum Zahlungsdienstleister
-
-
-*    *
-    *   a)
-
-    *   den Namen und die ladungsfähige Anschrift seiner Hauptverwaltung sowie
-        alle anderen Anschriften einschließlich E-Mail-Adresse, die für die
-        Kommunikation mit dem Zahlungsdienstleister von Belang sind;
-
-
-*    *
-    *   b)
-
-    *   den Namen und die ladungsfähige Anschrift seines Agenten oder seiner
-        Zweigniederlassung in dem Mitgliedstaat, in dem der Zahlungsdienst
-        angeboten wird;
-
-
-*    *
-    *   c)
-
-    *   die für den Zahlungsdienstleister zuständigen Aufsichtsbehörden und
-        das bei der Bundesanstalt für Finanzdienstleistungsaufsicht geführte
-        Register oder jedes andere relevante öffentliche Register, in das der
-        Zahlungsdienstleister als zugelassen eingetragen ist, sowie seine
-        Registernummer oder eine gleichwertige in diesem Register verwendete
-        Kennung;
-
-
-*    *   10.
-
-    *   zur Nutzung des Zahlungsdienstes
-
-
-*    *
-    *   a)
-
-    *   eine Beschreibung der wesentlichen Merkmale des zu erbringenden
-        Zahlungsdienstes;
-
-
-*    *
-    *   b)
-
-    *   die vom Verbraucher mitzuteilenden Informationen oder Kundenkennungen,
-        die für die ordnungsgemäße Auslösung oder Ausführung eines
-        Zahlungsauftrags erforderlich sind;
-
-
-*    *
-    *   c)
-
-    *   die Art und Weise der Zustimmung zur Auslösung eines Zahlungsauftrags
-        oder zur Ausführung eines Zahlungsvorgangs und des Widerrufs eines
-        Zahlungsauftrags (zugrunde liegende Vorschriften: §§ 675j und 675p des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   d)
-
-    *   den Zeitpunkt, ab dem ein Zahlungsauftrag als zugegangen gilt
-        (zugrunde liegende Vorschrift: § 675n Absatz 1 des Bürgerlichen
-        Gesetzbuchs);
-
-
-*    *
-    *   e)
-
-    *   einen vom Zahlungsdienstleister festgelegten Zeitpunkt nahe am Ende
-        eines Geschäftstags, bei dessen Ablauf ein nach diesem Zeitpunkt
-        zugegangener Zahlungsauftrag des Verbrauchers als am darauf folgenden
-        Geschäftstag zugegangen gilt (zugrunde liegende Vorschrift: § 675n
-        Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   f)
-
-    *   die maximale Ausführungsfrist für den zu erbringenden Zahlungsdienst;
-
-
-*    *
-    *   g)
-
-    *   einen Hinweis auf die Möglichkeit, Betragsobergrenzen für die Nutzung
-        eines Zahlungsinstruments (wie beispielsweise eine Zahlungskarte) zu
-        vereinbaren (zugrunde liegende Vorschrift: § 675k Absatz 1 des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   h)
-
-    *   einen Hinweis auf das Recht des Verbrauchers, zwei oder mehrere
-        unterschiedliche Zahlungsmarken auf seinem kartengebundenen
-        Zahlungsinstrument zu verlangen, sofern sein Zahlungsdienstleister
-        diesen Dienst anbietet, sowie einen Hinweis auf das Recht des
-        Verbrauchers, rechtzeitig vor der Unterzeichnung des Vertrags vom
-        Zahlungsdienstleister in klarer und objektiver Weise über alle
-        verfügbaren Zahlungsmarken und deren Eigenschaften, einschließlich
-        ihrer Funktionsweise, Kosten und Sicherheit, informiert zu werden
-        (zugrunde liegende Vorschrift: Artikel 8 der Verordnung (EU) 2015/751
-        des Europäischen Parlaments und des Rates vom 29. April 2015 über
-        Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123
-        vom 19.5.2015, S. 1), die durch die Delegierte Verordnung (EU) 2018/72
-        (ABl. L 13 vom 18.1.2018, S. 1) geändert worden ist);
-
-
-*    *   11.
-
-    *   zu Entgelten, Zinsen und Wechselkursen
-
-
-*    *
-    *   a)
-
-    *   alle Entgelte, die der Verbraucher an den Zahlungsdienstleister zu
-        entrichten hat;
-
-
-*    *
-    *   b)
-
-    *   eine Aufschlüsselung dieser Entgelte;
-
-
-*    *
-    *   c)
-
-    *   den dem Zahlungsvorgang zugrunde zu legenden tatsächlichen Wechselkurs
-        oder Referenzwechselkurs;
-
-
-*    *
-    *   d)
-
-    *   die zugrunde gelegten Zinssätze oder, bei Anwendung von
-        Referenzzinssätzen und -wechselkursen, die Methode für die Berechnung
-        der tatsächlichen Zinsen sowie den maßgeblichen Stichtag und den Index
-        oder die Grundlage für die Bestimmung des Referenzzinssatzes oder
-        -wechselkurses;
-
-
-*    *   12.
-
-    *   zur Kommunikation
-
-
-*    *
-    *   a)
-
-    *   die Kommunikationsmittel, deren Nutzung zwischen den Parteien für die
-        Informationsübermittlung und Anzeigepflichten vereinbart wird,
-        einschließlich der technischen Anforderungen an die Ausstattung und
-        die Software des Verbrauchers;
-
-
-*    *
-    *   b)
-
-    *   Angaben dazu, wie und wie oft vom Zahlungsdienstleister vor und
-        während des Vertragsverhältnisses, vor der Ausführung von
-        Zahlungsvorgängen sowie bei einzelnen Zahlungsvorgängen zu erteilende
-        Informationen mitzuteilen oder zugänglich zu machen sind;
-
-
-*    *
-    *   c)
-
-    *   die Sprache oder die Sprachen, in der oder in denen der Vertrag zu
-        schließen ist und in der oder in denen die Kommunikation für die Dauer
-        des Vertragsverhältnisses erfolgen soll;
-
-
-*    *
-    *   d)
-
-    *   einen Hinweis auf das Recht des Verbrauchers, während der
-        Vertragslaufzeit jederzeit die Übermittlung der Vertragsbedingungen
-        sowie der in dieser Widerrufsbelehrung genannten vorvertraglichen
-        Informationen zur Erbringung von Zahlungsdiensten in Papierform oder
-        auf einem anderen dauerhaften Datenträger zu verlangen;
-
-
-*    *   13.
-
-    *   zu den Schutz- und Abhilfemaßnahmen
-
-
-*    *
-    *   a)
-
-    *   eine Beschreibung, wie der Verbraucher ein Zahlungsinstrument sicher
-        aufbewahrt und wie er seine Pflicht gegenüber dem
-        Zahlungsdienstleister oder einer von diesem benannten Stelle erfüllt,
-        den Verlust, den Diebstahl, die missbräuchliche Verwendung oder die
-        sonstige nicht autorisierte Nutzung eines Zahlungsinstruments
-        unverzüglich anzuzeigen, nachdem er hiervon Kenntnis erlangt hat
-        (zugrunde liegende Vorschrift: § 675l Absatz 1 Satz 2 des Bürgerlichen
-        Gesetzbuchs);
-
-
-*    *
-    *   b)
-
-    *   eine Beschreibung des sicheren Verfahrens zur Unterrichtung des
-        Verbrauchers durch den Zahlungsdienstleister im Fall vermuteten oder
-        tatsächlichen Betrugs oder bei Sicherheitsrisiken;
-
-
-*    *
-    *   c)
-
-    *   die Bedingungen, unter denen sich der Zahlungsdienstleister das Recht
-        vorbehält, ein Zahlungsinstrument zu sperren (zugrunde liegende
-        Vorschrift: § 675k Absatz 2 des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   d)
-
-    *   Informationen zur Haftung des Verbrauchers bei Verlust, Diebstahl,
-        Abhandenkommen oder sonstiger missbräuchlicher Verwendung des
-        Zahlungsinstruments einschließlich Angaben zum Höchstbetrag (zugrunde
-        liegende Vorschrift: § 675v des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   e)
-
-    *   Informationen über die Haftung des Zahlungsdienstleisters bei nicht
-        autorisierten Zahlungsvorgängen (zugrunde liegende Vorschrift: § 675u
-        des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   f)
-
-    *   Angaben dazu, wie und innerhalb welcher Frist der Verbraucher dem
-        Zahlungsdienstleister nicht autorisierte oder fehlerhaft ausgelöste
-        oder ausgeführte Zahlungsvorgänge anzeigen muss (zugrunde liegende
-        Vorschrift: § 676b des Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   g)
-
-    *   Informationen über die Haftung des Zahlungsdienstleisters bei nicht
-        erfolgter, fehlerhafter oder verspäteter Auslösung oder Ausführung von
-        Zahlungsvorgängen sowie über dessen Verpflichtung, auf Verlangen
-        Nachforschungen über den nicht oder fehlerhaft ausgeführten
-        Zahlungsvorgang anzustellen (zugrunde liegende Vorschrift: § 675y des
-        Bürgerlichen Gesetzbuchs);
-
-
-*    *
-    *   h)
-
-    *   die Bedingungen für den Erstattungsanspruch des Verbrauchers bei einem
-        vom oder über den Zahlungsempfänger ausgelösten autorisierten
-        Zahlungsvorgang (beispielsweise bei SEPA-Lastschriften) (zugrunde
-        liegende Vorschrift: § 675x des Bürgerlichen Gesetzbuchs);
-
-
-*    *   14.
-
-    *   die Vertragsklauseln über das auf den Vertrag anwendbare Recht oder
-        über das zuständige Gericht;
-
-
-*    *   15.
-
-    *   einen Hinweis auf die dem Verbraucher offenstehenden
-        Beschwerdeverfahren wegen mutmaßlicher Verstöße des
-        Zahlungsdienstleisters gegen dessen Verpflichtungen (zugrunde liegende
-        Vorschriften: die §§ 60 bis 62 des Zahlungsdiensteaufsichtsgesetzes)
-        sowie auf Verbrauchern offenstehende außergerichtliche
-        Rechtsbehelfsverfahren (zugrunde liegende Vorschrift: § 14 des
-        Unterlassungsklagengesetzes).
-
-
-*    *   *
-
-    *
-
-*    *   **Abschnitt 3**
-        **Widerrufsfolgen**
-
-
-*    *   Im Fall eines wirksamen Widerrufs **sind die beiderseits empfangenen
-        Leistungen zurückzugewähren**                     . Sie sind zur
-        **Zahlung von Wertersatz**                      für die bis zum
-        Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie vor Abgabe
-        Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und
-        ausdrücklich zugestimmt haben, dass vor dem Ende der Widerrufsfrist
-        mit der Ausführung der Gegenleistung begonnen werden kann. Besteht
-        eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen,
-        dass Sie die vertraglichen Zahlungsverpflichtungen für den Zeitraum
-        bis zum Widerruf dennoch erfüllen müssen. **Ihr Widerrufsrecht
-        erlischt**                      vorzeitig, wenn der Vertrag **von
-        beiden Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt**
-        ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben. **Verpflichtungen
-        zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt
-        werden**                     . Diese Frist beginnt für Sie mit der
-        Absendung Ihrer Widerrufserklärung, für uns mit deren Empfang.
-
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-    *
-
-*    *   (Ort), (Datum), (Unterschrift des Verbrauchers)*
-
-
-*    *   *
-
-    *
-    *
-    *
-
-
-   **Gestaltungshinweise:**
-
-*    *   *
-
-    *   Einsetzen: Namen/Firma und ladungsfähige Anschrift des
-        Widerrufsadressaten. Zusätzlich können angegeben werden:
-        Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine
-        Bestätigung seiner Widerrufserklärung an den Zahlungsdienstleister
-        erhält, auch eine Internetadresse.
-
-
-*    *   *
-
-    *   Die unter den **Nummern 4 bis 8, Nummer 9 Buchstabe b, Nummer 10
-        Buchstabe c, Nummer 10 Buchstabe d, Nummer 10 Buchstabe e, Nummer 10
-        Buchstabe g, Nummer 10 Buchstabe h und Nummer 11 Buchstabe b bis
-        Nummer 15 aufgelisteten und kursiv gedruckten Informationen**
-        sind nur dann in die Widerrufsbelehrung aufzunehmen, **wenn sie für
-        den vorliegenden Vertrag einschlägig sind**                       .
-        Der Kursivdruck ist dabei zu entfernen.
-
-
-*    *
-    *   Eine Information ist auch dann vollständig aufzunehmen, wenn sie nur
-        teilweise einschlägig ist, beispielsweise, wenn bei Nummer 4 nur
-        zusätzliche Kosten, nicht aber weitere Steuern, die nicht über den
-        Zahlungsdienstleister abgeführt oder von ihm in Rechnung gestellt
-        werden, anfallen. Werden Informationen gemäß der vorstehenden Vorgabe
-        nicht aufgenommen, so ist die fortlaufende Nummerierung entsprechend
-        anzupassen (wird beispielsweise Nummer 13 Buchstabe d nicht
-        übernommen, so wird Nummer 13 Buchstabe e zu Nummer 13 Buchstabe d
-        etc.). Wird von einer Nummer keiner der hierunter aufgeführten
-        Untergliederungspunkte aufgenommen, so entfällt auch die Nummer
-        insgesamt zusammen mit der Überschrift (wird beispielsweise Nummer 12
-        Buchstabe a bis d nicht übernommen, so entfällt auch der Text „12. zur
-        Kommunikation“). Wird bei den Nummern 11, 12 und/oder 13 nur der Text
-        eines Buchstabens aufgenommen, so entfällt auch die Bezeichnung als
-        Buchstabe „a)“ im Text. Die letzte in die Widerrufsbelehrung
-        aufgenommene Information soll mit dem Satzzeichen „.“ abschließen.
-
-
-*    *   *
-
-    *   Bei Abschluss von Verträgen **außerhalb von Geschäftsräumen**
-        sind die Nummern 2 bis 8 nicht in die Widerrufsbelehrung aufzunehmen.
-        Die Nummerierung ist – unter Fortgeltung von Gestaltungshinweis*
-         – entsprechend anzupassen, das heißt Nummer 9 wird zu Nummer 2 etc.
-
-
-*    *   *
-
-    *   Bei einem Vertrag über die Erbringung von Zahlungsdiensten in Form
-        eines Einzelzahlungsvertrags **mit einem
-        Zahlungsauslösedienstleister**                        ist Nummer 15
-        mit einem Semikolon abzuschließen und folgende Nummer 16 anzufügen:
-
-
-*    *
-    *   „16.  einen Hinweis, dass dem Verbraucher rechtzeitig vor der
-        Auslösung des Zahlungsvorgangs folgende Informationen zur Verfügung zu
-        stellen sind:
-
-
-*    *
-    *   a)
-
-    *   der Name und die Anschrift der Hauptverwaltung des
-        Zahlungsdienstleisters sowie alle anderen Kontaktdaten einschließlich
-        der E-Mail-Adresse, die für die Kommunikation mit dem
-        Zahlungsauslösedienstleister von Belang sind;
-
-
-*    *
-    *   b)
-
-    *   die Anschrift des Agenten des Zahlungsdienstleisters oder der
-        Zweigniederlassung des Zahlungsdienstleisters in dem Mitgliedstaat, in
-        dem der Zahlungsdienst angeboten wird;
-
-
-*    *
-    *   c)
-
-    *   die Kontaktdaten der zuständigen Behörde.“
-
-
-*    *
-    *   Die unter der **Nummer 16 Buchstabe b kursiv gedruckte Information**
-        ist nur dann in die Widerrufsbelehrung aufzunehmen, **wenn sie für den
-        vorliegenden Vertrag einschlägig ist**                       . Der
-        Kursivdruck ist dabei zu entfernen. Die Information ist auch dann
-        vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist,
-        beispielsweise nur ein Agent, nicht aber eine Zweigniederlassung
-        existiert.
-
-
-*    *   *
-
-    *   Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von
-        der Ausnahme des § 506 Absatz 4 des Bürgerlichen Gesetzbuchs (BGB)
-        erfasst ist, gilt Folgendes:
-
-
-*    *
-    *   a)
-
-    *   Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der
-        Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten
-        Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden,
-        so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis*
-         Buchstabe a bis c der Anlage 1 des Einführungsgesetzes zum
-        Bürgerlichen Gesetzbuche (EGBGB) zu geben.
-
-
-*    *
-    *   b)
-
-    *   Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht
-        in der Überlassung einer Sache gemäß Buchstabe a oder in einer
-        Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder
-        Strom, wenn sie nicht in einem begrenzten Volumen oder in einer
-        bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von
-        Fernwärme, so sind hier die konkreten Hinweise entsprechend
-        Gestaltungshinweis*                         der Anlage 1 des EGBGB zu
-        geben.
-
-
-*    *
-    *   c)
-
-    *   Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen
-        Datenträger befindlichen digitalen Inhalten, so ist hier folgender
-        Hinweis zu geben:
-
-
-*    *
-    *
-    *   „Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf
-        gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer
-        Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und
-        ausdrücklich zugestimmt haben, dass wir vor dem Ende der
-        Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
-
-
-*    *   *
-
-    *   Bei Anwendung der Gestaltungshinweise*                         oder*
-         ist hier folgende Unterüberschrift einzufügen:
-
-
-*    *
-    *   **„Besondere Hinweise“**                       .
-
-
-*    *   *
-
-    *   Wenn ein verbundenes Geschäft (§ 358 BGB) vorliegt, ist für
-        finanzierte Geschäfte der nachfolgende Hinweis einzufügen:
-
-
-*    *
-    *   „Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später
-        widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden,
-        sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist
-        insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber
-        sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die
-        Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei
-        Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits
-        zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen
-        hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in
-        unsere Rechte und Pflichten aus dem finanzierten Vertrag ein.
-        Letzteres gilt nicht, wenn der finanzierte Vertrag den Erwerb von
-        Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten)
-        zum Gegenstand hat. Wollen Sie eine vertragliche Bindung so weitgehend
-        wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch
-        und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür
-        ein Widerrufsrecht zusteht.“
-
-
-*    *
-    *   Bei einem finanzierten Erwerb eines Grundstücks oder eines
-        grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie
-        folgt zu ändern:
-
-
-*    *
-    *   „Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen
-        identisch sind oder wenn der Darlehensgeber über die
-        Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch
-        Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen
-        Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der
-        Planung, Werbung oder Durchführung des Projekts Funktionen des
-        Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
-
-
-*    *   *
-
-    *   Wenn ein zusammenhängender Vertrag (§ 360 BGB) vorliegt, ist der
-        nachfolgende Hinweis einzufügen:
-
-
-*    *
-    *   „Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem
-        Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der
-        zusammenhängende Vertrag eine Leistung betrifft, die von uns oder
-        einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und
-        dem Dritten erbracht wird.“
-
-
-*    *   *
-
-    *   Wird für einen Vertrag belehrt, der auch einen Vertrag über
-        Finanzdienstleistungen betrifft, für den in Anlage 3 und/oder in
-        Anlage 3a des EGBGB ein Muster für eine Widerrufsbelehrung zur
-        Verfügung gestellt wird, so sind die jeweils zutreffenden Ergänzungen
-        aus den Mustern für die Widerrufsbelehrung zu kombinieren. Soweit zu
-        kombinierende Ergänzungen identisch sind, sind Wiederholungen des
-        Wortlauts nicht erforderlich.
-
-
-*    *   *
-
-    *   Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall
-        sind diese Angaben entweder durch die Wörter „Ende der
-        Widerrufsbelehrung“ oder durch die Wörter „(einsetzen: Firma des
-        Zahlungsdienstleisters)“ zu ersetzen.
-
-
-*    *   *
-
-    *   Das Muster für die Widerrufsbelehrung gemäß dieser Anlage ist auch auf
-        Verträge über die Erbringung von Zahlungsdiensten in Form eines
-        Einzelzahlungsvertrags mit einem Kontoinformationsdienstleister
-        anzuwenden.
-
-
-
+### Anlage 3b (weggefallen)
 
 (zu Artikel 247 § 2)
 
@@ -12666,7 +10848,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 6 Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
 
-(Fundstelle: BGBl. I 2016, S. 420 - 429)
+(Fundstelle: BGBl. I 2016, S. 420 - 429;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil A
 
@@ -13035,7 +11218,7 @@ hinzuweisen: „mit Ausnahme des Zinssatzes und anderer Kosten“.
 
 (3) Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts gemäß §
     312c des Bürgerlichen Gesetzbuchs angeboten, muss der Kreditgeber hier
-    gegebenenfalls gemäß Artikel 246b § 1 Absatz 1 Nummer 3 und 4 des
+    gegebenenfalls gemäß Artikel 246b § 1 Absatz 1 Nummer 1 und 2 des
     Einführungsgesetzes zum Bürgerlichen Gesetzbuche Namen und Anschrift
     seines Vertreters in dem Mitgliedstaat der Europäischen Union, in dem
     der Verbraucher seinen Wohnsitz hat, angeben. Die Angabe von
@@ -13635,68 +11818,7 @@ Kreditvermittler, so erteilt dieser die folgenden Informationen:
     und besteht kein Widerrufsrecht nach § 495 des Bürgerlichen
     Gesetzbuchs, ist der Verbraucher darüber zu unterrichten, ob er über
     ein Widerrufsrecht nach § 312g des Bürgerlichen Gesetzbuchs verfügt
-    oder nicht. Im Fall des Bestehens eines solchen Widerrufsrechts ist
-    Artikel 246b § 2 Absatz 3 Satz 2 des Einführungsgesetzes zum
-    Bürgerlichen Gesetzbuche nur unter der Voraussetzung anwendbar, dass
-    der Verbraucher wie folgt unterrichtet wird:
-
-    a)  Für die Information zur [Dauer der Widerrufsfrist] ist folgende
-        Formulierung zu verwenden:
-
-        „Die Vertragserklärung kann innerhalb von 14 Tagen widerrufen werden.
-        “
-
-
-    b)  Für die Information zum [Zeitpunkt, zu dem die Widerrufsfrist beginnt]
-        ist folgende Formulierung zu verwenden:
-
-        „Die Widerrufsfrist beginnt nach Abschluss des Vertrags und nachdem
-        Sie die Vertragsbestimmungen einschließlich der Allgemeinen
-        Geschäftsbedingungen sowie dieses ESIS-Merkblatt auf einem dauerhaften
-        Datenträger (z. B. Brief, Telefax, E-Mail) erhalten haben. “
-
-
-    c)  Für die Information zu [Bedingungen] und [Verfahren] ist folgende
-        Formulierung zu verwenden:
-
-        „Die Vertragserklärung kann ohne Angabe von Gründen mittels einer
-        eindeutigen Erklärung widerrufen werden. Zur Wahrung der
-        Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn
-        die Erklärung auf einem dauerhaften Datenträger erfolgt.
-
-        Der Widerruf ist zu richten an: [Einsetzen: Namen/Firma und
-        ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können
-        angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der
-        Kreditnehmer eine Bestätigung seiner Widerrufserklärung an den
-        Unternehmer erhält, auch eine Internetadresse.]
-
-        Im Fall eines wirksamen Widerrufs sind die beiderseits empfangenen
-        Leistungen zurückzugewähren. Sie sind zur Zahlung von Wertersatz für
-        die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie
-        vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen
-        wurden und ausdrücklich zugestimmt haben, dass vor dem Ende der
-        Widerrufsfrist mit der Ausführung der Gegenleistung begonnen werden
-        kann. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies
-        dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für
-        den Zeitraum bis zum Widerruf dennoch erfüllen müssen. Ihr
-        Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden Seiten
-        auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor Sie Ihr
-        Widerrufsrecht ausgeübt haben. Verpflichtungen zur Erstattung von
-        Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Diese Frist
-        beginnt für Sie mit der Absendung Ihrer Widerrufserklärung, für uns
-        mit deren Empfang. “
-
-        Wenn ein verbundenes Geschäft (§ 358 des Bürgerlichen Gesetzbuchs)
-        oder zusammenhängendes Geschäft (§ 360 des Bürgerlichen Gesetzbuchs)
-        vorliegt, sind hier Hinweise über die sich daraus ergebenden
-        Rechtsfolgen des Widerrufs einzufügen. Für die sich aus § 360 des
-        Bürgerlichen Gesetzbuchs ergebenden Rechtsfolgen kann die Formulierung
-        aus Gestaltungshinweis*                           des Musters in
-        Anlage 3 zu Artikel 246b § 2 Absatz 3 des Einführungsgesetzes zum
-        Bürgerlichen Gesetzbuche verwendet werden.
-
-
-
+    oder nicht.
 
 
 
@@ -13768,7 +11890,7 @@ Abschnitt „13. Nichteinhaltung der aus dem Kreditvertrag
     in der kommuniziert werden soll. Die Verpflichtung zur
     vorvertraglichen Information bei Fernabsatzverträgen über die
     verwendete Sprache gemäß § 312d des Bürgerlichen Gesetzbuchs und
-    Artikel 246b § 1 Absatz 1 Nummer 17 des Einführungsgesetzes zum
+    Artikel 246b § 1 Absatz 1 Nummer 21 des Einführungsgesetzes zum
     Bürgerlichen Gesetzbuche bleibt hiervon unberührt.
 
 
