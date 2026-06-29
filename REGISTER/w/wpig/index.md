@@ -706,6 +706,9 @@ Weiterverlagerung von Aktivitäten und Prozessen, die für die
 Durchführung von Wertpapierdienstleistungen,
 Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
 
+(39) Zentrale Gegenpartei im Sinne dieses Gesetzes ist eine CCP im
+Sinne von Artikel 2 Nummer 1 der Verordnung (EU) Nr. 648/2012.
+
 (39) Datenbereitstellungsdienste im Sinne dieses Gesetzes sind
 Datenbereitstellungsdienste im Sinne von § 2 Absatz 40 des
 Wertpapierhandelsgesetzes.
@@ -1389,10 +1392,7 @@ Wertpapierinstitut
 
 2.  ein Clearing-Mitglied im Sinne des Artikels 4 Absatz 1 Nummer 3 der
     Verordnung (EU) 2019/2033 in Verbindung mit Artikel 2 Nummer 14 der
-    Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates
-    vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und
-    Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom
-    30\.11.2013, S. 6) in der jeweils geltenden Fassung, ist oder
+    Verordnung (EU) Nr. 648/2012 ist oder
 
 
 3.  aufgrund seiner Größe, der Art, des Umfangs und der Komplexität seiner
@@ -1419,16 +1419,10 @@ Zeitpunkt des Eingangs der Anzeige.
 
 (4) Die Bundesanstalt informiert die Europäische
 Bankenaufsichtsbehörde, die nach Maßgabe des in Artikel 19 der
-Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des
-Rates vom 24. November 2010 zur Errichtung einer Europäischen
-Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung
-des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses
-2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12; L 101 vom
-18\.4.2015, S. 62), die zuletzt durch die Verordnung (EU) 2019/2175
-(ABl. L 334 vom 27.12.2019, S. 1) geändert worden ist, festgelegten
-Verfahrens tätig wird, unverzüglich über eine nach Absatz 1 und Absatz
-3 getroffene Entscheidung unter Hinweis auf die Geltung der Titel VII
-und VIII der Richtlinie 2013/36/EU.
+Verordnung (EU) Nr. 1093/2010 festgelegten Verfahrens tätig wird,
+unverzüglich über eine nach Absatz 1 und Absatz 3 getroffene
+Entscheidung unter Hinweis auf die Geltung der Titel VII und VIII der
+Richtlinie 2013/36/EU.
 
 
 ### Abschnitt 3 - Zusammenarbeit der Bundesanstalt mit anderen Stellen
@@ -3570,7 +3564,10 @@ den Geschäften des Wertpapierinstituts angemessen sind; dazu zählen
 2.  wirksame Verfahren zur Identifizierung, Beurteilung, Steuerung sowie
     Überwachung und Kommunikation der Risiken und möglichen Risiken, denen
     das Wertpapierinstitut ausgesetzt ist oder die das Wertpapierinstitut
-    für andere darstellt,
+    für andere darstellt, einschließlich des Konzentrationsrisikos, das
+    aus Risikopositionen gegenüber zentralen Gegenparteien unter
+    Berücksichtigung der in Artikel 7a der Verordnung (EU) Nr. 648/2012
+    festgelegten Anforderungen erwächst,
 
 
 3.  angemessene interne Kontrollmechanismen, einschließlich
@@ -3760,10 +3757,14 @@ Eigenmittel des Wertpapierinstituts gewährleisten. Dies betrifft
 2.  Risiken für den Markt,
 
 
-3.  Risiken für das Wertpapierinstitut und
+3.  Risiken für das Wertpapierinstitut,
 
 
-4.  Liquiditätsrisiken.
+4.  Liquiditätsrisiken und
+
+
+5.  das Konzentrationsrisiko, das aus Risikopositionen gegenüber zentralen
+    Gegenparteien erwächst.
 
 
 
@@ -3777,7 +3778,7 @@ Berufshaftpflichtversicherung eine Minderung der Risiken gegenüber
 Kunden möglich ist.
 
 (3) Bei der Beurteilung der Risiken nach Absatz 1 Satz 3 Nummer 3 hat
-das Wertpapierinstitut zu berücksichtigen:
+das Wertpapierinstitut Folgendes zu berücksichtigen:
 
 1.  wesentliche Veränderungen des Buchwertes von Vermögensgegenständen,
 
@@ -3797,6 +3798,12 @@ das Wertpapierinstitut zu berücksichtigen:
 
 
 
+Bei der Beurteilung des Konzentrationsrisikos nach Absatz 1 Satz 3
+Nummer 5 hat das Wertpapierinstitut konkrete Pläne und
+quantifizierbare Ziele im Einklang mit den in Artikel 7a der
+Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen auszuarbeiten,
+um das Konzentrationsrisiko zu überwachen, das aus Risikopositionen
+gegenüber zentralen Gegenparteien erwächst.
 
 (4) Wertpapierinstitute tragen im Falle einer Abwicklung oder
 Einstellung ihrer Tätigkeiten unter Berücksichtigung der Tragfähigkeit
@@ -3948,6 +3955,23 @@ berücksichtigen:
 
 
 
+(2a) Wenn ein Mittleres Wertpapierinstitut Risikopositionen gegenüber
+zentralen Gegenparteien hält, überprüft und bewertet die Bundesanstalt
+
+1.  diese Risikopositionen in Bezug auf die Steuerung seines
+    Konzentrationsrisikos, das aus ihnen erwächst,
+
+
+2.  die gemäß § 45 Absatz 3 Satz 2 ausgearbeiteten Pläne und
+
+
+3.  die Fortschritte bei der Anpassung seines Geschäftsmodells an die in
+    Artikel 7a der Verordnung (EU) Nr. 648/2012 festgelegten
+    Anforderungen.
+
+
+
+
 (3) Die Bundesanstalt kann im Einzelfall unter Berücksichtigung der
 Größe, der Art, des Umfangs und der Komplexität der Geschäfte eines
 Mittleren Wertpapierinstituts sowie ihrer Systemrelevanz von der
@@ -3958,13 +3982,13 @@ hinsichtlich der Trennung der gehaltenen Kundengelder von den eigenen
 Geldern des Wertpapierinstituts zu berücksichtigen.
 
 (4) Die Bundesanstalt entscheidet im Einzelfall, ob und in welcher
-Form die Überprüfung und Bewertung nach den Absätzen 1 und 2 in Bezug
+Form die Überprüfung und Bewertung nach den Absätzen 1 bis 2a in Bezug
 auf ein Kleines Wertpapierinstitut durchgeführt wird, sofern die
 Bundesanstalt dies aufgrund der Größe, der Art, des Umfangs und der
 Komplexität der Geschäfte des Wertpapierinstituts für notwendig hält.
 
 (5) Das Wertpapierinstitut gewährt der Bundesanstalt bei der nach den
-Absätzen 1 und 2 durchzuführenden Bewertung und Feststellung den
+Absätzen 1 bis 2a durchzuführenden Bewertung und Feststellung den
 Zugang zu Tagesordnungen, Protokollen und Begleitdokumenten der
 Sitzungen des Verwaltungs- oder Aufsichtsorgans und seiner Ausschüsse
 sowie zu den Ergebnissen der internen oder externen Bewertung der
@@ -4111,13 +4135,21 @@ insbesondere zur Durchführung der §§ 46 bis 48 sowie der Verordnung
 
 
 12. ergänzende Informationen zu Verstößen gegen dieses Gesetz oder die
-    Verordnung (EU) 2019/2033 zu übermitteln und
+    Verordnung (EU) 2019/2033 zu übermitteln,
 
 
 13. die Risiken für die Sicherheit der Netzwerke und Informationssysteme,
     die das Wertpapierinstitut zur Gewährleistung der Vertraulichkeit,
     Integrität und Verfügbarkeit seiner Verfahren, Daten und
-    Vermögenswerte einsetzt, zu verringern.
+    Vermögenswerte einsetzt, zu verringern und
+
+
+14. die Risikopositionen des Wertpapierinstituts gegenüber dieser
+    zentralen Gegenpartei zu verringern oder Risikopositionen über die
+    Clearingkonten des Wertpapierinstituts gemäß Artikel 7a der Verordnung
+    (EU) Nr. 648/2012 neu zuzuweisen, wenn sie der Auffassung ist, dass
+    ein Risiko einer übermäßigen Konzentration besteht, das aus
+    Risikopositionen gegenüber einer zentralen Gegenpartei erwächst.
 
 
 
