@@ -30,6 +30,12 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 15 G v. 20.5.2026 I Nr. 152 ist berücksichtigt
 
+Änderung durch
+:   Art. 12 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 13 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Einleitende Vorschriften
 
