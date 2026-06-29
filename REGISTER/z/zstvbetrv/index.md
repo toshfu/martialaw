@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2885
 
 Zuletzt geändert durch
-:   Art. 9 G v. 25.6.2021 I 2099
-
-Änderung durch
-:   Art. 6 G v. 11.1.2026 I Nr. 6 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 11.1.2026 I Nr. 6
 
 
 ## Eingangsformel
