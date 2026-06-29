@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 3367
 
 Zuletzt geändert durch
-:   Art. 6 G v. 30.9.2025 I Nr. 233
-
-Änderung durch
-:   Art. 5 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 12.5.2026 I Nr. 139
 
 
 
