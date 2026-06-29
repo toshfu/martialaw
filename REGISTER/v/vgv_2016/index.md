@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 624
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2024 I Nr. 39
-
-Änderung durch
-:   Art. 9 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 12.5.2026 I Nr. 137
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2014/24/EU des
 Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
