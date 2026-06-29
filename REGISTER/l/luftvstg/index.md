@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1885; 2013, 81
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.3.2024 I Nr. 107
+:   Art. 1 G v. 18.6.2026 I Nr. 182
 
 Stand: § 5 Nr. 5 ist nach Maßgabe der Bek. v. 15.1.2013 I 81 mWv 1.11.2011 in Kraft getreten.
 
