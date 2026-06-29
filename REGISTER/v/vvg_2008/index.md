@@ -166,15 +166,16 @@ verzichtet, den Vertrag wegen Irrtums anzufechten, ist unwirksam.
 
 ##### § 6 Beratung des Versicherungsnehmers
 
-(1) Der Versicherer hat den Versicherungsnehmer, soweit nach der
-Schwierigkeit, die angebotene Versicherung zu beurteilen, oder der
-Person des Versicherungsnehmers und dessen Situation hierfür Anlass
-besteht, nach seinen Wünschen und Bedürfnissen zu befragen und, auch
-unter Berücksichtigung eines angemessenen Verhältnisses zwischen
-Beratungsaufwand und der vom Versicherungsnehmer zu zahlenden Prämien,
-zu beraten sowie die Gründe für jeden zu einer bestimmten Versicherung
-erteilten Rat anzugeben. Er hat dies unter Berücksichtigung der
-Komplexität des angebotenen Versicherungsvertrags zu dokumentieren.
+(1) Vor Abschluss des Versicherungsvertrages hat der Versicherer den
+Versicherungsnehmer, soweit nach der Schwierigkeit, die angebotene
+Versicherung zu beurteilen, oder der Person des Versicherungsnehmers
+und dessen Situation hierfür Anlass besteht, nach seinen Wünschen und
+Bedürfnissen zu befragen und, auch unter Berücksichtigung eines
+angemessenen Verhältnisses zwischen Beratungsaufwand und der vom
+Versicherungsnehmer zu zahlenden Prämien, zu beraten sowie die Gründe
+für jeden zu einer bestimmten Versicherung erteilten Rat anzugeben. Er
+hat dies unter Berücksichtigung der Komplexität des angebotenen
+Versicherungsvertrags zu dokumentieren.
 
 (2) Für die Übermittlung des erteilten Rats und der Gründe hierfür
 gilt § 6a.
@@ -295,12 +296,10 @@ wenn der Versicherungsnehmer durch eine gesonderte schriftliche
 Erklärung auf eine Information vor Abgabe seiner Vertragserklärung
 ausdrücklich verzichtet.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium der Finanzen und im Benehmen mit dem
-Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
-Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des
-Bundesrates zum Zweck einer umfassenden Information des
-Versicherungsnehmers festzulegen,
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
+durch Rechtsverordnung ohne Zustimmung des Bundesrates zum Zweck einer
+umfassenden Information des Versicherungsnehmers festzulegen,
 
 1.  welche Einzelheiten des Vertrags, insbesondere zum Versicherer, zur
     angebotenen Leistung und zu den Allgemeinen Versicherungsbedingungen
@@ -323,64 +322,51 @@ Versicherungsnehmers festzulegen,
 
 
 4.  was dem Versicherungsnehmer mitzuteilen ist, wenn der Versicherer mit
-    ihm telefonisch Kontakt aufgenommen hat und
+    ihm telefonisch Kontakt aufgenommen hat, und
 
 
 5.  in welcher Art und Weise die Informationen zu erteilen sind.
 
 
 
-Bei der Festlegung der Mitteilungen nach Satz 1 sind die
-vorgeschriebenen Angaben nach der Richtlinie 92/49/EWG des Rates vom
-18\. Juni 1992 zur Koordinierung der Rechts- und
-Verwaltungsvorschriften für die Direktversicherung (mit Ausnahme der
-Lebensversicherung) sowie zur Änderung der Richtlinien 73/239/EWG und
-88/357/EWG (Dritte Richtlinie Schadenversicherung) (ABl. L 228 vom
-11\.8.1992, S. 1) und der Richtlinie 2002/65/EG des Europäischen
-Parlaments und des Rates vom 23. September 2002 über den Fernabsatz
-von Finanzdienstleistungen an Verbraucher und zur Änderung der
-Richtlinie 90/619/EWG des Rates und der Richtlinien 97/7/EG und
-98/27/EG (ABl. L 271 vom 9.10.2002, S. 16) zu beachten. Bei der
-Festlegung der Mitteilungen nach Satz 1 sind ferner zu beachten:
+(3) Bei der Festlegung der Mitteilungen nach Absatz 2 sind zu
+beachten:
 
-1.  die technischen Durchführungsstandards, die die Europäische
+1.  die vorgeschriebenen Angaben nach der Richtlinie 2009/138/EG in der
+    Fassung vom 27. November 2024,
+
+
+2.  die vorgeschriebenen Angaben nach der Richtlinie 2011/83/EU in der
+    Fassung vom 28. Februar 2024,
+
+
+3.  die vorgeschriebenen Angaben nach der Richtlinie (EU) 2016/97 in der
+    Fassung vom 5. Dezember 2023,
+
+
+4.  die technischen Durchführungsstandards, die die Europäische
     Aufsichtsbehörde für das Versicherungswesen und die betriebliche
-    Altersversorgung nach der Richtlinie (EU) 2016/97 des Europäischen
-    Parlaments und des Rates vom 20. Januar 2016 über
-    Versicherungsvertrieb (Neufassung) (ABl. L 26 vom 2.2.2016, S. 19; L
-    222 vom 17.8.2016, S. 114) erarbeitet und die von der Kommission der
+    Altersversorgung nach der Richtlinie (EU) 2016/97 in der Fassung vom
+    5\. Dezember 2023 erarbeitet und die von der Kommission der
     Europäischen Union nach Artikel 15 der Verordnung (EU) Nr. 1094/2010
-    des Europäischen Parlaments und des Rates vom 24. November 2010 zur
-    Errichtung einer Europäischen Aufsichtsbehörde (Europäische
-    Aufsichtsbehörde für das Versicherungswesen und die betriebliche
-    Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und
-    zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331
-    vom 15.12.2010, S. 48), die zuletzt durch die Verordnung (EU) Nr.
-    258/2014 (ABl. L 105 vom 8.4.2014, S. 1) geändert worden ist, erlassen
-    worden sind,
+    in der Fassung vom 27. November 2024 erlassen worden sind, und
 
 
-2.  die delegierten Rechtsakte, die von der Kommission nach Artikel 29
+5.  die delegierten Rechtsakte, die von der Kommission nach Artikel 29
     Absatz 4 Buchstabe b und Artikel 30 Absatz 6 der Richtlinie (EU)
-    2016/97, jeweils in Verbindung mit Artikel 38 der Richtlinie (EU)
-    2016/97, erlassen worden sind.
+    2016/97 in der Fassung vom 5. Dezember 2023, jeweils in Verbindung mit
+    Artikel 38 der Richtlinie (EU) 2016/97 in der Fassung vom 5. Dezember
+    2023, erlassen worden sind.
 
 
 
-
-(3) In der Rechtsverordnung nach Absatz 2 ist ferner zu bestimmen, was
+(4) In der Rechtsverordnung nach Absatz 2 ist ferner zu bestimmen, was
 der Versicherer während der Laufzeit des Vertrags in Textform
 mitteilen muss; dies gilt insbesondere bei Änderungen früherer
 Informationen, ferner bei der Krankenversicherung bei
 Prämienerhöhungen und hinsichtlich der Möglichkeit eines Tarifwechsels
 sowie bei der Lebensversicherung mit Überschussbeteiligung
 hinsichtlich der Entwicklung der Ansprüche des Versicherungsnehmers.
-
-(4) Der Versicherungsnehmer kann während der Laufzeit des Vertrags
-jederzeit vom Versicherer verlangen, dass ihm dieser die
-Vertragsbestimmungen einschließlich der Allgemeinen
-Versicherungsbedingungen in einer Urkunde übermittelt; die Kosten für
-die erste Übermittlung hat der Versicherer zu tragen.
 
 (5) Die Absätze 1 bis 4 sind auf Versicherungsverträge über ein
 Großrisiko im Sinn des § 210 Absatz 2 nicht anzuwenden. Ist bei einem
@@ -623,10 +609,14 @@ Versicherungsnehmers entspricht.
 (1) Der Versicherungsnehmer kann seine Vertragserklärung innerhalb von
 14 Tagen widerrufen. Der Widerruf ist in Textform gegenüber dem
 Versicherer zu erklären und muss keine Begründung enthalten; zur
-Fristwahrung genügt die rechtzeitige Absendung.
+Fristwahrung genügt die rechtzeitige Absendung. Auf Fernabsatzverträge
+nach § 312c des Bürgerlichen Gesetzbuchs, die über eine Online-
+Benutzeroberfläche geschlossen werden, ist § 356a des Bürgerlichen
+Gesetzbuchs anzuwenden.
 
-(2) Die Widerrufsfrist beginnt zu dem Zeitpunkt, zu dem folgende
-Unterlagen dem Versicherungsnehmer in Textform zugegangen sind:
+(2) Die Widerrufsfrist beginnt mit dem Vertragsschluss. Sie beginnt
+jedoch nicht, bevor folgende Unterlagen dem Versicherungsnehmer in
+Textform zugegangen sind:
 
 1.  der Versicherungsschein und die Vertragsbestimmungen einschließlich
     der Allgemeinen Versicherungsbedingungen sowie die weiteren
@@ -634,32 +624,22 @@ Unterlagen dem Versicherungsnehmer in Textform zugegangen sind:
     mitzuteilen sind, und
 
 
-2.  eine deutlich gestaltete Belehrung über das Widerrufsrecht und über
-    die Rechtsfolgen des Widerrufs, die dem Versicherungsnehmer seine
-    Rechte entsprechend den Erfordernissen des eingesetzten
-    Kommunikationsmittels deutlich macht und die den Namen und die
-    ladungsfähige Anschrift desjenigen, gegenüber dem der Widerruf zu
-    erklären ist, sowie einen Hinweis auf den Fristbeginn und auf die
-    Regelungen des Absatzes 1 Satz 2 enthält.
+2.  eine Belehrung über das Bestehen des Widerrufsrechts nach Absatz 1,
+    Angaben zur Widerrufsfrist und zu den Modalitäten für die Ausübung des
+    Widerrufsrechts, einschließlich des Namens und der ladungsfähigen
+    Anschrift desjenigen, dem gegenüber der Widerruf zu erklären ist, und
+    des Betrags, den der Versicherungsnehmer gegebenenfalls zu entrichten
+    hat, sowie die Folgen der Nichtausübung dieses Rechts.
 
 
 
 Bei Versicherungsprodukten, für die ein Basisinformationsblatt nach
-der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des
-Rates vom 26. November 2014 über Basisinformationsblätter für
-verpackte Anlageprodukte für Kleinanleger und
-Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L
-358 vom 13.12.2014, S. 50), die zuletzt durch die Verordnung (EU)
-2019/1156 (ABl. L 188 vom 12.7.2019, S. 55) geändert worden ist, in
-der jeweils geltenden Fassung oder für die ein PEPP-
+der Verordnung (EU) Nr. 1286/2014 oder für die ein PEPP-
 Basisinformationsblatt nach Artikel 26 der Verordnung (EU) 2019/1238
-des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein
-Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom
-25\.7.2019, S. 1) in der jeweils geltenden Fassung zu erstellen ist,
-beginnt die Widerrufsfrist nicht, bevor auch das
+zu erstellen ist, beginnt die Widerrufsfrist nicht, bevor auch das
 Basisinformationsblatt oder das PEPP-Basisinformationsblatt zur
 Verfügung gestellt worden ist. Der Nachweis über den Zugang der
-Unterlagen nach den Sätzen 1 und 2 obliegt dem Versicherer.
+Unterlagen nach den Sätzen 2 und 3 obliegt dem Versicherer.
 
 (3) Das Widerrufsrecht besteht nicht
 
@@ -668,69 +648,124 @@ Unterlagen nach den Sätzen 1 und 2 obliegt dem Versicherer.
 
 
 2.  bei Versicherungsverträgen über vorläufige Deckung, es sei denn, es
-    handelt sich um einen Fernabsatzvertrag im Sinn des § 312c des
-    Bürgerlichen Gesetzbuchs,
+    handelt sich um einen Fernabsatzvertrag nach § 312c des Bürgerlichen
+    Gesetzbuchs,
 
 
 3.  bei Versicherungsverträgen bei Pensionskassen, die auf
     arbeitsvertraglichen Regelungen beruhen, es sei denn, es handelt sich
-    um einen Fernabsatzvertrag im Sinn des § 312c des Bürgerlichen
-    Gesetzbuchs,
+    um einen Fernabsatzvertrag nach § 312c des Bürgerlichen Gesetzbuchs,
 
 
-4.  bei Versicherungsverträgen über ein Großrisiko im Sinn des § 210
-    Absatz 2.
+4.  bei Versicherungsverträgen über ein Großrisiko nach § 210 Absatz 2.
 
 
 
-Das Widerrufsrecht erlischt, wenn der Vertrag von beiden Seiten auf
-ausdrücklichen Wunsch des Versicherungsnehmers vollständig erfüllt
+
+(4) Das Widerrufsrecht erlischt, wenn der Vertrag von beiden Seiten
+auf ausdrücklichen Wunsch des Versicherungsnehmers vollständig erfüllt
 ist, bevor der Versicherungsnehmer sein Widerrufsrecht ausgeübt hat.
+Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach
+dem Vertragsschluss. Dies gilt nicht, wenn der Versicherungsnehmer
+nicht gemäß Absatz 2 Satz 2 Nummer 2 über sein Widerrufsrecht nach
+Absatz 1 belehrt wurde.
 
-(4) Die nach Absatz 2 Satz 1 Nr. 2 zu erteilende Belehrung genügt den
-dort genannten Anforderungen, wenn das Muster der Anlage zu diesem
+(5) Die nach Absatz 2 Satz 2 Nummer 2 zu erteilende Belehrung genügt
+den dort genannten Anforderungen, wenn das Muster der Anlage zu diesem
 Gesetz in Textform verwendet wird. Der Versicherer darf unter
-Beachtung von Absatz 2 Satz 1 Nr. 2 von dem Muster abweichen.
-Beschränkt sich die Abweichung unter Beachtung von Absatz 2 Satz 1
+Beachtung von Absatz 2 Satz 2 Nummer 2 von dem Muster abweichen.
+Beschränkt sich die Abweichung unter Beachtung von Absatz 2 Satz 2
 Nummer 2 auf Format und Schriftgröße oder darauf, dass der Versicherer
 Zusätze wie die Firma oder ein Kennzeichen des Versicherers anbringt,
-so ist Satz 1 anzuwenden.
+so gilt Satz 1 entsprechend. Die Sätze 1 bis 3 sind auf
+Fernabsatzverträge nach § 312c des Bürgerlichen Gesetzbuchs nicht
+anzuwenden.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium der Finanzen und im Benehmen mit dem
-Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
-Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die Informationspflichten nach Abschnitt 2 der Anlage und
-die dazu erteilten Gestaltungshinweise zu ändern, wenn dies
-erforderlich ist, um die Informationspflichten nach Abschnitt 2 der
-Anlage und die dazu erteilten Gestaltungshinweise an eine Änderung der
-VVG-Informationspflichtenverordnung anzupassen.
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Informationspflichten nach Abschnitt 2 der Anlage und die dazu
+erteilten Gestaltungshinweise zu ändern, wenn dies erforderlich ist,
+um die Informationspflichten nach Abschnitt 2 der Anlage und die dazu
+erteilten Gestaltungshinweise an eine Änderung der VVG-
+Informationspflichtenverordnung anzupassen.
 
 
 ##### § 9 Rechtsfolgen des Widerrufs
 
-(1) Übt der Versicherungsnehmer das Widerrufsrecht nach § 8 Abs. 1
-aus, hat der Versicherer nur den auf die Zeit nach Zugang des
-Widerrufs entfallenden Teil der Prämien zu erstatten, wenn der
-Versicherungsnehmer in der Belehrung nach § 8 Abs. 2 Satz 1 Nr. 2 auf
-sein Widerrufsrecht, die Rechtsfolgen des Widerrufs und den zu
-zahlenden Betrag hingewiesen worden ist und zugestimmt hat, dass der
-Versicherungsschutz vor Ende der Widerrufsfrist beginnt; die
-Erstattungspflicht ist unverzüglich, spätestens 30 Tage nach Zugang
-des Widerrufs zu erfüllen. Ist der in Satz 1 genannte Hinweis
-unterblieben, hat der Versicherer zusätzlich die für das erste Jahr
-des Versicherungsschutzes gezahlten Prämien zu erstatten; dies gilt
-nicht, wenn der Versicherungsnehmer Leistungen aus dem
-Versicherungsvertrag in Anspruch genommen hat.
+(1) Übt der Versicherungsnehmer das Widerrufsrecht nach § 8 Absatz 1
+aus, so sind die empfangenen Leistungen unverzüglich, spätestens
+innerhalb einer Frist von 30 Tagen zurückzugewähren. Die Frist beginnt
+für den Versicherer mit dem Zugang und für den Versicherungsnehmer mit
+der Abgabe der Widerrufserklärung.
 
-(2) Hat der Versicherungsnehmer sein Widerrufsrecht nach § 8 wirksam
+(2) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist,
+hat der Versicherer dem Versicherungsnehmer abweichend von Absatz 1
+nur den auf die Zeit nach dem Zugang der Widerrufserklärung
+entfallenden Teil der Prämien zurückzugewähren, wenn der
+Versicherungsnehmer
+
+1.  vor Abgabe seiner Vertragserklärung ordnungsgemäß auf diese
+    Rechtsfolge hingewiesen worden ist und
+
+
+2.  bei einem Fernabsatzvertrag nach § 312c des Bürgerlichen Gesetzbuchs
+    ausdrücklich zugestimmt hat, dass der Versicherungsschutz vor dem Ende
+    der Widerrufsfrist beginnt.
+
+
+
+Der Versicherungsnehmer hat in diesem Fall Versicherungsleistungen,
+die er vor der Ausübung des Widerrufsrechts aufgrund eines
+Versicherungsfalls aus dem Versicherungsvertrag in Anspruch genommen
+hat, nicht zurückzugewähren.
+
+(3) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und ist die Voraussetzung nach Absatz 2 Satz 1 Nummer 1 nicht erfüllt,
+hat der Versicherer abweichend von Absatz 1
+
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+
+2.  zusätzlich die für das erste Jahr des Versicherungsschutzes gezahlten
+    Prämien zurückzugewähren, es sei denn, der Versicherungsnehmer hat vor
+    der Ausübung des Widerrufsrechts aufgrund eines Versicherungsfalls aus
+    dem Versicherungsvertrag Versicherungsleistungen in Anspruch genommen.
+
+
+
+Für den Versicherungsnehmer gilt Absatz 2 Satz 2 entsprechend.
+
+(4) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und sind die Voraussetzungen nach Absatz 2 Satz 1 Nummer 1 oder 2
+nicht erfüllt, ist bei einem Fernabsatzvertrag nach § 312c des
+Bürgerlichen Gesetzbuchs nur Absatz 1 anzuwenden, es sei denn, der
+Versicherungsnehmer hat vor der Ausübung des Widerrufsrechts aufgrund
+eines Versicherungsfalls aus dem Versicherungsvertrag
+Versicherungsleistungen in Anspruch genommen. Der Versicherer hat in
+diesem Fall abweichend von Absatz 1
+
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+
+2.  den auf die Zeit bis zum Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien nur in Höhe des Betrages zurückzugewähren, der die
+    vom Versicherungsnehmer in Anspruch genommenen Leistungen übersteigt.
+
+
+
+Für den Versicherungsnehmer gilt Absatz 2 Satz 2 entsprechend.
+
+(5) Hat der Versicherungsnehmer sein Widerrufsrecht nach § 8 wirksam
 ausgeübt, ist er auch an einen mit dem Versicherungsvertrag
 zusammenhängenden Vertrag nicht mehr gebunden. Ein zusammenhängender
 Vertrag liegt vor, wenn er einen Bezug zu dem widerrufenen Vertrag
 aufweist und eine Dienstleistung des Versicherers oder eines Dritten
 auf der Grundlage einer Vereinbarung zwischen dem Dritten und dem
-Versicherer betrifft. Eine Vertragsstrafe darf weder vereinbart noch
-verlangt werden.
+Versicherer betrifft. Dem Versicherungsnehmer dürfen durch die
+Ausübung des Widerrufsrechts keine Kosten entstehen.
 
 
 ##### § 10 Beginn und Ende der Versicherung
@@ -3114,17 +3149,45 @@ zu verlangen, nicht begründet.
 
 #### § 152 Widerruf des Versicherungsnehmers
 
-(1) Abweichend von § 8 Abs. 1 Satz 1 beträgt die Widerrufsfrist 30
-Tage.
+(1) Abweichend von § 8 Absatz 1 Satz 1 beträgt die Widerrufsfrist 30
+Tage. Abweichend von § 8 Absatz 4 Satz 2 erlischt das Widerrufsrecht
+spätestens 24 Monate und 30 Tage nach dem Vertragsschluss. § 8 Absatz
+5 Satz 4 ist nicht anzuwenden.
 
-(2) Der Versicherer hat abweichend von § 9 Satz 1 auch den
-Rückkaufswert einschließlich der Überschussanteile nach § 169 zu
-zahlen. Im Fall des § 9 Satz 2 hat der Versicherer den Rückkaufswert
-einschließlich der Überschussanteile oder, wenn dies für den
-Versicherungsnehmer günstiger ist, die für das erste Jahr gezahlten
-Prämien zu erstatten.
+(2) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und ist die Voraussetzung nach § 9 Absatz 2 Satz 1 Nummer 1 erfüllt,
+hat der Versicherer dem Versicherungsnehmer abweichend von § 9 Absatz
+1
 
-(3) Abweichend von § 33 Abs. 1 ist die einmalige oder die erste Prämie
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+
+2.  den Rückkaufswert einschließlich der Überschussanteile nach § 169 zu
+    zahlen.
+
+
+
+
+(3) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und ist die Voraussetzung nach § 9 Absatz 2 Satz 1 Nummer 1 nicht
+erfüllt, hat der Versicherer dem Versicherungsnehmer abweichend von §
+9 Absatz 1
+
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+
+2.  den Rückkaufswert einschließlich der Überschussanteile nach § 169
+    oder, wenn dies für den Versicherungsnehmer günstiger ist, die für das
+    erste Jahr gezahlten Prämien zurückzugewähren.
+
+
+
+
+(4) § 9 Absatz 2 bis 4 findet keine Anwendung.
+
+(5) Abweichend von § 33 Abs. 1 ist die einmalige oder die erste Prämie
 unverzüglich nach Ablauf von 30 Tagen nach Zugang des
 Versicherungsscheins zu zahlen.
 
@@ -3553,7 +3616,7 @@ Insolvenzverfahren eröffnet worden ist.
 
 #### § 171 Abweichende Vereinbarungen
 
-Von § 152 Abs. 1 und 2 und den §§ 153 bis 155, 157, 158, 161 und 163
+Von § 152 Absatz 1 bis 4 und den §§ 153 bis 155, 157, 158, 161 und 163
 bis 170 kann nicht zum Nachteil des Versicherungsnehmers, der
 versicherten Person oder des Eintrittsberechtigten abgewichen werden.
 Für das Verlangen des Versicherungsnehmers auf Umwandlung nach § 165
@@ -4686,9 +4749,9 @@ abweichende Bestimmungen getroffen sind, nicht anzuwenden auf
 (2) Auf die in Absatz 1 Nr. 1 genannten Pensionskassen sind ferner
 nicht anzuwenden
 
-1.  die §§ 6 bis 9, 11, 150 Abs. 2 bis 4 und § 152 Abs. 1 und 2; für die
-    §§ 7 bis 9 und 152 Abs. 1 und 2 gilt dies nicht für Fernabsatzverträge
-    im Sinn des § 312c des Bürgerlichen Gesetzbuchs;
+1.  die §§ 6 bis 9, 11, 150 Absatz 2 bis 4 und § 152 Absatz 1 bis 4; für
+    die §§ 7 bis 9 und 152 Absatz 1 bis 4 gilt dies nicht für
+    Fernabsatzverträge nach § 312c des Bürgerlichen Gesetzbuchs;
 
 
 2.  § 153, soweit mit Genehmigung der Aufsichtsbehörde in den Allgemeinen
@@ -4836,7 +4899,7 @@ Versicherer geltend gemacht werden; ein darüber erzielter Titel wirkt
 für und gegen alle an dem Versicherungsvertrag beteiligten
 Versicherer.
 
-(zu § 8 Absatz 4 Satz 1)
+(zu § 8 Absatz 5 Satz 1)
 
 ### Anlage Muster für die Widerrufsbelehrung
 
@@ -4899,30 +4962,40 @@ vgl. Fußnote)
 *    *   *Widerrufsfolgen* ****
 
 
-*    *   **Im Falle eines wirksamen Widerrufs endet der Versicherungsschutz und
-        der Versicherer hat Ihnen den auf die Zeit nach Zugang des Widerrufs
-        entfallenden Teil der Prämien zu erstatten, wenn Sie zugestimmt haben,
-        dass der Versicherungsschutz vor dem Ende der Widerrufsfrist beginnt.
-        Den Teil der Prämie, der auf die Zeit bis zum Zugang des Widerrufs
-        entfällt, darf der Versicherer in diesem Fall einbehalten; dabei
-        handelt es sich um [einen Betrag in Höhe von…]***
-         .* **Der Versicherer hat zurückzuzahlende Beträge unverzüglich,
-        spätestens 30 Tage nach Zugang des Widerrufs, zu erstatten.**
-
-
-*    *   **Beginnt der Versicherungsschutz nicht vor dem Ende der
+*    *   Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist, endet
+        im Falle eines wirksamen Widerrufs der Versicherungsschutz und der
+        Versicherer hat Ihnen nur den auf die Zeit nach dem Zugang der
+        Widerrufserklärung entfallenden Teil der Prämien zurückzugewähren. Den
+        Teil der Prämie, der auf die Zeit bis zum Zugang der
+        Widerrufserklärung entfällt, darf der Versicherer in diesem Fall
+        einbehalten; dabei handelt es sich um [einen Betrag in Höhe von …]*
+         . [Sie dürfen in diesem Fall Versicherungsleistungen, die Sie vor der
+        Ausübung des Widerrufsrechts aufgrund eines Versicherungsfalls aus dem
+        Versicherungsvertrag in Anspruch genommen haben, einbehalten.]*
+        **Beginnt der Versicherungsschutz nicht vor dem Ende der
         Widerrufsfrist, so hat der wirksame Widerruf zur Folge, dass
-        empfangene Leistungen zurückzugewähren und gezogene Nutzungen (z. B.
-        Zinsen) herauszugeben sind.***
+        empfangene Leistungen zurückzugewähren sind.** ****
+        Leistungen sind unverzüglich, spätestens innerhalb von 30 Tagen,
+        zurückzugewähren. Die Frist beginnt für den Versicherer mit dem Zugang
+        und für den Versicherungsnehmer mit der Abgabe der
+        Widerrufserklärung.* ****
+
 
 
 *    *   *Besondere Hinweise* ****
 
 
-*    *   **Ihr Widerrufsrecht erlischt, wenn der Vertrag auf Ihren
+*    *   **Wenn Sie Ihr Widerrufsrecht nicht ausüben, sind Sie an den Vertrag
+        gebunden.**
+
+        **Ihr Widerrufsrecht erlischt, wenn der Vertrag auf Ihren
         ausdrücklichen Wunsch sowohl von Ihnen als auch vom Versicherer
         vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt
         haben.**
+
+        Ihr Widerrufsrecht erlischt spätestens [zwölf Monate und 14 Tage]*
+        **nach dem Vertragsschluss.**
+
 
 
 *    *   *Abschnitt 2* ****
@@ -5303,7 +5376,9 @@ vgl. Fußnote)
 
 *    *   *
 
-    *   Für die Lebensversicherung lautet der Klammerzusatz: „30“.
+    *   Für die Lebensversicherung und für die Berufsunfähigkeitsversicherung,
+        auf die § 152 VVG nach § 176 VVG entsprechend anzuwenden ist, lautet
+        der Klammerzusatz: „30“.
 
 
 *    *   *
@@ -5347,11 +5422,21 @@ vgl. Fußnote)
 *    *   *
 
     *   Hier sind einzusetzen: Name/Firma und ladungsfähige Anschrift des
-        Widerrufsadressaten. Zusätzlich können angegeben werden:
-        Telefaxnummer, E-Mail-Adresse und/oder, wenn die Versicherungsnehmerin
-        oder der Versicherungsnehmer eine Bestätigung ihrer oder seiner
-        Widerrufserklärung an den Versicherer erhält, auch eine
-        Internetadresse.
+        Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer
+        und E-Mail-Adresse. Wenn Sie eine Funktion, mit der der
+        Versicherungsnehmer seine Vertragserklärung widerrufen kann,
+        bereitstellen oder zur Bereitstellung verpflichtet sind, fügen Sie
+        danach folgenden Satz an:
+
+
+*    *
+    *   **„Sie können Ihr Widerrufsrecht auch online unter … [Internetadresse
+        oder anderen geeigneten Hinweis darüber eingeben, wo die
+        Widerrufsfunktion verfügbar ist] ausüben. Wenn Sie diese Online-
+        Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften
+        Datenträger (z. B. durch eine E-Mail) unverzüglich eine
+        Eingangsbestätigung mit Informationen zum Inhalt der
+        Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs. “**
 
 
 *    *   *
@@ -5363,13 +5448,14 @@ vgl. Fußnote)
 
 *    *   *
 
-    *   Bei der Lebensversicherung ist gegebenenfalls folgender Satz
-        einzufügen:
+    *   Für die Lebensversicherung und für die Berufsunfähigkeitsversicherung,
+        auf die § 152 VVG nach § 176 VVG entsprechend anzuwenden ist, lautet
+        der Klammerzusatz für den Fall des § 152 Absatz 2 Nummer 2 VVG:
 
 
 *    *
-    *   **„Den Rückkaufswert einschließlich der Überschussanteile hat der
-        Versicherer Ihnen auszuzahlen.“**
+    *   **„Der Versicherer hat Ihnen in diesem Fall den Rückkaufswert
+        einschließlich der Überschussanteile auszuzahlen. “**
 
 
 *    *   *
@@ -5386,8 +5472,15 @@ vgl. Fußnote)
         gebunden. Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug
         zu dem widerrufenen Vertrag aufweist und eine Dienstleistung des
         Versicherers oder eines Dritten auf der Grundlage einer Vereinbarung
-        zwischen dem Dritten und dem Versicherer betrifft. Eine Vertragsstrafe
-        darf weder vereinbart noch verlangt werden.“**
+        zwischen dem Dritten und dem Versicherer betrifft. Ihnen dürfen durch
+        die Ausübung des Widerrufsrechts keine Kosten entstehen. “**
+
+
+*    *   *
+
+    *   Für die Lebensversicherung und für die Berufsunfähigkeitsversicherung,
+        auf die § 152 VVG nach § 176 VVG entsprechend anzuwenden ist, lautet
+        der Klammerzusatz: „24 Monate und 30 Tage“.
 
 
 *    *   *
