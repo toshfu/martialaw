@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 9.1.2026 I Nr. 4
 
+Änderung durch
+:   Art. 8 G v. 22.6.2026 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Die §§ 60b u. 60c treten gem. Art. 6 Abs. 2 G v. 16.10.2023 I Nr. 280 am 1.10.2024 in Kraft
 [^F812398_01_BJNR172810020]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2010/31/EU des
     Europäischen Parlaments und des Rates vom 19. Mai 2010 über die
@@ -2581,7 +2584,7 @@ Energien oder unvermeidbarer Abwärme nach Maßgabe der Absätze 4 bis 6
 sowie der §§ 71b bis 71h erzeugt. Satz 1 ist entsprechend für eine
 Heizungsanlage anzuwenden, die in ein Gebäudenetz einspeist.
 
-[^F827528_06_BJNR172810020BJNE007301128]
+[^F827528_06_BJNR172810020BJNE007302128]
 (2) Der Gebäudeeigentümer kann frei wählen, mit welcher Heizungsanlage
 die Anforderungen nach Absatz 1 erfüllt werden. Die Einhaltung der
 Anforderungen des Absatzes 1 in Verbindung mit den §§ 71b bis 71h ist
@@ -2670,7 +2673,7 @@ dezentralen Warmwasserbereitung mit elektrischen Durchlauferhitzern
 müssen diese zur Erfüllung der Pflicht nach Absatz 1 elektronisch
 geregelt sein.
 
-[^F827528_07_BJNR172810020BJNE007301128]
+[^F827528_07_BJNR172810020BJNE007302128]
 (6) Unvermeidbare Abwärme kann im Nachweis der Pflichterfüllung nach
 Absatz 1 angerechnet werden, soweit sie über ein technisches System
 nutzbar gemacht und im Gebäude zur Deckung des Wärmebedarfs eingesetzt
@@ -2688,27 +2691,27 @@ Bündnisverteidigung entgegensteht.
 
 (8) In einem bestehenden Gebäude, das in einem Gemeindegebiet liegt,
 in dem am 1. Januar 2024 mehr als 100 000 Einwohner gemeldet sind,
-kann bis zum Ablauf des 30. Juni 2026 eine Heizungsanlage ausgetauscht
-und eine andere Heizungsanlage zum Zweck der Inbetriebnahme eingebaut
-oder aufgestellt und betrieben werden, die nicht die Vorgaben des
-Absatzes 1 erfüllt. In einem bestehenden Gebäude, das in einem
-Gemeindegebiet liegt, in dem am 1. Januar 2024 100 000 Einwohner oder
-weniger gemeldet sind, kann bis zum Ablauf des 30. Juni 2028 eine
-Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum Zweck
-der Inbetriebnahme eingebaut oder aufgestellt und betrieben werden,
-die nicht die Vorgaben des Absatzes 1 erfüllt. Sofern das Gebäude in
-einem Gebiet liegt, für das vor Ablauf des 30. Juni 2026 im Fall des
-Satzes 1 oder vor Ablauf des 30. Juni 2028 im Fall des Satzes 2 durch
-die nach Landesrecht zuständige Stelle unter Berücksichtigung eines
-Wärmeplans, der auf der Grundlage einer bundesgesetzlichen Regelung
-zur Wärmeplanung erstellt wurde, eine Entscheidung über die Ausweisung
-als Gebiet zum Neu- oder Ausbau eines Wärmenetzes oder als
-Wasserstoffnetzausbaugebiet getroffen wurde, sind die Anforderungen
-nach Absatz 1 einen Monat nach Bekanntgabe dieser Entscheidung
-anzuwenden. Gemeindegebiete, in denen nach Ablauf des 30. Juni 2026 im
-Fall des Satzes 1 oder nach Ablauf des 30. Juni 2028 im Fall des
-Satzes 2 keine Wärmeplanung vorliegt, werden so behandelt, als läge
-eine Wärmeplanung vor.
+kann bis zum Ablauf des 31. Oktober 2026 eine Heizungsanlage
+ausgetauscht und eine andere Heizungsanlage zum Zweck der
+Inbetriebnahme eingebaut oder aufgestellt und betrieben werden, die
+nicht die Vorgaben des Absatzes 1 erfüllt. In einem bestehenden
+Gebäude, das in einem Gemeindegebiet liegt, in dem am 1. Januar
+2024 100 000 Einwohner oder weniger gemeldet sind, kann bis zum Ablauf
+des 30. Juni 2028 eine Heizungsanlage ausgetauscht und eine andere
+Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder aufgestellt
+und betrieben werden, die nicht die Vorgaben des Absatzes 1 erfüllt.
+Sofern das Gebäude in einem Gebiet liegt, für das vor Ablauf des 31.
+Oktober 2026 im Fall des Satzes 1 oder vor Ablauf des 30. Juni 2028 im
+Fall des Satzes 2 durch die nach Landesrecht zuständige Stelle unter
+Berücksichtigung eines Wärmeplans, der auf der Grundlage einer
+bundesgesetzlichen Regelung zur Wärmeplanung erstellt wurde, eine
+Entscheidung über die Ausweisung als Gebiet zum Neu- oder Ausbau eines
+Wärmenetzes oder als Wasserstoffnetzausbaugebiet getroffen wurde, sind
+die Anforderungen nach Absatz 1 einen Monat nach Bekanntgabe dieser
+Entscheidung anzuwenden. Gemeindegebiete, in denen nach Ablauf des 31.
+Oktober 2026 im Fall des Satzes 1 oder nach Ablauf des 30. Juni 2028
+im Fall des Satzes 2 keine Wärmeplanung vorliegt, werden so behandelt,
+als läge eine Wärmeplanung vor.
 
 (9) Der Betreiber einer mit einem flüssigen oder gasförmigen
 Brennstoff beschickten Heizungsanlage, die nach Ablauf des 31.
@@ -2749,9 +2752,9 @@ Inbetriebnahme eingebaut oder aufgestellt werden.
 
     Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der
     Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F827528_06_BJNR172810020BJNE007301128]:     Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der
+[^F827528_06_BJNR172810020BJNE007302128]:     Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der
     Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F827528_07_BJNR172810020BJNE007301128]: 
+[^F827528_07_BJNR172810020BJNE007302128]: 
 
 ##### § 71a Gebäudeautomation
 
