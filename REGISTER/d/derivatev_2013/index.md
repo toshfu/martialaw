@@ -1155,8 +1155,11 @@ nachgekommen werden kann.
 
 #### § 27 Anrechnungsbetrag für das Kontrahentenrisiko
 
-(1) Derivate, Wertpapier-Darlehen und Pensionsgeschäfte dürfen nur
-insoweit abgeschlossen werden, als der Anrechnungsbetrag für das
+(1) Derivate, die nicht durch eine gemäß Artikel 14 der Verordnung
+(EU) Nr. 648/2012 zugelassene oder gemäß Artikel 25 der Verordnung
+(EU) Nr. 648/2012 anerkannte zentrale Gegenpartei gecleart werden,
+Wertpapier-Darlehen und Pensionsgeschäfte dürfen nur insoweit
+abgeschlossen werden, als der Anrechnungsbetrag für das
 Kontrahentenrisiko des Vertragspartners 5 Prozent des Wertes des
 Investmentvermögens nicht überschreitet. Wenn der Vertragspartner ein
 Kreditinstitut mit Sitz in einem Mitgliedstaat der Europäischen Union
@@ -1814,6 +1817,10 @@ Kommunikationsverfahren einzureichen.
 Wertpapier- und Marktaufsichtsbehörde und dem Europäischen Ausschuss
 für Systemrisiken die nach den Absätzen 1 und 2 eingehenden
 Informationen zum Zweck der Überwachung von Systemrisiken übermitteln.
+
+(4) Sofern die Kapitalverwaltungsgesellschaft ihrer Meldepflicht nach
+§ 35 des Kapitalanlagegesetzbuches nachkommt, entfällt die
+Berichtspflicht nach § 38 Absatz 1.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
