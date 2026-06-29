@@ -1245,9 +1245,6 @@ unterschreiben ist.
 formlos widerrufen werden.
 
 
-## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
-
-
 ### § 8d Entnahme von Organen und Geweben zur Rückübertragung
 
 (1) Die Entnahme von Organen oder Geweben zum Zwecke der
@@ -1306,6 +1303,9 @@ unterschreiben ist.
 
 (5) Die Einwilligung kann jederzeit und ohne Angabe von Gründen
 formlos widerrufen werden.
+
+
+## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
 
 
 ### § 8e Besondere Pflichten der Gewebeeinrichtungen
