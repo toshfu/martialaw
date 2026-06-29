@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2457
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 20 G v. 4.5.2021 I 882
+:   Art. 18 G v. 22.6.2026 I Nr. 192
 
 
 ## Kapitel 1 - Gegenstände der Sachenrechtsbereinigung
