@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.11.2017 I 3634
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.12.2025 I Nr. 348
+:   Art. 1 G v. 22.6.2026 I Nr. 192
 
 [^F2415_BJNR003410960]:     Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 92/43/EWG des Rates
