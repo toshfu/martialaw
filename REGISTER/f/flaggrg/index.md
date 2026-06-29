@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 40 G v. 20.12.2022 I 2752
 
+Änderung durch
+:   Art. 1 G v. 18.6.2026 I Nr. 184 mWv 1.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Zukünftige Überschrift: Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe (Flaggenrechtsgesetz - FlRG)(ab 1.7.2026; BGBl 2026 I Nr. 184)
+[^BJNR000790951]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 G v.
+    18\.6.2026 I Nr. 184 wie folgt gefasst:  **Gesetz über das Flaggenrecht
+    der Seeschiffe und die Flaggenführung der Binnenschiffe
+    (Flaggenrechtsgesetz - FlRG)**
+
 
 ## Erster Abschnitt - Flaggenrecht der Seeschiffe
 
