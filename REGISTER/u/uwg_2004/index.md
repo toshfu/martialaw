@@ -379,6 +379,9 @@ kurze Zeit gefordert worden ist. Ist streitig, ob und in welchem
 Zeitraum der Preis gefordert worden ist, so trifft die Beweislast
 denjenigen, der mit der Preisherabsetzung geworben hat.
 
+(6) Eine geschäftliche Handlung, die gegen § 312d Absatz 2 Satz 2 des
+Bürgerlichen Gesetzbuchs verstößt, ist irreführend.
+
 
 ### § 5a Irreführung durch Unterlassen
 
