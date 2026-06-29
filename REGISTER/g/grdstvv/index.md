@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 18 G v. 21.11.2016 I 2591
 
+Änderung durch
+:   Art. 17 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Geltungsbereich, Genehmigungsanspruch
 
