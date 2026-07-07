@@ -6208,9 +6208,9 @@ verpflichtet, wenn
 
 
 2.  er Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und ihn
-    der Träger der Grundsicherung für Arbeitsuchende nach § 15 Absatz 5
-    Satz 2 oder Absatz 6 des Zweiten Buches Sozialgesetzbuch zur Teilnahme
-    am Integrationskurs auffordert,
+    der Träger der Grundsicherung für Arbeitsuchende nach § 15a Absatz 1
+    Satz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch zur Teilnahme am
+    Integrationskurs verpflichtet,
 
 
 3.  er in besonderer Weise integrationsbedürftig ist und die
@@ -6228,9 +6228,9 @@ In den Fällen des Satzes 1 Nr. 1 stellt die Ausländerbehörde bei der
 Erteilung des Aufenthaltstitels fest, dass der Ausländer zur Teilnahme
 verpflichtet ist. Der Träger der Grundsicherung für Arbeitsuchende
 soll in den Fällen des Satzes 1 Nr. 1 und 3 beim Bezug von Leistungen
-nach dem Zweiten Buch Sozialgesetzbuch für die Maßnahmen nach § 15 des
-Zweiten Buches Sozialgesetzbuch der Verpflichtung durch die
-Ausländerbehörde im Regelfall folgen. Sofern der Träger der
+nach dem Zweiten Buch Sozialgesetzbuch für die Maßnahmen nach den §§
+15 und 15a des Zweiten Buches Sozialgesetzbuch der Verpflichtung durch
+die Ausländerbehörde im Regelfall folgen. Sofern der Träger der
 Grundsicherung für Arbeitsuchende im Einzelfall eine abweichende
 Entscheidung trifft, hat er dies der Ausländerbehörde mitzuteilen, die
 die Verpflichtung widerruft. Die Verpflichtung ist zu widerrufen, wenn
@@ -6314,9 +6314,9 @@ zur Durchführung der Maßnahmen privater oder öffentlicher Träger.
 (2) Ein Ausländer ist zur Teilnahme an einer Maßnahme der
 berufsbezogenen Deutschsprachförderung verpflichtet, wenn er
 Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und ihn der
-Träger der Grundsicherung für Arbeitsuchende nach § 15 Absatz 5 Satz 2
-oder Absatz 6 des Zweiten Buches Sozialgesetzbuch zur Teilnahme an der
-Maßnahme auffordert. Leistungen zur Eingliederung in Arbeit nach dem
+Träger der Grundsicherung für Arbeitsuchende nach § 15a Absatz 1 Satz
+1 Nummer 3 des Zweiten Buches Sozialgesetzbuch zur Teilnahme an der
+Maßnahme verpflichtet. Leistungen zur Eingliederung in Arbeit nach dem
 Zweiten Buch Sozialgesetzbuch und Leistungen der aktiven
 Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch bleiben
 unberührt.
@@ -14375,15 +14375,13 @@ ergriffen hat.
 Dezember 2019 erlaubt wurden, gilt § 60a Absatz 6 in der bis zu diesem
 Tag geltenden Fassung fort.
 
-(17) Auf Personen mit einer bis zum Ablauf des 30. Juni 2023
-abgeschlossenen Eingliederungsvereinbarung nach § 15 des Zweiten
-Buches Sozialgesetzbuch in der bis zu diesem Zeitpunkt gültigen
-Fassung sind bis zur erstmaligen Erstellung eines Kooperationsplans
-nach § 15 des Zweiten Buches Sozialgesetzbuch in der ab dem 1. Juli
-2023 gültigen Fassung, spätestens bis zum Ablauf des 31. Dezember
-2023, § 44a Absatz 1 Satz 1 Nummer 2 und Satz 3 sowie § 45a Absatz 2
-Satz 1 in der bis zum 30. Juni 2023 gültigen Fassung weiter
-anzuwenden.
+(17) Auf Personen, die nach § 15 Absatz 5 Satz 2 oder Absatz 6 des
+Zweiten Buches Sozialgesetzbuch in der bis einschließlich 30. Juni
+2026 geltenden Fassung zur Teilnahme am Integrationskurs oder an einer
+Maßnahme der berufsbezogenen Deutschsprachförderung aufgefordert
+wurden, ist § 44a Absatz 1 Satz 1 Nummer 2 beziehungsweise § 45a
+Absatz 2 Satz 1 in der bis einschließlich 30. Juni 2026 geltenden
+Fassung weiter anzuwenden.
 
 (18) § 60a Absatz 6 Satz 1 Nummer 3 findet keine Anwendung auf
 Staatsangehörige Georgiens und der Republik Moldau, die bis zum 30.
