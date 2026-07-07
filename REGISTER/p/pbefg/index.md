@@ -738,10 +738,10 @@ Verordnung (EG) Nr. 1370/2007 muss die Anforderungen nach den Absätzen
 
 (2) Die Bekanntmachung über das vorgesehene wettbewerbliche
 Vergabeverfahren muss allen in Betracht kommenden Bietern zugänglich
-sein. Sie kann auf der Internetseite www.bund.de veröffentlicht
-werden. Die Bekanntmachung muss alle für die Teilnahme an dem
-Vergabeverfahren erforderlichen Informationen enthalten, insbesondere
-Informationen über
+sein. Sie soll auf der Internetseite oeffentlichevergabe.de
+veröffentlicht werden. Die Bekanntmachung muss alle für die Teilnahme
+an dem Vergabeverfahren erforderlichen Informationen enthalten,
+insbesondere Informationen über
 
 1.  den vorgesehenen Ablauf des wettbewerblichen Vergabeverfahrens,
 
@@ -758,15 +758,17 @@ Informationen über
 
 
 
-(3) Die Dienstleistungen sind eindeutig und umfassend zu beschreiben,
+(3) Die Dienstleistungen sind so eindeutig wie möglich zu beschreiben,
 sodass alle in Betracht kommenden Bieter die Beschreibung im gleichen
 Sinne verstehen müssen und miteinander vergleichbare Angebote zu
 erwarten sind. Fristen sind unter Berücksichtigung der Komplexität der
 Dienstleistungen angemessen zu setzen.
 
 (4) Die Teilnehmer an dem wettbewerblichen Vergabeverfahren sind
-gleich zu behandeln. Der Zuschlag ist auf das unter Berücksichtigung
-aller Umstände wirtschaftlichste Angebot zu erteilen.
+gleich zu behandeln, es sei denn, eine Ungleichbehandlung ist
+unionsrechtlich oder auf Grund eines Bundesgesetzes geboten oder
+gestattet. Der Zuschlag ist auf das unter Berücksichtigung aller
+Umstände wirtschaftlichste Angebot zu erteilen.
 
 (5) Werden Unteraufträge zugelassen, kann vorgegeben werden, dass die
 Übertragung von Unteraufträgen nach wettbewerblichen Grundsätzen
