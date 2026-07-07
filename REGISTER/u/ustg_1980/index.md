@@ -33,6 +33,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 62 Abs. 7 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
 
+Änderung durch
+:   Art. 5 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
 
