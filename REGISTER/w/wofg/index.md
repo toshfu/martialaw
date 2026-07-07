@@ -912,7 +912,8 @@ Ehegatten ist nicht zulässig.
     gezahlt werden,
 
 
-7.1 das Bürgergeld nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,
+7.1 das Grundsicherungsgeld nach § 19 Absatz 1 des Zweiten Buches
+    Sozialgesetzbuch,
 
 
 7.2 die Leistungen der Hilfe zum Lebensunterhalt nach den §§ 27 bis 30 des
