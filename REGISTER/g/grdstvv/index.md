@@ -19,10 +19,7 @@ Neugefasst durch
 :   Art. 15 § 1 G v. 20.12.1993 I 2182, 2221;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 21.11.2016 I 2591
-
-Änderung durch
-:   Art. 17 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 G v. 22.6.2026 I Nr. 192
 
 
 ## § 1 Geltungsbereich, Genehmigungsanspruch
