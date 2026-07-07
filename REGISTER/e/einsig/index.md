@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 786
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 15 G v. 12.5.2021 I 990
-
-Änderung durch
-:   Art. 26 Abs. 5 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 26 Abs. 5 G v. 25.3.2026 I Nr. 81
 
 
 ## Teil 1 - Allgemeine Vorschriften
