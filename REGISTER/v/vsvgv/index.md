@@ -63,7 +63,9 @@ Bauaufträgen sind die §§ 1 bis 4, 6 bis 9 und 38 bis 42 sowie 44 und
 Vertragsordnung für Bauleistungen (VOB/A) in der Fassung der
 Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2), der
 zuletzt durch die Bekanntmachung vom 6. September 2023 (BAnz AT
-25\.09.2023 B4) geändert worden ist, anzuwenden.
+25\.09.2023 B4) geändert worden ist, anzuwenden. Satz 2 gilt nicht für
+Planungsleistungen, die als Los eines Bauauftrags vergeben werden; auf
+ihre Vergabe ist diese Verordnung anzuwenden.
 
 (3) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen
 Liefer-, Dienstleistungs- und Bauaufträgen gelten bei der Erstellung
@@ -441,7 +443,11 @@ vergeben beabsichtigt, und die bereits vorgeschlagenen
 Unterauftragnehmer sowie den Gegenstand der Unteraufträge bekannt zu
 geben. Sie können außerdem verlangen, dass der Auftragnehmer ihnen
 jede im Zuge der Ausführung des Auftrags eintretende Änderung auf
-Ebene der Unterauftragnehmer mitteilt.
+Ebene der Unterauftragnehmer mitteilt. Auftraggeber können von Bietern
+verlangen, in ihrem Angebot keine Unterauftragnehmer vorzusehen, die
+in einem Staat außerhalb der Europäischen Union ansässig sind, bei dem
+eine Ungleichbehandlung unionsrechtlich oder aufgrund eines
+Bundesgesetzes geboten oder gestattet ist.
 
 (2) Auftragnehmer dürfen ihre Unterauftragnehmer für alle
 Unteraufträge frei wählen, soweit Auftraggeber keine Anforderungen an
@@ -449,6 +455,11 @@ die Erteilung der Unteraufträge im wettbewerblichen Verfahren gemäß
 Absatz 3 Nummer 1 und 2 stellen. Von Auftragnehmern darf insbesondere
 nicht verlangt werden, potenzielle Unterauftragnehmer anderer EU-
 Mitgliedstaaten aus Gründen der Staatsangehörigkeit zu diskriminieren.
+Auftraggeber können dem Auftragnehmer vorgeben, keine
+Unterauftragnehmer zu beauftragen, die in einem Staat außerhalb der
+Europäischen Union ansässig sind, bei dem eine Ungleichbehandlung
+unionsrechtlich oder aufgrund eines Bundesgesetzes geboten oder
+gestattet ist.
 
 (3) Folgende Anforderungen können Auftraggeber an die Erteilung von
 Unteraufträgen im wettbewerblichen Verfahren stellen:
@@ -504,9 +515,10 @@ unberührt.
 
 ### § 10 Grundsätze des Vergabeverfahrens
 
-(1) Für die Berücksichtigung mittelständischer Interessen gilt § 97
-Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen. Mehrere Teil-
-oder Fachlose dürfen gemäß § 97 Absatz 4 Satz 3 des Gesetzes gegen
+(1) Für die Berücksichtigung mittelständischer Interessen gelten § 97
+Absatz 4, § 97a und § 147 Absatz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen entsprechend. Mehrere Teil- oder Fachlose
+dürfen gemäß § 97a Absatz 2 des Gesetzes gegen
 Wettbewerbsbeschränkungen zusammen vergeben werden, wenn
 wirtschaftliche oder technische Gründe dies erfordern, insbesondere
 weil die Leistungsbeschreibung die Systemfähigkeit der Leistung
@@ -521,11 +533,48 @@ des Bieters oder Bewerbers nicht verfälscht wird.
 Leistungen (VOL/B) sind grundsätzlich zum Vertragsgegenstand zu
 machen.
 
-(4) Die Durchführung von Vergabeverfahren zur Markterkundung und zum
-Zwecke der Ertragsberechnung ist unzulässig.
+(4) Vor der Einleitung eines Vergabeverfahrens darf der Auftraggeber
+Markterkundungen zur Vorbereitung der Auftragsvergabe und zur
+Unterrichtung der Unternehmen über seine Auftragsvergabepläne und
+-anforderungen durchführen. Die Durchführung von Vergabeverfahren zur
+Markterkundung und zum Zwecke der Ertragsberechnung ist unzulässig.
 
 (5) Bei der Vergabe sind die Vorschriften über die Preise bei
 öffentlichen Aufträgen zu beachten.
+
+(6) Bei Vorliegen besonderer Verteidigungs- und Sicherheitsinteressen
+kann der Auftraggeber ein Vergabeverfahren einleiten, ohne dass dessen
+Finanzierung gesichert ist. Besondere Verteidigungs- und
+Sicherheitsinteressen liegen in der Regel vor, wenn der öffentliche
+Auftrag in unmittelbarem Zusammenhang steht mit
+
+1.  einer Krise,
+
+
+2.  einem mandatierten Einsatz der Bundeswehr,
+
+
+3.  einer einsatzgleichen Verpflichtung der Bundeswehr oder
+
+
+4.  einer Bündnisverpflichtung.
+
+
+
+Die nicht gesicherte Finanzierung ist in den Vergabeunterlagen
+transparent zu machen.
+
+(7) Auftraggeber dürfen Leistungen durch zentrale Beschaffungsstellen
+erwerben, auch durch solche anderer Mitgliedstaaten der Europäischen
+Union, und als zentrale Beschaffungsstellen tätig werden. Bei
+Auftraggebern, die Leistungen durch eine zentrale Beschaffungsstelle
+erwerben, wird widerleglich vermutet, dass sie Kapitel 1 des Teils 4
+des Gesetzes gegen Wettbewerbsbeschränkungen, die Vorschriften des
+Gesetzes zur Beschleunigung von Beschaffungsmaßnahmen für die
+Bundeswehr und die Vorschriften dieser Verordnung eingehalten haben,
+sofern die zentrale Beschaffungsstelle sie eingehalten hat. Soweit es
+sich bei der zentralen Beschaffungsstelle nicht um einen Auftraggeber
+in der Bundesrepublik Deutschland handelt, gilt Satz 2 entsprechend.
 
 
 ### § 11 Arten der Vergabe von Liefer- und Dienstleistungsaufträgen
@@ -592,10 +641,13 @@ ist.
             2.  friedenssichernde Maßnahmen,
 
 
-            3.  die Abwehr terroristischer Angriffe oder
+            3.  humanitäre Einsätze,
 
 
-            4.  eingetretene oder unmittelbar drohende Großschadenslagen
+            4.  die Abwehr terroristischer Angriffe oder
+
+
+            5.  eingetretene oder unmittelbar drohende Großschadenslagen
 
 
 
@@ -1255,8 +1307,8 @@ Teilnahmeanträge den Anforderungen des Anhangs VIII der Richtlinie
 (5) Neben den Hinweisen nach Absatz 1 geben die Auftraggeber in der
 Bekanntmachung an, in welcher Form Anträge auf Teilnahme am
 Vergabeverfahren oder Angebote einzureichen sind. Insbesondere können
-sie festlegen, dass die Teilnahmeanträge im Falle der elektronischen
-Übermittlung zu versehen sind mit
+sie festlegen, dass die Teilnahmeanträge oder Angebote im Falle der
+elektronischen Übermittlung zu versehen sind mit
 
 1.  einer fortgeschrittenen elektronischen Signatur,
 
@@ -1290,7 +1342,7 @@ der nachstehend festgelegten Mindestfristen insbesondere die
 Komplexität des Auftrags und die Zeit, die für die Ausarbeitung der
 Angebote erforderlich ist.
 
-[^f777502_03_BJNR150900012BJNE002100000]
+[^f777502_03_BJNR150900012BJNE002101128]
 (2) Beim nicht offenen Verfahren, im Verhandlungsverfahren mit
 Teilnahmewettbewerb und im wettbewerblichen Dialog beträgt die von den
 Auftraggebern festzusetzende Frist für den Eingang der Anträge auf
@@ -1299,7 +1351,12 @@ Bekanntmachung. In Fällen besonderer Dringlichkeit (beschleunigtes
 Verfahren) beim nicht offenen Verfahren und Verhandlungsverfahren mit
 Teilnahmewettbewerb beträgt diese Frist mindestens 15 Tage oder
 mindestens zehn Tage bei elektronischer Übermittlung
-, jeweils gerechnet vom Tag der Absendung der Bekanntmachung an.
+, jeweils gerechnet vom Tag der Absendung der Bekanntmachung an. Wird
+bei der Übermittlung an das Amt für Veröffentlichungen der
+Europäischen Union ein späterer Tag zur Veröffentlichung angegeben,
+kommt es für Fristberechnungen nicht auf den Tag der Absendung oder
+dessen Bestätigung, sondern auf den angegebenen Tag zur
+Veröffentlichung an.
 
 (3) Die von den Auftraggebern festzusetzende Angebotsfrist beim nicht
 offenen Verfahren beträgt mindestens 40 Tage, gerechnet vom Tag der
@@ -1347,7 +1404,7 @@ Erstellung des Angebots notwendig sind, Kenntnis nehmen können.
 zurückziehen. Dabei sind die für die Einreichung der Angebote
 maßgeblichen Formerfordernisse zu beachten.
 
-[^f777502_03_BJNR150900012BJNE002100000]:     *Das Muster und die Modalitäten für die elektronische Übermittlung
+[^f777502_03_BJNR150900012BJNE002101128]:     *Das Muster und die Modalitäten für die elektronische Übermittlung
     der   Bekanntmachungen   sind   unter   der   Internetadresse
     http://simap.europa.eu*              abrufbar, vergleiche Anhang VI
     Nummer 3 der Richtlinie 2009/81/EG.
@@ -1417,19 +1474,22 @@ die ordnungsgemäße Durchführung des Auftrags notwendig ist.
 
 (1) Auftraggeber müssen in der Bekanntmachung oder im
 Verhandlungsverfahren ohne Teilnahmewettbewerb in den
-Vergabeunterlagen angeben, mit welchen Nachweisen gemäß den §§ 6, 7, 8
+Vergabeunterlagen angeben, mit welchen Unterlagen gemäß den §§ 6, 7, 8
 und 23 bis 28 Unternehmen ihre Eignung und das Nichtvorliegen von
-Ausschlussgründen nachzuweisen haben. Auftraggeber dürfen von den
-Bewerbern oder Bietern zum Nachweis ihrer Eignung und für das
-Nichtvorliegen von Ausschlussgründen nur Unterlagen und Angaben
-fordern, die durch den Gegenstand des Auftrags gerechtfertigt sind.
+Ausschlussgründen nachzuweisen haben und wann welche Unterlage
+vorgelegt werden muss. Die Vorlage einer Unterlage kann mit dem
+Angebot, dem Teilnahmeantrag oder auf Anforderung des Auftraggebers
+erfolgen. Auftraggeber dürfen von den Bewerbern oder Bietern zum
+Nachweis ihrer Eignung und für das Nichtvorliegen von
+Ausschlussgründen nur Unterlagen und Angaben fordern, die durch den
+Gegenstand des Auftrags gerechtfertigt sind.
 
 (2) Soweit mit den vom Auftragsgegenstand betroffenen Verteidigungs-
-und Sicherheitsinteressen vereinbar, können Auftraggeber zulassen,
-dass Bewerber oder Bieter ihre Eignung durch die Vorlage einer
-Erklärung belegen, dass sie die vom Auftraggeber verlangten
-Eignungskriterien erfüllen und die festgelegten Nachweise auf
-Aufforderung unverzüglich beibringen können (Eigenerklärung).
+und Sicherheitsinteressen vereinbar, fordern Auftraggeber
+grundsätzlich, dass Bewerber oder Bieter ihre Eignung durch die
+Vorlage einer Erklärung belegen, dass sie die vom Auftraggeber
+verlangten Eignungskriterien erfüllen und die festgelegten Nachweise
+auf Aufforderung unverzüglich beibringen können (Eigenerklärung).
 
 (3) Erbringen Bewerber oder Bieter den Nachweis für die an die Eignung
 gestellten Mindestanforderungen nicht, werden sie im Rahmen eines
@@ -1460,20 +1520,38 @@ haben, wird dieses nicht gewertet.
 vorzulegen, es sei denn, der jeweilige Nachweis ist elektronisch
 verfügbar.
 
-(5) Im nicht offenen Verfahren und Verhandlungsverfahren mit
+(5) In Fällen des § 122 Absatz 3 Satz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen fordert der öffentliche Auftraggeber die
+Unterlagen erst nach vorläufiger Prüfung entweder der Teilnahmeanträge
+in Verfahren mit Teilnahmewettbewerb oder der Angebote in Verfahren
+ohne Teilnahmewettbewerb an. Er setzt bei Anforderung der Unterlagen
+eine angemessene Frist zur Einreichung. Versäumt ein Unternehmen die
+Einreichung innerhalb der gesetzten Frist, gelten Absatz 7 sowie § 31
+entsprechend. Soweit ein erhöhter Aufwand oder sonstige
+verfahrensbezogene Gründe entgegenstehen, kann der öffentliche
+Auftraggeber von dem in Satz 1 genannten Zeitpunkt abweichen. Eine
+Begründung für die Abweichung ist nicht erforderlich.
+
+(6) Im nicht offenen Verfahren und Verhandlungsverfahren mit
 Teilnahmewettbewerb dürfen die Vergabeunterlagen nur an geeignete
 Unternehmen übersandt werden. Im Verhandlungsverfahren ohne
 Teilnahmewettbewerb dürfen die Vergabeunterlagen an die Unternehmen
 übermittelt werden, die vom Auftraggeber unter Beachtung der §§ 6 und
 7 ausgewählt wurden.
 
-(6) Erklärungen und sonstige Unterlagen, die als Nachweis im
-Teilnahmewettbewerb oder mit dem Angebot einzureichen sind und auf
-Anforderung der Auftraggeber nicht bis zum Ablauf der maßgeblichen
-Frist vorgelegt wurden, können bis zum Ablauf einer zu bestimmenden
-Nachfrist nachgefordert werden. Werden die Nachweise und sonstigen
-Unterlagen nicht innerhalb der Nachfrist vorgelegt, ist der Bewerber
-oder Bieter auszuschließen.
+(7) Der Auftraggeber kann den Bewerber oder Bieter unter Einhaltung
+der Grundsätze der Transparenz und der Gleichbehandlung auffordern,
+unvollständige oder fehlerhafte Erklärungen oder Unterlagen zum
+Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen zu
+ergänzen, zu erläutern, zu vervollständigen oder zu korrigieren. Der
+Auftraggeber ist berechtigt, von der Nachforderung von Unterlagen
+abzusehen. Soweit der Auftraggeber plant, von der Möglichkeit nach
+Satz 2 Gebrauch zu machen, legt er dies in der Auftragsbekanntmachung
+oder den Vergabeunterlagen fest. Die Unterlagen sind vom Bewerber oder
+Bieter nach Aufforderung durch den Auftraggeber innerhalb einer von
+diesem festzulegenden angemessenen, nach dem Kalender bestimmten Frist
+vorzulegen. Die Entscheidung über und das Ergebnis der Nachforderung
+sind zu dokumentieren.
 
 
 ### § 23 Zwingender Ausschluss
@@ -1607,7 +1685,11 @@ die Vorlage
 
 (2) Können Bewerber oder Bieter aus einem berechtigten Grund die
 geforderten Nachweise nicht beibringen, so kann der Auftraggeber die
-Vorlage jedes anderen geeigneten Nachweises zulassen.
+Vorlage jedes anderen geeigneten Nachweises zulassen. Ein berechtigter
+Grund kann insbesondere auch in solchen Fällen vorliegen, in denen es
+sich bei dem Bewerber oder Bieter um ein junges Unternehmen handelt.
+Der Auftraggeber kann in den Vergabeunterlagen auf die Möglichkeit der
+Vorlage anderer Unterlagen nach Satz 1 hinweisen.
 
 (3) Bewerber oder Bieter können sich für einen bestimmten Auftrag auf
 die Leistungsfähigkeit anderer Unternehmen berufen, wenn sie
@@ -1949,7 +2031,26 @@ sorgfältig zu verwahren und vertraulich zu behandeln.
 (1) Die Angebote sind auf Vollständigkeit sowie auf fachliche und
 rechnerische Richtigkeit zu prüfen.
 
-(2) Ausgeschlossen werden:
+(2) Der Auftraggeber kann Bewerber oder Bieter, unter Einhaltung der
+Grundsätze der Transparenz und der Gleichbehandlung, auffordern, im
+Angebot fehlende Unterlagen zu übermitteln oder unvollständige oder
+fehlerhafte Unterlagen zu ergänzen, zu erläutern, zu vervollständigen
+oder zu korrigieren. Der Auftraggeber ist berechtigt, von der
+Nachforderung von Unterlagen abzusehen. Soweit der Auftraggeber plant,
+von der Möglichkeit nach Satz 2 Gebrauch zu machen, legt er dies in
+der Auftragsbekanntmachung oder den Vergabeunterlagen fest. Die
+Nachforderung von leistungsbezogenen Unterlagen, die die
+Wirtschaftlichkeitsbewertung der Angebote anhand der
+Zuschlagskriterien betreffen, ist ausgeschlossen. Dies gilt nicht für
+Preisangaben, wenn es sich um unwesentliche Einzelpositionen handelt,
+deren Einzelpreise den Gesamtpreis nicht verändern oder die
+Wertungsreihenfolge und den Wettbewerb nicht beeinträchtigen. Die
+Unterlagen sind vom Bieter nach Aufforderung durch den Auftraggeber
+innerhalb einer von diesem festzulegenden angemessenen, nach dem
+Kalender bestimmten Frist vorzulegen. Die Entscheidung über und das
+Ergebnis der Nachforderung sind zu dokumentieren.
+
+(3) Ausgeschlossen werden:
 
 1.  Angebote, die nicht die geforderten oder nachgeforderten Erklärungen
     und Nachweise enthalten;
@@ -1957,7 +2058,8 @@ rechnerische Richtigkeit zu prüfen.
 
 2.  Angebote, die nicht unterschrieben sind oder nicht mindestens versehen
     sind mit einer fortgeschrittenen elektronischen Signatur oder mit
-    einem fortgeschrittenen elektronischen Siegel;
+    einem fortgeschrittenen elektronischen Siegel, sofern eine solche
+    Signatur oder ein solches Siegel gefordert wurden;
 
 
 3.  Angebote, in denen Änderungen des Bieters an seinen Eintragungen nicht
@@ -1976,11 +2078,7 @@ rechnerische Richtigkeit zu prüfen.
     wettbewerbsbeschränkende Abrede getroffen haben;
 
 
-7.  Angebote von Bietern, die auch als Bewerber gemäß § 24 von der
-    Teilnahme am Wettbewerb hätten ausgeschlossen werden können;
-
-
-8.  Angebote, die nicht die erforderlichen Preisangaben enthalten, es sei
+7.  Angebote, die nicht die erforderlichen Preisangaben enthalten, es sei
     denn, es handelt sich um unwesentliche Einzelpositionen, deren
     Einzelpreise den Gesamtpreis nicht verändern oder die
     Wertungsreihenfolge und den Wettbewerb nicht beeinträchtigen.
@@ -1991,13 +2089,15 @@ rechnerische Richtigkeit zu prüfen.
 
 ### § 32 Nebenangebote
 
-(1) Auftraggeber können Nebenangebote in der Bekanntmachung zulassen.
-In diesem Fall geben Auftraggeber in den Vergabeunterlagen an, welche
+(1) Der Auftraggeber gibt in der Auftragsbekanntmachung oder in der
+Aufforderung zur Interessensbestätigung an, ob er Nebenangebote
+zulässt, vorschreibt oder ausschließt. Eine Begründung ist nicht
+erforderlich. Auftraggeber berücksichtigen nur Nebenangebote, die den
+in den Vergabeunterlagen festgelegten Mindestanforderungen
+entsprechen. Werden Nebenangebote zugelassen oder vorgeschrieben,
+geben Auftraggeber in den Vergabeunterlagen an, welche
 Mindestanforderungen für Nebenangebote gelten und in welcher Art und
-Weise Nebenangebote einzureichen sind. Auftraggeber berücksichtigen
-nur Nebenangebote, die den in den Vergabeunterlagen festgelegten
-Mindestanforderungen entsprechen. Nebenangebote sind auszuschließen,
-wenn sie in der Bekanntmachung nicht ausdrücklich zugelassen sind.
+Weise Nebenangebote einzureichen sind.
 
 (2) Auftraggeber dürfen ein Nebenangebot nicht deshalb zurückweisen,
 weil es im Falle des Zuschlags zu einem Dienstleistungsauftrag
@@ -2150,10 +2250,16 @@ teilweise aufgehoben werden, wenn
 2.  sich die Grundlagen der Vergabeverfahren wesentlich geändert haben,
 
 
-3.  sie kein wirtschaftliches Ergebnis gehabt haben oder
+3.  sie kein wirtschaftliches Ergebnis gehabt haben,
 
 
-4.  andere schwerwiegende Gründe bestehen.
+4.  ein Vergabeverfahren gemäß § 10 Absatz 6 Satz 2 ohne bereits
+    gesicherte Finanzierung eingeleitet wurde und die Finanzierung des
+    öffentlichen Auftrags endgültig nicht gesichert ist, ohne dass dies
+    dem Auftraggeber zuzurechnen ist, oder
+
+
+5.  andere schwerwiegende Gründe bestehen.
 
 
 
