@@ -167,26 +167,27 @@ sowie in den Bereichen der gemeinsamen Marktorganisation für
 Fischereierzeugnisse der Europäischen Union und der Strukturpolitik
 der Europäischen Union für die Fischwirtschaft, bleiben unberührt.
 
-(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates auf
-Antrag eines Landes die Zuständigkeit der Bundesanstalt zur
-Überwachung der Seefischerei nach Absatz 1 in Verbindung mit Nummer 1
-der Anlage auf das in Satz 2 bezeichnete Gebiet des antragstellenden
-Landes auszudehnen, soweit dies für eine einheitliche
-Überwachungstätigkeit förderlich ist. Das Gebiet im Sinne des Satzes 1
-ist durch die seewärtige Grenze des Küstenmeeres landwärts bis zu
-einer Linie, die drei Seemeilen von der Basislinie entfernt ist,
-bestimmt.
+(4) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates auf Antrag eines Landes die Zuständigkeit der
+Bundesanstalt zur Überwachung der Seefischerei nach Absatz 1 in
+Verbindung mit Nummer 1 der Anlage auf das in Satz 2 bezeichnete
+Gebiet des antragstellenden Landes auszudehnen, soweit dies für eine
+einheitliche Überwachungstätigkeit förderlich ist. Das Gebiet im Sinne
+des Satzes 1 ist durch die seewärtige Grenze des Küstenmeeres
+landwärts bis zu einer Linie, die drei Seemeilen von der Basislinie
+entfernt ist, bestimmt.
 
-(5) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Zuständigkeit der Bundesanstalt auf eine in der Rechtsverordnung näher
-zu bezeichnende Aufgabe im Rahmen des Fischereirechts der Europäischen
-Union auszudehnen, soweit dies für eine einheitliche Anwendung und
-Durchsetzung des Fischereirechts der Europäischen Union förderlich ist
-und die zusätzliche Aufgabe in einem sachlichen Zusammenhang zu einer
-von der Bundesanstalt nach Absatz 1 in Verbindung mit der Anlage oder
-nach § 6 wahrzunehmenden Aufgabe steht.
+(5) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates die Zuständigkeit der Bundesanstalt auf eine in der
+Rechtsverordnung näher zu bezeichnende Aufgabe im Rahmen des
+Fischereirechts der Europäischen Union auszudehnen, soweit dies für
+eine einheitliche Anwendung und Durchsetzung des Fischereirechts der
+Europäischen Union förderlich ist und die zusätzliche Aufgabe in einem
+sachlichen Zusammenhang zu einer von der Bundesanstalt nach Absatz 1
+in Verbindung mit der Anlage oder nach § 6 wahrzunehmenden Aufgabe
+steht.
 
 (6) Bei Festlegung von Art und Umfang der Maßnahmen zur Überwachung
 der Einhaltung von fischereilichen Rechtsvorschriften, die unmittelbar
@@ -197,23 +198,64 @@ Ergebnisse der Überwachung sind dem Bundesamt für Naturschutz zu
 übermitteln, soweit dies für dessen Aufgabenerfüllung nach Satz 1
 erforderlich ist.
 
-(7) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-Behörden der Zollverwaltung oder der Bundespolizei ganz oder teilweise
-die Überwachung und Unterstützung der Seefischerei (Fischereiaufsicht)
-seewärts der äußeren Begrenzung des Küstenmeeres der Bundesrepublik
-Deutschland zu übertragen und dabei die Zusammenarbeit mit der
-Bundesanstalt zu regeln. Rechtsverordnungen nach Satz 1 bedürfen im
-Falle der Zollverwaltung des Einvernehmens des Bundesministeriums der
-Finanzen und im Falle der Bundespolizei des Einvernehmens des
-Bundesministeriums des Innern, für Bau und Heimat. In der
+(7) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates Behörden der Zollverwaltung oder der Bundespolizei ganz
+oder teilweise die Überwachung und Unterstützung der Seefischerei
+(Fischereiaufsicht) seewärts der äußeren Begrenzung des Küstenmeeres
+der Bundesrepublik Deutschland zu übertragen und dabei die
+Zusammenarbeit mit der Bundesanstalt zu regeln. Rechtsverordnungen
+nach Satz 1 bedürfen im Falle der Zollverwaltung des Einvernehmens des
+Bundesministeriums der Finanzen und im Falle der Bundespolizei des
+Einvernehmens des Bundesministeriums des Innern. In der
 Rechtsverordnung nach Satz 1 kann die Fischereiaufsicht auch auf das
 in einer Rechtsverordnung nach Absatz 4 bezeichnete Gebiet nach
 Anhörung des jeweiligen Landes übertragen werden. Soweit Behörden der
 Zollverwaltung oder der Bundespolizei Aufgaben nach Satz 1 übertragen
 werden, unterstehen sie der Fachaufsicht des Bundesministeriums für
-Ernährung und Landwirtschaft. Die Zuständigkeiten und Befugnisse der
-Bundesanstalt bleiben unberührt.
+Landwirtschaft, Ernährung und Heimat. Die Zuständigkeiten und
+Befugnisse der Bundesanstalt bleiben unberührt.
+
+
+## § 2a Fanglizenzen; Verordnungsermächtigung
+
+(1) Einer Person ohne Wohnsitz oder Sitz im Inland wird eine
+Fanglizenz nur erteilt, wenn sie der Bundesanstalt eine Person nach
+Absatz 3 (beauftragte Person) benennt.
+
+(2) Dem Fanglizenzinhaber ist die gewerbliche Nutzung lebender
+aquatischer Ressourcen mit einem Fischereifahrzeug untersagt, wenn
+
+1.  er über keinen Wohnsitz oder Sitz im Inland verfügt und
+
+
+2.  für ihn keine beauftragte Person benannt ist.
+
+
+
+Im Falle des Satzes 1 kann die Bundesanstalt eine Fanglizenz aufheben;
+die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
+Der Fanglizenzinhaber hat der Bundesanstalt den Eintritt eines
+Umstandes nach Satz 1 Nummer 1 oder 2 unverzüglich anzuzeigen.
+
+(3) Eine beauftragte Person ist eine Person mit Sitz oder Wohnsitz im
+Inland, die bevollmächtigt ist, den Fanglizenzinhaber in allen den
+Fischereibetrieb betreffenden Angelegenheiten zu vertreten. Die
+beauftragte Person ist Zustellungsadressatin für alle
+verwaltungsrechtlichen Angelegenheiten; sie ist verpflichtet,
+Maßnahmen der zuständigen Fischereibehörde und der sonstigen
+zuständigen Stellen der Fischereiverwaltung unverzüglich dem
+Fanglizenzinhaber mitzuteilen. Die beauftragte Person kann auch die
+beauftragte Person im Sinne von § 2 Absatz 4 des Flaggenrechtsgesetzes
+sein.
+
+(4) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates zur Durchführung des Absatzes 1 in Verbindung mit Absatz 3
+den Nachweis der Verantwortlichkeit der beauftragten Person und die
+hierfür erforderlichen Anzeigepflichten zu regeln sowie die sich bei
+Wegfall dieses Nachweises ergebenden Folgen für die Fanglizenz zu
+bestimmen.
 
 
 ## § 3 Fangerlaubnisse
@@ -241,12 +283,12 @@ Seefischerei mit Fischereifahrzeugen ausüben will, die bereits in den
 Jahren 1986 oder 1987 auf Grund einer Fangerlaubnis betrieben wurden
 oder deren Bau oder Anschaffung mit Mitteln des Bundes oder der Länder
 gefördert wurde oder wird. Abweichend von Satz 4 kann eine
-Fangerlaubnis mit Zustimmung des Bundesministeriums für Ernährung und
-Landwirtschaft für den Betrieb eines Fischereifahrzeuges erteilt
-werden,
+Fangerlaubnis mit Zustimmung des Bundesministeriums für
+Landwirtschaft, Ernährung und Heimat für den Betrieb eines
+Fischereifahrzeuges erteilt werden,
 
-1.  für das die Befugnis zum Führen der Bundesflagge gemäß § 11 Abs. 1 des
-    Flaggenrechtsgesetzes verliehen wurde,
+1.  für das die Befugnis zum Führen der Bundesflagge gemäß § 11 Absatz 1
+    oder Absatz 2 des Flaggenrechtsgesetzes verliehen wurde,
 
 
 2.  das ein Fahrzeug ersetzt, welches in Totalverlust geraten ist, sofern
@@ -418,13 +460,14 @@ unterliegen.
 
 ## § 9a Datenverarbeitung durch Zollverwaltung und Bundespolizei
 
-(1) Soweit das Bundesministerium der Zollverwaltung oder der
-Bundespolizei durch Rechtsverordnung die Überwachung der Seefischerei
-nach § 2 Absatz 7 übertragen hat, sind die Zollverwaltung oder die
-Bundespolizei berechtigt, Daten über Position, Flagge, Name,
-Rufkennzeichen und Tätigkeit von Fischereifahrzeugen durch
-Sichtkontrollen zu erheben, zu speichern und unverzüglich an die
-Bundesanstalt zu übermitteln. Dies gilt, soweit
+(1) Soweit das Bundesministerium für Landwirtschaft, Ernährung und
+Heimat der Zollverwaltung oder der Bundespolizei durch
+Rechtsverordnung die Überwachung der Seefischerei nach § 2 Absatz 7
+übertragen hat, sind die Zollverwaltung oder die Bundespolizei
+berechtigt, Daten über Position, Flagge, Name, Rufkennzeichen und
+Tätigkeit von Fischereifahrzeugen durch Sichtkontrollen zu erheben, zu
+speichern und unverzüglich an die Bundesanstalt zu übermitteln. Dies
+gilt, soweit
 
 1.  die Daten erforderlich sind zur Überwachung der Seefischerei in
     Fanggebieten, die nicht von dem jeweiligen Schiffssicherheitszeugnis
@@ -862,11 +905,15 @@ folgenden Daten zu erheben und zu speichern:
     seeschifffahrtsrechtlichen Vorschriften über den Erwerb der
     Befähigungszeugnisse für nautische Schiffsoffiziere,
     Nebenbestimmungen, Datum der Rechtskraft oder Bestandskraft der
-    Entscheidung und
+    Entscheidung,
 
 
 13. die nationale Referenz-Inspektionsberichtsnummer und das dazugehörige
-    Aktenzeichen der jeweils zuständigen Behörde.
+    Aktenzeichen der jeweils zuständigen Behörde sowie
+
+
+14. die Angabe, dass ein Verstoß als schwer einzustufen ist, soweit dies
+    nicht bereits aus den Angaben nach Nummer 9 hervorgeht.
 
 
 
@@ -966,11 +1013,12 @@ Bundesanzeiger zu veröffentlichen.
 
 ## § 15 Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft wird zur
-Durchführung dieses Gesetzes, zur Durchführung des Fischereirechts der
-Europäischen Union oder zur Erfüllung von Verpflichtungen aus
-internationalen Fischereiübereinkommen ermächtigt, durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+(1) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird zur Durchführung dieses Gesetzes, zur Durchführung des
+Fischereirechts der Europäischen Union oder zur Erfüllung von
+Verpflichtungen aus internationalen Fischereiübereinkommen ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf,
 
 1.  die Durchführung der Überwachung der Einfuhr, Ausfuhr und
     Wiederausfuhr von Fischereierzeugnissen gemäß Kapitel III der
@@ -1075,8 +1123,8 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 zu regeln.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
-zu den in Absatz 1 bezeichneten Zwecken ermächtigt, durch
+(2) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ferner zu den in Absatz 1 bezeichneten Zwecken ermächtigt, durch
 Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
 1.  eine Liste der bezeichneten Häfen oder küstennahen Orte,
@@ -1196,9 +1244,9 @@ In Rechtsverordnungen nach Satz 1 Nummer 6 ist vorzusehen, dass
 Ausnahmen von Wiegeverpflichtungen ermöglicht werden, soweit dies mit
 dem Fischereirecht der Europäischen Union vereinbar ist.
 
-(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
-Erhaltung und wirtschaftlichen Nutzung von Fischbeständen, zur
+(3) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+zur Erhaltung und wirtschaftlichen Nutzung von Fischbeständen, zur
 Durchführung des Fischereirechts der Europäischen Union oder zur
 Erfüllung von Verpflichtungen aus internationalen Fischerei-
 Übereinkommen
@@ -1258,11 +1306,11 @@ Erfüllung von Verpflichtungen aus internationalen Fischerei-
 
 
 
-(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
-Überwachung und zur Durchführung des Fischereirechts der Europäischen
-Union oder zur Erfüllung von Verpflichtungen aus internationalen
-Fischerei-Übereinkommen
+(4) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+zur Überwachung und zur Durchführung des Fischereirechts der
+Europäischen Union oder zur Erfüllung von Verpflichtungen aus
+internationalen Fischerei-Übereinkommen
 
 1.  vorzuschreiben, dass Überwachungsmaßnahmen zu dulden und zu
     unterstützen sind, Weisungen eines Kontrollbeamten oder eines
@@ -1286,10 +1334,10 @@ dringender Gefahren für die öffentliche Sicherheit und Ordnung
 vorgesehen werden; insoweit wird das Grundrecht der Unverletzlichkeit
 der Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
 
-(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-technische Beschreibungen von Fanggerät zu erlassen. In der
-Rechtsverordnung sind die geografischen Gebiete, in denen die
+(5) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates technische Beschreibungen von Fanggerät zu erlassen. In
+der Rechtsverordnung sind die geografischen Gebiete, in denen die
 technische Beschreibung des jeweiligen Fanggeräts gilt, zu bezeichnen.
 
 
@@ -1398,7 +1446,14 @@ befischt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  ohne Erlaubnis nach § 3 Absatz 1 Satz 1 die Seefischerei ausübt,
+1.  entgegen § 2a Absatz 2 Satz 1 eine aquatische Ressource nutzt,
+
+
+1a. entgegen § 2a Absatz 2 Satz 3 eine Anzeige nicht, nicht richtig, nicht
+    rechtzeitig oder nicht vollständig erstattet,
+
+
+1b. ohne Erlaubnis nach § 3 Absatz 1 Satz 1 die Seefischerei ausübt,
 
 
 2.  einer vollziehbaren Auflage nach § 3 Absatz 1 Satz 6 zuwiderhandelt,
@@ -1585,26 +1640,26 @@ befischt.
 
 
 (4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer
-1 bis 3, 4 Buchstabe a, Nummer 7 bis 10 und 11 Buchstabe a und des
+1, 1b bis 3, 4 Buchstabe a, Nummer 7 bis 10 und 11 Buchstabe a und des
 Absatzes 3 mit einer Geldbuße bis zu einhunderttausend Euro, in den
 übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet
 werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer
-1 bis 5, 8 bis 10, 11 und des Absatzes 3 Nummer 1 bis 3, 6 und 7 auch
-dann geahndet werden, wenn sie in der Ausschließlichen Wirtschaftszone
-auf einem Schiff begangen wird, das nicht berechtigt ist, die
-Bundesflagge zu führen.
+1, 1b bis 5, 8 bis 10, 11 und des Absatzes 3 Nummer 1 bis 3, 6 und 7
+auch dann geahndet werden, wenn sie in der Ausschließlichen
+Wirtschaftszone auf einem Schiff begangen wird, das nicht berechtigt
+ist, die Bundesflagge zu führen.
 
-(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
+(6) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union erforderlich
 ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2
-Nummer 11 geahndet werden können. Das Bundesministerium für Ernährung
-und Landwirtschaft kann die Ermächtigung nach Satz 1 durch
-Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise
-auf die Bundesanstalt übertragen.
+Nummer 11 geahndet werden können. Das Bundesministerium für
+Landwirtschaft, Ernährung und Heimat kann die Ermächtigung nach Satz 1
+durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder
+teilweise auf die Bundesanstalt übertragen.
 
 (7) Gegenstände, auf die sich eine Ordnungswidrigkeit nach Absatz 1, 2
 oder Absatz 3 bezieht oder die zu ihrer Begehung oder Vorbereitung
@@ -1638,13 +1693,13 @@ bezeichnete Handlung beharrlich wiederholt.
 (1) Die Bundesanstalt kann zur wirksamen Anwendung und Durchführung
 der Vorschriften des Fischereirechts der Europäischen Union gegenüber
 anderen Mitgliedstaaten, Drittländern und den Stellen der Europäischen
-Union im Einvernehmen mit dem Bundesministerium für Ernährung und
-Landwirtschaft Amtshandlungen vornehmen. Wenn und soweit die
+Union im Einvernehmen mit dem Bundesministerium für Landwirtschaft,
+Ernährung und Heimat Amtshandlungen vornehmen. Wenn und soweit die
 Zuständigkeit der Länder berührt ist, soll mit den betroffenen Ländern
 Einvernehmen hergestellt werden.
 
 (2) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums für
-Ernährung und Landwirtschaft Meldungen, Berichte, Daten,
+Landwirtschaft, Ernährung und Heimat Meldungen, Berichte, Daten,
 Stellungnahmen, Stichprobenpläne oder andere Informationen erstellen
 oder zusammenstellen und an die zuständigen Stellen der Europäischen
 Union übermitteln, wenn und soweit die Bundesrepublik Deutschland auf
@@ -1663,7 +1718,7 @@ unverzüglich.
 Die Länder können zur Regelung der Seefischerei oder zur Durchführung
 des Fischereirechts der Europäischen Union weitere Vorschriften
 erlassen, soweit dieses Gesetz keine Regelung trifft oder das
-Bundesministerium für Ernährung und Landwirtschaft von seinen
+Bundesministerium für Landwirtschaft, Ernährung und Heimat von seinen
 Ermächtigungen nach § 15 keinen Gebrauch macht. Sie können im
 Interesse der auf Dauer bestmöglichen Nutzung und Erhaltung der
 Fischbestände die Ausübung des Fischfangs Beschränkungen unterwerfen,
@@ -1674,11 +1729,6 @@ Union zu halten.
 
 ## § 22 (weggefallen)
 
-
-
-## § 22a Übergangs- und Anwendungsbestimmungen
-
-§ 14b ist ab dem 1. Juli 2018 anzuwenden.
 
 
 ## § 23 (Inkrafttreten, Außerkrafttreten)
