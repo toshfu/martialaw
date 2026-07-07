@@ -22,6 +22,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Abs. 1 G v. 10.2.2026 I Nr. 39
 
+Änderung durch
+:   Art. 11 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -404,7 +407,21 @@ Daten zu erheben:
 (3) Das meldende deutsche Finanzinstitut hat die Daten nach den
 Absätzen 1 und 2 bis zum 31. Juli des folgenden Kalenderjahres nach
 amtlich vorgeschriebenem Datensatz im Wege der Datenfernübertragung an
-das Bundeszentralamt für Steuern zu übermitteln.
+das Bundeszentralamt für Steuern zu übermitteln. Liegt dem meldenden
+deutschen Finanzinstitut für eine spezifizierte Person der Vereinigten
+Staaten von Amerika die US-amerikanische Steueridentifikationsnummer
+nicht vor, so können zusätzlich gemeldet werden:
+
+1.  die Steueridentifikationsnummer oder das funktionale Äquivalent jedes
+    Ansässigkeitsstaates, wenn die elektronisch durchsuchbaren
+    Kontoinformationen des meldenden deutschen Finanzinstituts diese
+    Angaben enthalten, und
+
+
+2.  das Geburtsdatum.
+
+
+
 
 (4) Von der Meldung können zudem die in § 5 Absatz 3 aufgeführten
 Konten ausgenommen werden, selbst wenn diese als US-amerikanische
