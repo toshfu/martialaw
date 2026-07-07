@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 22 G v. 22.12.2025 I Nr. 349
 
+Änderung durch
+:   Art. 1 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen
 
@@ -2771,9 +2774,9 @@ Deckungszusage angegeben ist, die Anerkennung mit.
 3.  Namen und Berufe der Gesellschafter, der Mitglieder der
     Geschäftsführungs- und Aufsichtsorgane sowie aller mittelbar
     beteiligten Personen; sofern Gesellschafter eine anerkannte oder
-    zugelassene Gesellschaft nach § 55a Absatz 1 Satz 1 ist, müssen Name
-    und Beruf der an ihr mittelbar beteiligten Personen nicht angegeben
-    werden.
+    zugelassene Gesellschaft nach § 55a Absatz 1 Satz 1 Nummer 1 und 2
+    ist, müssen Name und Beruf der an ihr mittelbar beteiligten Personen
+    nicht angegeben werden.
 
 
 
@@ -2891,15 +2894,19 @@ Abwicklers haften die Gesellschafter als Gesamtschuldner.
 Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter
 oder der Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es
 in den Fällen des Satzes 1 auf die Gesellschafter und die
-Geschäftsführung der beteiligten Gesellschaft an. Haben sich
-Steuerberater und Steuerbevollmächtigte, Angehörige eines der in § 50
-Absatz 1 Satz 1 genannten Berufe sowie Berufsausübungsgesellschaften,
-die die Voraussetzungen dieses Unterabschnitts erfüllen, zu einer
-Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck
-ausschließlich das Halten von Anteilen an einer anerkannten
-Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der
-Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der
-Gesellschaft bürgerlichen Rechts zugerechnet.
+Geschäftsführung der beteiligten Gesellschaft an. In den Fällen des
+Satzes 1 Nummer 3 und 4 müssen unmittelbar und mittelbar beteiligte
+Gesellschaften mit Ausnahme des § 55b Absatz 3 die
+Anerkennungsvoraussetzung des § 53 Absatz 2 Satz 1 Nummer 1 erfüllen.
+Haben sich Steuerberater und Steuerbevollmächtigte, Angehörige eines
+der in § 50 Absatz 1 Satz 1 genannten Berufe sowie
+Berufsausübungsgesellschaften, die die Voraussetzungen dieses
+Unterabschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts
+zusammengeschlossen, deren Zweck ausschließlich das Halten von
+Anteilen an einer anerkannten Berufsausübungsgesellschaft ist, so
+werden ihnen die Anteile an der Berufsausübungsgesellschaft im
+Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts
+zugerechnet.
 
 (2) Die Übertragung von Gesellschaftsanteilen muss an die Zustimmung
 der Gesellschafterversammlung gebunden sein. Bei Aktiengesellschaften
@@ -4334,24 +4341,43 @@ vorgenommen werden.
 
 #### § 76e Anzeigepflichten
 
-(1) Im Januar eines jeden Kalenderjahres haben die Mitglieder des zur
-gesetzlichen Vertretung berufenen Organs oder die
-vertretungsberechtigten Gesellschafter einer
-Berufsausübungsgesellschaft sowie die Gesellschafter einer
-Gesellschaft bürgerlichen Rechts im Sinne des § 55a Absatz 1 Satz 3
-eine von ihnen unterschriebene Liste der Gesellschafter bei der
-zuständigen Steuerberaterkammer einzureichen. Aus dieser Liste müssen
-Name, Vornamen, Beruf, Wohnort und berufliche Niederlassung der
-Gesellschafter sowie deren Aktien, Stammeinlagen oder
-Beteiligungsverhältnisse ersichtlich sein. Sind seit Einreichung der
-letzten Liste keine Veränderungen hinsichtlich der Person oder des
-Berufs der Gesellschafter und des Umfangs der Beteiligung eingetreten,
-so genügt die Einreichung einer entsprechenden Erklärung.
+(1) Die Mitglieder des zur gesetzlichen Vertretung berufenen Organs
+oder die vertretungsberechtigten Gesellschafter einer
+Berufsausübungsgesellschaft haben der zuständigen Steuerberaterkammer
+jede Änderung eines unmittelbar oder mittelbar beteiligten
+Gesellschafters unverzüglich anzuzeigen, wenn eine anerkannte
+Wirtschaftsprüfungsgesellschaft oder eine anerkannte
+Buchprüfungsgesellschaft an der Berufsausübungsgesellschaft beteiligt
+ist.
 
-(2) Absatz 1 gilt in den Fällen des § 154 Absatz 2 Satz 1
-entsprechend.
+(2) Die Anzeige nach Absatz 1 hat folgende Angaben zu enthalten:
 
-(3) Steuerberater und Steuerbevollmächtigte, die Mitglied eines
+1.  bei natürlichen Personen: Familienname, Vorname oder Vornamen, Beruf,
+    Wohnort, berufliche Niederlassung;
+
+
+2.  bei juristischen Personen oder rechtsfähigen Personengesellschaften:
+    deren Name oder Firma, deren Sitz und, sofern gesetzlich vorgesehen,
+    das für sie zuständige Register und die Registernummer;
+
+
+3.  Aktien, Stammeinlagen oder Beteiligungsverhältnisse der
+    Gesellschafter;
+
+
+4.  in Fällen eines Wechsels eines mittelbaren Gesellschafters zusätzlich
+    eine Übersicht über die Beteiligungsstruktur von der
+    Berufsausübungsgesellschaft bis zu dem mittelbaren Gesellschafter, in
+    dessen Person ein Wechsel stattfindet.
+
+
+
+
+(3) Die zuständige Steuerberaterkammer kann zusätzlich zur Anzeige
+nach Absatz 1 geeignete Nachweise einschließlich eines Registerauszugs
+verlangen.
+
+(4) Steuerberater und Steuerbevollmächtigte, die Mitglied eines
 Geschäftsführungs- oder Aufsichtsorgans einer
 Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder
 der Patentanwaltsordnung sind, haben dies der Steuerberaterkammer
@@ -6832,9 +6858,9 @@ Aufgaben auf eine andere Körperschaft des öffentlichen Rechts
 
 (2) Absatz 1 Satz 3 und 4 gilt auch für unmittelbar oder mittelbar an
 Berufsausübungsgesellschaften beteiligte Gesellschaften, wenn sie
-nicht die Kapitalbindungsvorschriften des §§ 49 und 50 dieses Gesetzes
-oder des § 28 Abs. 4 der Wirtschaftsprüferordnung erfüllen. Auf Antrag
-kann auf Grund einer von der zuständigen Steuerberaterkammer erteilten
+nicht die Kapitalbindungsvorschrift des § 55a dieses Gesetzes oder des
+§ 28 Absatz 4 der Wirtschaftsprüferordnung erfüllen. Auf Antrag kann
+auf Grund einer von der zuständigen Steuerberaterkammer erteilten
 Ausnahmegenehmigung von der Anwendung des Satzes 1 abgesehen werden,
 wenn
 
