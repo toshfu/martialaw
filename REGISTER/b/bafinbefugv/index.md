@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.2.2026 I Nr. 52
-
-Änderung durch
-:   Art. 27 Abs. 3 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 27 Abs. 3 G v. 25.3.2026 I Nr. 81
 
 
 ## Eingangsformel
