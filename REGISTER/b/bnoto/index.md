@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.12.2025 I Nr. 320
-
-Änderung durch
-:   Art. 1 G v. 18.6.2026 I Nr. 183 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 18.6.2026 I Nr. 183
 
 
 ## Teil 1 - Das Amt des Notars
@@ -62,18 +59,24 @@ bestellt (Anwaltsnotare).
 
 #### § 4 Bedürfnis für die Bestellung eines Notars
 
-Es werden so viele Notare bestellt, wie es den Erfordernissen einer
-geordneten Rechtspflege entspricht. Dabei sind insbesondere das
+(1) Es werden so viele Notare bestellt, wie es den Erfordernissen
+einer geordneten Rechtspflege entspricht. Dabei sind insbesondere das
 Bedürfnis nach einer angemessenen Versorgung der Rechtsuchenden mit
 notariellen Leistungen und die Wahrung einer geordneten Altersstruktur
 der Angehörigen des Berufs zu berücksichtigen.
+
+(2) Bei der Ermittlung des Bedürfnisses an Stellen für Anwaltsnotare
+sind auch diejenigen Stellen zu berücksichtigen, deren Amtsinhaber das
+70\. Lebensjahr im laufenden oder folgenden Kalenderjahr vollenden oder
+bei denen eine nach den §§ 48b und 48c verlängerte Amtszeit in diesem
+Zeitraum endet.
 
 
 #### § 4a Bewerbung
 
 (1) Notarstellen sind auszuschreiben. Dies gilt nicht bei erneuten
-Bestellungen nach Amtsniederlegungen im Rahmen des § 48b Absatz 2 Satz
-1 oder des § 48c Absatz 3 Satz 1.
+Bestellungen nach Amtsniederlegungen im Rahmen des § 48d Absatz 2 Satz
+1 oder des § 48e Absatz 3 Satz 1.
 
 (2) Bewerbungen sind innerhalb der in der Ausschreibung gesetzten oder
 der von der Landesjustizverwaltung allgemein bekanntgegebenen Frist
@@ -152,53 +155,72 @@ Bewerbungsfrist
     Auftraggeber rechtsanwaltlich tätig war,
 
 
-2.  die Tätigkeit nach Nummer 1 seit mindestens drei Jahren ohne
+2.  die Tätigkeit nach Nummer 1 seit mindestens zwei Jahren ohne
     Unterbrechung in dem vorgesehenen Amtsbereich ausübt,
 
 
 3.  die notarielle Fachprüfung nach § 7a bestanden hat und
 
 
-4.  ab dem auf das Bestehen der notariellen Fachprüfung folgenden
-    Kalenderjahr im Umfang von jährlich mindestens 15 Zeitstunden an
+4.  im Umfang von mindestens 15 Zeitstunden je vollem Kalenderjahr, das
+    auf das Bestehen der notariellen Fachprüfung gefolgt ist, an
     notarspezifischen Fortbildungsveranstaltungen der Notarkammern oder
     der Berufsorganisationen teilgenommen hat.
 
 
 
+Sind zwischen dem Bestehen der notariellen Fachprüfung und dem Ablauf
+der Bewerbungsfrist mehr als fünf volle Kalenderjahre vergangen, so
+ist es abweichend von Satz 1 Nummer 4 ausreichend, wenn in den letzten
+fünf Jahren vor dem Ablauf der Bewerbungsfrist an notarspezifischen
+Fortbildungsveranstaltungen im Umfang von insgesamt 75 Zeitstunden
+teilgenommen wurde.
 
 (2) Bei der Tätigkeit nach Absatz 1 Nummer 1 und 2 bleiben
 Unterbrechungen auf Grund von Ereignissen des täglichen Lebens außer
-Betracht. Auf Antrag werden auf die Tätigkeit nach Absatz 1 Nummer 1
-Unterbrechungen oder Einschränkungen der Tätigkeit wegen einer
-Schwangerschaft oder wegen der Betreuung von Kindern oder
-pflegebedürftigen nahen Angehörigen (§ 7 Absatz 3 des
-Pflegezeitgesetzes) bis zu einer Gesamtdauer von einem Jahr
-angerechnet. Für die Tätigkeit nach Absatz 1 Nummer 2 gelten die in
-Satz 2 genannten Zeiten für die Dauer von bis zu einem Jahr nicht als
-Unterbrechung.
+Betracht.
 
-(3) Von der Voraussetzung nach Absatz 1 Nummer 2 kann insbesondere
-abgesehen werden, wenn keine Bewerbung dieser Voraussetzung genügt,
-jedoch eine sich bewerbende Person die Tätigkeit nach Absatz 1 Nummer
-1 jeweils ohne Unterbrechung entweder seit mindestens zwei Jahren in
-dem vorgesehenen Amtsbereich oder seit mindestens drei Jahren in einem
-Amtsgerichtsbezirk ausübt, der innerhalb desselben Landes an den
-Amtsgerichtsbezirk angrenzt, in dem die ausgeschriebene Notarstelle
-gelegen ist. Absatz 2 gilt entsprechend.
+(3) Auf Antrag werden auf die Tätigkeit nach Absatz 1 Satz 1 Nummer 1
+Unterbrechungen oder Einschränkungen der Tätigkeit wegen der folgenden
+Zeiten bis zu einer Gesamtdauer von einem Jahr angerechnet:
 
-(4) Die Bestellung zum Anwaltsnotar setzt zudem eine hinreichende
+1.  Zeiten von Beschäftigungsverboten nach den §§ 3 bis 6, 10 Absatz 1, §
+    13 Absatz 1 Nummer 3 und § 16 des Mutterschutzgesetzes,
+
+
+2.  Zeiten der Betreuung von Kindern nach § 15 des Bundeselterngeld- und
+    Elternzeitgesetzes und
+
+
+3.  Zeiten der Betreuung von pflegebedürftigen nahen Angehörigen nach den
+    §§ 2 und 4 Absatz 1 Satz 1 und 3 in Verbindung mit § 7 Absatz 3 des
+    Pflegezeitgesetzes.
+
+
+
+
+(4) Die in Absatz 3 genannten Zeiten gelten nicht als Unterbrechung im
+Sinne von Absatz 1 Satz 1 Nummer 2.
+
+(5) Von der Voraussetzung nach Absatz 1 Satz 1 Nummer 2 kann
+insbesondere abgesehen werden, wenn keine Bewerbung diese
+Voraussetzung erfüllt, jedoch eine sich bewerbende Person die
+Tätigkeit nach Absatz 1 Satz 1 Nummer 1 seit mindestens zwei Jahren
+ohne Unterbrechung in einem Amtsgerichtsbezirk ausübt, der innerhalb
+desselben Landes an den Amtsgerichtsbezirk angrenzt, in dem die
+ausgeschriebene Notarstelle gelegen ist. Die Absätze 2 bis 4 gelten
+entsprechend.
+
+(6) Die Bestellung zum Anwaltsnotar setzt zudem eine hinreichende
 Vertrautheit mit der notariellen Berufspraxis voraus. Diese ist in der
 Regel gegeben, wenn nach Bestehen der notariellen Fachprüfung 160
 Stunden Praxisausbildung bei einem Notar durchlaufen wurden, der von
 der für den vorgesehenen Amtsbereich zuständigen Notarkammer bestimmt
-wurde. Die Praxisausbildung kann um bis zu 80 Stunden verkürzt werden,
-wenn vergleichbare Erfahrungen durch eine Tätigkeit als
-Notarvertretung oder als Notariatsverwalter oder durch die
-erfolgreiche Teilnahme an Praxislehrgängen der Notarkammern oder der
-Berufsorganisationen erworben wurden. Die Einzelheiten zu den Sätzen 1
-bis 3 regelt die Notarkammer in einer Ausbildungsordnung, die der
-Genehmigung der Landesjustizverwaltung bedarf.
+wurde. An die Stelle der Praxisausbildung nach Satz 2 können
+Tätigkeiten als Notarvertretung oder als Notariatsverwalter treten.
+Die Einzelheiten zu den Sätzen 1 bis 3 regelt die Notarkammer in einer
+Ausbildungsordnung, die der Genehmigung der Landesjustizverwaltung
+bedarf.
 
 
 #### § 6 Auswahl bei mehreren geeigneten Personen; Verordnungsermächtigung
@@ -315,9 +337,8 @@ entlassen werden, wenn er
 
 #### § 7a Notarielle Fachprüfung; Verordnungsermächtigung
 
-(1) Zur notariellen Fachprüfung wird auf Antrag zugelassen, wer seit
-drei Jahren zur Rechtsanwaltschaft zugelassen ist und die Befähigung
-zum Richteramt nach dem Deutschen Richtergesetz besitzt.
+(1) Zur notariellen Fachprüfung wird auf Antrag zugelassen, wer die
+Befähigung zum Richteramt nach dem Deutschen Richtergesetz besitzt.
 
 (2) Die notarielle Fachprüfung dient dem Nachweis, dass und in welchem
 Grad ein Rechtsanwalt für die Ausübung des notariellen Amtes als
@@ -348,7 +369,7 @@ Fachprüfung ist bestanden, wenn der Prüfling mindestens die
 Gesamtpunktzahl 4,00 erreicht hat.
 
 (7) Ist die Prüfung nicht bestanden oder für nicht bestanden erklärt
-worden, kann sie einmal wiederholt werden. Eine bestandene Prüfung
+worden, kann sie zweimal wiederholt werden. Eine bestandene Prüfung
 kann mit dem Ziel der Notenverbesserung einmal wiederholt werden.
 
 
@@ -431,13 +452,19 @@ Notenverbesserung erteilt.
 
 #### § 7e Rücktritt; Versäumnis
 
-(1) Die Prüfung gilt als nicht bestanden, wenn der Prüfling ohne
-genügende Entschuldigung nach der Zulassung zur Prüfung zurücktritt,
-eine Aufsichtsarbeit nicht oder nicht rechtzeitig abgibt oder zum
-Termin für die mündliche Prüfung nicht oder nicht rechtzeitig
+(1) Die Prüfung gilt als abgelegt und nicht bestanden, wenn der
+Prüfling nach der Zulassung zur Prüfung ohne genügende Entschuldigung
+zurücktritt, eine Aufsichtsarbeit nicht oder nicht rechtzeitig abgibt
+oder zum Termin für die mündliche Prüfung nicht oder nicht rechtzeitig
 erscheint.
 
-(2) Wer nachweist, dass er aus einem von ihm nicht zu vertretenden
+(2) Die Prüfung gilt als nicht abgelegt, wenn der Prüfling nach der
+Zulassung zur Prüfung zurücktritt und hierfür genügende
+Entschuldigungsgründe nachweist. Im Fall des Satzes 1 hat der Prüfling
+in der Rücktrittserklärung anzugeben, ob die Teilnahme an der Prüfung
+im nächsten oder im übernächsten Prüfungstermin beabsichtigt ist.
+
+(3) Wer nachweist, dass er aus einem von ihm nicht zu vertretenden
 Grund verhindert war, eine oder mehrere Aufsichtsarbeiten anzufertigen
 oder rechtzeitig abzugeben, kann die fehlenden Aufsichtsarbeiten
 erneut anfertigen; die bereits erbrachten Prüfungsleistungen bleiben
@@ -552,13 +579,22 @@ Prüfenden gilt Absatz 4 Satz 6 und 7 entsprechend.
 (1) Für die Prüfung und für das erfolglose Widerspruchsverfahren sind
 Gebühren an die Bundesnotarkammer zu zahlen. Die Zulassung zur Prüfung
 erfolgt erst, wenn die Prüfungsgebühren bei der Bundesnotarkammer
-eingegangen sind. Tritt der Prüfling vor Antritt der Prüfung zurück,
-wird die Gebühr für die Prüfung zu drei Vierteln erstattet. Tritt der
-Prüfling bis zum Ende der Bearbeitungszeit für die letzte
-Aufsichtsarbeit zurück, ist die Gebühr zur Hälfte zu erstatten. Eine
-Erstattung von Gebühren im Fall des § 7f ist ausgeschlossen.
+eingegangen sind.
 
-(2) Die Bundesnotarkammer bestimmt die Höhe der Gebühren nach Absatz
+(2) Tritt der Prüfling vor Antritt der Prüfung zurück, wird die Gebühr
+für die Prüfung zu drei Vierteln erstattet. Abweichend von Satz 1
+können die Gebühren für die Prüfung einbehalten werden und mit den
+Gebühren für den nächsten Prüfungstermin verrechnet werden, wenn der
+Prüfling vor Antritt der Prüfung nach § 7e Absatz 2 Satz 1
+entschuldigt zurückgetreten ist und die Rücktrittserklärung die
+Absichtserklärung nach § 7e Absatz 2 Satz 2 enthält. Wird in diesem
+Fall die Prüfung weder im nächsten noch im übernächsten Prüfungstermin
+abgelegt, ist Satz 1 anzuwenden. Tritt der Prüfling bis zum Ende der
+Bearbeitungszeit für die letzte Aufsichtsarbeit zurück, ist die Gebühr
+zur Hälfte zu erstatten. Eine Erstattung von Gebühren im Fall des § 7f
+ist ausgeschlossen.
+
+(3) Die Bundesnotarkammer bestimmt die Höhe der Gebühren nach Absatz
 1, die Einzelheiten der Gebührenerhebung, die Vergütung der Leitung
 und der Bediensteten des Prüfungsamtes sowie die Entschädigung und den
 Auslagenersatz der Mitglieder der Aufgabenkommission, der Mitglieder
@@ -1673,7 +1709,7 @@ Vertretung bestellt werden.
 
 (2) Im Fall der vorläufigen Amtsenthebung kann eine Vertretung auch
 von Amts wegen bestellt werden. Dies gilt auch, wenn ein Notar es
-unterlässt, einen Antrag nach Absatz 1 oder nach § 48c zu stellen,
+unterlässt, einen Antrag nach Absatz 1 oder nach § 48e zu stellen,
 obwohl er aus gesundheitlichen Gründen zur ordnungsgemäßen Ausübung
 seines Amtes vorübergehend unfähig ist.
 
@@ -1812,10 +1848,11 @@ Das Amt des Notars erlischt durch
 1.  Entlassung aus dem Amt (§ 48),
 
 
-2.  Erreichen der Altersgrenze (§ 48a) oder Tod,
+2.  Erreichen der Altersgrenze (§ 48a), sofern nicht ein Fall der §§ 48b
+    und 48c vorliegt, oder Tod,
 
 
-3.  Amtsniederlegung (§§ 48b, 48c),
+3.  Amtsniederlegung (§§ 48d und 48e),
 
 
 4.  bestandskräftigen Wegfall der Mitgliedschaft in einer
@@ -1854,7 +1891,80 @@ Die Notare erreichen mit dem Ende des Monats, in dem sie das
 siebzigste Lebensjahr vollenden, die Altersgrenze.
 
 
-#### § 48b Amtsniederlegung zum Zweck der Betreuung oder Pflege
+#### § 48b Antrag auf Verlängerung der Amtszeit bei Anwaltsnotaren
+
+(1) Auf Antrag eines Anwaltsnotars kann die Amtszeit nach dem
+Erreichen der Altersgrenze zweimal um einen Zeitraum von jeweils 3
+Jahren verlängert werden.
+
+(2) Ein Antrag auf eine erste Verlängerung ist spätestens 18 Monate
+vor dem Erreichen der Altersgrenze zu stellen. Ein Antrag auf eine
+zweite Verlängerung ist frühestens nach dem Beginn der ersten
+verlängerten Amtszeit und spätestens 18 Monate vor deren Ablauf zu
+stellen. Über Anträge nach den Sätzen 1 und 2 ist eine
+Eingangsnachricht zu erteilen.
+
+(3) Zu Anträgen auf Verlängerung ist der Notarkammer Gelegenheit zur
+Stellungnahme zu geben.
+
+(4) Eine erste verlängerte Amtszeit endet mit Ablauf des Monats, in
+dem der Anwaltsnotar das 73. Lebensjahr vollendet. Eine zweite
+verlängerte Amtszeit endet mit Ablauf des Monats, in dem der
+Anwaltsnotar das 76. Lebensjahr vollendet. Die Sätze 1 und 2 gelten
+unabhängig vom Zeitpunkt der Bekanntgabe der Entscheidung gegenüber
+dem Antragsteller. § 48c Absatz 3 Satz 2 bleibt unberührt.
+
+
+#### § 48c Entscheidung über Anträge nach § 48b
+
+(1) Anträgen nach § 48b ist vorbehaltlich des Absatzes 4 zu
+entsprechen, wenn
+
+1.  im Fall des Erlöschens des Amtes des Antragstellers durch Erreichen
+    der Altersgrenze oder durch Ablauf einer ersten verlängerten Amtszeit
+    in dessen Amtsbereich bei der letzten Ausschreibungsrunde, die vor dem
+    Erreichen der Altersgrenze oder dem Ablauf einer ersten verlängerten
+    Amtszeit erfolgt ist, ausgeschriebene Stellen mangels einer genügenden
+    Zahl geeigneter Bewerbungen nicht besetzt werden konnten und
+
+
+2.  kein Ablehnungsgrund nach § 5 Absatz 2 vorliegt.
+
+
+
+Nicht als ausgeschriebene Stellen im Sinne von Satz 1 Nummer 1 gelten
+solche Stellen, deren Ausschreibung ausschließlich zur Wahrung einer
+geordneten Altersstruktur der Angehörigen des Berufs erfolgt ist.
+
+(2) Wenn dies zur Entscheidung über die Voraussetzung nach Absatz 1
+Satz 1 Nummer 2 in Verbindung mit § 5 Absatz 2 Nummer 2 erforderlich
+ist, kann eine Verlängerung der Amtszeit davon abhängig gemacht
+werden, dass ein amtsärztliches Gutachten über den Gesundheitszustand
+vorgelegt wird. § 5 Absatz 3 Satz 2 bis 5 ist entsprechend anzuwenden.
+
+(3) Über Anträge nach § 48b Absatz 2 Satz 1 und 2 soll die
+Landesjustizverwaltung spätestens sechs Monate vor dem Erreichen der
+Altersgrenze oder vor dem Ablauf der ersten verlängerten Amtszeit
+entscheiden. Ergeht bis zu diesem Zeitpunkt keine Entscheidung,
+erlischt das Amt erst mit Ablauf des sechsten auf die Bekanntgabe
+einer ablehnenden Entscheidung an den Antragsteller folgenden Monats.
+Widerspruch und Anfechtungsklage gegen die Ablehnung eines Antrags
+nach § 48b haben keine aufschiebende Wirkung.
+
+(4) Übersteigt die Anzahl der Anträge nach § 48b die Anzahl der
+ausgeschriebenen und nicht besetzten Stellen nach Absatz 1 Satz 1
+Nummer 1, so hat die Landesjustizverwaltung eine Auswahlentscheidung
+zu treffen. Für diese gilt § 6 Absatz 1 Satz 1 und 2 und Absatz 3 mit
+der Maßgabe, dass im Rahmen des § 6 Absatz 3 in dem Fall, in dem einer
+der Antragsteller keine notarielle Fachprüfung abgelegt hat, dieses
+Auswahlkriterium bei einem Vergleich zwischen ihm und den übrigen
+Antragstellern entfällt.
+
+(5) Die §§ 48d und 48e sind nach dem Erreichen der Altersgrenze nach §
+48a nicht anzuwenden.
+
+
+#### § 48d Amtsniederlegung zum Zweck der Betreuung oder Pflege
 
 (1) Wer als Notar ein Kind unter 18 Jahren oder einen nachweislich
 pflegebedürftigen nahen Angehörigen (§ 7 Absatz 3 des
@@ -1897,7 +2007,7 @@ bereits ein notarielles Amt ausgeübt und dieses genehmigt niedergelegt
 hat.
 
 
-#### § 48c Amtsniederlegung aus gesundheitlichen Gründen
+#### § 48e Amtsniederlegung aus gesundheitlichen Gründen
 
 (1) Der Notar kann sein Amt mit Genehmigung der Aufsichtsbehörde
 niederlegen, wenn ärztlich bescheinigt ist, dass
@@ -1928,8 +2038,8 @@ verlangen.
 nach dem Wegfall des Anlasses nach Absatz 1 Satz 1 am bisherigen
 Amtssitz wieder antreten zu wollen, so wird er innerhalb eines Jahres
 dort erneut bestellt. Die Dauer einer Amtsniederlegung nach Satz 1 ist
-auf die Gesamtdauer nach § 48b Absatz 1 Satz 4 anzurechnen. Im Übrigen
-gilt für eine Amtsniederlegung nach Absatz 1 § 48b Absatz 2 Satz 2 und
+auf die Gesamtdauer nach § 48d Absatz 1 Satz 4 anzurechnen. Im Übrigen
+gilt für eine Amtsniederlegung nach Absatz 1 § 48d Absatz 2 Satz 2 und
 3 und Absatz 3 bis 5 entsprechend.
 
 
@@ -2228,13 +2338,13 @@ diese Frist über ein Jahr hinaus verlängert werden. Ein nach Satz 1
 bestellter Notariatsverwalter ist nur innerhalb der ersten drei Monate
 berechtigt, auch neue Notariatsgeschäfte vorzunehmen.
 
-(3) Hat ein Notar sein Amt im Rahmen des § 48b Absatz 2 Satz 1 oder
-des § 48c Absatz 3 Satz 1 niedergelegt, so ist für die Dauer der
+(3) Hat ein Notar sein Amt im Rahmen des § 48d Absatz 2 Satz 1 oder
+des § 48e Absatz 3 Satz 1 niedergelegt, so ist für die Dauer der
 Amtsniederlegung ein Notariatsverwalter zu bestellen. Sofern während
 der Dauer der Amtsniederlegung kein geeigneter Notariatsverwalter mehr
 zur Verfügung steht, kann der frühere Notar aufgefordert werden,
 vorzeitig seine erneute Bestellung zu beantragen. Kommt er dem nicht
-nach, verliert er seinen Anspruch aus § 48b Absatz 2 Satz 1 oder § 48c
+nach, verliert er seinen Anspruch aus § 48d Absatz 2 Satz 1 oder § 48e
 Absatz 3 Satz 1.
 
 (4) In den Fällen des § 39 Absatz 2 kann statt einer Notarvertretung
@@ -2379,8 +2489,8 @@ Notariatsverwalters endet, wenn
 1.  ein neuer Notar bestellt worden ist,
 
 
-2.  der Notar, der sein Amt im Rahmen des § 48b Absatz 2 Satz 1 oder des §
-    48c Absatz 3 Satz 1 niedergelegt hatte, erneut bestellt worden ist
+2.  der Notar, der sein Amt im Rahmen des § 48d Absatz 2 Satz 1 oder des §
+    48e Absatz 3 Satz 1 niedergelegt hatte, erneut bestellt worden ist
     oder
 
 
@@ -5186,10 +5296,11 @@ Bezirksnotars besaß.
 bestellt sind, bleiben im Amt. Sie können auf Antrag nach Anhörung der
 Notarkammer an ihrem bisherigen Amtssitz zum hauptberuflichen Notar
 bestellt werden. Die §§ 4a und 5 Absatz 4, § 6 Absatz 1 und 2 sowie
-die §§ 7 und 13 sind nicht anzuwenden. Mit der Bestellung zum
-hauptberuflichen Notar gilt die Zulassung zur Rechtsanwaltschaft als
-bestandskräftig widerrufen. Die Landesjustizverwaltung hat eine
-Bestellung nach Satz 4 der Rechtsanwaltskammer mitzuteilen.
+die §§ 7, 13, 48b, 48c und 121 sind nicht anzuwenden. Mit der
+Bestellung zum hauptberuflichen Notar gilt die Zulassung zur
+Rechtsanwaltschaft als bestandskräftig widerrufen. Die
+Landesjustizverwaltung hat eine Bestellung nach Satz 4 der
+Rechtsanwaltskammer mitzuteilen.
 
 (2) In den Ländern Hamburg und Rheinland-Pfalz gilt § 3 Abs. 2 nicht.
 
@@ -5317,8 +5428,34 @@ von Ausfertigungen und Abschriften gerichtlicher Urkunden. Abweichend
 von § 45 Absatz 5 stehen die Kosten in diesem Fall der Staatskasse zu.
 
 
-### § 121 (weggefallen)
+### § 121 Übergangsvorschrift zu den §§ 48b und 48c
 
+(1) Anwaltsnotare, die am 30. Juni 2026 noch nicht das 70. Lebensjahr
+vollendet haben, jedoch einen Antrag nach § 48b Absatz 2 Satz 1 nicht
+mehr fristgerecht stellen könnten, können diesen noch in der Zeit vom
+1\. Juli bis 30. September 2026 stellen. War zum Zeitpunkt der
+Antragstellung die Bewerbungsfrist der letzten Ausschreibungsrunde vor
+dem Erreichen der Altersgrenze bereits abgelaufen und erklärt die
+Landesjustizverwaltung, den Antrag in dieser Ausschreibungsrunde nicht
+mehr berücksichtigen zu können, ist der Antrag in der nächstfolgenden
+Ausschreibungsrunde zu berücksichtigen.
+
+(2) Frühere Anwaltsnotare, deren Amt vor dem 1. Juli 2026 durch das
+Erreichen der Altersgrenze nach § 47 Nummer 2 in Verbindung mit § 48a
+in der bis zum 30. Juni 2026 geltenden Fassung erloschen ist, können
+sich auf in der nächsten Ausschreibungsrunde ausgeschriebene
+Notarstellen in ihrem letzten Amtsbereich bewerben, wenn sie in der
+Zeit vom 1. Juli bis 30. September 2026 schriftlich oder elektronisch
+gegenüber der Landesjustizverwaltung ihr Interesse an einer erneuten
+Bestellung zum Anwaltsnotar bekundet haben. Eine erneute Bestellung
+setzt dabei voraus, dass der Bewerber zum Zeitpunkt der Bestellung das
+73\. Lebensjahr noch nicht vollendet hat. Im Übrigen gilt für die
+Entscheidung der Landesjustizverwaltung § 48c Absatz 1, 2 und 4
+sinngemäß mit der Maßgabe, dass im Rahmen des § 48c Absatz 4 Anträgen
+nach § 48b gegenüber Bewerbungen nach Satz 1 in der Regel der Vorzug
+zu geben ist. Erfolgt eine erneute Bestellung nach den Sätzen 1 bis 3,
+endet das Amt mit Ablauf des Monats, in dem der Anwaltsnotar das 76.
+Lebensjahr vollendet.
 
 (zu § 18d Absatz 1)
 Gebührenverzeichnis
