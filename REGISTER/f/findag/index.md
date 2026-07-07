@@ -950,41 +950,59 @@ Beschäftigten gegen die Verbote nach den Absätzen 1 und 1a oder
 Artikel 14 der Verordnung (EU) Nr. 596/2014 oder gegen die Verbote
 nach Artikel 89 der Verordnung (EU) 2023/1114 entgegenzuwirken.
 
-(4) Beschäftigte sind verpflichtet, Geschäfte in Finanzinstrumenten im
-Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr.
-596/2014 und Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1
-Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014, die sie für
-eigene oder fremde Rechnung oder für einen anderen abgeschlossen
-haben, unverzüglich der Bundesanstalt oder der von ihr beauftragten
-Person schriftlich oder elektronisch anzuzeigen. Das Bundesministerium
-kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, festlegen, welche privaten Finanzgeschäfte in Kryptowerten im
-Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114
-die Beschäftigten der Bundesanstalt oder der von der Bundesanstalt
-beauftragten Person unverzüglich anzuzeigen haben. In der
-Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder
-der von ihr beauftragten Person die Befugnis eingeräumt wird, durch
-Richtlinien nähere Konkretisierungen zu erlassen. Das
+(4) Die Beschäftigten sind verpflichtet, der Bundesanstalt oder der
+von ihr beauftragten Person solche Geschäfte in Finanzinstrumenten im
+Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU)
+Nr. 596/2014              sowie solche Handlungen und Geschäfte im
+Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU)
+Nr. 596/2014, die sie für eigene oder fremde Rechnung oder für einen
+anderen abgeschlossen haben, unverzüglich schriftlich oder
+elektronisch anzuzeigen. Für private Finanzgeschäfte, die durch
+Wertpapierdienstleister für Beschäftigte im Rahmen einer
+Finanzportfolioverwaltung gemäß § 2 Absatz 8 Satz 1 Nummer 7 des
+Wertpapierhandelsgesetzes abgeschlossen werden, gilt die Pflicht aus
+Satz 1 nicht. Das Bundesministerium kann durch Rechtsverordnung, die
+nicht der Zustimmung des Bundesrates bedarf, festlegen,
+
+1.  welche privaten Finanzgeschäfte in Kryptowerten im Sinne des Artikels
+    3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 die Beschäftigten
+    der Bundesanstalt oder der von ihr beauftragten Person unverzüglich
+    anzuzeigen haben und
+
+
+2.  welche Ausnahmen von der Anzeigepflicht für solche Beschäftigten
+    zugelassen sind, die aufgrund von Elternzeit, Abordnung, Freistellung
+    oder Sonderurlaub keine Zugangsmöglichkeit zu den Liegenschaften und
+    den informationstechnischen Systemen der Bundesanstalt haben, wobei
+    Ausnahmen von der Anzeigepflicht frühestens drei Monate, in der Regel
+    sechs Monate nach dem Entfallen der Zugangsmöglichkeit zulässig sind.
+
+
+
+In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt
+oder der von ihr beauftragten Person die Befugnis eingeräumt wird,
+durch Richtlinien Konkretisierungen zu Satz 1 bis 3 vorzunehmen. Das
 Bundesministerium kann diese Ermächtigung durch Rechtsverordnung auf
 die Bundesanstalt übertragen. Die Bundesanstalt oder die von ihr
 beauftragte Person kann Richtlinien zur Ausgestaltung der
 Anzeigepflicht, auch unter Einbeziehung der Vorgesetzten, erlassen.
-Die Bundesanstalt oder die von ihr beauftragte Person kann von den
+
+(4a) Die Bundesanstalt oder die von ihr beauftragte Person kann von
+den Beschäftigten die Erteilung von Auskünften und die Vorlage von
+Unterlagen über solche Geschäfte in Finanzinstrumenten im Sinne des
+Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014,
+über solche Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1
+Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014 sowie über
+solche privaten Finanzgeschäfte gemäß Absatz 1 verlangen, die sie für
+eigene oder fremde Rechnung oder für einen anderen abgeschlossen
+haben. § 6 Absatz 15 des Wertpapierhandelsgesetzes ist anzuwenden. Die
+Bundesanstalt oder die von ihr beauftragte Person kann von den
 Beschäftigten die Erteilung von Auskünften und die Vorlage von
-Unterlagen über Geschäfte in Finanzinstrumenten im Sinne des Artikels
-2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 und
-Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz
-2 Satz 1 der Verordnung (EU) Nr. 596/2014 sowie über private
-Finanzgeschäfte gemäß Absatz 1 verlangen, die sie für eigene oder
-fremde Rechnung oder für einen anderen abgeschlossen haben. § 6 Absatz
-15 des Wertpapierhandelsgesetzes ist anzuwenden. Die Bundesanstalt
-oder die von ihr beauftragte Person kann von den Beschäftigten die
-Erteilung von Auskünften und die Vorlage von Unterlagen über ihre
-privaten Finanzgeschäfte in Kryptowerten nach Absatz 1a verlangen, die
-diese für eigene oder fremde Rechnung oder für einen anderen
-abgeschlossen haben, soweit dies für die Prüfung der Bundesanstalt
-oder der von ihr beauftragten Person auf Interessenkonflikte notwendig
-ist.
+Unterlagen über solche ihrer privaten Finanzgeschäfte in Kryptowerten
+nach Absatz 1a verlangen, die diese für eigene oder fremde Rechnung
+oder für einen anderen abgeschlossen haben, soweit dies für die
+Prüfung der Bundesanstalt oder der von ihr beauftragten Person auf
+Interessenkonflikte notwendig ist.
 
 (5) Die Bundesanstalt muss angemessene interne Vorkehrungen treffen,
 die geeignet sind, Interessenkonflikten der Beschäftigten bei ihren
