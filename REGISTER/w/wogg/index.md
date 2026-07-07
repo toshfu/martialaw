@@ -244,8 +244,8 @@ Todesfall
 
 (1) Vom Wohngeld ausgeschlossen sind Empfänger und Empfängerinnen von
 
-1.  Bürgergeld nach dem Zweiten Buch Sozialgesetzbuch, auch in den Fällen
-    des § 25 des Zweiten Buches Sozialgesetzbuch,
+1.  Grundsicherungsgeld nach dem Zweiten Buch Sozialgesetzbuch, auch in
+    den Fällen des § 25 des Zweiten Buches Sozialgesetzbuch,
 
 
 2.  Leistungen für Auszubildende nach § 27 Absatz 3 des Zweiten Buches
@@ -255,9 +255,9 @@ Todesfall
 3.  (weggefallen)
 
 
-4.  Verletztengeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz
-    1 Satz 1 des Zweiten Buches Sozialgesetzbuch nach § 47 Abs. 2 des
-    Siebten Buches Sozialgesetzbuch,
+4.  Verletztengeld in Höhe des Betrages des Grundsicherungsgeldes nach §
+    19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch nach § 47 Abs.
+    2 des Siebten Buches Sozialgesetzbuch,
 
 
 5.  Grundsicherung im Alter und bei Erwerbsminderung nach dem Zwölften
@@ -291,8 +291,8 @@ Todesfall
 
 wenn bei deren Berechnung Kosten der Unterkunft berücksichtigt worden
 sind (Leistungen). Der Ausschluss besteht im Fall des Satzes 1 Nummer
-4, wenn bei der Berechnung des Bürgergeldes nach § 19 Absatz 1 Satz 1
-des Zweiten Buches Sozialgesetzbuch Kosten der Unterkunft
+4, wenn bei der Berechnung des Grundsicherungsgeldes nach § 19 Absatz
+1 Satz 1 des Zweiten Buches Sozialgesetzbuch Kosten der Unterkunft
 berücksichtigt worden sind. Der Ausschluss besteht nicht, wenn
 
 1.  die Leistungen nach den Sätzen 1 und 2 ausschließlich als Darlehen
@@ -1136,7 +1136,7 @@ zulässig.
     b)  der von Nummer 24 oder Nummer 25 erfassten Leistungen,
 
 
-    c)  des Bürgergeldes nach § 19 Absatz 1 Satz 2 des Zweiten Buches
+    c)  des Grundsicherungsgeldes nach § 19 Absatz 1 Satz 2 des Zweiten Buches
         Sozialgesetzbuch, das ein zu berücksichtigendes Kind als Mitglied der
         Bedarfsgemeinschaft im Haushalt des getrennt lebenden anderen
         Elternteils anteilig erhält,
