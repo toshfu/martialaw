@@ -216,14 +216,8 @@ Form zur Verfügung stellen:
 Verbraucher im Sinne des § 13 des Bürgerlichen Gesetzbuchs sind.
 
 
-## § 5 Verbot diskriminierender Bestimmungen
+## § 5 (weggefallen)
 
-Der Dienstleistungserbringer darf keine Bedingungen für den Zugang zu
-einer Dienstleistung bekannt machen, die auf der Staatsangehörigkeit
-oder dem Wohnsitz des Dienstleistungsempfängers beruhende
-diskriminierende Bestimmungen enthalten. Dies gilt nicht für
-Unterschiede bei den Zugangsbedingungen, die unmittelbar durch
-objektive Kriterien gerechtfertigt sind.
 
 
 ## § 6 Ordnungswidrigkeiten
@@ -233,15 +227,12 @@ handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Absatz 1, § 3 Absatz 1 oder § 4 Absatz 1 eine Information
     nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
-    Weise oder nicht rechtzeitig zur Verfügung stellt,
+    Weise oder nicht rechtzeitig zur Verfügung stellt oder
 
 
 2.  entgegen § 3 Absatz 2 nicht sicherstellt, dass eine dort genannte
     Information in jeder ausführlichen Informationsunterlage enthalten
-    ist, oder
-
-
-3.  entgegen § 5 Satz 1 Bedingungen bekannt macht.
+    ist.
 
 
 
