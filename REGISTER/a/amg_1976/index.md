@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 Abs. 4 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 6 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
 
@@ -6398,6 +6401,126 @@ handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 (6) (weggefallen)
 
 
+### § 48a Abgabe von bestimmten verschreibungspflichtigen Arzneimitteln durch Apotheker zur Anschlussversorgung
+
+(1) Abweichend von § 48 Absatz 1 Satz 1 dürfen die in § 48 Absatz 1
+Satz 1 genannten Arzneimittel ohne Vorliegen einer ärztlichen oder
+zahnärztlichen Verschreibung durch einen Apotheker für eine
+öffentliche Apotheke, zu deren Personal er gehört, zur
+Anschlussversorgung an einen Verbraucher einmalig in der kleinsten in
+der Apotheke vorrätigen Packungsgröße abgegeben werden, sofern
+
+1.  dem Verbraucher das Arzneimittel bereits über mindestens drei Quartale
+    hinweg verschrieben wurde und er dies nachweist oder der Apotheker
+    anderweitig Kenntnis davon hat und
+
+
+2.  die Fortführung der Anwendung des Arzneimittels keinen Aufschub
+    erlaubt.
+
+
+
+Als Nachweis, dass das betreffende Arzneimittel bereits über
+mindestens drei Quartale hinweg verschrieben wurde, gelten
+insbesondere entsprechende in der elektronischen Patientenakte
+gespeicherte Daten. Eine erneute einmalige Abgabe desselben
+Arzneimittels darf nach Satz 1 immer dann erfolgen, wenn
+zwischenzeitlich eine weitere ärztliche oder zahnärztliche
+Verschreibung vorgelegen hat.
+
+(2) Absatz 1 gilt nicht für
+
+1.  Arzneimittel, die die Wirkstoffe Lenalidomid, Pomalidomid oder
+    Thalidomid enthalten,
+
+
+2.  oral anzuwendende Arzneimittel für Frauen im gebärfähigen Alter, die
+    die Wirkstoffe Acitretin, Alitretinoin oder Isotretinoin enthalten,
+
+
+3.  Arzneimittel mit hohem Missbrauchs- und Abhängigkeitspotenzial, wie
+    opioidhaltige Arzneimittel, Hypnotika, Sedativa, Stimulanzien oder
+    Anxiolytika, und
+
+
+4.  Arzneimittel, bei denen sich aus der Fachinformation im Sinne des §
+    11a Absatz 1 Satz 1 ergibt, dass vor einer weiteren Verschreibung oder
+    während der Therapie eine ärztliche oder zahnärztliche Diagnostik oder
+    eine ärztliche oder zahnärztliche Untersuchung erforderlich ist.
+
+
+
+
+
+### § 48b Abgabe von bestimmten verschreibungspflichtigen Arzneimitteln durch Apotheker zur Versorgung bei bestimmten Erkrankungen; Verordnungsermächtigung
+
+(1) Abweichend von § 48 Absatz 1 Satz 1 dürfen die in § 48 Absatz 1
+Satz 1 genannten Arzneimittel ohne Vorliegen einer ärztlichen oder
+zahnärztlichen Verschreibung durch einen Apotheker für eine
+öffentliche Apotheke, zu deren Personal er gehört, unter Beachtung des
+aktuellen Stands der medizinischen Wissenschaft an einen Verbraucher
+zur Behandlung einer akuten Erkrankung nach Maßgabe der Vorgaben der
+Rechtsverordnung nach Absatz 2 abgegeben werden, sofern die Anwendung
+des Arzneimittels keinen Aufschub erlaubt.
+
+(2) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates und im Benehmen mit
+dem Bundesinstitut für Arzneimittel und Medizinprodukte Vorgaben zur
+Gewährleistung der Arzneimitteltherapiesicherheit für die Abgabe von
+Arzneimitteln durch einen Apotheker nach Absatz 1 festzulegen. In der
+Rechtsverordnung kann insbesondere Folgendes festgelegt werden:
+
+1.  die akuten Erkrankungen, bei denen Arzneimittel durch einen Apotheker
+    nach Absatz 1 abgegeben werden dürfen, einschließlich der jeweiligen
+    Krankheitsausprägung,
+
+
+2.  die Patientengruppen, an die bei Vorliegen einer nach Nummer 1
+    festgelegten akuten Erkrankung Arzneimittel durch einen Apotheker nach
+    Absatz 1 abgegeben werden dürfen,
+
+
+3.  die Arzneimittel, Stoffe oder Zubereitungen aus Stoffen, die nach
+    Absatz 1 abgegeben werden dürfen, einschließlich der jeweiligen
+    Dosierung, Potenzierung, Darreichungsform, Anwendungsbereiche oder
+    Packungsgrößen,
+
+
+4.  Handlungsanweisungen für Apotheker,
+
+
+5.  Anforderungen an Schulungen für Apotheker,
+
+
+6.  Anforderungen an die Beratung bei der Abgabe und an die Dokumentation
+    der Abgabe,
+
+
+7.  die in der elektronischen Patientenakte zu speichernden Daten.
+
+
+
+Das Bundesinstitut für Arzneimittel und Medizinprodukte spricht
+gegenüber dem Bundesministerium für Gesundheit, erstmals bis zum 2.
+Juli 2027, Empfehlungen über den Inhalt der mit der Rechtsverordnung
+festzulegenden Vorgaben aus. Es hat bei der Erstellung der
+Empfehlungen nach Satz 3 die Arzneimittelkommissionen der Ärzte und
+Apotheker zu beteiligen.
+
+(3) Folgende Arzneimittel dürfen nicht von einem Apotheker nach Absatz
+1 abgegeben werden:
+
+1.  Arzneimittel, die Antibiotika zur systemischen Anwendung enthalten und
+
+
+2.  Arzneimittel mit hohem Missbrauchs- und Abhängigkeitspotenzial, wie
+    opioidhaltige Arzneimittel, Hypnotika, Sedativa, Stimulanzien oder
+    Anxiolytika.
+
+
+
+
+
 ### § 49
 
 (weggefallen)
@@ -9631,7 +9754,11 @@ Bundesministerium durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, den Anteil des Festzuschlags, der nicht der
 Förderung der Sicherstellung des Notdienstes dient, entsprechend der
 Kostenentwicklung der Apotheken bei wirtschaftlicher Betriebsführung
-anzupassen. Die Preisvorschriften für den Großhandel aufgrund von Satz
+anzupassen. Das Bundesministerium für Wirtschaft und Energie oder das
+Bundesministerium können zur Ermittlung der in Satz 2 genannten
+Kostenentwicklung bei dem Statistischen Bundesamt amtliche
+Informationen zu den betriebswirtschaftlichen Kennzahlen der Apotheken
+anfordern. Die Preisvorschriften für den Großhandel aufgrund von Satz
 1 Nummer 1 gelten auch für pharmazeutische Unternehmer oder andere
 natürliche oder juristische Personen, die eine Tätigkeit nach § 4
 Absatz 22 ausüben bei der Abgabe an Apotheken, die die Arzneimittel
