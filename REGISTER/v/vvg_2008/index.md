@@ -3486,9 +3486,11 @@ hinzuweisen.
 (4) Bei einer Lebensversicherung, die vom Arbeitgeber zugunsten seiner
 Arbeitnehmerinnen und Arbeitnehmer abgeschlossen worden ist, hat der
 Versicherer die versicherte Person über die Bestimmung der
-Zahlungsfrist nach § 38 Abs. 1 und die eintretende Umwandlung der
-Versicherung in Textform zu informieren und ihnen eine Zahlungsfrist
-von mindestens zwei Monaten einzuräumen.
+Zahlungsfrist nach § 38 Absatz 1 und die eintretende Umwandlung der
+Versicherung in Textform zu informieren und ihr eine Zahlungsfrist von
+mindestens zwei Monaten einzuräumen. Er hat auf das Fortsetzungsrecht
+nach § 212 hinzuweisen, wenn es sich um eine Lebensversicherung im
+Anwendungsbereich dieser Vorschriften handelt.
 
 
 #### § 167 Umwandlung zur Erlangung eines Pfändungsschutzes
@@ -4725,9 +4727,10 @@ Transportversicherungspolice nach § 365a des Handelsgesetzbuchs.
 
 ### § 211 Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen
 
-(1) Die §§ 37, 38, 165, 166, 168 und 169 sind, soweit mit Genehmigung
-der Aufsichtsbehörde in den Allgemeinen Versicherungsbedingungen
-abweichende Bestimmungen getroffen sind, nicht anzuwenden auf
+(1) Die §§ 37, 38, 165, 166 Absatz 1, 2, 3 und 4 Satz 1 sowie die §§
+168 und 169 sind, soweit mit Genehmigung der Aufsichtsbehörde in den
+Allgemeinen Versicherungsbedingungen abweichende Bestimmungen
+getroffen sind, nicht anzuwenden auf
 
 1.  Versicherungen bei Pensionskassen im Sinn des § 233 Absatz 1 und 2 des
     Versicherungsaufsichtsgesetzes,
@@ -4767,17 +4770,20 @@ Wirksamkeit nicht unter Berufung darauf angefochten werden, dass es
 sich nicht um Versicherungen mit kleineren Beträgen handele.
 
 
-### § 212 Fortsetzung der Lebensversicherung nach der Elternzeit
+### § 212 Fortsetzung der Lebensversicherung nach einer Beschäftigungszeit ohne Entgelt
 
-Besteht während einer Elternzeit ein Arbeitsverhältnis ohne Entgelt
-gemäß § 1a Abs. 4 des Betriebsrentengesetzes fort und wird eine vom
-Arbeitgeber zugunsten der Arbeitnehmerin oder des Arbeitnehmers
-abgeschlossene Lebensversicherung wegen Nichtzahlung der während der
-Elternzeit fälligen Prämien in eine prämienfreie Versicherung
-umgewandelt, kann die Arbeitnehmerin oder der Arbeitnehmer innerhalb
-von drei Monaten nach der Beendigung der Elternzeit verlangen, dass
-die Versicherung zu den vor der Umwandlung vereinbarten Bedingungen
-fortgesetzt wird.
+(1) Besteht ein ursprünglich entgeltliches Arbeitsverhältnis ohne
+Entgelt fort und wird eine Lebensversicherung, die der Arbeitgeber
+zugunsten der Arbeitnehmerin oder des Arbeitnehmers zur Durchführung
+einer Entgeltumwandlung nach § 1a Absatz 1 des Betriebsrentengesetzes
+abgeschlossen hat, wegen Nichtzahlung der während dieser Zeit fälligen
+Prämien in eine prämienfreie Versicherung umgewandelt, kann die
+Arbeitnehmerin oder der Arbeitnehmer innerhalb von drei Monaten nach
+der Beendigung dieser Zeit verlangen, dass die Versicherung zu den vor
+der Umwandlung vereinbarten Bedingungen fortgesetzt wird.
+
+(2) Von Absatz 1 kann nicht zum Nachteil der versicherten Person
+abgewichen werden.
 
 
 ### § 213 Erhebung personenbezogener Gesundheitsdaten bei Dritten
