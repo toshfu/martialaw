@@ -34,8 +34,7 @@ Bundesamt errichtet.
 unterstellt.
 
 (3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für
-Digitales und Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-
-Bundesamts.
+Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
 
 
 ## § 2
@@ -45,7 +44,9 @@ Bundesamts.
 1.  für Fahrzeuge, die für den Straßenverkehr bestimmt sind,
 
     a)  die Typgenehmigung und die Typprüfung von Fahrzeugen und
-        Fahrzeugteilen sowie die EU-Fahrzeug-Einzelgenehmigung,
+        Fahrzeugteilen, die EU-Fahrzeug-Einzelgenehmigung sowie die Erteilung
+        von Betriebserlaubnissen für Kraftfahrzeuge mit autonomer
+        Fahrfunktion,
 
 
     b)  die Anerkennung von Technischen Diensten, die im Rahmen des
@@ -297,11 +298,8 @@ Vorschriften zugewiesen werden, bleiben unberührt.
 -
 
 
-## § 4
+## § 4 (weggefallen)
 
-Das Kraftfahrt-Bundesamt ist ferner zuständig, wenn ihm durch eine
-Gesetzgebung im Land Berlin Zuständigkeiten in Übereinstimmung mit
-diesem Gesetz übertragen werden.
 
 
 ## § 5
