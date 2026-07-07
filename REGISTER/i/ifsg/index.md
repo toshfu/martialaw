@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60
 
+Änderung durch
+:   Art. 7 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## 1. Abschnitt - Allgemeine Vorschriften
 
@@ -1105,7 +1108,7 @@ diesem Ergebnis.
     s)  zoonotische Influenza,
 
 
-    t)  Coronavirus-Krankheit-2019 (COVID-19),
+    t)  (weggefallen)
 
 
     u)  durch Orthopockenviren verursachte Krankheiten,
@@ -1191,10 +1194,11 @@ Lungentuberkulose erkrankt sind, eine Behandlung verweigern oder
 abbrechen. Die Meldung nach den Sätzen 1 und 2 hat gemäß § 8 Absatz 1
 Nummer 1, § 9 Absatz 1 und 3 Satz 1 oder 3 zu erfolgen.
 
-(3) Nichtnamentlich ist das Auftreten von zwei oder mehr nosokomialen
+(3) Namentlich ist das Auftreten von zwei oder mehr nosokomialen
 Infektionen zu melden, bei denen ein epidemischer Zusammenhang
 wahrscheinlich ist oder vermutet wird. Die Meldung nach Satz 1 hat
-gemäß § 8 Absatz 1 Nummer 1, 3 oder 5, § 10 Absatz 1 zu erfolgen.
+gemäß § 8 Absatz 1 Nummer 1, 3 oder 5 und gemäß § 9 Absatz 1, 2, 3
+Satz 1 oder 3 zu erfolgen.
 
 
 ### § 7 Meldepflichtige Nachweise von Krankheitserregern
@@ -1225,8 +1229,8 @@ die Nachweise auf eine akute Infektion hinweisen:
 6.  Campylobacter sp., darmpathogen
 
 
-6a. Candida auris; Meldepflicht nur für den direkten Nachweis aus Blut
-    oder anderen normalerweise sterilen Substraten
+6a. Candidozyma auris; Meldepflicht nur für den direkten Nachweis bei
+    Infektion oder Kolonisation
 
 
 6b. Chikungunya-Virus
@@ -1421,14 +1425,12 @@ die Nachweise auf eine akute Infektion hinweisen:
 
 
     b)  Enterobacterales bei Nachweis einer Carbapenemase-Determinante oder
-        mit verminderter Empfindlichkeit gegenüber Carbapenemen außer bei
-        natürlicher Resistenz; Meldepflicht nur bei Infektion oder
+        mit Resistenz gegenüber Meropenem; Meldepflicht nur bei Infektion oder
         Kolonisation
 
 
     c)  Acinetobacter spp. bei Nachweis einer Carbapenemase-Determinante oder
-        mit verminderter Empfindlichkeit gegenüber Carbapenemen außer bei
-        natürlicher Resistenz; Meldepflicht nur bei Infektion oder
+        mit Resistenz gegenüber Meropenem; Meldepflicht nur bei Infektion oder
         Kolonisation.
 
 
@@ -1484,10 +1486,12 @@ Absatz 1 Nummer 2, 3 oder Absatz 4, § 10 Absatz 3 zu erfolgen.
 
 (1) Zur Meldung sind verpflichtet:
 
-1.  im Falle des § 6 der feststellende Arzt sowie bei der Anwendung
-    patientennaher Schnelltests bei Dritten die feststellende Person, wenn
-    sie nach § 24 Satz 2 oder aufgrund einer Rechtsverordnung nach § 24
-    Satz 3 Nummer 1 zu solchen Schnelltests befugt ist; in Einrichtungen
+1.  im Fall des § 6 der feststellende Arzt sowie bei der berufs- oder
+    gewerbsmäßigen Anwendung von In-vitro-Diagnostika, die für
+    patientennahe Schnelltests bei Dritten verwendet werden, die
+    feststellende Person, wenn ihr nach § 24 Absatz 1 Satz 2 oder aufgrund
+    einer Rechtsverordnung nach § 24 Absatz 2 Satz 1 Nummer 1 die
+    Anwendung der In-vitro-Diagnostika gestattet ist; in Einrichtungen
     nach § 23 Absatz 5 Satz 1 ist für die Einhaltung der Meldepflicht
     neben dem feststellenden Arzt auch der leitende Arzt, in
     Krankenhäusern mit mehreren selbständigen Abteilungen der leitende
@@ -1495,13 +1499,14 @@ Absatz 1 Nummer 2, 3 oder Absatz 4, § 10 Absatz 3 zu erfolgen.
     Arzt verantwortlich,
 
 
-2.  im Falle des § 7 die Leiter von Medizinaluntersuchungsämtern und
+2.  im Fall des § 7 die Leiter von Medizinaluntersuchungsämtern und
     sonstigen privaten oder öffentlichen Untersuchungsstellen
-    einschließlich von Arztpraxen mit Infektionserregerdiagnostik und
-    Krankenhauslaboratorien sowie Zahnärzte und Tierärzte, wenn sie
-    aufgrund einer Rechtsverordnung nach § 24 Satz 3 Nummer 2 befugt sind,
-    im Rahmen einer Labordiagnostik den direkten oder indirekten Nachweis
-    eines Krankheitserregers zu führen,
+    einschließlich der Leiter von Arztpraxen mit
+    Infektionserregerdiagnostik und Krankenhauslaboratorien sowie
+    Zahnärzte und Tierärzte, wenn sie aufgrund einer Rechtsverordnung nach
+    § 24 Absatz 2 Satz 1 Nummer 2 befugt sind, im Rahmen einer
+    Labordiagnostik den direkten oder indirekten Nachweis eines
+    Krankheitserregers zu führen,
 
 
 3.  im Falle der §§ 6 und 7 auch die Leiter von Einrichtungen der
@@ -1562,7 +1567,10 @@ Geltungsbereichs dieses Gesetzes durchführen lassen.
 und 4 bis 8 genannten Personen muss, soweit vorliegend, folgende
 Angaben enthalten:
 
-1.  zur betroffenen Person:
+1.  zur betroffenen Person und im Fall des § 6 Absatz 3 auch zu Personen,
+    die von einer Kolonisation betroffen sind, die mit den nosokomialen
+    Infektionen wahrscheinlich oder vermutlich in einem epidemischen
+    Zusammenhang steht:
 
     a)  Name und Vorname,
 
@@ -1769,56 +1777,7 @@ angehört.
 
 ### § 10 Nichtnamentliche Meldung
 
-(1) Die nichtnamentliche Meldung nach § 6 Absatz 3 Satz 1 muss
-unverzüglich erfolgen und dem Gesundheitsamt, in dessen Bezirk sich
-die Einrichtung befindet, spätestens 24 Stunden nach der Feststellung
-des Ausbruchs vorliegen. Die Meldung muss, soweit vorliegend, folgende
-Angaben enthalten:
-
-1.  Name, Anschrift und weitere Kontaktdaten
-
-    a)  der betroffenen Einrichtung,
-
-
-    b)  des Meldenden,
-
-
-    c)  der mit der Erregerdiagnostik beauftragten Untersuchungsstelle und
-
-
-
-
-
-2.  folgende einzelfallbezogene Angaben zu den aufgetretenen nosokomialen
-    Infektionen sowie zu allen damit wahrscheinlich oder vermutlich in
-    epidemischem Zusammenhang stehenden Kolonisationen:
-
-    a)  Geschlecht der betroffenen Person,
-
-
-    b)  Monat und Jahr der Geburt der betroffenen Person,
-
-
-    c)  Untersuchungsbefund, einschließlich Typisierungsergebnissen,
-
-
-    d)  Diagnose,
-
-
-    e)  Datum der Diagnose,
-
-
-    f)  wahrscheinlicher Infektionsweg, einschließlich Umfeld, in dem die
-        Übertragung wahrscheinlich stattgefunden hat, mit Name, Anschrift und
-        weiteren Kontaktdaten der Infektionsquelle und wahrscheinliches
-        Infektionsrisiko.
-
-
-
-
-
-
-§ 9 Absatz 3 Satz 2 bis 4 gilt entsprechend.
+(1) (weggefallen)
 
 (2) Die nichtnamentliche Meldung nach § 7 Absatz 3 Satz 1 muss
 innerhalb von zwei Wochen, nachdem der Meldende Kenntnis erlangt hat,
@@ -2564,9 +2523,9 @@ festzulegen:
 
 5.  welches Verfahren bei der Bildung der fallbezogenen Pseudonymisierung
     nach Absatz 3 Nummer 1 anzuwenden ist; hierzu kann festgelegt werden,
-    dass bei nichtnamentlichen Meldungen andere als die in § 10 Absatz 1
-    und 2 genannten Angaben übermittelt werden, die sofort nach
-    Herstellung der fallbezogenen Pseudonymisierung zu löschen sind.
+    dass bei nichtnamentlichen Meldungen andere als die in § 10 Absatz 2
+    genannten Angaben übermittelt werden, die sofort nach Herstellung der
+    fallbezogenen Pseudonymisierung zu löschen sind.
 
 
 
@@ -3436,43 +3395,49 @@ eingeschränkt.
 
 
 
-### § 20c Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker
+### § 20c Durchführung von Schutzimpfungen durch Apotheker
 
 (1) Abweichend von § 20 Absatz 4 Satz 1 sind Apotheker zur
-Durchführung von Grippeschutzimpfungen bei Personen, die das 18.
-Lebensjahr vollendet haben, und zur Durchführung von Schutzimpfungen
-gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte
-Lebensjahr vollendet haben, berechtigt, wenn
+Durchführung von Schutzimpfungen mit Impfstoffen, die keine
+Lebendimpfstoffe sind, berechtigt, wenn sie
 
-1.  sie hierfür ärztlich geschult wurden und ihnen die erfolgreiche
-    Teilnahme an der Schulung bestätigt wurde und
+1.  hierfür ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme
+    an der Schulung bestätigt wurde,
 
 
-2.  sie die Schutzimpfungen für eine öffentliche Apotheke, zu deren
-    Personal sie gehören, durchführen.
+2.  die Schutzimpfungen für eine öffentliche Apotheke, zu deren Personal
+    sie gehören, durchführen und
+
+
+3.  die Schutzimpfungen bei einer Person durchführen, die das 18.
+    Lebensjahr vollendet hat.
 
 
 
-Einer nach Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf
-es nicht, wenn ein Apotheker bereits zur Durchführung von
-Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erfolgreich eine nach
-§ 20b Absatz 1 Nummer 1 in der bis zum 31. Dezember 2022 geltenden
-Fassung erforderliche ärztliche Schulung absolviert hat. Einer nach
-Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf es nicht für
-die Impfung von Personen, die das 18. Lebensjahr vollendet haben, wenn
-ein Apotheker bereits im Rahmen von Modellvorhaben nach § 132j des
-Fünften Buches Sozialgesetzbuch oder nach diesem Absatz in der bis zum
-31\. Dezember 2022 geltenden Fassung zur Durchführung von
-Grippeschutzimpfungen erfolgreich eine ärztliche Schulung absolviert
-hat.
+Abweichend von Satz 1 Nummer 1 sind Apotheker, die eine in Satz 1
+Nummer 1, Satz 2 oder 3 jeweils in der bis zum 1. Juli 2026 geltenden
+Fassung genannte ärztliche Schulung erfolgreich absolviert haben,
+berechtigt,
+
+1.  Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-
+    CoV-2 ohne weitere Schulung durchzuführen und
+
+
+2.  weitere Schutzimpfungen mit Impfstoffen durchzuführen, die keine
+    Lebendimpfstoffe sind, wenn sie an einer Ergänzungsschulung
+    erfolgreich teilgenommen haben, die Informationen vermittelt zur
+    Durchführung der weiteren Schutzimpfungen mit Impfstoffen, die keine
+    Lebendimpfstoffe sind.
+
+
+
 
 (2) Die ärztliche Schulung nach Absatz 1 Satz 1 Nummer 1 hat
 insbesondere die Vermittlung der folgenden Kenntnisse, Fähigkeiten und
 Fertigkeiten zu umfassen:
 
-1.  Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung von
-    Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-
-    CoV-2, insbesondere zur
+1.  Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung der in
+    Absatz 1 Satz 1 genannten Schutzimpfungen, insbesondere zur
 
     a)  Aufklärung,
 
@@ -3491,8 +3456,9 @@ Fertigkeiten zu umfassen:
 
 
 
-2.  Kenntnis von Kontraindikationen sowie Fähigkeiten und Fertigkeiten zu
-    deren Beachtung und
+2.  Kenntnis von Kontraindikationen in Bezug auf die jeweilige
+    Schutzimpfung sowie Fähigkeiten und Fertigkeiten zu deren Beachtung
+    und
 
 
 3.  Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen
@@ -3502,12 +3468,48 @@ Fertigkeiten zu umfassen:
 
 
 
-(3) Die Bundesapothekerkammer entwickelt bis zum 1. Februar 2023 in
-Zusammenarbeit mit der Bundesärztekammer auf Basis von bereits
-bestehenden Mustercurricula nach diesem Absatz und nach § 20b Absatz 3
-Nummer 1 jeweils in der bis zum 31. Dezember 2022 geltenden Fassung
-ein Mustercurriculum für die ärztliche Schulung der Apotheker nach
-Absatz 1 Satz 1 Nummer 1.
+(3) Die Bundesapothekerkammer entwickelt bis zum 2. September 2026 in
+Zusammenarbeit mit der Bundesärztekammer
+
+1.  ein Mustercurriculum für die in Absatz 1 Satz 1 Nummer 1 genannte
+    ärztliche Schulung der Apotheker und
+
+
+2.  ein Mustercurriculum für die in Absatz 1 Satz 2 Nummer 2 genannte
+    Ergänzungsschulung.
+
+
+
+Die in Absatz 1 Satz 1 Nummer 1 und Satz 2 Nummer 2 genannten
+Schulungen können, soweit möglich, in digitaler Form abgehalten
+werden.
+
+(4) Apotheker, die nach Absatz 1 zur Durchführung von Schutzimpfungen
+berechtigt sind, dürfen die Verabreichung des Impfstoffs an Personen,
+die sich in der praktischen Ausbildung zum Apotheker befinden, an
+pharmazeutisch-technische Assistenten und an Pharmazieingenieure
+delegieren, sofern sie diese Personen dabei beaufsichtigen und diese
+Personen zur Verabreichung des Impfstoffs ärztlich geschult wurden und
+ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde. Die
+Aufklärung, die Anamnese, die Einholung der Einwilligung der zu
+impfenden Person und die Impfdokumentation nach § 22 dürfen Apotheker
+nicht an die in Satz 1 genannten Personen delegieren. Die ärztliche
+Schulung nach Satz 1 hat insbesondere die Vermittlung der folgenden
+Inhalte zu umfassen:
+
+1.  Kenntnisse, Fähigkeiten und Fertigkeiten zur Verabreichung der in
+    Absatz 1 Satz 1 genannten Impfstoffe und
+
+
+2.  Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen
+    sowie Fähigkeiten und Fertigkeiten zur Durchführung dieser
+    Notfallmaßnahmen.
+
+
+
+Die Bundesapothekerkammer entwickelt bis zum 2. November 2026 in
+Zusammenarbeit mit der Bundesärztekammer ein Mustercurriculum für die
+ärztliche Schulung.
 
 
 ### § 21 Impfstoffe
@@ -4195,42 +4197,57 @@ bleiben unberührt.
 
 ### § 24 Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
 
-Die Feststellung oder die Heilbehandlung einer in § 6 Absatz 1 Satz 1
-Nummer 1, 2 und 5 oder in § 34 Absatz 1 Satz 1 genannten Krankheit
-oder einer Infektion mit einem in § 7 genannten Krankheitserreger oder
-einer sonstigen sexuell übertragbaren Krankheit darf nur durch einen
-Arzt erfolgen. Abweichend von Satz 1 ist Personen unabhängig von ihrer
-beruflichen Qualifikation die Anwendung von In-vitro-Diagnostika, die
-für patientennahe Schnelltests bei Testung auf HIV, das Hepatitis-C-
-Virus, das Severe-Acute-Respiratory-Syndrome-Coronavirus-2 (SARS-
-CoV-2) und Treponema pallidum verwendet werden, gestattet. Das
-Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, dass
+(1) Die Feststellung oder die Heilbehandlung einer in § 6 Absatz 1
+Satz 1 Nummer 1, 2 oder 5 oder einer in § 34 Absatz 1 Satz 1 genannten
+Krankheit oder einer Infektion mit einem in § 7 genannten
+Krankheitserreger oder einer sonstigen sexuell übertragbaren Krankheit
+darf nur durch einen Arzt erfolgen. Abweichend von Satz 1 ist
 
-1.  Satz 1 auch nicht für die Anwendung von In-vitro-Diagnostika gilt, die
-    für patientennahe Schnelltests bei Testung auf weitere Krankheiten
-    oder Krankheitserreger verwendet werden, sowie
-
-
-2.  abweichend von Satz 1 auch ein Zahnarzt oder ein Tierarzt im Rahmen
-    einer Labordiagnostik den direkten oder indirekten Nachweis eines in §
-    7 genannten Krankheitserregers führen kann.
+1.  Apothekern und dem in einer Apotheke tätigen pharmazeutischen Personal
+    sowie Pflegefachpersonen die Anwendung von In-vitro-Diagnostika, die
+    für patientennahe Schnelltests bei Testung auf Adenoviren,
+    Influenzaviren, das Norovirus, Respiratorische Synzytial Viren und das
+    Rotavirus verwendet werden, gestattet, wenn sie die Testung für eine
+    Apotheke oder eine zugelassene Pflegeeinrichtung im Sinne von § 72
+    Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch durchführen, zu
+    deren Personal sie gehören, und
 
 
+2.  Personen unabhängig von ihrer beruflichen Qualifikation die Anwendung
+    von In-vitro-Diagnostika, die für patientennahe Schnelltests bei
+    Testung auf HIV, das Hepatitis-C-Virus, das Severe-Acute-Respiratory-
+    Syndrome-Coronavirus-2 (SARS-CoV-2) und Treponema pallidum verwendet
+    werden, gestattet.
 
-In der Rechtsverordnung nach Satz 3 kann auch geregelt werden, dass
-Veterinärmedizinisch-technische Assistentinnen und
-Veterinärmedizinisch-technische Assistenten bei der Durchführung
-laboranalytischer Untersuchungen zum Nachweis eines in § 7 genannten
-Krankheitserregers die in § 9 Absatz 1 Nummer 1 des MTA-Gesetzes
-genannten Tätigkeiten ausüben dürfen und dass in diesem Fall der
-Vorbehalt der Ausübung dieser Tätigkeiten durch Medizinisch-technische
-Laboratoriumsassistentinnen und Medizinisch-technische
-Laboratoriumsassistenten nicht gilt. In dringenden Fällen kann zum
-Schutz der Bevölkerung die Rechtsverordnung nach Satz 3 ohne
-Zustimmung des Bundesrates erlassen werden. Eine nach Satz 5 erlassene
-Verordnung tritt ein Jahr nach ihrem Inkrafttreten außer Kraft; ihre
-Geltungsdauer kann mit Zustimmung des Bundesrates verlängert werden.
+
+
+
+(2) Das Bundesministerium für Gesundheit wird ermächtigt, soweit dies
+zur Verhinderung der Verbreitung von Krankheiten oder
+Krankheitserregern erforderlich ist, durch Rechtsverordnung mit
+Zustimmung des Bundesrates festzulegen, dass abweichend von Absatz 1
+Satz 1
+
+1.  Personen unabhängig von ihrer beruflichen Qualifikation die Anwendung
+    von In-vitro-Diagnostika gestattet ist, die für patientennahe
+    Schnelltests bei Testung auf die in Absatz 1 genannten Krankheiten und
+    Krankheitserreger, auch soweit sie nicht in Absatz 1 Satz 2 Nummer 2
+    genannt sind, verwendet werden, und
+
+
+2.  auch ein Zahnarzt oder ein Tierarzt im Rahmen einer Labordiagnostik
+    den direkten oder indirekten Nachweis eines in § 7 genannten
+    Krankheitserregers führen darf.
+
+
+
+In der Rechtsverordnung nach Satz 1 kann auch geregelt werden, dass
+Medizinische Technologen für Veterinärmedizin bei der Durchführung
+laboranalytischer Untersuchungen zum Nachweis eines in § 7 genannten
+Krankheitserregers die in § 5 Absatz 1 Satz 1 Nummer 1 des MT-Berufe-
+Gesetzes genannten Tätigkeiten ausüben dürfen und dass in diesem Fall
+der Vorbehalt der Ausübung dieser Tätigkeiten durch Medizinische
+Technologen für Laboratoriumsanalytik nicht gilt.
 
 
 ### § 25 Ermittlungen
@@ -6183,6 +6200,10 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
     Feststellungen des Umweltbundesamtes nach Nummer 6 gelten,
 
 
+7a. nach welchem Verfahren Konformitätsbewertungsstellen nach der
+    Delegierten Verordnung (EU) 2024/370 notifiziert werden,
+
+
 8.  in welchen Fällen das Wasser für den menschlichen Gebrauch, das den
     Anforderungen nach Nummer 1 oder Nummer 6 nicht entspricht, nicht oder
     nur eingeschränkt abgegeben oder anderen nicht oder nur eingeschränkt
@@ -6273,7 +6294,9 @@ Die Rechtsverordnung bedarf des Einvernehmens mit dem
 Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
 Verbraucherschutz, soweit in der Rechtsverordnung Regelungen zu
 Wasserversorgungsanlagen mit Wassergewinnung oder zu radioaktiven
-Stoffen im Wasser für den menschlichen Gebrauch getroffen werden.
+Stoffen im Wasser für den menschlichen Gebrauch getroffen werden. Das
+Bundesministerium für Gesundheit kann die Ermächtigung nach Satz 1
+Nummer 7a durch Rechtsverordnung auf das Umweltbundesamt übertragen.
 
 (2) Das Bundesministerium für Gesundheit bestimmt durch
 Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -6341,10 +6364,12 @@ um
 
 ### § 40 Aufgaben des Umweltbundesamtes
 
-Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe,
+(1) Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe,
 Konzeptionen zur Vorbeugung, Erkennung und Verhinderung der
 Weiterverbreitung von durch Wasser übertragbaren Krankheiten zu
-entwickeln. Beim Umweltbundesamt können zur Erfüllung dieser Aufgaben
+entwickeln.
+
+(2) Beim Umweltbundesamt können zur Erfüllung dieser Aufgaben
 beratende Fachkommissionen eingerichtet werden, die Empfehlungen zum
 Schutz der menschlichen Gesundheit hinsichtlich der Anforderungen an
 die Qualität des in § 37 Abs. 1 und 2 bezeichneten Wassers sowie der
@@ -6357,6 +6382,9 @@ Gesundheit, des Bundesministeriums für Umwelt, Naturschutz und
 nukleare Sicherheit und des Umweltbundesamtes nehmen mit beratender
 Stimme an den Sitzungen teil. Weitere Vertreter von Bundes- und
 Landesbehörden können daran teilnehmen.
+
+(3) Das Umweltbundesamt nimmt die Aufgaben der notifizierenden Behörde
+nach Artikel 3 der Delegierten Verordnung (EU) 2024/370 wahr.
 
 
 ### § 41 Abwasser
@@ -7749,9 +7777,8 @@ einer schwereren Strafe bedroht ist.
 so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft, wer entgegen § 24 Satz 1, auch in Verbindung mit Satz 2,
-dieser auch in Verbindung mit einer Rechtsverordnung nach § 15 Abs. 1,
-eine Person behandelt.
+bestraft, wer entgegen § 24 Absatz 1 Satz 1, auch in Verbindung § 15
+Absatz 1 Satz 2, eine Person behandelt.
 
 
 ### § 75a Weitere Strafvorschriften
