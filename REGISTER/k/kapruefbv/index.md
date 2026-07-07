@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2013, 2777
 
 Zuletzt geändert durch
-:   Art. 17 Abs. 4 G v. 3.6.2021 I 1498
-
-Änderung durch
-:   Art. 26 Abs. 6 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 26 Abs. 6 G v. 25.3.2026 I Nr. 81
 
 
 ## Eingangsformel
