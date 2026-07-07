@@ -3114,6 +3114,31 @@ von Leistungen nach dem Dritten oder Vierten Kapitel Leistungen nach
 dem Zweiten Buch bezogen haben, wird die nach § 22 Absatz 1 Satz 2 bis
 4 des Zweiten Buches bereits in Anspruch genommene Karenzzeit für die
 weitere Dauer der Karenzzeit nach den Sätzen 2 bis 5 berücksichtigt.
+Abweichend von den Sätzen 1 bis 3 werden tatsächliche Aufwendungen für
+die Unterkunft nicht als Bedarf anerkannt, soweit sie mehr als
+eineinhalbmal so hoch sind wie die abstrakt als angemessen geltenden
+Aufwendungen; nach einer Verminderung der Anzahl der Mitglieder der
+Haushaltsgemeinschaft ist Absatz 3 Satz 2 anzuwenden. In der
+Karenzzeit können im Einzelfall höhere Aufwendungen für die Unterkunft
+anerkannt werden, wenn sie unabweisbar sind oder in
+Haushaltsgemeinschaften mit Kindern anfallen. Tatsächliche
+Aufwendungen für die Unterkunft gelten als unangemessen und die Sätze
+2 und 3 gelten nicht, soweit
+
+1.  in dem für die Angemessenheitsprüfung maßgeblichen Gebiet eine
+    Obergrenze für tatsächliche Aufwendungen bezogen auf einen
+    Quadratmeter Wohnfläche bestimmt ist und die tatsächlichen
+    Aufwendungen darüber liegen oder
+
+
+2.  die vereinbarte Miete die nach den §§ 556d bis 556g des Bürgerlichen
+    Gesetzbuchs zulässige Miethöhe übersteigt; in diesem Fall ist die
+    Mieterin oder der Mieter durch den Träger der Sozialhilfe
+    aufzufordern, den angenommenen Verstoß gegen die §§ 556d bis 556g des
+    Bürgerlichen Gesetzbuchs zu rügen.
+
+
+
 
 (2) Der Träger der Sozialhilfe prüft zu Beginn der Karenzzeit nach
 Absatz 1 Satz 2 bis 6 die Angemessenheit der Aufwendungen für
@@ -3140,7 +3165,8 @@ Leistungen unwirtschaftlich wäre. Stirbt ein Mitglied der
 Haushaltsgemeinschaft und waren die Aufwendungen für Unterkunft und
 Heizung davor angemessen, ist die Senkung der Aufwendungen für die
 weiterhin bewohnte Unterkunft für die Dauer von mindestens zwölf
-Monaten nach dem Sterbemonat nicht zumutbar.
+Monaten nach dem Sterbemonat nicht zumutbar. In den Fällen nach Satz 4
+ist Absatz 1 Satz 7 nicht anzuwenden.
 
 (4) Der Träger der Sozialhilfe kann für seinen örtlichen
 Zuständigkeitsbereich für die Höhe der Bedarfe für Unterkunft eine
@@ -3167,7 +3193,7 @@ Heizung nach § 42a Absatz 5 und 6 anzuerkennen. Leben
 Leistungsberechtigte in einer sonstigen Unterkunft nach § 42a Absatz 2
 Satz 1 Nummer 3, so sind Aufwendungen für Unterkunft und Heizung nach
 § 42a Absatz 7 anzuerkennen. Für die Bedarfe nach den Sätzen 1 und 2
-gilt Absatz 1 Satz 2 bis 6 nicht.
+gilt Absatz 1 Satz 2 bis 9 nicht.
 
 (7) Zur Beurteilung der Angemessenheit der Aufwendungen für Unterkunft
 und Heizung nach Absatz 1 Satz 1 ist die Bildung einer
@@ -3192,7 +3218,7 @@ angemessen sind. Übersteigen die unabweisbaren Aufwendungen für
 Instandhaltung und Reparatur den Bedarf für die Unterkunft nach Satz
 1, kann zur Deckung dieses Teils der Aufwendungen ein Darlehen
 erbracht werden, das dinglich gesichert werden soll. Für die Bedarfe
-nach Satz 1 gilt § 35 Absatz 1 Satz 2 bis 6 nicht.
+nach Satz 1 gilt § 35 Absatz 1 Satz 2 bis 9 nicht.
 
 (2) Vor Abschluss eines Vertrages über eine neue Unterkunft haben
 Leistungsberechtigte den dort zuständigen Träger der Sozialhilfe über
@@ -3679,7 +3705,7 @@ Die Bedarfe nach diesem Kapitel umfassen:
 (1) Für Leistungsberechtigte sind angemessene Bedarfe für Unterkunft
 und Heizung nach dem Vierten Abschnitt des Dritten Kapitels sowie nach
 § 42 Nummer 4 Buchstabe b anzuerkennen, soweit in den folgenden
-Absätzen nichts Abweichendes geregelt ist. § 35 Absatz 1 Satz 2 bis 6
+Absätzen nichts Abweichendes geregelt ist. § 35 Absatz 1 Satz 2 bis 9
 gilt nicht in den Fällen der Absätze 3 und 5 bis 7.
 
 (2) Für die Anerkennung von Bedarfen für Unterkunft und Heizung bei
@@ -3995,10 +4021,10 @@ für einen Bewilligungszeitraum von zwölf Kalendermonaten bewilligt.
 Sofern über den Leistungsanspruch nach § 44a vorläufig entschieden
 wird, soll der Bewilligungszeitraum nach Satz 1 auf höchstens sechs
 Monate verkürzt werden. Bei einer Bewilligung nach dem Bezug von
-Bürgergeld nach dem Zweiten Buch, der mit Erreichen der Altersgrenze
-nach § 7a des Zweiten Buches endet, beginnt der Bewilligungszeitraum
-erst mit dem Ersten des Monats, der auf den sich nach § 7a des Zweiten
-Buches ergebenden Monat folgt.
+Grundsicherungsgeld nach dem Zweiten Buch, der mit Erreichen der
+Altersgrenze nach § 7a des Zweiten Buches endet, beginnt der
+Bewilligungszeitraum erst mit dem Ersten des Monats, der auf den sich
+nach § 7a des Zweiten Buches ergebenden Monat folgt.
 
 (4) Leistungen zur Deckung von wiederkehrenden Bedarfen nach § 42
 Nummer 1, 2 und 4 werden monatlich im Voraus erbracht. Für Leistungen
@@ -5180,10 +5206,8 @@ Elften Buches aufgenommen wurden.
 
 Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im
 Sinne des § 64j Anspruch auf erforderliche ergänzende
-Unterstützungsleistungen, die das Bundesinstitut für Arzneimittel und
-Medizinprodukte nach § 78a Absatz 5 Satz 6 des Elften Buches
-festgelegt hat, durch nach dem Recht des Elften Buches zugelassene
-ambulante Pflegeeinrichtungen.
+Unterstützungsleistungen durch nach dem Recht des Elften Buches
+zugelassene ambulante Pflegeeinrichtungen.
 
 
 ### § 65 Stationäre Pflege
@@ -7134,16 +7158,36 @@ Unterhaltspflichtigen und deren nicht getrennt lebenden Ehegatten oder
 Lebenspartner sowie Kostenersatzpflichtigen Auskunft zu geben, soweit
 die Durchführung dieses Buches es erfordert.
 
-(5) Die nach den Absätzen 1 bis 4 zur Erteilung einer Auskunft
+(5) Wer jemandem, der Leistungen nach diesem Buch beantragt hat,
+bezieht oder bezogen hat, eine Unterkunft zur Verfügung stellt, für
+die Aufwendungen als Bedarf anerkannt werden, hat dem Träger der
+Sozialhilfe auf Verlangen hierüber Auskünfte zu erteilen, insbesondere
+über die Höhe etwaiger Entgelte, Dauer der Rechtsbeziehung, Anzahl der
+Nutzenden und Abrechnungsmodalitäten, soweit es zur Durchführung der
+Aufgaben nach diesem Buch erforderlich ist. Dasselbe gilt für
+Vermieter von Gewerberäumen oder Gewerbeflächen, die von den in Satz 1
+genannten Personen zum Zwecke einer Erwerbstätigkeit angemietet
+werden. § 21 Absatz 3 Satz 4 des Zehnten Buches gilt entsprechend.
+
+(6) Wer Auskünfte nach den Absätzen 1 bis 5 erteilen muss, hat auf
+Verlangen des zuständigen Trägers entsprechende Beweismittel zu
+bezeichnen und vorzulegen, wenn die vorgelegten Auskünfte zur
+Sachverhaltsaufklärung nicht ausreichen.
+
+(7) Soweit für die in den Absätzen 1 bis 5 genannten Auskünfte
+Vordrucke vorgesehen sind, sollen diese verwendet werden.
+
+(8) Die nach den Absätzen 1 bis 5 zur Erteilung einer Auskunft
 Verpflichteten können Angaben verweigern, die ihnen oder ihnen nahe
 stehenden Personen (§ 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung)
 die Gefahr zuziehen würden, wegen einer Straftat oder einer
 Ordnungswidrigkeit verfolgt zu werden.
 
-(6) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig die
-Auskünfte nach den Absätzen 2, 3 Satz 1 und Absatz 4 nicht, nicht
-richtig, nicht vollständig oder nicht rechtzeitig erteilt. Die
-Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
+(9) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig die
+Auskünfte nach den Absätzen 2 und 3 Satz 1 sowie den Absätzen 4 und 5
+nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+erteilt. Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet
+werden.
 
 
 ### § 118 Überprüfung, Verwaltungshilfe
