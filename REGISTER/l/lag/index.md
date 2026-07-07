@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 24 G v. 15.7.2024 I Nr. 236
 
+Änderung durch
+:   Art. 6 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Präambel
 
