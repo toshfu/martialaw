@@ -4690,7 +4690,8 @@ anderen Person dazu verwendet werden sollen,
 
 2.  einen anderen zur Begehung einer terroristischen Straftat nach § 89a
     Absatz 1 Satz 2 Nummer 1 bis 8 zu bestimmen, zu dessen terroristischer
-    Straftat nach § 89a Absatz 1 Nummer 1 bis 8 Hilfe zu leisten oder eine
+    Straftat nach § 89a Absatz 1
+    Satz 2                    Nummer 1 bis 8 Hilfe zu leisten oder eine
     Straftat nach § 89a Absatz 2b zu begehen,
 
 
