@@ -2143,10 +2143,10 @@ dass die Voraussetzungen für einen Ausschluss nach Satz 1 oder 2 nicht
 vorliegen; auch im Falle einer Erklärung des Bewerbers können
 öffentliche Auftraggeber Auskünfte aus dem Wettbewerbsregister
 jederzeit anfordern. Für den Bewerber, der den Zuschlag erhalten soll,
-fordert der öffentliche Auftraggeber nach Satz 3 bei Aufträgen ab
-einer Höhe von 30 000 Euro vor Zuschlagserteilung eine Auskunft aus
-dem Wettbewerbsregister an. Der Bewerber ist vor der Entscheidung über
-den Ausschluss zu hören.
+fordert der öffentliche Auftraggeber nach Satz 3 bei Aufträgen mit
+einem geschätzten Auftragswert ab 50 000 Euro ohne Umsatzsteuer vor
+Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregister an. Der
+Bewerber ist vor der Entscheidung über den Ausschluss zu hören.
 
 (2) Eine Verfehlung nach Absatz 1 steht einer Verletzung von Pflichten
 nach § 241 Abs. 2 des Bürgerlichen Gesetzbuchs gleich.
