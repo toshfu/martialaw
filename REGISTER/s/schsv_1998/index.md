@@ -5989,7 +5989,7 @@ Kapitel 3
 
 
 
-[^F799100_04_BJNR302300998BJNE002505119]
+[^F799100_04_BJNR302300998BJNE002506119]
     wobei keine der Kantenlängen 350 mm unterschreiten darf.
     Nur mit einem Schlüssel zu öffnende Fenster gelten als Festfenster.
 
@@ -7851,8 +7851,8 @@ Sicherheitsanforderungen an
 
 
         b)  **Behördenfahrzeug:**                                ein Frachtschiff
-            im Sinne des § 3 Buchstabe c des Flaggenrechtsgesetzes oder das zur
-            Erfüllung hoheitlicher Aufgaben unter Aufsicht des Bundes, eines
+            im Sinne des § 3 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes oder das
+            zur Erfüllung hoheitlicher Aufgaben unter Aufsicht des Bundes, eines
             Landes oder einer Gemeinde oder eines Gemeindeverbandes eingesetzt ist
             und nicht Handelszwecken dient;
 
@@ -10395,12 +10395,12 @@ bezogen auf die Schiffslänge „L“**
         Wetterdecks führen.
 
 
-*    *[^F799100_11_BJNR302300998BJNE002505119]
+*    *[^F799100_11_BJNR302300998BJNE002506119]
    Bereich 1
 
     *   Bereich 1
 
-    *[^F799100_12_BJNR302300998BJNE002505119]
+    *[^F799100_12_BJNR302300998BJNE002506119]
    Bereich 2
 
     *   Bereich 1
@@ -10408,7 +10408,7 @@ bezogen auf die Schiffslänge „L“**
     *   Bereich 2
 
 
-*    *[^F799100_13_BJNR302300998BJNE002505119]
+*    *[^F799100_13_BJNR302300998BJNE002506119]
    Türen (Reg.
         12, 17, 18)
 
@@ -10680,9 +10680,9 @@ Kapitel 2
     Austritt aus dem Dampferzeuger, zu messen.
 
 
-2.7[^F799100_14_BJNR302300998BJNE002505119]
+2.7[^F799100_14_BJNR302300998BJNE002506119]
  Wandungen von Dampferzeugern
-[^F799100_15_BJNR302300998BJNE002505119]
+[^F799100_15_BJNR302300998BJNE002506119]
     sind die Wandungen der Dampf- und der Wasserräume, die zwischen den
     Absperreinrichtungen des Dampferzeugers in den Eintritts-, Austritts-
     und Ablassleitungen liegen. Die Gehäuse von Absperreinrichtungen und
@@ -10725,7 +10725,7 @@ Kapitel 2
     höchster Dauerleistung nicht überschritten wird.
 
 
-**3.**[^F799100_16_BJNR302300998BJNE002505119]
+**3.**[^F799100_16_BJNR302300998BJNE002506119]
  Speisepumpen ****
 
 
@@ -10875,7 +10875,7 @@ Kapitel 2
 **6.** Absperr- und Entleerungseinrichtungen ****
 
 
-6.1[^F799100_17_BJNR302300998BJNE002505119]
+6.1[^F799100_17_BJNR302300998BJNE002506119]
  Jeder Dampferzeuger muss Einrichtungen haben, durch die er von allen
     angeschlossenen Leitungen abgesperrt werden kann. Die Einrichtungen
     sollen möglichst nahe am Dampferzeuger angebracht sein. Bei
@@ -11247,7 +11247,7 @@ Kapitel 2
 15.1.3 zulässige Dampferzeugung in t/h bzw. kg/h,
 
 
-15.1.4[^F799100_18_BJNR302300998BJNE002505119]
+15.1.4[^F799100_18_BJNR302300998BJNE002506119]
  Herstellnummer und Herstelljahr
     ,
 
@@ -11577,7 +11577,7 @@ Kapitel 3
     Anschlussleitungen gegen Einfrieren geschützt sein.
 
 
-4.3[^F799100_19_BJNR302300998BJNE002505119]
+4.3[^F799100_19_BJNR302300998BJNE002506119]
  Sind bei Eigendruckhaltung Wärmeverbraucher so hoch angeordnet oder so
     beschaffen
     , dass durch ihren Betrieb gefährliche Rückwirkungen auf die
@@ -12049,7 +12049,7 @@ Kapitel 3
     ****
 
 
-14.1[^F799100_20_BJNR302300998BJNE002505119]
+14.1[^F799100_20_BJNR302300998BJNE002506119]
  Sicherheitsventile
 
 
@@ -12169,7 +12169,7 @@ Kapitel 3
 16.1.4 zulässige Wärmeleistung in kW oder MW,
 
 
-16.1.5[^F799100_21_BJNR302300998BJNE002505119]
+16.1.5[^F799100_21_BJNR302300998BJNE002506119]
  Herstellnummer und Herstelljahr
     .
 
@@ -13140,7 +13140,7 @@ Kapitel 6
 **2.** Begriffsbestimmungen ****
 
 
-2.1[^F799100_22_BJNR302300998BJNE002505119]
+2.1[^F799100_22_BJNR302300998BJNE002506119]
  Salzfreies Speisewasser ist Wasser mit einem Elektrolytgehalt
     entsprechend einer Leitfähigkeit*                    0,2 μS/cm,
     gemessen hinter starksaurem Probenahme-Kationenaustauscher
@@ -13157,7 +13157,7 @@ Kapitel 6
     gemessen ohne starksauren Probenahme-Kationenaustauscher.
 
 
-2.4[^F799100_23_BJNR302300998BJNE002505119]
+2.4[^F799100_23_BJNR302300998BJNE002506119]
  Konditionierung im Sinne dieser Anforderungen ist die Verbesserung
     bestimmter Qualitätsmerkmale des Speisewassers und Kesselwassers durch
     Anwendung von Konditionierungsmitteln
@@ -13287,7 +13287,7 @@ Kapitel 6
 
 
 
-**Tafel 1**[^F799100_25_BJNR302300998BJNE002505119]
+**Tafel 1**[^F799100_25_BJNR302300998BJNE002506119]
  Anforderungen an salzfreies
     Speisewasser für Durchlauf-Dampferzeuger
 
@@ -13548,9 +13548,9 @@ Kapitel 6
 
     *   kontinuierlich
 
-    *[^F799100_26_BJNR302300998BJNE002505119]
+    *[^F799100_26_BJNR302300998BJNE002506119]
    Bei kombinierter Anwendung fester und flüchtiger Alkalisierungsmittel
-[^F799100_27_BJNR302300998BJNE002505119]
+[^F799100_27_BJNR302300998BJNE002506119]
         ,
 
 
@@ -13729,7 +13729,7 @@ Kapitel 6
         < 4 000
 
     *   10,5 bis 11,5
-[^F799100_28_BJNR302300998BJNE002505119]
+[^F799100_28_BJNR302300998BJNE002506119]
         10,0 bis 11,0
 
     *   10,5 bis 12,0
@@ -13774,7 +13774,7 @@ Kapitel 6
     *   *                        22
         *                        44
         *                        68
-[^F799100_29_BJNR302300998BJNE002505119]
+[^F799100_29_BJNR302300998BJNE002506119]
         *                        87
 
     *   < 8 000
@@ -13796,7 +13796,7 @@ Kapitel 6
 
 
 
-**Tafel 6**[^F799100_30_BJNR302300998BJNE002505119]
+**Tafel 6**[^F799100_30_BJNR302300998BJNE002506119]
  Anforderungen an das Kreislaufwasser
 
 
@@ -13821,12 +13821,12 @@ Kapitel 6
     *   > 100 – 1 500
 
 
-*    *[^F799100_31_BJNR302300998BJNE002505119]
+*    *[^F799100_31_BJNR302300998BJNE002506119]
    pH-Wert bei 25 °C
 
     *   –
 
-    *[^F799100_32_BJNR302300998BJNE002505119]
+    *[^F799100_32_BJNR302300998BJNE002506119]
    9,0 – 10,0
 
     *   9,0 – 10,5
@@ -13836,7 +13836,7 @@ Kapitel 6
 
 
 *    *   Sauerstoff (O
-[^F799100_33_BJNR302300998BJNE002505119]
+[^F799100_33_BJNR302300998BJNE002506119]
         2                       )
 
     *   mg/l
@@ -14111,7 +14111,7 @@ Kapitel 7
 **3.** Ölschlammtanks ****
 
 
-**3.1**[^F799100_34_BJNR302300998BJNE002505119]
+**3.1**[^F799100_34_BJNR302300998BJNE002506119]
  Für die Lagerung sind ausreichend groß bemessene Ölschlammtanks
     vorzusehen
     . Bei der Bestimmung der Tankgröße sind insbesondere zu
@@ -14315,80 +14315,80 @@ Kapitel 7
 
 
 
-[^F799100_04_BJNR302300998BJNE002505119]:     Es wird auf folgende DIN ISO-Normen verwiesen:               DIN ISO
+[^F799100_04_BJNR302300998BJNE002506119]:     Es wird auf folgende DIN ISO-Normen verwiesen:               DIN ISO
     1751, Ausgabe Dezember 2015: Schiffbau und Meerestechnik; Runde
     Schiffsfenster.               DIN ISO 3903, Ausgabe Dezember 2015:
     Schiffbau und Meerestechnik; Rechteckige Schiffsfenster.
     Die Zulassung erfolgt nach den im Seeaufgabengesetz zugewiesenen
     Zuständigkeiten.
-[^F799100_05_BJNR302300998BJNE002505119]:     Bei der Berechnung des Querschnitts ist eine Ansauggeschwindigkeit von
+[^F799100_05_BJNR302300998BJNE002506119]:     Bei der Berechnung des Querschnitts ist eine Ansauggeschwindigkeit von
     4 m/s zugrunde gelegt.
-[^F799100_06_BJNR302300998BJNE002505119]:     Propellerwellen, die von Hand oder automatisch mit Fett geschmiert
+[^F799100_06_BJNR302300998BJNE002506119]:     Propellerwellen, die von Hand oder automatisch mit Fett geschmiert
     werden. Der Wirkungsgrad des Hauptgetriebes wird mit 0,97 angesetzt.
-[^F799100_07_BJNR302300998BJNE002505119]:     Das Gerät muss den Vorgaben der europäischen Richtlinien über die
+[^F799100_07_BJNR302300998BJNE002506119]:     Das Gerät muss den Vorgaben der europäischen Richtlinien über die
     Bereitstellung auf dem Markt und die Inbetriebnahme von Funkanlagen
     (z. B. Richtlinie 1999/5/EG und 2014/53/EU) entsprechen.
-[^F799100_08_BJNR302300998BJNE002505119]:     Das Gerät muss den Vorgaben der europäischen Richtlinien über die
+[^F799100_08_BJNR302300998BJNE002506119]:     Das Gerät muss den Vorgaben der europäischen Richtlinien über die
     Bereitstellung auf dem Markt und die Inbetriebnahme von Funkanlagen
     (z.B. Richtlinie 1999/5/EG und 2014/53/EU) entsprechen.
-[^F799100_09_BJNR302300998BJNE002505119]:     Die Zulassung erfolgt nach den im Seeaufgabengesetz zugewiesenen
+[^F799100_09_BJNR302300998BJNE002506119]:     Die Zulassung erfolgt nach den im Seeaufgabengesetz zugewiesenen
     Zuständigkeiten.
-[^F799100_10_BJNR302300998BJNE002505119]:     Bereich 1: Auf dem Wetterdeck (Freiborddeck) und auf dem 1. Aufbaudeck
+[^F799100_10_BJNR302300998BJNE002506119]:     Bereich 1: Auf dem Wetterdeck (Freiborddeck) und auf dem 1. Aufbaudeck
     bis zu einem Abstand von 25 % der Schiffslänge vom vorderen Lot.
-[^F799100_11_BJNR302300998BJNE002505119]:     Bereich 2: Auf dem 1. Aufbaudeck (mindestens 1 800 mm über Bereich 1)
+[^F799100_11_BJNR302300998BJNE002506119]:     Bereich 2: Auf dem 1. Aufbaudeck (mindestens 1 800 mm über Bereich 1)
     und auf dem 2. Aufbaudeck bis zu einem Abstand von 25 % der
     Schiffslänge vom vorderen Lot.
-[^F799100_12_BJNR302300998BJNE002505119]:     Reg.: Entsprechende Regel des Internationalen Freibord-Übereinkommens.
-[^F799100_13_BJNR302300998BJNE002505119]:     Dazu gehören auch die Wandungen nicht absperrbarer Vorverdampfer.
-[^F799100_14_BJNR302300998BJNE002505119]:     Umwälzpumpen, die saug- und druckseitig vom Dampfkessel und/oder
+[^F799100_12_BJNR302300998BJNE002506119]:     Reg.: Entsprechende Regel des Internationalen Freibord-Übereinkommens.
+[^F799100_13_BJNR302300998BJNE002506119]:     Dazu gehören auch die Wandungen nicht absperrbarer Vorverdampfer.
+[^F799100_14_BJNR302300998BJNE002506119]:     Umwälzpumpen, die saug- und druckseitig vom Dampfkessel und/oder
     Überhitzer absperrbar sind und die nicht betriebsmäßig, d. h. nicht
     zur Aufrechterhaltung des normalen Kesselbetriebes benötigt werden,
     sind nicht als Kesselteil (Kesselwandung), sondern als Teil der
     Dampfkesselanlage anzusehen.
-[^F799100_15_BJNR302300998BJNE002505119]:     Hierunter werden auch Dampfstrahlpumpen (Injektoren) verstanden.
-[^F799100_16_BJNR302300998BJNE002505119]:     In diesem Falle gilt die Rohrleitung als Teil des Dampferzeugers.
+[^F799100_15_BJNR302300998BJNE002506119]:     Hierunter werden auch Dampfstrahlpumpen (Injektoren) verstanden.
+[^F799100_16_BJNR302300998BJNE002506119]:     In diesem Falle gilt die Rohrleitung als Teil des Dampferzeugers.
     Wasserdruckprüfungen müssen durchgeführt werden können.
-[^F799100_17_BJNR302300998BJNE002505119]:     Das Jahr, in dem die erste Wasserdruckprüfung durchgeführt worden ist.
-[^F799100_18_BJNR302300998BJNE002505119]:     Entsprechende Angaben sind vom Antragsteller zu machen.
-[^F799100_19_BJNR302300998BJNE002505119]:     Hinsichtlich der Zu- und Abführungsleitungen ist die DIN EN 12952,
+[^F799100_17_BJNR302300998BJNE002506119]:     Das Jahr, in dem die erste Wasserdruckprüfung durchgeführt worden ist.
+[^F799100_18_BJNR302300998BJNE002506119]:     Entsprechende Angaben sind vom Antragsteller zu machen.
+[^F799100_19_BJNR302300998BJNE002506119]:     Hinsichtlich der Zu- und Abführungsleitungen ist die DIN EN 12952,
     Teil 3 oder die DIN EN 12953, Teil 10 zu beachten.
-[^F799100_20_BJNR302300998BJNE002505119]:     Das Jahr, in dem die erste Wasserdruckprüfung durchgeführt worden ist.
-[^F799100_21_BJNR302300998BJNE002505119]:     Diese Begriffsbestimmung setzt voraus, dass keine freien Basen, z. B.
+[^F799100_20_BJNR302300998BJNE002506119]:     Das Jahr, in dem die erste Wasserdruckprüfung durchgeführt worden ist.
+[^F799100_21_BJNR302300998BJNE002506119]:     Diese Begriffsbestimmung setzt voraus, dass keine freien Basen, z. B.
     Natriumhydroxid, als Verunreinigung vorhanden sind.
-[^F799100_22_BJNR302300998BJNE002505119]:     Falls Hydrazin zur Anwendung gelangt, sind die
+[^F799100_22_BJNR302300998BJNE002506119]:     Falls Hydrazin zur Anwendung gelangt, sind die
     berufsgenossenschaftlichen Merkblätter „Hydrazin“ (ZH 1/127) und
     „Grundsätze für die Anerkennung von geschlossenen Umfüll- und
     Dosieranlagen für wässrige Lösungen von Hydrazin“ (ZH 1/109) zu
     beachten.
-[^F799100_23_BJNR302300998BJNE002505119]:     Begriffsbestimmungen für salzfreies, salzarmes und salzhaltiges
+[^F799100_23_BJNR302300998BJNE002506119]:     Begriffsbestimmungen für salzfreies, salzarmes und salzhaltiges
     Speisewasser siehe Abschnitte 2.1, 2.2 und 2.3.
-[^F799100_25_BJNR302300998BJNE002505119]:     Alternativ ist die Anwendung ausschließlich flüchtiger
+[^F799100_25_BJNR302300998BJNE002506119]:     Alternativ ist die Anwendung ausschließlich flüchtiger
     Alkalisierungsmittel möglich, wenn die Speisewasserrichtwerte nach
     Tafel 2 sowie eine Kesselwasserleitfähigkeit < 3 µS/cm hinter dem
     Kationenaustauscher eingehalten wird.
-[^F799100_26_BJNR302300998BJNE002505119]:     Bei Großwasserraum-Dampferzeugern wird von Natrium- oder
+[^F799100_26_BJNR302300998BJNE002506119]:     Bei Großwasserraum-Dampferzeugern wird von Natrium- oder
     Kaliumhydroxid als festem Alkalisierungsmittel abgeraten und statt
     dessen Trinatriumphosphat empfohlen.
-[^F799100_27_BJNR302300998BJNE002505119]: [^F799100_28_BJNR302300998BJNE002505119]:     Bei salzarmem Speisewasser ist eine Phosphatkonzentration von 7,5 bis
+[^F799100_27_BJNR302300998BJNE002506119]: [^F799100_28_BJNR302300998BJNE002506119]:     Bei salzarmem Speisewasser ist eine Phosphatkonzentration von 7,5 bis
     15 mg/l PO             4             , in der Regel durch
     Trinariumphosphat, einzustellen. Wenn der Mindest-pH-Wert dadurch
     nicht erreicht wird, soll zusätzlich Natronlauge dosiert werden.
     Nur salzarmes Speisewasser zugelassen.
-[^F799100_29_BJNR302300998BJNE002505119]:     Gemessen am Eintritt des Heißwassererzeugers.
-[^F799100_30_BJNR302300998BJNE002505119]:     Sollen die Bestimmungen der Trinkwasserverordnung eingehalten werden,
+[^F799100_29_BJNR302300998BJNE002506119]:     Gemessen am Eintritt des Heißwassererzeugers.
+[^F799100_30_BJNR302300998BJNE002506119]:     Sollen die Bestimmungen der Trinkwasserverordnung eingehalten werden,
     darf ein pH-Wert von 9,5 nicht überschritten werden. Die
     Verträglichkeit der Pumpen- und Armaturenwerkstoffe mit dem
     Kreislaufwasser ist zu beachten.
-[^F799100_31_BJNR302300998BJNE002505119]:     Zur Einstellung des pH-Wertes ist bei Großwasserraumkesseln in erster
+[^F799100_31_BJNR302300998BJNE002506119]:     Zur Einstellung des pH-Wertes ist bei Großwasserraumkesseln in erster
     Linie Trinatriumphosphat zu verwenden und Natronlauge nur dann
     einzusetzen, wenn der angestrebte pH-Wert mit Trinatriumphosphat nicht
     zu erreichen ist.
-[^F799100_32_BJNR302300998BJNE002505119]:     Im Dauerbetrieb stellen sich normalerweise deutlich niedrigere Werte
+[^F799100_32_BJNR302300998BJNE002506119]:     Im Dauerbetrieb stellen sich normalerweise deutlich niedrigere Werte
     ein.
-[^F799100_33_BJNR302300998BJNE002505119]:     Auslegung gemäß den Anforderungen „Meeresumwelt-Schutzmaßnahmen der BG
+[^F799100_33_BJNR302300998BJNE002506119]:     Auslegung gemäß den Anforderungen „Meeresumwelt-Schutzmaßnahmen der BG
     Verkehr“. Zu beziehen bei der Dienststelle Schiffssicherheit,
     Brandstwiete 1, 20457 Hamburg.
-[^F799100_34_BJNR302300998BJNE002505119]: 
+[^F799100_34_BJNR302300998BJNE002506119]: 
 (zu § 9)
 
 ## Anlage 2 Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
