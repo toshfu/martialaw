@@ -2663,12 +2663,13 @@ Krankenversicherung. Dies sind:
     zurückgezahlt worden ist,
 
 
-2a. Personen in der Zeit, für die sie Bürgergeld nach § 19 Absatz 1 Satz 1
-    des Zweiten Buches beziehen, auch wenn die Entscheidung, die zum Bezug
-    der Leistung geführt hat, rückwirkend aufgehoben oder die Leistung
-    zurückgefordert oder zurückgezahlt worden ist, es sei denn, dass diese
-    Leistung nur darlehensweise gewährt wird oder nur Leistungen nach § 24
-    Absatz 3 Satz 1 des Zweiten Buches bezogen werden,
+2a. Personen in der Zeit, für die sie Grundsicherungsgeld nach § 19 Absatz
+    1 Satz 1 des Zweiten Buches beziehen, auch wenn die Entscheidung, die
+    zum Bezug der Leistung geführt hat, rückwirkend aufgehoben oder die
+    Leistung zurückgefordert oder zurückgezahlt worden ist, es sei denn,
+    dass diese Leistung nur darlehensweise gewährt wird oder nur
+    Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches bezogen
+    werden,
 
 
 3.  Landwirte, ihre mitarbeitenden Familienangehörigen und Altenteiler,
@@ -3929,9 +3930,7 @@ im Kalenderjahr den Gemeinsamen Jahresbetrag nach § 42a nicht
 ##### § 39a Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
 
 Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im
-Sinne des § 40a Anspruch auf ergänzende Unterstützungsleistungen,
-deren Erforderlichkeit das Bundesinstitut für Arzneimittel und
-Medizinprodukte nach § 78a Absatz 5 Satz 6 festgestellt hat, durch
+Sinne des § 40a Anspruch auf ergänzende Unterstützungsleistungen durch
 nach diesem Buch zugelassene ambulante Pflegeeinrichtungen.
 
 
@@ -4079,12 +4078,12 @@ Leistungsträgern zu leisten ist (digitale Pflegeanwendungen).
 
 (1a) Digitale Pflegeanwendungen im Sinne des Absatzes 1 sind auch
 solche Anwendungen, die pflegende Angehörige oder sonstige
-ehrenamtlich Pflegende in den in § 14 Absatz 2 genannten Bereichen
-oder bei der Haushaltsführung unterstützen und die häusliche
-Versorgungssituation des Pflegebedürftigen stabilisieren. Keine
-digitalen Pflegeanwendungen im Sinne des Absatzes 1 sind insbesondere
-Anwendungen, deren Zweck dem allgemeinen Lebensbedarf oder der
-allgemeinen Lebensführung dient, sowie Anwendungen zur
+ehrenamtlich Pflegende unterstützen und entweder die häusliche
+Versorgungssituation des Pflegebedürftigen stabilisieren oder
+pflegende Angehörige oder sonstige ehrenamtlich Pflegende entlasten.
+Keine digitalen Pflegeanwendungen im Sinne des Absatzes 1 sind
+insbesondere Anwendungen, deren Zweck dem allgemeinen Lebensbedarf
+oder der allgemeinen Lebensführung dient, sowie Anwendungen zur
 Arbeitsorganisation von ambulanten Pflegeeinrichtungen, zur
 Wissensvermittlung, Information oder Kommunikation, zur Beantragung
 oder Verwaltung von Leistungen oder andere digitale Anwendungen, die
@@ -4099,17 +4098,19 @@ des Fünften Buches Medizinprodukte mit niedriger Risikoklasse sind.
 
 (2) Der Anspruch umfasst nur digitale Pflegeanwendungen, die vom
 Bundesinstitut für Arzneimittel und Medizinprodukte in das Verzeichnis
-für digitale Pflegeanwendungen nach § 78a Absatz 3 aufgenommen sind.
-Die Pflegekasse entscheidet auf Antrag des Pflegebedürftigen über die
-Notwendigkeit der Versorgung des Pflegebedürftigen mit einer digitalen
+für digitale Pflegeanwendungen nach § 78a Absatz 3 aufgenommen sind,
+und wird ab dem von den Vertragsparteien vereinbarten Zeitpunkt für
+die Geltung der Vergütungsvereinbarung wirksam. Die Pflegekasse
+entscheidet auf Antrag des Pflegebedürftigen über die Notwendigkeit
+der Versorgung des Pflegebedürftigen mit einer digitalen
 Pflegeanwendung. Die erstmalige Bewilligung ist zu befristen. Die
 Befristung darf höchstens sechs Monate betragen. Innerhalb der Frist
 hat die Pflegekasse eine Prüfung vorzunehmen und eine unbefristete
 Bewilligung zu erteilen, wenn die Prüfung ergibt, dass die digitale
 Pflegeanwendung genutzt und die Zwecksetzung der Versorgung mit der
-digitalen Pflegeanwendung gemäß Absatz 1 bezogen auf die konkrete
-Versorgungssituation erreicht wird. Die Pflegekasse darf dazu die
-pflegebedürftige Person befragen. Ein erneuter Antrag ist nicht
+digitalen Pflegeanwendung gemäß den Absätzen 1 oder 1a bezogen auf die
+konkrete Versorgungssituation erreicht wird. Die Pflegekasse darf dazu
+die pflegebedürftige Person befragen. Ein erneuter Antrag ist nicht
 erforderlich. Entscheiden sich Pflegebedürftige für eine digitale
 Pflegeanwendung, deren Funktionen oder Anwendungsbereiche über die in
 das Verzeichnis für digitale Pflegeanwendungen nach § 78a Absatz 3
@@ -6311,6 +6312,119 @@ Satz 2 um das Verhältnis des Abschlags zu dem Beitragssatz nach Absatz
 Familienangehörige.
 
 
+#### § 55 Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung
+
+(1) Der Beitragssatz beträgt, vorbehaltlich des Satzes 2,
+bundeseinheitlich 3,4 Prozent der beitragspflichtigen Einnahmen der
+Mitglieder; er wird grundsätzlich durch Gesetz festgesetzt. Die
+Bundesregierung wird ermächtigt, den Beitragssatz nach Satz 1
+ausschließlich nach Maßgabe des Absatzes 1a durch Rechtsverordnung mit
+Zustimmung des Bundesrates anzupassen. Für Personen, bei denen § 28
+Abs. 2 Anwendung findet, beträgt der Beitragssatz die Hälfte des
+Beitragssatzes nach Satz 1.
+
+(1a) Die Bundesregierung darf den Beitragssatz nach Absatz 1 Satz 1
+ausschließlich zur mittelfristigen Sicherung der Zahlungsfähigkeit der
+sozialen Pflegeversicherung anpassen, wenn der Mittelbestand der
+sozialen Pflegeversicherung absehbar die Höhe einer Monatsausgabe laut
+Haushaltsplänen der Pflegekassen zu unterschreiten droht; mehrere
+Anpassungen durch Rechtsverordnung dürfen insgesamt nicht höher als
+0,5 Beitragssatzpunkte über dem jeweils zuletzt gesetzlich
+festgesetzten Beitragssatz liegen. Die Rechtsverordnung nach Absatz 1
+Satz 2 ist dem Bundestag vor der Zuleitung an den Bundesrat
+zuzuleiten. Sie kann durch Beschluss des Bundestages geändert oder
+abgelehnt werden. Der Beschluss des Bundestages wird der
+Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von
+drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr
+befasst, so wird die unveränderte Rechtsverordnung dem Bundesrat
+zugeleitet.
+
+(2) Beitragspflichtige Einnahmen sind bis zu einem Betrag von 1/360
+der in § 6 Abs. 7 des Fünften Buches festgelegten
+Jahresarbeitsentgeltgrenze für den Kalendertag zu berücksichtigen
+(Beitragsbemessungsgrenze).
+
+(3) Der Beitragssatz nach Absatz 1 Satz 1 und 3 erhöht sich für
+Mitglieder nach Ablauf des Monats, in dem sie das 23. Lebensjahr
+vollendet haben, um einen Beitragszuschlag in Höhe von 0,6
+Beitragssatzpunkten (Beitragszuschlag für Kinderlose). Satz 1 gilt
+nicht für Mitglieder, die vor dem 1. Januar 1940 geboren wurden, für
+Wehr- und Zivildienstleistende sowie für Bezieher von
+Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Satz
+1 gilt auch nicht für Eltern im Sinne des § 56 Absatz 1 Satz 1 Nummer
+3 und Absatz 3 Nummer 2 und 3 des Ersten Buches. Für diese reduziert
+sich der Beitragssatz nach Absatz 1 Satz 1 und 3 für jedes Kind ab dem
+zweiten Kind bis zum fünften Kind um jeweils einen Abschlag in Höhe
+von 0,25 Beitragssatzpunkten bis zum Ablauf des Monats, in dem das
+jeweilige Kind das 25. Lebensjahr vollendet hat oder vollendet hätte;
+bei der Ermittlung des Abschlags nicht berücksichtigungsfähig sind
+Kinder, die das 25. Lebensjahr vollendet haben. Satz 4 gilt auch für
+Eltern, die das 23. Lebensjahr noch nicht vollendet haben.
+
+(3a) Die Elterneigenschaft sowie die Anzahl der Kinder unter 25 Jahren
+müssen gegenüber der beitragsabführenden Stelle, bei Selbstzahlern
+gegenüber der Pflegekasse, nachgewiesen sein, sofern diesen die
+Angaben nicht bereits bekannt sind. Der Spitzenverband Bund der
+Pflegekassen gibt Empfehlungen im Hinblick darauf, welche Nachweise
+geeignet sind. Nachweise, die über das automatisierte
+Übermittlungsverfahren nach § 55a erbracht werden, sind im Fall der
+Geburt eines Kindes ab Beginn des Monats der Geburt, ansonsten ab
+Eintritt eines vergleichbaren Ereignisses, das eine beitragsrechtliche
+Zuordnung als Kind nach dieser Vorschrift begründet, zu
+berücksichtigen. Gleiches gilt für Nachweise, die nicht über das
+automatisierte Übermittlungsverfahren nach § 55a erfolgen, wenn sie
+innerhalb von sechs Monaten nach der Geburt des Kindes oder dem
+Eintritt eines vergleichbaren Ereignisses erbracht werden. Ansonsten
+wirkt der Nachweis ab Beginn des Monats, der dem Monat folgt, in dem
+der Nachweis erbracht wird. Die beitragsabführenden Stellen und die
+Pflegekassen sind berechtigt, entsprechende Nachweise anzufordern.
+
+(3b) (weggefallen)
+
+(3c) (weggefallen)
+
+(3d) (weggefallen)
+
+(4) Zu den Eltern im Sinne des Absatzes 3 Satz 3 gehören nicht
+
+1.  Adoptiveltern, wenn das Kind zum Zeitpunkt des Wirksamwerdens der
+    Adoption bereits die in § 25 Abs. 2 vorgesehenen Altersgrenzen
+    erreicht hat,
+
+
+2.  Stiefeltern, wenn das Kind zum Zeitpunkt der Eheschließung oder der
+    Begründung der eingetragenen Lebenspartnerschaft gemäß § 1 des
+    Lebenspartnerschaftsgesetzes mit dem Elternteil des Kindes bereits die
+    in § 25 Abs. 2 vorgesehenen Altersgrenzen erreicht hat oder wenn das
+    Kind vor Erreichen dieser Altersgrenzen nicht in den gemeinsamen
+    Haushalt mit dem Mitglied aufgenommen worden ist.
+
+
+
+
+(5) Sind landwirtschaftliche Unternehmer, die nicht zugleich
+Grundsicherungsgeld beziehen, sowie mitarbeitende Familienangehörige
+Mitglied der landwirtschaftlichen Krankenkasse, wird der Beitrag
+abweichend von den Absätzen 1 bis 3 in Form eines Zuschlags auf den
+Krankenversicherungsbeitrag, den sie nach den Vorschriften des Zweiten
+Gesetzes über die Krankenversicherung der Landwirte aus dem
+Arbeitseinkommen aus Land- und Forstwirtschaft zu zahlen haben,
+erhoben. Die Höhe des Zuschlags ergibt sich aus dem Verhältnis des
+Beitragssatzes nach Absatz 1 Satz 1 zu dem um den durchschnittlichen
+Zusatzbeitragssatz erhöhten allgemeinen Beitragssatz nach § 241 des
+Fünften Buches. Sind die Voraussetzungen für einen Beitragszuschlag
+für Kinderlose nach Absatz 3 Satz 1 erfüllt und handelt es sich nicht
+um Mitglieder, die vor dem 1. Januar 1940 geboren wurden und nicht um
+Wehr- und Zivildienstleistende, erhöht sich der Zuschlag nach Satz 2
+um das Verhältnis des Beitragszuschlags für Kinderlose zu dem
+Beitragssatz nach Absatz 1 Satz 1. Sind die Voraussetzungen für einen
+Abschlag nach Absatz 3 Satz 4 und 5 erfüllt und handelt es sich nicht
+um Wehr- und Zivildienstleistende, reduziert sich der Zuschlag nach
+Satz 2 um das Verhältnis des Abschlags zu dem Beitragssatz nach Absatz
+1 Satz 1; § 59a Satz 2 findet keine Anwendung auf mitarbeitende
+Familienangehörige.
+
+
 #### § 55a Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung
 
 (1) Die beitragsabführenden Stellen, die zur Berücksichtigung von Zu-
@@ -6466,15 +6580,7 @@ Anzahl der berücksichtigungsfähigen Kinder während einer laufenden
 Mitgliedschaft werden der Pflegekasse nach Maßgabe des § 55a Absatz 5
 mitgeteilt.
 
-(2) Die Pflegekassen müssen ab dem 1. Juli 2025 für Selbstzahler, die
-bereits vor diesem Zeitpunkt in diesem Status Mitglied der sozialen
-Pflegeversicherung waren, eine Meldung entsprechend Absatz 1
-erstatten. Die Meldung hat spätestens bis zum 31. Dezember 2025 zu
-erfolgen. Bei Pflegekassen, die im Zeitraum vom 1. Juli 2023 bis zum
-30\. Juni 2025 sich weder die Elterneigenschaft sowie die Anzahl der
-Kinder nach § 55 Absatz 3a Satz 1 haben nachweisen lassen noch an dem
-Nachweisverfahren nach § 55 Absatz 3d Satz 2 teilgenommen haben,
-erstreckt sich die Meldung auf den gesamten genannten Zeitraum."
+(2) (weggefallen)
 
 
 #### § 56 Beitragsfreiheit
@@ -6545,6 +6651,85 @@ Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches beziehen, ist
 abweichend von § 232a Abs. 1 Satz 1 Nr. 2 des Fünften Buches das
 0,2266fache der monatlichen Bezugsgröße zugrunde zu legen und sind
 abweichend von § 54 Absatz 2 Satz 2 die Beiträge für jeden
+Kalendermonat, in dem mindestens für einen Tag eine Mitgliedschaft
+besteht, zu zahlen; § 232a Absatz 1a des Fünften Buches gilt
+entsprechend.
+
+(2) Bei Beziehern von Krankengeld gilt als beitragspflichtige
+Einnahmen 80 vom Hundert des Arbeitsentgelts, das der Bemessung des
+Krankengeldes zugrundeliegt. Dies gilt auch für den Krankengeldbezug
+eines rentenversicherungspflichtigen mitarbeitenden
+Familienangehörigen eines landwirtschaftlichen Unternehmers. Beim
+Krankengeldbezug eines nicht rentenversicherungspflichtigen
+mitarbeitenden Familienangehörigen ist der Zahlbetrag der Leistung der
+Beitragsbemessung zugrunde zu legen. Bei Personen, die Krankengeld
+nach § 44a des Fünften Buches beziehen, wird das der Leistung zugrunde
+liegende Arbeitsentgelt oder Arbeitseinkommen zugrunde gelegt; wird
+dieses Krankengeld nach § 47b des Fünften Buches gezahlt, gelten die
+Sätze 1 bis 3. Bei Personen, die Leistungen für den Ausfall von
+Arbeitseinkünften von einem privaten Krankenversicherungsunternehmen,
+von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-
+rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von
+dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der
+truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
+Träger von Kosten in Krankheitsfällen auf Landesebene, soweit
+Landesrecht dies vorsieht, im Zusammenhang mit einer nach den §§ 8 und
+8a des Transplantationsgesetzes erfolgenden Spende von Organen oder
+Geweben oder im Zusammenhang mit einer im Sinne von § 9 des
+Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
+Blutstammzellen oder anderen Blutbestandteilen erhalten, wird das
+diesen Leistungen zugrunde liegende Arbeitsentgelt oder
+Arbeitseinkommen zugrunde gelegt. Bei Personen, die Krankengeld nach §
+45 Absatz 1 oder Absatz 1a des Fünften Buches beziehen, gelten als
+beitragspflichtige Einnahmen 80 Prozent des während der Freistellung
+ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung
+zugrunde liegenden Arbeitseinkommens.
+
+(3) Für die Beitragsbemessung der in § 20 Absatz 1 Satz 2 Nummer 3
+genannten Altenteiler gilt § 45 des Zweiten Gesetzes über die
+Krankenversicherung der Landwirte.
+
+(4) Bei freiwilligen Mitgliedern der gesetzlichen Krankenversicherung
+und bei Mitgliedern der sozialen Pflegeversicherung, die nicht in der
+gesetzlichen Krankenversicherung versichert sind, ist für die
+Beitragsbemessung § 240 des Fünften Buches entsprechend anzuwenden.
+Für die Beitragsbemessung der in der gesetzlichen Krankenversicherung
+versicherten Rentenantragsteller und freiwillig versicherten Rentner
+finden darüber hinaus die §§ 238a und 239 des Fünften Buches
+entsprechende Anwendung. Abweichend von Satz 1 ist bei Mitgliedern
+nach § 20 Abs. 1 Nr. 10, die in der gesetzlichen Krankenversicherung
+freiwillig versichert sind, § 236 des Fünften Buches entsprechend
+anzuwenden; als beitragspflichtige Einnahmen der satzungsmäßigen
+Mitglieder geistlicher Genossenschaften, Diakonissen und ähnlicher
+Personen, die freiwillig in der gesetzlichen Krankenversicherung
+versichert sind, sind der Wert für gewährte Sachbezüge oder das ihnen
+zur Beschaffung der unmittelbaren Lebensbedürfnisse an Wohnung,
+Verpflegung, Kleidung und dergleichen gezahlte Entgelt zugrunde zu
+legen. Bei freiwilligen Mitgliedern der gesetzlichen
+Krankenversicherung, die von einem Rehabilitationsträger
+Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld
+der Soldatenentschädigung oder Übergangsgeld erhalten, gilt für die
+Beitragsbemessung § 235 Abs. 2 des Fünften Buches entsprechend; für
+die in der landwirtschaftlichen Krankenversicherung freiwillig
+Versicherten gilt § 46 des Zweiten Gesetzes über die
+Krankenversicherung der Landwirte.
+
+(5) Der Beitragsberechnung von Personen, die nach § 26 Abs. 2
+weiterversichert sind, werden für den Kalendertag der 180. Teil der
+monatlichen Bezugsgröße nach § 18 des Vierten Buches zugrunde gelegt.
+
+
+#### § 57 Beitragspflichtige Einnahmen
+
+(1) Bei Mitgliedern der Pflegekasse, die in der gesetzlichen
+Krankenversicherung pflichtversichert sind, gelten für die
+Beitragsbemessung § 226 Absatz 1, 2 Satz 1 und 3, Absatz 3 bis 6 sowie
+die §§ 227 bis 232a, 233 bis 238 und § 244 des Fünften Buches sowie
+die §§ 23a und 23b Abs. 2 bis 4 des Vierten Buches. Bei Personen, die
+Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+beziehen, ist abweichend von § 232a Abs. 1 Satz 1 Nr. 2 des Fünften
+Buches das 0,2266fache der monatlichen Bezugsgröße zugrunde zu legen
+und sind abweichend von § 54 Absatz 2 Satz 2 die Beiträge für jeden
 Kalendermonat, in dem mindestens für einen Tag eine Mitgliedschaft
 besteht, zu zahlen; § 232a Absatz 1a des Fünften Buches gilt
 entsprechend.
@@ -8077,12 +8262,11 @@ Aufnahme der digitalen Pflegeanwendung in das Verzeichnis nach Absatz
 3 einen Vergütungsbetrag sowie technische und vertragliche
 Rahmenbedingungen für die Zurverfügungstellung der digitalen
 Pflegeanwendungen nach § 40a Absatz 4. Die Vereinbarungen gelten ab
-dem Zeitpunkt der Aufnahme in das Verzeichnis für digitale
-Pflegeanwendungen. Kommt innerhalb der Frist nach Satz 1 keine
-Einigung zustande, entscheidet die Schiedsstelle nach § 134 Absatz 3
-des Fünften Buches mit der Maßgabe, dass an die Stelle der zwei
-Vertreter der Krankenkassen zwei Vertreter der Pflegekassen und an die
-Stelle der zwei Vertreter der Hersteller digitaler
+dem darin vereinbarten Zeitpunkt. Kommt innerhalb der Frist nach Satz
+1 keine Einigung zustande, entscheidet die Schiedsstelle nach § 134
+Absatz 3 des Fünften Buches mit der Maßgabe, dass an die Stelle der
+zwei Vertreter der Krankenkassen zwei Vertreter der Pflegekassen und
+an die Stelle der zwei Vertreter der Hersteller digitaler
 Gesundheitsanwendungen zwei Vertreter der Hersteller von digitalen
 Pflegeanwendungen treten. An den Sitzungen der Schiedsstelle können
 anstelle der Vertreter der Patientenorganisationen nach § 140f des
@@ -8145,7 +8329,7 @@ Antrag Nachweise darüber beizufügen, dass die digitale Pflegeanwendung
 
 
 3.  im Sinne der Rechtsverordnung nach Absatz 6 Nummer 2 einen
-    pflegerischen Nutzen aufweist.
+    pflegerischen Nutzen im Sinne des § 40a Absatz 1 oder 1a aufweist.
 
 
 
@@ -8190,19 +8374,17 @@ verlängert werden. Legt der Hersteller unvollständige
 Antragsunterlagen vor, fordert ihn das Bundesinstitut für Arzneimittel
 und Medizinprodukte auf, den Antrag innerhalb von einer Frist von drei
 Monaten zu ergänzen. Liegen nach Ablauf der Frist keine vollständigen
-Antragsunterlagen vor, ist der Antrag abzulehnen. Das Bundesinstitut
-für Arzneimittel und Medizinprodukte berät die Hersteller digitaler
+Antragsunterlagen vor und hat der Hersteller keine Erprobung nach
+Absatz 6a beantragt, ist der Antrag abzulehnen. Das Bundesinstitut für
+Arzneimittel und Medizinprodukte berät die Hersteller digitaler
 Pflegeanwendungen zu den Antrags- und Anzeigeverfahren sowie zu den
 Voraussetzungen, die erfüllt sein müssen, damit die Versorgung mit der
 jeweiligen digitalen Pflegeanwendung nach den §§ 40a und 40b zu Lasten
 der Pflegeversicherung erbracht werden kann. Im Übrigen gilt § 139e
-Absatz 6 bis 8 des Fünften Buches entsprechend. In seiner Entscheidung
-stellt das Bundesinstitut für Arzneimittel und Medizinprodukte fest,
-welche ergänzenden Unterstützungsleistungen für die Nutzung der
-digitalen Pflegeanwendung erforderlich sind, und informiert die
-Vertragsparteien nach § 75 Absatz 1, die an Rahmenverträgen über
-ambulante Pflege beteiligt sind, zeitgleich mit der Aufnahme der
-digitalen Pflegeanwendung in das Verzeichnis nach Absatz 3 hierüber.
+Absatz 6 bis 8 des Fünften Buches entsprechend. Das Bundesinstitut für
+Arzneimittel und Medizinprodukte informiert die Vertragsparteien nach
+§ 75 Absatz 1, die an Rahmenverträgen über ambulante Pflege beteiligt
+sind, über die erforderlichen ergänzenden Unterstützungsleistungen.
 Das Bundesinstitut für Arzneimittel und Medizinprodukte informiert
 unverzüglich den Spitzenverband Bund der Pflegekassen über die
 Aufnahme einer digitalen Pflegeanwendung in das Verzeichnis nach
@@ -8253,6 +8435,54 @@ Soziales ohne Zustimmung des Bundesrates das Nähere zu regeln zu
 
 
 
+
+(6a) Ist dem Hersteller noch nicht möglich, einen pflegerischen Nutzen
+im Sinne des § 40a Absatz 1 oder 1a nachzuweisen, so kann er nach
+Absatz 4 auch beantragen, dass die digitale Pflegeanwendung ab dem in
+Absatz 1 Satz 2 zwischen den Vertragspartnern vereinbarten Zeitpunkt
+für bis zu zwölf Monate in das Verzeichnis nach Absatz 3 zur Erprobung
+aufgenommen wird. Der Hersteller hat dem Antrag folgende Unterlagen
+beizufügen:
+
+1.  Nachweise nach Absatz 4 Satz 3 Nummer 1 und 2,
+
+
+2.  eine plausible Begründung für den pflegerischen Nutzen und
+
+
+3.  ein von einer herstellerunabhängigen Institution erstelltes
+    wissenschaftliches Evaluationskonzept zum Nachweis des pflegerischen
+    Nutzens.
+
+
+
+Über die Aufnahme der digitalen Pflegeanwendung in das Verzeichnis
+nach Absatz 3 zur Erprobung entscheidet das Bundesinstitut für
+Arzneimittel und Medizinprodukte durch Bescheid. Die Erprobung und
+ihre Dauer sind im Verzeichnis für digitale Pflegeanwendungen
+kenntlich zu machen. Der Hersteller hat dem Bundesinstitut für
+Arzneimittel und Medizinprodukte spätestens nach Ablauf des
+Erprobungszeitraums den Nachweis des pflegerischen Nutzens der
+erprobten digitalen Pflegeanwendung vorzulegen. Das Bundesinstitut für
+Arzneimittel und Medizinprodukte entscheidet über die endgültige
+Aufnahme der erprobten digitalen Pflegeanwendung in das Verzeichnis
+innerhalb von drei Monaten nach Eingang der vollständigen Nachweise
+durch Bescheid. Ist der pflegerische Nutzen nicht hinreichend belegt,
+besteht aber aufgrund der vorgelegten Erprobungsergebnisse eine
+überwiegende Wahrscheinlichkeit einer späteren Nachweisführung, so
+kann das Bundesinstitut für Arzneimittel und Medizinprodukte den
+Zeitraum der vorläufigen Aufnahme in das Verzeichnis zur Erprobung um
+bis zu zwölf Monate verlängern. Lehnt das Bundesinstitut für
+Arzneimittel und Medizinprodukte eine Aufnahme in das Verzeichnis
+endgültig ab, so hat es die zur Erprobung vorläufig aufgenommene
+digitale Pflegeanwendung aus dem Verzeichnis zu streichen. Eine
+erneute Antragstellung nach Absatz 4 ist frühestens zwölf Monate nach
+dem ablehnenden Bescheid des Bundesinstituts für Arzneimittel und
+Medizinprodukte und auch nur dann zulässig, wenn neue Nachweise
+vorgelegt werden. Eine wiederholte vorläufige Aufnahme in das
+Verzeichnis zur Erprobung ist nicht zulässig. Soweit in diesem Absatz
+nichts anderes bestimmt ist, gelten die Absätze 1 bis 6 und 7 bis 9
+entsprechend.
 
 (7) Das Bundesamt für Sicherheit in der Informationstechnik legt im
 Einvernehmen mit dem Bundesinstitut für Arzneimittel und
