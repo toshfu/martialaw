@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1966, 557
 
 Zuletzt geändert durch
-:   Art. 12 G v. 11.1.2026 I Nr. 9
+:   Art. 12 Abs. 3 G v. 29.6.2026 I Nr. 197
 
 
 ## Erster Teil - Der Patentanwalt
