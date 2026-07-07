@@ -123,63 +123,6 @@ Soldaten, denen kein Anspruch nach dem Einsatz-Weiterverwendungsgesetz
 zusteht.
 
 
-#### § 3a Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
-
-(1) Ein Soldat, der in einer Verwendung mit besonders hohen
-Sicherheitsanforderungen eingesetzt werden soll, ist zuvor einer
-intensivierten erweiterten Sicherheitsüberprüfung mit
-Sicherheitsermittlungen zu unterziehen. Ist ein Soldat bereits in
-einer solchen Verwendung eingesetzt, so ist unverzüglich eine
-intensivierte erweiterte Sicherheitsüberprüfung mit
-Sicherheitsermittlungen durchzuführen.
-
-(2) Die Verwendungen mit besonders hohen Sicherheitsanforderungen
-werden durch Rechtsverordnung festgelegt.
-
-(3) Die Vorschriften des Sicherheitsüberprüfungsgesetzes für
-erweiterte Sicherheitsprüfungen mit Sicherheitsermittlungen gelten mit
-den Maßgaben, dass
-
-1.  abweichend von § 12 Absatz 5 Satz 1 des
-    Sicherheitsüberprüfungsgesetzes die mitwirkende Behörde die betroffene
-    Person auch dann selbst befragt, wenn eine sicherheitserhebliche
-    Erkenntnis für das Erfordernis einer solchen Befragung nicht vorliegt,
-
-
-2.  abweichend von § 17 Absatz 1 Satz 1 des
-    Sicherheitsüberprüfungsgesetzes der betroffenen Person bereits nach 30
-    Monaten ihre Sicherheitserklärung zur Aktualisierung zugeleitet wird,
-
-
-3.  abweichend von § 17 Absatz 1 Satz 3 des
-    Sicherheitsüberprüfungsgesetzes anlässlich der Aktualisierung der
-    Sicherheitserklärung zusätzlich bei der betroffenen Person und
-    mitbetroffenen Person die Maßnahmen nach § 12 Absatz 1 Nummer 1 bis 3,
-    5 und 6 sowie Absatz 2 des Sicherheitsüberprüfungsgesetzes
-    durchgeführt werden,
-
-
-4.  abweichend von § 17 Absatz 2 Satz 1 des
-    Sicherheitsüberprüfungsgesetzes Wiederholungsüberprüfungen bereits
-    nach fünf Jahren eingeleitet werden und
-
-
-5.  die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der
-    Wiederholungsüberprüfung nach Nummer 3 nicht eingeleitet wird, solange
-
-    a)  die Wiederholungsüberprüfung noch nicht abgeschlossen ist oder
-
-
-    b)  nach dem Abschluss der letzten Wiederholungsüberprüfung noch nicht 30
-        Monate vergangen sind.
-
-
-
-
-
-
-
-
 #### § 4 Ernennung, Dienstgradbezeichnungen, Uniform
 
 (1) Einer Ernennung bedarf es
@@ -696,8 +639,7 @@ für die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung
 für eine fremde Macht oder einen ihrer Mittelsmänner der vorherigen
 Genehmigung, sofern die beabsichtigte Erwerbstätigkeit oder sonstige
 Beschäftigung im Zusammenhang mit der früheren dienstlichen Tätigkeit
-steht. Die Pflicht zur Einholung der Genehmigung endet zehn Jahre nach
-dem Ausscheiden aus dem Wehrdienst.
+steht.
 
 (2) Die Erwerbstätigkeit oder sonstige Beschäftigung im Sinne des
 Absatzes 1 ist zu untersagen, soweit zu besorgen ist, dass durch sie
@@ -2221,11 +2163,6 @@ auf Zeit darf nur berufen werden, wer
 Ausnahmen von Absatz 1 Nr. 1 zulassen, wenn dafür ein dienstliches
 Bedürfnis besteht.
 
-(3) Für Personen, deren erstmalige Berufung in ein Dienstverhältnis
-als Berufssoldat oder Soldat auf Zeit beabsichtigt ist, ist eine
-einfache Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz
-durchzuführen.
-
 
 #### § 38 Hindernisse der Berufung
 
@@ -3450,12 +3387,12 @@ zu den in § 60 genannten Dienstleistungen herangezogen werden. Absatz
 (3) Andere als die in den Absätzen 1 und 2 genannten Personen können
 auf Grund freiwilliger schriftlicher Verpflichtung bis zum Ablauf des
 Monats, in dem sie das 65. Lebensjahr vollenden, zu den in § 60
-genannten Dienstleistungen herangezogen werden. § 9 Absatz 2 und § 37
-Absatz 3 gelten entsprechend. Personen, denen auf Grund einer
-Wehrdienstleistung ein höherer Dienstgrad nicht nur für die Dauer der
-Verwendung verliehen worden ist, können auch ohne freiwillige
-Verpflichtung bis zum Ablauf des Monats, in dem sie das 60. Lebensjahr
-vollenden, herangezogen werden
+genannten Dienstleistungen herangezogen werden. § 9 Absatz 2 gilt
+entsprechend. Personen, denen auf Grund einer Wehrdienstleistung ein
+höherer Dienstgrad nicht nur für die Dauer der Verwendung verliehen
+worden ist, können auch ohne freiwillige Verpflichtung bis zum Ablauf
+des Monats, in dem sie das 60. Lebensjahr vollenden, herangezogen
+werden
 
 1.  zum unbefristeten Wehrdienst im Spannungs- oder Verteidigungsfall und
 
@@ -4812,12 +4749,7 @@ Finanzen die Rechtsverordnungen über
 
 
 
-(4) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit
-dem Bundesministerium des Innern die Rechtsverordnung über die
-Festlegung der Verwendungen mit besonders hohen
-Sicherheitsanforderungen nach § 3a Absatz 2.
-
-(5) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des
+(4) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des
 Bundesrates.
 
 
