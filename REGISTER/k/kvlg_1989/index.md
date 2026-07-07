@@ -409,9 +409,9 @@ Ersten des Kalendermonats wirksam, der auf die Antragstellung folgt.
     mindestens vierundzwanzig Monate oder unmittelbar vor dem Ausscheiden
     ununterbrochen mindestens zwölf Monate versichert waren; Zeiten der
     Mitgliedschaft nach § 23 und Zeiten, in denen eine Versicherung allein
-    deshalb bestanden hat, weil Bürgergeld nach § 19 Absatz 1 Satz 1 des
-    Zweiten Buches Sozialgesetzbuch zu Unrecht bezogen wurde, werden nicht
-    berücksichtigt,
+    deshalb bestanden hat, weil Grundsicherungsgeld nach § 19 Absatz 1
+    Satz 1 des Zweiten Buches Sozialgesetzbuch zu Unrecht bezogen wurde,
+    werden nicht berücksichtigt,
 
 
 2.  Personen, deren Versicherung nach § 7 erlischt oder nur deswegen nicht
@@ -1398,14 +1398,15 @@ Arbeitsbedarfs bestimmt die Satzung.
 Satzung das Verfahren.
 
 (5) Abweichend von Absatz 1 wird bei versicherungspflichtigen
-landwirtschaftlichen Unternehmern, die Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches Sozialgesetzbuch beziehen, für die Dauer des
-Bezuges von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
-Sozialgesetzbuch als Einkommen nach § 39 Absatz 1 Nummer 1 der sich
-aus § 232a Absatz 1 Satz 1 Nummer 2 des Fünften Buches
-Sozialgesetzbuch ergebende Wert zugrunde gelegt. Für die Bemessung der
-Beiträge gilt der um den durchschnittlichen Zusatzbeitragssatz erhöhte
-ermäßigte Beitragssatz der gesetzlichen Krankenversicherung.
+landwirtschaftlichen Unternehmern, die Grundsicherungsgeld nach § 19
+Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch beziehen, für die
+Dauer des Bezuges von Grundsicherungsgeld nach § 19 Absatz 1 Satz 1
+des Zweiten Buches Sozialgesetzbuch als Einkommen nach § 39 Absatz 1
+Nummer 1 der sich aus § 232a Absatz 1 Satz 1 Nummer 2 des Fünften
+Buches Sozialgesetzbuch ergebende Wert zugrunde gelegt. Für die
+Bemessung der Beiträge gilt der um den durchschnittlichen
+Zusatzbeitragssatz erhöhte ermäßigte Beitragssatz der gesetzlichen
+Krankenversicherung.
 
 (6) Macht der Beitragspflichtige trotz Aufforderung der
 landwirtschaftlichen Krankenkasse die für die Festsetzung des Beitrags
@@ -1677,8 +1678,8 @@ Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend
 von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des
 § 6a des Zweiten Buches Sozialgesetzbuch die zugelassenen kommunalen
 Träger die Beiträge für nach § 2 Absatz 1 Nummer 6
-versicherungspflichtige Beziehende von Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches Sozialgesetzbuch.
+versicherungspflichtige Beziehende von Grundsicherungsgeld nach § 19
+Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch.
 
 (2) Die Beiträge werden in den Fällen des § 48a Absatz 2 durch die
 Pflegekasse, das private Versicherungsunternehmen oder die
