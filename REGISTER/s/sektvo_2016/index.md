@@ -210,9 +210,7 @@ Parlaments und des Rates vom 26. Februar 2014 über die Vergabe von
 Aufträgen durch Auftraggeber im Bereich der Wasser-, Energie- und
 Verkehrsversorgung sowie der Postdienste und zur Aufhebung der
 Richtlinie 2004/17/EG (ABl. L 94 vom 28.3.2014, S. 243) keine
-Feststellung getroffen hat und das Bundesministerium für Wirtschaft
-und Energie die Feststellung oder den Ablauf der Frist im
-Bundesanzeiger bekanntgemacht hat.
+Feststellung getroffen hat.
 
 (7) Die Absätze 1 bis 6 gelten für Auftraggeber im Sinne des § 143 des
 Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
@@ -1248,7 +1246,9 @@ Fehler enthält, hat.
 (1) Vor der Einleitung eines Vergabeverfahrens darf der Auftraggeber
 eine Markterkundung zur Vorbereitung der Auftragsvergabe und zur
 Unterrichtung der Marktteilnehmer über seine Auftragsvergabepläne und
--anforderungen durchführen.
+-anforderungen durchführen. Die Markterkundung kann auch
+umweltbezogene und soziale Aspekte sowie Aspekte der Qualität und
+Innovation umfassen und auch elektronisch durchgeführt werden.
 
 (2) Die Durchführung von Vergabeverfahren lediglich zur Markterkundung
 und zum Zwecke der Kosten- oder Preisermittlung ist unzulässig.
@@ -1256,12 +1256,12 @@ und zum Zwecke der Kosten- oder Preisermittlung ist unzulässig.
 
 #### § 27 Aufteilung nach Losen
 
-(1) Unbeschadet des § 97 Absatz 4 des Gesetzes gegen
-Wettbewerbsbeschränkungen kann der Auftraggeber festlegen, ob die
-Angebote nur für ein Los, für mehrere oder für alle Lose eingereicht
-werden dürfen. Er kann, auch wenn Angebote für mehrere oder alle Lose
-eingereicht werden dürfen, die Zahl der Lose auf eine Höchstzahl
-beschränken, für die ein einzelner Bieter den Zuschlag erhalten kann.
+(1) Unbeschadet des § 97a des Gesetzes gegen Wettbewerbsbeschränkungen
+kann der Auftraggeber festlegen, ob die Angebote nur für ein Los, für
+mehrere oder für alle Lose eingereicht werden dürfen. Er kann, auch
+wenn Angebote für mehrere oder alle Lose eingereicht werden dürfen,
+die Zahl der Lose auf eine Höchstzahl beschränken, für die ein
+einzelner Bieter den Zuschlag erhalten kann.
 
 (2) Der Auftraggeber gibt die Vorgaben nach Absatz 1 in der
 Auftragsbekanntmachung, der Aufforderung zur Interessensbestätigung
@@ -1520,16 +1520,18 @@ Anforderungen erfüllt.
 
 #### § 33 Nebenangebote
 
-(1) Der Auftraggeber kann Nebenangebote zulassen oder vorschreiben.
-Dabei legt er Mindestanforderungen, denen die Nebenangebote genügen
-müssen, fest.
+(1) Der Auftraggeber kann Nebenangebote zulassen, vorschreiben oder
+ausschließen. Werden Nebenangebote zugelassen oder vorgeschrieben,
+legt er Mindestanforderungen, denen die Nebenangebote genügen müssen,
+fest.
 
-(2) Die entsprechenden Angaben machen die Auftraggeber in der
-Bekanntmachung oder den Vergabeunterlagen. Fehlt eine entsprechende
-Angabe, sind keine Nebenangebote zugelassen. Es ist auch anzugeben, ob
-ein Nebenangebot unabhängig oder nur in Verbindung mit einem
-Hauptangebot eingereicht werden darf. Fehlt eine solche Angabe, sind
-Nebenangebote auch ohne ein Hauptangebot zugelassen.
+(2) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung
+oder in der Aufforderung zur Interessensbestätigung an, ob er
+Nebenangebote zulässt, vorschreibt oder ausschließt. Eine Begründung
+ist nicht erforderlich. Es ist auch anzugeben, ob ein Nebenangebot
+unabhängig oder nur in Verbindung mit einem Hauptangebot eingereicht
+werden darf. Fehlt eine solche Angabe, sind Nebenangebote auch ohne
+ein Hauptangebot zugelassen.
 
 (3) Die Zuschlagskriterien sind gemäß § 127 Absatz 4 des Gesetzes
 gegen Wettbewerbsbeschränkungen so festzulegen, dass sie sowohl auf
@@ -1866,10 +1868,14 @@ Veröffentlichung im Beschafferprofil anzugeben.
 (4) Der Auftraggeber kann auch Bekanntmachungen über Bau-, Liefer-
 oder Dienstleistungsaufträge, die nicht der Bekanntmachungspflicht
 unterliegen, an das Amt für Veröffentlichungen der Europäischen Union
-übermitteln.
+übermitteln. Wird bei der Übermittlung an das Amt für
+Veröffentlichungen der Europäischen Union ein späterer Tag zur
+Veröffentlichung angegeben, kommt es für Fristberechnungen nicht auf
+den Tag der Absendung oder dessen Bestätigung, sondern auf den
+angegebenen Tag zur Veröffentlichung an.
 
 
-#### § 41 Bereitstellung der Vergabeunterlagen
+#### § 41 Elektronische Bereitstellung von Vergabeunterlagen
 
 (1) Der Auftraggeber gibt in der Auftragsbekanntmachung oder der
 Aufforderung zur Interessensbestätigung eine elektronische Adresse an,
@@ -2095,13 +2101,14 @@ gewährleistet sein muss.
 
 #### § 46 Objektive und nichtdiskriminierende Kriterien
 
-(1) Der Auftraggeber wählt die Unternehmen anhand objektiver Kriterien
-aus, die allen interessierten Unternehmen zugänglich sein müssen.
+(1) Der Auftraggeber wählt die Unternehmen anhand angemessener und
+objektiver Kriterien aus, die allen interessierten Unternehmen
+zugänglich sein müssen.
 
-(2) Die objektiven und nichtdiskriminierenden Kriterien für die
-Auswahl der Unternehmen, die eine Qualifizierung im Rahmen eines
-Qualifizierungssystems beantragen, sowie für die Auswahl der Bewerber
-und Bieter im offenen Verfahren, nicht offenen Verfahren,
+(2) Die angemessenen, objektiven und nichtdiskriminierenden Kriterien
+für die Auswahl der Unternehmen, die eine Qualifizierung im Rahmen
+eines Qualifizierungssystems beantragen, sowie für die Auswahl der
+Bewerber und Bieter im offenen Verfahren, nicht offenen Verfahren,
 Verhandlungsverfahren, wettbewerblichen Dialog oder in einer
 Innovationspartnerschaft können nach § 142 Nummer 2 des Gesetzes gegen
 Wettbewerbsbeschränkungen die Anwendung des § 123 des Gesetzes gegen
@@ -2111,12 +2118,17 @@ Wettbewerbsbeschränkungen, beinhalten diese Kriterien nach § 142
 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen die Anwendung
 des § 123 des Gesetzes gegen Wettbewerbsbeschränkungen.
 
-(3) Verlangt der Aufraggeber für die wirtschaftliche und finanzielle
+(3) Verlangt der Auftraggeber für die wirtschaftliche und finanzielle
 Leistungsfähigkeit einen bestimmten Mindestjahresumsatz, darf dieser
 Wert das Zweifache des geschätzten Auftragswerts nur überschreiten,
 wenn aufgrund der Art des Auftragsgegenstands spezielle Risiken
 bestehen. Der Auftraggeber hat eine solche Anforderung in den
 Vergabeunterlagen oder im Vergabevermerk hinreichend zu begründen.
+
+(4) Bei der Auswahl der Kriterien und Eignungsnachweise sind die
+besonderen Umstände von jungen sowie von kleinen und mittleren
+Unternehmen angemessen zu berücksichtigen. Eine Begründung ist nicht
+erforderlich.
 
 
 #### § 47 Eignungsleihe
@@ -2343,18 +2355,19 @@ des Auftrags erforderlich ist.
 #### § 51 Prüfung und Wertung der Angebote; Nachforderung von Unterlagen
 
 (1) Die Angebote werden geprüft und gewertet, bevor der Zuschlag
-erteilt wird.
+erteilt wird. Beim offenen Verfahren führt der Auftraggeber die
+Angebotsprüfung vor der Eignungsprüfung durch. Er kann von Satz 2
+abweichen, soweit ein erhöhter Aufwand oder sonstige
+verfahrensbezogene Gründe entgegenstehen. Eine Begründung ist nicht
+erforderlich.
 
 (2) Der Auftraggeber kann den Bewerber oder Bieter unter Einhaltung
 der Grundsätze der Transparenz und der Gleichbehandlung auffordern,
-fehlende, unvollständige oder fehlerhafte unternehmensbezogene
-Unterlagen, insbesondere Eigenerklärungen, Angaben, Bescheinigungen
-oder sonstige Nachweise, nachzureichen, zu vervollständigen oder zu
-korrigieren, oder fehlende oder unvollständige leistungsbezogene
-Unterlagen nachzureichen oder zu vervollständigen. Der Auftraggeber
-ist berechtigt, in der Auftragsbekanntmachung oder den
-Vergabeunterlagen festzulegen, dass er keine Unterlagen nachfordern
-wird.
+fehlende Unterlagen zu übermitteln oder unvollständige oder
+fehlerhafte Unterlagen zu ergänzen, zu erläutern, zu vervollständigen
+oder zu korrigieren. Der Auftraggeber ist berechtigt, in der
+Auftragsbekanntmachung oder den Vergabeunterlagen festzulegen, dass er
+keine Unterlagen nachfordern wird.
 
 (3) Die Nachforderung von leistungsbezogenen Unterlagen, die die
 Wirtschaftlichkeitsbewertung der Angebote anhand der
