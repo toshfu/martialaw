@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.1997 I 378;
 
 Zuletzt geändert durch
-:   Art. 34 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 9 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 22.6.2026 I Nr. 192
 
 
 ## Abschnitt 1 - Steuerpflicht
