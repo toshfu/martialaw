@@ -431,6 +431,11 @@ Entgeltunterlagen zu nehmen:
     beim Arbeitgeber dokumentiert ist,
 
 
+4b. der Antrag auf Aufhebung der Befreiung von der Versicherungspflicht
+    nach § 6 Absatz 6 des Sechsten Buches Sozialgesetzbuch, auf dem der
+    Tag des Eingangs beim Arbeitgeber dokumentiert ist,
+
+
 5.  (weggefallen)
 
 
