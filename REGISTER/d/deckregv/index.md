@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2074
 
 Zuletzt geändert durch
-:   Art. 4 V v. 4.10.2022 I 1614
-
-Änderung durch
-:   Art. 24 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 G v. 25.3.2026 I Nr. 81
 
 
 
