@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 514
 
 Zuletzt geändert durch
-:   Art. 9 G v. 11.1.2026 I Nr. 9
+:   Art. 1 V v. 24.6.2026 I Nr. 193
 
 
 ## Eingangsformel
@@ -84,10 +84,9 @@ sowie in § 63 Abs. 4 des Patentgesetzes, in § 4 Abs. 4 und 7 sowie §
 10 Abs. 2 des Gebrauchsmustergesetzes, in § 3 Abs. 3 sowie in § 4 Abs.
 4 des Halbleiterschutzgesetzes in Verbindung mit § 10 Abs. 2 des
 Gebrauchsmustergesetzes, in § 65 Absatz 1 Nummer 2 bis 13 sowie § 138
-Absatz 1 des Markengesetzes in der vor dem 16. Januar 2026 geltenden
-Fassung, in § 26 Absatz 1 Nummer 2 bis 9 und Absatz 2 des
-Designgesetzes werden auf das Deutsche Patent- und Markenamt
-übertragen.
+Absatz 1 des Markengesetzes, in § 26 Absatz 1 Nummer 2 bis 9 und
+Absatz 2 des Designgesetzes werden auf das Deutsche Patent- und
+Markenamt übertragen.
 
 
 ### § 2 Prüfungsstellen und Patentabteilungen
