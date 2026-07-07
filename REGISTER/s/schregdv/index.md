@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.11.1994 I 3631; 1995 I 249;
 
 Zuletzt geändert durch
-:   Art. 43 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 5 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 18.6.2026 I Nr. 184
 
 
 ## Erster Abschnitt - Einrichtung der Register im Allgemeinen
@@ -276,9 +273,11 @@ durchkreuzen.
 
 Zur Bezeichnung des Berechtigten sind im Schiffregister einzutragen:
 
-1.  bei natürlichen Personen der Name (Vorname und Familienname), der
-    Beruf und der Wohnort sowie nötigenfalls andere die Berechtigten
-    deutlich kennzeichnende Merkmale;
+1.  bei natürlichen Personen Vorname und Familienname, Geburtsdatum und,
+    falls aus den Eintragungsunterlagen ersichtlich, akademische Grade und
+    frühere Familiennamen; ergibt sich das Geburtsdatum nicht aus den
+    Eintragungsunterlagen und ist es dem Registergericht nicht anderweitig
+    bekannt, soll der Wohnort des Berechtigten angegeben werden;
 
 
 2.  bei rechtsfähigen Personengesellschaften und juristischen Personen die
@@ -956,14 +955,9 @@ als Anlagen 6 und 6a beigefügt sind. Im übrigen gelten die §§ 37 bis
 
 ### § 45
 
-(1) Das Registergericht hat auf dem Eichschein die Eintragung des
-Schiffs in das Schiffsregister zu vermerken. In dem Vermerk sind die
-Nummer des Registerblatts, das Datum der Eintragung und der Heimatort
-des Schiffs anzugeben. Der Vermerk ist zu unterschreiben und mit dem
-Stempel des Registergerichts zu versehen.
-
-(2) Die Urkunde ist dem Eigentümer auszuhändigen, wenn der Vermerk
-nach Absatz 1 erteilt worden ist.
+Für den beglaubigten Auszug aus dem Schiffsbrief ist das Muster
+maßgebend, das dieser Verordnung als Anlage 7 beigefügt ist. Im
+Übrigen gelten die §§ 42 und 43 entsprechend.
 
 
 ## Siebenter Abschnitt - Das Schiffsbauregister
@@ -1412,10 +1406,12 @@ geführten Register erteilt worden ist.
 (1) Die Einsicht erfolgt durch Wiedergabe des betreffenden
 Registerblatts auf einem Bildschirm. Der Einsicht nehmenden Person
 kann gestattet werden, das Registerblatt selbst auf dem Bildschirm
-aufzurufen, wenn technisch sichergestellt ist, daß der Umfang der nach
-§ 8 der Schiffsregisterordnung oder den Vorschriften dieser Verordnung
-zulässigen Einsicht nicht überschritten wird und Veränderungen des
-Registerinhalts nicht vorgenommen werden können.
+aufzurufen, wenn technisch sichergestellt ist, dass der Umfang der
+nach § 8 der Schiffsregisterordnung oder den Vorschriften dieser
+Verordnung zulässigen Einsicht nicht überschritten wird und
+Veränderungen des Registerinhalts nicht vorgenommen werden können. Die
+Landesjustizverwaltungen können weitere Formen der Einsicht in das
+elektronische Registerblatt ermöglichen.
 
 (2) Anstelle der Wiedergabe auf einem Bildschirm kann auch die
 Einsicht in einen Ausdruck gewährt werden.
@@ -1432,62 +1428,46 @@ Landesjustizverwaltungen dies vereinbaren. Die Gewährung von Einsicht
 schließt die Erteilung von Abschriften mit ein.
 
 
-### Unterabschnitt 4 - Automatisierter Abruf von Daten
+### Unterabschnitt 4 - Elektronischer Abruf von Daten
 
 
 
 #### § 68
 
-Die Gewährung des Abrufs von Daten im automatisierten Verfahren nach §
-93 der Schiffsregisterordnung in Verbindung mit § 133 der
-Grundbuchordnung berechtigt insbesondere zur Einsichtnahme in das
-Register in dem durch § 8 der Schiffsregisterordnung bestimmten Umfang
-sowie zur Fertigung von Abdrucken des Registerblatts. Abdrucke stehen
-den Ausdrucken nicht gleich. Wird die Abrufberechtigung einer nicht-
-öffentlichen Stelle gewährt, ist diese in der Genehmigung oder dem
-Vertrag (§ 133 der Grundbuchordnung) darauf hinzuweisen, daß sie die
-abgerufenen Daten nach § 93 Satz 1 der Schiffsregisterordnung nur zu
-dem Zweck verarbeiten darf, für den sie ihr übermittelt worden sind.
+Der Abruf von Daten in einem elektronischen Abrufverfahren aufgrund
+einer Rechtsverordnung nach § 8 Absatz 1 Satz 3 der
+Schiffsregisterordnung berechtigt zur Einsichtnahme in das Register in
+dem dort bestimmten Umfang sowie zur Fertigung von Abdrucken des
+Registerblatts. Abdrucke stehen den Ausdrucken nicht gleich. Für den
+Abruf der der Einsicht unterliegenden Daten ist technisch
+sicherzustellen, dass ein Abruf jeweils nur einzeln für jedes
+Registerblatt und dass keine gezielte Suche nach natürlichen Personen
+möglich ist.
 
 
 #### § 69
 
-(1) Die Einrichtung eines automatisierten Abrufverfahrens bedarf bei
-Gerichten, Strafverfolgungsbehörden, dem Bundesamt für Seeschiffahrt
-und Hydrographie und der See-Berufsgenossenschaft einer
-Verwaltungsvereinbarung. Sie kann allgemein auch dem Germanischen
-Lloyd und, für die in § 93 der Schiffsregisterordnung in Verbindung
-mit § 133 Abs. 4 der Grundbuchordnung bezeichneten Zwecke,
-Schiffsbanken und anderen Kreditinstituten durch die
-Landesjustizverwaltung genehmigt werden, soweit nicht ein öffentlich-
-rechtlicher Vertrag geschlossen wird.
+(1) Für die Sicherstellung der ordnungsgemäßen Datenverarbeitung und
+für die Erhebung der Kosten durch die Justizverwaltung protokolliert
+das Registergericht alle Abrufe. Im Protokoll dürfen nur das Gericht,
+die Nummer des abgerufenen Registerblatts, die abrufende Person oder
+Stelle, das Aktenzeichen oder eine sonstige Kennung des Abrufs, der
+Zeitpunkt des Abrufs sowie die für die Durchführung des Abrufs
+verwendeten Daten gespeichert werden.
 
-(2) Eine Genehmigung wird nur auf Antrag erteilt. Zuständig ist die
-Behörde, in deren Bezirk das betreffende Registergericht liegt. In der
-Rechtsverordnung nach § 73 oder einer Vereinbarung nach § 1 Abs. 3 der
-Schiffsregisterordnung kann die Zuständigkeit abweichend geregelt
-werden. Für das Verfahren gelten im übrigen das Verwaltungsverfahrens-
-und das Verwaltungszustellungsgesetz des das Register führenden Landes
-entsprechend.
+(2) Die protokollierten Daten dürfen nur für die Zwecke nach Absatz 1
+Satz 1 sowie für Zwecke der Datenschutzkontrolle verarbeitet werden.
+Sie sind in geeigneter Weise vor Missbrauch zu schützen.
 
-(3) Die Genehmigung kann auf entsprechenden Antrag hin auch für die
-Registergerichte des Landes erteilt werden, bei denen die gesetzlichen
-Voraussetzungen dafür gegeben sind. In der Genehmigung ist in jedem
-Fall das Vorliegen der Voraussetzungen nach § 93 Satz 2 der
-Schiffsregisterordnung in Verbindung mit § 133 Abs. 2 Satz 2 und 3 Nr.
-1 und 2 der Grundbuchordnung besonders festzustellen.
-
-(4) Der Widerruf einer Genehmigung erfolgt durch die genehmigende
-Stelle. Ist eine Gefährdung von Registern zu befürchten, kann in den
-Fällen des Absatzes 3 Satz 1 die Genehmigung für einzelne
-Registergerichte auch durch die für diese jeweils zuständige Stelle
-ausgesetzt werden. Der Widerruf und die Aussetzung einer Genehmigung
-sind den übrigen Landesjustizverwaltungen unverzüglich mitzuteilen.
+(3) Die nach Absatz 1 gefertigten Protokolle werden vier Jahre nach
+Ablauf des Kalenderjahres, in dem die Zahlung der Kosten erfolgt ist,
+vernichtet. Im Fall der Einlegung eines Rechtsbehelfs mit dem Ziel der
+Rückerstattung verlängert sich die Aufbewahrungsfrist jeweils um den
+Zeitraum von der Einlegung bis zur rechtskräftigen Entscheidung über
+den Rechtsbehelf.
 
 
-#### § 70
-
-Im Übrigen gelten die §§ 82 bis 84 der Grundbuchverfügung sinngemäß.
+#### § 70 (weggefallen)
 
 
 ### Unterabschnitt 5 - Zusammenarbeit mit Behörden der Seeschiffahrt
@@ -1819,10 +1799,9 @@ wiederzugeben.
 
 ### § 81
 
-§ 29 Abs. 1 und § 53 Abs. 1 in der seit dem 24. Februar 1999 geltenden
-Fassung sind auch auf Eintragungen anzuwenden, die vor diesem
-Zeitpunkt beantragt, aber zu diesem Zeitpunkt noch nicht vorgenommen
-worden sind.
+§ 16 Nummer 1 in der seit dem 1. Juli 2026 geltenden Fassung ist auch
+auf Eintragungen anzuwenden, die vor diesem Zeitpunkt beantragt, aber
+zu diesem Zeitpunkt noch nicht vorgenommen worden sind.
 
 
 ### Anlage 1 (zu § 25)
@@ -2291,6 +2270,129 @@ eingetragen wie folgt:
 
 *    *
     *
+
+
+
+
+### Anlage 7 (zu § 45)
+
+   (Fundstelle: BGBl. 2026 I Nr. 184, S. 10)
+![bgbl1_2026_j01840_0010.jpg](bgbl1_2026_j01840_0010.jpg)
+Amtlich beglaubigter Auszug aus dem Schiffsbrief
+
+
+*    *   In dem vom unterzeichneten Gericht kraft gesetzlicher Anordnung
+        geführten Schiffsregister ist das Schiff:
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . .
+
+
+*    *   auf Grund glaubhafter Nachweisungen unter Nummer . . . . . . . . . .
+
+
+*    *   eingetragen wie folgt:
+
+
+*    *   1.
+
+    *   Name, Nummer oder sonstige Merkzeichen: . . . . . . . . . .
+
+
+*    *
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . .
+
+
+*    *   2.
+
+    *   Einheitliche europäische Schiffsnummern (ENI): . . . . . . . . .
+
+
+*    *
+    *   (soweit vorhanden)
+
+
+*    *   3.
+
+    *   Gattung, Hauptbaustoff: . . . . . . . . . .
+
+
+*    *   4.
+
+    *   Jahr des Stapellaufs, Bauort, Schiffswerft: . . . . . . . . . .
+
+
+*    *
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . .
+
+
+*    *   5.
+
+    *   Heimatort: . . . . . . . . . .
+
+
+*    *   6.
+
+    *   Tragfähigkeit, Wasserverdrängung, Maschinenleistung:
+
+
+*    *
+    *   a)
+
+    *   Tragfähigkeit in t/Wasserverdrängung in m
+        3                     : . . . . . . . . . .
+
+
+*    *
+    *   b)
+
+    *   Maschinenleistung: . . . . . . . . . .
+
+
+*    *
+    *   c)
+
+    *   Eichschein oder eine andere geeignete Urkunde: . . . . . . . . . .
+
+
+*    *
+    *
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . .
+
+
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . .  ,
+
+    *
+    *   den . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   (Ort)
+
+    *
+    *   (Datum)
+
+
+
+
+
+*    *   (Siegel)
+
+    *   Amtsgericht
+
 
 
 
