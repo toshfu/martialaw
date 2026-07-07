@@ -18,7 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 10.8.2007 I 1902;
 
-Stand: zuletzt geändert Art. 5 Abs. 1 G v. 11.6.2024 I Nr. 185
+Zuletzt geändert durch
+:   Art. 12 Abs. 1 G v. 29.6.2026 I Nr. 197
+
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
