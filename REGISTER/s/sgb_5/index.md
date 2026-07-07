@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 9 G v. 12.5.2026 I Nr. 143
 
+Änderung durch
+:   Art. 1 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -258,9 +261,9 @@ Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§
     zurückgezahlt worden ist,
 
 
-2a. Personen in der Zeit, für die sie Bürgergeld nach § 19 Absatz 1 Satz 1
-    des Zweiten Buches beziehen, es sei denn, dass diese Leistung nur
-    darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3
+2a. Personen in der Zeit, für die sie Grundsicherungsgeld nach § 19 Absatz
+    1 Satz 1 des Zweiten Buches beziehen, es sei denn, dass diese Leistung
+    nur darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3
     Satz 1 des Zweiten Buches bezogen werden; dies gilt auch, wenn die
     Entscheidung, die zum Bezug der Leistung geführt hat, rückwirkend
     aufgehoben oder die Leistung zurückgefordert oder zurückgezahlt worden
@@ -460,12 +463,12 @@ selbständig erwerbstätig sind; als Arbeitnehmer gelten für
 Gesellschafter auch die Arbeitnehmer der Gesellschaft.
 
 (5a) Nach Absatz 1 Nr. 2a ist nicht versicherungspflichtig, wer
-zuletzt vor dem Bezug von Bürgergeld privat krankenversichert war oder
-weder gesetzlich noch privat krankenversichert war und zu den in
-Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört oder
-bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte. Satz
-1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs. 1
-Nr. 2a versicherungspflichtig waren, für die Dauer ihrer
+zuletzt vor dem Bezug von Grundsicherungsgeld privat krankenversichert
+war oder weder gesetzlich noch privat krankenversichert war und zu den
+in Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört
+oder bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte.
+Satz 1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs.
+1 Nr. 2a versicherungspflichtig waren, für die Dauer ihrer
 Hilfebedürftigkeit. Personen nach Satz 1 sind nicht nach § 10
 versichert. Personen nach Satz 1, die am 31. Dezember 2015 die
 Voraussetzungen des § 10 erfüllt haben, sind ab dem 1. Januar 2016
@@ -848,9 +851,9 @@ Fassung gleich.
     mindestens vierundzwanzig Monate oder unmittelbar vor dem Ausscheiden
     ununterbrochen mindestens zwölf Monate versichert waren; Zeiten der
     Mitgliedschaft nach § 189 und Zeiten, in denen eine Versicherung
-    allein deshalb bestanden hat, weil Bürgergeld nach § 19 Absatz 1 Satz
-    1 des Zweiten Buches zu Unrecht bezogen wurde, werden nicht
-    berücksichtigt,
+    allein deshalb bestanden hat, weil Grundsicherungsgeld nach § 19
+    Absatz 1 Satz 1 des Zweiten Buches zu Unrecht bezogen wurde, werden
+    nicht berücksichtigt,
 
 
 2.  Personen, deren Versicherung nach § 10 erlischt oder nur deswegen
@@ -887,12 +890,13 @@ Fassung gleich.
 
 
 7.  innerhalb von sechs Monaten nach ständiger Aufenthaltnahme im Inland
-    oder innerhalb von drei Monaten nach Ende des Bezugs von Bürgergeld
-    nach § 19 Absatz 1 Satz 1 des Zweiten Buches Spätaussiedler sowie
-    deren gemäß § 7 Abs. 2 Satz 1 des Bundesvertriebenengesetzes
-    leistungsberechtigte Ehegatten und Abkömmlinge, die bis zum Verlassen
-    ihres früheren Versicherungsbereichs bei einem dortigen Träger der
-    gesetzlichen Krankenversicherung versichert waren,
+    oder innerhalb von drei Monaten nach Ende des Bezugs von
+    Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+    Spätaussiedler sowie deren gemäß § 7 Abs. 2 Satz 1 des
+    Bundesvertriebenengesetzes leistungsberechtigte Ehegatten und
+    Abkömmlinge, die bis zum Verlassen ihres früheren
+    Versicherungsbereichs bei einem dortigen Träger der gesetzlichen
+    Krankenversicherung versichert waren,
 
 
 8.  Personen, die ab dem 31. Dezember 2018 als Soldatinnen oder Soldaten
@@ -3822,19 +3826,21 @@ enthalten sind, nur verarbeiten, soweit dies für die Prüfung nach Satz
 
 ##### § 31 Arznei- und Verbandmittel, Verordnungsermächtigung
 
-(1) Versicherte haben Anspruch auf Versorgung mit apothekenpflichtigen
-Arzneimitteln, soweit die Arzneimittel nicht nach § 34 oder durch
-Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 ausgeschlossen sind, und auf
-Versorgung mit Verbandmitteln, Harn- und Blutteststreifen. Der
-Gemeinsame Bundesausschuss hat in den Richtlinien nach § 92 Abs. 1
-Satz 2 Nr. 6 festzulegen, in welchen medizinisch notwendigen Fällen
-Stoffe und Zubereitungen aus Stoffen, die als Medizinprodukte nach § 3
-Nr. 1 oder Nr. 2 des Medizinproduktegesetzes in der bis einschließlich
-25\. Mai 2021 geltenden Fassung zur Anwendung am oder im menschlichen
-Körper bestimmt sind, ausnahmsweise in die Arzneimittelversorgung
-einbezogen werden; § 34 Abs. 1 Satz 5, 7 und 8 und Abs. 6 sowie § 35
-und die §§ 126 und 127 in der bis zum 10. Mai 2019 geltenden Fassung
-gelten entsprechend. Für verschreibungspflichtige und nicht
+(1) Versicherte haben einen Anspruch auf Versorgung mit
+apothekenpflichtigen Arzneimitteln, soweit die Arzneimittel nicht nach
+§ 34 oder durch Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6
+ausgeschlossen sind oder nach den §§ 48a oder 48b des
+Arzneimittelgesetzes abgegeben werden, und auf Versorgung mit
+Verbandmitteln, Harn- und Blutteststreifen. Der Gemeinsame
+Bundesausschuss hat in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6
+festzulegen, in welchen medizinisch notwendigen Fällen Stoffe und
+Zubereitungen aus Stoffen, die als Medizinprodukte nach § 3 Nr. 1 oder
+Nr. 2 des Medizinproduktegesetzes in der bis einschließlich 25. Mai
+2021 geltenden Fassung zur Anwendung am oder im menschlichen Körper
+bestimmt sind, ausnahmsweise in die Arzneimittelversorgung einbezogen
+werden; § 34 Abs. 1 Satz 5, 7 und 8 und Abs. 6 sowie § 35 und die §§
+126 und 127 in der bis zum 10. Mai 2019 geltenden Fassung gelten
+entsprechend. Für verschreibungspflichtige und nicht
 verschreibungspflichtige Medizinprodukte nach Satz 2 gilt § 34 Abs. 1
 Satz 6 entsprechend. Der Vertragsarzt kann Arzneimittel, die auf Grund
 der Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 von der Versorgung
@@ -7780,7 +7786,7 @@ Zuzahlungen, die Versicherte zu leisten haben, betragen 10 vom Hundert
 des Abgabepreises, mindestens jedoch 5 Euro und höchstens 10 Euro;
 allerdings jeweils nicht mehr als die Kosten des Mittels; im Fall
 einer Bestimmung nach § 130b Absatz 1c entspricht die Höhe der
-Zuzahlung dem nach § 131 Absatz 4 Satz 3 Nummer 2a übermittelten
+Zuzahlung dem nach § 131 Absatz 4 Satz 3 Nummer 3 übermittelten
 Betrag. Als Zuzahlungen zu stationären Maßnahmen und zur
 außerklinischen Intensivpflege in vollstationären Pflegeeinrichtungen,
 in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften
@@ -22180,13 +22186,16 @@ nicht überschreiten darf. Wird eine Vertragsstrafe nach Satz 4
 ausgesprochen, kann vorgesehen werden, dass die Berechtigung zur
 weiteren Versorgung bis zur vollständigen Begleichung der
 Vertragsstrafe ausgesetzt wird. Die Vertragspartner bestimmen im
-Rahmenvertrag die für die Ahndung von Verstößen gegen ihre
-Verpflichtungen nach Absatz 1, 2 oder 5 oder gegen Absatz 3 Satz 3
-zuständige Stelle oder die zuständigen Stellen und regeln das Nähere
-zur Einleitung und Durchführung des Verfahrens, einschließlich der
-Verwendung der vereinnahmten Vertragsstrafen. Kommt eine Regelung nach
-Satz 4 oder Satz 6 nicht bis zum 30. Juni 2021 zustande, entscheidet
-die Schiedsstelle nach Absatz 8.
+Rahmenvertrag die zuständige Stelle oder die zuständigen Stellen für
+die Ahndung von Verstößen der Apotheken gegen ihre Verpflichtungen aus
+dem Rahmenvertrag, nach Absatz 1, nach Absatz 3 Satz 3 oder aus nach
+Absatz 5 geschlossenen Verträgen und regeln das Nähere zur Einleitung
+und Durchführung des Verfahrens, einschließlich der Verwendung der
+vereinnahmten Vertragsstrafen. Eine persönliche Haftung der Mitglieder
+der jeweils zuständigenStelle nach Satz 6 ist dabei auszuschließen.
+Kommt eine Regelungoder eine Änderung einer Regelung nach den Sätzen 4
+oder 6 nicht oderteilweise nicht zustande, entscheidet die
+Schiedsstelle nach Absatz8 auf Antrag eines Vertragspartners.
 
 (4a) Im Rahmenvertrag nach Absatz 2 sind bis zum 31. März 2020 die
 notwendigen Regelungen für die Verwendung von Verschreibungen von
@@ -22205,14 +22214,21 @@ zur Mitwirkungspflicht der Apotheken nach § 131a Absatz 1 Satz 3.
 
 (4c) Eine bedarfsgerechte Versorgung der Versicherten mit rabattierten
 Arzneimitteln ist von den Vertragspartnern nach Absatz 2
-sicherzustellen. Ist ein rabattiertes Arzneimittel bei Vorlage der
-ärztlichen Verordnung nicht verfügbar, ist die Apotheke unmittelbar
-zur Abgabe eines lieferbaren wirkstoffgleichen Arzneimittels nach
-Maßgabe des § 129 Absatz 1 Satz 2 berechtigt. Ist bei einer Abgabe
-nach Satz 2 kein Arzneimittel zum Festbetrag verfügbar, trägt die
-Krankenkasse abweichend von § 31 Absatz 2 Satz 1 die Mehrkosten. Das
-Nähere zur unmittelbaren Abgabe nach den Sätzen 2 und 3 und zur
-Abrechnung ist im Rahmenvertrag nach Absatz 2 festzulegen.
+sicherzustellen. Sind rabattierte Arzneimittel bei Vorlage der
+ärztlichen Verordnung nicht verfügbar im Sinne des Absatzes 2a Satz 2
+oder 3, ist die Apotheke unmittelbar zur Abgabe eines lieferbaren
+wirkstoffgleichen Arzneimittels nach Maßgabe des Absatzes 1 Satz 2
+berechtigt. Abweichend von Satz 2 ist die Apotheke bis zum 1. Juli
+2028 unmittelbar zur Abgabe eines vorrätigen wirkstoffgleichen
+Arzneimittels nach Maßgabe des Absatzes 1 Satz 2 berechtigt, sofern
+rabattierte Arzneimittel bei Vorlage der ärztlichen Verordnung nicht
+verfügbar im Sinne des Absatzes 2a Satz 2 oder 3 sind. Ist bei einer
+Abgabe eines Arzneimittels nach den Sätzen 2 oder 3 kein Arzneimittel
+zum Festbetrag verfügbar, trägt die Krankenkasse abweichend von § 31
+Absatz 2 Satz 1 die Mehrkosten. Das Nähere zur unmittelbaren Abgabe
+eines Arzneimittels nach den Sätzen 2 bis 4 und zur Abrechnung der
+abgegebenen Arzneimittel ist im Rahmenvertrag nach Absatz 2
+festzulegen.
 
 (4d) Unabhängig von den nach Absatz 4 Satz 2 erster Halbsatz in dem
 Rahmenvertrag nach Absatz 2 getroffenen Regelungen ist eine Retaxation
@@ -22246,17 +22262,32 @@ ausgeschlossen, wenn
 
 
 Sofern entgegen Absatz 1 Satz 1 Nummer 1 oder Satz 3 eine Ersetzung
-des verordneten Arzneimittels nicht erfolgt oder die nach Absatz 2a
-Satz 2 vorgesehenen Verfügbarkeitsanfragen ganz oder teilweise nicht
-vorgenommen wurden, ist eine Retaxation des abgegebenen Arzneimittels
-ausgeschlossen; in diesen Fällen besteht kein Anspruch der abgebenden
-Apotheke auf die Vergütung nach § 3 Absatz 1 Satz 1 der
+des verordneten Arzneimittels nicht erfolgt ist oder die nach Absatz
+2a Satz 2 oder 3 vorgesehenen Verfügbarkeitsanfragen nicht oder
+teilweise nicht vorgenommen wurden, ist eine Retaxation des
+abgegebenen Arzneimittels ausgeschlossen. Eine Retaxation ist bei
+ordnungsgemäßer ärztlicher Verordnung auch in den beiden folgenden
+Fällen ausgeschlossen, sofern die Apotheke ein Arzneimittel abgegeben
+hat, das mit dem verordneten Arzneimittel in Wirkstärke und
+Packungsgröße identisch ist, für ein gleiches Anwendungsgebiet
+zugelassen ist und die gleiche oder eine austauschbare
+Darreichungsform besitzt:
+
+1.  wenn die Apotheke ein Arzneimittel abweichend von den Vorgaben des
+    Rahmenvertrags nach Absatz 2 abgegeben hat oder
+
+
+2.  wenn die Apotheke bei der Übermittlung der Angaben für die Abrechnung
+    geringfügig von den Vorgaben der Arzneimittelabrechnungsvereinbarung
+    nach § 300 Absatz 3 abgewichen ist.
+
+
+
+In den in den Sätzen 2 und 3 genannten Fällen besteht kein Anspruch
+der abgebenden Apotheke auf die Vergütung nach § 3 Absatz 1 Satz 1 der
 Arzneimittelpreisverordnung.
 
-(4e) Der Spitzenverband Bund der Krankenkassen hat dem
-Bundesministerium für Gesundheit bis zum 31. Dezember 2024 einen
-Bericht zu den Auswirkungen der Regelungen des Absatzes 4d und zur
-Einhaltung der Vorgaben nach Absatz 2a vorzulegen.
+(4e) (weggefallen)
 
 (5) Die Krankenkassen oder ihre Verbände können mit der für die
 Wahrnehmung der wirtschaftlichen Interessen maßgeblichen Organisation
@@ -22286,44 +22317,65 @@ besonderen Versorgung teilnehmenden Versicherten auch abweichend von
 Vorschriften dieses Buches vereinbart werden.
 
 (5c) Für Zubereitungen aus Fertigarzneimitteln gelten die Preise, die
-zwischen der mit der Wahrnehmung der wirtschaftlichen Interessen
+zwischen der für die Wahrnehmung der wirtschaftlichen Interessen
 gebildeten maßgeblichen Spitzenorganisation der Apotheker und dem
-Spitzenverband Bund der Krankenkassen auf Grund von Vorschriften nach
-dem Arzneimittelgesetz vereinbart sind. Für parenterale Zubereitungen
-aus Fertigarzneimitteln in der Onkologie haben die Vertragspartner
-nach Satz 1 die Höhe der Preise nach Satz 1 neu zu vereinbaren. Kommt
-eine Vereinbarung nach Satz 1 oder 2 ganz oder teilweise nicht
-zustande, entscheidet die Schiedsstelle nach Absatz 8. Die
-Vereinbarung nach Satz 2 ist bis zum 31. August 2017 zu treffen. Die
-Vereinbarung oder der Schiedsspruch gilt bis zum Wirksamwerden einer
-neuen Vereinbarung fort. Gelten für Fertigarzneimittel in parenteralen
-Zubereitungen keine Vereinbarungen über die zu berechnenden
-Einkaufspreise nach Satz 1, berechnet die Apotheke ihre tatsächlich
-vereinbarten Einkaufspreise, höchstens jedoch die
-Apothekeneinkaufspreise, die bei Abgabe an Verbraucher auf Grund der
-Preisvorschriften nach dem Arzneimittelgesetz, nach Absatz 3 Satz 3
-oder auf Grund von Satz 1 gelten, jeweils abzüglich der Abschläge nach
-§ 130a Absatz 1. Kostenvorteile durch die Verwendung von Teilmengen
+Spitzenverband Bund der Krankenkassen im Benehmen mit dem Verband der
+Privaten Krankenversicherung aufgrund von Vorschriften nach dem
+Arzneimittelgesetz vereinbart sind. Kommt eine Vereinbarung nach Satz
+1 nicht oder teilweise nicht zustande, entscheidet die Schiedsstelle
+nach Absatz 8. Die Vereinbarung oder der Schiedsspruch gilt bis zum
+Wirksamwerden einer neuen Vereinbarung fort. Gelten für
+Fertigarzneimittel in Zubereitungen keine Vereinbarungen über die zu
+berechnenden Einkaufspreise nach Satz 1, berechnet die Apotheke ihre
+tatsächlich vereinbarten Einkaufspreise, höchstens jedoch die
+Apothekeneinkaufspreise, die bei Abgabe an Verbraucher aufgrund der
+Preisvorschriften nach dem Arzneimittelgesetz, nach Satz 1 oder nach
+Absatz 3 Satz 3 gelten, jeweils abzüglich der Abschläge nach § 130a
+Absatz 1 und 3a. Kostenvorteile durch die Verwendung von Teilmengen
 von Fertigarzneimitteln sind zu berücksichtigen. Der Spitzenverband
 Bund der Krankenkassen und die Krankenkasse können von der Apotheke
 Nachweise über Bezugsquellen und verarbeitete Mengen sowie die
 tatsächlich vereinbarten Einkaufspreise und vom pharmazeutischen
-Unternehmer über die Abnehmer, die abgegebenen Mengen und die
-vereinbarten Preise für Fertigarzneimittel in parenteralen
-Zubereitungen verlangen. Sofern eine Apotheke bei der parenteralen
-Zubereitung aus Fertigarzneimitteln in der Onkologie einen Betrieb,
-der nach § 21 Absatz 2 Nummer 1b Buchstabe a erste Alternative des
-Arzneimittelgesetzes tätig wird, beauftragt, können der Spitzenverband
-Bund der Krankenkassen und die Krankenkasse von der Apotheke auch
-einen Nachweis über den tatsächlichen Einkaufspreis dieses Betriebs
-verlangen. Der Anspruch nach Satz 8 umfasst jeweils auch die auf das
-Fertigarzneimittel und den Gesamtumsatz bezogenen Rabatte. Klagen über
-den Auskunftsanspruch haben keine aufschiebende Wirkung; ein
-Vorverfahren findet nicht statt. Die Krankenkasse kann ihren
-Landesverband mit der Prüfung beauftragen. Abweichend von den Sätzen 1
-bis 5 gelten in den Fällen, in denen ein Wirkstoff zu dem nach den
-Sätzen 1 bis 5 vereinbarten oder festgesetzten Preis nicht verfügbar
-ist, die Sätze 6 bis 12 entsprechend.
+Unternehmer Nachweise über die Abnehmer, die abgegebenen Mengen und
+die vereinbarten Preise für Fertigarzneimittel in parenteralen
+Zubereitungen verlangen. Sofern eine Apotheke bei der Herstellung von
+parenteralen Zubereitungen aus Fertigarzneimitteln einen Betrieb
+beauftragt, können der Spitzenverband Bund der Krankenkassen und die
+Krankenkasse von der Apotheke einen Nachweis über den tatsächlichen
+Einkaufspreis dieses Betriebs verlangen. Der Anspruch nach Satz 6
+umfasst jeweils auch die auf das Fertigarzneimittel und den
+Gesamtumsatz bezogenen Rabatte. Zur Durchführung des
+Auskunftsverfahrens nach Satz 6 übermitteln die Krankenkassen dem
+Spitzenverband Bund der Krankenkassen zugleich mit den nach § 84
+Absatz 5 Satz 1 und 3 erfassten Ausgaben die Institutionskennzeichen
+der Apotheken sowie die Angabe, ob es sich um eine Apotheke handelt,
+die selbst parenterale Zubereitungen aus Fertigarzneimitteln
+herstellt, oder um eine Apotheke, die bei der Herstellung von
+parenteralen Zubereitungen aus Fertigarzneimitteln einen Betrieb
+beauftragt hat. Pharmazeutische Unternehmer und Apotheken, die
+Fertigarzneimittel für parenterale Zubereitungen und parenterale
+Zubereitungen aus Fertigarzneimitteln abgeben, haben die in den Sätzen
+6 bis 8 genannten Nachweise elektronisch an den Spitzenverband Bund
+der Krankenkassen zu übermitteln. Das Auskunftsverfahren ist vom
+Spitzenverband Bund der Krankenkassen elektronisch durchzuführen. Die
+pharmazeutischen Unternehmer und die Apotheken sind zur Teilnahme an
+diesem Verfahren verpflichtet. Das Nähere zum Verfahren der
+elektronischen Übermittlung, insbesondere zum Format, zu den
+Nachweisen und zu den Fristen, innerhalb derer die Übermittlung zu
+erfolgen hat, regelt der Spitzenverband Bund der Krankenkassen. Der
+Spitzenverband Bund der Krankenkassen schließt mit dem Verband der
+Privaten Krankenversicherung eine Vereinbarung über die angemessene
+Beteiligung der Unternehmen der privaten Krankenversicherung an den
+Kosten für den Abschluss der Vereinbarungen nach Satz 1 und an den
+Kosten für das Verfahren der in Satz 2 genannten Entscheidung der
+Schiedsstelle. Klagen über den Auskunftsanspruch haben keine
+aufschiebende Wirkung; ein Vorverfahren findet nicht statt. Die
+Krankenkasse kann ihren Landesverband mit der Durchführung des
+Auskunftsverfahrens und der Prüfung der betreffenden Nachweise
+beauftragen. Abweichend von den Sätzen 1 bis 3 gelten in den Fällen,
+in denen ein Wirkstoff zu dem nach Satz 1 geltenden oder nach Satz 2
+festgesetzten Preis nicht verfügbar ist, die Sätze 4 bis 14
+entsprechend.
 
 (5d) Für Leistungen nach § 31 Absatz 6 vereinbaren die für die
 Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche
@@ -22335,58 +22387,192 @@ nach Satz 1 ist bis zum 29. Februar 2020 zu treffen. Kommt eine
 Vereinbarung nach Satz 1 ganz oder teilweise nicht zustande,
 entscheidet die Schiedsstelle nach Absatz 8. Die Vereinbarung oder der
 Schiedsspruch gilt bis zum Wirksamwerden einer neuen Vereinbarung
-fort. Absatz 5c Satz 8 und 10 bis 12 gilt entsprechend. Der
-Spitzenverband Bund der Krankenkassen und die Krankassen können auch
-von Arzneimittelgroßhändlern und Arzneimittelimporteuren Nachweise
-über die Abnehmer, die abgegebenen Mengen und die vereinbarten Preise
-für Leistungen nach § 31 Absatz 6 verlangen.
+fort. Absatz 5c Satz 6, 8 und 9 gilt entsprechend. Der Spitzenverband
+Bund der Krankenkassen und die Krankenkassen können auch von
+Arzneimittelgroßhändlern und Arzneimittelimporteuren Nachweise über
+die Abnehmer, die abgegebenen Mengen und die vereinbarten Preise und
+Rabatte für Leistungen nach § 31 Absatz 6 verlangen. Die Apotheken,
+die pharmazeutischen Unternehmer, die Arzneimittelgroßhändler und die
+Arzneimittelimporteure haben die jeweiligen Nachweise elektronisch an
+den Spitzenverband Bund der Krankenkassen zu übermitteln. Das
+jeweilige Auskunftsverfahren ist vom Spitzenverband Bund der
+Krankenkassen elektronisch durchzuführen. Die Apotheken, die
+pharmazeutischen Unternehmer, die Arzneimittelgroßhändler und die
+Arzneimittelimporteure sind zur Teilnahme am jeweiligen Verfahren
+verpflichtet. Das Nähere zum Verfahren der elektronischen
+Übermittlung, insbesondere zum Format, zu den Nachweisen und zu den
+Fristen, innerhalb derer die Übermittlung zu erfolgen hat, regelt der
+Spitzenverband Bund der Krankenkassen. Klagen über den Anspruch nach
+Satz 2, auch in Verbindung mit Absatz 5c Satz 6, haben keine
+aufschiebende Wirkung; ein Vorverfahren findet nicht statt. Die
+Krankenkasse kann ihren Landesverband mit der Durchführung des
+jeweiligen Verfahrens und der Prüfung der jeweils betreffenden
+Nachweise beauftragen.
 
 (5e) Versicherte haben Anspruch auf pharmazeutische Dienstleistungen
 durch Apotheken, die über die Verpflichtung zur Information und
 Beratung gemäß § 20 der Apothekenbetriebsordnung hinausgehen und die
 die Versorgung der Versicherten verbessern. Diese pharmazeutischen
-Dienstleistungen umfassen insbesondere Maßnahmen der Apotheken zur
-Verbesserung der Sicherheit und Wirksamkeit einer
-Arzneimitteltherapie, insbesondere bei
+Dienstleistungen umfassen insbesondere Maßnahmen der Apotheken
 
-1.  der Anwendung bestimmter Wirkstoffe, die nur in besonderen
-    Therapiesituationen verordnet werden,
+1.  zur Prävention und Früherkennung von Erkrankungen und
+    Erkrankungsrisiken und
 
 
-2.  der Behandlung chronischer schwerwiegender Erkrankungen,
+2.  zur Verbesserung der Sicherheit und Wirksamkeit einer
+    Arzneimitteltherapie, insbesondere bei
+
+    a)  der Anwendung bestimmter Wirkstoffe, die nur in besonderen
+        Therapiesituationen verordnet werden,
 
 
-3.  der Behandlung von Patienten mit Mehrfacherkrankungen und
-    Mehrfachmedikation und
+    b)  der Behandlung chronischer schwerwiegender Erkrankungen,
 
 
-4.  der Behandlung bestimmter Patientengruppen, die besondere
-    Aufmerksamkeit und fachliche Unterstützung bei der
-    Arzneimitteltherapie benötigen.
+    c)  der Behandlung von Patienten mit Mehrfacherkrankungen und
+        Mehrfachmedikation und
+
+
+    d)  der Behandlung bestimmter Patientengruppen, die besondere
+        Aufmerksamkeit und fachliche Unterstützung bei der
+        Arzneimitteltherapie benötigen.
 
 
 
-Diese pharmazeutischen Dienstleistungen können auch Maßnahmen der
-Apotheken zur Vermeidung von Krankheiten und deren Verschlimmerung
-sein und sollen insbesondere die pharmazeutische Betreuung von
+
+
+
+Insbesondere haben Versicherte Anspruch auf die folgenden
+pharmazeutischen Dienstleistungen:
+
+1.  Beratung mit risikoadaptierten Messungen zu Risikofaktoren unter
+    Verwendung evidenzbasierter Risikobewertungsmodelle, insbesondere
+    Messungen der erforderlichen Blutwerte und des Blutdrucks sowie
+    Messungen zur Einschätzung des individuellen Risikos, an Herz-
+    Kreislauf-Erkrankungen sowie Diabetes mellitus, Bluthochdruck,
+    Fettstoffwechselstörung oder Adipositas zu erkranken,
+
+
+2.  Beratung in Form einer Kurzintervention zur Prävention
+    tabakassoziierter Erkrankungen,
+
+
+3.  Erweiterte Medikationsberatung bei Polymedikation,
+
+
+4.  Pharmazeutisches Medikationsmanagement bei komplexer Dauermedikation,
+
+
+5.  Pharmazeutisches Medikationsmanagement bei neu verordneter
+    Dauermedikation,
+
+
+6.  Pharmazeutische Betreuung von Organtransplantierten,
+
+
+7.  Pharmazeutische Betreuung bei oraler Antitumortherapie,
+
+
+8.  Erweiterte Einweisung in die korrekte Arzneimittelanwendung mit Üben
+    der Inhalationstechnik,
+
+
+9.  Erweiterte Einweisung in die korrekte Arzneimittelanwendung mit Üben
+    der Injektionstechnik und
+
+
+10. Standardisierte Risikoerfassung von hohem Blutdruck.
+
+
+
+Die in den Sätzen 2 und 3 genannten pharmazeutischen Dienstleistungen
+können ärztlich verschrieben werden. Die Apotheke hat sich vor der
+Durchführung der in Satz 3 Nummer 4 und 5 genannten pharmazeutischen
+Dienstleistungen mit dem behandelnden Arzt abzustimmen. Die
+Bundesapothekerkammer entwickelt auf der Grundlage anerkannter
+wissenschaftlicher Standards jeweils in einer Standardarbeitsanweisung
+Empfehlungen für die Durchführung der in den Sätzen 2 und 3 genannten
+pharmazeutischen Dienstleistungen bis zum Ablauf des 1. September
+2026\. Die Standardarbeitsanweisung für die in Satz 3 Nummer 1
+genannten pharmazeutischen Dienstleistungen soll insbesondere
+Festlegungen zu geeigneten etablierten Risikobewertungsmodellen und
+Beratungsinhalten enthalten. Sobald die technischen Voraussetzungen
+vorliegen, ist die Durchführung einer pharmazeutischen Dienstleistung
+mit ihrer Bezeichnung und dem Ergebnis gemäß § 346 Absatz 2 in der
+elektronischen Patientenakte zu speichern. Apotheker können Personen,
+die zum pharmazeutischen Personal der Apotheke gehören, mit der
+Dokumentation der erbrachten pharmazeutischen Dienstleistung und ihrem
+Ergebnis beauftragen. Die Apotheke hat die folgenden Ärzte
+elektronisch über ein sicheres Übermittlungsverfahren nach § 311
+Absatz 6 über die jeweilige Durchführung der folgenden
+pharmazeutischen Dienstleistungen zu informieren:
+
+1.  den verschreibenden Arzt über jede der in den Sätzen 2 und 3 genannten
+    pharmazeutischen Dienstleistungen,
+
+
+2.  den behandelnden Hausarzt über eine in Satz 3 Nummer 3 genannte
+    pharmazeutische Dienstleistung und
+
+
+3.  den behandelnden Arzt über eine in Satz 3 Nummer 4 bis 7 genannte
+    pharmazeutische Dienstleistung.
+
+
+
+Die für die Wahrnehmung der wirtschaftlichen Interessen gebildete
+maßgebliche Spitzenorganisation der Apotheker vereinbart mit dem
+Spitzenverband Bund der Krankenkassen im Benehmen mit dem Verband der
+Privaten Krankenversicherung die pharmazeutischen Dienstleistungen
+nach den Sätzen 1 und 2, soweit diese noch nicht in Satz 3 genannt
+sind, sowie das Nähere zu den jeweiligen Anspruchsvoraussetzungen und
+zur Vergütung der erbrachten pharmazeutischen Dienstleistungen
+einschließlich der entstandenen Sachkosten, der Dokumentation und der
+Benachrichtigung der ärztlichen Person. Bei der Vereinbarung der
+pharmazeutischen Dienstleistungen sollen die in Satz 11 genannten
+Vereinbarungspartner insbesondere die pharmazeutische Betreuung von
 Patientinnen und Patienten in Gebieten mit geringer Apothekendichte
-berücksichtigen. Die für die Wahrnehmung der wirtschaftlichen
-Interessen gebildete maßgebliche Spitzenorganisation der Apotheker
-vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen
-mit dem Verband der Privaten Krankenversicherung die pharmazeutischen
-Dienstleistungen nach den Sätzen 1 bis 3 sowie das Nähere zu den
-jeweiligen Anspruchsvoraussetzungen, zur Vergütung der erbrachten
-Dienstleistungen und zu deren Abrechnung. Die Vereinbarung nach Satz 4
-ist bis zum 30. Juni 2021 zu treffen. Kommt eine Vereinbarung bis zu
-diesem Zeitpunkt ganz oder teilweise nicht zustande, entscheidet die
-Schiedsstelle nach Absatz 8. Die Vereinbarung oder der Schiedsspruch
-gilt bis zum Wirksamwerden einer neuen Vereinbarung fort.
+berücksichtigen. Die Vereinbarung nach Satz 11 ist bis zum 1. November
+2026 zu treffen. Kommt eine Vereinbarung nach Satz 11 nicht oder
+teilweise nicht innerhalb der in Satz 13 genannten Frist zustande,
+entscheidet die Schiedsstelle nach Absatz 8 innerhalb von zwölf Wochen
+nach Ablauf der in Satz 13 genannten Frist über den Inhalt der
+Vereinbarung. Die Vereinbarung nach Satz 11 oder der Schiedsspruch
+nach Satz 14 gilt bis zum Wirksamwerden einer neuen Vereinbarung. Der
+Verband der Privaten Krankenversicherung kann an den Verhandlungen der
+Vereinbarungspartner zu der Vereinbarung nach Satz 11 teilnehmen. Der
+Verband der Privaten Krankenversicherung erhält von den
+Vereinbarungspartnern die entscheidungserheblichen Unterlagen und
+Daten rechtzeitig und vollständig vor den Verhandlungen. Die Apotheken
+rechnen ab dem 1. Januar 2027 die erbrachten pharmazeutischen
+Dienstleistungen mit den Krankenkassen oder mit von diesen benannten
+Stellen ab.
 
-(5f) Das Bundesministerium für Gesundheit evaluiert im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Energie bis zum 31.
-Dezember 2023 die Auswirkungen der Regelung des Absatzes 3 Satz 2 und
-3 auf die Marktanteile von Apotheken und des Versandhandels mit
-verschreibungspflichtigen Arzneimitteln.
+(5f) Die für die Wahrnehmung der wirtschaftlichen Interessen gebildete
+maßgebliche Spitzenorganisation der Apotheker und der Spitzenverband
+Bund der Krankenkassen vereinbaren im Benehmen mit dem Verband der
+Privaten Krankenversicherung die Apothekeneinkaufspreise für die in
+Anlage 3 genannten Stoffe und für Zubereitungen aus diesen Stoffen.
+Die vereinbarten Apothekeneinkaufspreise sind im Fall der Abgabe eines
+unverarbeiteten Stoffes anteilig je nach der abgegebenen Menge und im
+Fall der Abgabe einer Zubereitung aus Stoffen anteilig je nach der für
+die Zubereitung eingesetzten Menge der Stoffe zu berechnen. Die
+Vereinbarung nach Satz 1 ist bis zum 1. Januar 2027 zu treffen. Kommt
+eine Vereinbarung nach Satz 1 innerhalb der in Satz 4 genannten Frist
+nicht für alle in Anlage 3 genannten Stoffe zustande, entscheidet die
+Schiedsstelle nach Absatz 8 innerhalb von acht Wochen über die
+Apothekeneinkaufspreise für die Stoffe, für die keine Vereinbarung
+zustande gekommen ist. Die Vereinbarung oder der Schiedsspruch nach
+Satz 4 gilt bis zum Wirksamwerden einer neuen Vereinbarung fort. Der
+Spitzenverband Bund der Krankenkassen schließt mit dem Verband der
+Privaten Krankenversicherung eine Vereinbarung über die angemessene
+Beteiligung der Unternehmen der privaten Krankenversicherung an den
+Kosten für den Abschluss der Vereinbarung nach Satz 1 und an den
+Kosten für das Verfahren der in Satz 4 genannten Entscheidung der
+Schiedsstelle. Das Bundesministerium für Gesundheit wird ermächtigt,
+Anlage 3 durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, zu ändern oder zu ergänzen, sofern eine veränderte
+Versorgungslage dies erfordert.
 
 (5g) Apotheken können bei der Abgabe verschreibungspflichtiger
 Arzneimittel im Wege des Botendienstes je Lieferort und Tag einen
@@ -22911,15 +23097,20 @@ Belieferung nach § 52b Absatz 1 und 2 Satz 1 des Arzneimittelgesetzes
 schrittweise reduziert werden. Satz 1 gilt nicht für Impfstoffe für
 Schutzimpfungen nach § 20i und die in der nach § 35 Absatz 5a Satz 1
 erstellten Liste aufgeführten Arzneimittel zur Behandlung von Kindern.
+Für patentfreie biotechnologisch hergestellte biologische Arzneimittel
+gilt Satz 1 mit der Maßgabe, dass Vereinbarungen, auf deren Abschluss
+die Vorschriften des Teils 4 des Gesetzes gegen
+Wettbewerbsbeschränkungen anzuwenden wären, nicht vor dem 1. Juli 2028
+getroffen werden dürfen.
 
 (8a) Zur Vermeidung von Lieferengpässen und zur Sicherstellung einer
 diversifizierten, bedarfsgerechten Versorgung mit patentfreien
 Antibiotika bilden die Krankenkassen oder ihre Verbände für die
 Vergabe von Vereinbarungen nach Absatz 8 Satz 1 für diese Arzneimittel
-Lose nach § 97 Absatz 4 Satz 2 des Gesetzes gegen
-Wettbewerbsbeschränkungen. Die Krankenkassen oder ihre Verbände legen
-jeweils die für die Gewährleistung der Liefersicherheit erforderliche
-Anzahl der Lose fest. Abweichend von § 97 Absatz 2 des Gesetzes gegen
+Lose nach § 97a Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen.
+Die Krankenkassen oder ihre Verbände legen jeweils die für die
+Gewährleistung der Liefersicherheit erforderliche Anzahl der Lose
+fest. Abweichend von § 97 Absatz 2 des Gesetzes gegen
 Wettbewerbsbeschränkungen in Verbindung mit § 69 Absatz 3 schreiben
 die Krankenkassen oder ihre Verbände mindestens die Hälfte der Lose so
 aus, dass Rabatte für die in Satz 1 genannten Arzneimittel mit
@@ -23065,7 +23256,7 @@ Arzneimittels mit einem neuen Wirkstoff durch Erklärung gegenüber dem
 Spitzenverband Bund der Krankenkassen bestimmen, dass bis zum Wegfall
 des Unterlagenschutzes für dieses Arzneimittel an die Stelle der
 Übermittlung von Angaben nach § 131 Absatz 4 Satz 3 Nummer 2 die
-Übermittlung von Angaben nach § 131 Absatz 4 Satz 3 Nummer 2a tritt,
+Übermittlung von Angaben nach § 131 Absatz 4 Satz 3 Nummer 3 tritt,
 wenn er Unterlagen vorlegt, die eine Arzneimittelforschungsabteilung
 des Unternehmens im Geltungsbereich dieses Gesetzes und zusätzlich
 relevante eigene Projekte und Kooperationen mit öffentlichen
@@ -23087,8 +23278,8 @@ Arzneimittel der nach Absatz 1 vereinbarte oder nach Absatz 4
 festgesetzte Betrag abzüglich eines Abschlags in Höhe von 9 Prozent
 und tritt bis zum Wegfall des Unterlagenschutzes für dieses
 Arzneimittel an die Stelle der Übermittlung von Angaben nach § 131
-Absatz 4 Satz 3 Nummer 2 die Übermittlung von Angaben nach § 131
-Absatz 4 Satz 3 Nummer 2a. Legt der pharmazeutische Unternehmer die
+Absatz 4 Satz 3 Nummer 2 die Übermittlung von Angaben nach § 131
+Absatz 4 Satz 3 Nummer 3. Legt der pharmazeutische Unternehmer die
 Unterlagen zu dem in Satz 1 genannten Nachweis innerhalb von sechs
 Monaten nach Inverkehrbringen des Arzneimittels vor, sind die Sätze 2
 und 3 hinsichtlich dieser Nachweise entsprechend anzuwenden mit der
@@ -23709,11 +23900,11 @@ Die pharmazeutischen Unternehmer sind verpflichtet, dem Gemeinsamen
 Bundesausschuss sowie dem Spitzenverband Bund der Krankenkassen auf
 Verlangen notwendige Auskünfte zu den in Satz 1 genannten Daten zu
 erteilen. Für die Abrechnung von Fertigarzneimitteln, von
-Verbandmitteln und von Produkten, die gemäß den Richtlinien nach § 92
-Absatz 1 Satz 2 Nummer 6 zu Lasten der gesetzlichen
-Krankenversicherung verordnet werden können, übermitteln die
-pharmazeutischen Unternehmer und sonstigen Hersteller an die in § 129
-Absatz 2 genannten Verbände sowie an die Kassenärztliche
+Verbandmitteln, von Stoffen und Gefäßen und von Produkten, die gemäß
+den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 zu Lasten der
+gesetzlichen Krankenversicherung verordnet werden können, übermitteln
+die pharmazeutischen Unternehmer und sonstigen Hersteller an die in
+§ 129 Absatz 2 genannten Verbände sowie an die Kassenärztliche
 Bundesvereinigung und den Gemeinsamen Bundesausschuss im Wege
 elektronischer Datenübertragung und maschinell verwertbar auf
 Datenträgern
@@ -23728,24 +23919,28 @@ Datenträgern
     Geltungsdauer,
 
 
-2a. im Fall einer Bestimmung nach § 130b Absatz 1c die Angabe, dass für
-    das Arzneimittel eine Bestimmung nach § 130b Absatz 1c erfolgt ist,
-    die Rabatte nach § 130a, den jeweiligen Geltungsbeginn und die
+3.  im Fall einer Bestimmung nach § 130b Absatz 1c die Angabe, dass für
+    das Arzneimittel eine Bestimmung nach § 130b Absatz 1c erfolgt ist,
+    die Rabatte nach § 130a, den jeweiligen Geltungsbeginn und die
     jeweilige Geltungsdauer des Erstattungsbetrags sowie die auf Grundlage
     des Erstattungsbetrags berechnete Höhe der Zuzahlung nach § 61 Satz 1,
 
 
-3.  die nach § 130d ermittelten oder festgesetzten Herstellerabgabepreise
+4.  die nach § 130d ermittelten oder festgesetzten Herstellerabgabepreise
     einschließlich der Rabatte nach § 130a,
 
 
-4.  den für den Versicherten maßgeblichen Arzneimittelabgabepreis nach §
-    129 Absatz 5a sowie
+5.  den für den Versicherten maßgeblichen Arzneimittelabgabepreis nach §
+    129 Absatz 5a,
 
 
-5.  für Produkte nach § 31 Absatz 1 Satz 2 und Absatz 1a Satz 1 und 4 ein
+6.  für Produkte nach § 31 Absatz 1 Satz 2 und Absatz 1a Satz 1 und 4 ein
     Kennzeichen zur Verordnungsfähigkeit zu Lasten der gesetzlichen
-    Krankenversicherung.
+    Krankenversicherung und
+
+
+7.  die für die Abrechnung von Stoffen und Gefäßen erforderlichen Preis-
+    und Produktangaben.
 
 
 
@@ -24172,10 +24367,8 @@ orientieren.
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
 Spitzenorganisation der Apotheker im Benehmen mit dem Verband der
 Privaten Krankenversicherung einen Vertrag über die Durchführung von
-Grippeschutzimpfungen durch Apotheken bei Personen, die das 18.
-Lebensjahr vollendet haben, und von Schutzimpfungen gegen das
-Coronavirus SARS-CoV-2 durch Apotheken bei Personen, die das zwölfte
-Lebensjahr vollendet haben, abzuschließen, insbesondere über
+Schutzimpfungen durch Apotheken nach § 20c Absatz 1 des
+Infektionsschutzgesetzes abzuschließen, insbesondere über
 
 1.  die Vergütung der Impfleistung der Apotheken einschließlich der
     Vergütung der Impfdokumentation und
@@ -24185,16 +24378,27 @@ Lebensjahr vollendet haben, abzuschließen, insbesondere über
 
 
 
-In dem Vertrag nach Satz 1 ist für die Beschaffung der
-Grippeimpfstoffe, die zur Anwendung durch die Apotheken vorgesehen
+In dem Vertrag nach Satz 1 ist für die Beschaffung von
+Grippeimpfstoffen, die zur Anwendung durch die Apotheken vorgesehen
 sind, eine Vergütung der Apotheken von 1 Euro je Einzeldosis sowie die
 Umsatzsteuer vorzusehen. Einigen sich die Vertragsparteien nach Satz 1
-nicht bis zum 1. April 2023, legt die Schiedsstelle nach § 129 Absatz
-8 innerhalb von einem Monat den Inhalt des Vertrages fest. Ein
-bestehender Vertrag gilt bis zum Wirksamwerden eines neuen Vertrages
-fort; ein Schiedsspruch gilt bis zum Wirksamwerden des ersten
-Vertrages, der beide in Satz 1 genannten Schutzimpfungen umfasst,
-fort.
+nicht bis zum 2. Oktober 2026 auf einen Vertrag, der mindestens die
+von der Ständigen Impfkommission gemäß § 20 Absatz 2 Satz 3 des
+Infektionsschutzgesetzes empfohlenen Schutzimpfungen mit Impfstoffen,
+die keine Lebendimpfstoffe sind, umfasst, legt die Schiedsstelle nach
+§ 129 Absatz 8 innerhalb eines Monats den Inhalt des Vertrages fest.
+Der Vertrag nach Satz 1 ist regelmäßig anzupassen. Kommt eine Einigung
+über eine Anpassung des Vertrages nicht zustande, kann jede
+Vertragspartei die Schiedsstelle nach § 129 Absatz 8 anrufen. Die
+Schiedsstelle legt innerhalb eines Monats nach ihrer Anrufung den
+Inhalt des Vertrages fest. Ein bestehender Vertrag oder ein
+Schiedsspruch nach den Sätzen 3 oder 6 gilt bis zum Wirksamwerden
+eines neuen Vertrages fort. Der Verband der Privaten
+Krankenversicherung kann an den Verhandlungen der Vertragspartner zum
+Vertrag nach Satz 1 teilnehmen. Der Verband der Privaten
+Krankenversicherung erhält von den Vertragspartnern die
+entscheidungserheblichen Unterlagen und Daten rechtzeitig und
+vollständig vor den Verhandlungen.
 
 (2) Die Kassenärztliche Bundesvereinigung meldet bis zum 15. Januar
 eines Kalenderjahres den Bedarf an saisonalen Grippeimpfstoffen auf
@@ -30891,10 +31095,10 @@ Mitgliedschaft besteht auch an den Tagen fort, an denen der unständig
 Beschäftigte vorübergehend, längstens für drei Wochen nicht
 beschäftigt wird.
 
-(2a) Die Mitgliedschaft der Bezieher von Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches und Arbeitslosengeld oder Unterhaltsgeld
-nach dem Dritten Buch beginnt mit dem Tag, von dem an die Leistung
-bezogen wird.
+(2a) Die Mitgliedschaft der Bezieher von Grundsicherungsgeld nach § 19
+Absatz 1 Satz 1 des Zweiten Buches und Arbeitslosengeld oder
+Unterhaltsgeld nach dem Dritten Buch beginnt mit dem Tag, von dem an
+die Leistung bezogen wird.
 
 (3) Die Mitgliedschaft der nach dem Künstlersozialversicherungsgesetz
 Versicherten beginnt mit dem Tage, an dem die Versicherungspflicht auf
@@ -31127,10 +31331,10 @@ zum 31. März 2002 nach § 10 oder nach § 7 des Zweiten Gesetzes über
 die Krankenversicherung der Landwirte versichert waren, endet mit dem
 Eintritt der Versicherungspflicht nach § 5 Abs. 1 Nr. 11.
 
-(12) Die Mitgliedschaft der Bezieher von Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches und Arbeitslosengeld oder Unterhaltsgeld
-nach dem Dritten Buch endet mit Ablauf des letzten Tages, für den die
-Leistung bezogen wird.
+(12) Die Mitgliedschaft der Bezieher von Grundsicherungsgeld nach § 19
+Absatz 1 Satz 1 des Zweiten Buches und Arbeitslosengeld oder
+Unterhaltsgeld nach dem Dritten Buch endet mit Ablauf des letzten
+Tages, für den die Leistung bezogen wird.
 
 (13) Die Mitgliedschaft der in § 5 Abs. 1 Nr. 13 genannten Personen
 endet mit Ablauf des Vortages, an dem
@@ -31880,21 +32084,6 @@ und den Aufbau der Zahlstellennummer regeln die Grundsätze nach Absatz
 2 Satz 4.
 
 
-#### § 202a Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches
-
-Die Zahlstellen müssen ab dem 1. Juli 2025 für die in der sozialen
-Pflegeversicherung bereits vor diesem Zeitpunkt
-versicherungspflichtigen Versorgungsbezieher eine Meldung entsprechend
-§ 202 Absatz 1a erstatten, soweit eine Beitragsabführungspflicht
-besteht. Die Meldung hat spätestens bis zum 31. Dezember 2025 zu
-erfolgen. Bei Zahlstellen, die im Zeitraum vom 1. Juli 2023 bis zum
-30\. Juni 2025 sich weder die Elterneigenschaft sowie die Anzahl der
-Kinder nach § 55 Absatz 3a Satz 1 haben nachweisen lassen noch an dem
-Nachweisverfahren nach § 55 Absatz 3d Satz 2 des Elften Buches
-teilgenommen haben, erstreckt sich die Meldung auf den gesamten
-genannten Zeitraum.
-
-
 #### § 203 Meldepflichten bei Leistung von Mutterschaftsgeld, Elterngeld oder Erziehungsgeld
 
 (1) Die zuständige Krankenkasse übermittelt der nach § 12 Absatz 1 des
@@ -31953,7 +32142,7 @@ bedürfen, fest:
 
 
 
-#### § 203a Meldepflicht bei Bezug von Arbeitslosengeld, Bürgergeld oder Unterhaltsgeld
+#### § 203a Meldepflicht bei Bezug von Arbeitslosengeld, Grundsicherungsgeld oder Unterhaltsgeld
 
 Die Agenturen für Arbeit oder in den Fällen des § 6a des Zweiten
 Buches die zugelassenen kommunalen Träger erstatten die Meldungen
@@ -33948,8 +34137,8 @@ Voraus durch den Arbeitsvertrag befristet ist.
     geringfügigen Beschäftigungsverhältnis sind abzuziehen,
 
 
-2.  bei Personen, die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
-    Buches beziehen, das 0,2155fache der monatlichen Bezugsgröße;
+2.  bei Personen, die Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des
+    Zweiten Buches beziehen, das 0,2155fache der monatlichen Bezugsgröße;
     abweichend von § 223 Absatz 1 sind die Beiträge für jeden
     Kalendermonat, in dem mindestens für einen Tag eine Mitgliedschaft
     besteht, zu zahlen.
@@ -34433,11 +34622,11 @@ Für die nach § 5 Abs. 1 Nr. 9 und 10 Versicherungspflichtigen gelten
 als Beitragssatz sieben Zehntel des allgemeinen Beitragssatzes.
 
 
-##### § 246 Beitragssatz für Beziehende von Bürgergeld
+##### § 246 Beitragssatz für Beziehende von Grundsicherungsgeld
 
-Für Personen, die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
-Buches beziehen, gilt als Beitragssatz der ermäßigte Beitragssatz nach
-§ 243.
+Für Personen, die Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des
+Zweiten Buches beziehen, gilt als Beitragssatz der ermäßigte
+Beitragssatz nach § 243.
 
 
 ##### § 247 Beitragssatz aus der Rente
@@ -34631,11 +34820,11 @@ verpflichtet, als der Versicherte seine Beitragsanteile zahlt.
 (4) Der Bund trägt die Beiträge für Wehrdienst- und
 Zivildienstleistende im Falle des § 193 Abs. 2 und 3 sowie für die
 nach § 5 Abs. 1 Nr. 2a versicherungspflichtigen Bezieher von
-Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Die Höhe der
-vom Bund zu tragenden Zusatzbeiträge für die nach § 5 Absatz 1 Nummer
-2a versicherungspflichtigen Bezieher von Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches wird für ein Kalenderjahr jeweils im
-Folgejahr abschließend festgestellt. Hierzu ermittelt das
+Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Die
+Höhe der vom Bund zu tragenden Zusatzbeiträge für die nach § 5 Absatz
+1 Nummer 2a versicherungspflichtigen Bezieher von Grundsicherungsgeld
+nach § 19 Absatz 1 Satz 1 des Zweiten Buches wird für ein Kalenderjahr
+jeweils im Folgejahr abschließend festgestellt. Hierzu ermittelt das
 Bundesministerium für Gesundheit den rechnerischen Zusatzbeitragssatz,
 der sich als Durchschnitt der im Kalenderjahr geltenden
 Zusatzbeitragssätze der Krankenkassen nach § 242 Absatz 1 unter
@@ -34688,8 +34877,8 @@ Vorschriften des Ersten und Zehnten Buches.
 Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend
 von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des
 § 6a des Zweiten Buches die zugelassenen kommunalen Träger die
-Beiträge für die Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des
-Zweiten Buches.
+Beiträge für die Bezieher von Grundsicherungsgeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches.
 
 (2) Die Beitragszahlung erfolgt in den Fällen des § 251 Abs. 3, 4 und
 4a an den Gesundheitsfonds. Ansonsten erfolgt die Beitragszahlung an
@@ -44000,10 +44189,24 @@ elektronische Patientenakte:
 
 
 15. elektronische Abschriften der Behandlungsakte nach § 630g Absatz 1
-    Satz 3 des Bürgerlichen Gesetzbuchs und
+    Satz 3 des Bürgerlichen Gesetzbuchs,
 
 
-16. Daten zu Erklärungen zur Organ- und Gewebespende.
+16. Daten zu Erklärungen zur Organ- und Gewebespende,
+
+
+17. Daten zur Durchführung einer pharmazeutischen Dienstleistung nach §
+    129 Absatz 5e,
+
+
+18. Daten zu einem nach § 48a Absatz 1 Satz 1 des Arzneimittelgesetzes
+    oder § 48b Absatz 1 des Arzneimittelgesetzes abgegebenen Arzneimittel,
+    einschließlich der Chargennummer und
+
+
+19. die in einer Rechtsverordnung nach § 48b Absatz 2 Satz 1 Nummer 7 des
+    Arzneimittelgesetzes festgelegten Daten zur Arzneimittelabgabe nach §
+    48b Absatz 1 des Arzneimittelgesetzes.
 
 
 
@@ -44199,7 +44402,7 @@ gewährleisten, dass
 
 
     o)  bei einem Wechsel der Krankenkasse die Daten nach § 341 Absatz 2
-        Nummer 1 bis 16 aus der bisherigen elektronischen Patientenakte in der
+        Nummer 1 bis 19 aus der bisherigen elektronischen Patientenakte in der
         elektronischen Patientenakte der gewählten Krankenkasse zur Verfügung
         gestellt werden können;
 
@@ -44896,9 +45099,28 @@ elektronischen Patientenakte gespeichert sind und soweit die
 Versicherten dem Zugriff der Apotheker auf die elektronische
 Patientenakte und der Übermittlung und Speicherung dieser Daten in die
 elektronische Patientenakte nicht gemäß § 353 Absatz 1 oder 2
-widersprochen haben. Apotheker können Aufgaben in diesem Zusammenhang
-auf zum pharmazeutischen Personal der Apotheke gehörende Personen
-übertragen.
+widersprochen haben. Apotheker haben nach Maßgabe des § 339 Absatz 1
+in der elektronischen Patientenakte, sofern technisch möglich und
+soweit die Versicherten dem Zugriff der Apotheker auf die
+elektronische Patientenakte und der Übermittlung und Speicherung
+dieser Daten in die elektronische Patientenakte nicht nach § 353
+Absatz 1 oder 2 widersprochen haben, die folgenden Daten zu speichern:
+
+1.  bei der Durchführung einer pharmazeutischen Dienstleistung nach § 129
+    Absatz 5e Daten nach § 341 Absatz 2 Nummer 17,
+
+
+2.  bei der Abgabe eines Arzneimittels nach § 48a Absatz 1 Satz 1 des
+    Arzneimittelgesetzes Daten nach § 341 Absatz 2 Nummer 18 und
+
+
+3.  bei der Abgabe eines Arzneimittels nach § 48b Absatz 1 des
+    Arzneimittelgesetzes Daten nach § 341 Absatz 2 Nummer 18 und 19.
+
+
+
+Apotheker können Aufgaben in diesem Zusammenhang auf zum
+pharmazeutischen Personal der Apotheke gehörende Personen übertragen.
 
 (3) Ärzte, Zahnärzte und Psychotherapeuten, die an der
 vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an
@@ -44917,15 +45139,15 @@ berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen
 oder in an der vertragsärztlichen Versorgung teilnehmenden
 Einrichtungen oder in zugelassenen Krankenhäusern tätig sind.
 
-(4) Für Leistungen nach Absatz 2 zur Unterstützung der Versicherten
-bei der Verarbeitung arzneimittelbezogener Daten in der elektronischen
-Patientenakte erhalten Apotheken eine zusätzliche Vergütung. Das
-Nähere zu den Abrechnungsvoraussetzungen für Leistungen der Apotheken
-nach Absatz 2 vereinbaren der Spitzenverband Bund der Krankenkassen
-und die für die Wahrnehmung der wirtschaftlichen Interessen gebildete
-maßgebliche Spitzenorganisation der Apotheker auf Bundesebene mit
-Wirkung zum 1. Januar 2021. Kommt eine Vereinbarung nach Satz 2 ganz
-oder teilweise nicht zustande, gilt § 129 Absatz 8.
+(4) Für Leistungen nach Absatz 2 Satz 1 zur Unterstützung der
+Versicherten bei der Verarbeitung arzneimittelbezogener Daten in der
+elektronischen Patientenakte erhalten Apotheken eine zusätzliche
+Vergütung. Das Nähere zu den Abrechnungsvoraussetzungen für Leistungen
+der Apotheken nach Absatz 2 Satz 1 vereinbaren der Spitzenverband Bund
+der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen
+Interessen gebildete maßgebliche Spitzenorganisation der Apotheker auf
+Bundesebene mit Wirkung zum 1. Januar 2021. Kommt eine Vereinbarung
+nach Satz 2 ganz oder teilweise nicht zustande, gilt § 129 Absatz 8.
 
 (5) Die Leistungen nach Absatz 3 dürfen im Rahmen der gesetzlichen
 Krankenversicherung je Versichertem und elektronischer Patientenakte
@@ -45482,10 +45704,10 @@ folgende Personen zugreifen:
 
 
 5.  Apotheker mit einem Zugriff, der das Auslesen, die Speicherung und die
-    Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3 bis 11 sowie die
-    Verarbeitung von Daten nach § 341 Absatz 2 Nummer 1 Buchstabe b und
-    Nummer 5 und 11 ermöglicht, soweit dies für die Versorgung der
-    Versicherten erforderlich ist;
+    Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3 bis 11, 17 bis 19
+    und die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 1 Buchstabe
+    b, Nummer 5, 11, 17 bis 19 ermöglicht, soweit dies für die Versorgung
+    der Versicherten erforderlich ist;
 
 
 6.  im Rahmen der jeweiligen Zugriffsberechtigung nach Nummer 5 auch zum
@@ -50217,6 +50439,31 @@ jeweils bis zum 31. Dezember 2025 und bis zum 31. Dezember 2028
 vorzulegen.
 
 
+### § 425a Evaluierung des Apothekenversorgung-Weiterentwicklungsgesetzes
+
+(1) Der Spitzenverband Bund der Krankenkassen und die für die
+Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche
+Spitzenorganisation der Apotheker haben dem Bundesministerium für
+Gesundheit jeweils bis zum 1. Juli 2028 einen Bericht zu den
+Auswirkungen der Abgabe eines Arzneimittels nach § 129 Absatz 4c Satz
+3, einschließlich der Auswirkungen auf die Ausgaben der Krankenkassen,
+vorzulegen.
+
+(2) Der Spitzenverband Bund der Krankenkassen hat dem
+Bundesministerium für Gesundheit bis zum 30. Juni 2027 einen Bericht
+darüber vorzulegen, wie sich § 130a Absatz 8 Satz 14 auf die
+Wirtschaftlichkeit und die Liefersicherheit von patentfreien
+biotechnologisch hergestellten biologischen Arzneimitteln ausgewirkt
+hat. Das Paul-Ehrlich-Institut hat dem Bundesministerium für
+Gesundheit im Einvernehmen mit dem Bundesinstitut für Arzneimittel und
+Medizinprodukte bis zum 30. Juni 2027 einen Bericht darüber
+vorzulegen, wie sich die Anbietervielfalt, die Produktionsstandorte in
+Deutschland und der Europäischen Union und die Zulassungen in der
+Europäischen Union von biotechnologisch hergestellten biologischen
+Arzneimitteln seit dem Inkrafttreten des § 130a Absatz 8 Satz 14 am 2.
+Juli 2026 entwickelt haben.
+
+
 ### § 426 Übergangsregelung zur Beitragspflicht, Tragung und Zahlung der Beiträge aus dem Zuschlag nach § 307j des Sechsten Buches
 
 (1) Für die nach § 307j Absatz 1 des Sechsten Buches im Zeitraum vom
@@ -54625,6 +54872,1423 @@ jeweils am 31. Dezember 2023 geltenden Fassung weiter.
     für Sicherheit und Datenschutz sowie Landesdatenschutzbehörden)
     einbezogen, so dass jederzeit die Möglichkeit der Prüfung der
     festgelegten Maßnahmen besteht.
+
+
+
+
+
+### Anlage 3 (zu § 129 Absatz 5f Satz 1)
+
+(Fundstelle: BGBl. 2026 I Nr. 195, S. 6 – 12)
+
+*    *   Pharmazentralnummer
+
+    *   Stoff
+
+
+*    *   01700047
+
+    *   Acetonum
+
+
+*    *   15375993
+
+    *   Acetylcysteinum
+
+
+*    *   04766874
+
+    *   Acidum ascorbicum
+
+
+*    *   01700188
+
+    *   Acidum benzoicum
+
+
+*    *   01700219
+
+    *   Acidum boricum
+
+
+*    *   02263258
+
+    *   Acidum citricum anhydricum
+
+
+*    *   01700337
+
+    *   Acidum hydrochloricum concentr.
+
+
+*    *   01700372
+
+    *   Acidum lacticum
+
+
+*    *   02263761
+
+    *   Acidum phosphoricum concentr.
+
+
+*    *   01700484
+
+    *   Acidum salicylicum plv.subt.
+
+
+*    *   02263838
+
+    *   Acidum sorbicum
+
+
+*    *   15376001
+
+    *   Acidum stearinicum
+
+
+*    *   01700573
+
+    *   Acidum tannicum
+
+
+*    *   01700596
+
+    *   Acidum tartaricum
+
+
+*    *   01700691
+
+    *   Adeps lanae anhydricus
+
+
+*    *   02264051
+
+    *   Adeps solidus
+
+
+*    *   02264134
+
+    *   Aethacridinum lacticum
+
+
+*    *   01700774
+
+    *   Aethylium p-aminobenzoicum
+
+
+*    *   01705352
+
+    *   Alcohol cetylicus
+
+
+*    *   02272978
+
+    *   Alcohol cetylstearylicus
+
+
+*    *   01700834
+
+    *   Alcohol isopropylicus
+
+
+*    *   02264594
+
+    *   Allantoinum
+
+
+*    *   03006003
+
+    *   Alpha tocopherolum aceticum
+
+
+*    *   02264861
+
+    *   Aluminium chloratum hexahydricum
+
+
+*    *   03272555
+
+    *   Ambroxolum hydrochloricum
+
+
+*    *   15376018
+
+    *   Amifampridinum
+
+
+*    *   01700975
+
+    *   Ammonium bituminosulfon.
+
+
+*    *   01986954
+
+    *   Amphetaminum sulfuricum
+
+
+*    *   02590595
+
+    *   Amylum tritici
+
+
+*    *   04246867
+
+    *   Aqua pro injectione
+
+
+*    *   02344778
+
+    *   Aqua purificata plus Zuschlag
+
+
+*    *   04443869
+
+    *   Aqua purificata Qualitätszuschlag
+
+
+*    *   01701259
+
+    *   Argentum nitricum
+
+
+*    *   02265903
+
+    *   Argentum proteinicum
+
+
+*    *   02134443
+
+    *   Asche Basis Creme
+
+
+*    *   02134526
+
+    *   Asche Basis Fettsalbe
+
+
+*    *   03549672
+
+    *   Asche Basis Lotio
+
+
+*    *   02134495
+
+    *   Asche Basis Salbe
+
+
+*    *   02266096
+
+    *   Atropinum sulfuricum
+
+
+*    *   15376024
+
+    *   Bacitracinum
+
+
+*    *   15376030
+
+    *   Beclometasonum dipropionicum
+
+
+*    *   02266328
+
+    *   Bentonitum
+
+
+*    *   15376047
+
+    *   Betamethasonum dipropionicum
+
+
+*    *   03022367
+
+    *   Betamethasonum valerianicum
+
+
+*    *   15376076
+
+    *   Bifonazolum
+
+
+*    *   01701383
+
+    *   Bismutum subgallicum
+
+
+*    *   01701414
+
+    *   Bismutum subnitricum
+
+
+*    *   15376082
+
+    *   Borax (natrium tetraboricum)
+
+
+*    *   15376099
+
+    *   Budesonidum
+
+
+*    *   02270643
+
+    *   Camphora synthetica
+
+
+*    *   15376113
+
+    *   Capsaicinum
+
+
+*    *   15376136
+
+    *   Captoprilum
+
+
+*    *   01701667
+
+    *   Carbo medicinalis
+
+
+*    *   15376142
+
+    *   Carbomer 35.000 (Carbopol 974p)
+
+
+*    *   15376159
+
+    *   Carbomer 50.000 (Carbopol 980)
+
+
+*    *   02271200
+
+    *   Cera alba
+
+
+*    *   02271246
+
+    *   Cera flava
+
+
+*    *   02382419
+
+    *   Cera simmondsiae liquida
+
+
+*    *   02382046
+
+    *   Cetylium palmitinicum
+
+
+*    *   07536399
+
+    *   Chinolingelb
+
+
+*    *   01701839
+
+    *   Chloralum hydratum
+
+
+*    *   01701851
+
+    *   Chloramphenicolum
+
+
+*    *   02271737
+
+    *   Chlorhexidinum aceticum
+
+
+*    *   02161865
+
+    *   Chlortetracyclinum hydroch.
+
+
+*    *   02161871
+
+    *   Ciclosporinum
+
+
+*    *   15376165
+
+    *   Clindamycinum hydrochloricum
+
+
+*    *   03272437
+
+    *   Clobetasolum propionicum
+
+
+*    *   03042281
+
+    *   Clotrimazolum
+
+
+*    *   01701905
+
+    *   Codeinum phosphoricum
+
+
+*    *   03291251
+
+    *   Contramarum-Aroma
+
+
+*    *   02276054
+
+    *   Dequalinium chloratum
+
+
+*    *   02276108
+
+    *   Dexamethasonum
+
+
+*    *   02161894
+
+    *   Dexamethasonum aceticum
+
+
+*    *   15376171
+
+    *   Dexamphetaminium sulfuricum
+
+
+*    *   07617560
+
+    *   Dihydrocodeinum bitartaricum
+
+
+*    *   15376188
+
+    *   Diltiazemum hydrochloricum
+
+
+*    *   15376194
+
+    *   Dimethylium sulfoxydatum
+
+
+*    *   02315268
+
+    *   Dimeticonum 350
+
+
+*    *   01702282
+
+    *   Diphenhydraminum hydrochlor.
+
+
+*    *   01702276
+
+    *   Dithranolum
+
+
+*    *   02161902
+
+    *   Erythromycinum
+
+
+*    *   01702460
+
+    *   Extractum hamamelidis cort. fluid.
+
+
+*    *   01702508
+
+    *   Extractum thymi fluid.
+
+
+*    *   01790702
+
+    *   Ferrum iii chloratum cryst.
+
+
+*    *   16888370
+
+    *   Flores cannabis
+
+
+*    *   01702649
+
+    *   Flores chamomillae ägypt.
+
+
+*    *   01791015
+
+    *   Flores malvae silvestris conc.
+
+
+*    *   02286940
+
+    *   Flores primulae cum calycibus conc.
+
+
+*    *   01702951
+
+    *   Flores tiliae conc.
+
+
+*    *   02161960
+
+    *   Fluocinolonum acetonatum
+
+
+*    *   01703258
+
+    *   Folia menthae piperitae
+
+
+*    *   15376202
+
+    *   Folia plantaginis lanceolatae
+
+
+*    *   02300278
+
+    *   Fructus anisi
+
+
+*    *   01703703
+
+    *   Fructus carvi
+
+
+*    *   02306393
+
+    *   Fructus foeniculi amari
+
+
+*    *   03940264
+
+    *   Furosemidum
+
+
+*    *   15376219
+
+    *   Gelatum basale hydrophobicum
+
+
+*    *   03022410
+
+    *   Gentamycinum sulfuricum
+
+
+*    *   01704192
+
+    *   Glycerinum
+
+
+*    *   01791469
+
+    *   Glycerinum anhydricum
+
+
+*    *   15376225
+
+    *   Glycerinum monostearinicum
+
+
+*    *   01704217
+
+    *   Glycerinummonostearat
+
+
+*    *   01704861
+
+    *   Herba thymi
+
+
+*    *   15376231
+
+    *   Hydrochlorothiazidum
+
+
+*    *   01705027
+
+    *   Hydrocortisonum
+
+
+*    *   01705056
+
+    *   Hydrocortisonum aceticum
+
+
+*    *   03433834
+
+    *   Hydrogenium peroxydatum
+
+
+*    *   03006032
+
+    *   Hydroxyaethylcellulosum
+
+
+*    *   03940235
+
+    *   Hydroxypropylcellulosum
+
+
+*    *   07536330
+
+    *   Indometacinum
+
+
+*    *   02305407
+
+    *   Isopropylium myristinicum
+
+
+*    *   15376248
+
+    *   Isosorbidum dinitricum
+
+
+*    *   07536695
+
+    *   Jodochloroxychinolinum
+
+
+*    *   02305519
+
+    *   Jodum
+
+
+*    *   01705197
+
+    *   Kalium chloratum
+
+
+*    *   01705234
+
+    *   Kalium jodatum
+
+
+*    *   02306105
+
+    *   Kalium sorbinicum pulv.
+
+
+*    *   01705381
+
+    *   Lanolinum
+
+
+*    *   15376254
+
+    *   Lauromacrogolum 400 (Polidocanolum 600)
+
+
+*    *   02162155
+
+    *   Lidocainum
+
+
+*    *   02273185
+
+    *   Lidocainum hydrochloricum
+
+
+*    *   15376260
+
+    *   Linimentum aquosum SR
+
+
+*    *   15376277
+
+    *   Linimentum nonionicum aquosum
+
+
+*    *   01705493
+
+    *   Liquor aluminii acetico-tart.
+
+
+*    *   01705576
+
+    *   Liquor carbonis detergens
+
+
+*    *   01705636
+
+    *   Liquor natrii hypochlorosi
+
+
+*    *   01705688
+
+    *   Lotio zinci aquosa
+
+
+*    *   15376283
+
+    *   Macrogolum-40-glycerolhydroxystearinicum
+
+
+*    *   15376308
+
+    *   Macrogolum-4-laurylicum
+
+
+*    *   02162273
+
+    *   Magnesium stearinicum
+
+
+*    *   02274629
+
+    *   Mannitolum
+
+
+*    *   15376314
+
+    *   Melatoninum
+
+
+*    *   01705895
+
+    *   Mentholum
+
+
+*    *   15376320
+
+    *   Mesalazinum
+
+
+*    *   15376337
+
+    *   Methacholinium chloratum
+
+
+*    *   15376366
+
+    *   Methoxsalenum
+
+
+*    *   02162439
+
+    *   Methylhydroxypropylcellulose
+
+
+*    *   01705932
+
+    *   Methylium p-hydroxybenzoicum
+
+
+*    *   03105225
+
+    *   Metoclopramidum hydrochlor.
+
+
+*    *   15376372
+
+    *   Metoprololum tartaricum
+
+
+*    *   02590164
+
+    *   Metronidazolum
+
+
+*    *   07536287
+
+    *   Miconazolum nitricum
+
+
+*    *   15376389
+
+    *   Mometasonum furanicum
+
+
+*    *   01560215
+
+    *   Morphinum hydrochloricum
+
+
+*    *   03289136
+
+    *   Mucilago hydroxyaethylcellulosi
+
+
+*    *   02275310
+
+    *   Naphazolinum hydrochloricum
+
+
+*    *   01792291
+
+    *   Natrium aceticum
+
+
+*    *   03105260
+
+    *   Natrium aetylendiaminum tetraaceticum
+
+
+*    *   01792322
+
+    *   Natrium benzoicum plv.
+
+
+*    *   01705984
+
+    *   Natrium bicarbonicum plv.
+
+
+*    *   02275474
+
+    *   Natrium biphosphoricum
+
+
+*    *   01706050
+
+    *   Natrium chloratum
+
+
+*    *   01706073
+
+    *   Natrium citricum
+
+
+*    *   01792434
+
+    *   Natrium jodatum
+
+
+*    *   01792457
+
+    *   Natrium phosphoricum
+
+
+*    *   01706191
+
+    *   Natrium sulfuricum
+
+
+*    *   02714287
+
+    *   Neomycinum sulfuricum
+
+
+*    *   02279727
+
+    *   Neostigminum bromatum
+
+
+*    *   02346872
+
+    *   Nitroglycerinum solutum
+
+
+*    *   02748665
+
+    *   Nystatinum
+
+
+*    *   15376395
+
+    *   Octenidinum dihydrochloricum
+
+
+*    *   02276864
+
+    *   Octyldodecanolum
+
+
+*    *   02279986
+
+    *   Oestradiolum benzoicum
+
+
+*    *   02162528
+
+    *   Oestradiolum hemihydricum
+
+
+*    *   15376403
+
+    *   Oestradiolum valerianicum
+
+
+*    *   02162534
+
+    *   Oestriolum
+
+
+*    *   01706305
+
+    *   Oleum amygdalarum
+
+
+*    *   01706340
+
+    *   Oleum arachidis
+
+
+*    *   02280400
+
+    *   Oleum arachidis hydrogenatum
+
+
+*    *   01789946
+
+    *   Oleum avocado
+
+
+*    *   01792701
+
+    *   Oleum carvi
+
+
+*    *   01792718
+
+    *   Oleum caryophylli
+
+
+*    *   01792747
+
+    *   Oleum citri
+
+
+*    *   02281701
+
+    *   Oleum eucalypti
+
+
+*    *   01706535
+
+    *   Oleum jecoris
+
+
+*    *   01792888
+
+    *   Oleum lavandulae
+
+
+*    *   01792925
+
+    *   Oleum menthae piperitae
+
+
+*    *   02275043
+
+    *   Oleum neutrale Miglyol 812
+
+
+*    *   15376426
+
+    *   Oleum oenotherae raffinatum
+
+
+*    *   01706676
+
+    *   Oleum olivarum
+
+
+*    *   01706771
+
+    *   Oleum ricini raffinatum
+
+
+*    *   01793155
+
+    *   Oleum thymi
+
+
+*    *   01706937
+
+    *   Oleum zinci
+
+
+*    *   01701762
+
+    *   Oleylium oleinicum
+
+
+*    *   15376432
+
+    *   Omeprazolum
+
+
+*    *   03291311
+
+    *   Orangen-Aroma
+
+
+*    *   15376449
+
+    *   Oxybuprocainum hydrochloricum
+
+
+*    *   02264542
+
+    *   Pantothenolum
+
+
+*    *   02262767
+
+    *   Paracetamolum
+
+
+*    *   01707003
+
+    *   Paraffinum solidum
+
+
+*    *   01707026
+
+    *   Paraffinum subliquidum
+
+
+*    *   01707049
+
+    *   Pasta zinci
+
+
+*    *   02308334
+
+    *   Pasta zinci mollis
+
+
+*    *   15376455
+
+    *   Permethrinum
+
+
+*    *   02162586
+
+    *   Phenylephrinum hydrochlor.
+
+
+*    *   01707380
+
+    *   Pilocarpinum hydrochloricum
+
+
+*    *   03940212
+
+    *   Pix lithanthracis
+
+
+*    *   02309658
+
+    *   Polyaethylenglycolum 1500
+
+
+*    *   02309523
+
+    *   Polyaethylenglycolum 300
+
+
+*    *   02309569
+
+    *   Polyaethylenglycolum 400
+
+
+*    *   02309747
+
+    *   Polyaethylenglycolum 4000
+
+
+*    *   02267842
+
+    *   Polyäthylenglycol 400 stearat
+
+
+*    *   15376461
+
+    *   Polymyxinium B sulfuricum
+
+
+*    *   01709930
+
+    *   Polysorbat 20
+
+
+*    *   02323061
+
+    *   Polysorbat 60
+
+
+*    *   01709947
+
+    *   Polysorbat 80
+
+
+*    *   02590371
+
+    *   Polyvinylpyrrolidoni (povidoni) jodum
+
+
+*    *   15376478
+
+    *   Prednicarbatum
+
+
+*    *   01707440
+
+    *   Prednisolonum
+
+
+*    *   02162646
+
+    *   Prednisolonum aceticum
+
+
+*    *   02162675
+
+    *   Prednisolonum natrium phosphas
+
+
+*    *   01707486
+
+    *   Prednisonum
+
+
+*    *   02162681
+
+    *   Prilocainum hydrochloricum
+
+
+*    *   03005920
+
+    *   Progesteronum
+
+
+*    *   15376484
+
+    *   Propranololum hydrochloricum
+
+
+*    *   01793451
+
+    *   Propylenglycolum
+
+
+*    *   02162698
+
+    *   Propylium palmitinicum
+
+
+*    *   01793445
+
+    *   Propylium p-hydroxybenzoicum
+
+
+*    *   02382939
+
+    *   Protegin XN
+
+
+*    *   01707718
+
+    *   Radix liquiritiae
+
+
+*    *   01707871
+
+    *   Radix valerianae
+
+
+*    *   01707925
+
+    *   Resorcinum
+
+
+*    *   02413657
+
+    *   Saccharum
+
+
+*    *   01708184
+
+    *   Saccharum amylaceum
+
+
+*    *   01708267
+
+    *   Saccharum lactis
+
+
+*    *   15376490
+
+    *   Sildenafilum citricum
+
+
+*    *   02264111
+
+    *   Silicium dioxydatum coll.
+
+
+*    *   01708617
+
+    *   Sirupus cerasi
+
+
+*    *   01708623
+
+    *   Sirupus rubi idaei
+
+
+*    *   02266400
+
+    *   Solutio benzalkonii chlor.
+
+
+*    *   02271714
+
+    *   Solutio chlorhexidini gluc.
+
+
+*    *   02275959
+
+    *   Solutio natrii lactici
+
+
+*    *   15376509
+
+    *   Solutio polihexanidi
+
+
+*    *   02316279
+
+    *   Sorbitanum monostearinicum
+
+
+*    *   01793876
+
+    *   Sorbitolum puriss. plv.
+
+
+*    *   04873624
+
+    *   Spiritus 96%
+
+
+*    *   02162735
+
+    *   Spironolactonum
+
+
+*    *   01709137
+
+    *   Sulfur ad usum externum
+
+
+*    *   15376515
+
+    *   Syrspend SF Alka Pulver
+
+
+*    *   15376521
+
+    *   Syrspend SF pH4 flüssig
+
+
+*    *   01709232
+
+    *   Talcum
+
+
+*    *   02318522
+
+    *   Testosteronum
+
+
+*    *   02318545
+
+    *   Testosteronum propionicum
+
+
+*    *   02318568
+
+    *   Tetracainum hydrochloricum
+
+
+*    *   02383181
+
+    *   Tetracyclinum hydrochloricum
+
+
+*    *   02318870
+
+    *   Thiomersalum
+
+
+*    *   01709404
+
+    *   Tinctura arnicae
+
+
+*    *   01709692
+
+    *   Tinctura myrrhae
+
+
+*    *   01601701
+
+    *   Tinctura opii normata
+
+
+*    *   01709746
+
+    *   Tinctura ratanhiae
+
+
+*    *   02322311
+
+    *   Tinctura tormentillae
+
+
+*    *   15376538
+
+    *   Tragacantha
+
+
+*    *   02162764
+
+    *   Tretinoinum
+
+
+*    *   02322819
+
+    *   Triamcinolonum acetonatum
+
+
+*    *   15376544
+
+    *   Triclosanum
+
+
+*    *   03940293
+
+    *   Trometamolum
+
+
+*    *   15376550
+
+    *   Tropicamidum
+
+
+*    *   01709999
+
+    *   Unguentum alcoholum lanae
+
+
+*    *   02162793
+
+    *   Unguentum alcoholum lanae SR
+
+
+*    *   15376567
+
+    *   Unguentum basale hydrophobicum
+
+
+*    *   03104987
+
+    *   Unguentum basalis DAC
+
+
+*    *   02323747
+
+    *   Unguentum cereum
+
+
+*    *   15376573
+
+    *   Unguentum cordes
+
+
+*    *   01710057
+
+    *   Unguentum emulsificans
+
+
+*    *   02162853
+
+    *   Unguentum emulsificans aquosum SR
+
+
+*    *   03289320
+
+    *   Unguentum emulsificans nonionicum aquosum
+
+
+*    *   02664218
+
+    *   Unguentum glycerini
+
+
+*    *   01710100
+
+    *   Unguentum lanette
+
+
+*    *   01794640
+
+    *   Unguentum leniens
+
+
+*    *   15376604
+
+    *   Unguentum leniens cum oleo rosae
+
+
+*    *   01794663
+
+    *   Unguentum molle
+
+
+*    *   02324356
+
+    *   Unguentum polyaethylenglycoli
+
+
+*    *   01710175
+
+    *   Unguentum zinci
+
+
+*    *   01710198
+
+    *   Urea pura
+
+
+*    *   15376610
+
+    *   Uridinum
+
+
+*    *   01710206
+
+    *   Vanillinum
+
+
+*    *   01710258
+
+    *   Vaselinum album
+
+
+*    *   01710293
+
+    *   Vaselinum flavum
+
+
+*    *   09755763
+
+    *   Wolff Basiscreme halbfett
+
+
+*    *   02162876
+
+    *   Xylometazolinum hydrochlorid
+
+
+*    *   01710376
+
+    *   Zincum oxydatum
 
 
 
