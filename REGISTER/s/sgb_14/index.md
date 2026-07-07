@@ -2489,19 +2489,19 @@ landesrechtlichen Leistungen für blindheitsbedingte Mehraufwendungen.
 
 (1) Geschädigte erhalten eine monatliche Entschädigungszahlung von
 
-1.  434 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1.  452 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
 
-2.  868 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2.  905 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
 
-3.  1 302 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3.  1 357 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
 
-4.  1 736 Euro bei einem Grad der Schädigungsfolgen von 90,
+4.  1 810 Euro bei einem Grad der Schädigungsfolgen von 90,
 
 
-5.  2 169 Euro bei einem Grad der Schädigungsfolgen von 100.
+5.  2 261 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 
 
@@ -2559,9 +2559,9 @@ Entschädigungszahlungen für die Dauer von fünf Jahren abgegolten.
 
 #### § 85 Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
 
-(1) Eine monatliche Entschädigungszahlung in Höhe von 1 144 Euro
+(1) Eine monatliche Entschädigungszahlung in Höhe von 1 193 Euro
 erhält die Witwe oder der Witwer des oder der schädigungsbedingt
-verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 54
+verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 56
 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das
 eine monatliche Entschädigungszahlung für Waisen bezieht oder einen
 monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine
@@ -2586,7 +2586,7 @@ Gemeinschaft heiraten.
 monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines
 Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(2) Die Abfindung beträgt 137 337 Euro. Auf die Abfindung sind bereits
+(2) Die Abfindung beträgt 143 160 Euro. Auf die Abfindung sind bereits
 geleistete monatliche Entschädigungszahlungen anzurechnen.
 
 (3) Mit der Zahlung der Abfindung sind alle Ansprüche auf die
@@ -2596,10 +2596,10 @@ monatlichen Entschädigungszahlungen abgegolten.
 #### § 87 Monatliche Entschädigungszahlung an Waisen
 
 (1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten
-jeweils eine monatliche Entschädigungszahlung in Höhe von 423 Euro.
+jeweils eine monatliche Entschädigungszahlung in Höhe von 441 Euro.
 
 (2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils
-eine monatliche Entschädigungszahlung in Höhe von 662 Euro.
+eine monatliche Entschädigungszahlung in Höhe von 690 Euro.
 
 (3) Die monatlichen Entschädigungszahlungen werden gezahlt, bis die
 Waise 18 Jahre alt wird.
@@ -2646,10 +2646,10 @@ das 18. Lebensjahr vollendet hätte.
 (2) Die monatliche Entschädigungszahlung an Eltern beträgt für jedes
 Kind, das an den Folgen der Schädigung gestorben ist,
 
-1.  für ein noch lebendes Elternteil 271 Euro,
+1.  für ein noch lebendes Elternteil 282 Euro,
 
 
-2.  für beide Elternteile je 163 Euro.
+2.  für beide Elternteile je 170 Euro.
 
 
 
@@ -3273,20 +3273,20 @@ können Kosten, die anderweitig nicht gedeckt sind, nach § 51
 
 (4) Geschädigte erhalten Einmalzahlungen in Höhe von
 
-1.  2 821 Euro bei einem Grad der Schädigungsfolgen von mindestens 30,
+1.  2 941 Euro bei einem Grad der Schädigungsfolgen von mindestens 30,
     aber weniger als 50,
 
 
-2.  8 461 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
+2.  8 820 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
 
 
-3.  14 102 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3.  14 700 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
 
-4.  22 564 Euro bei einem Grad der Schädigungsfolgen von 90,
+4.  23 521 Euro bei einem Grad der Schädigungsfolgen von 90,
 
 
-5.  31 026 Euro bei einem Grad der Schädigungsfolgen von 100.
+5.  32 342 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 
 
@@ -3294,8 +3294,8 @@ können Kosten, die anderweitig nicht gedeckt sind, nach § 51
 (5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1
 vorliegen, an den Folgen der Schädigung gestorben, erhalten
 Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei
-Halbwaisen 2 821 Euro, bei Vollwaisen 3 797 Euro und bei weiteren
-Hinterbliebenen 8 461 Euro.
+Halbwaisen 2 941 Euro, bei Vollwaisen 3 958 Euro und bei weiteren
+Hinterbliebenen 8 820 Euro.
 
 (6) Angehörige und Hinterbliebene haben Anspruch auf Leistungen der
 Schnellen Hilfen. Diese werden im Inland erbracht. Überführungs- und
@@ -3800,48 +3800,30 @@ Arbeit und Soziales bei Aufgaben der Qualitätssicherung und bei der
 bundeseinheitlichen Durchführung der Sozialen Entschädigung
 insbesondere durch
 
-1.  die Begleitung der Umsetzung und Fortschreibung der Rechtsverordnung
-    nach § 40,
-
-
-2.  die Organisation von Veranstaltungen des Bundesministeriums für Arbeit
+1.  die Organisation von Veranstaltungen des Bundesministeriums für Arbeit
     und Soziales für Mitarbeiterinnen und Mitarbeiter der Behörden und der
     Personen, die Leistungen der Schnellen Hilfen erbringen,
 
 
-3.  die Organisation von Erfahrungsaustauschen des Bundesministeriums für
+2.  die Organisation von Erfahrungsaustauschen des Bundesministeriums für
     Arbeit und Soziales für Personen, die an der Durchführung dieses
-    Buches beteiligt sind,
+    Buches beteiligt sind sowie
 
 
-4.  die Entwicklung von Arbeitshilfen und Formularen,
-
-
-5.  das Führen eines Verzeichnisses von im Sozialen Entschädigungsrecht
-    erfahrenen medizinischen Gutachtern,
-
-
-6.  das Erstellen und Führen der amtlichen Statistik nach § 126,
-
-
-7.  die Erstellung des Berichts nach § 132 sowie
-
-
-8.  die Abwicklung von Forschungsprojekten im Bereich der Sozialen
-    Entschädigung.
+3.  das Erstellen und Führen der amtlichen Statistik nach § 126.
 
 
 
 
 (5) Die Bundesstelle für Soziale Entschädigung erledigt weitere
-Aufgaben des Bundes, die mit den in den Absätzen 2 bis 4 genannten
-Aufgaben zusammenhängen und mit deren Durchführung sie vom
+Aufgaben, die mit den Aufgaben des Bundes im Bereich der Sozialen
+Entschädigung zusammenhängen und mit deren Durchführung sie vom
 Bundesministerium für Arbeit und Soziales beauftragt wird.
 
-(6) Die Wahrnehmung der Aufgaben nach Absatz 4 Nummer 2 bis 5 kann die
-Bundesstelle für Soziale Entschädigung ganz oder teilweise auf Dritte
-übertragen oder sich bei der Wahrnehmung der Aufgaben nach § 60 Absatz
-6 und nach Absatz 4 Nummer 2 bis 8 durch Dritte unterstützen lassen.
+(6) Die Wahrnehmung der Aufgaben nach Absatz 4 Nummer 1 und 2 und nach
+Absatz 5 kann die Bundesstelle für Soziale Entschädigung ganz oder
+teilweise auf Dritte übertragen oder sich bei der Wahrnehmung der
+Aufgaben nach Absatz 4 durch Dritte unterstützen lassen.
 
 
 ### § 125 Fachbeirat Soziale Entschädigung
@@ -4591,7 +4573,7 @@ Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
 
 Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn
-Jahre hinausgehenden Pflegezeit 22 Euro. Kalendermonate, in denen die
+Jahre hinausgehenden Pflegezeit 23 Euro. Kalendermonate, in denen die
 Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht
 mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre
 aufgerundet.
@@ -4664,8 +4646,8 @@ hatte.
 Nummer 1 und 2 genannten Leistungen muss im Zeitpunkt des Todes des
 Geschädigten bestanden haben.
 
-(5) Die monatliche Entschädigungszahlung beträgt 543 Euro. Sie beträgt
-813 Euro für Witwen und Witwer von Geschädigten mit einem Grad der
+(5) Die monatliche Entschädigungszahlung beträgt 566 Euro. Sie beträgt
+847 Euro für Witwen und Witwer von Geschädigten mit einem Grad der
 Schädigungsfolgen von 100.
 
 (6) Berechtigte nach Absatz 1 erhalten auf Antrag eine Abfindung
@@ -4673,8 +4655,8 @@ anstelle der monatlichen Entschädigungszahlung. Der Antrag ist
 innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu
 stellen.
 
-(7) Die Abfindung beträgt 65 089 Euro bei einer monatlichen
-Entschädigungszahlung nach Absatz 5 Satz 1, 97 633 Euro bei einer
+(7) Die Abfindung beträgt 67 849 Euro bei einer monatlichen
+Entschädigungszahlung nach Absatz 5 Satz 1, 101 773 Euro bei einer
 monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
 
 (8) Auf die Abfindung sind bereits geleistete monatliche
