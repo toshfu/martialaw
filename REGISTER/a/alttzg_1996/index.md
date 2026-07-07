@@ -62,7 +62,7 @@ durch die Bundesagentur nach § 4 gefördert wird.
     Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
     oder der Schweiz gestanden haben. Zeiten mit Anspruch auf
     Arbeitslosengeld oder Arbeitslosenhilfe, Zeiten des Bezuges von
-    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+    Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
     Sozialgesetzbuch sowie Zeiten, in denen Versicherungspflicht nach § 26
     Abs. 2 des Dritten Buches Sozialgesetzbuch bestand, stehen der
     versicherungspflichtigen Beschäftigung gleich.
@@ -150,15 +150,16 @@ Satz 1 genannten Zeitraum von sechs Jahren zu erbringen.
     Altersteilzeitarbeit
 
     a)  einen bei einer Agentur für Arbeit arbeitslos gemeldeten Arbeitnehmer,
-        einen Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
-        Buches Sozialgesetzbuch oder einen Arbeitnehmer nach Abschluss der
-        Ausbildung auf dem freigemachten oder auf einem in diesem Zusammenhang
-        durch Umsetzung frei gewordenen Arbeitsplatz versicherungspflichtig im
-        Sinne des Dritten Buches Sozialgesetzbuch beschäftigt; bei
-        Arbeitgebern, die in der Regel nicht mehr als 50 Arbeitnehmer
-        beschäftigen, wird unwiderleglich vermutet, dass der Arbeitnehmer auf
-        dem freigemachten oder auf einem in diesem Zusammenhang durch
-        Umsetzung frei gewordenen Arbeitsplatz beschäftigt wird, oder
+        einen Bezieher von Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des
+        Zweiten Buches Sozialgesetzbuch oder einen Arbeitnehmer nach Abschluss
+        der Ausbildung auf dem freigemachten oder auf einem in diesem
+        Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz
+        versicherungspflichtig im Sinne des Dritten Buches Sozialgesetzbuch
+        beschäftigt; bei Arbeitgebern, die in der Regel nicht mehr als 50
+        Arbeitnehmer beschäftigen, wird unwiderleglich vermutet, dass der
+        Arbeitnehmer auf dem freigemachten oder auf einem in diesem
+        Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz beschäftigt
+        wird, oder
 
 
     b)  einen Auszubildenden versicherungspflichtig im Sinne des Dritten
