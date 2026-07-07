@@ -62,7 +62,9 @@ Unterabschnitt 2 anzuwenden. Im Übrigen ist Teil A Abschnitt 2 der
 Vergabe- und Vertragsordnung für Bauleistungen in der Fassung der
 Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2), der
 zuletzt durch die Bekanntmachung vom 6. September 2023 (BAnz AT
-25\.09.2023 B4) geändert worden ist, anzuwenden.
+25\.09.2023 B4) geändert worden ist, anzuwenden. Satz 2 gilt nicht für
+Planungsleistungen, die als Los eines Bauauftrags vergeben werden; auf
+ihre Vergabe ist diese Verordnung anzuwenden.
 
 
 #### § 3 Schätzung des Auftragswerts
@@ -495,29 +497,29 @@ fakultativ gekennzeichneten Angaben freiwillig.
 (2) Für Bekanntmachungen haben öffentliche Auftraggeber den
 Datenaustauschstandard eForms in der jeweils geltenden Fassung zu
 verwenden. Der Datenaustauschstandard eForms wird vom
-Bundesministerium des Innern und für Heimat im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Klimaschutz festgelegt und
-unverzüglich im Bundesanzeiger bekannt gemacht. Soweit für die Inhalte
-von Datenfeldern des Datenaustauschstandards eForms weitere oberste
-Bundesbehörden fachlich zuständig sind, ist die Festlegung dieser
-Datenfelder vor ihrer Bekanntmachung jeweils auch mit ihnen
-abzustimmen.
+Bundesministerium für Digitales und Staatsmodernisierung im
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+festgelegt und unverzüglich im Bundesanzeiger bekannt gemacht. Soweit
+für die Inhalte von Datenfeldern des Datenaustauschstandards eForms
+weitere oberste Bundesbehörden fachlich zuständig sind, ist die
+Festlegung dieser Datenfelder vor ihrer Bekanntmachung jeweils auch
+mit ihnen abzustimmen.
 
 (3) Im Datenaustauschstandard eForms können die Vorgaben der
-Durchführungsverordnung (EU)
-2019/1780              für die Inhalte bestimmter Angaben in der
-Bekanntmachung konkretisiert werden. Einzelne der in Tabelle 2 des
-Anhangs der Durchführungsverordnung (EU) 2019/1780 als fakultativ
-gekennzeichnete Angaben können im Datenaustauschstandard eForms für
-bestimmte Bekanntmachungen für verpflichtend oder als nicht erfassbar
-erklärt werden, sofern dies aus technischen Gründen oder aufgrund der
-Anforderungen nach Absatz 4 erforderlich ist. Änderungen des
-Datenaustauschstandards eForms werden vom Bundesministerium des Innern
-und für Heimat im Einvernehmen mit dem Bundeministerium für Wirtschaft
-und Klimaschutz festgelegt und im Bundesanzeiger bekannt gemacht.
-Absatz 2 Satz 3 gilt entsprechend. Bei jeder Änderung sind das Datum
-der Bekanntmachung im Bundesanzeiger und das Datum, ab dem der
-geänderte Datenaustauschstandard eForms anzuwenden ist, anzugeben.
+Durchführungsverordnung (EU) 2019/1780 für die Inhalte bestimmter
+Angaben in der Bekanntmachung konkretisiert werden. Einzelne der in
+Tabelle 2 des Anhangs der Durchführungsverordnung (EU) 2019/1780 als
+fakultativ gekennzeichnete Angaben können im Datenaustauschstandard
+eForms für bestimmte Bekanntmachungen für verpflichtend oder als nicht
+erfassbar erklärt werden, sofern dies aus technischen Gründen oder
+aufgrund der Anforderungen nach Absatz 4 erforderlich ist. Änderungen
+des Datenaustauschstandards eForms werden vom Bundesministerium für
+Digitales und Staatsmodernisierung im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie festgelegt und im
+Bundesanzeiger bekannt gemacht. Absatz 2 Satz 3 gilt entsprechend. Bei
+jeder Änderung sind das Datum der Bekanntmachung im Bundesanzeiger und
+das Datum, ab dem der geänderte Datenaustauschstandard eForms
+anzuwenden ist, anzugeben.
 
 (4) In Tabelle 2 des Anhangs der Durchführungsverordnung (EU)
 2019/1780 als fakultativ gekennzeichnete Datenfelder sind für
@@ -549,10 +551,8 @@ verpflichtende Datenfelder aufzunehmen.
 
 (5) Bekanntmachungen sind dem Amt für Veröffentlichungen der
 Europäischen Union elektronisch über den Datenservice Öffentlicher
-Einkauf zu übermitteln. Der Datenservice Öffentlicher Einkauf ist beim
-Beschaffungsamt des BMI eingerichtet und wird dort betrieben. Die über
-den Datenservice Öffentlicher Einkauf an das Amt für
-Veröffentlichungen der Europäischen Union übermittelten
+Einkauf zu übermitteln. Die über den Datenservice Öffentlicher Einkauf
+an das Amt für Veröffentlichungen der Europäischen Union übermittelten
 Bekanntmachungen werden auch über den Bekanntmachungsservice des
 Datenservice Öffentlicher Einkauf veröffentlicht und frei zugänglich
 zur Verfügung gestellt. Das Beschaffungsamt des BMI trifft die
@@ -843,8 +843,8 @@ Auftraggeber eine unbeschränkte Anzahl von Unternehmen im Rahmen eines
 Teilnahmewettbewerbs öffentlich zur Abgabe von Teilnahmeanträgen auf.
 Jedes interessierte Unternehmen kann einen Teilnahmeantrag abgeben.
 Mit dem Teilnahmeantrag übermitteln die Unternehmen die vom
-öffentlichen Auftraggeber geforderten Informationen für die Prüfung
-ihrer Eignung.
+öffentlichen Auftraggeber gemäß § 48 Absatz 1 geforderten Unterlagen
+für die Prüfung ihrer Eignung.
 
 (2) Die Frist für den Eingang der Teilnahmeanträge (Teilnahmefrist)
 beträgt mindestens 30 Tage, gerechnet ab dem Tag nach der Absendung
@@ -893,8 +893,8 @@ der öffentliche Auftraggeber eine unbeschränkte Anzahl von Unternehmen
 im Rahmen eines Teilnahmewettbewerbs öffentlich zur Abgabe von
 Teilnahmeanträgen auf. Jedes interessierte Unternehmen kann einen
 Teilnahmeantrag abgeben. Mit dem Teilnahmeantrag übermitteln die
-Unternehmen die vom öffentlichen Auftraggeber geforderten
-Informationen für die Prüfung ihrer Eignung.
+Unternehmen die vom öffentlichen Auftraggeber gemäß § 48 Absatz 1
+geforderten Unterlagen für die Prüfung ihrer Eignung.
 
 (2) Die Frist für den Eingang der Teilnahmeanträge (Teilnahmefrist)
 beträgt mindestens 30 Tage, gerechnet ab dem Tag nach der Absendung
@@ -915,7 +915,11 @@ werden, gemäß § 51 begrenzen.
 (5) Bei einem Verhandlungsverfahren ohne Teilnahmewettbewerb erfolgt
 keine öffentliche Aufforderung zur Abgabe von Teilnahmeanträgen,
 sondern unmittelbar eine Aufforderung zur Abgabe von Erstangeboten an
-die vom öffentlichen Auftraggeber ausgewählten Unternehmen.
+die vom öffentlichen Auftraggeber ausgewählten Unternehmen. Der
+Auftraggeber soll zwischen den Unternehmen, die zur Abgabe eines
+Erstangebots aufgefordert werden, wechseln und in geeigneten Fällen
+junge sowie kleine und mittlere Unternehmen zur Angebotsabgabe
+auffordern. Eine Begründung ist nicht erforderlich.
 
 (6) Die Frist für den Eingang der Erstangebote beträgt beim
 Verhandlungsverfahren mit Teilnahmewettbewerb mindestens 30 Tage,
@@ -990,8 +994,10 @@ der Grundlage der Zuschlagskriterien.
 
 (15) In einem Verhandlungsverfahren ohne Teilnahmewettbewerb nach § 14
 Absatz 4 Nummer 3 ist der öffentliche Auftraggeber von den
-Verpflichtungen der §§ 9 bis 13, des § 53 Absatz 1 sowie der §§ 54 und
-55 befreit.
+Verpflichtungen des Absatzes 5 Satz 2, der §§ 9 bis 13, 53 Absatz 1
+sowie der §§ 54 und 55 befreit. Bei der Bemessung der Angebotsfrist
+ist in den Fällen des Satzes 1 eine Mindestfrist nicht zu beachten.
+Absatz 7 Satz 1 bleibt unberührt.
 
 
 #### § 18 Wettbewerblicher Dialog
@@ -1007,8 +1013,8 @@ Zeitrahmen für den Dialog fest.
 Unternehmen im Rahmen eines Teilnahmewettbewerbs öffentlich zur Abgabe
 von Teilnahmeanträgen auf. Jedes interessierte Unternehmen kann einen
 Teilnahmeantrag abgeben. Mit dem Teilnahmeantrag übermitteln die
-Unternehmen die vom öffentlichen Auftraggeber geforderten
-Informationen für die Prüfung ihrer Eignung.
+Unternehmen die vom öffentlichen Auftraggeber gemäß § 48 Absatz 1
+geforderten Unterlagen für die Prüfung ihrer Eignung.
 
 (3) Die Frist für den Eingang der Teilnahmeanträge beträgt mindestens
 30 Tage, gerechnet ab dem Tag nach der Absendung der
@@ -1103,8 +1109,8 @@ entscheiden können, ob sie eine Teilnahme an dem Verfahren beantragen.
 Unternehmen im Rahmen eines Teilnahmewettbewerbs öffentlich zur Abgabe
 von Teilnahmeanträgen auf. Jedes interessierte Unternehmen kann einen
 Teilnahmeantrag abgeben. Mit dem Teilnahmeantrag übermitteln die
-Unternehmen die vom öffentlichen Auftraggeber geforderten
-Informationen für die Prüfung ihrer Eignung.
+Unternehmen die vom öffentlichen Auftraggeber gemäß § 48 Absatz 1
+geforderten Unterlagen für die Prüfung ihrer Eignung.
 
 (3) Die Frist für den Eingang der Teilnahmeanträge beträgt mindestens
 30 Tage, gerechnet ab dem Tag nach der Absendung der
@@ -1637,13 +1643,16 @@ keine materiellen Fehler enthält.
 (1) Vor der Einleitung eines Vergabeverfahrens darf der öffentliche
 Auftraggeber Markterkundungen zur Vorbereitung der Auftragsvergabe und
 zur Unterrichtung der Unternehmen über seine Auftragsvergabepläne und
--anforderungen durchführen.
+-anforderungen durchführen. Die Markterkundung kann auch soziale und
+umweltbezogene Aspekte, beispielsweise der Kreislaufwirtschaft, sowie
+Aspekte der Qualität und Innovation umfassen und auch elektronisch
+durchgeführt werden.
 
 (2) Die Durchführung von Vergabeverfahren lediglich zur Markterkundung
 und zum Zwecke der Kosten- oder Preisermittlung ist unzulässig.
 
 
-#### § 29 Vergabeunterlagen
+#### § 29 Vergabeunterlagen; Zahlung
 
 (1) Die Vergabeunterlagen umfassen alle Angaben, die erforderlich
 sind, um dem Bewerber oder Bieter eine Entscheidung zur Teilnahme am
@@ -1672,18 +1681,24 @@ der Regel in den Vertrag einzubeziehen. Dies gilt nicht für die
 Vergabe von Aufträgen, die im Rahmen einer freiberuflichen Tätigkeit
 erbracht oder im Wettbewerb mit freiberuflichen Tätigen angeboten
 werden und deren Gegenstand eine Aufgabe ist, deren Lösung nicht vorab
-eindeutig und erschöpfend beschrieben werden kann.
+eindeutig beschrieben werden kann.
+
+(3) Die Zahlung des Rechnungsbetrages erfolgt nach Erfüllung der
+Leistung. Sie hat in der Regel binnen 30 Tagen nach Eingang der
+prüfbaren Rechnung zu erfolgen. In geeigneten Fällen sollen frühere
+Zahlungen, Abschlagszahlungen oder Vorauszahlungen im Rahmen der
+haushaltsrechtlichen Vorgaben vereinbart werden; eine Begründung ist
+nicht erforderlich.
 
 
 #### § 30 Aufteilung nach Losen
 
-(1) Unbeschadet des § 97 Absatz 4 des Gesetzes gegen
-Wettbewerbsbeschränkungen kann der öffentliche Auftraggeber festlegen,
-ob die Angebote nur für ein Los, für mehrere oder für alle Lose
-eingereicht werden dürfen. Er kann, auch wenn Angebote für mehrere
-oder alle Lose eingereicht werden dürfen, die Zahl der Lose auf eine
-Höchstzahl beschränken, für die ein einzelner Bieter den Zuschlag
-erhalten kann.
+(1) Unbeschadet des § 97a des Gesetzes gegen Wettbewerbsbeschränkungen
+kann der öffentliche Auftraggeber festlegen, ob die Angebote nur für
+ein Los, für mehrere oder für alle Lose eingereicht werden dürfen. Er
+kann, auch wenn Angebote für mehrere oder alle Lose eingereicht werden
+dürfen, die Zahl der Lose auf eine Höchstzahl beschränken, für die ein
+einzelner Bieter den Zuschlag erhalten kann.
 
 (2) Der öffentliche Auftraggeber gibt die Vorgaben nach Absatz 1 in
 der Auftragsbekanntmachung oder der Aufforderung zur
@@ -1923,11 +1938,11 @@ Auftraggeber angegebenen spezifischen Anforderungen erfüllt.
 
 #### § 35 Nebenangebote
 
-(1) Der öffentliche Auftraggeber kann Nebenangebote in der
-Auftragsbekanntmachung oder in der Aufforderung zur
-Interessensbestätigung zulassen oder vorschreiben. Fehlt eine
-entsprechende Angabe, sind keine Nebenangebote zugelassen.
-Nebenangebote müssen mit dem Auftragsgegenstand in Verbindung stehen.
+(1) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung
+oder in der Aufforderung zur Interessensbestätigung an, ob er
+Nebenangebote zulässt, vorschreibt oder ausschließt. Eine Begründung
+ist nicht erforderlich. Nebenangebote müssen mit dem
+Auftragsgegenstand in Verbindung stehen.
 
 (2) Lässt der öffentliche Auftraggeber Nebenangebote zu oder schreibt
 er diese vor, legt er in den Vergabeunterlagen Mindestanforderungen
@@ -2141,7 +2156,8 @@ werden.
 Gesetzes gegen Wettbewerbsbeschränkungen sind gemäß § 132 Absatz 5 des
 Gesetzes gegen Wettbewerbsbeschränkungen unter Verwendung der Vorgaben
 der Spalte 38 in Tabelle 2 des Anhangs der Durchführungsverordnung
-(EU) 2019/1780 in Verbindung mit § 10a bekanntzumachen.
+(EU) 2019/1780 in Verbindung mit § 10a spätestens 30 Tage nach der
+Änderung bekanntzumachen.
 
 (6) Der öffentliche Auftraggeber ist nicht verpflichtet, einzelne
 Angaben zu veröffentlichen, wenn deren Veröffentlichung
@@ -2167,7 +2183,11 @@ würde.
 
 (1) Der öffentliche Auftraggeber muss den Tag der Absendung der
 Bekanntmachungen an das Amt für Veröffentlichungen der Europäischen
-Union nachweisen können.
+Union nachweisen können. Wird bei der Übermittlung an das Amt für
+Veröffentlichungen der Europäischen Union ein späterer Tag zur
+Veröffentlichung angegeben, kommt es für Fristberechnungen nicht auf
+den Tag der Absendung oder dessen Bestätigung, sondern auf den
+angegebenen Tag zur Veröffentlichung an.
 
 (2) Bekanntmachungen werden durch das Amt für Veröffentlichungen der
 Europäischen Union veröffentlicht. Als Nachweis der Veröffentlichung
@@ -2193,12 +2213,13 @@ Bekanntmachungspflicht unterliegen, an das Amt für Veröffentlichungen
 der Europäischen Union übermitteln.
 
 
-#### § 41 Bereitstellung der Vergabeunterlagen
+#### § 41 Elektronische Bereitstellung der Vergabeunterlagen
 
 (1) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung
 oder der Aufforderung zur Interessensbestätigung eine elektronische
-Adresse an, unter der die Vergabeunterlagen unentgeltlich,
-uneingeschränkt, vollständig und direkt abgerufen werden können.
+Adresse an, unter der die Vergabeunterlagen nach § 29 Absatz 1 Satz 1
+unentgeltlich, uneingeschränkt, vollständig und direkt abgerufen
+werden können.
 
 (2) Der öffentliche Auftraggeber kann die Vergabeunterlagen auf einem
 anderen geeigneten Weg übermitteln, wenn die erforderlichen
@@ -2249,16 +2270,23 @@ Maßnahmen des Bewerbers oder Bieters zur Selbstreinigung nach § 125
 des Gesetzes gegen Wettbewerbsbeschränkungen und schließt
 gegebenenfalls Bewerber oder Bieter vom Vergabeverfahren aus.
 
-(2) Im nicht offenen Verfahren, im Verhandlungsverfahren mit
+(2) Bei der Auswahl der Eignungskriterien und Eignungsnachweise nach §
+122 des Gesetzes gegen Wettbewerbsbeschränkungen sind die besonderen
+Umstände von jungen sowie kleinen und mittleren Unternehmen angemessen
+zu berücksichtigen. Eine Begründung ist nicht erforderlich.
+
+(3) Im nicht offenen Verfahren, im Verhandlungsverfahren mit
 Teilnahmewettbewerb, im wettbewerblichen Dialog und in der
 Innovationspartnerschaft fordert der öffentliche Auftraggeber nur
 solche Bewerber zur Abgabe eines Angebots auf, die ihre Eignung
 nachgewiesen haben und nicht ausgeschlossen worden sind. § 51 bleibt
 unberührt.
 
-(3) Bei offenen Verfahren kann der öffentliche Auftraggeber
-entscheiden, ob er die Angebotsprüfung vor der Eignungsprüfung
-durchführt.
+(4) Bei offenen Verfahren führt der öffentliche Auftraggeber die
+Angebotsprüfung vor der Eignungsprüfung durch. Er kann von Satz 1
+abweichen, soweit ein erhöhter Aufwand oder sonstige
+verfahrensbezogene Gründe entgegenstehen. Eine Begründung für die
+Abweichung ist nicht erforderlich.
 
 
 #### § 43 Rechtsform von Unternehmen und Bietergemeinschaften
@@ -2382,7 +2410,11 @@ folgenden Unterlagen verlangen:
 geforderten Unterlagen nicht beibringen, so kann er seine
 wirtschaftliche und finanzielle Leistungsfähigkeit durch Vorlage
 anderer, vom öffentlichen Auftraggeber als geeignet angesehener
-Unterlagen belegen.
+Unterlagen belegen. Ein berechtigter Grund kann insbesondere auch in
+den Fällen vorliegen, in denen es sich bei dem Bewerber oder Bieter um
+ein junges Unternehmen handelt. Der öffentliche Auftraggeber kann in
+den Vergabeunterlagen auf die Möglichkeit der Vorlage anderer
+Unterlagen nach Satz 1 hinweisen.
 
 
 #### § 46 Technische und berufliche Leistungsfähigkeit
@@ -2553,12 +2585,26 @@ Interessensbestätigung ist neben den Eignungskriterien ferner
 anzugeben, mit welchen Unterlagen (Eigenerklärungen, Angaben,
 Bescheinigungen und sonstige Nachweise) Bewerber oder Bieter ihre
 Eignung gemäß den §§ 43 bis 47 und das Nichtvorliegen von
-Ausschlussgründen zu belegen haben.
+Ausschlussgründen zu belegen haben und wann welche Unterlage vorgelegt
+werden muss. Die Vorlage einer Unterlage kann mit dem Angebot, dem
+Teilnahmeantrag oder auf Anforderung des Auftraggebers erfolgen. § 122
+Absatz 4 Satz 4 des Gesetzes gegen Wettbewerbsbeschränkungen gilt
+entsprechend.
 
-(2) Der öffentliche Auftraggeber fordert grundsätzlich die Vorlage von
-Eigenerklärungen an. Wenn der öffentliche Auftraggeber Bescheinigungen
-und sonstige Nachweise anfordert, verlangt er in der Regel solche, die
-vom Online-Dokumentenarchiv e-Certis abgedeckt sind.
+(2) In den Fällen des § 122 Absatz 3 Satz 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen fordert der öffentliche Auftraggeber die
+Unterlagen erst nach vorläufiger Prüfung entweder der Teilnahmeanträge
+in Verfahren mit Teilnahmewettbewerb oder der Angebote in Verfahren
+ohne Teilnahmewettbewerb an. Er setzt bei Anforderung der Unterlagen
+eine angemessene Frist zur Einreichung. Versäumt ein Unternehmen die
+Einreichung innerhalb der gesetzten Frist, gelten die §§ 56 und 57
+entsprechend. Soweit ein erhöhter Aufwand oder sonstige
+verfahrensbezogene Gründe entgegenstehen, kann der öffentliche
+Auftraggeber von dem in Satz 1 genannten Zeitpunkt abweichen. Eine
+Begründung für die Abweichung ist nicht erforderlich. Wenn der
+öffentliche Auftraggeber Bescheinigungen und sonstige Nachweise
+anfordert, verlangt er in der Regel solche, die vom Online-
+Dokumentenarchiv e-Certis abgedeckt sind.
 
 (3) Als vorläufigen Beleg der Eignung und des Nichtvorliegens von
 Ausschlussgründen akzeptiert der öffentliche Auftraggeber die Vorlage
@@ -2929,6 +2975,9 @@ Ablauf der entsprechenden Fristen Kenntnis nehmen.
 (2) Die Öffnung der Angebote wird von mindestens zwei Vertretern des
 öffentlichen Auftraggebers gemeinsam an einem Termin unverzüglich nach
 Ablauf der Angebotsfrist durchgeführt. Bieter sind nicht zugelassen.
+Für elektronisch eingereichte Angebote gilt das Vier-Augen-Prinzip
+nach Satz 1 nicht, sofern technisch sichergestellt ist, dass die
+Angebote dauerhaft vollständig und unverändert verfügbar sind.
 
 
 ### Unterabschnitt 7 - Prüfung und Wertung der Interessensbestätigungen, Teilnahmeanträge und Angebote; Zuschlag
@@ -2942,14 +2991,11 @@ rechnerische Richtigkeit zu prüfen.
 
 (2) Der öffentliche Auftraggeber kann den Bewerber oder Bieter unter
 Einhaltung der Grundsätze der Transparenz und der Gleichbehandlung
-auffordern, fehlende, unvollständige oder fehlerhafte
-unternehmensbezogene Unterlagen, insbesondere Eigenerklärungen,
-Angaben, Bescheinigungen oder sonstige Nachweise, nachzureichen, zu
-vervollständigen oder zu korrigieren, oder fehlende oder
-unvollständige leistungsbezogene Unterlagen nachzureichen oder zu
-vervollständigen. Der öffentliche Auftraggeber ist berechtigt, in der
-Auftragsbekanntmachung oder den Vergabeunterlagen festzulegen, dass er
-keine Unterlagen nachfordern wird.
+auffordern, fehlende Unterlagen zu übermitteln oder unvollständige
+oder fehlerhafte Unterlagen zu ergänzen, zu erläutern, zu
+vervollständigen oder zu korrigieren. Der öffentliche Auftraggeber ist
+berechtigt, in der Auftragsbekanntmachung oder den Vergabeunterlagen
+festzulegen, dass er keine Unterlagen nachfordern wird.
 
 (3) Die Nachforderung von leistungsbezogenen Unterlagen, die die
 Wirtschaftlichkeitsbewertung der Angebote anhand der
@@ -3029,12 +3075,15 @@ Zuschlagskriterien berücksichtigt werden, insbesondere:
 2.  die Organisation, Qualifikation und Erfahrung des mit der Ausführung
     des Auftrags betrauten Personals, wenn die Qualität des eingesetzten
     Personals erheblichen Einfluss auf das Niveau der Auftragsausführung
-    haben kann, oder
+    haben kann,
 
 
 3.  die Verfügbarkeit von Kundendienst und technischer Hilfe sowie
     Lieferbedingungen wie Liefertermin, Lieferverfahren sowie Liefer- oder
-    Ausführungsfristen.
+    Ausführungsfristen oder
+
+
+4.  Aspekte der digitalen Souveränität.
 
 
 
@@ -3159,7 +3208,7 @@ kann insbesondere betreffen:
 
 (3) Kann der öffentliche Auftraggeber nach der Prüfung gemäß den
 Absätzen 1 und 2 die geringe Höhe des angebotenen Preises oder der
-angebotenen Kosten nicht zufriedenstellend aufklären, darf er den
+angebotenen Kosten nicht zufriedenstellend aufklären, soll er den
 Zuschlag auf dieses Angebot ablehnen. Der öffentliche Auftraggeber
 lehnt das Angebot ab, wenn er festgestellt hat, dass der Preis oder
 die Kosten des Angebots ungewöhnlich niedrig sind, weil
@@ -3256,10 +3305,10 @@ Textform nach § 126b des Bürgerlichen Gesetzbuchs mit.
 ### § 64 Vergabe von Aufträgen für soziale und andere besondere Dienstleistungen
 
 Öffentliche Aufträge über soziale und andere besondere
-Dienstleistungen im Sinne von § 130 Absatz 1 des Gesetzes gegen
+Dienstleistungen im Sinne des § 130 Absatz 1 des Gesetzes gegen
 Wettbewerbsbeschränkungen werden nach den Bestimmungen dieser
-Verordnung und unter Berücksichtigung der Besonderheiten der
-jeweiligen Dienstleistung nach Maßgabe dieses Abschnitts vergeben.
+Verordnung und nach Maßgabe dieses Abschnittes unter Berücksichtigung
+der Besonderheiten der jeweiligen Dienstleistungen vergeben.
 
 
 ### § 65 Ergänzende Verfahrensregeln
@@ -3272,7 +3321,7 @@ Verfügung. Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht
 nur zur Verfügung, soweit dies nach § 14 Absatz 4 gestattet ist.
 
 (2) Die Laufzeit einer Rahmenvereinbarung darf abweichend von § 21
-Absatz 6 höchstens sechs Jahre betragen, es sei denn, es liegt ein im
+Absatz 6 höchstens acht Jahre betragen, es sei denn, es liegt ein im
 Gegenstand der Rahmenvereinbarung begründeter Sonderfall vor.
 
 (3) Der öffentliche Auftraggeber kann für den Eingang der Angebote und
@@ -3571,11 +3620,13 @@ Deutschland entsprechend tätig zu werden.
 für die Durchführung der Aufgabe einen verantwortlichen
 Berufsangehörigen gemäß Absatz 1 oder 2 benennen.
 
-(4) Eignungskriterien müssen gemäß § 122 Absatz 4 des Gesetzes gegen
-Wettbewerbsbeschränkungen mit dem Auftragsgegenstand in Verbindung und
-zu diesem in einem angemessenen Verhältnis stehen. Sie sind bei
-geeigneten Aufgabenstellungen so zu wählen, dass kleinere
-Büroorganisationen und Berufsanfänger sich beteiligen können.
+(4) Eignungskriterien und Eignungsnachweise müssen gemäß § 122 Absatz
+4 des Gesetzes gegen Wettbewerbsbeschränkungen mit dem
+Auftragsgegenstand in Verbindung und zu diesem sowie dessen
+Auftragswert in einem angemessenen Verhältnis stehen. Bei der Auswahl
+der Eignungskriterien und Eignungsnachweise sind die besonderen
+Umstände von kleineren Büroorganisationen und Berufsanfängern
+angemessen zu berücksichtigen.
 
 (5) Die Präsentation von Referenzprojekten ist zugelassen. Verlangt
 der öffentliche Auftraggeber geeignete Referenzen im Sinne von § 46
@@ -3729,47 +3780,7 @@ Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 (ABl. L 124 vom 8.6.1971, S. 1).
 
 
-### § 83 Anwendungsbestimmungen aus Anlass der Einführung von eForms
-
-(1) Bis zum Ablauf des sich nach Absatz 2 ergebenden Tages sind
-
-1.  § 10a Absatz 1, Absatz 2 Satz 1 und Absatz 3 bis 6 nicht anzuwenden
-    und
-
-
-2.  die §§ 23, 37, 38, 39, 40, 66 und 70 in ihrer am 23. August 2023
-    geltenden Fassung weiter anzuwenden.
-
-
-
-
-(2) Maßgeblicher Tag im Sinne des Absatzes 1 ist der Tag, an dem
-
-1.  das Bundesministerium des Innern und für Heimat im Einvernehmen mit
-    dem Bundesministerium für Wirtschaft und Klimaschutz den
-    Datenaustauschstandard eForms entsprechend § 10a Absatz 2 Satz 2
-    festgelegt und im Bundesanzeiger bekanntgemacht hat und
-
-
-2.  das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen
-    mit dem Bundesministerium des Innern und für Heimat festgestellt und
-    im Bundesanzeiger bekanntgemacht hat, dass
-
-    a)  die Voraussetzungen für die elektronische Erstellung von
-        Bekanntmachungen nach der Durchführungsverordnung (EU) 2019/1780
-        entsprechend § 10a Absatz 1 Satz 1 vorliegen und
-
-
-    b)  die Voraussetzungen für die elektronische Übermittlung von
-        Bekanntmachungen über den Datenservice Öffentlicher Einkauf
-        entsprechend § 10a Absatz 5 Satz 1 vorliegen,
-
-
-
-
-    frühestens jedoch der 24. Oktober 2023.
-
-
+### § 83 (weggefallen)
 
 
 (zu § 31 Absatz 2)
