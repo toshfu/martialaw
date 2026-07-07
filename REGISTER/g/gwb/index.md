@@ -1457,7 +1457,7 @@ Rahmen der Marktanalyse nach § 37 Absatz 2 Nummer 3 des Postgesetzes
 und § 11 Absatz 2 Nummer 3 des Telekommunikationsgesetzes nicht zu
 berücksichtigen.
 
-(9) Das Bundesministerium für Wirtschaft und Klimaschutz berichtet den
+(9) Das Bundesministerium für Wirtschaft und Energie berichtet den
 gesetzgebenden Körperschaften nach Ablauf von zehn Jahren nach
 Inkrafttreten der Regelungen in den Absätzen 1 bis 8 über die
 Erfahrungen mit der Vorschrift.
@@ -2418,20 +2418,16 @@ Erwerbsvorgang.
 den Absätzen 2 und 3 anzumelden. Elektronische Anmeldungen sind
 zulässig über:
 
-1.  die vom Bundeskartellamt eingerichtete zentrale De-Mail-Adresse im
-    Sinne des De-Mail-Gesetzes,
-
-
-2.  die vom Bundeskartellamt eingerichtete zentrale E-Mail-Adresse für
+1.  die vom Bundeskartellamt eingerichtete zentrale E-Mail-Adresse für
     Dokumente mit qualifizierter elektronischer Signatur,
 
 
-3.  das besondere elektronische Behördenpostfach gegen ein elektronisches
+2.  das besondere elektronische Behördenpostfach gegen ein elektronisches
     oder ein mit Datum und Unterschrift versehenes schriftliches
     Empfangsbekenntnis sowie
 
 
-4.  eine hierfür bestimmte Internetplattform.
+3.  eine hierfür bestimmte Internetplattform.
 
 
 
@@ -4371,7 +4367,9 @@ des Bundeskartellamts durch eine Geschäftsordnung; sie bedarf der
 Bestätigung durch das Bundesministerium für Wirtschaft und Energie.
 
 (3) Die Beschlussabteilungen entscheiden in der Besetzung mit einem
-oder einer Vorsitzenden und zwei Beisitzenden.
+oder einer Vorsitzenden und zwei Beisitzenden. Die Mitglieder der
+Beschlussabteilungen haften gegenüber dem Dienstherrn im Falle der
+Verletzung einer Amtspflicht nur bei Vorsatz.
 
 (4) Vorsitzende und Beisitzende der Beschlussabteilungen müssen Beamte
 auf Lebenszeit sein und die Befähigung zum Richteramt oder zum höheren
@@ -4571,7 +4569,7 @@ Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses
 besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4
 hat das Bundeskartellamt nach Einleitung des Verfahrens eine
 öffentliche mündliche Verhandlung durchzuführen. In den Fällen des §
-42 hat das Bundesministerium für Wirtschaft und Klimaschutz eine
+42 hat das Bundesministerium für Wirtschaft und Energie eine
 öffentliche mündliche Verhandlung durchzuführen. Mit Einverständnis
 der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 1 und
 Absatz 4 sowie des § 42 ohne mündliche Verhandlung entschieden werden.
@@ -7066,23 +7064,15 @@ Wege transparenter Verfahren vergeben. Dabei werden die Grundsätze der
 Wirtschaftlichkeit und der Verhältnismäßigkeit gewahrt.
 
 (2) Die Teilnehmer an einem Vergabeverfahren sind gleich zu behandeln,
-es sei denn, eine Ungleichbehandlung ist aufgrund dieses Gesetzes
-ausdrücklich geboten oder gestattet.
+es sei denn, eine Ungleichbehandlung ist unionsrechtlich oder aufgrund
+eines Bundesgesetzes geboten oder gestattet.
 
 (3) Bei der Vergabe werden Aspekte der Qualität und der Innovation
 sowie soziale und umweltbezogene Aspekte nach Maßgabe dieses Teils
 berücksichtigt.
 
 (4) Mittelständische Interessen sind bei der Vergabe öffentlicher
-Aufträge vornehmlich zu berücksichtigen. Leistungen sind in der Menge
-aufgeteilt (Teillose) und getrennt nach Art oder Fachgebiet (Fachlose)
-zu vergeben. Mehrere Teil- oder Fachlose dürfen zusammen vergeben
-werden, wenn wirtschaftliche oder technische Gründe dies erfordern.
-Wird ein Unternehmen, das nicht öffentlicher Auftraggeber oder
-Sektorenauftraggeber ist, mit der Wahrnehmung oder Durchführung einer
-öffentlichen Aufgabe betraut, verpflichtet der öffentliche
-Auftraggeber oder Sektorenauftraggeber das Unternehmen, sofern es
-Unteraufträge vergibt, nach den Sätzen 1 bis 3 zu verfahren.
+Aufträge vornehmlich zu berücksichtigen.
 
 (5) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in
 einem Vergabeverfahren verwenden Auftraggeber und Unternehmen
@@ -7091,6 +7081,70 @@ erlassenen Verordnungen.
 
 (6) Unternehmen haben Anspruch darauf, dass die Bestimmungen über das
 Vergabeverfahren eingehalten werden.
+
+
+##### § 97a Losgrundsatz
+
+(1) Leistungen sind in der Menge aufgeteilt (Teillose) und getrennt
+nach Art oder Fachgebiet (Fachlose) zu vergeben.
+
+(2) Mehrere Teil- oder Fachlose dürfen zusammen vergeben werden, wenn
+wirtschaftliche oder technische Gründe dies erfordern.
+
+(3) Mehrere Teil- oder Fachlose dürfen auch zusammen vergeben werden,
+wenn zeitliche Gründe dies erfordern bei der Durchführung von
+Infrastrukturvorhaben, deren geschätzter Auftrags- oder Vertragswert
+ohne Umsatzsteuer das Zweifache des jeweiligen Schwellenwertes nach
+§ 106 Absatz 2 erreicht oder überschreitet und die
+
+1.  aus dem Sondervermögen Infrastruktur und Klimaneutralität (Gesetz zur
+    Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität,
+    BGBl. 2025 I Nr. 230) finanziert werden oder
+
+
+2.  zur Verkehrsinfrastruktur nach Absatz 4 gehören.
+
+
+
+
+(4) Verkehrsinfrastruktur im Sinne des Absatzes 3 Nummer 2 umfasst
+
+1.  Eisenbahninfrastruktur nach § 2 Absatz 6 des Allgemeinen
+    Eisenbahngesetzes,
+
+
+2.  Bundesfernstraßen nach § 1 Absatz 1 des Bundesfernstraßengesetzes,
+
+
+3.  Bundeswasserstraßen nach § 1 Absatz 1 des Bundeswasserstraßengesetzes
+    und
+
+
+4.  Flugplätze nach § 6 Absatz 1 des Luftverkehrsgesetzes.
+
+
+
+
+(5) Auftraggeber können im Fall einer Gesamtvergabe nach den Absätzen
+2 bis 4 Auftragnehmer verpflichten, bei der Erteilung von
+Unteraufträgen die Interessen von kleinen und mittleren Unternehmen
+besonders zu berücksichtigen. Wird ein Unternehmen, das nicht
+öffentlicher Auftraggeber oder Sektorenauftraggeber ist, mit der
+Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut,
+verpflichtet der öffentliche Auftraggeber oder Sektorenauftraggeber
+das Unternehmen, sofern es Unteraufträge vergibt, nach § 97 Absatz 4
+sowie den Absätzen 1 bis 4 zu verfahren.
+
+(6) Die Bundesregierung berichtet dem Bundestag bis zum 30. September
+2027 über die Auswirkungen des § 97a Absatz 3. Dabei sollen
+insbesondere die Auswirkungen der Ausnahmetatbestände auf die Abflüsse
+aus dem Sondervermögen Infrastruktur und Klimaneutralität nach dem
+Gesetz zur Errichtung eines Sondervermögens Infrastruktur und
+Klimaneutralität (BGBl. 2025 I Nr. 230), die Anwendbarkeit in den
+Kommunen und die Beteiligung von kleinen und mittleren Unternehmen an
+öffentlichen Aufträgen und Gesamtvergaben auf die Beschleunigung und
+die Wirtschaftlichkeit von darunter fallenden Baumaßnahmen sowie deren
+Anwendbarkeit wirkungsorientiert untersucht werden.
 
 
 ##### § 98 Auftraggeber
@@ -7389,15 +7443,19 @@ Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 öffentlichen Auftraggebern oder Sektorenauftraggebern und Unternehmen
 über die Beschaffung von Leistungen, die die Lieferung von Waren, die
 Ausführung von Bauleistungen oder die Erbringung von Dienstleistungen
-zum Gegenstand haben.
+zum Gegenstand haben. Ein Vertrag ist entgeltlich im Sinne des Satzes
+1, wenn sich jede Partei rechtsverbindlich verpflichtet, eine Leistung
+im Gegenzug für eine andere zu erbringen. Leistung und Gegenleistung
+sind rechtsverbindlich im Sinne des Satzes 2, wenn ihre Erfüllung
+einklagbar ist.
 
 (2) Lieferaufträge sind Verträge zur Beschaffung von Waren, die
 insbesondere Kauf oder Ratenkauf oder Leasing, Mietverhältnisse oder
 Pachtverhältnisse mit oder ohne Kaufoption betreffen. Die Verträge
 können auch Nebenleistungen umfassen.
 
-(3) Bauaufträge sind Verträge über die Ausführung oder die
-gleichzeitige Planung und Ausführung
+(3) Bauaufträge sind Verträge über die Ausführung oder sowohl die
+Planung als auch die Ausführung
 
 1.  von Bauleistungen im Zusammenhang mit einer der Tätigkeiten, die in
     Anhang II der Richtlinie 2014/24/EU des Europäischen Parlaments und
@@ -7509,6 +7567,7 @@ mehrere Konzessionsgeber ein oder mehrere Unternehmen
 
 
 
+§ 103 Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (2) In Abgrenzung zur Vergabe öffentlicher Aufträge geht bei der
 Vergabe einer Bau- oder Dienstleistungskonzession das Betriebsrisiko
@@ -7544,9 +7603,8 @@ unberührt.
 1.  für öffentliche Aufträge und Wettbewerbe, die von öffentlichen
     Auftraggebern vergeben werden, aus Artikel 4 der Richtlinie 2014/24/EU
     in der jeweils geltenden Fassung; der sich hieraus für zentrale
-    Regierungsbehörden ergebende Schwellenwert ist von allen obersten
-    Bundesbehörden sowie allen oberen Bundesbehörden und vergleichbaren
-    Bundeseinrichtungen anzuwenden,
+    Regierungsbehörden ergebende Schwellenwert ist vom Bundeskanzleramt
+    und den Bundesministerien anzuwenden,
 
 
 2.  für öffentliche Aufträge und Wettbewerbe, die von
@@ -7572,10 +7630,7 @@ unberührt.
 
 
 
-(3) Das Bundesministerium für Wirtschaft und Energie gibt die
-geltenden Schwellenwerte unverzüglich, nachdem sie im Amtsblatt der
-Europäischen Union veröffentlicht worden sind, im Bundesanzeiger
-bekannt.
+(3) (weggefallen)
 
 
 ##### § 107 Allgemeine Ausnahmen
@@ -7640,23 +7695,31 @@ berührt sein, wenn der öffentliche Auftrag oder die Konzession
 2.  Leistungen betreffen, die
 
     a)  für den Grenzschutz, die Bekämpfung des Terrorismus oder der
-        organisierten Kriminalität oder für verdeckte Tätigkeiten der Polizei
-        oder der Sicherheitskräfte bestimmt sind, oder
+        organisierten Kriminalität, für Zwecke nachrichtendienstlicher
+        Tätigkeiten oder für verdeckte Tätigkeiten der Polizei, des Zolls oder
+        der Sicherheitskräfte bestimmt sind,
 
 
-    b)  Verschlüsselung betreffen
+    b)  Verschlüsselung betreffen,
+
+
+    c)  die Schaffung militärisch nutzbarer Infrastruktur betreffen oder
+
+
+    d)  Aspekte der Cybersicherheit oder digitalen Souveränität betreffen
+
+
+
+    und soweit in den Fällen der Buchstaben a bis c ein besonders hohes
+    Maß an Vertraulichkeit und in den Fällen des Buchstabens d ein
+    besonders hohes Maß an Vertraulichkeit, Datenverfügbarkeit oder
+    Integrität von Daten oder Systemen erforderlich ist.
 
 
 
 
-    und soweit ein besonders hohes Maß an Vertraulichkeit erforderlich
-    ist.
 
-
-
-
-
-##### § 108 Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit
+##### § 108 Anwendbarkeit bei öffentlich-öffentlicher Zusammenarbeit
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen
 Aufträgen, die von einem öffentlichen Auftraggeber im Sinne des § 99
@@ -7724,6 +7787,13 @@ Nummer 1 ausübt, aber
 
 
 
+Absatz 2 Satz 2 und Absatz 3 gelten entsprechend. An der gemeinsamen
+Kontrolle nach Satz 1 Nummer 1 können auch solche juristischen
+Personen des öffentlichen Rechts beteiligt sein, die zu dem besonderen
+Zweck gegründet wurden, im Allgemeininteresse liegende Aufgaben
+nichtgewerblicher Art zu erfüllen, aber die weiteren Voraussetzungen
+des § 99 Nummer 2 nicht erfüllen.
+
 (5) Eine gemeinsame Kontrolle im Sinne von Absatz 4 Nummer 1 besteht,
 wenn
 
@@ -7744,29 +7814,45 @@ wenn
 
 
 
-(6) Dieser Teil ist ferner nicht anzuwenden auf Verträge, die zwischen
-zwei oder mehreren öffentlichen Auftraggebern im Sinne des § 99 Nummer
-1 bis 3 geschlossen werden, wenn
+(6) Dieser Teil ist ferner nicht anzuwenden auf öffentliche Aufträge,
+die zwischen zwei oder mehreren öffentlichen Auftraggebern im Sinne
+des § 99 Nummer 1 bis 3 geschlossen werden, wenn
 
-1.  der Vertrag eine Zusammenarbeit zwischen den beteiligten öffentlichen
-    Auftraggebern begründet oder erfüllt, um sicherzustellen, dass die von
-    ihnen zu erbringenden öffentlichen Dienstleistungen im Hinblick auf
-    die Erreichung gemeinsamer Ziele ausgeführt werden,
+1.  der öffentliche Auftrag eine auf einer gemeinsamen
+    Kooperationsvereinbarung beruhende Zusammenarbeit zwischen den
+    beteiligten öffentlichen Auftraggebern zur Erreichung gemeinsamer
+    Ziele begründet oder erfüllt,
 
 
 2.  die Durchführung der Zusammenarbeit nach Nummer 1 ausschließlich durch
     Überlegungen im Zusammenhang mit dem öffentlichen Interesse bestimmt
-    wird und
+    wird,
 
 
 3.  die öffentlichen Auftraggeber auf dem Markt weniger als 20 Prozent der
     Tätigkeiten erbringen, die durch die Zusammenarbeit nach Nummer 1
-    erfasst sind.
+    erfasst sind und
+
+
+4.  kein privater Dritter unmittelbar aufgrund der Zusammenarbeit einen
+    Vorteil gegenüber seinen Wettbewerbern erhält.
+
+
+5.  Absatz 4 Satz 3 gilt entsprechend.
 
 
 
 
-(7) Zur Bestimmung des prozentualen Anteils nach Absatz 1 Nummer 2,
+(7) Eine Betrauung nach Absatz 1 Nummer 2 oder Absatz 4 Nummer 2 liegt
+vor, wenn eine dem Zuständigkeitsbereich des öffentlichen
+Auftraggebers unterfallende Aufgabe erkennbar, inhaltlich festgelegt
+und rechtsverbindlich an die juristische Person des öffentlichen oder
+privaten Rechts übertragen wurde. Die Betrauung kann auch solche
+Tätigkeiten umfassen, die der öffentliche Auftraggeber oder eine
+andere von ihm kontrollierte juristische Person zur Erfüllung einer
+Zusammenarbeit nach Absatz 6 erbringt.
+
+(8) Zur Bestimmung des prozentualen Anteils nach Absatz 1 Nummer 2,
 Absatz 4 Nummer 2 und Absatz 6 Nummer 3 wird der durchschnittliche
 Gesamtumsatz der letzten drei Jahre vor Vergabe des öffentlichen
 Auftrags oder ein anderer geeigneter tätigkeitsgestützter Wert
@@ -7780,7 +7866,7 @@ nicht aussagekräftig, genügt es, wenn der tätigkeitsgestützte Wert
 insbesondere durch Prognosen über die Geschäftsentwicklung glaubhaft
 gemacht wird.
 
-(8) Die Absätze 1 bis 7 gelten entsprechend für Sektorenauftraggeber
+(9) Die Absätze 1 bis 8 gelten entsprechend für Sektorenauftraggeber
 im Sinne des § 100 Absatz 1 Nummer 1 hinsichtlich der Vergabe von
 öffentlichen Aufträgen sowie für Konzessionsgeber im Sinne des § 101
 Absatz 1 Nummer 1 und 2 hinsichtlich der Vergabe von Konzessionen.
@@ -8016,7 +8102,7 @@ hauptsächlich bestimmt ist, unterliegt die Vergabe
 
 ##### § 113 Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen mit
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen mit
 Zustimmung des Bundesrates die Einzelheiten zur Vergabe von
 öffentlichen Aufträgen und Konzessionen sowie zur Ausrichtung von
 Wettbewerben zu regeln. Diese Ermächtigung umfasst die Befugnis zur
@@ -8061,7 +8147,12 @@ Vergabeverfahren, insbesondere zur Regelung
     anzuwendenden Verfahrens einschließlich der erforderlichen
     Ermittlungsbefugnisse des Bundeskartellamtes und der Einzelheiten der
     Kostenerhebung; Vollstreckungserleichterungen dürfen vorgesehen
-    werden.
+    werden,
+
+
+9.  verpflichtender Anforderungen an die Klimafreundlichkeit bei der
+    Beschaffung von Leistungen, insbesondere hinsichtlich der Verwendung
+    von emissionsarmen Grundstoffen wie Stahl und Zement.
 
 
 
@@ -8073,8 +8164,21 @@ sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang
 der Rechtsverordnungen nicht mit ihnen befasst, so werden die
 unveränderten Rechtsverordnungen dem Bundesrat zugeleitet.
 
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die in Vorschriften dieses Gesetzes oder in
+einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung enthaltenen
+Verweise auf die Vergabe- und Vertragsordnung für Bauleistungen zu
+ändern, soweit dies zur Anpassung an eine Änderung der Vergabe- und
+Vertragsordnung für Bauleistungen erforderlich ist.
 
-##### § 114 Monitoring und Vergabestatistik
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die in diesem Gesetz oder in anderen
+Rechtsvorschriften des Bundes enthaltenen Verweise auf die nach dieser
+Vorschrift erlassenen Rechtsverordnungen abzuändern, soweit dies zur
+Anpassung an eine Änderung dieser Rechtsverordnungen erforderlich ist.
+
+
+##### § 114 Monitoring; Vergabestatistik; Datenservice Öffentlicher Einkauf
 
 (1) Die obersten Bundesbehörden und die Länder erstatten in ihrem
 jeweiligen Zuständigkeitsbereich dem Bundesministerium für Wirtschaft
@@ -8091,12 +8195,15 @@ Statistische Bundesamt Daten zu öffentlichen Aufträgen im Sinne des §
 103 Absatz 1 unabhängig von deren geschätzten Auftragswert und zu
 Konzessionen im Sinne des § 105. Das Bundesministerium für Wirtschaft
 und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium
-des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung
-des Bundesrates die Einzelheiten der Vergabestatistik sowie der
-Datenübermittlung durch die meldende Stelle einschließlich des
-technischen Ablaufs, des Umfangs der zu übermittelnden Daten, der
-Wertgrenzen für die Erhebung sowie den Zeitpunkt des Inkrafttretens
-und der Anwendung der entsprechenden Verpflichtungen zu regeln.
+des Innern durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Einzelheiten der Vergabestatistik sowie der Datenübermittlung durch
+die meldende Stelle einschließlich des technischen Ablaufs, des
+Umfangs der zu übermittelnden Daten, der Wertgrenzen für die Erhebung
+sowie den Zeitpunkt des Inkrafttretens und der Anwendung der
+entsprechenden Verpflichtungen zu regeln.
+
+(3) Der Datenservice Öffentlicher Einkauf ist beim Beschaffungsamt des
+BMI eingerichtet und wird dort betrieben.
 
 
 #### Abschnitt 2 - Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber
@@ -8405,13 +8512,13 @@ unberührt.
 ###### § 121 Leistungsbeschreibung
 
 (1) In der Leistungsbeschreibung ist der Auftragsgegenstand so
-eindeutig und erschöpfend wie möglich zu beschreiben, sodass die
-Beschreibung für alle Unternehmen im gleichen Sinne verständlich ist
-und die Angebote miteinander verglichen werden können. Die
-Leistungsbeschreibung enthält die Funktions- oder
-Leistungsanforderungen oder eine Beschreibung der zu lösenden Aufgabe,
-deren Kenntnis für die Erstellung des Angebots erforderlich ist, sowie
-die Umstände und Bedingungen der Leistungserbringung.
+eindeutig wie möglich zu beschreiben, sodass die Beschreibung für alle
+Unternehmen im gleichen Sinne verständlich ist und die Angebote
+miteinander verglichen werden können. Die Leistungsbeschreibung
+enthält die Funktions- oder Leistungsanforderungen oder eine
+Beschreibung der zu lösenden Aufgabe, deren Kenntnis für die
+Erstellung des Angebots erforderlich ist, sowie die Umstände und
+Bedingungen der Leistungserbringung.
 
 (2) Bei der Beschaffung von Leistungen, die zur Nutzung durch
 natürliche Personen vorgesehen sind, sind bei der Erstellung der
@@ -8446,13 +8553,23 @@ betreffen:
 
 
 (3) Der Nachweis der Eignung und des Nichtvorliegens von
-Ausschlussgründen nach den §§ 123 und 124 kann ganz oder teilweise
-durch die Teilnahme an Präqualifizierungssystemen erbracht werden.
+Ausschlussgründen nach den §§ 123 und 124 soll durch Eigenerklärungen
+erfolgen. Über Eigenerklärungen hinausgehende Unterlagen sollen im
+Verlauf des Verfahrens nur von aussichtsreichen Bewerbern oder Bietern
+verlangt werden. Der Nachweis kann ganz oder teilweise durch die
+Teilnahme an Präqualifizierungssystemen erbracht werden.
 
-(4) Eignungskriterien müssen mit dem Auftragsgegenstand in Verbindung
-und zu diesem in einem angemessenen Verhältnis stehen. Sie sind in der
+(4) Eignungskriterien und geforderte Eignungsnachweise müssen mit dem
+Auftragsgegenstand in Verbindung und zu diesem sowie dem Auftragswert
+in einem angemessenen Verhältnis stehen. Der Grundsatz der
+Verhältnismäßigkeit nach § 97 Absatz 1 Satz 2 ist zu wahren. Die
+Eignungskriterien und Eignungsnachweise sind in der
 Auftragsbekanntmachung, der Vorinformation oder der Aufforderung zur
-Interessensbestätigung aufzuführen.
+Interessensbestätigung anzugeben. In der Bekanntmachung kann auf die
+elektronische Adresse der Vergabeunterlagen verwiesen werden, soweit
+in der Bekanntmachung erkennbar ist, an welcher genauen Stelle der
+direkt zu verlinkenden Vergabeunterlagen die Eignungskriterien
+aufgeführt sind.
 
 
 ###### § 123 Zwingende Ausschlussgründe
@@ -8576,10 +8693,10 @@ ausschließen, wenn
     hat,
 
 
-3.  das Unternehmen im Rahmen der beruflichen Tätigkeit nachweislich eine
-    schwere Verfehlung begangen hat, durch die die Integrität des
-    Unternehmens infrage gestellt wird; § 123 Absatz 3 ist entsprechend
-    anzuwenden,
+3.  der öffentliche Auftraggeber auf geeignete Weise nachweisen kann, dass
+    das Unternehmen im Rahmen der beruflichen Tätigkeit eine schwere
+    Verfehlung begangen hat, durch die die Integrität des Unternehmens
+    infrage gestellt wird; § 123 Absatz 3 ist entsprechend anzuwenden,
 
 
 4.  der öffentliche Auftraggeber über hinreichende Anhaltspunkte dafür
@@ -8602,11 +8719,12 @@ ausschließen, wenn
     Maßnahmen beseitigt werden kann,
 
 
-7.  das Unternehmen eine wesentliche Anforderung bei der Ausführung eines
-    früheren öffentlichen Auftrags oder Konzessionsvertrags erheblich oder
-    fortdauernd mangelhaft erfüllt hat und dies zu einer vorzeitigen
-    Beendigung, zu Schadensersatz oder zu einer vergleichbaren Rechtsfolge
-    geführt hat,
+7.  das Unternehmen bei der Erfüllung einer wesentlichen Anforderung im
+    Rahmen eines früheren öffentlichen Auftrags oder Konzessionsvertrags
+    erhebliche oder fortdauernde Mängel erkennen lassen hat, die die
+    Erklärung einer vorzeitigen Beendigung dieses früheren Auftrags, die
+    Forderung nach Schadenersatz oder andere vergleichbare Rechtsfolgen
+    nach sich gezogen haben,
 
 
 8.  das Unternehmen in Bezug auf Ausschlussgründe oder Eignungskriterien
@@ -8736,16 +8854,17 @@ Auftragsbekanntmachung oder den Vergabeunterlagen aufgeführt werden.
 (1) Unternehmen haben bei der Ausführung des öffentlichen Auftrags
 alle für sie geltenden rechtlichen Verpflichtungen einzuhalten,
 insbesondere Steuern, Abgaben und Beiträge zur Sozialversicherung zu
-entrichten, die arbeitsschutzrechtlichen Regelungen einzuhalten und
-den Arbeitnehmerinnen und Arbeitnehmern wenigstens diejenigen
-Mindestarbeitsbedingungen einschließlich des Mindestentgelts zu
-gewähren, die nach dem Mindestlohngesetz, einem nach dem
-Tarifvertragsgesetz mit den Wirkungen des Arbeitnehmer-
-Entsendegesetzes für allgemein verbindlich erklärten Tarifvertrag oder
-einer nach § 7, § 7a oder § 11 des Arbeitnehmer-Entsendegesetzes oder
-einer nach § 3a des Arbeitnehmerüberlassungsgesetzes erlassenen
-Rechtsverordnung für die betreffende Leistung verbindlich vorgegeben
-werden.
+entrichten, die arbeitsschutzrechtlichen Regelungen und die
+rechtlichen Vorgaben über die Gleichbehandlung der Geschlechter in
+Bezug auf die Entgeltgleichheit einzuhalten und den Arbeitnehmerinnen
+und Arbeitnehmern wenigstens diejenigen Mindestarbeitsbedingungen
+einschließlich des Mindestentgelts zu gewähren, die nach dem
+Mindestlohngesetz, einem nach dem Tarifvertragsgesetz mit den
+Wirkungen des Arbeitnehmer-Entsendegesetzes für allgemein verbindlich
+erklärten Tarifvertrag oder einer nach § 7, § 7a oder § 11 des
+Arbeitnehmer-Entsendegesetzes oder einer nach § 3a des
+Arbeitnehmerüberlassungsgesetzes erlassenen Rechtsverordnung für die
+betreffende Leistung verbindlich vorgegeben werden.
 
 (2) Öffentliche Auftraggeber können darüber hinaus besondere
 Bedingungen für die Ausführung eines Auftrags (Ausführungsbedingungen)
@@ -8753,7 +8872,8 @@ festlegen, sofern diese mit dem Auftragsgegenstand entsprechend § 127
 Absatz 3 in Verbindung stehen. Die Ausführungsbedingungen müssen sich
 aus der Auftragsbekanntmachung oder den Vergabeunterlagen ergeben. Sie
 können insbesondere wirtschaftliche, innovationsbezogene,
-umweltbezogene, soziale oder beschäftigungspolitische Belange oder den
+umweltbezogene, soziale oder beschäftigungspolitische Belange, Belange
+der Versorgungssicherheit oder der digitalen Souveränität oder den
 Schutz der Vertraulichkeit von Informationen umfassen.
 
 
@@ -8807,7 +8927,9 @@ Personenverkehrsleistungen im Eisenbahnverkehr sind, stehen
 das Verhandlungsverfahren mit Teilnahmewettbewerb, der wettbewerbliche
 Dialog und die Innovationspartnerschaft nach ihrer Wahl zur Verfügung.
 Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht nur zur
-Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
+Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist. Die
+Sätze 1 und 2 stehen der Anwendung von Artikel 5 Absatz 4 der
+Verordnung (EG) Nr. 1370/2007 nicht entgegen.
 
 (2) Anstelle des § 108 Absatz 1 ist Artikel 5 Absatz 2 der Verordnung
 (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23.
@@ -8829,10 +8951,10 @@ den Fall, dass ein öffentlicher Auftraggeber die Übernahme von
 Arbeitnehmerinnen und Arbeitnehmern im Sinne von Satz 1 verlangt,
 beschränkt sich das Verlangen auf diejenigen Arbeitnehmerinnen und
 Arbeitnehmer, die für die Erbringung der übergehenden Verkehrsleistung
-unmittelbar erforderlich sind. Der öffentliche Auftraggeber soll
-Regelungen vorsehen, durch die eine missbräuchliche Anpassung
-tarifvertraglicher Regelungen zu Lasten des neuen Betreibers zwischen
-der Veröffentlichung der Auftragsbekanntmachung und der Übernahme des
+erforderlich sind. Der öffentliche Auftraggeber soll Regelungen
+vorsehen, durch die eine missbräuchliche Anpassung tarifvertraglicher
+Regelungen zu Lasten des neuen Betreibers zwischen der
+Veröffentlichung der Auftragsbekanntmachung und der Übernahme des
 Betriebes ausgeschlossen wird. Der bisherige Betreiber ist nach
 Aufforderung durch den öffentlichen Auftraggeber verpflichtet, alle
 hierzu erforderlichen Angaben zu machen.
@@ -9013,16 +9135,25 @@ zehn Kalendertage. Die Frist beginnt am Tag nach der Absendung der
 Information durch den Auftraggeber; auf den Tag des Zugangs beim
 betroffenen Bieter und Bewerber kommt es nicht an.
 
-(3) Die Informationspflicht entfällt in Fällen, in denen das
-Verhandlungsverfahren ohne Teilnahmewettbewerb wegen besonderer
-Dringlichkeit gerechtfertigt ist. Im Fall verteidigungs- oder
-sicherheitsspezifischer Aufträge können öffentliche Auftraggeber
-beschließen, bestimmte Informationen über die Zuschlagserteilung oder
-den Abschluss einer Rahmenvereinbarung nicht mitzuteilen, soweit die
-Offenlegung den Gesetzesvollzug behindert, dem öffentlichen Interesse,
-insbesondere Verteidigungs- oder Sicherheitsinteressen, zuwiderläuft,
-berechtigte geschäftliche Interessen von Unternehmen schädigt oder den
-lauteren Wettbewerb zwischen ihnen beeinträchtigen könnte.
+(3) Die Informations- und Wartepflicht entfällt in Fällen, in denen
+
+1.  das Verhandlungsverfahren ohne Teilnahmewettbewerb wegen besonderer
+    Dringlichkeit gerechtfertigt ist oder
+
+
+2.  eine Leistung bei der Nutzung einer Rahmenvereinbarung oder eines
+    dynamischen Beschaffungssystems vergeben werden soll.
+
+
+
+Im Fall verteidigungs- oder sicherheitsspezifischer Aufträge können
+öffentliche Auftraggeber beschließen, bestimmte Informationen über die
+Zuschlagserteilung oder den Abschluss einer Rahmenvereinbarung nicht
+mitzuteilen, soweit die Offenlegung den Gesetzesvollzug behindert, dem
+öffentlichen Interesse, insbesondere Verteidigungs- oder
+Sicherheitsinteressen, zuwiderläuft, berechtigte geschäftliche
+Interessen von Unternehmen schädigt oder den lauteren Wettbewerb
+zwischen ihnen beeinträchtigen könnte.
 
 
 ###### § 135 Unwirksamkeit
@@ -9054,7 +9185,9 @@ Union bekannt gemacht, endet die Frist zur Geltendmachung der
 Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung
 der Auftragsvergabe im Amtsblatt der Europäischen Union, sofern in der
 Bekanntmachung die Angaben entsprechend Absatz 3 Satz 2 enthalten
-sind.
+sind. Nach Ablauf der Fristen in den Sätzen 1 und 2 ist ein Antrag
+nach § 160, mit welchem die Feststellung der Unwirksamkeit nach Absatz
+1 begehrt wird, unstatthaft.
 
 (3) Die Unwirksamkeit nach Absatz 1 Nummer 2 tritt nicht ein, wenn
 
@@ -9081,6 +9214,15 @@ Auftraggebers, den Auftrag ohne vorherige Veröffentlichung einer
 Bekanntmachung im Amtsblatt der Europäischen Union zu vergeben, und
 den Namen und die Kontaktdaten des Unternehmens, das den Zuschlag
 erhalten soll, umfassen.
+
+(4) Abweichend von Absatz 1 kann ein Vertrag als nicht von Anfang an
+unwirksam erachtet werden, wenn nach Prüfung aller maßgeblichen
+Gesichtspunkte zwingende Gründe des Allgemeininteresses dies
+ausnahmsweise rechtfertigen. In diesem Fall hat die Vergabekammer oder
+das Beschwerdegericht eine Geldsanktion gegen den Auftraggeber zu
+verhängen oder die Verkürzung der Laufzeit des Vertrags auszusprechen.
+Derartige alternative Sanktionen müssen wirksam, verhältnismäßig und
+abschreckend sein.
 
 
 #### Abschnitt 3 - Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen
@@ -9368,7 +9510,8 @@ durch öffentliche Auftraggeber und Sektorenauftraggeber.
 Dieser Teil ist nicht anzuwenden auf die Vergabe von verteidigungs-
 oder sicherheitsspezifischen öffentlichen Aufträgen, die
 
-1.  den Zwecken nachrichtendienstlicher Tätigkeiten dienen,
+1.  den Zwecken nachrichtendienstlicher Tätigkeiten, einschließlich des
+    militärischen Nachrichtenwesens, dienen,
 
 
 2.  im Rahmen eines Kooperationsprogramms vergeben werden, das
@@ -9451,8 +9594,9 @@ oder sicherheitsspezifischen öffentlichen Aufträgen, die
 
 
     c)  die für eine internationale Organisation gelten, wenn diese für ihre
-        Zwecke Beschaffungen tätigt oder wenn ein Mitgliedstaat öffentliche
-        Aufträge nach diesen Regeln vergeben muss.
+        Zwecke, einschließlich ihrer satzungsgemäßen Zwecke, Beschaffungen
+        tätigt oder wenn ein Mitgliedstaat öffentliche Aufträge nach diesen
+        Regeln vergeben muss.
 
 
 
@@ -9474,15 +9618,47 @@ dieses Gesetzes gestattet ist.
 
 ###### § 147 Sonstige anwendbare Vorschriften
 
-Im Übrigen gelten für die Vergabe von verteidigungs- oder
+(1) Im Übrigen gelten für die Vergabe von verteidigungs- und
 sicherheitsspezifischen öffentlichen Aufträgen die §§ 119, 120, 121
 Absatz 1 und 3 sowie die §§ 122 bis 135 mit der Maßgabe entsprechend,
-dass ein Unternehmen gemäß § 124 Absatz 1 auch dann von der Teilnahme
-an einem Vergabeverfahren ausgeschlossen werden kann, wenn das
-Unternehmen nicht die erforderliche Vertrauenswürdigkeit aufweist, um
-Risiken für die nationale Sicherheit auszuschließen. Der Nachweis,
-dass Risiken für die nationale Sicherheit nicht auszuschließen sind,
-kann auch mit Hilfe geschützter Datenquellen erfolgen.
+dass
+
+1.  eine zentrale Beschaffungsstelle abweichend von § 120 Absatz 4 Satz 1
+    ein öffentlicher Auftraggeber oder eine europäische öffentliche
+    Einrichtung ist, die für Auftraggeber
+
+    a)  bestimmte Waren oder Dienstleistungen erwirbt oder
+
+
+    b)  Aufträge vergibt oder Rahmenvereinbarungen über Bau-, Liefer- oder
+        Dienstleistungen schließt;
+
+
+
+
+
+
+soweit ein öffentlicher Auftraggeber für einen Auftraggeber aus einem
+Mitgliedsstaat der Europäischen Union oder einem Staat, der
+Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum
+ist, als zentrale Beschaffungsstelle tätig wird, kommt es für das
+Vorliegen von vergaberechtlichen Ausnahmetatbeständen auf die Umstände
+an, die bei dem anderen Mitgliedstaat oder Staat vorliegen;
+
+2.  ein Unternehmen gemäß § 124 Absatz 1 auch dann von der Teilnahme an
+    einem Vergabeverfahren ausgeschlossen werden kann, wenn das
+    Unternehmen nicht die erforderliche Vertrauenswürdigkeit aufweist, um
+    Risiken für die nationale Sicherheit auszuschließen.
+
+
+
+Der Nachweis, dass Risiken für die nationale Sicherheit nicht
+auszuschließen sind, kann auch mit Hilfe geschützter Datenquellen
+erfolgen.
+
+(2) Bis zum Ablauf des 31. Dezember 2030 ist § 97a bei verteidigungs-
+oder sicherheitsspezifischen öffentlichen Aufträgen nach § 104 nicht
+anzuwenden.
 
 
 ##### Unterabschnitt 3 - Vergabe von Konzessionen
@@ -9830,32 +10006,38 @@ unabhängig und in eigener Verantwortung aus.
 
 (2) Die Vergabekammern entscheiden in der Besetzung mit einem
 Vorsitzenden und zwei Beisitzern, von denen einer ein ehrenamtlicher
-Beisitzer ist. Der Vorsitzende und der hauptamtliche Beisitzer müssen
-Beamte auf Lebenszeit mit der Befähigung zum höheren Verwaltungsdienst
-oder vergleichbar fachkundige Angestellte sein. Der Vorsitzende oder
-der hauptamtliche Beisitzer muss die Befähigung zum Richteramt haben;
-in der Regel soll dies der Vorsitzende sein. Die Beisitzer sollen über
+Beisitzer ist, soweit die Entscheidung nicht nach diesem Gesetz dem
+Vorsitzenden oder hauptamtlichen Beisitzer übertragen ist. Der
+Vorsitzende und der hauptamtliche Beisitzer müssen Beamte auf
+Lebenszeit mit der Befähigung zum höheren Verwaltungsdienst oder
+vergleichbar fachkundige Angestellte sein. Der Vorsitzende oder der
+hauptamtliche Beisitzer muss die Befähigung zum Richteramt haben; in
+der Regel soll dies der Vorsitzende sein. Die Beisitzer sollen über
 gründliche Kenntnisse des Vergabewesens, die ehrenamtlichen Beisitzer
 auch über mehrjährige praktische Erfahrungen auf dem Gebiet des
 Vergabewesens verfügen. Bei der Überprüfung der Vergabe von
 verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des §
 104 können die Vergabekammern abweichend von Satz 1 auch in der
 Besetzung mit einem Vorsitzenden und zwei hauptamtlichen Beisitzern
-entscheiden.
+entscheiden. Der Vorsitzende oder der hauptamtliche Beisitzer trifft
+Verfahrensentscheidungen einschließlich verfahrensleitender
+Verfügungen und der Gewährung der Akteneinsicht nach § 165. Die
+Vergabekammern können Einzelheiten in einer Geschäftsordnung regeln.
 
 (3) Die Kammer kann das Verfahren dem Vorsitzenden oder dem
 hauptamtlichen Beisitzer ohne mündliche Verhandlung durch
 unanfechtbaren Beschluss zur alleinigen Entscheidung übertragen. Diese
-Übertragung ist nur möglich, sofern die Sache keine wesentlichen
+Übertragung ist möglich, sofern die Sache keine besonderen
 Schwierigkeiten in tatsächlicher oder rechtlicher Hinsicht aufweist
 und die Entscheidung nicht von grundsätzlicher Bedeutung sein wird.
 
 (4) Die Mitglieder der Kammer werden für eine Amtszeit von fünf Jahren
 bestellt. Sie entscheiden unabhängig und sind nur dem Gesetz
-unterworfen.
+unterworfen. Sie haften gegenüber dem Dienstherrn im Falle der
+Verletzung einer Amtspflicht nur bei Vorsatz.
 
 
-##### § 158 Einrichtung, Organisation
+##### § 158 Einrichtung, Organisation, Form
 
 (1) Der Bund richtet die erforderliche Anzahl von Vergabekammern beim
 Bundeskartellamt ein. Einrichtung und Besetzung der Vergabekammern
@@ -9872,6 +10054,13 @@ bestimmen die nach Landesrecht zuständigen Stellen, mangels einer
 solchen Bestimmung die Landesregierung, die die Ermächtigung weiter
 übertragen kann. Die Länder können gemeinsame Nachprüfungsbehörden
 einrichten.
+
+(3) Das Nachprüfungsverfahren wird schriftlich oder elektronisch
+geführt, soweit die Vergabekammer wegen besonderer Erfordernisse im
+Einzelfall keine abweichende Vorgabe macht. Alle Entscheidungen und
+Verfügungen der Vergabekammern sowie deren Übermittlung erfolgen
+schriftlich oder elektronisch, soweit dieser Teil nichts anderes
+vorsieht.
 
 
 ##### § 159 Abgrenzung der Zuständigkeit der Vergabekammern
@@ -9973,7 +10162,11 @@ ist oder zu entstehen droht.
 
 
 4.  mehr als 15 Kalendertage nach Eingang der Mitteilung des
-    Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind.
+    Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind,
+
+
+5.  ein offensichtlicher Missbrauch des Antrags- oder Beschwerderechts
+    gemäß § 180 Absatz 2 vorliegt.
 
 
 
@@ -9984,12 +10177,12 @@ bleibt unberührt.
 
 ##### § 161 Form, Inhalt
 
-(1) Der Antrag ist schriftlich bei der Vergabekammer einzureichen und
-unverzüglich zu begründen. Er soll ein bestimmtes Begehren enthalten.
-Ein Antragsteller ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz
-oder Geschäftsleitung im Geltungsbereich dieses Gesetzes hat einen
-Empfangsbevollmächtigten im Geltungsbereich dieses Gesetzes zu
-benennen.
+(1) Der Antrag ist schriftlich oder elektronisch bei der Vergabekammer
+einzureichen und zu begründen. Er soll ein bestimmtes Begehren
+enthalten. Ein Antragsteller ohne Wohnsitz oder gewöhnlichen
+Aufenthalt, Sitz oder Geschäftsleitung im Geltungsbereich dieses
+Gesetzes hat einen Empfangsbevollmächtigten im Geltungsbereich dieses
+Gesetzes zu benennen.
 
 (2) Die Begründung muss die Bezeichnung des Antragsgegners, eine
 Beschreibung der behaupteten Rechtsverletzung mit
@@ -9998,13 +10191,20 @@ Beweismittel enthalten sowie darlegen, dass die Rüge gegenüber dem
 Auftraggeber erfolgt ist; sie soll, soweit bekannt, die sonstigen
 Beteiligten benennen.
 
+(3) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung der Vergabekammer gespeichert ist.
+Dem Absender ist eine Bestätigung über den Zeitpunkt des Eingangs zu
+erteilen.
+
 
 ##### § 162 Verfahrensbeteiligte, Beiladung
 
 Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die
 Unternehmen, deren Interessen durch die Entscheidung schwerwiegend
 berührt werden und die deswegen von der Vergabekammer beigeladen
-worden sind. Die Entscheidung über die Beiladung ist unanfechtbar.
+worden sind. Die Entscheidung über die Beiladung ergeht durch den
+Vorsitzenden oder den hauptamtlichen Beisitzer schriftlich oder
+elektronisch und ist unanfechtbar.
 
 
 ##### § 163 Untersuchungsgrundsatz
@@ -10016,16 +10216,19 @@ umfassenden Rechtmäßigkeitskontrolle ist die Vergabekammer nicht
 verpflichtet. Sie achtet bei ihrer gesamten Tätigkeit darauf, dass der
 Ablauf des Vergabeverfahrens nicht unangemessen beeinträchtigt wird.
 
-(2) Die Vergabekammer prüft den Antrag darauf, ob er offensichtlich
-unzulässig oder unbegründet ist. Dabei berücksichtigt die
-Vergabekammer auch einen vorsorglich hinterlegten Schriftsatz
+(2) Der Vorsitzende oder der hauptamtliche Beisitzer prüft den Antrag
+darauf, ob er offensichtlich unzulässig oder unbegründet ist. Dabei
+berücksichtigt er auch einen vorsorglich hinterlegten Schriftsatz
 (Schutzschrift) des Auftraggebers. Sofern der Antrag nicht
-offensichtlich unzulässig oder unbegründet ist, übermittelt die
-Vergabekammer dem Auftraggeber eine Kopie des Antrags und fordert bei
-ihm die Akten an, die das Vergabeverfahren dokumentieren
+offensichtlich unzulässig oder unbegründet ist, übermittelt der
+Vorsitzende oder der hauptamtliche Beisitzer dem Auftraggeber eine
+Kopie des Antrags schriftlich oder elektronisch und fordert beim
+Auftraggeber die Akten an, die das Vergabeverfahren dokumentieren
 (Vergabeakten). Der Auftraggeber hat die Vergabeakten der Kammer
-sofort zur Verfügung zu stellen. Die §§ 57 bis 59 Absatz 1 bis 4, §
-59a Absatz 1 bis 3 und § 59b sowie § 61 gelten entsprechend.
+sofort nach den Vorgaben des Vorsitzenden oder hauptamtlichen
+Beisitzers soweit möglich als elektronische Kopie zur Verfügung zu
+stellen. Die §§ 57 bis 59 Absatz 1 bis 4, § 59a Absatz 1 bis 3 und die
+§§ 59b sowie 61 gelten entsprechend.
 
 
 ##### § 164 Aufbewahrung vertraulicher Unterlagen
@@ -10044,7 +10247,9 @@ nicht erkennen lassen.
 
 (1) Die Beteiligten können die Akten bei der Vergabekammer einsehen
 und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen,
-Auszüge oder Abschriften erteilen lassen.
+Auszüge oder Abschriften erteilen lassen. Die Vergabekammer soll die
+Akteneinsicht elektronisch durch Übermittlung oder zum Abruf auf einem
+sicheren Übermittlungsweg gewähren.
 
 (2) Die Vergabekammer hat die Einsicht in die Unterlagen zu versagen,
 soweit dies aus wichtigen Gründen, insbesondere des Geheimschutzes
@@ -10068,22 +10273,38 @@ Verhandlung, die sich auf einen Termin beschränken soll. Alle
 Beteiligten haben Gelegenheit zur Stellungnahme. Mit Zustimmung der
 Beteiligten oder bei Unzulässigkeit oder bei offensichtlicher
 Unbegründetheit des Antrags kann nach Lage der Akten entschieden
-werden.
+werden. Nach Lage der Akten kann auch entschieden werden, soweit dies
+der Beschleunigung dient und die Sache keine besonderen
+Schwierigkeiten in rechtlicher oder tatsächlicher Hinsicht aufweist.
 
 (2) Auch wenn die Beteiligten in dem Verhandlungstermin nicht
 erschienen oder nicht ordnungsgemäß vertreten sind, kann in der Sache
 verhandelt und entschieden werden.
 
+(3) Die Vergabekammer kann die mündliche Verhandlung auf Antrag oder
+von Amts wegen als Videoverhandlung durchführen, bei der die
+Verhandlung sowie etwaige Vernehmungen zeitgleich in Bild und Ton an
+den jeweiligen Aufenthaltsort der Beteiligten und der Mitglieder der
+Vergabekammer übertragen werden. Die Bild- und Tonübertragung kann
+auch nur für Teile der mündlichen Verhandlung, insbesondere
+Vernehmungen, oder für einzelne Beteiligte erfolgen. Absatz 2 sowie §
+128a Absatz 6 Satz 1 der Zivilprozessordnung gelten entsprechend.
+
+(4) Entscheidungen nach Absatz 1 Satz 3 und 4 sowie Absatz 3 Satz 1
+und 2 ergehen durch den Vorsitzenden oder den hauptamtlichen Beisitzer
+und sind unanfechtbar.
+
 
 ##### § 167 Beschleunigung
 
 (1) Die Vergabekammer trifft und begründet ihre Entscheidung
-schriftlich innerhalb einer Frist von fünf Wochen ab Eingang des
-Antrags. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten
-kann der Vorsitzende im Ausnahmefall die Frist durch Mitteilung an die
-Beteiligten um den erforderlichen Zeitraum verlängern. Dieser Zeitraum
-soll nicht länger als zwei Wochen dauern. Er begründet diese Verfügung
-schriftlich.
+schriftlich oder elektronisch innerhalb einer Frist von fünf Wochen ab
+Eingang des Antrags. Bei besonderen tatsächlichen oder rechtlichen
+Schwierigkeiten kann der Vorsitzende oder der hauptamtliche Beisitzer
+im Ausnahmefall die Frist durch Mitteilung an die Beteiligten um den
+erforderlichen Zeitraum verlängern. Dieser Zeitraum soll nicht länger
+als zwei Wochen dauern. Der Vorsitzende oder der hauptamtliche
+Beisitzer begründet diese Verfügung schriftlich oder elektronisch.
 
 (2) Die Beteiligten haben an der Aufklärung des Sachverhalts
 mitzuwirken, wie es einem auf Förderung und raschen Abschluss des
@@ -10117,10 +10338,14 @@ Millionen Euro. § 61 Absatz 1 und 2 gilt entsprechend.
 
 ##### § 169 Aussetzung des Vergabeverfahrens
 
-(1) Informiert die Vergabekammer den Auftraggeber in Textform über den
-Antrag auf Nachprüfung, darf dieser vor einer Entscheidung der
+(1) Informiert der Vorsitzende oder der hauptamtliche Beisitzer den
+Auftraggeber schriftlich oder elektronisch über den Antrag auf
+Nachprüfung, darf dieser vor Bekanntgabe der Entscheidung der
 Vergabekammer und dem Ablauf der Beschwerdefrist nach § 172 Absatz 1
-den Zuschlag nicht erteilen.
+den Zuschlag nicht erteilen. Im Falle des Obsiegens des Auftraggebers
+vor der Vergabekammer endet das Zuschlagsverbot bereits mit der
+Bekanntgabe der Entscheidung der Vergabekammer über den Antrag auf
+Nachprüfung.
 
 (2) Die Vergabekammer kann dem Auftraggeber auf seinen Antrag oder auf
 Antrag des Unternehmens, das nach § 134 vom Auftraggeber als das
@@ -10180,10 +10405,11 @@ entsprechend.
 117 Nummer 1 bis 3 oder § 150 Nummer 1 oder 6 geltend, entfällt das
 Verbot des Zuschlags nach Absatz 1 fünf Werktage nach Zustellung eines
 entsprechenden Schriftsatzes an den Antragsteller; die Zustellung ist
-durch die Vergabekammer unverzüglich nach Eingang des Schriftsatzes
-vorzunehmen. Auf Antrag kann das Beschwerdegericht das Verbot des
-Zuschlags wiederherstellen. § 176 Absatz 1 Satz 1, Absatz 2 Satz 1
-sowie Absatz 3 und 4 ist entsprechend anzuwenden.
+durch den Vorsitzenden oder den hauptamtlichen Beisitzer unverzüglich
+nach Eingang des Schriftsatzes zu veranlassen. Auf Antrag kann das
+Beschwerdegericht das Verbot des Zuschlags wiederherstellen. § 176
+Absatz 1 Satz 1, Absatz 2 Satz 1 sowie Absatz 3 und 4 ist entsprechend
+anzuwenden.
 
 
 ##### § 170 Ausschluss von abweichendem Landesrecht
@@ -10246,48 +10472,19 @@ sein. Dies gilt nicht für Beschwerden von juristischen Personen des
 Verfahrens vor der Vergabekammer vom Beschwerdeführer durch
 Übermittlung einer Ausfertigung der Beschwerdeschrift zu unterrichten.
 
+(5) Die Vergabekammer übermittelt die Verfahrensakte einschließlich
+der Vergabeakte an das zuständige Oberlandesgericht schriftlich oder
+elektronisch. Die Übermittlung wird durch den Vorsitzenden oder den
+hauptamtlichen Beisitzer veranlasst.
+
 
 ##### § 173 Wirkung
 
-(1) Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der
-Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt
-zwei Wochen nach Ablauf der Beschwerdefrist. Hat die Vergabekammer den
-Antrag auf Nachprüfung abgelehnt, so kann das Beschwerdegericht auf
-Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur
-Entscheidung über die Beschwerde verlängern.
+(1) Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, hat
+die sofortige Beschwerde keine aufschiebende Wirkung gegenüber der
+Entscheidung der Vergabekammer.
 
-(2) Das Gericht lehnt den Antrag nach Absatz 1 Satz 3 ab, wenn unter
-Berücksichtigung aller möglicherweise geschädigten Interessen die
-nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung
-über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der
-Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen
-Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei
-verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des §
-104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen
-zu berücksichtigen. Die besonderen Verteidigungs- und
-Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche
-Auftrag oder die Konzession im unmittelbaren Zusammenhang steht mit
-
-1.  einer Krise,
-
-
-2.  einem mandatierten Einsatz der Bundeswehr,
-
-
-3.  einer einsatzgleichen Verpflichtung der Bundeswehr oder
-
-
-4.  einer Bündnisverpflichtung.
-
-
-
-Das Gericht berücksichtigt bei seiner Entscheidung auch die
-Erfolgsaussichten der Beschwerde, die allgemeinen Aussichten des
-Antragstellers im Vergabeverfahren, den öffentlichen Auftrag oder die
-Konzession zu erhalten, und das Interesse der Allgemeinheit an einem
-raschen Abschluss des Vergabeverfahrens.
-
-(3) Hat die Vergabekammer dem Antrag auf Nachprüfung durch Untersagung
+(2) Hat die Vergabekammer dem Antrag auf Nachprüfung durch Untersagung
 des Zuschlags stattgegeben, so unterbleibt dieser, solange nicht das
 Beschwerdegericht die Entscheidung der Vergabekammer nach § 176 oder §
 178 aufhebt.
@@ -10308,7 +10505,9 @@ Angestellte mit Befähigung zum Richteramt vertreten lassen.
 
 (2) Die §§ 65, 69 bis 72 mit Ausnahme der Verweisung auf § 227 Absatz
 3 der Zivilprozessordnung, § 75 Absatz 1 bis 3, § 76 Absatz 1 und 6,
-die §§ 165 und 167 Absatz 2 Satz 1 sind entsprechend anzuwenden.
+die §§ 165 und 167 Absatz 2 Satz 1 sind entsprechend anzuwenden. Die
+mündliche Verhandlung kann als Videoverhandlung nach § 128a der
+Zivilprozessordnung durchgeführt werden.
 
 
 ##### § 176 Vorabentscheidung über den Zuschlag
@@ -10318,15 +10517,16 @@ nach § 134 vom Auftraggeber als das Unternehmen benannt ist, das den
 Zuschlag erhalten soll, kann das Gericht den weiteren Fortgang des
 Vergabeverfahrens und den Zuschlag gestatten, wenn unter
 Berücksichtigung aller möglicherweise geschädigten Interessen die
-nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung
-über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der
-Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen
-Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei
-verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des §
-104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen
-zu berücksichtigen. Die besonderen Verteidigungs- und
-Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche
-Auftrag oder die Konzession im unmittelbaren Zusammenhang steht mit
+vorteilhaften Folgen einer Verzögerung der Vergabe bis zur
+Entscheidung über die Beschwerde die damit verbundenen Nachteile nicht
+überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an
+einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu
+berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen
+Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs-
+und Sicherheitsinteressen zu berücksichtigen. Die besonderen
+Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn
+der öffentliche Auftrag oder die Konzession im unmittelbaren
+Zusammenhang steht mit
 
 1.  einer Krise,
 
@@ -10341,7 +10541,7 @@ Auftrag oder die Konzession im unmittelbaren Zusammenhang steht mit
 
 
 
-Das Gericht berücksichtigt bei seiner Entscheidung auch die
+Das Gericht berücksichtigt bei seiner Entscheidung vorrangig die
 Erfolgsaussichten der sofortigen Beschwerde, die allgemeinen
 Aussichten des Antragstellers im Vergabeverfahren, den öffentlichen
 Auftrag oder die Konzession zu erhalten, und das Interesse der
@@ -10366,14 +10566,8 @@ erläutert Rechtmäßigkeit oder Rechtswidrigkeit des Vergabeverfahrens.
 Rechtsmittel nicht zulässig.
 
 
-##### § 177 Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts
+##### § 177 (weggefallen)
 
-Ist der Auftraggeber mit einem Antrag nach § 176 vor dem
-Beschwerdegericht unterlegen, gilt das Vergabeverfahren nach Ablauf
-von zehn Tagen nach Zustellung der Entscheidung als beendet, wenn der
-Auftraggeber nicht die Maßnahmen zur Herstellung der Rechtmäßigkeit
-des Verfahrens ergreift, die sich aus der Entscheidung ergeben; das
-Verfahren darf nicht fortgeführt werden.
 
 
 ##### § 178 Beschwerdeentscheidung
@@ -10404,8 +10598,7 @@ anstelle des Oberlandesgerichts. Der Bundesgerichtshof kann sich auf
 die Entscheidung der Divergenzfrage beschränken und dem
 Beschwerdegericht die Entscheidung in der Hauptsache übertragen, wenn
 dies nach dem Sach- und Streitstand des Beschwerdeverfahrens angezeigt
-scheint. Die Vorlagepflicht gilt nicht im Verfahren nach § 173 Absatz
-1 Satz 3 und nach § 176.
+scheint. Die Vorlagepflicht gilt nicht im Verfahren nach § 176.
 
 
 ##### § 180 Schadensersatz bei Rechtsmissbrauch
@@ -10565,7 +10758,7 @@ nicht für Privatisierungen nach § 17b Absatz 2 Satz 3 oder § 20 Absatz
 
 ### § 186 Anwendungsbestimmung zu § 47k
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz hat
+(1) Das Bundesministerium für Wirtschaft und Energie hat
 
 1.  das Vorliegen der erforderlichen technischen Voraussetzungen für eine
     Übermittlung der abgegebenen Mengen nach § 47k Absatz 2 Satz 1 Nummer
@@ -10581,7 +10774,7 @@ nicht für Privatisierungen nach § 17b Absatz 2 Satz 3 oder § 20 Absatz
 (2) § 47k Absatz 2 Satz 1 Nummer 2 ist nach Ablauf des Monats, der auf
 den Monat folgt, in dem die Bekanntmachung nach Absatz 1 Nummer 2
 erfolgt, anzuwenden; dieser Tag ist vom Bundesministerium für
-Wirtschaft und Klimaschutz unverzüglich im Bundesanzeiger bekannt zu
+Wirtschaft und Energie unverzüglich im Bundesanzeiger bekannt zu
 machen.
 
 
@@ -10679,11 +10872,11 @@ zum 31. Dezember 2030 vollzogen werden.
 
 (1) § 29 ist nach dem 31. Dezember 2027 nicht mehr anzuwenden.
 
-(2) Vergabeverfahren, die vor dem 18. April 2016 begonnen haben,
+(2) Vergabeverfahren, die vor dem 1. Juli 2026 begonnen haben,
 einschließlich der sich an diese anschließenden Nachprüfungsverfahren
-sowie am 18. April 2016 anhängige Nachprüfungsverfahren werden nach
-dem Recht zu Ende geführt, das zum Zeitpunkt der Einleitung des
-Verfahrens galt.
+sowie am 1. Juli 2026 anhängige Nachprüfungsverfahren werden nach dem
+Recht zu Ende geführt, das zum Zeitpunkt der Einleitung des Verfahrens
+galt.
 
 (3) Mit Ausnahme von § 33c Absatz 5 sind die §§ 33a bis 33f nur auf
 Schadensersatzansprüche anwendbar, die nach dem 26. Dezember 2016
@@ -10781,13 +10974,13 @@ Regelung ist anzuwenden auf Zusammenschlüsse, die ab dem 1. Januar
 
 (10) (weggefallen)
 
-(11) Das Bundesministerium für Wirtschaft und Klimaschutz wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
-Hinblick auf das Abkommen zwischen dem Bundesministerium für
-Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem
-Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der
-Schweizerischen Eidgenossenschaft über Zusammenarbeit und
-Koordinierung der Wettbewerbsbehörden, zu bestimmen, dass
+(11) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates im Hinblick auf
+das Abkommen zwischen dem Bundesministerium für Wirtschaft und Energie
+der Bundesrepublik Deutschland und dem Eidgenössischen Departement für
+Wirtschaft, Bildung und Forschung der Schweizerischen
+Eidgenossenschaft über Zusammenarbeit und Koordinierung der
+Wettbewerbsbehörden, zu bestimmen, dass
 
 1.  Informationen ausschließlich in kartellbehördlichen Verfahren und sich
     daran anschließenden Rechtsbehelfsverfahren sowie nur für die Zwecke,
@@ -10806,9 +10999,9 @@ soweit sich die in dem Abkommen von der Bundesrepublik Deutschland
 den §§ 50a bis 50f zulässigen zwischenbehördlichen Zusammenarbeit
 halten. Bestimmungen einer Rechtsverordnung nach Satz 1 sind erst ab
 dem Tag anzuwenden, ab dem das in Satz 1 bezeichnete Abkommen wirksam
-geworden ist. Das Bundesministerium für Wirtschaft und Klimaschutz
-gibt den Tag unter Angabe der Bezeichnung des Abkommens zwischen dem
-Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik
+geworden ist. Das Bundesministerium für Wirtschaft und Energie gibt
+den Tag unter Angabe der Bezeichnung des Abkommens zwischen dem
+Bundesministerium für Wirtschaft und Energie der Bundesrepublik
 Deutschland und dem Eidgenössischen Departement für Wirtschaft,
 Bildung und Forschung der Schweizerischen Eidgenossenschaft über
 Zusammenarbeit und Koordinierung der Wettbewerbsbehörden und dessen
