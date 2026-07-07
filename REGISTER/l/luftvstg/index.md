@@ -389,7 +389,7 @@ und der Anzahl der beförderten Fluggäste.
     *   in einem Land der Anlage 1
         zu diesem Gesetz
 
-    *   15,53 Euro
+    *   13,03 Euro
 
 
 *    *   2.
@@ -397,14 +397,14 @@ und der Anzahl der beförderten Fluggäste.
     *   in einem Land der Anlage 2
         zu diesem Gesetz
 
-    *   39,34 Euro
+    *   33,01 Euro
 
 
 *    *   3.
 
     *   in anderen Ländern
 
-    *   70,83 Euro.
+    *   59,43 Euro.
 
 
 
