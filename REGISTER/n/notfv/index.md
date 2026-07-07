@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 576
 
 Zuletzt geändert durch
-:   Art. 6 V v. 11.12.2024 I Nr. 411
-
-Änderung durch
-:   Art. 2 G v. 18.6.2026 I Nr. 183 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 18.6.2026 I Nr. 183
 
 
 ## Eingangsformel
@@ -199,20 +196,9 @@ besteht nicht.
 ### § 8 Zulassung zur Prüfung
 
 (1) Die Zulassung zur notariellen Fachprüfung ist in schriftlicher
-Form beim Prüfungsamt zu beantragen. Dem Antrag sind beizufügen
-
-1.  eine Ablichtung des Zeugnisses über die bestandene zweite juristische
-    Staatsprüfung der Antragstellerin oder des Antragstellers,
-
-
-2.  eine Bescheinigung der zuständigen Rechtsanwaltskammer über die Dauer
-    der Zulassung der Antragstellerin oder des Antragstellers zur
-    Rechtsanwaltschaft; die Bescheinigung muss weniger als drei Monate vor
-    Stellung des Antrags auf Zulassung zur notariellen Fachprüfung
-    ausgestellt worden sein.
-
-
-
+Form beim Prüfungsamt zu beantragen. Dem Antrag ist eine Abschrift des
+Zeugnisses über die bestandene zweite juristische Staatsprüfung
+beizufügen.
 
 (2) Die Antragsfrist für die Zulassung zur Prüfung endet drei Monate
 vor dem Beginn des schriftlichen Teils eines Prüfungstermins. Die
@@ -246,17 +232,17 @@ Antragsteller zuzustellen.
 ### § 9 Rücktritt und Versäumnis
 
 (1) Über das Vorliegen von Rücktritt und Versäumnis und deren
-Rechtsfolgen gemäß § 7e der Bundesnotarordnung entscheidet die Leitung
+Rechtsfolgen nach § 7e der Bundesnotarordnung entscheidet die Leitung
 des Prüfungsamtes durch Bescheid, der mit einer Rechtsbehelfsbelehrung
-zu versehen und der Antragstellerin oder dem Antragsteller zuzustellen
-ist. Die Nachweise gemäß § 7e Absatz 2 der Bundesnotarordnung sind
-unverzüglich beim Prüfungsamt einzureichen. Im Fall einer Krankheit
-ist der Nachweis grundsätzlich durch ein Zeugnis eines
-Gesundheitsamtes zu erbringen, das in der Regel nicht später als am
-Prüfungstag ausgestellt sein darf. In offensichtlichen Fällen kann auf
-die Vorlage eines Zeugnisses verzichtet werden.
+zu versehen und dem Antragsteller zuzustellen ist. Die Nachweise nach
+§ 7e Absatz 2 und 3 der Bundesnotarordnung sind unverzüglich beim
+Prüfungsamt einzureichen. Im Fall einer Krankheit ist der Nachweis
+grundsätzlich durch ein Zeugnis eines Gesundheitsamtes zu erbringen,
+das in der Regel nicht später als am Prüfungstag ausgestellt sein
+darf. In offensichtlichen Fällen kann auf die Vorlage eines Zeugnisses
+verzichtet werden.
 
-(2) Prüfungsleistungen, die gemäß § 7e Absatz 2 der Bundesnotarordnung
+(2) Prüfungsleistungen, die gemäß § 7e Absatz 3 der Bundesnotarordnung
 erneut angefertigt oder nachgeholt werden dürfen, sind in dem
 Prüfungstermin zu erbringen, der auf die ganz oder teilweise versäumte
 Prüfung folgt.
@@ -442,7 +428,7 @@ Bedingungen enthalten und kann nicht zurückgenommen werden.
 Mit dem Antrag ist zu erklären, ob eine Wiederholung gemäß § 7a Absatz
 7 Satz 1 oder Satz 2 der Bundesnotarordnung beantragt wird. Bei
 Antragstellung innerhalb von fünf Jahren nach Abschluss des letzten
-Prüfungsverfahrens braucht der Nachweis gemäß § 8 Absatz 1 Nummer 1
+Prüfungsverfahrens braucht der Nachweis gemäß § 8 Absatz 1 Satz 2
 nicht nochmals erbracht zu werden.
 
 (2) Die Prüfung ist im gesamten Umfang zu wiederholen.
