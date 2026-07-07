@@ -989,8 +989,13 @@ gehören insbesondere
 
 
 
-6.  die Berichtigung und Ergänzung der Entscheidung oder ihres
-    Tatbestands;
+6.  die Berichtigung und Ergänzung der Entscheidung oder ihres Tatbestands
+    sowie die Änderung der Kostenentscheidung nach § 102 der
+    Zivilprozessordnung, nach § 84a des Gesetzes über das Verfahren in
+    Familiensachen und in den Angelegenheiten der freiwilligen
+    Gerichtsbarkeit, nach § 163 der Verwaltungsgerichtsordnung, auch in
+    Verbindung mit § 197a des Sozialgerichtsgesetzes, oder nach § 146 der
+    Finanzgerichtsordnung;
 
 
 7.  die Mitwirkung bei der Erbringung der Sicherheitsleistung und das
