@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1822
 
 Zuletzt geändert durch
-:   Art. 15 G v. 22.6.2026 I Nr. 192
+:   Art. 12 Abs. 4 G v. 29.6.2026 I Nr. 197
 
 Änderung durch
 :   Art. 41 Nr. 1 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 ist nicht ausführbar, da § 50c nicht vorhanden ist
