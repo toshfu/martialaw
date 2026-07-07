@@ -669,7 +669,7 @@ folgenden Erhebungsmerkmalen erhoben:
 
 2.  für Arbeitslose und Arbeitsuchende:
 
-    a)  Bezug von Arbeitslosengeld und Bürgergeld,
+    a)  Bezug von Arbeitslosengeld und Grundsicherungsgeld,
 
 
     b)  Anlass der Arbeitssuche,
@@ -1025,7 +1025,7 @@ Erhebungsmerkmalen erhoben:
         aa) Höhen der gesetzlichen Leistungen bei Arbeitslosigkeit, bei Aus- und
             Weiterbildungsförderungen der Bundesagentur für Arbeit, insbesondere
             Höhen des Qualifizierungsgeldes, und Höhen der Grundsicherung für
-            Arbeitsuchende, insbesondere Höhen des Bürgergeldes, des
+            Arbeitsuchende, insbesondere Höhen des Grundsicherungsgeldes, des
             Bürgergeldbonus und der Weiterbildungsleistungen,
 
 
