@@ -151,8 +151,9 @@ als eigener Ausbildungsabschnitt.
 (6) Ausbildungsförderung wird nicht geleistet, wenn der Auszubildende
 
 1.  Unterhaltsgeld, Arbeitslosengeld bei beruflicher Weiterbildung nach
-    dem Dritten Buch Sozialgesetzbuch oder Bürgergeld bei beruflicher
-    Weiterbildung nach dem Zweiten Buch Sozialgesetzbuch erhält,
+    dem Dritten Buch Sozialgesetzbuch oder Grundsicherungsgeld bei
+    beruflicher Weiterbildung nach dem Zweiten Buch Sozialgesetzbuch
+    erhält,
 
 
 2.  Leistungen von den Begabtenförderungswerken erhält,
