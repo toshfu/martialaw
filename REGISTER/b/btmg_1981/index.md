@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 19.5.2026 I Nr. 150
 
+Änderung durch
+:   Art. 8 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Begriffsbestimmungen
 
@@ -1086,10 +1089,15 @@ Tierärzten.
 
 Wer am Betäubungsmittelverkehr teilnimmt, hat die Betäubungsmittel,
 die sich in seinem Besitz befinden, gesondert aufzubewahren und gegen
-unbefugte Entnahme zu sichern. Das Bundesinstitut für Arzneimittel und
-Medizinprodukte kann Sicherungsmaßnahmen anordnen, soweit es nach Art
-oder Umfang des Betäubungsmittelverkehrs, dem Gefährdungsgrad oder der
-Menge der Betäubungsmittel erforderlich ist.
+unbefugte Entnahme zu sichern. Abweichend von Satz 1 sind die in
+Anlage III bezeichneten Betäubungsmittel in Form von
+Fertigarzneimitteln nicht gesondert aufzubewahren, wenn im Rahmen
+einer automatisierten EDV-gestützten chaotischen Lagerhaltung eine
+separate Bestands- und Nachweisinformation technisch gewährleistet
+ist. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann
+Sicherungsmaßnahmen anordnen, soweit es nach Art oder Umfang des
+Betäubungsmittelverkehrs, dem Gefährdungsgrad oder der Menge der
+Betäubungsmittel erforderlich ist.
 
 
 ### § 16 Vernichtung
@@ -1882,7 +1890,7 @@ Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
     kennzeichnet,
 
 
-9.  einer vollziehbaren Anordnung nach § 15 Satz 2 zuwiderhandelt,
+9.  einer vollziehbaren Anordnung nach § 15 Satz 3 zuwiderhandelt,
 
 
 10. entgegen § 16 Abs. 1 Betäubungsmittel nicht vorschriftsmäßig
