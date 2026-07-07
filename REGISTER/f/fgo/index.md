@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 10 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -3064,7 +3067,27 @@ nicht gegen die Entscheidung in der Hauptsache ein Rechtsmittel
 eingelegt wird.
 
 
-#### (XXXX) §§ 146 bis 148 (weggefallen)
+#### § 146
+
+(1) Wird die Wertfestsetzung für die Gerichtsgebühren nach § 63 Absatz
+3 des Gerichtskostengesetzes geändert, so kann das Gericht seine
+getroffene Kostenentscheidung von Amts wegen ändern. Wird die
+Kostenentscheidung nach Satz 1 geändert, ist auch eine bereits
+erfolgte Kostenfestsetzung von Amts wegen zu ändern.
+
+(2) Für die Entscheidung nach Absatz 1 Satz 1 gilt § 107 Absatz 2
+entsprechend. Vor der Entscheidung sind die Beteiligten zu hören. Die
+Änderung der Kostenentscheidung ist nur innerhalb von sechs Monaten
+zulässig, nachdem die Änderung der Wertfestsetzung Rechtskraft erlangt
+hat. Die Änderung der Kostenentscheidung hat keine Änderung der
+übrigen Teile des Urteils oder des Beschlusses zur Folge.
+
+(3) Entscheidungen nach Absatz 1 Satz 1 sind unanfechtbar. Auf
+Entscheidungen nach Absatz 1 Satz 2 ist § 149 Absatz 2 bis 4
+anzuwenden.
+
+
+#### (XXXX) §§ 147 bis 148 (weggefallen)
 
 
 
