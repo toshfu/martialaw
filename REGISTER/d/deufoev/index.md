@@ -163,8 +163,8 @@ Voraussetzungen nach
 
 
 
-(2) Personen nach § 2, die aufgrund einer Aufforderung nach § 15
-Absatz 5 Satz 2 oder Absatz 6 des Zweiten Buches Sozialgesetzbuch zur
+(2) Personen nach § 2, die aufgrund einer Verpflichtung nach § 15a
+Absatz 1 Satz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch zur
 Teilnahme an der berufsbezogenen Deutschsprachförderung verpflichtet
 sind, sind nach § 8 Absatz 3 vorrangig zu berücksichtigen.
 
@@ -272,8 +272,8 @@ Satz 2 das Ermessen der Ausländerbehörde bei der Erteilung einer
 Erlaubnis zur Beschäftigung und die Vollziehbarkeit der
 Ausreisepflicht unberührt lassen. Bei Personen nach § 4 Absatz 2 ist
 die Erklärung in die Teilnahmeberechtigung aufzunehmen, dass die
-Teilnahme aufgrund einer Aufforderung nach § 15 Absatz 5 Satz 2 oder
-Absatz 6 des Zweiten Buches Sozialgesetzbuch verpflichtend ist.
+Teilnahme aufgrund einer Verpflichtung nach § 15a Absatz 1 Satz 1
+Nummer 3 des Zweiten Buches Sozialgesetzbuch verpflichtend ist.
 Telefonnummer und E-Mail-Adresse sind aufzunehmen, wenn die oder der
 Teilnahmeberechtigte zugestimmt hat. Im Übrigen sollen Angaben zum
 Bildungsstand und zum geeigneten Berufssprachkurs aufgenommen werden.
@@ -1051,14 +1051,12 @@ berufsbezogenen Deutschsprachförderung notwendig sind.
 
 ### § 27a
 
-Auf Personen mit einer bis zum Ablauf des 30. Juni 2023
-abgeschlossenen Eingliederungsvereinbarung nach § 15 des Zweiten
-Buches Sozialgesetzbuch in der bis zu diesem Zeitpunkt gültigen
-Fassung sind bis zur erstmaligen Erstellung eines Kooperationsplans
-nach § 15 des Zweiten Buches Sozialgesetzbuch in der ab dem 1. Juli
-2023 gültigen Fassung, spätestens bis zum Ablauf des 31. Dezember
-2023, § 4 Absatz 2 Satz 1 und § 6 Absatz 2 Satz 4 in der bis zum 30.
-Juni 2023 gültigen Fassung weiter anzuwenden.
+Auf Personen, die nach § 15 Absatz 5 Satz 2 oder Absatz 6 des Zweiten
+Buches Sozialgesetzbuch in der bis einschließlich 30. Juni 2026
+geltenden Fassung zur Teilnahme an einer Maßnahme der berufsbezogenen
+Deutschsprachförderung aufgefordert wurden, sind § 4 Absatz 2 Satz 1
+und § 6 Absatz 2 Satz 4 in der bis einschließlich 30. Juni 2026
+geltenden Fassung weiter anzuwenden.
 
 
 ### § 28 Inkrafttreten
