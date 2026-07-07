@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 18
 
 Zuletzt geändert durch
-:   Art. 11 Abs. 2 G v. 10.8.2021 I 3490
+:   Art. 3 V v. 24.6.2026 I Nr. 193
 
 
 ## Abschnitt 1 - Allgemeines
@@ -82,11 +82,14 @@ muss nach § 11 Absatz 2 und 3 des Designgesetzes enthalten:
 
 6.  eine Erklärung, dass die Priorität einer früheren ausländischen
     Anmeldung desselben Designs oder eine Ausstellungspriorität in
-    Anspruch genommen wird (§ 11), und
+    Anspruch genommen wird (§ 11),
 
 
 7.  die unverbindliche Erklärung des Anmelders, ob ein Interesse an der
-    Vergabe von Lizenzen besteht.
+    Vergabe von Lizenzen besteht und
+
+
+8.  eine Erklärung zum Verzicht auf die Eintragungsurkunde.
 
 
 
@@ -97,7 +100,7 @@ muss nach § 11 Absatz 2 und 3 des Designgesetzes enthalten:
 (1) Die Anmeldung kann schriftlich oder elektronisch eingereicht
 werden. Für die elektronische Einreichung ist die Verordnung über den
 elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt
-maßgebend. § 7 Absatz 5 und § 10 Absatz 3 bleiben unberührt.
+maßgebend. § 7 Absatz 5 bleibt unberührt.
 
 (2) Abweichend von § 11 Absatz 1 der DPMA-Verordnung ist die
 Einreichung von Wiedergaben eines Designs zum Zwecke der Anmeldung
@@ -150,11 +153,20 @@ zusammengefassten Designs.
 
 (1) Die Anmeldung muss folgende Angaben zum Anmelder enthalten:
 
-1.  wenn der Anmelder eine natürliche Person ist: Vornamen und Namen oder,
-    falls die Eintragung unter der Firma des Anmelders erfolgen soll, die
-    Firma, wie sie im Handelsregister eingetragen ist, sowie die Anschrift
-    des Wohn- oder Firmensitzes mit Angabe von Straße, Hausnummer,
-    Postleitzahl und Ort,
+1.  wenn der Anmelder eine natürliche Person ist:
+
+    a)  den Vornamen und den Namen des Anmelders sowie die Anschrift des
+        Wohnsitzes des Anmelders unter Angabe von Straße, Hausnummer,
+        Postleitzahl und Ort oder
+
+
+    b)  falls die Eintragung unter der Firma des Anmelders erfolgen soll, die
+        Firma des Anmelders, wie sie im Handelsregister eingetragen ist, sowie
+        die Anschrift des Firmensitzes unter Angabe von Straße, Hausnummer,
+        Postleitzahl und Ort,
+
+
+
 
 
 2.  wenn der Anmelder eine juristische Person oder eine
@@ -320,11 +332,7 @@ enthalten. Bei Sammelanmeldungen (§ 12 des Designgesetzes) können die
 Beschreibungen nach Designnummern geordnet in einem Dokument
 zusammengefasst werden.
 
-(3) Bei Verwendung eines digitalen Datenträgers zur Einreichung der
-Wiedergabe (§ 7 Absatz 5) kann die Beschreibung im Format „\*.txt“ auf
-dem Datenträger gespeichert werden. Bei Sammelanmeldungen sind die
-Beschreibungen nach Designnummern geordnet in einem elektronischen
-Dokument zusammenzufassen.
+(3) (weggefallen)
 
 
 ### § 11 Angaben bei Inanspruchnahme einer Priorität
@@ -355,9 +363,12 @@ worden ist. In der Bescheinigung muss bestätigt werden,
 
 
 Für die Bescheinigung soll das vom Deutschen Patent- und Markenamt
-herausgegebene Formblatt benutzt werden. Die Bescheinigung muss eine
-von der genannten Stelle beglaubigte Darstellung der tatsächlichen
-Offenbarung des Designs enthalten.
+herausgegebene Formblatt benutzt werden. Die Bescheinigung muss
+mindestens eine von der bescheinigenden Stelle beglaubigte Darstellung
+des offenbarten Designs enthalten. Pro Bescheinigung sind bis zu 20
+Darstellungen zulässig. Der Bescheinigung kann darüber hinaus eine
+Fotografie des Ausstellungsstands, die das offenbarte Design zeigt,
+beigefügt werden.
 
 (3) Die Möglichkeit, die Angaben nach § 14 Absatz 1 Satz 2 des
 Designgesetzes zu ändern oder die Prioritätserklärung innerhalb von 16
@@ -420,6 +431,9 @@ das fremdsprachige Schriftstück als zum Zeitpunkt des Eingangs der
 Übersetzung eingegangen. Wird keine Übersetzung eingereicht, so gilt
 das fremdsprachige Schriftstück als nicht eingegangen.
 
+(3) Enthalten Darstellungen von Designs oder sonstige
+Anmeldeunterlagen fremdsprachige Inhalte, gilt Absatz 1 entsprechend.
+
 
 ## Abschnitt 3 - Designregister, Verfahren nach Eintragung
 
@@ -429,15 +443,13 @@ das fremdsprachige Schriftstück als nicht eingegangen.
 (1) Bei der Eintragung der Anmeldung wird Folgendes in das
 Designregister aufgenommen:
 
-1.  das Aktenzeichen der Anmeldung,
+1.  das Aktenzeichen der Anmeldung und die Registernummer,
 
 
 2.  die Wiedergabe des eingetragenen Designs,
 
 
-3.  die jeweilige Designnummer, bei Sammelanmeldungen entsprechend der
-    fortlaufend nummerierten Liste nach § 5 Absatz 2 Satz 1 Nummer 2
-    Buchstabe a,
+3.  die jeweilige Designnummer,
 
 
 4.  der Name, gegebenenfalls die Firma einschließlich der Rechtsform, und
@@ -455,11 +467,14 @@ Designregister aufgenommen:
 7.  der Tag der Eintragung,
 
 
-8.  die Erzeugnisangabe (§ 9) und
+8.  die Erzeugnisangabe (§ 9),
 
 
 9.  die Warenklassen (§ 19 Absatz 2 des Designgesetzes), bestehend aus der
-    Angabe der Klassen und Unterklassen.
+    Angabe der Klassen und Unterklassen und
+
+
+10. die Zahl der Darstellungen.
 
 
 
@@ -491,36 +506,30 @@ in das Designregister aufgenommen:
     Designgesetzes),
 
 
-7.  ein Hinweis, ob die Eintragung die Anmeldung eines einzelnen Designs
-    oder eine Sammelanmeldung (§ 12 des Designgesetzes) betrifft, sowie
-    bei einer Sammelanmeldung die Zahl der in der Anmeldung
-    zusammengefassten Designs (§ 5 Absatz 2 Satz 1 Nummer 1),
-
-
-8.  Zeit, Land und Aktenzeichen der früheren Anmeldung desselben Designs
+7.  Zeit, Land und Aktenzeichen der früheren Anmeldung desselben Designs
     bei Inanspruchnahme einer ausländischen Priorität nach § 14 des
     Designgesetzes,
 
 
-9.  der Tag der erstmaligen Zurschaustellung und die Bezeichnung der
+8.  der Tag der erstmaligen Zurschaustellung und die Bezeichnung der
     Ausstellung bei Inanspruchnahme einer Ausstellungspriorität nach § 15
     des Designgesetzes,
 
 
-10. dass ein Antrag auf Aufschiebung der Bekanntmachung der Wiedergabe
+9.  dass ein Antrag auf Aufschiebung der Bekanntmachung der Wiedergabe
     gestellt wurde (§ 21 Absatz 1 Satz 1 des Designgesetzes),
 
 
-11. dass dingliche Rechte an dem angemeldeten oder eingetragenen Design
+10. dass dingliche Rechte an dem angemeldeten oder eingetragenen Design
     bestehen (§ 30 Absatz 1 Nummer 1 und § 32 des Designgesetzes),
 
 
-12. dass das angemeldete oder eingetragene Design Gegenstand einer
+11. dass das angemeldete oder eingetragene Design Gegenstand einer
     Maßnahme der Zwangsvollstreckung geworden ist (§ 30 Absatz 1 Nummer 2
     und § 32 des Designgesetzes) und
 
 
-13. dass das Recht am angemeldeten oder eingetragenen Design von einem
+12. dass das Recht am angemeldeten oder eingetragenen Design von einem
     Insolvenzverfahren erfasst worden ist (§ 30 Absatz 3 und § 32 des
     Designgesetzes).
 
@@ -535,8 +544,8 @@ die Anmeldung begründeten Rechts ist.
 (4) Ist die Aufschiebung der Bekanntmachung der Wiedergabe nach § 21
 Absatz 1 Satz 1 des Designgesetzes beantragt worden, so beschränkt
 sich die Eintragung der Anmeldung auf die Angaben nach Absatz 1 Nummer
-1, 4 bis 7, nach Absatz 2 Nummer 1 bis 3, 10 bis 13, sowie auf den
-Prioritätstag nach Absatz 2 Nummer 8 und 9. Wird der Schutz auf die
+1 und 3 bis 7, nach Absatz 2 Nummer 1 bis 3 und 9 bis 12 sowie auf den
+Prioritätstag nach Absatz 2 Nummer 7 und 8. Wird der Schutz auf die
 Schutzdauer nach § 27 Absatz 2 des Designgesetzes erstreckt (§ 21
 Absatz 2 Satz 1 des Designgesetzes), so werden die übrigen Angaben
 nach Maßgabe der Absätze 1 und 2 in das Designregister aufgenommen.
@@ -566,7 +575,7 @@ in das Designregister aufzunehmen:
     dieses Verfahrens,
 
 
-5.  dass eine Sammeleintragung geteilt wurde (§ 18),
+5.  dass ein Design aus einer Sammeleintragung abgeteilt wurde (§ 18),
 
 
 6.  dass ein gerichtliches Verfahren gemäß § 9 Absatz 1 des Designgesetzes
@@ -595,12 +604,16 @@ in das Designregister aufzunehmen:
 
 Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und
 Markenamt eine Urkunde über die Eintragung des Designs, sofern er
-hierauf nicht ausdrücklich verzichtet hat.
+hierauf nicht ausdrücklich verzichtet hat. Besteht die Wiedergabe des
+Designs aus mehreren Darstellungen und wurde kein Antrag auf
+Aufschiebung der Bekanntmachung der Wiedergabe gestellt (§ 21 Absatz 1
+Satz 1 des Designgesetzes), so legt das Deutsche Patent- und Markenamt
+fest, welche Darstellung in die Urkunde aufgenommen wird.
 
 
 ### § 18 Teilung einer Sammeleintragung
 
-(1) Für die Teilung einer Sammeleintragung gilt § 12 Absatz 1, 2 und 4
+(1) Für die Teilung einer Sammeleintragung gilt § 12 Absatz 4
 entsprechend.
 
 (2) Betrifft ein Antrag auf Eintragung eines Rechtsübergangs nach § 28
@@ -780,16 +793,7 @@ geistiges Eigentum die Mitteilung absendet, gegenüber dem Deutschen
 Patent- und Markenamt Stellung nehmen.
 
 
-### § 24 Umschreibung internationaler Eintragungen
-
-Das Deutsche Patent- und Markenamt bestätigt auf Antrag des neuen
-Eigentümers des eingetragenen Designs die Eintragung des
-Inhaberwechsels nach Regel 21 Absatz 1 Buchstabe b Ziffer ii der
-Gemeinsamen Ausführungsordnung zu den Fassungen des Haager Abkommens
-von 1999, 1960 und 1934 (BGBl. 2008 II S. 1341, 1342) für die
-Umschreibung der internationalen Eintragung, sofern der neue
-Eigentümer die Rechtsnachfolge nachweist. § 28 Absatz 3 der DPMA-
-Verordnung gilt für den Nachweis des Rechtsübergangs entsprechend.
+### § 24 (weggefallen)
 
 
 ### § 25 Nachträgliche Schutzentziehung
@@ -803,11 +807,12 @@ und 22 entsprechend.
 ## Abschnitt 6 - Schlussvorschriften
 
 
-### § 26 Aufbewahrung der Wiedergabe des eingetragenen Designs
+### § 26 Aufbewahrung der Wiedergabe des Designs
 
-Das Deutsche Patent- und Markenamt bewahrt die Wiedergabe des
-eingetragenen Designs (§ 7) auch nach der Löschung der Eintragung im
-Designregister dauerhaft auf.
+Das Deutsche Patent- und Markenamt bewahrt die Wiedergabe des Designs
+(§ 7) auch nach der Löschung der Eintragung im Designregister
+dauerhaft auf. Für sonstige Wiedergaben, deren Rückgabe nicht
+beantragt worden ist, gilt dies entsprechend.
 
 
 ### § 27 Übergangsregelungen
@@ -818,4 +823,8 @@ Wiedergaben keine Anwendung.
 (2) § 22 findet Anwendung auf alle Anträge zur Feststellung oder
 Erklärung der Nichtigkeit eines eingetragenen Designs, die ab dem 1.
 Januar 2014 bei dem Deutschen Patent- und Markenamt eingegangen sind.
+
+(3) Für Anmeldungen, die vor dem 1. Juli 2026 eingereicht worden sind,
+gelten die §§ 10 und 11 in der bis einschließlich 30. Juni 2026
+geltenden Fassung.
 
