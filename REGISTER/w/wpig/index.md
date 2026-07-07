@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 2021, 990
 
 Zuletzt geändert durch
-:   Art. 45 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 18 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 25.3.2026 I Nr. 81
 
 Mittelbare änderung durch
-:   Art. 27a G v. 25.3.2026 I Nr. 81 mWv 30.12.2026 noch nicht berücksichtigt
+:   Art. 27a G v. 25.3.2026 I Nr. 81 ist berücksichtigt
 
 Änderung durch
 :   Art. 9 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -1178,16 +1175,16 @@ gilt auch für
 
 4.  Personen und Unternehmen, die mit einer Person oder einem Unternehmen
     im Sinne der Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden
-    sind. Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch
-    für Beschäftigte oder Mitglieder eines Organs einer solchen Person
-    oder eines solchen Unternehmens. Mitglieder eines Organs und
-    Beschäftigte haben auf Verlangen auch nach ihrem Ausscheiden aus dem
-    Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen
-    vorzulegen.
+    sind.
 
 
 
-Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die
+Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für
+Beschäftigte oder Mitglieder eines Organs einer solchen Person oder
+eines solchen Unternehmens. Mitglieder eines Organs und Beschäftigte
+haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ oder dem
+Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Auf
+Verlangen der Bundesanstalt hat der Vorlagepflichtige die
 einzureichenden Unterlagen gemäß § 76 Absatz 1 auf seine Kosten durch
 einen von der Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen
 zu lassen. Die Bundesanstalt kann Maßnahmen nach Absatz 4 Satz 2 und 3
