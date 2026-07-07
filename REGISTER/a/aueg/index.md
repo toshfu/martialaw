@@ -1149,8 +1149,8 @@ vor Beginn jeder Überlassung der zuständigen Behörde der
 Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit
 folgenden Angaben zuzuleiten:
 
-1.  Familienname, Vornamen und Geburtsdatum des überlassenen
-    Leiharbeitnehmers,
+1.  Familienname, Vornamen, Geburtsdatum, Staatsangehörigkeit und
+    Kontaktdaten des überlassenen Leiharbeitnehmers,
 
 
 2.  Beginn und Dauer der Überlassung,
@@ -1167,10 +1167,14 @@ folgenden Angaben zuzuleiten:
     Zustellungsbevollmächtigten des Verleihers,
 
 
-6.  Branche, in die die Leiharbeitnehmer überlassen werden sollen, und
+6.  Branche, in die die Leiharbeitnehmer überlassen werden sollen,
 
 
-7.  Familienname, Vornamen oder Firma sowie Anschrift des Entleihers.
+7.  Tätigkeit oder Position des überlassenen Leiharbeitnehmers für die
+    Dauer der Überlassung und
+
+
+8.  Familienname, Vornamen oder Firma sowie Anschrift des Entleihers.
 
 
 
@@ -1181,10 +1185,10 @@ melden.
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne
 Zustimmung des Bundesrates bestimmen,
 
-1.  dass, auf welche Weise und unter welchen technischen und
-    organisatorischen Voraussetzungen eine Anmeldung, Änderungsmeldung und
-    Versicherung abweichend von den Absätzen 1 und 2 elektronisch
-    übermittelt werden kann,
+1.  in welchem Fall, auf welche Weise und unter welchen technischen und
+    organisatorischen Voraussetzungen eine Anmeldung oder eine
+    Änderungsmeldung abweichend von Absatz 1 elektronisch übermittelt
+    werden kann,
 
 
 2.  unter welchen Voraussetzungen eine Änderungsmeldung ausnahmsweise
