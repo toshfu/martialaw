@@ -73,7 +73,7 @@ folgenden Leistungen bezogen haben:
     Kapitel des Zwölften Buches Sozialgesetzbuch,
 
 
-3.  Bürgergeld nach dem Zweiten Buch Sozialgesetzbuch,
+3.  Grundsicherungsgeld nach dem Zweiten Buch Sozialgesetzbuch,
 
 
 4.  Leistungen nach dem Asylbewerberleistungsgesetz.
