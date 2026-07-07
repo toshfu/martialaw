@@ -244,14 +244,15 @@ Bestimmung der Lose werden folgende Kriterien zugrunde gelegt:
 
 
 (2) Bei der Losbildung werden mittelständische Interessen nach Maßgabe
-von § 97 Absatz 4 GWB berücksichtigt. In jeder Region soll mindestens
-ein im Verhältnis zu den anderen Losen kleineres Los gebildet werden,
-das mittelständischen Unternehmen eine Teilnahme ermöglicht. Bei der
-Bildung aller Lose sollen wirtschaftlich attraktive und weniger
-attraktive Standorte gebündelt werden. Das Bundesministerium für
-Verkehr und digitale Infrastruktur legt im Rahmen der Ausschreibung
-die Voraussetzungen fest, unter denen Unternehmen auf ein Los oder auf
-mehrere Lose bieten können.
+von § 97 Absatz 4 und § 97a des Gesetzes gegen
+Wettbewerbsbeschränkungen berücksichtigt. In jeder Region soll
+mindestens ein im Verhältnis zu den anderen Losen kleineres Los
+gebildet werden, das mittelständischen Unternehmen eine Teilnahme
+ermöglicht. Bei der Bildung aller Lose sollen wirtschaftlich
+attraktive und weniger attraktive Standorte gebündelt werden. Das
+Bundesministerium für Verkehr und digitale Infrastruktur legt im
+Rahmen der Ausschreibung die Voraussetzungen fest, unter denen
+Unternehmen auf ein Los oder auf mehrere Lose bieten können.
 
 (3) Sofern das Bundesministerium für Verkehr und digitale
 Infrastruktur eine Auftragsbekanntmachung oder eine Vorinformation
