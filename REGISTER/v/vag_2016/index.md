@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 434
 
 Zuletzt geändert durch
-:   Art. 56 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 25 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 25.3.2026 I Nr. 81
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
