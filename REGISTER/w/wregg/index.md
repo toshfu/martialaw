@@ -99,8 +99,9 @@ Datenbank geführt.
 
 3.  rechtskräftige Bußgeldentscheidungen, die nach § 30 des Gesetzes über
     Ordnungswidrigkeiten, auch in Verbindung mit § 130 des Gesetzes über
-    Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 oder Straftaten
-    oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind; oder
+    Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 Buchstabe a bis d
+    oder Straftaten oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind;
+    oder
 
 
 4.  rechtskräftige Bußgeldentscheidungen, die wegen Ordnungswidrigkeiten
@@ -115,19 +116,20 @@ Datenbank geführt.
 (2) In das Wettbewerbsregister werden ferner Bußgeldentscheidungen
 eingetragen, die wegen Ordnungswidrigkeiten nach § 81 Absatz 1 Nummer
 1, Absatz 2 Nummer 1 in Verbindung mit § 1 des Gesetzes gegen
-Wettbewerbsbeschränkungen ergangen sind, wenn eine Geldbuße von
-wenigstens fünfzigtausend Euro festgesetzt worden ist. Nicht
-eingetragen werden Bußgeldentscheidungen, die nach § 81a Absatz 1 bis
-3 des Gesetzes gegen Wettbewerbsbeschränkungen ergangen sind.
+Wettbewerbsbeschränkungen oder wegen Straftaten nach § 298 des
+Strafgesetzbuches ergangen sind, wenn eine Geldbuße von wenigstens
+fünfzigtausend Euro festgesetzt worden ist. Nicht eingetragen werden
+Bußgeldentscheidungen, die nach § 81a Absatz 1 bis 3 des Gesetzes
+gegen Wettbewerbsbeschränkungen ergangen sind.
 
 (3) Die Eintragung von strafgerichtlichen Entscheidungen und
 Bußgeldentscheidungen nach Absatz 1 Nummer 1 und 2 und von
-Entscheidungen gegen eine natürliche Person nach Absatz 2 erfolgt nur,
-wenn das Verhalten der natürlichen Person einem Unternehmen
-zuzurechnen ist. Das ist der Fall, wenn die natürliche Person als für
-die Leitung des Unternehmens Verantwortliche gehandelt hat, wozu auch
-die Überwachung der Geschäftsführung oder die sonstige Ausübung von
-Kontrollbefugnissen in leitender Stellung gehört.
+Entscheidungen gegen eine natürliche Person nach Absatz 1 Nummer 4 und
+Absatz 2 erfolgt nur, wenn das Verhalten der natürlichen Person einem
+Unternehmen zuzurechnen ist. Das ist der Fall, wenn die natürliche
+Person als für die Leitung des Unternehmens Verantwortliche gehandelt
+hat, wozu auch die Überwachung der Geschäftsführung oder die sonstige
+Ausübung von Kontrollbefugnissen in leitender Stellung gehört.
 
 (4) Unternehmen im Sinne dieses Gesetzes ist jede natürliche oder
 juristische Person oder eine Gruppe solcher Personen, die auf dem
@@ -315,7 +317,7 @@ Richtlinie 95/46/EG gelten die Absätze 3 und 4 entsprechend.
 (1) Ein öffentlicher Auftraggeber nach § 99 des Gesetzes gegen
 Wettbewerbsbeschränkungen ist verpflichtet, vor der Erteilung des
 Zuschlags in einem Verfahren über die Vergabe öffentlicher Aufträge
-mit einem geschätzten Auftragswert ab 30 000 Euro ohne Umsatzsteuer
+mit einem geschätzten Auftragswert ab 50 000 Euro ohne Umsatzsteuer
 bei der Registerbehörde abzufragen, ob im Wettbewerbsregister
 Eintragungen zu demjenigen Bieter, an den der öffentliche Auftraggeber
 den Auftrag zu vergeben beabsichtigt, gespeichert sind. Ein
@@ -345,12 +347,17 @@ abfragen
     Auftrags- oder Vertragswert unterhalb der Wertgrenzen nach Absatz 1,
     ob Eintragungen im Wettbewerbsregister zu demjenigen Bieter vorliegen,
     an den der Auftraggeber den Auftrag oder die Konzession zu vergeben
-    beabsichtigt, und
+    beabsichtigt,
 
 
 2.  im Rahmen eines Teilnahmewettbewerbs, ob Eintragungen im
     Wettbewerbsregister in Bezug auf diejenigen Bewerber vorliegen, die
-    der Auftraggeber zur Abgabe eines Angebots auffordern will.
+    der Auftraggeber zur Abgabe eines Angebots auffordern will, und
+
+
+3.  bei einem Direktauftrag, ob Eintragungen im Wettbewerbsregister zu
+    demjenigen Unternehmen vorliegen, von dem der Auftraggeber die
+    Leistung beschaffen will.
 
 
 
