@@ -2061,10 +2061,11 @@ aktuellen Rentenwertes fest.
     Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen
     Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld,
     Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld,
-    Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach §
-    19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für
-    Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach
-    dem Zweiten Buch oder Mutterschaftsgeld hatten.
+    Arbeitslosengeld, nicht nur darlehensweise gewährtes
+    Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder
+    nicht nur Leistungen für Erstausstattungen für Bekleidung bei
+    Schwangerschaft und Geburt nach dem Zweiten Buch oder
+    Mutterschaftsgeld hatten.
 
 
 
@@ -2209,12 +2210,12 @@ Abs. 1 des Zehnten Buches zurückzunehmen.
 (2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld,
 Kurzarbeitergeld oder Qualifizierungsgeld bezogen haben, erhalten
 Verletztengeld in Höhe des Krankengeldes nach § 47b des Fünften
-Buches. Versicherte, die nicht nur darlehensweise gewährtes Bürgergeld
-nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen
-für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt
-nach dem Zweiten Buch bezogen haben, erhalten Verletztengeld in Höhe
-des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten
-Buches.
+Buches. Versicherte, die nicht nur darlehensweise gewährtes
+Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder
+nicht nur Leistungen für Erstausstattungen für Bekleidung bei
+Schwangerschaft und Geburt nach dem Zweiten Buch bezogen haben,
+erhalten Verletztengeld in Höhe des Betrages des Grundsicherungsgeldes
+nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach
 § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben,
@@ -2319,10 +2320,11 @@ erzielten Einkommen angerechnet
 2.  Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Krankengeld
     der Soldatenentschädigung, Unterhaltsgeld, Kurzarbeitergeld,
     Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise
-    gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches;
-    dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch
-    wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf
-    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
+    gewährtes Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten
+    Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten
+    Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf
+    Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+    gemindert ist.
 
 
 
@@ -2520,18 +2522,19 @@ Rente um 10 vom Hundert.
 
 Solange Versicherte infolge des Versicherungsfalls ohne Anspruch auf
 Arbeitsentgelt oder Arbeitseinkommen sind und die Rente zusammen mit
-dem Arbeitslosengeld oder dem Bürgergeld nach § 19 Absatz 1 Satz 1 des
-Zweiten Buches nicht den sich aus § 66 Abs. 1 des Neunten Buches
-ergebenden Betrag des Übergangsgeldes erreicht, wird die Rente
+dem Arbeitslosengeld oder dem Grundsicherungsgeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches nicht den sich aus § 66 Abs. 1 des Neunten
+Buches ergebenden Betrag des Übergangsgeldes erreicht, wird die Rente
 längstens für zwei Jahre nach ihrem Beginn um den Unterschiedsbetrag
-erhöht. Der Unterschiedsbetrag wird bei dem Bürgergeld nach § 19
-Absatz 1 Satz 1 des Zweiten Buches nicht als Einkommen berücksichtigt.
-Satz 1 gilt nicht, solange Versicherte Anspruch auf weiteres
-Erwerbsersatzeinkommen (§ 18a Abs. 3 des Vierten Buches) haben, das
-zusammen mit der Rente das Übergangsgeld erreicht. Wird Bürgergeld
-nach § 19 Absatz 1 Satz 1 des Zweiten Buches nur darlehensweise
-gewährt oder erhält der Versicherte nur Leistungen nach § 24 Absatz 3
-Satz 1 des Zweiten Buches, finden die Sätze 1 und 2 keine Anwendung.
+erhöht. Der Unterschiedsbetrag wird bei dem Grundsicherungsgeld nach §
+19 Absatz 1 Satz 1 des Zweiten Buches nicht als Einkommen
+berücksichtigt. Satz 1 gilt nicht, solange Versicherte Anspruch auf
+weiteres Erwerbsersatzeinkommen (§ 18a Abs. 3 des Vierten Buches)
+haben, das zusammen mit der Rente das Übergangsgeld erreicht. Wird
+Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches nur
+darlehensweise gewährt oder erhält der Versicherte nur Leistungen nach
+§ 24 Absatz 3 Satz 1 des Zweiten Buches, finden die Sätze 1 und 2
+keine Anwendung.
 
 
 ##### § 59 Höchstbetrag bei mehreren Renten
