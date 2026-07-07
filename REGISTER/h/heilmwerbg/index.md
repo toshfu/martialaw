@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 5 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -529,21 +532,29 @@ oder überlegen ist.
 
 
 Satz 1 Nummer 2 gilt nicht für die Werbung für In-vitro-Diagnostika
-gemäß Anlage 3 zu § 3 Absatz 4 der Medizinprodukte-Abgabeverordnung,
-die sich auf die Erkennung der in Abschnitt A Nummer 1 der Anlage
-aufgeführten Krankheiten oder Leiden bei Menschen beziehen.
+für die Eigenanwendung, die für den Nachweis der in Abschnitt A Nummer
+1 der Anlage aufgeführten Krankheiten oder Leiden beim Menschen
+bestimmt sind.
 
 (2) Die Werbung für andere Mittel, Verfahren, Behandlungen oder
 Gegenstände außerhalb der Fachkreise darf sich nicht auf die
-Erkennung, Beseitigung oder Linderung der in der Anlage aufgeführten
+Erkrankung, Beseitigung oder Linderung der in der Anlage aufgeführten
 Krankheiten oder Leiden beziehen. Satz 1 gilt nicht für die Werbung
-für Verfahren oder Behandlungen
+für
 
-1.  zur Durchführung von Schwangerschaftsabbrüchen durch Ärztinnen und
-    Ärzte,
+1.  Verfahren oder Behandlungen zur Durchführung von
+    Schwangerschaftsabbrüchen durch Ärztinnen und Ärzte,
 
 
-2.  in Heilbädern, Kurorten und Kuranstalten.
+2.  Verfahren oder Behandlungen in Heilbädern, Kurorten und Kuranstalten,
+
+
+3.  die Durchführung von Testungen nach § 24 Absatz 1 Satz 2 des
+    Infektionsschutzgesetzes und
+
+
+4.  die Durchführung von Testungen aufgrund einer nach § 24 Absatz 2 Satz
+    1 Nummer 1 des Infektionsschutzgesetzes erlassenen Rechtsverordnung.
 
 
 
