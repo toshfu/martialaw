@@ -11974,16 +11974,8 @@ Euro festgesetzt werden.
 #### § 191 Aufgaben und Befugnisse
 
 Die Bundesnetzagentur nimmt die ihr nach diesem Gesetz und nach
-Artikel 5 der Verordnung (EU)
-2015/2120              sowie nach Artikel 7 Absatz 1 und Artikel 8 der
-Verordnung (EU) 2018/302 des Europäischen Parlaments und des Rates vom
-28\. Februar 2018 über Maßnahmen gegen ungerechtfertigtes Geoblocking
-und andere Formen der Diskriminierung aufgrund der
-Staatsangehörigkeit, des Wohnsitzes oder des Ortes der Niederlassung
-des Kunden innerhalb des Binnenmarkts und zur Änderung der
-Verordnungen (EG) Nr. 2006/2004 und (EU) 2017/2394 sowie der
-Richtlinie 2009/22/EG (ABl. L 60 vom 2.3.2018, S. 1) zugewiesenen
-Aufgaben und Befugnisse wahr.
+Artikel 5 der Verordnung (EU) 2015/2120 in der Fassung vom 25.
+November 2015 zugewiesenen Aufgaben und Befugnisse wahr.
 
 
 #### § 192 Medien der Veröffentlichung
@@ -12309,9 +12301,7 @@ des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von mindestens
 Verpflichtungen von Eigentümern und Betreibern öffentlicher
 Versorgungsnetze, die keine Unternehmen sind, entsprechend.
 
-(7) Stellt die Bundesnetzagentur fest, dass ein Anbieter seine
-Verpflichtungen nach der Verordnung (EU) 2018/302 nicht erfüllt,
-gelten die Absätze 1, 2 und 5 entsprechend.
+(7) (weggefallen)
 
 
 #### § 203 Auskunftsverlangen und weitere Untersuchungsrechte; Übermittlungspflichten
@@ -12372,14 +12362,13 @@ erforderlich sind für
 
 
 Auskünfte nach Satz 2 Nummer 1 bis 5 dürfen nicht vor dem Zugang zum
-Markt oder als Bedingung für den Zugang verlangt werden. Satz 1 gilt
-entsprechend für Anbieter im Sinne von Artikel 2 Nummer 18 der
-Verordnung (EU) 2018/302. Reichen die von den in den Satz 1 genannten
-Unternehmen übermittelten Informationen für die Bundesnetzagentur
-nicht aus, um ihre Regulierungsaufgaben wahrzunehmen, können auch
-andere Unternehmen, die in der Telekommunikation oder in eng damit
-verbundenen Sektoren tätig sind, zur Erteilung von Auskünften über die
-in den Sätzen 1 und 2 genannten Zwecke verpflichtet werden.
+Markt oder als Bedingung für den Zugang verlangt werden. Reichen die
+von den in den Satz 1 genannten Unternehmen übermittelten
+Informationen für die Bundesnetzagentur nicht aus, um ihre
+Regulierungsaufgaben wahrzunehmen, können auch andere Unternehmen, die
+in der Telekommunikation oder in eng damit verbundenen Sektoren tätig
+sind, zur Erteilung von Auskünften über die in den Sätzen 1 und 2
+genannten Zwecke verpflichtet werden.
 
 (2) Soweit es zur Erfüllung der nach diesem Gesetz oder der weiteren
 ihr zugewiesenen Aufgaben und Befugnisse nach § 191 erforderlich ist,
@@ -13726,34 +13715,7 @@ Kommunikation nach Artikel 2 Absatz 2 Nummer 3 der Verordnung (EU)
 
 
 
-(6) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2018/302 des
-Europäischen Parlaments und des Rates vom 28. Februar 2018 über
-Maßnahmen gegen ungerechtfertigtes Geoblocking und andere Formen der
-Diskriminierung aufgrund der Staatsangehörigkeit, des Wohnsitzes oder
-des Ortes der Niederlassung des Kunden innerhalb des Binnenmarkts und
-zur Änderung der Verordnungen (EG) Nr. 2006/2004 und (EU) 2017/2394
-sowie der Richtlinie 2009/22/EG (ABl. L 60I vom 2.3.2018, S. 1)
-verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  entgegen Artikel 3 Absatz 1 einen Zugang zur Online-Benutzeroberfläche
-    sperrt oder beschränkt,
-
-
-2.  entgegen Artikel 3 Absatz 2 Unterabsatz 1 einen Kunden zu einer dort
-    genannten Version der Online-Benutzeroberfläche weiterleitet,
-
-
-3.  entgegen Artikel 4 Absatz 1 unterschiedliche Allgemeine
-    Geschäftsbedingungen anwendet oder
-
-
-4.  entgegen Artikel 5 Absatz 1 unterschiedliche Bedingungen für einen
-    Zahlungsvorgang anwendet.
-
-
-
-
-(7) Die Ordnungswidrigkeit kann geahndet werden
+(6) Die Ordnungswidrigkeit kann geahndet werden
 
 1.  in den Fällen des
 
@@ -13776,8 +13738,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 3.  in den Fällen des Absatzes 2 Nummer 10, 37 bis 38, 46, 49, 50, 53 und
-    60 und des Absatzes 6 mit einer Geldbuße von bis zu dreihunderttausend
-    Euro,
+    60 mit einer Geldbuße von bis zu dreihunderttausend Euro,
 
 
 4.  in den Fällen des Absatzes 2 Nummer 3 Buchstabe c, Nummer 6 bis 8, 14
@@ -13796,37 +13757,32 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 
-(8) Bei einer juristischen Person oder Personenvereinigung mit einem
-durchschnittlichen Jahresumsatz von mehr als
+(7) Gegenüber einer juristischen Person oder Personenvereinigung mit
+einem Gesamtumsatz von mehr als 50 Millionen Euro kann abweichend von
+Absatz 6 Nummer 1 Buchstabe a in Verbindung mit § 30 Absatz 2 Satz 2
+des Gesetzes über Ordnungswidrigkeiten eine Ordnungswidrigkeit nach
+Absatz 2 Nummer 19 mit einer Geldbuße bis zu 2 Prozent des
+Gesamtumsatzes geahndet werden.
 
-1.  50 Millionen Euro kann abweichend von Absatz 7 Nummer 1 Buchstabe a in
-    Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über
-    Ordnungswidrigkeiten eine Ordnungswidrigkeit nach Absatz 2 Nummer 19
-    in Verbindung mit § 30 Absatz 1 des Gesetzes über Ordnungswidrigkeiten
-    mit einer Geldbuße bis zu 2 Prozent,
+(8) Gegenüber einer juristischen Person oder Personenvereinigung mit
+einem Gesamtumsatz von mehr als 100 Millionen Euro kann abweichend von
+Absatz 6 Nummer 1 Buchstabe c in Verbindung mit § 30 Absatz 2 Satz 2
+des Gesetzes über Ordnungswidrigkeiten eine Ordnungswidrigkeit nach
+Absatz 4 Nummer 1, 2 oder 4 mit einer Geldbuße bis zu 1 Prozent des
+Gesamtumsatzes geahndet werden.
 
+(9) Gesamtumsatz im Sinne der Absätze 7 und 8 ist die Summe aller
+Umsatzerlöse, die die juristische Person oder Personenvereinigung in
+dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit
+erzielt hat. In den Gesamtumsatz sind die Gesamtumsätze aller
+Unternehmen einzubeziehen, die mit der juristischen Person oder
+Personenvereinigung nach § 3 Nummer 69 verbunden oder
+zusammengeschlossen sind. Der Gesamtumsatz kann geschätzt werden.
 
-2.  100 Millionen Euro kann abweichend von Absatz 7 Nummer 1 Buchstabe c
-    in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über
-    Ordnungswidrigkeiten eine Ordnungswidrigkeit nach Absatz 4 Nummer 1, 2
-    oder 4, jeweils in Verbindung mit § 30 Absatz 1 des Gesetzes über
-    Ordnungswidrigkeiten, mit einer Geldbuße bis zu 1 Prozent
-
-
-
-des durchschnittlichen Jahresumsatzes geahndet werden, der von der
-juristischen Person oder Personenvereinigung weltweit in den letzten
-drei Geschäftsjahren erzielt wurde, die der Behördenentscheidung
-vorausgehen. In den durchschnittlichen Jahresumsatz nach Satz 1 sind
-die durchschnittlichen Jahresumsätze aller Unternehmen einzubeziehen,
-die mit der juristischen Person oder Personenvereinigung nach § 3
-Nummer 69 verbunden oder zusammengeschlossen sind. Der
-durchschnittliche Jahresumsatz kann geschätzt werden.
-
-(9) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+(10) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
-(10) Die Bundesnetzagentur ist zuständige Vollstreckungsbehörde für
+(11) Die Bundesnetzagentur ist zuständige Vollstreckungsbehörde für
 das Verfahren wegen der Festsetzung einer Geldbuße. Die Vollstreckung
 der im gerichtlichen Ordnungswidrigkeitenverfahren verhängten Geldbuße
 und des Geldbetrages, dessen Einziehung nach § 29a des Gesetzes über
