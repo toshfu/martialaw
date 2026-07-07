@@ -484,19 +484,19 @@ nicht anzurechnen.
 (1) Geschädigte Personen erhalten einen Ausgleich für gesundheitliche
 Schädigungsfolgen als monatliche Zahlung in Höhe von
 
-1.  434 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1.  452 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
 
-2.  868 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2.  905 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
 
-3.  1 302 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3.  1 357 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
 
-4.  1 736 Euro bei einem Grad der Schädigungsfolgen von 90,
+4.  1 810 Euro bei einem Grad der Schädigungsfolgen von 90,
 
 
-5.  2 169 Euro bei einem Grad der Schädigungsfolgen von 100.
+5.  2 261 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 
 
@@ -659,8 +659,8 @@ Die Leistungen der medizinischen Versorgung umfassen insbesondere:
 ##### § 17 Leistungen bei Pflegebedürftigkeit
 
 (1) § 44 des Siebten Buches Sozialgesetzbuch gilt entsprechend. Für
-die Berechnung der Höhe des Pflegegeldes ist ein Mindestbetrag von 467
-Euro und ein Höchstbetrag von 2 075 Euro zugrunde zu legen.
+die Berechnung der Höhe des Pflegegeldes ist ein Mindestbetrag von 487
+Euro und ein Höchstbetrag von 2 163 Euro zugrunde zu legen.
 
 (2) § 13 gilt entsprechend.
 
@@ -754,8 +754,8 @@ Person günstiger ist, als Regelentgelt die bei der Beendigung des
 Wehrdienstverhältnisses bezogenen Geld- und Sachbezüge.
 
 (4) Ein Anspruch auf Krankengeld der Soldatenentschädigung besteht
-nicht, wenn unmittelbar vor der Arbeitsunfähigkeit Bürgergeld bezogen
-wurde.
+nicht, wenn unmittelbar vor der Arbeitsunfähigkeit Grundsicherungsgeld
+nach dem Zweiten Buch Sozialgesetzbuch bezogen wurde.
 
 (5) Die Berechnungsgrundlage, die dem Krankengeld der
 Soldatenentschädigung zugrunde liegt, wird entsprechend § 70 des
@@ -1246,23 +1246,23 @@ des Vierten Buches Sozialgesetzbuch gelten entsprechend.
 (1) Das monatliche Referenzeinkommen beträgt bei einer geschädigten
 Person
 
-1.  ohne abgeschlossene Schulausbildung 2 300 Euro,
+1.  ohne abgeschlossene Schulausbildung 2 398 Euro,
 
 
-2.  ohne abgeschlossene Berufsausbildung 2 379 Euro,
+2.  ohne abgeschlossene Berufsausbildung 2 480 Euro,
 
 
-3.  mit abgeschlossener Berufsausbildung 2 710 Euro,
+3.  mit abgeschlossener Berufsausbildung 2 825 Euro,
 
 
-4.  mit Techniker- oder Meisterprüfung 3 178 Euro,
+4.  mit Techniker- oder Meisterprüfung 3 313 Euro,
 
 
-5.  mit einem Bachelor- oder vergleichbaren Hochschulabschluss 3 971 Euro
+5.  mit einem Bachelor- oder vergleichbaren Hochschulabschluss 4 140 Euro
     und
 
 
-6.  mit einem Master- oder vergleichbaren Hochschulabschluss 5 277 Euro.
+6.  mit einem Master- oder vergleichbaren Hochschulabschluss 5 501 Euro.
 
 
 
@@ -1276,7 +1276,7 @@ als das nach Absatz 1 festgelegte Referenzeinkommen erzielt, ist als
 Referenzeinkommen das vor der Auswirkung der Schädigungsfolge in den
 letzten zwölf Monaten oder, wenn dies günstiger ist, in den letzten 36
 Monaten vor der Auswirkung der Schädigungsfolgen regelmäßig erzielte
-und nach § 38 zu ermittelnde Einkommen, höchstens jedoch 6 638 Euro,
+und nach § 38 zu ermittelnde Einkommen, höchstens jedoch 6 920 Euro,
 zugrunde zu legen. Bei monatlich feststehendem Einkommen wird auf die
 Ermittlung eines durchschnittlichen Einkommens verzichtet, wenn dies
 günstiger ist.
@@ -1427,7 +1427,7 @@ wurde.
 ### § 43 Ausgleichszahlung an Witwen und Witwer
 
 (1) Die Witwe oder der Witwer der geschädigten Person erhält eine
-monatliche Ausgleichszahlung in Höhe von 778 Euro. § 13 gilt
+monatliche Ausgleichszahlung in Höhe von 811 Euro. § 13 gilt
 entsprechend.
 
 (2) Der Anspruch auf die monatliche Ausgleichszahlung erlischt, wenn
@@ -1521,12 +1521,12 @@ Leistung und den Zeitraum, für den diese gezahlt wurde, ausstellt.
 
 ### § 44 Ausgleichszahlung an Waisen
 
-(1) Waisen erhalten eine monatliche Ausgleichszahlung in Höhe von 415
+(1) Waisen erhalten eine monatliche Ausgleichszahlung in Höhe von 433
 Euro. § 13 gilt entsprechend.
 
 (2) Waisen, die durch das Versterben des anderen Elternteils zu
 Vollwaisen werden, erhalten eine monatliche Ausgleichszahlung in Höhe
-von 674 Euro. § 13 gilt entsprechend.
+von 703 Euro. § 13 gilt entsprechend.
 
 (3) Die Ausgleichszahlung wird bis zu dem Kalendermonat gezahlt, in
 dem die Waise das 27. Lebensjahr vollendet.
@@ -1556,7 +1556,7 @@ Person das 18. Lebensjahr vollendet hätte.
 
 (2) Die monatliche Ausgleichszahlung an Eltern beträgt für jedes Kind,
 das an der Schädigungsfolge der Wehrdienstbeschädigung verstorben ist,
-311 Euro. Sind mehrere anspruchsberechtigte Elternteile vorhanden, so
+324 Euro. Sind mehrere anspruchsberechtigte Elternteile vorhanden, so
 wird die monatliche Ausgleichszahlung unter den anspruchsberechtigten
 Elternteilen zu gleichen Teilen aufgeteilt.
 
@@ -2714,7 +2714,7 @@ eingetreten sind.
 
 Die Geldleistung nach § 83 bleibt bei anderen Sozialleistungen und bei
 den Leistungen nach dem Asylbewerberleistungsgesetz als Einkommen
-unberücksichtigt, soweit sie den Betrag von 1 209 Euro nicht
+unberücksichtigt, soweit sie den Betrag von 1 260 Euro nicht
 überschreitet. § 13 gilt entsprechend.
 
 
