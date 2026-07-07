@@ -1390,10 +1390,6 @@ zuständigen Behörde mindestens alle zwei Jahre oder auf Anforderung
 eine Liste der belieferten Einrichtungen der medizinischen Versorgung.
 
 
-### § 8f (weggefallen)
-
-
-
 ### § 8f Untersuchungslabore
 
 Die für Gewebespender nach § 8d Abs. 1 Satz 2 Nr. 3 vorgeschriebenen
