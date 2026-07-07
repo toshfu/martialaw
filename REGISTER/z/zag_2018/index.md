@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2446 (2019 I 1113)
 
 Zuletzt geändert durch
-:   Art. 43 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 17 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitett
+:   Art. 17 G v. 25.3.2026 I Nr. 81
 
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
