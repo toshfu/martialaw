@@ -24,7 +24,7 @@ Mittelbare änderung durch
 :   Art. 2 G v. 3.2.2026 I Nr. 30 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 Abs. 1 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 1 G v. 23.2.2026 I Nr. 47 ist berücksichtigt
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2018/645 des
 Europäischen Parlaments und des Rates vom 18. April 2018 zur Änderung
