@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 8.12.2025 I Nr. 318
 
+Änderung durch
+:   Art. 7 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
