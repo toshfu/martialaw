@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 1437
 
 Zuletzt geändert durch
-:   Art. 20 G v. 6.5.2024 I Nr. 149
+:   Art. 15 Abs. 5 G v. 3.7.2026 I Nr. 199
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war.
@@ -68,8 +68,7 @@ gleichwertig, wenn
     b)  das elektronische Dokument vom Anleger oder, wenn der Anleger eine
         juristische Person oder eine andere rechtsfähige Personenvereinigung
         ist, von deren Vertreter mit seiner qualifizierten elektronischen
-        Signatur versehen oder von dem De-Mail-Konto des Anlegers nach § 5
-        Absatz 5 des De-Mail-Gesetzes versandt wird, oder
+        Signatur versehen wird, oder
 
 
 
