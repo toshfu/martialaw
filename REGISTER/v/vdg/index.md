@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2745
 
 Zuletzt geändert durch
-:   Art. 28 G v. 2.12.2025 I Nr. 301
+:   Art. 15 Abs. 14 G v. 3.7.2026 I Nr. 199
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -605,15 +605,8 @@ Absatz 1 der Verordnung (EU) Nr. 910/2014.
 ## Teil 4 - Qualifizierte Dienste für die Zustellung elektronischer Einschreiben
 
 
-### § 18 Dienste für die Zustellung elektronischer Einschreiben
+### § 18 (weggefallen)
 
-Liegt der Konformitätsbewertungsstelle für einen qualifizierten Dienst
-für die Zustellung elektronischer Einschreiben eine Akkreditierung
-nach Abschnitt 4 des De-Mail-Gesetzes vor, so soll die
-Konformitätsbewertungsstelle die Konformitätsbewertung dieses
-qualifizierten Dienstes nach Möglichkeit auf die Prüfung der Nachweise
-beschränken, die im Rahmen der Akkreditierung nach § 18 Absatz 3 des
-De-Mail-Gesetzes erbracht worden sind.
 
 
 ## Teil 5 - Schlussvorschriften
