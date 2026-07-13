@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.5.2026 I Nr. 137
-
-Änderung durch
-:   Art. 3 G v. 22.6.2026 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 Abs. 7 G v. 3.7.2026 I Nr. 199
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -2418,8 +2415,7 @@ Erwerbsvorgang.
 den Absätzen 2 und 3 anzumelden. Elektronische Anmeldungen sind
 zulässig über:
 
-1.  die vom Bundeskartellamt eingerichtete zentrale E-Mail-Adresse für
-    Dokumente mit qualifizierter elektronischer Signatur,
+1.  (weggefallen)
 
 
 2.  das besondere elektronische Behördenpostfach gegen ein elektronisches
