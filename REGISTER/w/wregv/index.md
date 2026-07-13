@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 809
 
-Geändert durch
-:   Art. 6 G v. 27.4.2026 I Nr. 119
+Zuletzt geändert durch
+:   Art. 15 Abs. 8 G v. 3.7.2026 I Nr. 199
 
 
 ## Eingangsformel
@@ -76,10 +76,7 @@ der IT-Sicherheit sind zu beachten.
 2.  eine durch die Registerbehörde bestimmte amtliche Schnittstelle,
 
 
-3.  einen Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht nach § 4 Absatz 1 Satz 2 des De-
-    Mail-Gesetzes angemeldet ist und seine sichere Anmeldung nach § 5
-    Absatz 5 des De-Mail-Gesetzes bestätigt ist,
+3.  (weggefallen)
 
 
 4.  ein besonderes elektronisches Anwaltspostfach im Sinne des § 31a der
