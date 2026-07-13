@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 23.4.2026 I Nr. 111
 
+Änderung durch
+:   Art. 6 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
@@ -738,22 +741,22 @@ tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu
 machen.
 
 (4) Auskunftsverlangen nach Absatz 2 dürfen nur auf Antrag der
-Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer
-oder seiner Vertretung durch das Gericht angeordnet werden. Bei Gefahr
-im Verzug kann die Anordnung durch die Präsidentin oder den
-Präsidenten des Bundeskriminalamtes oder ihre oder seine Vertretung
-getroffen werden. In diesem Fall ist die gerichtliche Entscheidung
-unverzüglich nachzuholen. Die Sätze 1 bis 3 finden keine Anwendung,
-wenn die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat
-oder haben muss oder wenn die Nutzung der Daten bereits durch eine
-gerichtliche Entscheidung gestattet wird. Das Vorliegen der
-Voraussetzungen nach Satz 4 ist aktenkundig zu machen.
+zuständigen Abteilungsleitung des Bundeskriminalamtes oder deren
+Vertretung angeordnet werden. Bei Gefahr im Verzug kann die Anordnung
+durch die zuständige Abteilungsleitung des Bundeskriminalamtes oder
+deren Vertretung getroffen werden. In diesem Fall ist die gerichtliche
+Entscheidung unverzüglich nachzuholen. Soweit die Anordnung der
+zuständigen Abteilungsleitung des Bundeskriminalamtes oder deren
+Vertretung nicht binnen drei Tagen durch das Gericht bestätigt wird,
+tritt sie außer Kraft.
 
 (5) Die betroffene Person ist in den Fällen der Absätze 2 und 3 über
-die Beauskunftung zu benachrichtigen. Die Benachrichtigung erfolgt,
-soweit und sobald hierdurch der Zweck der Auskunft nicht vereitelt
-wird. Sie unterbleibt, wenn ihr überwiegende schutzwürdige Belange
-Dritter oder der betroffenen Person selbst entgegenstehen. Wird die
+die Beauskunftung zu benachrichtigen. Die Benachrichtigung durch das
+Bundeskriminalamt erfolgt, soweit und sobald hierdurch der Zweck der
+Auskunft nicht vereitelt wird und nicht die Zuständigkeit einer
+anderen Polizeibehörde für die weitere Sachverhaltsaufklärung besteht.
+Sie unterbleibt, wenn ihr überwiegende schutzwürdige Belange Dritter
+oder der betroffenen Person selbst entgegenstehen. Wird die
 Benachrichtigung nach Satz 2 zurückgestellt oder nach Satz 3 von ihr
 abgesehen, sind die Gründe aktenkundig zu machen.
 
@@ -1668,13 +1671,11 @@ Stelle darauf hinzuweisen.
 (7) Die Einrichtung eines automatisierten Verfahrens für die
 Übermittlung von personenbezogenen Daten durch Abruf aus dem
 Informationssystem ist unter Beachtung des § 12 Absatz 2 bis 4 nur zur
-Erfüllung vollzugspolizeilicher Aufgaben mit Zustimmung des
-Bundesministeriums des Innern, für Bau und Heimat und der
-Innenministerien und Senatsinnenverwaltungen der Länder zulässig,
-soweit diese Form der Datenübermittlung unter Berücksichtigung der
-schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl
-der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit
-angemessen ist. § 81 Absatz 2 gilt entsprechend.
+Erfüllung vollzugspolizeilicher Aufgaben zulässig, soweit diese Form
+der Datenübermittlung unter Berücksichtigung der schutzwürdigen
+Interessen der betroffenen Personen wegen der Vielzahl der
+Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen
+ist. § 81 Absatz 2 gilt entsprechend.
 
 (8) Die Verantwortung für die Zulässigkeit der Übermittlung trägt das
 Bundeskriminalamt. Erfolgt die Übermittlung in den Fällen der Absätze
@@ -2455,9 +2456,9 @@ Justiz und für Verbraucherschutz ein.
 3, soweit sie aufgrund des Ersuchens eines Staates erfolgen, der nicht
 Mitgliedstaat der Europäischen Union ist, bedürfen der Anordnung durch
 das Gericht. Soweit Maßnahmen nach Absatz 1 Nummer 3 und Absatz 4
-keiner gerichtlichen Anordnung bedürfen, werden sie durch die
-zuständige Abteilungsleitung des Bundeskriminalamtes oder deren
-Vertretung angeordnet. Die Anordnung ist aktenkundig zu machen.
+Nummer 3 und 4 keiner gerichtlichen Anordnung bedürfen, werden sie
+durch die zuständige Abteilungsleitung des Bundeskriminalamtes oder
+deren Vertretung angeordnet. Die Anordnung ist aktenkundig zu machen.
 
 (6) Anordnungen nach Absatz 1 Nummer 3 und Absatz 4 Nummer 3 sind auf
 höchstens ein Jahr zu befristen. Spätestens nach Ablauf von sechs
@@ -2822,6 +2823,23 @@ Ermittlungen in deren Zuständigkeitsbereich, sofern nicht
 schwerwiegende Gründe entgegenstehen. Zu den Ermittlungshandlungen
 sollen, soweit es zweckmäßig ist, Beamtinnen und Beamte der örtlich
 zuständigen Polizeidienststellen hinzugezogen werden.
+
+(1a) Ermittlungspersonen der zuständigen Staatsanwaltschaft nach
+Absatz 1 Satz 2 sind in den Fällen des § 4 Absatz 1 und 2 und des § 36
+Absatz 1 ferner Beamtinnen und Beamte sowie Tarifbeschäftigte der
+Polizei, die nicht dem Polizeivollzugsdienst angehören, soweit ihnen
+Polizeivollzugsaufgaben im Rahmen der Beweiserhebung, -sicherung und
+-auswertung, insbesondere des Wirtschaftsprüfdienstes, der Finanz-
+und Internetermittlungen, der verfahrensintegrierten
+Vermögensabschöpfung, der forensischen Informations-  und
+Kommunikationstechnik, der Besuchsüberwachung nach § 119 der
+Strafprozessordnung, der Durchsicht von Papieren und elektronischen
+Speichermedien oder der Telekommunikationsüberwachung übertragen
+worden sind, sie mindestens zwei Jahre in den bezeichneten
+Aufgabenbereichen tätig sind und das 21. Lebensjahr vollendet haben.
+Ermittlungspersonen nach Satz 1 sind ausschließlich zur Durchführung
+von Maßnahmen im Rahmen der übertragenen Polizeivollzugsaufgaben
+befugt.
 
 (2) Die polizeilichen Dienststellen des Bundes und der Länder geben
 dem Bundeskriminalamt in Fällen, in denen es im Rahmen seiner
@@ -3382,15 +3400,15 @@ bestimmter Tatsachen anzunehmen ist, dass
 Die Maßnahme darf auch durchgeführt werden, wenn andere Personen
 unvermeidbar betroffen werden.
 
-(3) Maßnahmen nach Absatz 1 dürfen nur auf Antrag der Präsidentin oder
-des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner
-Vertretung durch das Gericht angeordnet werden. Bei Gefahr im Verzug
-kann die Anordnung auch durch die Präsidentin oder den Präsidenten des
-Bundeskriminalamtes oder ihre oder seine Vertretung getroffen werden.
-In diesem Fall ist die gerichtliche Entscheidung unverzüglich
-nachzuholen. Soweit die Anordnung der Präsidentin oder des Präsidenten
-des Bundeskriminalamtes oder ihrer oder seiner Vertretung nicht binnen
-drei Tagen durch das Gericht bestätigt wird, tritt sie außer Kraft.
+(3) Maßnahmen nach Absatz 1 dürfen nur auf Antrag der zuständigen
+Abteilungsleitung des Bundeskriminalamtes oder deren Vertretung durch
+das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung
+durch die zuständige Abteilungsleitung des Bundeskriminalamtes oder
+deren Vertretung getroffen werden. In diesem Fall ist die gerichtliche
+Entscheidung unverzüglich nachzuholen. Soweit die Anordnung der
+Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer
+oder seiner Vertretung nicht binnen drei Tagen durch das Gericht
+bestätigt wird, tritt sie außer Kraft.
 
 (4) Im Antrag sind anzugeben:
 
@@ -3463,15 +3481,15 @@ Benachrichtigung zu löschen. Ist die Datenschutzkontrolle nach § 69
 Absatz 1 noch nicht beendet, ist die Dokumentation bis zu ihrem
 Abschluss aufzubewahren.
 
-(8) Bei Gefahr im Verzug kann die Präsidentin oder der Präsident des
-Bundeskriminalamtes oder ihre oder seine Vertretung im Benehmen mit
-der oder dem Datenschutzbeauftragten des Bundeskriminalamtes über die
-Verwertung der Erkenntnisse entscheiden. Bei der Sichtung der
-erhobenen Daten kann sie oder er sich der technischen Unterstützung
-von zwei weiteren Bediensteten des Bundeskriminalamtes bedienen, von
-denen einer die Befähigung zum Richteramt haben muss. Die Bediensteten
-des Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen
-bekannt werdenden Erkenntnisse, die nicht verwertet werden dürfen,
+(8) Bei Gefahr im Verzug kann die zuständige Abteilungsleitung des
+Bundeskriminalamtes oder deren Vertretung im Benehmen mit der oder dem
+Datenschutzbeauftragten des Bundeskriminalamtes über die Verwertung
+der Erkenntnisse entscheiden. Bei der Sichtung der erhobenen Daten
+kann sie sich der technischen Unterstützung von zwei weiteren
+Bediensteten des Bundeskriminalamtes bedienen, von denen einer die
+Befähigung zum Richteramt haben muss. Die Bediensteten des
+Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen bekannt
+werdenden Erkenntnisse, die nicht verwertet werden dürfen,
 verpflichtet. Die gerichtliche Entscheidung nach Absatz 7 ist
 unverzüglich nachzuholen.
 
@@ -3575,7 +3593,7 @@ beschränken; es darf sich nicht auf personenbezogene Daten erstrecken,
 die einem Berufs- oder besonderen Amtsgeheimnis unterliegen. Von
 Übermittlungsersuchen nicht erfasste personenbezogene Daten dürfen
 übermittelt werden, wenn wegen erheblicher technischer Schwierigkeiten
-oder wegen eines unangemessenen Zeit- oder Kostenaufwands eine
+oder wegen eines unangemessenen Zeit-  oder Kostenaufwands eine
 Beschränkung auf die angeforderten Daten nicht möglich ist; diese
 Daten dürfen vom Bundeskriminalamt nicht verwendet werden.
 
@@ -3592,9 +3610,9 @@ Absehen von der Benachrichtigung zu löschen. Ist die
 Datenschutzkontrolle nach § 69 Absatz 1 noch nicht beendet, ist die
 Dokumentation bis zu ihrem Abschluss aufzubewahren.
 
-(4) Die Maßnahme darf nur auf Antrag der Präsidentin oder des
-Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung
-durch das Gericht angeordnet werden.
+(4) Die Maßnahme darf nur auf Antrag der zuständigen Abteilungsleitung
+des Bundeskriminalamtes oder deren Vertretung durch das Gericht
+angeordnet werden.
 
 
 ### § 49 Verdeckter Eingriff in informationstechnische Systeme
@@ -3653,9 +3671,9 @@ entsprechend § 17 oder § 18 des Bundespolizeigesetzes verantwortlich
 ist. Die Maßnahme darf auch durchgeführt werden, wenn andere Personen
 unvermeidbar betroffen werden.
 
-(4) Die Maßnahme nach Absatz 1 darf nur auf Antrag der Präsidentin
-oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner
-Vertretung durch das Gericht angeordnet werden.
+(4) Die Maßnahme darf nur auf Antrag der zuständigen Abteilungsleitung
+des Bundeskriminalamtes oder deren Vertretung durch das Gericht
+angeordnet werden.
 
 (5) Im Antrag sind anzugeben:
 
@@ -3721,15 +3739,15 @@ verwendet werden. Sie ist sechs Monate nach der Benachrichtigung nach
 die Datenschutzkontrolle nach § 69 Absatz 1 noch nicht beendet, ist
 die Dokumentation bis zu ihrem Abschluss aufzubewahren.
 
-(8) Bei Gefahr im Verzug kann die Präsidentin oder der Präsident des
-Bundeskriminalamtes oder ihre oder seine Vertretung im Benehmen mit
-der oder dem Datenschutzbeauftragten des Bundeskriminalamtes über die
-Verwertung der Erkenntnisse entscheiden. Bei der Sichtung der
-erhobenen Daten kann sie oder er sich der technischen Unterstützung
-von zwei weiteren Bediensteten des Bundeskriminalamtes bedienen, von
-denen einer die Befähigung zum Richteramt haben muss. Die Bediensteten
-des Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen
-bekannt werdenden Erkenntnisse, die nicht verwertet werden dürfen,
+(8) Bei Gefahr im Verzug kann die zuständige Abteilungsleitung des
+Bundeskriminalamtes oder deren Vertretung im Benehmen mit der oder dem
+Datenschutzbeauftragten des Bundeskriminalamtes über die Verwertung
+der Erkenntnisse entscheiden. Bei der Sichtung der erhobenen Daten
+kann sie sich der technischen Unterstützung von zwei weiteren
+Bediensteten des Bundeskriminalamtes bedienen, von denen einer die
+Befähigung zum Richteramt haben muss. Die Bediensteten des
+Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen bekannt
+werdenden Erkenntnisse, die nicht verwertet werden dürfen,
 verpflichtet. Die gerichtliche Entscheidung nach Absatz 7 ist
 unverzüglich nachzuholen.
 
@@ -3808,15 +3826,15 @@ und 3 müssen sie auch über solche Postsendungen erteilen, die sich
 noch nicht oder nicht mehr in ihrem Gewahrsam befinden.
 
 (3) Maßnahmen nach den Absätzen 1 und 2 dürfen nur auf Antrag der
-Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer
-oder seiner Vertretung durch das Gericht angeordnet werden. Bei Gefahr
-im Verzug kann die Anordnung durch die Präsidentin oder den
-Präsidenten des Bundeskriminalamtes oder ihre oder seine Vertretung
-getroffen werden. In diesem Fall ist die gerichtliche Entscheidung
-unverzüglich nachzuholen. Soweit diese Anordnung nicht binnen drei
-Tagen durch das Gericht bestätigt wird, tritt sie außer Kraft, auch
-wenn sie eine Auslieferung nach Absatz 1 oder eine Auskunftserteilung
-nach Absatz 2 noch nicht zur Folge gehabt hat.
+zuständigen Abteilungsleitung des Bundeskriminalamtes oder deren
+Vertretung durch das Gericht angeordnet werden. Bei Gefahr im Verzug
+kann die Anordnung durch die zuständige Abteilungsleitung des
+Bundeskriminalamtes oder deren Vertretung getroffen werden. In diesem
+Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen.
+Soweit diese Anordnung nicht binnen drei Tagen durch das Gericht
+bestätigt wird, tritt sie außer Kraft, auch wenn sie eine Auslieferung
+nach Absatz 1 oder eine Auskunftserteilung nach Absatz 2 noch nicht
+zur Folge gehabt hat.
 
 (4) Im Antrag sind anzugeben:
 
@@ -3873,14 +3891,14 @@ unverzüglich zu beenden.
 (6) Die Öffnung der ausgelieferten Postsendung und die Entscheidung
 über die Verwertbarkeit der erlangten Erkenntnisse stehen dem Gericht
 zu. Es kann die Befugnis zur Öffnung sowie die Entscheidung über die
-Verwertbarkeit auf die Präsidentin oder den Präsidenten des
-Bundeskriminalamtes oder auf ihre oder seine Vertretung übertragen,
-soweit dies erforderlich ist, um die Abwehr der Gefahr nicht durch
-Verzögerung zu gefährden. In diesen Fällen hat die Entscheidung über
-die Verwertbarkeit im Benehmen mit der oder dem
-Datenschutzbeauftragten des Bundeskriminalamtes zu erfolgen. Die
-gerichtliche Entscheidung nach Satz 1 ist unverzüglich nachzuholen.
-Die Übertragung kann jederzeit widerrufen werden.
+Verwertbarkeit auf die zuständige Abteilungsleitung des
+Bundeskriminalamtes oder deren Vertretung übertragen, soweit dies
+erforderlich ist, um die Abwehr der Gefahr nicht durch Verzögerung zu
+gefährden. In diesen Fällen hat die Entscheidung über die
+Verwertbarkeit im Benehmen mit der oder dem Datenschutzbeauftragten
+des Bundeskriminalamtes zu erfolgen. Die gerichtliche Entscheidung
+nach Satz 1 ist unverzüglich nachzuholen. Die Übertragung kann
+jederzeit widerrufen werden.
 
 (7) Ist eine Übertragung nach Absatz 6 nicht erfolgt, legt das
 Bundeskriminalamt die ausgelieferten Postsendungen unverzüglich und,
@@ -3953,13 +3971,13 @@ informationstechnische Systeme eingegriffen wird, wenn
 § 49 Absatz 2 gilt entsprechend. § 49 bleibt im Übrigen unberührt.
 
 (3) Maßnahmen nach den Absätzen 1 und 2 dürfen nur auf Antrag der
-Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer
-oder seiner Vertretung durch das Gericht angeordnet werden. Bei Gefahr
-im Verzug kann die Anordnung durch die Präsidentin oder den
-Präsidenten des Bundeskriminalamtes oder ihre oder seine Vertretung
-getroffen werden. In diesem Fall ist die gerichtliche Entscheidung
-unverzüglich nachzuholen. Soweit diese Anordnung nicht binnen drei
-Tagen durch das Gericht bestätigt wird, tritt sie außer Kraft.
+zuständigen Abteilungsleitung des Bundeskriminalamtes oder deren
+Vertretung durch das Gericht angeordnet werden. Bei Gefahr im Verzug
+kann die Anordnung durch die zuständige Abteilungsleitung des
+Bundeskriminalamtes oder deren Vertretung getroffen werden. In diesem
+Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen.
+Soweit diese Anordnung nicht binnen drei Tagen durch das Gericht
+bestätigt wird, tritt sie außer Kraft.
 
 (4) Im Antrag sind anzugeben:
 
@@ -4056,15 +4074,15 @@ Absehen von der Benachrichtigung zu löschen. Ist die
 Datenschutzkontrolle nach § 69 Absatz 1 noch nicht beendet, ist die
 Dokumentation bis zu ihrem Abschluss aufzubewahren.
 
-(8) Bei Gefahr im Verzug kann die Präsidentin oder der Präsident des
-Bundeskriminalamtes oder ihre oder seine Vertretung im Benehmen mit
-der oder dem Datenschutzbeauftragten des Bundeskriminalamtes über die
-Verwertung der Erkenntnisse entscheiden. Bei der Sichtung der
-erhobenen Daten kann sie oder er sich der technischen Unterstützung
-von zwei weiteren Bediensteten des Bundeskriminalamtes bedienen, von
-denen einer die Befähigung zum Richteramt haben muss. Die Bediensteten
-des Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen
-bekannt werdenden Erkenntnisse, die nicht verwertet werden dürfen,
+(8) Bei Gefahr im Verzug kann die zuständige Abteilungsleitung des
+Bundeskriminalamtes oder deren Vertretung im Benehmen mit der oder dem
+Datenschutzbeauftragten des Bundeskriminalamtes über die Verwertung
+der Erkenntnisse entscheiden. Bei der Sichtung der erhobenen Daten
+kann sie sich der technischen Unterstützung von zwei weiteren
+Bediensteten des Bundeskriminalamtes bedienen, von denen einer die
+Befähigung zum Richteramt haben muss. Die Bediensteten des
+Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen bekannt
+werdenden Erkenntnisse, die nicht verwertet werden dürfen,
 verpflichtet. Die gerichtliche Entscheidung nach Absatz 7 ist
 unverzüglich nachzuholen.
 
@@ -4118,14 +4136,11 @@ werden. Der Diensteanbieter hat die Daten dem Bundeskriminalamt
 unverzüglich auf dem vom Bundeskriminalamt bestimmten Weg zu
 übermitteln.
 
-(3) § 51 Absatz 3 bis 6 gilt entsprechend mit der Maßgabe, dass an die
-Stelle der Präsidentin oder des Präsidenten des Bundeskriminalamtes
-oder ihrer oder seiner Vertretung die zuständige Abteilungsleitung
-oder deren Vertretung tritt. Abweichend von § 51 Absatz 4 Nummer 2 und
-Absatz 5 Satz 1 Nummer 2 genügt eine räumlich und zeitlich
-hinreichende Bezeichnung der Telekommunikation, sofern anderenfalls
-die Erreichung des Zwecks der Maßnahme aussichtslos oder wesentlich
-erschwert wäre.
+(3) § 51 Absatz 3 bis 6 gilt entsprechend. Abweichend von § 51 Absatz
+4 Nummer 2 und Absatz 5 Satz 1 Nummer 2 genügt eine räumlich und
+zeitlich hinreichende Bezeichnung der Telekommunikation, sofern
+anderenfalls die Erreichung des Zwecks der Maßnahme aussichtslos oder
+wesentlich erschwert wäre.
 
 
 ### § 53 Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten
@@ -4809,10 +4824,9 @@ sexuelle Selbstbestimmung der zu schützenden Person oder für den
 Bestand des Bundes oder eines Landes oder die freiheitlich
 demokratische Grundordnung und wenn die gesetzlichen Voraussetzungen
 für die Nutzung der Daten vorliegen. Auskunftsverlangen nach den
-Sätzen 1 und 2 dürfen nur auf Antrag der Präsidentin oder des
-Präsidenten des Bundeskriminalamts oder ihrer oder seiner Vertretung
-durch das Gericht angeordnet werden. In den Fällen des Satzes 1 ist
-Satz 3 nicht anzuwenden, wenn
+Sätzen 1 und 2 dürfen nur auf Antrag der zuständigen Abteilungsleitung
+des Bundeskriminalamtes oder deren Vertretung angeordnet werden. In
+den Fällen des Satzes 1 ist Satz 3 nicht anzuwenden, wenn
 
 1.  die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat oder
     haben muss, oder
@@ -5054,9 +5068,9 @@ zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
 sexuelle Selbstbestimmung einer der in § 7 genannten Personen und wenn
 die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
 Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag der
-Präsidentin oder des Präsidenten des Bundeskriminalamts oder ihrer
-oder seiner Vertretung durch das Gericht angeordnet werden. In den
-Fällen des Satzes 1 ist Satz 3 nicht anzuwenden, wenn
+zuständigen Abteilungsleitung des Bundeskriminalamtes oder deren
+Vertretung angeordnet werden. In den Fällen des Satzes 1 ist Satz 3
+nicht anzuwenden, wenn
 
 1.  die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat oder
     haben muss, oder
@@ -5290,16 +5304,15 @@ benachrichtigen im Falle
 
 Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige
 Belange einer betroffenen Person entgegenstehen. Zudem kann die
-Benachrichtigung einer in Satz 1 Nummer 6 bis 9 bezeichneten Person,
-gegen die sich die Maßnahme nicht gerichtet hat, unterbleiben, wenn
-diese von der Maßnahme nur unerheblich betroffen ist und anzunehmen
-ist, dass sie kein Interesse an einer Benachrichtigung hat.
-Nachforschungen zur Feststellung der Identität einer in Satz 1
-bezeichneten Person sind nur vorzunehmen, wenn dies unter
-Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser
-Person, des Aufwands für die Feststellung ihrer Identität sowie der
-daraus für diese oder andere Personen folgenden Beeinträchtigungen
-geboten ist.
+Benachrichtigung einer in Satz 1 bezeichneten Person, gegen die sich
+die Maßnahme nicht gerichtet hat, unterbleiben, wenn diese von der
+Maßnahme nur unerheblich betroffen ist und anzunehmen ist, dass sie
+kein Interesse an einer Benachrichtigung hat. Nachforschungen zur
+Feststellung der Identität einer in Satz 1 bezeichneten Person sind
+nur vorzunehmen, wenn dies unter Berücksichtigung der
+Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands
+für die Feststellung ihrer Identität sowie der daraus für diese oder
+andere Personen folgenden Beeinträchtigungen geboten ist.
 
 (2) Die Benachrichtigung erfolgt, sobald dies ohne Gefährdung des
 Zwecks der Maßnahme, des Bestandes des Staates, von Leib, Leben oder
