@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2015, 166
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 G v. 4.12.2023 I Nr. 344
+:   Art. 15 Abs. 10 G v. 3.7.2026 I Nr. 199
 
 
 ## Abschnitt 1 - Anwendungsbereich, Zuständigkeiten, Begriffsbestimmungen und Kommunikation
@@ -311,14 +311,10 @@ Die zuständigen Behörden können
 
 2.  die unmittelbare Abgabe der Erklärung in einem elektronischen
     Formular, das von der Behörde in einem Eingabegerät oder über
-    öffentlich zugängliche Netze zur Verfügung gestellt wird,
+    öffentlich zugängliche Netze zur Verfügung gestellt wird, oder
 
 
-3.  die Versendung eines elektronischen Dokuments an die Behörde mit der
-    Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes oder
-
-
-4.  sonstige Authentifizierungsverfahren, die den Anforderungen an die
+3.  sonstige Authentifizierungsverfahren, die den Anforderungen an die
     elektronische Übermittlung von Daten im Sinne des Artikels 11 Absatz 1
     der Durchführungsverordnung (EU) Nr. 809/2014 genügen,
 
