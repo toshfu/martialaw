@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 42
 
 Zuletzt geändert durch
-:   Art. 29 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 3 Abs. 3 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 3 G v. 23.2.2026 I Nr. 47
 
 
 ## Eingangsformel
