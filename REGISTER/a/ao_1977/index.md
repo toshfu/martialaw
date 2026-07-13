@@ -39,6 +39,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 3 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 15 Abs. 6 G v. 3.7.2026 I Nr. 199 ist berücksichtigt
+
 
 ## Erster Teil - Einleitende Vorschriften
 
@@ -1248,16 +1251,7 @@ soweit sie die Kraftfahrzeugsteuer, die Luftverkehrsteuer, die
 Versicherungsteuer sowie Einfuhr- und Ausfuhrabgaben und
 Verbrauchsteuern, mit Ausnahme der Biersteuer, betrifft.
 
-(7) Werden dem Steuergeheimnis unterliegende Daten durch einen
-Amtsträger oder diesem nach Absatz 3 gleichgestellte Personen nach
-Maßgabe des § 87a Absatz 4 oder 7 über De-Mail-Dienste im Sinne des §
-1 des De-Mail-Gesetzes versendet, liegt keine unbefugte Offenbarung,
-Verwertung und kein unbefugter Abruf von dem Steuergeheimnis
-unterliegenden Daten vor, wenn beim Versenden eine kurzzeitige
-automatisierte Entschlüsselung durch den akkreditierten
-Diensteanbieter zum Zweck der Überprüfung auf Schadsoftware und zum
-Zweck der Weiterleitung an den Adressaten der De-Mail-Nachricht
-stattfindet.
+(7) (weggefallen)
 
 (8) Die Einrichtung eines automatisierten Verfahrens, das den Abgleich
 geschützter Daten innerhalb einer Finanzbehörde oder zwischen
@@ -3923,14 +3917,10 @@ unberührt. Übermittelt die Finanzbehörde Daten, die dem
 Steuergeheimnis unterliegen, sind diese Daten mit einem geeigneten
 Verfahren zu verschlüsseln; soweit alle betroffenen Personen
 schriftlich eingewilligt haben, kann auf eine Verschlüsselung
-verzichtet werden. Die kurzzeitige automatisierte Entschlüsselung, die
-beim Versenden einer De-Mail-Nachricht durch den akkreditierten
-Diensteanbieter zum Zweck der Überprüfung auf Schadsoftware und zum
-Zweck der Weiterleitung an den Adressaten der De-Mail-Nachricht
-erfolgt, verstößt nicht gegen das Verschlüsselungsgebot des Satzes 3.
-Eine elektronische Benachrichtigung über die Bereitstellung von Daten
-zum Abruf oder über den Zugang elektronisch an die Finanzbehörden
-übermittelter Daten darf auch ohne Verschlüsselung übermittelt werden.
+verzichtet werden. Eine elektronische Benachrichtigung über die
+Bereitstellung von Daten zum Abruf oder über den Zugang elektronisch
+an die Finanzbehörden übermittelter Daten darf auch ohne
+Verschlüsselung übermittelt werden.
 
 (1a) Verhandlungen und Besprechungen können auch elektronisch durch
 Übertragung in Ton oder Bild und Ton erfolgen. Absatz 1 Satz 4 gilt
@@ -3965,10 +3955,7 @@ Erklärung auf Vollständigkeit und Richtigkeit zu prüfen; nach der
 Abgabe ist dem Erklärenden eine elektronische Kopie der Erklärung zu
 ermöglichen. Im Fall der Datenübermittlung im Auftrag nach § 87d tritt
 der Auftragnehmer bei Anwendung des Satzes 6 an die Stelle des
-Erklärenden. Die Schriftform kann auch durch elektronische
-Übermittlung eines von dem Erklärenden signierten Dokuments an die
-Finanzbehörde mit der Versandart nach § 5 Absatz 5 des De-Mail-
-Gesetzes ersetzt werden.
+Erklärenden.
 
 (4) Eine durch Gesetz für Verwaltungsakte oder sonstige Maßnahmen der
 Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz
@@ -3977,13 +3964,9 @@ werden. Der elektronischen Form genügt ein elektronischer
 Verwaltungsakt, der mit einer qualifizierten elektronischen Signatur
 oder einem qualifizierten elektronischen Siegel versehen ist oder in
 einem sicheren Verfahren nach Absatz 7 oder Absatz 8 übermittelt oder
-zum Abruf bereitgestellt wird. Die Schriftform kann auch ersetzt
-werden durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des
-De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten
-Diensteanbieters die erlassende Finanzbehörde als Nutzer des De-Mail-
-Kontos erkennen lässt. Für von der Finanzbehörde aufzunehmende
-Niederschriften gelten die Sätze 1 und 3 nur, wenn dies durch Gesetz
-ausdrücklich zugelassen ist.
+zum Abruf bereitgestellt wird. Für von der Finanzbehörde aufzunehmende
+Niederschriften gilt Satz 1 nur, wenn dies durch Gesetz ausdrücklich
+zugelassen ist.
 
 (5) Ist ein elektronisches Dokument Gegenstand eines Beweises, wird
 der Beweis durch Vorlegung oder Übermittlung der Datei angetreten;
@@ -4008,19 +3991,9 @@ nach § 122 Absatz 2a bekannt gegeben, ist ein sicheres Verfahren zu
 verwenden, das die übermittelnde Stelle oder Einrichtung der
 Finanzverwaltung authentifiziert und die Vertraulichkeit und
 Integrität des Datensatzes gewährleistet. Ein sicheres Verfahren liegt
-insbesondere vor, wenn der Verwaltungsakt
-
-1.  mit einer qualifizierten elektronischen Signatur versehen und mit
-    einem geeigneten Verfahren verschlüsselt ist oder
-
-
-2.  mit einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes
-    versandt wird, bei der die Bestätigung des akkreditierten
-    Diensteanbieters die erlassende Finanzbehörde als Nutzer des De-Mail-
-    Kontos erkennen lässt.
-
-
-
+insbesondere vor, wenn der Verwaltungsakt mit einer qualifizierten
+elektronischen Signatur versehen und mit einem geeigneten Verfahren
+verschlüsselt ist.
 
 (8) Wird ein elektronisch erlassener Verwaltungsakt durch
 Bereitstellung zum Abruf nach § 122a bekannt gegeben, ist ein sicheres
@@ -6664,10 +6637,7 @@ gesetzlich die Schriftform angeordnet ist, nach § 87a Absatz 4 Satz 2
 die elektronische Form mit einer qualifizierten elektronischen
 Signatur verwendet, muss das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen. Im Falle
-des §  87a Absatz 4 Satz 3 muss die Bestätigung nach § 5 Absatz 5 des
-De-Mail-Gesetzes die erlassende Finanzbehörde als Nutzer des De-Mail-
-Kontos erkennen lassen.
+Attributzertifikat die erlassende Behörde erkennen lassen.
 
 (4) Wird für einen Verwaltungsakt die elektronische Form mit einer
 qualifizierten elektronischen Signatur oder einem qualifizierten
