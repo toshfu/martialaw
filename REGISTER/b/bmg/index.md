@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 22.12.2025 I Nr. 370; I 2026 Nr. 121
 
+Änderung durch
+:   Art. 5 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 Stand: Bek. v. 16.4.2026 I Nr. 121 ist berücksichtigt
@@ -497,7 +500,7 @@ der übermittelten Daten und über die Empfänger der Daten nach Artikel
 nicht, wenn
 
 1.  eine nicht automatisierte Melderegisterauskunft nach den §§ 46 und 50
-    Absatz 1 bis 3 erfolgt ist,
+    Absatz 1 und 2 erfolgt ist,
 
 
 2.  eine nicht automatisierte Datenübermittlung nach § 34 oder eine nicht
@@ -935,9 +938,9 @@ Bestätigung des Wohnungsgebers oder dem entsprechenden
 Zuordnungsmerkmal nach § 19 Absatz 4 Satz 1 vorzulegen. Wird das
 Melderegister automatisiert geführt, kann von dem Ausfüllen des
 Meldescheins abgesehen werden, wenn die meldepflichtige Person
-persönlich bei der Meldebehörde erscheint und auf einem Ausdruck die
-Richtigkeit und Vollständigkeit der bei ihr erhobenen Daten durch ihre
-Unterschrift bestätigt.
+persönlich bei der Meldebehörde erscheint und die Richtigkeit und
+Vollständigkeit der bei ihr erhobenen Daten durch ihre Unterschrift
+oder elektronisch bestätigt.
 
 (2) Die Meldebehörde des neuen Wohnortes (Zuzugsmeldebehörde) ist
 verpflichtet, der meldepflichtigen Person die Daten der
@@ -950,10 +953,10 @@ dem vorausgefüllten Meldeschein enthalten sein. Die meldepflichtige
 Person hat die übermittelten Angaben auf ihre Richtigkeit zu prüfen,
 unzutreffende Angaben zu berichtigen und fehlende Angaben zu ergänzen.
 Sie hat den aktualisierten vorausgefüllten Meldeschein bei der
-Zuzugsmeldebehörde unterschrieben einzureichen. Im Fall, dass ein
-vorausgefüllter Meldeschein nicht erstellt werden kann, hat die
-meldepflichtige Person einen Meldeschein auszufüllen und zu
-unterschreiben.
+Zuzugsmeldebehörde unterschrieben einzureichen oder elektronisch zu
+bestätigen. Im Fall, dass ein vorausgefüllter Meldeschein nicht
+erstellt werden kann, hat die meldepflichtige Person einen Meldeschein
+auszufüllen und zu unterschreiben oder elektronisch zu bestätigen.
 
 (3) Für den vorausgefüllten Meldeschein gibt die meldepflichtige
 Person Familienname, Vornamen, Geburtsdatum sowie die letzte
@@ -997,7 +1000,11 @@ zu übermitteln (vorausgefüllter Meldeschein). Daten zum gesetzlichen
 Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern,
 für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk
 nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten
-Meldeschein enthalten sein.
+Meldeschein enthalten sein. § 23 Absatz 4 Satz 1, 2 und 4 gilt
+entsprechend, wenn die meldepflichtige Person versichert, dass sie
+berechtigt ist, die Daten des Ehegatten, Lebenspartners und der
+Familienangehörigen mit denselben Zuzugsdaten elektronisch
+anzufordern.
 
 (2) Die meldepflichtige Person hat die übermittelten Angaben auf ihre
 Richtigkeit zu prüfen, um die Angaben nach § 19 Absatz 3 Nummer 1 bis
@@ -1178,7 +1185,7 @@ nach § 23 Absatz 1.
 ## Abschnitt 4 - Besondere Meldepflichten
 
 
-### § 28 Besondere Meldepflichten für Binnenschiffer und Seeleute
+### § 28 Besondere Meldepflichten für Binnenschiffer
 
 (1) Wer auf ein Binnenschiff zieht, das in einem Schiffsregister im
 Inland eingetragen ist, hat sich bei der Meldebehörde des Ortes
@@ -1188,21 +1195,11 @@ An- und Abmeldung kann auch bei einer anderen Meldebehörde oder bei
 der Wasserschutzpolizei vorgenommen werden, die die Daten an die
 zuständige Meldebehörde weiterleitet.
 
-(2) Der Reeder eines Seeschiffes, das berechtigt ist, die Bundesflagge
-zu führen, hat den Kapitän und die Besatzungsmitglieder des Schiffes
-bei Beginn des Anstellungs-, Heuer- oder Ausbildungsverhältnisses
-anzumelden. Er hat diese Personen bei Beendigung des Anstellungs-,
-Heuer- oder Ausbildungsverhältnisses abzumelden. § 24 Absatz 1 gilt
-entsprechend. Zuständig ist die Meldebehörde am Sitz des Reeders. Die
-zu meldenden Personen haben dem Reeder die erforderlichen Auskünfte zu
-geben.
+(2) Die Meldepflicht nach Absatz 1 besteht nicht für Personen, die im
+Inland für eine Wohnung nach § 17 Absatz 1 gemeldet sind.
 
-(3) Die Meldepflicht nach den Absätzen 1 und 2 besteht nicht für
-Personen, die im Inland für eine Wohnung nach § 17 Absatz 1 gemeldet
-sind.
-
-(4) Die Meldebehörde kann von Schiffseignern und Reedern Auskunft
-verlangen über Personen, welche auf ihren Schiffen wohnen oder gewohnt
+(3) Die Meldebehörde kann von Schiffseignern Auskunft verlangen über
+Personen, welche Personen auf ihren Schiffen wohnen oder gewohnt
 haben.
 
 
@@ -2034,31 +2031,6 @@ automatisierten Abrufs trägt die abrufende Stelle. Die Meldebehörde
 überprüft die Zulässigkeit des Abrufs nur, wenn dazu Anlass besteht.
 
 
-#### § 39a Datenbestätigung für öffentliche Stellen
-
-(1) Die Meldebehörde darf Daten einer namentlich bestimmten Person,
-die sie von einer anderen öffentlichen Stelle im Wege einer
-maschinellen Anfrage erhält, automatisiert auf Übereinstimmung mit den
-im Melderegister gespeicherten Daten prüfen, soweit eine
-Datenübermittlung nach § 34 zulässig wäre. Für die Auswahldaten, die
-der Anfrage um Datenbestätigung zugrunde gelegt werden dürfen, gilt §
-38 Absatz 1 entsprechend.
-
-(2) Wird die Person mit den Auswahldaten im Melderegister eindeutig
-identifiziert und stimmen die Daten mit den im Melderegister
-gespeicherten Daten überein, bestätigt die Meldebehörde dies der
-anfragenden Stelle. Werden mit den angegebenen Daten mehrere
-übereinstimmende Datensätze gefunden, teilt die Meldebehörde diese
-Tatsache mit. Ist im Melderegister eine Auskunftssperre nach § 51
-eingetragen oder ist zu der betroffenen Person kein übereinstimmender
-Datensatz vorhanden, erhält die anfragende Stelle eine Mitteilung, die
-keine Rückschlüsse darauf zulassen darf, welcher von beiden Fällen
-vorliegt.
-
-(3) § 34 Absatz 5 und 6 sowie § 39 Absatz 1, 3 und 4 sind entsprechend
-anzuwenden.
-
-
 #### § 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung
 
 (1) Die Meldebehörde hat bei einer Personensuche im automatisierten
@@ -2622,30 +2594,6 @@ unverzüglichen Unterrichtung der betroffenen Person und der
 veranlassenden Stelle nach § 51 Absatz 3 bleibt unberührt.
 
 
-#### § 49a Datenbestätigung
-
-(1) Die Meldebehörde darf Daten einer namentlich bestimmten Person,
-die sie im Wege einer maschinellen Anfrage erhält, automatisiert auf
-Übereinstimmung mit den im Melderegister gespeicherten Daten prüfen,
-soweit eine einfache Melderegisterauskunft zulässig wäre.
-
-(2) Wird eine Person mit den Auswahldaten im Melderegister eindeutig
-identifiziert und stimmen die Daten mit den im Melderegister
-gespeicherten Daten überein, bestätigt die Meldebehörde dies der
-anfragenden Person oder Stelle. Ist dies nicht der Fall oder ist im
-Melderegister eine Auskunftssperre nach § 51 oder ein bedingter
-Sperrvermerk nach § 52 eingetragen, erhält die anfragende Person oder
-Stelle eine Mitteilung, die keine Rückschlüsse darauf zulassen darf,
-ob zu der betroffenen Person keine übereinstimmenden Daten vorhanden
-sind, eine Auskunftssperre oder ein bedingter Sperrvermerk besteht.
-
-(3) Personen, für die eine Auskunftssperre eingetragen ist, sind über
-sie betreffende Anfragen unverzüglich zu unterrichten. § 51 Absatz 3
-und 5 gilt entsprechend.
-
-(4) § 10 Absatz 2 sowie § 40 Absatz 1, 3 und 4 gelten entsprechend.
-
-
 #### § 50 Melderegisterauskünfte in besonderen Fällen
 
 (1) Die Meldebehörde darf Parteien, Wählergruppen und anderen Trägern
@@ -2684,24 +2632,7 @@ Altersjubiläen im Sinne des Satzes 1 sind der 70. Geburtstag, jeder
 fünfte weitere Geburtstag und ab dem 100. Geburtstag jeder folgende
 Geburtstag; Ehejubiläen sind das 50. und jedes folgende Ehejubiläum.
 
-(3) Adressbuchverlagen darf zu allen Einwohnern, die das 18.
-Lebensjahr vollendet haben, Auskunft erteilt werden über deren
-
-1.  Familienname,
-
-
-2.  Vornamen,
-
-
-3.  Doktorgrad und
-
-
-4.  derzeitige Anschriften.
-
-
-
-Die übermittelten Daten dürfen nur für die Herausgabe von
-Adressbüchern (Adressenverzeichnisse in Buchform) verwendet werden.
+(3) (weggefallen)
 
 (4) Die Meldebehörde hat dem Eigentümer der Wohnung und, wenn er nicht
 selbst Wohnungsgeber ist, auch dem Wohnungsgeber bei Glaubhaftmachung
@@ -2712,16 +2643,14 @@ Auskunftsberechtigten im elektronischen Verfahren erteilt werden; § 10
 Absatz 2 und 3 gilt entsprechend.
 
 (5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten
-nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der
+nach den Absätzen 1 und 2 zu widersprechen; hierauf ist bei der
 Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche
 Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene
 Person gegenüber der Meldebehörde ein Recht auf unentgeltliche
 Einrichtung einer Übermittlungssperre.
 
-(6) Eine Erteilung von Auskünften nach den Absätzen 1 bis 3
-unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt. Eine
-Auskunft nach Absatz 3 darf außerdem nicht erteilt werden, wenn ein
-bedingter Sperrvermerk nach § 52 eingetragen ist.
+(6) Eine Erteilung von Auskünften nach den Absätzen 1 und 2
+unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt.
 
 
 #### § 51 Auskunftssperren
@@ -2782,9 +2711,8 @@ unterrichten, wenn die betroffene Person nicht erreichbar ist.
 Sperrvermerk für derzeitige Anschriften der Personen ein, die nach
 Kenntnis der Meldebehörde wohnhaft gemeldet sind in
 
-1.  Pflegeheimen oder sonstigen Einrichtungen, die der Betreuung
-    pflegebedürftiger oder behinderter Menschen oder der Heimerziehung
-    dienen,
+1.  Einrichtungen, die der Betreuung behinderter Menschen oder der
+    Heimerziehung dienen,
 
 
 2.  Einrichtungen zum Schutz vor häuslicher Gewalt oder
@@ -2852,25 +2780,20 @@ Wohnanschrift anbietet oder zur Verfügung stellt.
     nicht vollständig oder nicht rechtzeitig macht,
 
 
-7.  entgegen § 28 Absatz 2 Satz 1 oder Satz 2 den Kapitän oder ein
-    Besatzungsmitglied nicht oder nicht rechtzeitig anmeldet oder nicht
-    oder nicht rechtzeitig abmeldet,
-
-
-8.  entgegen § 29 Absatz 2 Satz 1 einen besonderen Meldeschein nicht oder
+7.  entgegen § 29 Absatz 2 Satz 1 einen besonderen Meldeschein nicht oder
     nicht rechtzeitig unterschreibt,
 
 
-9.  entgegen § 30 Absatz 1 Satz 1 einen besonderen Meldeschein nicht
+8.  entgegen § 30 Absatz 1 Satz 1 einen besonderen Meldeschein nicht
     bereithält,
 
 
-10. entgegen § 30 Absatz 4 Satz 1, auch in Verbindung mit Satz 2, einen
+9.  entgegen § 30 Absatz 4 Satz 1, auch in Verbindung mit Satz 2, einen
     Meldeschein nicht oder nicht mindestens ein Jahr aufbewahrt oder Daten
     nicht oder nicht mindestens ein Jahr speichert,
 
 
-11. entgegen § 30 Absatz 4 Satz 3 einen Meldeschein nicht oder nicht
+10. entgegen § 30 Absatz 4 Satz 3 einen Meldeschein nicht oder nicht
     rechtzeitig vorlegt oder Daten nicht oder nicht rechtzeitig zur
     Verfügung stellt,
 
