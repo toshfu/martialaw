@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1208
 
 Zuletzt geändert durch
-:   Art. 10 V v. 11.12.2024 I Nr. 411
+:   Art. 15 Abs. 9 G v. 3.7.2026 I Nr. 199
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -84,9 +84,7 @@ insbesondere in Betracht
     78 Absatz 5 des Aufenthaltsgesetzes,
 
 
-3.  eine De-Mail nach § 5 des De-Mail-Gesetzes vom 28. April 2011 (BGBl. I
-    S. 666), das durch Artikel 2 des Gesetzes vom 7. August 2013 (BGBl. I
-    S. 3154) geändert worden ist, in der jeweils geltenden Fassung,
+3.  (weggefallen)
 
 
 4.  eine Erklärung, mit deren Abgabe versichert wird, dass die Person, die
