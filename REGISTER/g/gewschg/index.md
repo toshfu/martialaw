@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 10.8.2021 I 3513
 
+Änderung durch
+:   Art. 3 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
@@ -84,6 +87,32 @@ Person die Tat in einem die freie Willensbestimmung ausschließenden
 Zustand krankhafter Störung der Geistestätigkeit begangen hat, in den
 sie sich durch geistige Getränke oder ähnliche Mittel vorübergehend
 versetzt hat.
+
+
+## § 1a 
+
+
+## § 1b Aufgaben der Koordinierungsstelle; Verordnungsermächtigung
+
+(1) Im Fall einer Anordnung nach § 1a führen eine oder mehrere nach
+dem Recht des Landes, in dem das entscheidende Gericht seinen Sitz
+hat, zuständige Stellen (Koordinierungsstellen) die Anordnung nach §
+1a durch. Die Koordinierungsstelle koordiniert die Durchführung der
+Anordnung mit dem Gericht, den beteiligten Stellen und den Beteiligten
+und überwacht die Einhaltung der Anordnung durch den Täter. Die
+Aufgaben der Koordinierungsstelle können ganz oder teilweise auch auf
+andere Stellen übertragen werden.
+
+(2) Die Koordinierungsstelle weist die geschützte Person mit einem
+Vorlauf von mindestens drei Wochen auf den bevorstehenden Ablauf der
+Fristen nach § 1a Absatz 4 Satz 1 und 2 hin.
+
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+die für die Wahrnehmung der Aufgaben nach Absatz 1 zuständigen Stellen
+zu bestimmen.
+
+
+## § 1c 
 
 
 ## § 2 Überlassung einer gemeinsam genutzten Wohnung
