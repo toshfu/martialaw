@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 7.3.2024 I Nr. 91
 
+Änderung durch
+:   Art. 8 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+
 Stand: Bek. zur Wahlkreiseinteilung v. 27.12.2024 I Nr. 437 ist berücksichtigt
 
 ## Erster Abschnitt - Wahlsystem
