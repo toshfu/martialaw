@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 1 G v. 12.5.2026 I Nr. 143
 
+Änderung durch
+:   Art. 2 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung
@@ -3523,7 +3526,7 @@ Festgenommenen unverzüglich zu erfolgen.
 
 #### § 231 Irrtümliche Selbsthilfe
 
-Wer eine der im § 229 bezeichneten Handlungen in der irrigen Annahme
+Wer eine der in § 229 bezeichneten Handlungen in der irrigen Annahme
 vornimmt, dass die für den Ausschluss der Widerrechtlichkeit
 erforderlichen Voraussetzungen vorhanden seien, ist dem anderen Teil
 zum Schadensersatz verpflichtet, auch wenn der Irrtum nicht auf
