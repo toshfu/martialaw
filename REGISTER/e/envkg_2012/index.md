@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1070
 
 Zuletzt geändert durch
-:   Art. 10a G v. 16.7.2021 I 3026
-
-Änderung durch
-:   Art. 2 G v. 22.6.2026 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.6.2026 I Nr. 191
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
