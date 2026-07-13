@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2353
 
 Zuletzt geändert durch
-:   Art. 258 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 6 G v. 22.6.2026 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.6.2026 I Nr. 191
 
 
 ## § 1 Erhebungszweck, Zuständigkeit
