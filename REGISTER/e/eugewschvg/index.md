@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 10.8.2021 I 3424
 
+Änderung durch
+:   Art. 6 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Verfahrensvorschrift
 
@@ -78,6 +81,15 @@ Im Sinne dieses Abschnitts ist
 
 
 
+### § 2a Gestattung der Anhörung mittels Videokonferenz oder Fernkommunikation
+
+Für Ersuchen der Anordnungsbehörde eines anderen Mitgliedstaats um
+Gestattung der Anhörung einer Person mittels Videokonferenz oder
+Fernkommunikation nach Artikel 6 Absatz 1 Buchstabe e der Verordnung
+(EU) 2023/2844 ist das Familiengericht ausschließlich zuständig, in
+dessen Bezirk sich die anzuhörende Person aufhält.
+
+
 ### § 3 Entgegennahme und Übermittlung eines Antrags auf Erlass einer Europäischen Schutzanordnung
 
 (1) Für die Entgegennahme eines Antrags auf Erlass einer Europäischen
@@ -111,7 +123,7 @@ Gericht die Anordnungsbehörde hierüber unverzüglich in schriftlicher
 Form und setzt ihr eine angemessene Frist zur Vervollständigung.
 
 
-### § 5 Zuständigkeitskonzentration
+### § 5 Zuständigkeitskonzentration; Verordnungsermächtigungen
 
 (1) In Verfahren über eine in den §§ 3 und 4 bezeichnete Sache ist das
 Familiengericht zuständig, in dessen Bezirk ein Oberlandesgericht
@@ -120,12 +132,20 @@ seinen Sitz hat, für den Bezirk dieses Oberlandesgerichts.
 (2) Im Bezirk des Kammergerichts entscheidet das Familiengericht
 Pankow.
 
-(3) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch
-Rechtsverordnungen einem anderen Familiengericht des
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+diese Zuständigkeit einem anderen Familiengericht des
 Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere
 Oberlandesgerichte errichtet sind, einem Familiengericht für die
-Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Sie können
-die Ermächtigungen auf die Landesjustizverwaltungen übertragen.
+Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Diese
+Ermächtigung kann von der jeweiligen Landesregierung durch
+Rechtsverordnung auf die Landesjustizverwaltung übertragen werden.
+
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+die Zuständigkeit nach § 2a einem in den Absätzen 1 oder 2 oder einem
+durch Rechtsverordnung nach Absatz 3 bezeichneten Familiengericht
+zuzuweisen. Diese Ermächtigung kann von der jeweiligen Landesregierung
+durch Rechtsverordnung auf die Landesjustizverwaltung übertragen
+werden.
 
 
 ### § 6 Versagung der Anerkennung einer Europäischen Schutzanordnung
