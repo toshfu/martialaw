@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 10.9.2021 I 4229
 
+Änderung durch
+:   Art. 15 Abs. 4 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
