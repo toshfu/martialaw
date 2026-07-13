@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 30.9.2025 I Nr. 233
 
+Änderung durch
+:   Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+
 
 
 ## § 1 Errichtung, Zweck und Sitz des Bundesamts
