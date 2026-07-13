@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.9.2008 I 1798;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.4.2026 I Nr. 111
+:   Art. 7 G v. 3.7.2026 I Nr. 199
 
 Stand: Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
@@ -1530,9 +1530,10 @@ Eine Verfolgung ist anzunehmen, wenn die Voraussetzungen des Artikels
 des Grundgesetzes sind die in Anlage II bezeichneten Staaten.
 
 (2a) Die Bundesregierung legt dem Deutschen Bundestag alle zwei Jahre,
-erstmals zum 23. Oktober 2017 einen Bericht darüber vor, ob die
-Voraussetzungen für die Einstufung der in Anlage II bezeichneten
-Staaten als sichere Herkunftsstaaten weiterhin vorliegen.
+erstmals zum 12. Juni 2027, einen Bericht darüber vor, ob die
+Voraussetzungen für die Bestimmung weiterhin vorliegen, soweit die
+sicheren Herkunftsstaaten nicht nach Artikel 62 Absatz 1 der
+Verordnung (EU) 2024/1348 auf Unionsebene bestimmt wurden.
 
 (3) Die Bundesregierung bestimmt durch Rechtsverordnung ohne
 Zustimmung des Bundesrates, dass ein in Anlage II bezeichneter Staat
