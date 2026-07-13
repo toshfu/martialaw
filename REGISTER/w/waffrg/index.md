@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 166, 184
 
+Geändert durch
+:   Art. 8 G v. 2.7.2026 I Nr. 198
+
 Stand: Ersetzt G 7133-5 v. 25.6.2012 I 1366 (NWRG)
 
 ## Abschnitt 1 - Zweck des Waffenregisters, Registerbehörde, Fachliche Leitstelle Nationales Waffenregister
@@ -662,6 +665,10 @@ Ordnungsnummern:
 
 2.  die Gerichte und Strafverfolgungsbehörden einschließlich der
     Vollstreckungsbehörden zur Erfüllung der Strafrechtspflege,
+
+
+2a. die Familiengerichte in Gewaltschutz- und Kindschaftssachen zur
+    Durchführung einer Gefährdungsanalyse,
 
 
 3.  die zur Ahndung von Ordnungswidrigkeiten zuständigen Behörden zur
