@@ -1583,7 +1583,8 @@ Außerdem muss er die Information, dass die Bundesrepublik Deutschland
 sein Herkunftsstaat ist,
 
 1.  unverzüglich der das Unternehmensregister führenden Stelle zur
-    Einstellung in das Unternehmensregister übermitteln und
+    Einstellung in das Unternehmensregister und zur Weiterleitung an das
+    zentrale europäische Zugangsportal übermitteln und
 
 
 2.  unverzüglich den folgenden Behörden mitteilen:
@@ -3131,6 +3132,40 @@ Rechtsverordnungen nach Absatz 1 bedürfen nicht der Zustimmung des
 Bundesrates.
 
 
+### § 24b Meldungen zum zentralen europäischen Zugangsportal
+
+(1) Die Informationen nach § 124 Absatz 1 werden von der Bundesanstalt
+an die Europäische Wertpapier- und Marktaufsichtsbehörde als
+Betreiberin des zentralen europäischen Zugangsportals im Sinne des
+Artikels 1 Absatz 1 der Verordnung (EU) 2023/2859 des Europäischen
+Parlaments und des Rates vom 13. Dezember 2023 zur Einrichtung eines
+zentralen europäischen Zugangsportals für den zentralisierten Zugriff
+auf öffentlich verfügbare, für Finanzdienstleistungen, Kapitalmärkte
+und Nachhaltigkeit relevante Informationen (ABl. L, 2023/2859,
+20\.12.2023; L, 2024/90097, 12.2.2024), die durch die Richtlinie (EU)
+2024/1760 (L, 2024/1760, 5.7.2024) geändert worden ist, gemeldet.
+
+(2) Die Informationen nach Absatz 1 sind in einem datenextrahierbaren
+Format im Sinne von Artikel 2 Nummer 3 der Verordnung (EU) 2023/2859
+zu übermitteln und ihnen sind die folgenden Metadaten beizufügen:
+
+1.  der vollständige Name der natürlichen Person oder alle Firmen der
+    juristischen Person, auf die sich die Informationen beziehen,
+
+
+2.  soweit verfügbar, die Rechtsträgerkennung der juristischen Person,
+
+
+3.  die Art der Informationen nach Artikel 7 Absatz 3 Buchstabe c der
+    Verordnung (EU) 2023/2859,
+
+
+4.  die Angabe, ob die Informationen personenbezogene Daten enthalten.
+
+
+
+
+
 ## Abschnitt 3 - Marktmissbrauchsüberwachung
 
 
@@ -3160,18 +3195,20 @@ gemäß Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014
 verpflichtet ist, Insiderinformationen zu veröffentlichen, hat diese
 vor ihrer Veröffentlichung den Geschäftsführungen der Handelsplätze,
 an denen seine Finanzinstrumente zum Handel zugelassen oder in den
-Handel einbezogen sind, mitzuteilen sowie unverzüglich nach ihrer
-Veröffentlichung der Bundesanstalt sowie der das Unternehmensregister
-führenden Stelle zur Einstellung in das Unternehmensregister zu
-übermitteln.
+Handel einbezogen sind, mitzuteilen sowie gleichzeitig mit der
+Veröffentlichung der das Unternehmensregister führenden Stelle zur
+Einstellung in das Unternehmensregister und zur Weiterleitung an das
+zentrale europäische Zugangsportal, sowie unverzüglich nach ihrer
+Veröffentlichung der Bundesanstalt zu übermitteln.
 
 (2) Ein Inlandsemittent, ein MTF-Emittent oder ein OTF-Emittent, der
 gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 596/2014
 verpflichtet ist, Informationen zu Eigengeschäften von Führungskräften
-zu veröffentlichen, hat diese Informationen unverzüglich, jedoch nicht
-vor ihrer Veröffentlichung, der das Unternehmensregister führenden
-Stelle zur Einstellung in das Unternehmensregister zu übermitteln
-sowie die Veröffentlichung der Bundesanstalt mitzuteilen.
+zu veröffentlichen, hat diese Informationen gleichzeitig mit der
+Veröffentlichung, der das Unternehmensregister führenden Stelle zur
+Einstellung in das Unternehmensregister und zur Weiterleitung an das
+zentrale europäische Zugangsportal zu übermitteln sowie die
+Veröffentlichung der Bundesanstalt mitzuteilen.
 
 (3) Verstößt der Emittent gegen die Verpflichtungen nach Absatz 1 oder
 nach Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014,
@@ -4262,22 +4299,22 @@ Absatz 2 und § 38 Absatz 1 Satz 1 sowie § 39 Absatz 1 Satz 1 oder nach
 entsprechenden Vorschriften anderer Mitgliedstaaten der Europäischen
 Union oder anderer Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum unverzüglich, spätestens drei Handelstage nach Zugang
-der Mitteilung zu veröffentlichen; er übermittelt sie außerdem
-unverzüglich, jedoch nicht vor ihrer Veröffentlichung der das
-Unternehmensregister führenden Stelle zur Einstellung in das
-Unternehmensregister. Erreicht, überschreitet oder unterschreitet ein
-Inlandsemittent in Bezug auf eigene Aktien entweder selbst, über ein
-Tochterunternehmen oder über eine in eigenem Namen, aber für Rechnung
-dieses Emittenten handelnde Person die Schwellen von 5 Prozent oder 10
-Prozent durch Erwerb, Veräußerung oder auf sonstige Weise, gilt Satz 1
-entsprechend mit der Maßgabe, dass abweichend von Satz 1 eine
-Erklärung zu veröffentlichen ist, deren Inhalt sich nach § 33 Absatz 1
-Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 33 Absatz
-5 bestimmt, und die Veröffentlichung spätestens vier Handelstage nach
-Erreichen, Überschreiten oder Unterschreiten der genannten Schwellen
-zu erfolgen hat; wenn für den Emittenten die Bundesrepublik
-Deutschland der Herkunftsstaat ist, ist außerdem die Schwelle von 3
-Prozent maßgeblich.
+der Mitteilung zu veröffentlichen; er übermittelt sie gleichzeitig mit
+der Veröffentlichung der das Unternehmensregister führenden Stelle zur
+Einstellung in das Unternehmensregister und zur Weiterleitung an das
+zentrale europäische Zugangsportal. Erreicht, überschreitet oder
+unterschreitet ein Inlandsemittent in Bezug auf eigene Aktien entweder
+selbst, über ein Tochterunternehmen oder über eine in eigenem Namen,
+aber für Rechnung dieses Emittenten handelnde Person die Schwellen von
+5 Prozent oder 10 Prozent durch Erwerb, Veräußerung oder auf sonstige
+Weise, gilt Satz 1 entsprechend mit der Maßgabe, dass abweichend von
+Satz 1 eine Erklärung zu veröffentlichen ist, deren Inhalt sich nach §
+33 Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach
+§ 33 Absatz 5 bestimmt, und die Veröffentlichung spätestens vier
+Handelstage nach Erreichen, Überschreiten oder Unterschreiten der
+genannten Schwellen zu erfolgen hat; wenn für den Emittenten die
+Bundesrepublik Deutschland der Herkunftsstaat ist, ist außerdem die
+Schwelle von 3 Prozent maßgeblich.
 
 (2) Der Inlandsemittent hat gleichzeitig mit der Veröffentlichung nach
 Absatz 1 Satz 1 und 2 diese der Bundesanstalt mitzuteilen.
@@ -4311,9 +4348,10 @@ unverzüglich, spätestens innerhalb von zwei Handelstagen zu
 veröffentlichen. Er hat die Veröffentlichung gleichzeitig der
 Bundesanstalt entsprechend § 40 Absatz 2, auch in Verbindung mit einer
 Rechtsverordnung nach Absatz 3 Nummer 2, mitzuteilen. Er übermittelt
-die Informationen außerdem unverzüglich, jedoch nicht vor ihrer
-Veröffentlichung, der das Unternehmensregister führenden Stelle zur
-Einstellung in das Unternehmensregister.
+die Informationen gleichzeitig mit der Veröffentlichung der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister und zur Weiterleitung an das zentrale europäische
+Zugangsportal.
 
 (2) Bei der Ausgabe von Bezugsaktien ist die Gesamtzahl der
 Stimmrechte abweichend von Absatz 1 Satz 1 nur im Zusammenhang mit
@@ -4448,9 +4486,10 @@ eines Drittstaates der Öffentlichkeit zur Verfügung zu stellen sind,
 in der in § 40 Absatz 1 Satz 1, auch in Verbindung mit einer
 Rechtsverordnung nach Absatz 3, geregelten Weise veröffentlichen und
 gleichzeitig der Bundesanstalt mitteilen. Die Informationen sind
-außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung der das
-Unternehmensregister führenden Stelle zur Einstellung in das
-Unternehmensregister zu übermitteln.
+gleichzeitig mit der Veröffentlichung der das Unternehmensregister
+führenden Stelle zur Einstellung in das Unternehmensregister und zur
+Weiterleitung an das zentrale europäische Zugangsportal zu
+übermitteln.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -4684,9 +4723,9 @@ Satzungsregelungen des Emittenten auf schriftlichem Wege.
 
 unverzüglich veröffentlichen und gleichzeitig der Bundesanstalt diese
 Veröffentlichung mitteilen. Er übermittelt diese Informationen
-außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung der das
-Unternehmensregister führenden Stelle zur Einstellung in das
-Unternehmensregister.
+gleichzeitig mit der Veröffentlichung der das Unternehmensregister
+führenden Stelle zur Einstellung in das Unternehmensregister und zur
+Weiterleitung an das zentrale europäische Zugangsportal.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -4711,9 +4750,10 @@ eines Drittstaates der Öffentlichkeit zur Verfügung zu stellen sind,
 nach Maßgabe des § 50 Absatz 1 in Verbindung mit einer
 Rechtsverordnung nach § 50 Absatz 2 veröffentlichen und die
 Veröffentlichung gleichzeitig der Bundesanstalt mitteilen; sie müssen
-die Informationen außerdem unverzüglich, jedoch nicht vor der
-Veröffentlichung der das Unternehmensregister führenden Stelle zur
-Einstellung in das Unternehmensregister übermitteln.
+die Informationen gleichzeitig mit der Veröffentlichung der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister und zur Weiterleitung an das zentrale europäische
+Zugangsportal übermitteln.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -9298,10 +9338,11 @@ Bundesanstalt mit und übermittelt sie unverzüglich, jedoch nicht vor
 ihrer Veröffentlichung der das Unternehmensregister führenden Stelle
 zur Einstellung in das Unternehmensregister. Ein Unternehmen, das als
 Inlandsemittent Wertpapiere begibt und der Verpflichtung nach Satz 1
-unterliegt, hat außerdem unverzüglich, jedoch nicht vor
-Veröffentlichung der Bekanntmachung nach Satz 2, den
-Jahresfinanzbericht an die das Unternehmensregister führende Stelle
-zur Einstellung in das Unternehmensregister zu übermitteln.
+unterliegt, hat gleichzeitig mit der öffentlichen Zurverfügungstellung
+nach Satz 1 den Jahresfinanzbericht an die das Unternehmensregister
+führende Stelle zur Einstellung in das Unternehmensregister und zur
+Weiterleitung an das zentrale europäische Zugangsportal zu
+übermitteln.
 
 (2) Der Jahresfinanzbericht hat mindestens zu enthalten
 
@@ -9393,11 +9434,12 @@ Unternehmensregister öffentlich zugänglich ist. Das Unternehmen teilt
 die Bekanntmachung gleichzeitig mit ihrer Veröffentlichung der
 Bundesanstalt mit und übermittelt sie unverzüglich, jedoch nicht vor
 ihrer Veröffentlichung der das Unternehmensregister führenden Stelle
-zur Einstellung in das Unternehmensregister. Es hat außerdem
-unverzüglich, jedoch nicht vor Veröffentlichung der Bekanntmachung
-nach Satz 2 den Halbjahresfinanzbericht an die das
-Unternehmensregister führende Stelle zur Einstellung in das
-Unternehmensregister zu übermitteln.
+zur Einstellung in das Unternehmensregister. Es hat gleichzeitig mit
+der öffentlichen Zurverfügungstellung nach Satz 1 den
+Halbjahresfinanzbericht an die das Unternehmensregister führende
+Stelle zur Einstellung in das Unternehmensregister und zur
+Weiterleitung an das zentrale europäische Zugangsportal zu
+übermitteln.
 
 (2) Der Halbjahresfinanzbericht hat mindestens
 
@@ -9530,12 +9572,13 @@ die Bekanntmachung gleichzeitig mit ihrer Veröffentlichung der
 Bundesanstalt mit und übermittelt sie unverzüglich, jedoch nicht vor
 ihrer Veröffentlichung der das Unternehmensregister führenden Stelle
 zur Einstellung in das Unternehmensregister. Ein Unternehmen im Sinne
-von Satz 1 hat außerdem unverzüglich, jedoch nicht vor
-Veröffentlichung der Bekanntmachung nach Satz 2 den Zahlungsbericht
-oder Konzernzahlungsbericht an die das Unternehmensregister führende
-Stelle zur Einstellung in das Unternehmensregister zu übermitteln, es
-sei denn, die Übermittlung erfolgt nach § 8b Absatz 2 Nummer 4 in
-Verbindung mit Absatz 3 Satz 1 Nummer 1 des Handelsgesetzbuchs.
+von Satz 1 hat gleichzeitig mit der öffentlichen Zurverfügungstellung
+nach Absatz 1 Satz 1 den Zahlungsbericht oder Konzernzahlungsbericht
+an die das Unternehmensregister führende Stelle zur Einstellung in das
+Unternehmensregister und zur Weiterleitung an das zentrale europäische
+Zugangsportal zu übermitteln, es sei denn, die Übermittlung erfolgt
+nach § 8b Absatz 2 Nummer 4 in Verbindung mit Absatz 3 Satz 1 Nummer 1
+des Handelsgesetzbuchs.
 
 (3) Die Bundesanstalt kann ein Unternehmen zur Erklärung auffordern,
 ob es im Sinne des § 341r des Handelsgesetzbuchs in der
