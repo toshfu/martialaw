@@ -2724,7 +2724,7 @@ nicht zuzumuten ist, durch einen Wohnungswechsel, durch Vermieten oder
 auf andere Weise die Aufwendungen zu senken, in der Regel jedoch
 längstens für sechs Monate. Nach Ablauf der Karenzzeit ist Satz 9 mit
 der Maßgabe anzuwenden, dass der Zeitraum der Karenzzeit nicht auf die
-in Satz 7 genannte Frist anzurechnen ist. Verstirbt ein Mitglied der
+in Satz 9 genannte Frist anzurechnen ist. Verstirbt ein Mitglied der
 Bedarfs- oder Haushaltsgemeinschaft und waren die Aufwendungen für die
 Unterkunft und Heizung davor angemessen, ist die Senkung der
 Aufwendungen für die weiterhin bewohnte Unterkunft für die Dauer von
