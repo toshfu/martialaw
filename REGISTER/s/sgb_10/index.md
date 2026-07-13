@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 20.5.2026 I Nr. 152
+:   Art. 15 Abs. 13 G v. 3.7.2026 I Nr. 199
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -1195,10 +1195,7 @@ Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch
 Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
 Form verwendet, muss auch das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des
-§ 36a Absatz 2a Nummer 3 Buchstabe b des Ersten Buches muss die
-Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende
-Behörde als Nutzer des De-Mail-Kontos erkennen lassen.
+Attributzertifikat die erlassende Behörde erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 36a Absatz 2 des
 Ersten Buches erforderliche Signatur oder für das nach § 36a Absatz 2a
