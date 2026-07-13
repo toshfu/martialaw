@@ -34,6 +34,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 22.6.2026 I Nr. 192 ist berücksichtigt
 
+Änderung durch
+:   Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -5023,8 +5026,11 @@ rechnen ist.
 
 (2) Der Beschluss nach Absatz 1 ist von Amts wegen zuzustellen. Die
 Geschäftsstelle beauftragt den Gerichtsvollzieher mit der Zustellung.
-Der Antrag auf Erlass der einstweiligen Anordnung gilt im Fall des
-Erlasses ohne mündliche Erörterung zugleich als Auftrag zur
+Ist diese Art der Zustellung nicht erforderlich oder verspricht sie
+keinen Erfolg, kann das Gericht die Beauftragung der Zustellung
+entsprechend den §§ 168 und 172 bis 183 der Zivilprozessordnung
+anordnen. Der Antrag auf Erlass der einstweiligen Anordnung gilt im
+Fall des Erlasses ohne mündliche Erörterung zugleich als Auftrag zur
 Vollstreckung; auf Verlangen des Antragstellers darf die Zustellung
 nicht vor der Vollstreckung erfolgen.
 
