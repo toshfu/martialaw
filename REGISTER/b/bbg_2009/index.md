@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160
 
 Zuletzt geändert durch
-:   Art. 8 G v. 11.1.2026 I Nr. 6
+:   Art. 2 G v. 3.7.2026 I Nr. 199
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -2892,7 +2892,13 @@ Sicherheit erforderlich sind.
 
 
 Satz 1 gilt auch, wenn Bezüge aufgrund der Anwendung von Ruhens- oder
-Anrechnungsvorschriften nicht gezahlt werden.
+Anrechnungsvorschriften nicht gezahlt werden. Die Bekanntgabe des
+elektronischen Verwaltungsakts zum Umfang der Beihilfe kann bei
+elektronischer Antragstellung durch die Bereitstellung zum Abruf
+erfolgen. Der zum Abruf bereitgestellte Verwaltungsakt gilt am vierten
+Tag nach Absendung der elektronischen Benachrichtigung über die
+Bereitstellung des Verwaltungsakts an die abrufberechtigte Person als
+bekannt gegeben.
 
 (2) Beihilfe wird auch gewährt für Aufwendungen
 
@@ -2930,6 +2936,11 @@ angemessene Aufwendungen
 
 
 
+Besteht die Möglichkeit der direkten Abrechnung von Aufwendungen
+zwischen der Festsetzungsstelle und den Leistungserbringern im Wege
+des elektronischen Datenaustausches, so wird Beihilfe von Amts wegen
+gewährt. Einer vorherigen Anhörung der beihilfeberechtigten Person
+bedarf es nicht.
 
 (4) Beihilfe kann nur gewährt werden
 
@@ -3712,10 +3723,10 @@ entspricht und sie nicht über Gebühr in Anspruch nimmt.
 #### § 99 Genehmigungspflichtige Nebentätigkeiten
 
 (1) Beamtinnen und Beamte bedürfen zur Ausübung jeder entgeltlichen
-Nebentätigkeit, mit Ausnahme der in § 100 Abs. 1 abschließend
-aufgeführten, der vorherigen Genehmigung, soweit sie nicht nach § 98
-zu ihrer Ausübung verpflichtet sind. Gleiches gilt für folgende
-unentgeltliche Nebentätigkeiten:
+Nebentätigkeit, mit Ausnahme der in Absatz 6 Satz 1 und § 100 Absatz 1
+abschließend aufgeführten, der vorherigen Genehmigung, soweit sie
+nicht nach § 98 zu ihrer Ausübung verpflichtet sind. Gleiches gilt für
+folgende unentgeltliche Nebentätigkeiten:
 
 1.  Wahrnehmung eines Nebenamtes,
 
@@ -3794,6 +3805,24 @@ für die Entscheidung erforderlichen Nachweise zu führen, insbesondere
 über Art und Umfang der Nebentätigkeit sowie die Entgelte und
 geldwerten Vorteile hieraus. Jede Änderung ist unverzüglich
 schriftlich oder elektronisch anzuzeigen.
+
+(6) Eine geringfügige Beschäftigung im Sinne des § 8 Absatz 1 des
+Vierten Buches Sozialgesetzbuch ist nicht genehmigungspflichtig. Sie
+ist der Dienstbehörde schriftlich oder elektronisch spätestens zwei
+Monate vor Beginn ihrer Aufnahme anzuzeigen. Hierbei sind insbesondere
+Art und Umfang der Nebentätigkeit sowie die voraussichtliche Höhe der
+Entgelte und geldwerten Vorteile anzugeben. Jede Änderung ist
+unverzüglich schriftlich oder elektronisch mitzuteilen. Die
+Nebentätigkeit kann vor Ablauf der in Satz 2 genannten Frist
+aufgenommen werden, wenn und sobald die Dienstbehörde gegenüber der
+Beamtin oder dem Beamten schriftlich oder elektronisch erklärt, dass
+gegen die Nebentätigkeit keine Bedenken im Hinblick auf dienstliche
+Interessen bestehen.
+
+(7) In den Fällen des Absatzes 6 ist die geringfügige Beschäftigung zu
+untersagen, wenn zu besorgen ist, dass durch die Nebentätigkeit
+dienstliche Interessen beeinträchtigt werden. Absatz 2 Satz 2 und 3
+sowie Absatz 3 gelten entsprechend.
 
 
 #### § 100 Nicht genehmigungspflichtige Nebentätigkeiten
