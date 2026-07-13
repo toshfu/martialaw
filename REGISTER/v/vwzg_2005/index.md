@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 15.7.2024 I Nr. 236
 
+Änderung durch
+:   Art. 15 Abs. 3 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+
 
 
 ## § 1 Anwendungsbereich
