@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 22.12.2025 I Nr. 370
 
+Änderung durch
+:   Art. 12 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -106,9 +109,9 @@ bezogen werden.
 
 (5) Änderungen des Datenaustauschformats OSCI-XMeld, des
 Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom
-Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt
-gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn
-der Anwendung anzugeben.
+Bundesministerium des Innern im Bundesanzeiger bekannt gemacht. In der
+Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung
+anzugeben.
 
 
 ## § 4 Automatisiertes Abrufverfahren zur Anmeldung
@@ -824,9 +827,9 @@ nach § 6 Absatz 2 übermittelten Daten unverändert zusätzlich zu
 Bundesmeldegesetzes bezeichnete Daten bei einer für eine Wohnung der
 Person zuständigen Meldebehörde fortgeschrieben, insbesondere weil sie
 unrichtig oder unvollständig waren oder weil die Person ihren
-Meldepflichten nach § 17 Absatz 1 bis 3, § 21 Absatz 4, § 28 Absatz 1
-und 2, § 29 Absatz 1 bis 4 und § 32 Absatz 1 des Bundesmeldegesetzes
-nicht oder nicht vollständig nachgekommen ist, so übermittelt diese
+Meldepflichten nach § 17 Absatz 1 bis 3, § 21 Absatz 4, § 28 Absatz 1,
+§ 29 Absatz 1 bis 4 und § 32 Absatz 1 des Bundesmeldegesetzes nicht
+oder nicht vollständig nachgekommen ist, so übermittelt diese
 Meldebehörde gemäß § 33 Absatz 3 des Bundesmeldegesetzes den für alle
 weiteren Wohnungen der Person zuständigen Meldebehörden unverzüglich
 die fortgeschriebenen Daten sowie die Hinweise, die zum Nachweis ihrer
