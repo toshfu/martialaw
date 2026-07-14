@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 21.11.2023 I Nr. 315
 
 Änderung durch
-:   Art. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Gebührenerhebung
@@ -526,6 +526,9 @@ Auslagen sind auch dann zu erheben, wenn die individuell zurechenbare
 festgesetzt. Die Gebührenfestsetzung soll zusammen mit der
 Sachentscheidung erfolgen. Gebühren, die bei richtiger Behandlung der
 Sache durch die Behörde nicht entstanden wären, werden nicht erhoben.
+Bei turnusmäßig anfallenden Gebühren soll dem Gebührenschuldner mit
+erstmaliger Festsetzung die Erteilung eines SEPA-Lastschriftmandats
+angeboten werden.
 
 (2) Bei Festsetzung einer Rahmengebühr nach § 11 Nummer 3 ist § 9
 Absatz 1 bis 3 anzuwenden.
@@ -591,7 +594,7 @@ Betrag auf volle 50 Euro abzurunden.
     dem der Betrag der Kasse gutgeschrieben wird, oder
 
 
-3.  bei Vorliegen einer Einzugsermächtigung am Fälligkeitstag.
+3.  bei Vorliegen eines SEPA-Lastschriftmandats am Fälligkeitstag.
 
 
 
