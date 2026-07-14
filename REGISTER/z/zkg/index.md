@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 720; 2018, 668
 
 Zuletzt geändert durch
-:   Art. 26 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 15 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 9.4.2026 I Nr. 97
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
