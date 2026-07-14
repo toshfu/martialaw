@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1891
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.6.2024 I Nr. 202
-
-Änderung durch
-:   Art. 10 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 9.4.2026 I Nr. 97
 
 
 ## Eingangsformel
