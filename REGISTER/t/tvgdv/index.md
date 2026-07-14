@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 25.6.2021 I 2146
 
 Änderung durch
-:   Art. 15 Abs. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 15 Abs. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Tarifausschuß
@@ -263,11 +263,10 @@ Tarifvertrag als elektronisches Dokument eingereicht wird. Dem
 elektronischen Dokument ist eine Erklärung beizufügen, dass das
 elektronisch eingereichte Dokument mit der Urschrift des
 Tarifvertrages oder seinen Änderungen übereinstimmt, und die Erklärung
-ist mit einer qualifizierten elektronischen Signatur zu versehen oder
-mittels Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes zu
-übersenden. In Schriftform vorliegende Tarifverträge werden seitens
-des Bundesministeriums für Arbeit und Soziales in eine elektronische,
-im Volltext durchsuchbare Form umgewandelt.
+ist mit einer qualifizierten elektronischen Signatur zu versehen. In
+Schriftform vorliegende Tarifverträge werden seitens des
+Bundesministeriums für Arbeit und Soziales in eine elektronische, im
+Volltext durchsuchbare Form umgewandelt.
 
 (2) Bei der Eintragung des Abschlusses von Tarifverträgen in das
 Tarifregister werden die Tarifverträge durch die Angabe der
