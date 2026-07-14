@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1842
 
 Zuletzt geändert durch
-:   Art. 18 G v. 27.12.2024 I Nr. 438
-
-Änderung durch
-:   Art. 8 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 9.4.2026 I Nr. 97
 
 
 ## § 1 Begriffsbestimmungen
