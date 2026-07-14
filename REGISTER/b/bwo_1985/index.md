@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 12.9.2024 I Nr. 283
 
 Änderung durch
-:   Art. 9 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 9 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Wahlorgane
@@ -393,9 +393,7 @@ Meldebehörde gemeldet sind
 1.  für eine Wohnung,
 
 
-2.  auf Grund eines Anstellungs-, Heuer- oder Ausbildungsverhältnisses als
-    Kapitän oder Besatzungsmitglied für ein Seeschiff, das berechtigt ist,
-    die Bundesflagge zu führen (§ 12 Abs. 4 Nr. 1 des Bundeswahlgesetzes),
+2.  (weggefallen)
 
 
 3.  für ein Binnenschiff, das in einem Schiffsregister in der
@@ -510,14 +508,11 @@ Fällen des
     mehreren Wohnungen die für die Hauptwohnung zuständige Gemeinde,
 
 
-2.  § 16 Abs. 1 Nr. 2 die für den Sitz des Reeders zuständige Gemeinde,
-
-
-3.  § 16 Abs. 1 Nr. 3 die für den Heimatort des Binnenschiffes zuständige
+2.  § 16 Abs. 1 Nr. 3 die für den Heimatort des Binnenschiffes zuständige
     Gemeinde,
 
 
-4.  § 16 Abs. 1 Nr. 4 die für die Justizvollzugsanstalt oder die
+3.  § 16 Abs. 1 Nr. 4 die für die Justizvollzugsanstalt oder die
     entsprechende Einrichtung zuständige Gemeinde.
 
 
@@ -543,20 +538,15 @@ Fällen des
     dem Wahlgebiet zuletzt gemeldet war, wenn er im Wahlgebiet nie
     gemeldet war, die Gemeinde, der er nach seiner Erklärung im Sinne des
     § 12 Absatz 2 Satz 1 Nummer 2 des Bundeswahlgesetzes am engsten
-    verbunden ist. Satz 1 gilt auch für Seeleute, die seit dem Fortzug aus
-    dem Wahlgebiet auf Schiffen unter fremder Flagge fahren, sowie für
-    Binnenschiffer, deren Schiff nicht in einem Schiffsregister in der
-    Bundesrepublik Deutschland eingetragen ist, und für die Angehörigen
-    ihres Hausstandes. Für Seeleute, die von einem Seeschiff, das die
-    Bundesflagge zu führen berechtigt war, abgemustert haben und im
-    Anschluss daran auf einem Seeschiff unter fremder Flagge fahren, ist
-    die Gemeinde am Sitz des ehemaligen Reeders zuständig. Für
-    Binnenschiffer, die zuletzt auf einem in der Bundesrepublik
-    Deutschland im Schiffsregister eingetragenen Binnenschiff gefahren
-    sind und im Anschluss daran auf einem Binnenschiff, das nicht im
-    Schiffsregister in der Bundesrepublik Deutschland eingetragen ist,
-    oder auf einem Seeschiff unter fremder Flagge fahren, ist die Gemeinde
-    nach Absatz 1 Nr. 3 zuständig.
+    verbunden ist. Satz 1 gilt auch für Seeleute sowie für Binnenschiffer,
+    deren Schiff nicht in einem Schiffsregister in der Bundesrepublik
+    Deutschland eingetragen ist, und für die Angehörigen ihres
+    Hausstandes. Für Binnenschiffer, die zuletzt auf einem in der
+    Bundesrepublik Deutschland im Schiffsregister eingetragenen
+    Binnenschiff gefahren sind und im Anschluss daran auf einem
+    Binnenschiff, das nicht im Schiffsregister in der Bundesrepublik
+    Deutschland eingetragen ist, oder auf einem Seeschiff fahren, ist die
+    Gemeinde nach Absatz 1 Nr. 3 zuständig.
 
 
 
@@ -3540,7 +3530,7 @@ Rückkehrer aus dem Ausland
     *
 
 *    *
-    *[^f797800_01_BJNR017690985BJNE011109126]
+    *[^f797800_01_BJNR017690985BJNE011110125]
    Mein Familienname, unter dem ich zuletzt für eine Wohnung in der
         Bundesrepublik Deutschland
         bei der Meldebehörde gemeldet war,
@@ -3634,14 +3624,6 @@ Rückkehrer aus dem Ausland
     *   bis zum
 
     *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *   *
-
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
 
     *
 
@@ -3846,7 +3828,7 @@ Rückseite
 *    *   6.1
 
     *   Mindestens dreimonatiger ununterbrochener Aufenthalt
-[^f797800_02_BJNR017690985BJNE011109126]
+[^f797800_02_BJNR017690985BJNE011110125]
         in der Bundesrepublik Deutschland
 
     *   *                      nein
@@ -3954,7 +3936,7 @@ Rückkehrer aus dem Ausland
             Jahre zurückliegt,
 
 
-        –[^f797800_03_BJNR017690985BJNE011109126]
+        –[^f797800_03_BJNR017690985BJNE011110125]
    **oder**                              aus anderen Gründen persönlich
             und unmittelbar Vertrautheit mit den politischen Verhältnissen in der
             Bundesrepublik Deutschland erworben haben **und**
@@ -4044,22 +4026,6 @@ Rückkehrer aus dem Ausland
         “
         (Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt
         angezeigt oder sonst nachgewiesen war).
-
-
-*    *
-    *   Von Seeleuten, die zuletzt auf einem Seeschiff gemustert waren, das
-        die Bundesflagge zu führen berechtigt war, und danach nur noch auf
-        Schiffen unter fremder Flagge fahren, mit folgenden Angaben
-        auszufüllen: Name des letzten deutschen Schiffes, Name des Reeders,
-        Sitz des Reeders (Ort, Land).
-
-
-*    *   *
-
-    *   Von Seeleuten hier mit folgenden Angaben auszufüllen: Datum der
-        letzten Abmusterung von einem Seeschiff, das die deutsche Flagge zu
-        führen berechtigt war, Name und Nationalität des Seeschiffes unter
-        fremder Flagge.
 
 
 *    *   *
@@ -4211,15 +4177,15 @@ Rückkehrer aus dem Ausland
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f797800_01_BJNR017690985BJNE011109126]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
+[^f797800_01_BJNR017690985BJNE011110125]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten
     Gebiet(Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt
     und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f797800_02_BJNR017690985BJNE011109126]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
+[^f797800_02_BJNR017690985BJNE011110125]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f797800_03_BJNR017690985BJNE011109126]: 
+[^f797800_03_BJNR017690985BJNE011110125]: 
 
 ### Anlage 2 (zu § 18 Absatz 4)
 
