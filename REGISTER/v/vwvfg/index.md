@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 2 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
-:   Art. 1 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 bzw. 1.1.2027 bzw. 1.2.2027 bzw. 1.7.2027 noch nicht berücksichtigt
+:   Art. 1 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 bzw. 1.1.2027 bzw. 1.2.2027 bzw. 1.7.2027 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 15 Abs. 2 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 15 Abs. 2 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -243,26 +243,15 @@ unmittelbar durch die Behörde ermöglicht, ist nicht zulässig.
         Rechtsverordnung eingerichtet wurde;
 
 
-    d)  mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+    d)  (weggefallen)
 
 
 
 
 
 3.  bei elektronischen Verwaltungsakten oder sonstigen elektronischen
-    Dokumenten der Behörde,
-
-    a)  indem diese mit dem qualifizierten elektronischen Siegel der Behörde
-        versehen werden;
-
-
-    b)  durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-
-        Mail-Gesetzes, bei der die Bestätigung des akkreditierten
-        Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos
-        erkennen lässt.
-
-
-
+    Dokumenten der Behörde, indem diese mit dem qualifizierten
+    elektronischen Siegel der Behörde versehen werden.
 
 
 
@@ -1571,10 +1560,7 @@ Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch
 Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
 Form verwendet, muss auch das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des
-§ 3a Absatz 3 Nummer 3 Buchstabe b muss die Bestätigung nach § 5
-Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als Nutzer des
-De-Mail-Kontos erkennen lassen.
+Attributzertifikat die erlassende Behörde erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 3a Absatz 2
 erforderliche Signatur oder für das nach § 3a Absatz 3 Nummer 3
