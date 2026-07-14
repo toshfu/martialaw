@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 7.3.2024 I Nr. 91
 
 Änderung durch
-:   Art. 8 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 8 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Bek. zur Wahlkreiseinteilung v. 27.12.2024 I Nr. 437 ist berücksichtigt
 
@@ -397,9 +397,7 @@ gelegentlich fortbewegt werden.
 innehaben oder innegehabt haben, gilt als Wohnung im Sinne des
 Absatzes 1 Nr. 2 oder des Absatzes 2 Satz 1
 
-1.  für Seeleute sowie für die Angehörigen ihres Hausstandes das von ihnen
-    bezogene Schiff, wenn dieses nach dem Flaggenrechtsgesetz in der
-    jeweils geltenden Fassung die Bundesflagge zu führen berechtigt ist,
+1.  (weggefallen)
 
 
 2.  für Binnenschiffer sowie für die Angehörigen ihres Hausstandes das von
