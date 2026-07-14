@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
-:   Art. 10 G v. 29.6.2026 I Nr. 197 noch nicht berücksichtigt
+:   Art. 10 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Gegenstand der Steuer
