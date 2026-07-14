@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 10.9.2021 I 4229
 
 Änderung durch
-:   Art. 15 Abs. 4 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 15 Abs. 4 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -61,7 +61,7 @@ Grund der folgenden Vorschriften erbracht werden:
 7.  BSI-Gesetz,
 
 
-8.  De-Mail-Gesetz,
+8.  (weggefallen)
 
 
 9.  Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen,
@@ -171,7 +171,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   Abschnitt  8
 
-    *   De-Mail-Gesetz (De-Mail-G)
+    *   (weggefallen)
 
 
 *    *   Abschnitt  9
@@ -1903,99 +1903,9 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
    ## **Abschnitt 8**
 
-## **De-Mail-Gesetz (De-Mail-G)**
+## **(weggefallen)**
 
-
-*    *   Nummer
-
-    *   Gebühren- oder Auslagentatbestand
-
-    *   Gebühren/Auslagen
-        in Euro
-
-
-*    *   1
-
-    *   Akkreditierung und Erteilung des Gütezeichens nach § 17 Absatz 1 De-
-        Mail-G durch das BSI
-
-    *   nach Zeitaufwand
-
-
-*    *   2
-
-    *   Erneuerung der Akkreditierung nach § 17 Absatz 3 De-Mail-G durch das
-        BSI
-
-    *   nach Zeitaufwand
-
-
-*    *   3
-
-    *   Zertifikat nach § 18 Absatz 3 Nummer 4 De-Mail-G durch den
-        Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-        (BfDI)
-
-    *
-
-*    *   3.1
-
-    *   Erteilung des Zertifikats durch den BfDI
-
-    *   nach Zeitaufwand
-
-
-*    *   3.2
-
-    *   Beim Gebührentatbestand nach Nummer 3.1 sind neben der Gebühr folgende
-        Kosten als Auslagen zu erheben:
-
-    *
-
-*    *   3.2.1
-
-    *   Kosten für Sachverständige
-
-    *
-
-*    *   3.2.2
-
-    *   Kosten für Leistungen anderer Behörden und Dritter
-
-    *
-
-*    *   3.2.3
-
-    *   Kosten für Dienstreisen
-
-    *
-
-*    *   4
-
-    *   Prüfung der Gleichwertigkeit ausländischer Diensteanbieter nach § 19
-        Absatz 2 De-Mail-G durch das BSI
-
-    *   nach Zeitaufwand
-
-
-*    *   5
-
-    *   Untersagung oder teilweise Untersagung des Betriebes nach § 20 Absatz
-        3 De-Mail-G durch das BSI
-
-    *   nach Zeitaufwand
-
-
-*    *   6
-
-    *   Bei den Gebührentatbeständen der Nummern 1, 2, 4 und 5 sind neben den
-        Gebühren die Kosten für Dienstreisen und für Dritte als Auslagen zu
-        erheben.
-
-    *
-
-
-   ## **Abschnitt 9**
+## **Abschnitt 9**
 
 ## **Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen
 (UnbBeschErtV)**
