@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 30.9.2025 I Nr. 233
 
 Änderung durch
-:   Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -174,26 +174,19 @@ ersetzt werden, wenn das elektronische Dokument auf einem sicheren
 
 (3) Sichere Übermittlungswege sind:
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht gemäß § 4 Absatz 1 Satz 2 des
-    De-Mail-Gesetzes                    angemeldet ist und er sich die
-    sichere Anmeldung gemäß § 5 Absatz 5 des
-    De-Mail-Gesetzes                    bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
     Poststelle des Bundesamts,
 
 
-3.  der Übermittlungsweg zwischen dem besonderen elektronischen
+2.  der Übermittlungsweg zwischen dem besonderen elektronischen
     Notarpostfach nach § 78n der Bundesnotarordnung und der elektronischen
     Poststelle des Bundesamts,
 
 
-4.  der Übermittlungsweg zwischen einem besonderen elektronischen
+3.  der Übermittlungsweg zwischen einem besonderen elektronischen
     Behördenpostfach nach § 6 der Elektronischer-Rechtsverkehr-Verordnung
     und der elektronischen Poststelle des Bundesamts.
 
