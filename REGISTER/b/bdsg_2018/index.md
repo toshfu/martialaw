@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 12.5.2026 I Nr. 139
 
 Änderung durch
-:   Art. 3 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 3 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 204-3 v. 20.12.1990 I 2954, 2955 (BDSG 1990)
 
@@ -2824,8 +2824,8 @@ Auftragsverarbeiter
 
 
 
-(6) Der Vertrag im Sinne des Absatzes 5 ist schriftlich oder
-elektronisch abzufassen.
+(6) Der Vertrag oder das andere Rechtsinstrument nach Absatz 5 ist
+schriftlich oder in Textform abzufassen.
 
 (7) Ein Auftragsverarbeiter, der die Zwecke und Mittel der
 Verarbeitung unter Verstoß gegen diese Vorschrift bestimmt, gilt in
@@ -3228,13 +3228,13 @@ Dieses Verzeichnis hat die folgenden Angaben zu enthalten:
 7.  Angaben über die Rechtsgrundlage der Verarbeitung,
 
 
-8.  die vorgesehenen Fristen für die Löschung oder die Überprüfung der
-    Erforderlichkeit der Speicherung der verschiedenen Kategorien
-    personenbezogener Daten und
+8.  wenn möglich, die vorgesehenen Fristen für die Löschung oder die
+    Überprüfung der Erforderlichkeit der Speicherung der verschiedenen
+    Kategorien personenbezogener Daten und
 
 
-9.  eine allgemeine Beschreibung der technischen und organisatorischen
-    Maßnahmen gemäß § 64.
+9.  wenn möglich, eine allgemeine Beschreibung der technischen und
+    organisatorischen Maßnahmen gemäß § 64.
 
 
 
