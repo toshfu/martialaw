@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
-:   Art. 15 Abs. 3 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 15 Abs. 3 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -40,9 +40,8 @@ behördliche Anordnung bestimmt ist.
 elektronischen Dokuments in der in diesem Gesetz bestimmten Form.
 
 (2) Die Zustellung wird durch einen Erbringer von Postdienstleistungen
-(Post), einen nach § 17 des De-Mail-Gesetzes akkreditierten
-Diensteanbieter oder durch die Behörde ausgeführt. Daneben gelten die
-in den §§ 9 und 10 geregelten Sonderarten der Zustellung.
+(Post), oder durch die Behörde ausgeführt. Daneben gelten die in den
+§§ 9 und 10 geregelten Sonderarten der Zustellung.
 
 (3) Die Behörde hat die Wahl zwischen den einzelnen Zustellungsarten.
 § 5 Absatz 5 Satz 2 bleibt unberührt.
@@ -168,43 +167,6 @@ Zugang das Dokument gesendet wurde. Der Empfänger ist über den
 Eintritt der Zustellungsfiktion nach Satz 2 zu benachrichtigen.
 
 
-## § 5a Elektronische Zustellung gegen Abholbestätigung über De-Mail-Dienste
-
-(1) Die elektronische Zustellung kann unbeschadet des § 5 Absatz 4 und
-5 Satz 1 und 2 durch Übermittlung der nach § 17 des De-Mail-Gesetzes
-akkreditierten Diensteanbieter gegen Abholbestätigung nach § 5 Absatz
-9 des De-Mail-Gesetzes an das De-Mail-Postfach des Empfängers
-erfolgen. Für die Zustellung nach Satz 1 ist § 5 Absatz 4 und 6 mit
-der Maßgabe anzuwenden, dass an die Stelle des Empfangsbekenntnisses
-die Abholbestätigung tritt.
-
-(2) Der nach § 17 des De-Mail-Gesetzes akkreditierte Diensteanbieter
-hat eine Versandbestätigung nach § 5 Absatz 7 des De-Mail-Gesetzes und
-eine Abholbestätigung nach § 5 Absatz 9 des De-Mail-Gesetzes zu
-erzeugen. Er hat diese Bestätigungen unverzüglich der absendenden
-Behörde zu übermitteln.
-
-(3) Zum Nachweis der elektronischen Zustellung genügt die
-Abholbestätigung nach § 5 Absatz 9 des De-Mail-Gesetzes. Für diese
-gelten § 371 Absatz 1 Satz 2 und § 371a Absatz 3 der
-Zivilprozessordnung.
-
-(4) Ein elektronisches Dokument gilt in den Fällen des § 5 Absatz 5
-Satz 2 am vierten Tag nach der Absendung an das De-Mail-Postfach des
-Empfängers als zugestellt, wenn er dieses Postfach als Zugang eröffnet
-hat und der Behörde nicht spätestens an diesem Tag eine elektronische
-Abholbestätigung nach § 5 Absatz 9 des De-Mail-Gesetzes zugeht. Satz 1
-gilt nicht, wenn der Empfänger nachweist, dass das Dokument nicht oder
-zu einem späteren Zeitpunkt zugegangen ist. Der Empfänger ist in den
-Fällen des § 5 Absatz 5 Satz 2 vor der Übermittlung über die
-Rechtsfolgen nach den Sätzen 1 und 2 zu belehren. Als Nachweis der
-Zustellung nach Satz 1 dient die Versandbestätigung nach § 5 Absatz 7
-des De-Mail-Gesetzes oder ein Vermerk der absendenden Behörde in den
-Akten, zu welchem Zeitpunkt und an welches De-Mail-Postfach das
-Dokument gesendet wurde. Der Empfänger ist über den Eintritt der
-Zustellungsfiktion nach Satz 1 elektronisch zu benachrichtigen.
-
-
 ## § 6 Zustellung an gesetzliche Vertreter
 
 (1) Bei Geschäftsunfähigen oder beschränkt Geschäftsfähigen ist an
@@ -282,7 +244,7 @@ Empfangsbekenntnis zurückgesendet hat.
 Rückschein. Die Zustellung nach Absatz 1 Nr. 2 und 3 wird durch das
 Zeugnis der ersuchten Behörde nachgewiesen. Der Nachweis der
 Zustellung gemäß Absatz 1 Nr. 4 richtet sich nach § 5 Abs. 7 Satz 1
-bis 3 und 5 sowie nach § 5a Absatz 3 und 4 Satz 1, 2 und 4.
+bis 3 und 5.
 
 (3) Die Behörde kann bei der Zustellung nach Absatz 1 Nr. 2 und 3
 anordnen, dass die Person, an die zugestellt werden soll, innerhalb
