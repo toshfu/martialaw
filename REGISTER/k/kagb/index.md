@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 9.4.2026 I Nr. 97 ist berücksichtigt
 
 Änderung durch
 :   Art. 3 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
