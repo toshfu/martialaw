@@ -3250,7 +3250,7 @@ gehören insbesondere
     dem Lieferkettensorgfaltspflichtengesetz;
 
 
-6.  die Einschränkung oder Stillegung von Betrieben oder von
+6.  die Einschränkung oder Stilllegung von Betrieben oder von
     Betriebsteilen;
 
 
