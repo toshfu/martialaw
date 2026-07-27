@@ -4189,7 +4189,8 @@ Rückkehrer aus dem Ausland
 
 ### Anlage 2 (zu § 18 Absatz 4)
 
-(Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16; bzgl. der einzelnen
+Änderungen vgl. Fußnote)
 
 
 
