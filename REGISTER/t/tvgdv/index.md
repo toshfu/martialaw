@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 25.6.2021 I 2146
 
 Änderung durch
-:   Art. 15 Abs. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 Abs. 11 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Tarifausschuß
