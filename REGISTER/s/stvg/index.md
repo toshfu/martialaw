@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 23.2.2026 I Nr. 46
-
-Änderung durch
-:   Art. 1 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 12.5.2026 I Nr. 142
 
 Änderung durch
 :   Art. 2 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
