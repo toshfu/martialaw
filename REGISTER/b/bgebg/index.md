@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 21.11.2023 I Nr. 315
 
 Änderung durch
-:   Art. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Gebührenerhebung
