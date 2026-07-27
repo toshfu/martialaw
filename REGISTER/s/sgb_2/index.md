@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.5.2011 I 850, 2094;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2025 I Nr. 363
-
-Änderung durch
-:   Art. 1 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1a G v. 16.4.2026 I Nr. 107 ist berücksichtigt
+:   Art. 1a G v. 16.4.2026 I Nr. 107
 
 Mittelbare änderung durch
 :   Art. 1b G v. 16.4.2026 I Nr. 107 ist berücksichtigt
