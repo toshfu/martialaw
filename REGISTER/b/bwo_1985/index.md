@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.4.2002 I 1376;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 12.9.2024 I Nr. 283
-
-Änderung durch
-:   Art. 9 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 3.7.2026 I Nr. 199
 
 
 ## Erster Abschnitt - Wahlorgane
@@ -4189,8 +4186,8 @@ Rückkehrer aus dem Ausland
 
 ### Anlage 2 (zu § 18 Absatz 4)
 
-(Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16; bzgl. der einzelnen
-Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
