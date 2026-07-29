@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2234
 
-Zuletzt geändert durch
-:   Art. 6 G v. 25.10.2023 I Nr. 294
+G aufgeh. durch
+:   Art. 7 G v. 13.7.2026 I Nr. 207 mWv 12.8.2026
+
+Ersetzt durch
+:   G 2129-75 v. 13.7.2026 I Nr. 207 (VerpackDG)
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie 94/62/EG des
 Europäischen Parlaments und des Rates vom 20. Dezember 1994 über
