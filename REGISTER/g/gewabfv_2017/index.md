@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Abs. 3 G v. 30.9.2025 I Nr. 233
 
+Änderung durch
+:   Art. 3 Abs. 4 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: § 4 Abs. 2 und § 6 Abs. 1 u. 3 bis 6 treten gem. § 15 Abs. 2 dieser V am 1.1.2019 in Kraft
 Stand: Ersetzt V 2129-27-2-15 v. 19.6.2002 I 1938 (GewAbfV)
 [^BJNR089600017_01]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
