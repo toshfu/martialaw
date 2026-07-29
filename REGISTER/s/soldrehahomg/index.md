@@ -133,7 +133,7 @@ Geld aus dem Bundeshaushalt.
 
 
 (3) Der Antrag auf Entschädigung ist innerhalb einer Ausschlussfrist
-von fünf Jahren nach dem 23. Juli 2021 beim Bundesministerium der
+von zehn Jahren nach dem 23. Juli 2021 beim Bundesministerium der
 Verteidigung zu stellen. Das Bundesministerium der Verteidigung setzt
 die Entschädigung durch Verwaltungsakt fest.
 
