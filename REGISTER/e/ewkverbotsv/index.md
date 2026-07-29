@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 95
 
+Änderung durch
+:   Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F814780_01_BJNR009500021]:     Diese Verordnung dient der Umsetzung der Artikel 5 und 14 der
     Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom
     5\. Juni 2019 über die Verringerung der Auswirkungen bestimmter
