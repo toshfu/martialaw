@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 9.4.2026 I Nr. 98
 
+Änderung durch
+:   Art. 5 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
@@ -253,17 +256,21 @@ berücksichtigen:
 
 
 
-Der Gesamtbetrag darf den um den Veränderungswert nach § 9 Absatz 1
-Nummer 5 veränderten Gesamtbetrag des Vorjahres nur überschreiten,
-soweit die Tatbestände nach Satz 4 Nummer 5 oder 7 dies erforderm oder
-im Rahmen einer Anpassungsvereinbarung nach Satz 6 eine entsprechende
-Überschreitung als notwendig vereinbart wurde; eine Überschreitung
-aufgrund der Tatbestände nach Satz 4 Nummer 1 oder Nummer 2 ist nur
-zulässig, wenn die Veränderung von Art und Menge der Leistungen durch
-zusätzliche Kapazitäten für medizinische Leistungen aufgrund der
+Der Gesamtbetrag darf den um den für das jeweilige Kalenderjahr nach §
+9 Absatz 1b Satz 1 bis 3 des Krankenhausentgeltgesetzes vereinbarten
+oder festgelegten oder nach § 9 Absatz 2 Satz 1 des
+Krankenhausentgeltgesetzes festgesetzten Veränderungswert veränderten
+Gesamtbetrag des Vorjahres nur überschreiten, soweit eine
+Überschreitung durch die in Satz 4 Nummer 5 oder 7 genannten
+Tatbestände bedingt ist oder soweit im Rahmen einer
+Anpassungsvereinbarung nach Satz 6 eine entsprechende Überschreitung
+als notwendig vereinbart wurde; eine Überschreitung aufgrund der in
+Satz 4 Nummer 1 oder 2 genannten Tatbestände ist nur zulässig, wenn
+die Veränderung der Art und Menge der Leistungen durch zusätzliche
+Kapazitäten für medizinische Leistungen aufgrund der
 Krankenhausplanung oder des Investitionsprogramms des Landes begründet
-oder wenn dies aufgrund von Veränderungen der medizinischen
-Leistungsstruktur oder der Fallzahlen erforderlich ist. Sofern die
+oder wenn die Überschreitung durch Veränderungen der medizinischen
+Leistungsstruktur oder der Fallzahlen bedingt ist. Sofern die
 Vertragsparteien unter Berücksichtigung der Erkrankungsschwere der
 Patientinnen oder Patienten, möglicher Leistungsverlagerungen,
 regionaler oder struktureller Besonderheiten in der
@@ -275,16 +282,29 @@ Entgelte, die die maßgeblichen Vergleichswerte nach § 4 deutlich
 überschreiten, dürfen nur vereinbart werden, wenn der
 Krankenhausträger schlüssig darlegt, aus welchen Gründen die
 Überschreitung unabweisbar ist. Sofern sich auf Grundlage der
-Nachweise nach § 18 Absatz 2 ergibt, dass eine vereinbarte
-Stellenbesetzung nicht vorgenommen wurde, haben die Vertragsparteien
-zu vereinbaren, inwieweit der Gesamtbetrag abzusenken ist. Eine
-Absenkung des Gesamtbetrags nach Satz 8 ist nicht vorzunehmen, wenn
-das Krankenhaus nachweist, dass nur eine vorübergehende und keine
-dauerhafte Unterschreitung der vereinbarten Stellenzahl vorliegt. Wird
-nach einer Absenkung des Gesamtbetrags eine Stellenbesetzung
-vorgenommen, ist der Gesamtbetrag für den nächsten
-Vereinbarungszeitraum in Höhe der entstehenden zusätzlichen Kosten zu
-erhöhen. Der vereinbarte Gesamtbetrag ist sachgerecht aufzuteilen auf
+Nachweise nach § 18 Absatz 2 ergibt, dass bis einschließlich im Jahr
+2025 eine vereinbarte Stellenbesetzung nicht vorgenommen wurde, haben
+die Vertragsparteien zu vereinbaren, inwieweit der Gesamtbetrag
+abzusenken ist. Sofern sich auf Grundlage der Nachweise nach § 18
+Absatz 2 ergibt, dass ab dem Jahr 2026 eine vereinbarte
+Stellenbesetzung nicht vorgenommen wurde oder die für die
+Stellenbesetzung vereinbarten Mittel nicht zweckentsprechend verwendet
+wurden, haben die Vertragsparteien zu vereinbaren, dass nicht
+entstandene Kosten für nicht besetzte Stellen oder nicht
+zweckentsprechend verwendete Mittel im nächstmöglichen
+Vereinbarungszeitraum auszugleichen sind und der Gesamtbetrag in der
+nächstmöglichen Vereinbarung in der Höhe abzusenken ist, in der Kosten
+für nicht besetzte Stellen nicht entstanden sind oder in der Mittel
+nicht zweckentsprechend verwendet wurden. Eine Absenkung des
+Gesamtbetrags nach den Sätzen 8 oder 9 ist nicht vorzunehmen, wenn das
+Krankenhaus nachweist, dass nur eine vorübergehende und keine
+dauerhafte Unterschreitung der vereinbarten Stellenzahl oder der für
+die Stellenbesetzung vereinbarten Mittel vorliegt. Wird nach einer
+Absenkung des Gesamtbetrags nach den Sätzen 8 oder 9 eine
+Stellenbesetzung vorgenommen, ist der Gesamtbetrag in der
+nächstmöglichen Vereinbarung in Höhe der entstehenden zusätzlichen
+Kosten zu erhöhen. Der vereinbarte Gesamtbetrag ist sachgerecht
+aufzuteilen auf
 
 1.  das Erlösbudget und
 
@@ -301,7 +321,7 @@ entsprechender Ausgleich durchzuführen.
 (4) Bei der Vereinbarung einer Erhöhungsrate für Tariferhöhungen nach
 § 9 Absatz 1 Nummer 7 des Krankenhausentgeltgesetzes ist der von den
 Vertragsparteien vereinbarte Gesamtbetrag nach Absatz 2 oder Absatz 3
-um 75 Prozent der nach § 9 Absatz 1 Nummer 7 des
+um 37,5 Prozent der nach § 9 Absatz 1 Nummer 7 des
 Krankenhausentgeltgesetzes vereinbarten Erhöhungsrate für
 Tariferhöhungen erhöhend zu berichtigen, wobei der Berichtigungsbetrag
 über das Budget des nächstmöglichen Pflegesatzzeitraums abzuwickeln
@@ -324,7 +344,7 @@ des jeweiligen Kalenderjahres einen erhöhten Basisentgeltwert bei der
 Abrechnung der mit Bewertungsrelationen bewerteten Entgelte zugrunde
 legen. Der erhöhte Basisentgeltwert ergibt sich aus der Summe des nach
 Satz 1 für das jeweilige Kalenderjahr ermittelten Basisentgeltwerts
-und dem Produkt aus 75 Prozent der nach § 9 Absatz 1 Nummer 7 des
+und dem Produkt aus 37,5 Prozent der nach § 9 Absatz 1 Nummer 7 des
 Krankenhausentgeltgesetzes vereinbarten Erhöhungsrate für
 Tariferhöhungen und dem Quotienten aus 365 und der Anzahl der
 Kalendertage zwischen dem Tag des Inkrafttretens der Vereinbarung
@@ -433,7 +453,8 @@ erstellen die Vertragsparteien auf Bundesebene einen
 leistungsbezogenen Vergleich. In die Ermittlung der Ergebnisse des
 leistungsbezogenen Vergleichs sind insbesondere einzubeziehen
 
-1.  die der letzten Budgetvereinbarung zugrunde gelegten Leistungen,
+1.  die der letzten Budgetvereinbarung zugrunde gelegten Leistungen und
+    Kosten,
 
 
 2.  die regionalen oder strukturellen Besonderheiten in der
@@ -458,10 +479,14 @@ leistungsbezogenen Vergleichs insbesondere auszuweisen
 
 
 2.  die regionalen oder strukturellen Besonderheiten in der
-    Leistungserbringung nach § 6 Absatz 2 sowie
+    Leistungserbringung nach § 6 Absatz 2,
 
 
-3.  der Umfang der personellen Ausstattung.
+3.  der Umfang der personellen Ausstattung und
+
+
+4.  der Umfang der therapeutischen und der weiteren Personalkosten sowie
+    der Sachkosten.
 
 
 
@@ -787,18 +812,7 @@ für die Vertragsparteien nach § 11 insbesondere
     vereinbart werden können,
 
 
-5.  bis zum 31. Oktober jeden Jahres den Veränderungswert nach Maßgabe des
-    § 10 Absatz 6 Satz 6 oder 7 des Krankenhausentgeltgesetzes, wobei
-    bereits anderweitig finanzierte Kostensteigerungen zu berücksichtigen
-    sind, soweit dadurch die Veränderungsrate nach § 71 Absatz 3 des
-    Fünften Buches Sozialgesetzbuch nicht unterschritten wird; im Fall des
-    § 10 Absatz 6 Satz 7 des Krankenhausentgeltgesetzes ist der
-    Veränderungswert ausgehend von dem nach § 10 Absatz 6 Satz 1 des
-    Krankenhausentgeltgesetzes veröffentlichten Orientierungswert unter
-    Berücksichtigung bereits anderweitig finanzierter Kostensteigerungen
-    zu vereinbaren; für das Jahr 2026 entspricht der Veränderungswert dem
-    nach § 10 Absatz 6 Satz 1 des Krankenhausentgeltgesetzes im Jahr 2025
-    veröffentlichten Orientierungswert,
+5.  (weggefallen)
 
 
 6.  den einheitlichen Aufbau der Datensätze und das Verfahren für die
@@ -849,12 +863,7 @@ Abrechnungsbestimmungen nach Nummer 3 ganz oder teilweise nicht
 zustande, gilt § 17d Absatz 6 des Krankenhausfinanzierungsgesetzes. In
 den übrigen Fällen entscheidet auf Antrag einer Vertragspartei die
 Schiedsstelle nach § 18a Absatz 6 des
-Krankenhausfinanzierungsgesetzes; eine Entscheidung über den nach
-Absatz 1 Nummer 5 bis zum 31. Oktober eines Jahres zu vereinbarenden
-Veränderungswert hat die Schiedsstelle bis zum 15. November des
-jeweiligen Jahres und eine Entscheidung über den nach Absatz 1 Nummer
-5 bis zum 26. Dezember 2024 neu zu vereinbarenden Veränderungswert hat
-die Schiedsstelle bis zum 9. Januar 2025 zu treffen.
+Krankenhausfinanzierungsgesetzes.
 
 
 ### § 10 (weggefallen)
@@ -1176,8 +1185,8 @@ Sozialgesetzbuch vereinbart oder nach § 130b Absatz 4 des Fünften
 Buches Sozialgesetzbuch festgesetzt wurde, für Leistungen oder für
 neue Untersuchungs- und Behandlungsmethoden, die die Gabe dieses
 Arzneimittels beinhalten und für die ein Entgelt nach § 6 Absatz 1
-oder 4, ein Entgelt in Höhe des vereinbarten oder festgesetzten
-Erstattungsbetrags zu erheben, sofern für den jeweiligen
+oder 4 zu vereinbaren ist, ein Entgelt in Höhe des vereinbarten oder
+festgesetzten Erstattungsbetrags zu erheben, sofern für den jeweiligen
 Vereinbarungszeitraum kein Entgelt vereinbart oder festgesetzt wurde,
 das niedriger als der jeweils vereinbarte oder festgesetzte
 Erstattungsbetrag ist.
