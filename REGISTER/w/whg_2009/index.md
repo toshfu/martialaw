@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 29.3.2026 I Nr. 84
 
+Änderung durch
+:   Art. 8 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                    Richtlinie 80/68/EWG des Rates
     vom 17. Dezember 1979 über den Schutz des Grundwassers gegen
@@ -470,8 +473,8 @@ Generaldirektion Wasserstraßen und Schifffahrt einzuholen. Soweit
 gesamtstaatliche Belange bei der Pflege der Beziehungen zur
 Europäischen Union, zu auswärtigen Staaten oder zu internationalen
 Organisationen berührt sind, ist bei der Koordinierung nach Absatz 3
-das Einvernehmen des Bundesministeriums für Umwelt, Naturschutz,
-nukleare Sicherheit und Verbraucherschutz einzuholen.
+das Einvernehmen des Bundesministeriums für Umwelt, Klimaschutz,
+Naturschutz und nukleare Sicherheit einzuholen.
 
 (5) Die zuständigen Behörden der Länder ordnen innerhalb der
 Landesgrenzen die Einzugsgebiete oberirdischer Gewässer sowie
@@ -1396,9 +1399,12 @@ Erlaubnis oder der Bewilligung.
 (2) Sieht ein bergrechtlicher Betriebsplan die Benutzung von Gewässern
 vor, so entscheidet die Bergbehörde über die Erteilung der Erlaubnis.
 
-(3) In den Fällen der Absätze 1 und 2 ist die Entscheidung im
-Einvernehmen, bei Planfeststellungen durch Bundesbehörden im Benehmen
-mit der zuständigen Wasserbehörde zu treffen.
+(3) In den Fällen der Absätze 1 und 2 ist die Entscheidung im Benehmen
+mit der zuständigen Wasserbehörde zu treffen. Entscheidungen über
+Deponien, Rohrfernleitungen sowie bergrechtliche Verfahren beim
+Kohleausstieg sind im Einvernehmen, bei Planfeststellungen durch
+Bundesbehörden im Benehmen mit der zuständigen Wasserbehörde zu
+treffen.
 
 (4) Über den Widerruf einer nach Absatz 1 erteilten Erlaubnis oder
 Bewilligung oder einer nach Absatz 2 erteilten Erlaubnis sowie über
@@ -2752,18 +2758,17 @@ Meeresgewässer gelangt, für das die Maßnahmen ergriffen werden. Absatz
 
 #### § 45l Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
 
-Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Ernährung und Landwirtschaft, dem
-Bundesministerium für Verkehr und digitale Infrastruktur und dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates die Zuständigkeit von Bundesbehörden im
-Geschäftsbereich der genannten Bundesministerien für die Durchführung
-der Vorschriften dieses Abschnitts und der auf Grund des § 23 für
-Meeresgewässer erlassenen Vorschriften im Bereich der deutschen
-ausschließlichen Wirtschaftszone und des Festlandsockels sowie das
-Zusammenwirken von Bundesbehörden bei der Durchführung dieser
-Vorschriften in diesem Bereich zu regeln.
+Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium für Landwirtschaft, Ernährung und Heimat, dem
+Bundesministerium für Verkehr und dem Bundesministerium der Finanzen
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Zuständigkeit von Bundesbehörden im Geschäftsbereich der genannten
+Bundesministerien für die Durchführung der Vorschriften dieses
+Abschnitts und der auf Grund des § 23 für Meeresgewässer erlassenen
+Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone
+und des Festlandsockels sowie das Zusammenwirken von Bundesbehörden
+bei der Durchführung dieser Vorschriften in diesem Bereich zu regeln.
 
 
 ### Abschnitt 4 - Bewirtschaftung des Grundwassers
@@ -2923,9 +2928,9 @@ Beachtung der hygienischen Anforderungen.
 (4) Wassergewinnungsanlagen dürfen nur nach den allgemein anerkannten
 Regeln der Technik errichtet, unterhalten und betrieben werden.
 
-(4a) Das Bundesministerium für Umwelt, Naturschutz, nukleare
-Sicherheit und Verbraucherschutz erlässt durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften über
+(4a) Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit erlässt durch Rechtsverordnung mit Zustimmung des
+Bundesrates Vorschriften über
 
 1.  die Bewertung von Einzugsgebieten von Entnahmestellen für die
     Trinkwassergewinnung sowie über das Risikomanagement für solche
@@ -3564,8 +3569,8 @@ nähere Regelungen erlassen werden über
 
 
 2.  die Einsetzung einer Kommission zur Beratung des Bundesministeriums
-    für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz in
-    Fragen der Stoffeinstufung einschließlich hiermit zusammenhängender
+    für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit in Fragen
+    der Stoffeinstufung einschließlich hiermit zusammenhängender
     organisatorischer Fragen,
 
 
@@ -3617,24 +3622,24 @@ zum Umgang mit
 
 #### § 62a Nationales Aktionsprogramm zum Schutz von Gewässern vor Nitrateinträgen aus Anlagen
 
-Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
-Verbraucherschutz erarbeitet im Einvernehmen mit dem Bundesministerium
-für Ernährung und Landwirtschaft ein nationales Aktionsprogramm im
-Sinne des Artikels 5 Absatz 1 in Verbindung mit Absatz 4 Buchstabe b,
-Artikel 4 Absatz 1 Buchstabe a und Anhang II Buchstabe A Nummer 5 der
-Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der
-Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen
-Quellen (ABl. L 375 vom 31.12.1991, S. 1), die zuletzt durch die
-Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1)
-geändert worden ist. Dieses enthält insbesondere Angaben zur
-Beschaffenheit, zur Lage, zur Errichtung und zum Betrieb von Anlagen
-zum Lagern und Abfüllen von Jauche, Gülle und Silagesickersäften sowie
-von vergleichbaren in der Landwirtschaft anfallenden Stoffen. Zu dem
-Entwurf des Aktionsprogramms sowie zu Entwürfen zur Änderung des
-Aktionsprogramms wird eine Strategische Umweltprüfung nach dem Gesetz
-über die Umweltverträglichkeitsprüfung durchgeführt. Das
-Aktionsprogramm und seine Änderungen sind bei Erlass der
-Rechtsverordnung auf Grund des § 23 Absatz 1 Nummer 5 bis 11 in
+Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit erarbeitet im Einvernehmen mit dem
+Bundesministerium für Landwirtschaft, Ernährung und Heimat ein
+nationales Aktionsprogramm im Sinne des Artikels 5 Absatz 1 in
+Verbindung mit Absatz 4 Buchstabe b, Artikel 4 Absatz 1 Buchstabe a
+und Anhang II Buchstabe A Nummer 5 der Richtlinie 91/676/EWG des Rates
+vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch
+Nitrat aus landwirtschaftlichen Quellen (ABl. L 375 vom 31.12.1991, S.
+1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311
+vom 21.11.2008, S. 1) geändert worden ist. Dieses enthält insbesondere
+Angaben zur Beschaffenheit, zur Lage, zur Errichtung und zum Betrieb
+von Anlagen zum Lagern und Abfüllen von Jauche, Gülle und
+Silagesickersäften sowie von vergleichbaren in der Landwirtschaft
+anfallenden Stoffen. Zu dem Entwurf des Aktionsprogramms sowie zu
+Entwürfen zur Änderung des Aktionsprogramms wird eine Strategische
+Umweltprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung
+durchgeführt. Das Aktionsprogramm und seine Änderungen sind bei Erlass
+der Rechtsverordnung auf Grund des § 23 Absatz 1 Nummer 5 bis 11 in
 Verbindung mit § 62 Absatz 4 zu berücksichtigen.
 
 
@@ -3911,6 +3916,12 @@ erheblich beeinträchtigt wird. Deich- und Dammbauten, die den
 Hochwasserabfluss beeinflussen, sowie Bauten des Küstenschutzes stehen
 dem Gewässerausbau gleich.
 
+(3) Maßnahmen des Hochwasser- und Küstenschutzes liegen im
+überragenden öffentlichen Interesse und dienen der öffentlichen
+Sicherheit. Die Hochwasser- und Küstenschutzvorsorge soll als
+vorrangiger Belang in die jeweils durchzuführenden
+Schutzgüterabwägungen eingebracht werden.
+
 
 #### § 68 Planfeststellung, Plangenehmigung
 
@@ -4042,7 +4053,11 @@ beteiligten Behörden sind bestrebt, den Planfeststellungsverfahren
 oder Plangenehmigungsverfahren nach Satz 1 Vorrang bei der Bearbeitung
 einzuräumen. Dabei ist das Beschleunigungsinteresse an anderen
 Vorhaben, die im überragenden öffentlichen Interesse stehen oder der
-öffentlichen Sicherheit dienen, zu beachten.
+öffentlichen Sicherheit dienen, zu beachten. Vorhaben nach Satz 1
+Nummer 1 liegen im überragenden öffentlichen Interesse und dienen der
+öffentlichen Sicherheit. Die Verwirklichung eines Vorhabens nach Satz
+1 ist von militärischer Relevanz und daher als vorrangiger Belang in
+die jeweils durchzuführenden Schutzgüterabwägungen einzubringen.
 
 (2) Auf Antrag des Trägers eines Vorhabens nach Absatz 1 Satz 1 sind
 das Planfeststellungsverfahren oder Plangenehmigungsverfahren sowie
