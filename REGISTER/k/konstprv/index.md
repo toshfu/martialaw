@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1151
 
 Zuletzt geändert durch
-:   Art. 7 G v. 8.8.2020 I 1728
+:   Art. 8 Abs. 11 G v. 23.7.2026 I Nr. 226
 
 
 
@@ -1085,7 +1085,7 @@ können geprüft werden:
     a)  bauaufsichtlich eingeführte Normen,
 
 
-    b)  Gebäudeenergiegesetz,
+    b)  Gebäudemodernisierungsgesetz,
 
 
     c)  Brandschutzverordnung,
