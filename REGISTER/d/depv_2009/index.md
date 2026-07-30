@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 3.7.2024 I Nr. 225
 
+Änderung durch
+:   Art. 18 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 
@@ -1657,9 +1660,9 @@ ist.
 ### § 19 Antrag, Anzeige
 
 (1) Für Errichtung und Betrieb einer Deponie nach § 35 Absatz 2 und 3
-des Kreislaufwirtschaftsgesetzes sowie für die Zulassung vorzeitigen
-Beginns nach § 37 des Kreislaufwirtschaftsgesetzes hat der Träger des
-Vorhabens einen schriftlichen Antrag bei der zuständigen Behörde
+des Kreislaufwirtschaftsgesetzes sowie für die Zulassung des
+vorzeitigen Beginns nach § 37 des Kreislaufwirtschaftsgesetzes hat der
+Träger des Vorhabens einen Antrag bei der zuständigen Behörde
 einzureichen, der mindestens enthalten muss:
 
 1.  den Namen und Wohnsitz oder Sitz des Trägers des Vorhabens, des
@@ -1670,18 +1673,18 @@ einzureichen, der mindestens enthalten muss:
     eine Zulassung des vorzeitigen Beginns beantragt wird,
 
 
-3.  Standort und Bezeichnung der Deponie,
+3.  den Standort und die Bezeichnung der Deponie,
 
 
-4.  Begründung der Notwendigkeit der Maßnahme,
+4.  die Begründung der Notwendigkeit der Maßnahme,
 
 
-5.  Kapazität der Deponie,
+5.  die Kapazität der Deponie,
 
 
-6.  Liste der Abfälle mit Angabe der Abfallschlüssel und
+6.  eine Liste der Abfälle mit Angabe der Abfallschlüssel und
     Abfallbezeichnungen nach der Anlage zur Abfallverzeichnis-Verordnung
-    und einer Beschreibung nach Art und Beschaffenheit,
+    und mit einer Beschreibung nach Art und Beschaffenheit,
 
 
 7.  Angaben zu den planungsrechtlichen Ausweisungen des Standortes, den
@@ -1705,8 +1708,8 @@ einzureichen, der mindestens enthalten muss:
     verwendenden Abfälle mit Angabe der Abfallschlüssel und
     Abfallbezeichnungen nach der Anlage zur Abfallverzeichnis-Verordnung
     einschließlich Angaben über die einzusetzende Gesamtmenge und
-    Beschaffenheit sowie Beschreibung der Einsatzbereiche und Begründung
-    der Notwendigkeit des Einsatzes.
+    Beschaffenheit sowie einer Beschreibung der Einsatzbereiche und
+    Begründung der Notwendigkeit des Einsatzes.
 
 
 
@@ -1726,25 +1729,22 @@ zusätzlich enthalten:
 
 Satz 1 gilt für die wesentliche Änderung einer Deponie oder ihres
 Betriebes entsprechend, beschränkt auf die die Änderung betreffenden
-Angaben. Die Antragstellung kann mit Zustimmung der zuständigen
-Behörde elektronisch oder in elektronischer Form erfolgen. Die
-Anforderungen nach § 6 des Gesetzes über die
-Umweltverträglichkeitsprüfung an die vorzulegenden Unterlagen bleiben
-unberührt.
+Angaben. Die Anforderungen nach § 16 des Gesetzes über die
+Umweltverträglichkeitsprüfung an den Bericht zu den voraussichtlichen
+Umweltauswirkungen des Vorhabens bleiben unberührt.
 
 (2) Für die anzeigebedürftige Änderung einer Deponie oder ihres
 Betriebes nach § 35 Absatz 4 und 5 des Kreislaufwirtschaftsgesetzes
 hat der Träger des Vorhabens mindestens einen Monat vor der
-beabsichtigten Änderung eine schriftliche Anzeige bei der zuständigen
-Behörde einzureichen. Absatz 1 Satz 1, 4 und 5 gilt entsprechend,
-beschränkt auf die die Änderung betreffenden Angaben.
+beabsichtigten Änderung eine Anzeige bei der zuständigen Behörde
+einzureichen. Absatz 1 Satz 1 und 4 gilt entsprechend, beschränkt auf
+die die Änderung betreffenden Angaben.
 
 (3) Die Stilllegung einer Deponie oder eines Deponieabschnittes nach §
 40 Absatz 1 des Kreislaufwirtschaftsgesetzes hat der Deponiebetreiber
 mindestens ein Jahr vor dem beabsichtigten Ende der Ablagerungsphase
-bei der zuständigen Behörde schriftlich anzuzeigen. Absatz 1 Satz 1, 4
-und 5 gilt entsprechend, beschränkt auf die die Stilllegung
-betreffenden Angaben.
+bei der zuständigen Behörde anzuzeigen. Absatz 1 Satz 1 und 4 gilt
+entsprechend, beschränkt auf die die Stilllegung betreffenden Angaben.
 
 
 ### § 20 Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
@@ -1756,7 +1756,7 @@ oder ersucht ein anderer Staat, der möglicherweise von den
 Auswirkungen erheblich berührt wird, darum, hat die zuständige Behörde
 die von dem anderen Staat benannten Behörden zum gleichen Zeitpunkt
 und im gleichen Umfang über das Vorhaben zu unterrichten wie die nach
-§ 73 Absatz 2 des Verwaltungsverfahrensgesetzes zu beteiligenden
+§ 73a Absatz 1 des Verwaltungsverfahrensgesetzes zu beteiligenden
 Behörden. Für das weitere Verfahren der grenzüberschreitenden
 Behörden- und Öffentlichkeitsbeteiligung ist § 11a der Verordnung über
 das Genehmigungsverfahren entsprechend anzuwenden.
@@ -4177,7 +4177,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Deponiekörpers sowie Trag- und Ausgleichsschicht und Gasdränschicht
             des Oberflächen-
             abdichtungssystems bei Deponien
-[^f772033_14_BJNR090010009BJNE003204116]
+[^f772033_14_BJNR090010009BJNE003205129]
             **oder Deponieabschnitten, die**
 
         *
@@ -4207,7 +4207,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   5
 
-        *[^f772033_15_BJNR090010009BJNE003204116]
+        *[^f772033_15_BJNR090010009BJNE003205129]
    5
 
         *   6
@@ -4221,7 +4221,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             geologische Barriere noch die Anforderungen an das
             Basisabdichtungssystem nach Anhang 1 vollständig einhalten
 
-        *[^f772033_16_BJNR090010009BJNE003204116]
+        *[^f772033_16_BJNR090010009BJNE003205129]
 
         *   5
             2                             )
@@ -4263,7 +4263,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *
         *
-        *[^f772033_17_BJNR090010009BJNE003204116]
+        *[^f772033_17_BJNR090010009BJNE003205129]
 
         *   4                             )
 
@@ -4445,7 +4445,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   8
 
-        *[^F775746_02_BJNR090010009BJNE003204116]
+        *[^F775746_02_BJNR090010009BJNE003205129]
    9
 
 
@@ -4478,7 +4478,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   organischer
             Anteil des
             Trockenrückstandes der Original-
-[^F775746_03_BJNR090010009BJNE003204116]
+[^F775746_03_BJNR090010009BJNE003205129]
             **substanz**
 
         *
@@ -4496,15 +4496,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Masse% TM
 
-        *[^F775746_18_BJNR090010009BJNE003204116]
+        *[^F775746_18_BJNR090010009BJNE003205129]
    *                              3
 
         *   *                              3
 
         *   *                              3
-[^F775746_04_BJNR090010009BJNE003204116]
-[^F775746_05_BJNR090010009BJNE003204116]
-[^F775746_06_BJNR090010009BJNE003204116]
+[^F775746_04_BJNR090010009BJNE003205129]
+[^F775746_05_BJNR090010009BJNE003205129]
+[^F775746_06_BJNR090010009BJNE003205129]
 
         *   *                              5
             3                             )
@@ -4618,7 +4618,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *[^F775746_07_BJNR090010009BJNE003204116]
+        *[^F775746_07_BJNR090010009BJNE003205129]
    *                              5
 
 
@@ -4649,7 +4649,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             gefährlichen
             Abfällen
             ermittelt
-[^F775746_08_BJNR090010009BJNE003204116]
+[^F775746_08_BJNR090010009BJNE003205129]
             werden
 
         *   muss bei
@@ -4797,7 +4797,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   3.01
 
-        *[^F775746_09_BJNR090010009BJNE003204116]
+        *[^F775746_09_BJNR090010009BJNE003205129]
    pH-Wert
 
         *
@@ -4816,7 +4816,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   3.02
 
-        *[^F775746_10_BJNR090010009BJNE003204116]
+        *[^F775746_10_BJNR090010009BJNE003205129]
    DOC
 
         *   mg/l
@@ -4825,12 +4825,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   *                              50
 
         *   *                              50
-[^F775746_11_BJNR090010009BJNE003204116]
+[^F775746_11_BJNR090010009BJNE003205129]
             3                             )
 
         *   *                              80
             3                             )
-[^F775746_12_BJNR090010009BJNE003204116]
+[^F775746_12_BJNR090010009BJNE003205129]
             10                             )
 
         *   *                              100
@@ -4990,8 +4990,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   3.11
 
-        *[^F775746_13_BJNR090010009BJNE003204116]
-   Chlorid
+        *   Chlorid
+            12                             )
 
         *   mg/l
 
@@ -4999,16 +4999,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   *                              80
 
-        *[^F775746_14_BJNR090010009BJNE003204116]
-   *                              1 500
+        *   *                              1 500
+            13                             )
 
         *   *                              1 500
             13                             )
 
         *   *                              2 500
 
-        *[^F775746_15_BJNR090010009BJNE003204116]
-   *                              10
+        *   *                             10
+            14                             )
+            17                             )
 
 
     *        *   3.12
@@ -5020,10 +5021,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   *                              50
 
-        *[^F775746_16_BJNR090010009BJNE003204116]
-   *                              100
+        *   *                              100
+            15                             )
 
-        *   *                              2 000
+        *   *                             2 000
             13                             )
 
         *   *                              2 000
@@ -5033,6 +5034,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   *                              50
             14                             )
+            17                             )
 
 
     *        *   3.13
@@ -5129,7 +5131,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   3.18a
 
-        *[^F775746_17_BJNR090010009BJNE003204116]
+        *[^F775746_17_BJNR090010009BJNE003205129]
    Antimon
 
         *   mg/l
@@ -5190,6 +5192,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   3.20
 
         *   Gesamtgehalt an
+[^F775746_13_BJNR090010009BJNE003205129]
             gelösten Feststoffen
 
         *   mg/l
@@ -5218,10 +5221,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              500
+        *[^F775746_19_BJNR090010009BJNE003205129]
+   *                              500
 
 
 
+[^F775746_14_BJNR090010009BJNE003205129]
+[^F775746_15_BJNR090010009BJNE003205129]
+[^F775746_16_BJNR090010009BJNE003205129]
 
 
 
@@ -5232,7 +5239,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     wenn einzelne Zuordnungswerte nach Nummer 2 Tabelle 2 überschritten
     werden. Dabei dürfen keine nachteiligen Auswirkungen auf das
     Deponieverhalten zu erwarten sein.
-[^f772033_14_BJNR090010009BJNE003204116]:     Kann der Deponiebetreiber gegenüber der zuständigen Behörde auf Grund
+[^f772033_14_BJNR090010009BJNE003205129]:     Kann der Deponiebetreiber gegenüber der zuständigen Behörde auf Grund
     einer Bewertung der Risiken für die Umwelt den Nachweis erbringen,
     dass die Verwendung von Deponieersatzbaustoffen, die einzelne
     Zuordnungswerte nach Nummer 2 Tabelle 2 Spalte 5 nicht einhalten,
@@ -5250,27 +5257,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Klasse II mindestens die Zuordnungswerte nach Tabelle 2 Spalte 6 und
     bei einer Deponie der Klasse III mindestens die Zuordnungswerte nach
     Tabelle 2 Spalte 7 eingehalten werden.
-[^f772033_15_BJNR090010009BJNE003204116]:     Deponieersatzbaustoffe müssen bei einem Einsatz auf einer Deponie der
+[^f772033_15_BJNR090010009BJNE003205129]:     Deponieersatzbaustoffe müssen bei einem Einsatz auf einer Deponie der
     Klasse 0, die über keine vollständige geologische Barriere nach Anhang
     1 Tabelle 1 verfügt, mindestens die Anforderungen einhalten, unter
     denen eine Verwertung entsprechender Abfälle außerhalb des
     Deponiekörpers zulässig wäre.
-[^f772033_16_BJNR090010009BJNE003204116]:     In diesen Einsatzbereichen müssen die Deponieersatzbaustoffe
+[^f772033_16_BJNR090010009BJNE003205129]:     In diesen Einsatzbereichen müssen die Deponieersatzbaustoffe
     mindestens die Anforderungen für ein vergleichbares Einsatzgebiet
     außerhalb von Deponien in technischen Bauwerken ohne besondere
     Anforderungen an den Standort und ohne technische Sicherungsmaßnahmen
     einhalten.
-[^f772033_17_BJNR090010009BJNE003204116]:     In Gebieten mit naturbedingt oder großflächig siedlungsbedingt
+[^f772033_17_BJNR090010009BJNE003205129]:     In Gebieten mit naturbedingt oder großflächig siedlungsbedingt
     erhöhten Schadstoffgehalten in Böden ist eine Verwendung von
     Bodenmaterial aus diesen Gebieten zulässig, welches die
     Hintergrundgehalte des Gebietes nicht überschreitet, sofern die
     Funktion der Rekultivierungsschicht nicht beeinträchtigt wird.
-[^F775746_02_BJNR090010009BJNE003204116]:     Nummer 1.01 kann gleichwertig zu Nummer 1.02 angewandt werden.
-[^F775746_03_BJNR090010009BJNE003204116]:     Für Bodenmaterial ohne Fremdbestandteile sind Überschreitungen beim
+[^F775746_02_BJNR090010009BJNE003205129]:     Nummer 1.01 kann gleichwertig zu Nummer 1.02 angewandt werden.
+[^F775746_03_BJNR090010009BJNE003205129]:     Für Bodenmaterial ohne Fremdbestandteile sind Überschreitungen beim
     Glühverlust bis 5 Masse% oder beim TOC bis 3 Masse% zulässig, wenn die
     Überschreitung ausschließlich auf natürliche Bestandteile des
     Bodenmaterials zurückgeht.
-[^F775746_18_BJNR090010009BJNE003204116]: [^F775746_04_BJNR090010009BJNE003204116]:     Eine Überschreitung des Zuordnungswertes ist mit Zustimmung der
+[^F775746_18_BJNR090010009BJNE003205129]: [^F775746_04_BJNR090010009BJNE003205129]:     Eine Überschreitung des Zuordnungswertes ist mit Zustimmung der
     zuständigen Behörde bei Bodenaushub (Abfallschlüssel 17 05 04 und 20
     02 02 nach der Anlage zur Abfallverzeichnis-Verordnung) und bei
     Baggergut (Abfallschlüssel 17 05 06 nach der Anlage zur
@@ -5310,44 +5317,50 @@ gemeinsamer Ablagerung mit gipshaltigen Abfällen darf der TOC-Wert der
 in Satz 1 genannten Abfälle oder Deponieersatzbaustoffe maximal 5
 Masseprozent betragen. Eine Überschreitung dieses TOC-Wertes ist
 zulässig, wenn der DOC-Wert maximal 80 mg/l beträgt.
-[^F775746_05_BJNR090010009BJNE003204116]: Gilt nicht für Asphalt auf Bitumen- oder auf Teerbasis.
-[^F775746_06_BJNR090010009BJNE003204116]: Bei PAK-Gehalten von mehr als 3 mg/kg ist mit Hilfe eines
+[^F775746_05_BJNR090010009BJNE003205129]: Gilt nicht für Asphalt auf Bitumen- oder auf Teerbasis.
+[^F775746_06_BJNR090010009BJNE003205129]: Bei PAK-Gehalten von mehr als 3 mg/kg ist mit Hilfe eines
 Säulenversuches nach Anhang 4 Nummer 3.2.2 nachzuweisen, dass in dem
 Säuleneluat bei einem Flüssigkeits-Feststoffverhältnis von 2:1 ein
 Wert von 0,2 µg/l nicht überschritten wird.
-[^F775746_07_BJNR090010009BJNE003204116]: Nicht erforderlich bei asbesthaltigen Abfällen und Abfällen, die
+[^F775746_07_BJNR090010009BJNE003205129]: Nicht erforderlich bei asbesthaltigen Abfällen und Abfällen, die
 andere gefährliche Mineralfasern enthalten.
-[^F775746_08_BJNR090010009BJNE003204116]: Abweichende pH-Werte stellen allein kein Ausschlusskriterium dar. Bei
+[^F775746_08_BJNR090010009BJNE003205129]: Abweichende pH-Werte stellen allein kein Ausschlusskriterium dar. Bei
 Über- oder Unterschreitungen ist die Ursache zu prüfen. Werden jedoch
 auf Deponien der Klassen I und II gefährliche Abfälle abgelagert, muss
 deren pH-Wert mindestens 6,0 betragen.
-[^F775746_09_BJNR090010009BJNE003204116]: Der Zuordnungswert für DOC ist auch eingehalten, wenn der Abfall oder
+[^F775746_09_BJNR090010009BJNE003205129]: Der Zuordnungswert für DOC ist auch eingehalten, wenn der Abfall oder
 der Deponieersatzbaustoff den Zuordnungswert nicht bei seinem eigenen
 pH-Wert, aber bei einem pH-Wert zwischen 7,5 und 8,0 einhält.
-[^F775746_10_BJNR090010009BJNE003204116]: Auf Abfälle oder Deponieersatzbaustoffe auf Gipsbasis nur anzuwenden,
+[^F775746_10_BJNR090010009BJNE003205129]: Auf Abfälle oder Deponieersatzbaustoffe auf Gipsbasis nur anzuwenden,
 wenn sie gemeinsam mit gefährlichen Abfällen abgelagert oder
 eingesetzt werden.
-[^F775746_11_BJNR090010009BJNE003204116]: Überschreitungen des DOC-Wertes bis maximal 100 mg/l sind zulässig,
+[^F775746_11_BJNR090010009BJNE003205129]: Überschreitungen des DOC-Wertes bis maximal 100 mg/l sind zulässig,
 wenn auf der Deponie oder dem Deponieabschnitt keine gipshaltigen
 Abfälle und seit dem 16. Juli 2005 ausschließlich nicht gefährliche
 Abfälle oder Deponieersatzbaustoffe abgelagert oder eingesetzt werden.
-[^F775746_12_BJNR090010009BJNE003204116]: Nummer 3.20 kann, außer in den Fällen gemäß Spalte 9
+[^F775746_12_BJNR090010009BJNE003205129]: Nummer 3.20 kann, außer in den Fällen gemäß Spalte 9
 (Rekultivierungsschicht), gleichwertig zu den Nummern 3.11 und 3.12
 angewandt werden.
-[^F775746_13_BJNR090010009BJNE003204116]: Der Zuordnungswert gilt nicht, wenn auf der Deponie oder dem
+[^F775746_13_BJNR090010009BJNE003205129]: Der Zuordnungswert gilt nicht, wenn auf der Deponie oder dem
 Deponieabschnitt seit dem 16. Juli 2005 ausschließlich nicht
 gefährliche Abfälle oder Deponieersatzbaustoffe abgelagert oder
 eingesetzt werden.
-[^F775746_14_BJNR090010009BJNE003204116]: Untersuchung entfällt bei Bodenmaterial ohne mineralische
+[^F775746_14_BJNR090010009BJNE003205129]: Untersuchung entfällt bei Bodenmaterial ohne mineralische
 Fremdbestandteile.
-[^F775746_15_BJNR090010009BJNE003204116]: [^F775746_16_BJNR090010009BJNE003204116]: Überschreitungen des Sulfatwertes bis zu einem Wert von 600 mg/l sind
+[^F775746_15_BJNR090010009BJNE003205129]: [^F775746_16_BJNR090010009BJNE003205129]: Überschreitungen des Sulfatwertes bis zu einem Wert von 600 mg/l sind
 zulässig, wenn der C             o             -Wert der
 Perkolationsprüfung den Wert von 1 500 mg/l bei L/S = 0,1 l/kg nicht
 überschreitet.
-[^F775746_17_BJNR090010009BJNE003204116]: Überschreitungen des Antimonwertes nach Nummer 3.18a sind zulässig,
+[^F775746_17_BJNR090010009BJNE003205129]: Überschreitungen des Antimonwertes nach Nummer 3.18a sind zulässig,
 wenn der C             o             -Wert der Perkolationsprüfung bei
 L/S = 0,1 l/kg nach Nummer 3.18b nicht überschritten wird.
-
+Bei Überschreitung des Zuordnungswertes ist die Ursache zu prüfen. Im
+Falle von naturbedingt erhöhter Konzentration ist eine Überschreitung
+des Zuordnungswertes bei Bodenmaterial oder aufbereitetem Baggergut
+mit Zustimmung der zuständigen Behörde im Einzelfall zulässig, wenn
+eine Wasserhaushaltsschicht gemäß Anhang 1 Nummer 2.3.1.1 errichtet
+wird.
+[^F775746_19_BJNR090010009BJNE003205129]: 
 
 ### Anhang 4 Vorgaben zur Beprobung (Probenahme, Probevorbereitung und Untersuchung von Abfällen und Deponieersatzbaustoffen) (zu § 6 Absatz 2, § 8 Absatz 1, 3 und 5, § 23)
 
