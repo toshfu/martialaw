@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 3.7.2024 I Nr. 224
 
 Änderung durch
-:   Art. 2 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 2 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Ausbau des Schienenwegenetzes des Bundes
@@ -32,11 +32,13 @@ als Anlage beigefügt ist.
 Planfeststellung nach § 18 des Allgemeinen Eisenbahngesetzes
 verbindlich.
 
-(3) Der Bau oder die Änderung eines Bundesschienenweges, der fest
-disponiert ist oder für den der Bedarfsplan einen Vordringlichen
-Bedarf feststellt, liegt im überragenden öffentlichen Interesse. Im
-überragenden öffentlichen Interesse liegen auch folgende Vorhaben und
-Maßnahmen in Bezug auf die Bundesschienenwege:
+(3) Der Ausbau, Neubau und Ersatzneubau von Schienenwegen der
+Eisenbahnen des Bundes liegt im überragenden öffentlichen Interesse
+und dient der öffentlichen Sicherheit. Dies gilt insbesondere für den
+Bau oder die Änderung eines Bundesschienenweges, der fest disponiert
+ist oder für den der Bedarfsplan einen Vordringlichen Bedarf
+feststellt sowie für folgende Vorhaben und Maßnahmen in Bezug auf die
+Bundesschienenwege:
 
 1.  Vorhaben zur Verbesserung der Verkehrsverhältnisse für den
     Schienenpersonennahverkehr, deren Finanzierung ganz oder teilweise mit
@@ -45,22 +47,28 @@ Maßnahmen in Bezug auf die Bundesschienenwege:
 
 
 2.  Vorhaben, die in Anlage 4 Abschnitt 2 und Anlage 5 Abschnitt 2 zum
-    Investitionsgesetz Kohleregionen vom 8. August 2020 (BGBl. I S. 1795)
-    bezeichnet sind,
+    Investitionsgesetz Kohleregionen vom 8. August 2020 (BGBl. I S. 1795),
+    das durch Artikel 9 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I
+    Nr. 409) geändert worden ist, bezeichnet sind,
 
 
 3.  mehrere Schienenwegabschnitte übergreifende Maßnahmen zur Änderung,
     Unterhaltung, Instandsetzung und Erneuerung von Betriebsanlagen, die
     mindestens einen nach § 55 Absatz 1 Satz 1 des
     Eisenbahnregulierungsgesetzes als überlastet erklärten Schienenweg
-    umfassen sowie
+    umfassen,
 
 
 4.  Maßnahmen zur Digitalisierung von Schienenwegen und Schienenknoten,
-    priorisiert Schienenkorridoren des transeuropäischen Verkehrsnetzes,
     soweit das Unionsrecht eine Pflicht zur durchgehenden Ausrüstung der
     Schienenverkehrsinfrastruktur des Kernnetzes mit dem Europäischen
-    Eisenbahnverkehrsleitsystem vorschreibt.
+    Eisenbahnverkehrsleitsystem vorschreibt, sowie
+
+
+5.  Maßnahmen zur Herstellung des Transformatorennetzes nach § 53b Absatz
+    2 Satz 1 des Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBl. I S.
+    1970, 3621), das zuletzt durch Artikel 5 des Gesetzes vom 29. März
+    2026 (BGBl. 2026 I Nr. 84) geändert worden ist.
 
 
 
@@ -97,17 +105,16 @@ angemessen zu berücksichtigen.
 
 (3) Für Maßnahmen, die der Erhöhung der Netzresilienz bei einem
 Vorhaben des Bedarfsplans für die Bundesschienenwege dienen, hat das
-Bundesministerium für Digitales und Verkehr die Modalitäten für das
-anzuwendende Verfahren des Nachweises der Wirtschaftlichkeit
-festzulegen.
+Bundesministerium für Verkehr die Modalitäten für das anzuwendende
+Verfahren des Nachweises der Wirtschaftlichkeit festzulegen.
 
 
 ## § 4 Überprüfung des Bedarfs
 
 (1) Spätestens nach Ablauf von jeweils fünf Jahren prüft das
-Bundesministerium für Digitales und Verkehr ob der Bedarfsplan der
-zwischenzeitlich eingetretenen Wirtschafts- und Verkehrsentwicklung
-anzupassen ist. Die Anpassung und Aufstellung erfolgen durch Gesetz.
+Bundesministerium für Verkehr ob der Bedarfsplan der zwischenzeitlich
+eingetretenen Wirtschafts- und Verkehrsentwicklung anzupassen ist. Die
+Anpassung und Aufstellung erfolgen durch Gesetz.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der
 Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582) bleibt unberührt.
@@ -116,9 +123,9 @@ Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582) bleibt unberührt.
 ## § 5 Planungszeitraum
 
 Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
-Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Die
-Fünfjahrespläne bilden die Grundlage für die Aufstellung von
-Ausbauplänen für die Bundesschienenwege.
+Bundesministerium für Verkehr Fünfjahrespläne auf. Die Fünfjahrespläne
+bilden die Grundlage für die Aufstellung von Ausbauplänen für die
+Bundesschienenwege.
 
 
 ## § 6 Unvorhergesehener Bedarf
@@ -131,9 +138,9 @@ Bedarfsplan entsprechen.
 
 ## § 7 Berichtspflicht
 
-Das Bundesministerium für Digitales und Verkehr berichtet dem
-Deutschen Bundestag jährlich über den Fortgang des Ausbaus des
-Schienenwegenetzes nach dem Stand vom 31. Dezember des Vorjahres.
+Das Bundesministerium für Verkehr berichtet dem Deutschen Bundestag
+jährlich über den Fortgang des Ausbaus des Schienenwegenetzes nach dem
+Stand vom 31. Dezember des Vorjahres.
 
 
 ## § 8 Investitionen
@@ -332,12 +339,12 @@ Vorserienfahrzeugen („First of Class“) bis zu 90 Prozent und der
 Ausrüstung von Serienfahrzeugen bis zu 60 Prozent finanzieren, sofern
 dafür die nach dem Beihilferecht der Europäischen Union zu beachtenden
 Voraussetzungen vorliegen. Die Einzelheiten sind vom Bundesministerium
-für Digitales und Verkehr in einer Förderrichtlinie zu regeln. In
-dieser sind Anreize für die zügige Ausrüstung von Vorserienfahrzeugen
-aufzunehmen. Diese Förderrichtlinie wird zum 31. Dezember 2028 vom
-Bundesministerium für Digitales und Verkehr im Hinblick auf ihre
-Zielerreichung und die Höhe der Förderung evaluiert. § 11b Absatz 1,
-2, 4 und 5 findet auf diesen Absatz keine Anwendung.
+für Verkehr in einer Förderrichtlinie zu regeln. In dieser sind
+Anreize für die zügige Ausrüstung von Vorserienfahrzeugen aufzunehmen.
+Diese Förderrichtlinie wird zum 31. Dezember 2028 vom
+Bundesministerium für Verkehr im Hinblick auf ihre Zielerreichung und
+die Höhe der Förderung evaluiert. § 11b Absatz 1, 2, 4 und 5 findet
+auf diesen Absatz keine Anwendung.
 
 (5) Der Bund kann sich an den Kosten für die Instandhaltung von
 Anlagen zur Herstellung von Barrierefreiheit an Verkehrsstationen oder
@@ -372,7 +379,7 @@ eine Koordinierungsstelle. Diese wird in Zusammenarbeit der
 betroffenen Eisenbahnverkehrsunternehmen,
 Eisenbahninfrastrukturunternehmen der Eisenbahnen des Bundes, Länder
 und Aufgabenträger errichtet und betrieben. Das Bundesministerium für
-Digitales und Verkehr unterstützt die Arbeit der Koordinierungsstelle.
+Verkehr unterstützt die Arbeit der Koordinierungsstelle.
 
 
 ## § 11b Finanzierungsvorbehalte; Ablösung einer Vorfinanzierung
@@ -421,8 +428,8 @@ Bündelung von Instandhaltungsmaßnahmen, Ersatzinvestitionen und
 weiteren investiven Maßnahmen während einer einmaligen, mehrmonatigen
 Vollsperrung vorzusehen. Das zuständige
 Eisenbahninfrastrukturunternehmen der Eisenbahnen des Bundes kann in
-Abstimmung mit dem Bundesministerium für Digitales und Verkehr von der
-einmaligen, mehrmonatigen Vollsperrung gemäß Satz 1 abweichen.
+Abstimmung mit dem Bundesministerium für Verkehr von der einmaligen,
+mehrmonatigen Vollsperrung gemäß Satz 1 abweichen.
 
 (2) Hochleistungskorridore im Sinne von Absatz 1 Satz 1 sind
 insbesondere:
