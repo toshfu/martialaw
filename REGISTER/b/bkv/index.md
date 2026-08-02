@@ -287,9 +287,10 @@ Zusammenfassung der wissenschaftlichen Entscheidungsgründe.
 
 (5) Das Bundesministerium für Arbeit und Soziales gibt die
 Empfehlungen und Stellungnahmen des Sachverständigenbeirats bekannt;
-die Abschlussvermerke werden veröffentlicht. Die vorbereitenden,
-intern erstellten Beratungsunterlagen des Sachverständigenbeirats sind
-vertraulich.
+die Abschlussvermerke werden veröffentlicht. Die Beratungsunterlagen
+des Sachverständigenbeirats sind mit Ausnahme der in Satz 1 genannten
+Dokumente vertraulich. Sie unterliegen auch nach Abschluss der
+Beratungen der Vertraulichkeit.
 
 
 ### § 10 Geschäftsstelle
@@ -560,6 +561,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Allgemeinerkrankung sind, die durch Aufnahme der schädigenden Stoffe
         in den Körper verursacht werden, oder gemäß Nummer 5101 zu
         entschädigen sind.
+
+
+*    *   1322
+
+    *   Parkinson-Syndrom durch langjährig, häufig und selbst angewendete
+        Pestizide
 
 
 *    *   **2**
