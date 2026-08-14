@@ -1592,7 +1592,7 @@ vermitteln:
         2025 (BGBl. 2025 I Nr. 233) und
 
 
-    c)  das Verpackungsgesetz,
+    c)  das Verpackungsrecht-Durchführungsgesetz,
 
 
 
