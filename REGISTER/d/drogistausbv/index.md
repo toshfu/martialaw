@@ -802,8 +802,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   d)
 
     *   Transportverpackungen unter Berücksichtigung der Rücknahme- und
-        Verwertungspflichten nach dem Verpackungsgesetz umweltgerecht
-        entsorgen
+        Verwertungspflichten nach dem Verpackungsrecht-Durchführungsgesetz
+        umweltgerecht entsorgen
 
 
 *    *   e)
@@ -1065,8 +1065,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   b)
 
     *   Kunden auf Rücknahme- und Verwertungspflichten nach dem
-        Verpackungsgesetz hinweisen, kostenlose Rückgabemöglichkeit der
-        Verpackungen im Ausbildungsbetrieb erläutern
+        Verpackungsrecht-Durchführungsgesetz hinweisen, kostenlose
+        Rückgabemöglichkeit der Verpackungen im Ausbildungsbetrieb erläutern
 
 
 *    *   c)
@@ -1880,8 +1880,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   c)
 
-    *   Begriffe des Verpackungsgesetzes erläutern, Rücknahme- und
-        Verwertungspflichten für Verpackungen im Handel erläutern
+    *   Begriffe des Verpackungsrecht-Durchführungsgesetzes erläutern,
+        Rücknahme- und Verwertungspflichten für Verpackungen im Handel
+        erläutern
 
 
 *    *   d)
