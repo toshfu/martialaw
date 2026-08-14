@@ -1816,11 +1816,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         bedürfen**
 
         *            *   Abfallbezeichnung
-[^f780003_02_BJNR295500998BJNE001706125]
+[^f780003_02_BJNR295500998BJNE001707130]
                 gemäß der Anlage der AVV
                 (in Klammern: Abfallschlüssel)
 
-            *[^f780003_03_BJNR295500998BJNE001706125]
+            *[^f780003_03_BJNR295500998BJNE001707130]
    Geeignete Abfälle
                 aus
                 den in Spalte 1 genannten
@@ -1916,7 +1916,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             *   (Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft,
                 Forstwirtschaft, Jagd und Fischerei)
-[^f780003_04_BJNR295500998BJNE001706125]
+[^f780003_04_BJNR295500998BJNE001707130]
                 Die Bestimmungen dieser Verordnung sind für tierische Ausscheidungen,
                 auch mit Einstreu, nur anwendbar, soweit diese nicht als tierische
                 Nebenprodukte (Gülle von Nutztieren) der Verordnung (EG) Nr. 1069/2009
@@ -2295,7 +2295,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 dieses aus der Verarbeitung von Häuten der Kategorie 3 gemäß
                 Verordnung (EG) Nr. 1069/2009
                 stammt.
-[^f780003_05_BJNR295500998BJNE001706125]
+[^f780003_05_BJNR295500998BJNE001707130]
                 Geäschertes Leimleder gemäß Anhang XIII Kapitel V Buchstabe C Nummer 2
                 Buchstabe d der Verordnung (EU) Nr. 142/2011
                 gilt gemäß § 3 Absatz 3 Satz 5 in Verbindung mit § 2 Nummer 2
@@ -2470,7 +2470,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *            *   Biologisch abbaubare Abfälle
                 (20 02 01)
 
-            *[^f780003_06_BJNR295500998BJNE001706125]
+            *[^f780003_06_BJNR295500998BJNE001707130]
    – Biologisch abbaubare Abfälle von Sportanlagen, -plätzen, -stätten
                 und Kinderspielplätzen (soweit nicht Garten- und Parkabfälle)
                 – Biologisch abbaubare Friedhofsabfälle
@@ -2493,16 +2493,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.
 
 
-        *            *[^f780003_07_BJNR295500998BJNE001706125]
-   Gemischte Siedlungsabfälle
+        *            *   Gemischte Siedlungs-
+[^F836757_03_BJNR295500998BJNE001707130]
+                abfälle
                 (20 03 01)
 
-            *   – Getrennt gesammelte Bioabfälle
+            *   Getrennt gesammelte
+                Bioabfälle
+                , einschließlich durchlässiger aufweichender Einzelportionseinheiten
+                für Tee, Kaffee oder andere Getränke nach Artikel 3 Absatz 1 Nummer 1
+                Buchstabe f der
+                Verordnung (EU) 2025/40
 
             *   (Andere Siedlungsabfälle)
                 Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle
                 (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger
                 Einrichtungen.
+                Sofern durchlässige aufweichende Einzelportionseinheiten für Tee,
+                Kaffee oder andere Getränke nach Artikel 3 Absatz 1 Nummer 1 Buchstabe
+                f der Verordnung (EU) 2025/40 aus biologisch abbaubaren Kunststoffen
+                bestehen, dürfen diese nur zusammen mit den gesammelten Bioabfällen
+                der Kompostierung zugegeben werden, wenn sie nach DIN EN 13432
+                (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10)
+                zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis
+                beinhalten, dass nach einer Kompostierung von höchstens sechs Wochen
+                Dauer eine vollständige Desintegration mit einem Siebdurchgang von
+                maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine
+                Zusatzzertifizierung erbracht werden.
 
 
         *            *   Marktabfälle
@@ -3027,7 +3044,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             biologisch abbaubare Kunststoff-Sammelbeutel zugegeben werden.
 
 
-    *        *[^f780003_08_BJNR295500998BJNE001706125]
+    *        *[^f780003_08_BJNR295500998BJNE001707130]
    Materialien gemäß Düngemittelverordnung
             (sofern Materialien im Einzelfall Abfälle gemäß
             Kreislaufwirtschaftsgesetz sind, Zuordnung zu einer Abfallbezeichnung)
@@ -3109,7 +3126,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   – Bodenmaterialien
 
-        *[^bjnr295500998bjne001706125_08_BJNR295500998BJNE001706125]
+        *[^bjnr295500998bjne001706125_08_BJNR295500998BJNE001707130]
    Bodenmaterialien sind geeignete biologisch abbaubare Materialien und
             mineralische Stoffe gemäß Spalte 2, wenn diese die Vorsorgewerte für
             Böden nach Anhang 2 Nummer 4 der Bundes-Bodenschutz- und
@@ -3135,41 +3152,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Abfallverzeichnis-Verordnung (AVV) vom 10. Dezember 2001 (BGBl. I S.
     3379), die zuletzt durch Artikel 1 der Verordnung vom 30. Juni 2020
     (BGBl. I S. 1533) geändert worden ist.
-[^f780003_02_BJNR295500998BJNE001706125]:     Abfälle in Anlehnung an den Abfallartenkatalog der
+[^f780003_02_BJNR295500998BJNE001707130]:     Abfälle in Anlehnung an den Abfallartenkatalog der
     Länderarbeitsgemeinschaft Abfall, 16. Länderarbeitsgemeinschaft
     Abfall: LAGA-Informationsschrift Abfallarten – 1991, Mitteilungen der
     Länderarbeitsgemeinschaft Abfall (LAGA) – Erich Schmidt Verlag,
     Berlin.
-[^f780003_03_BJNR295500998BJNE001706125]:     Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des
+[^f780003_03_BJNR295500998BJNE001707130]:     Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des
     Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den
     menschlichen Verzehr bestimmte tierische Nebenprodukte und zur
     Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische
     Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die zuletzt durch
     die Richtlinie 2010/63/EU (ABl. L 276 vom 20.10.2010, S. 33) geändert
     worden ist, in der jeweils geltenden Fassung.
-[^f780003_04_BJNR295500998BJNE001706125]:     Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur
+[^f780003_04_BJNR295500998BJNE001707130]:     Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur
     Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen
     Parlaments und des Rates mit Hygienevorschriften für nicht für den
     menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur
     Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter
     gemäß der genannten Richtlinie von Veterinärkontrollen an der Grenze
     befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1).
-[^f780003_05_BJNR295500998BJNE001706125]:     Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die
+[^f780003_05_BJNR295500998BJNE001707130]:     Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die
     AVV keine spezielle Abfallbezeichnung für außerhalb von Gärten und
     Parks anfallende biologisch abbaubare Abfälle von Sportanlagen,
     -plätzen, -stätten und Kinderspielplätzen, Gehölzrodungsrückstände und
     pflanzliche Abfälle aus der Gewässerunterhaltung sowie für
     Landschaftspflegeabfälle und pflanzliche Bestandteile des Treibsels
     enthält.
-[^f780003_06_BJNR295500998BJNE001706125]:     Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die
-    AVV keine spezielle Abfallbezeichnung für getrennt gesammelte
-    Bioabfälle, insbesondere in Biotonnen, enthält.
-[^f780003_07_BJNR295500998BJNE001706125]:     Düngemittelverordnung und Düngeverordnung in der jeweils geltenden
+[^f780003_06_BJNR295500998BJNE001707130]:     Düngemittelverordnung und Düngeverordnung in der jeweils geltenden
     Fassung.
-[^f780003_08_BJNR295500998BJNE001706125]:     Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I
+[^f780003_08_BJNR295500998BJNE001707130]:     Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I
     S. 1554), die zuletzt durch Artikel 126 der Verordnung vom 19. Juni
     2020 (BGBl. I S. 1328) geändert worden ist.
-[^bjnr295500998bjne001706125_08_BJNR295500998BJNE001706125]: 
+[^bjnr295500998bjne001706125_08_BJNR295500998BJNE001707130]:     Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die
+    AVV keine spezielle Abfallbezeichnung für getrennt gesammelte
+    Bioabfälle, insbesondere in Biotonnen, enthält.
+[^F836757_03_BJNR295500998BJNE001707130]: 
 (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)
 
 ## Anhang 2 Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
