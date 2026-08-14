@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1187 (2888)
 
+V aufgeh. durch
+:   § 16 dieser V, dieser idF d. Art. 2 V v. 4.8.2026 I Nr. 233, mit Ablauf des 31.7.2027
+
+Geändert durch
+:   Art. 2 V v. 4.8.2026 I Nr. 233
+
 [^f772144_01_BJNR118700009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
     Ausbildungsordnung und der damit abgestimmte von der Ständigen
@@ -1011,9 +1017,9 @@ werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt wurde.
 
 
-## § 16 Inkrafttreten, Außerkrafttreten
+## § 16 Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2009 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2027 außer Kraft.
 
 (zu § 4 Absatz 1)
 
