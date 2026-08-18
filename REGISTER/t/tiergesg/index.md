@@ -19,12 +19,9 @@ Neugefasst durch
 :   Bek. v. 21.11.2018 I 1938;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.12.2022 I 2852
+:   Art. 1 G v. 4.3.2026 I Nr. 60
 
-Änderung durch
-:   Art. 1 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Neufassung gem. Bekanntmachung v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt
+Stand: Neufassung gem. Bek. v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeines
 
