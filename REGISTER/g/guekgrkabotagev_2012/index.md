@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 3 G v. 23.2.2026 I Nr. 47
 
+Änderung durch
+:   Art. 5 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -689,19 +692,23 @@ folgende Unterlagen vorgelegt werden:
 
 
 3.  der Pass, Passersatz oder Ausweisersatz, der Aufenthaltstitel des
-    Fahrpersonals,
-
-
-4.  der Nachweis nach § 11 Absatz 4 Nummer 1 der Berufskraftfahrer-
-    Qualifikations-Verordnung.
+    Fahrpersonals.
 
 
 
-Wird ein Nachweis nach Satz 1 Nummer 4 nicht vorgelegt, erfolgt kein
-Eintrag der Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-
-Verordnung in das Feld „Besondere Bemerkungen“. Die zuständige Behörde
-kann Nachweise auch für die übrigen nach Absatz 1 zu machenden Angaben
-verlangen.
+Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz
+1 zu machenden Angaben verlangen.
+
+(3) Die Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung
+wird auf Antrag in das Feld „Besondere Bemerkungen“ der
+Fahrerbescheinigung eingetragen, sofern bei Antragstellung ein
+Nachweis der bestehenden Qualifikation nach § 7 Absatz 1 oder 2 des
+Berufskraftfahrerqualifikationsgesetzes vorgelegt wird. Wird ein
+entsprechender Nachweis nicht vorgelegt, kann der Nachweis der
+bestehenden Qualifikation auf Antrag auch erbracht werden, wenn sich
+das Bestehen der Qualifikation aus dem Ergebnis eines Datenabrufs nach
+§ 21 Absatz 1 Nummer 2 des Berufskraftfahrerqualifikationsgesetzes
+ergibt.
 
 
 ### § 21 Geltungsdauer und Unternehmensbindung der Fahrerbescheinigung
