@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 39
 
-Geändert durch
-:   Art. 25 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 4 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 V v. 2.3.2026 I Nr. 54
 
 Stand: Ersetzt V 8053-4-14 v. 12.12.1996 I 1914 (GSGV 11)
 [^F792454_01_BJNR003900016]:     Diese Verordnung dient der Umsetzung der Richtlinie 2014/34/EU des
