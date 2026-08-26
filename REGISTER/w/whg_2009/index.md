@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 7 G v. 29.3.2026 I Nr. 84
-
-Änderung durch
-:   Art. 8 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 22.7.2026 I Nr. 224
 
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                    Richtlinie 80/68/EWG des Rates
