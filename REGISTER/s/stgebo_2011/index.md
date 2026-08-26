@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 19.12.2025 I Nr. 382
 
+Änderung durch
+:   Art. 6 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -1632,7 +1635,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001306123]
+[^F1.774775_01_BJNR009800011BJNE001307123]
 Gebühren der Behörden im Landesbereich
 ##
 
@@ -1759,7 +1762,7 @@ Gebühren der Behörden im Landesbereich
     *   Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern
         202\.1 bis 202.5 eingeschlossen, oder einer als Nachweis der
         Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz
-        4 Satz 7 FeV), soweit vom Bewerber veranlasst
+        4 Satz 6 FeV), soweit vom Bewerber veranlasst
 
     *   10,20
 
@@ -3677,11 +3680,12 @@ Gebühren der Behörden im Landesbereich
 *    *   345
 
     *
-    *   Entscheidung über die Erteilung bei Anerkennung einer
-        Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von
-        Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der
-        Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1
-        und 2 BKrFQG
+    *   Entscheidung über die Erteilung, Änderung oder Versagung der
+        Anerkennung einer Ausbildungsstätte einschließlich der Ausstellung der
+        Anerkennungsurkunde nach § 9 BKrFQG in Verbindung mit § 5 BKrFQV,
+        Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG,
+        Rücknahme oder Widerruf der Anerkennung, einschließlich Einziehung der
+        Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG
 
     *   51,10 bis 511,00
 
@@ -4682,7 +4686,7 @@ Fahrzeugteileverordnung
 
 *    *
     *   Begutachtung nach §§ 21 und 23 StVZO
-[^F828785_01_BJNR009800011BJNE001306123]
+[^F828785_01_BJNR009800011BJNE001307123]
         oder § 13 EG-FGV
 
     *
@@ -4697,22 +4701,22 @@ Fahrzeugteileverordnung
 
     *   Hauptuntersuchung (HU) nach
         § 29 StVZO
-[^F828785_03_BJNR009800011BJNE001306123]
-[^F828785_04_BJNR009800011BJNE001306123]
+[^F828785_03_BJNR009800011BJNE001307123]
+[^F828785_04_BJNR009800011BJNE001307123]
         ,
-[^F828785_05_BJNR009800011BJNE001306123]
+[^F828785_05_BJNR009800011BJNE001307123]
         ,
-[^F828785_06_BJNR009800011BJNE001306123]
+[^F828785_06_BJNR009800011BJNE001307123]
         ,
-[^F828785_07_BJNR009800011BJNE001306123]
+[^F828785_07_BJNR009800011BJNE001307123]
         ,
-[^F828785_08_BJNR009800011BJNE001306123]
+[^F828785_08_BJNR009800011BJNE001307123]
         ,
 
     *   Sicherheitsprüfung (SP) nach § 29 StVZO
 
 
-*    *[^F828785_02_BJNR009800011BJNE001306123]
+*    *[^F828785_02_BJNR009800011BJNE001307123]
    Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23
         StVZO
         ,
@@ -5220,22 +5224,22 @@ _\_\__\_\__\_\__\_\__\_\_
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund,
     soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001306123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
+[^F1.774775_01_BJNR009800011BJNE001307123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
     EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
     4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht
     vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung
     oder für (weitere) erforderliche Prüfungen entsprechend der
     Gebührennummer 499 berechnet werden.
-[^F828785_01_BJNR009800011BJNE001306123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
+[^F828785_01_BJNR009800011BJNE001307123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
     nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur
     die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach §
     21 StVZO erhoben werden.
-[^F828785_02_BJNR009800011BJNE001306123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
+[^F828785_02_BJNR009800011BJNE001307123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
     2\.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese
     Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5)
     zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte
     6) zu bilden.
-[^F828785_03_BJNR009800011BJNE001306123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
+[^F828785_03_BJNR009800011BJNE001307123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
     Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse
     der von den gebremsten Achsen auf den Boden übertragenen zulässigen
     Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit
@@ -5243,11 +5247,11 @@ _\_\__\_\__\_\__\_\__\_\_
     Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen
     nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die
     Gebührennummer 413.4.1.
-[^F828785_04_BJNR009800011BJNE001306123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
+[^F828785_04_BJNR009800011BJNE001307123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
     und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse,
     sondern die Masse der von den Achsen auf den Boden übertragenen
     zulässigen Last maßgeblich.
-[^F828785_05_BJNR009800011BJNE001306123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
+[^F828785_05_BJNR009800011BJNE001307123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
     die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei
     einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach §
     21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn
@@ -5256,16 +5260,16 @@ _\_\__\_\__\_\__\_\__\_\_
     Kraftfahrzeugwerkstatt vorliegt. (Bei den in Nummer 1.2.1.2 der Anlage
     VIII StVZO genannten Kraftfahrzeugen entfällt eine Überprüfung der
     Abgase nach Nummer 6.8.2 der Anlage VIIIa StVZO).
-[^F828785_06_BJNR009800011BJNE001306123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
+[^F828785_06_BJNR009800011BJNE001307123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
     Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von
     Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr
     von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F828785_07_BJNR009800011BJNE001306123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
+[^F828785_07_BJNR009800011BJNE001307123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
     nach Überschreitung des Vorführtermins um mehr als zwei Monate an
     einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus
     der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem
     0,2-Fachen dieser Gebühr zu bilden.
-[^F828785_08_BJNR009800011BJNE001306123]: 
+[^F828785_08_BJNR009800011BJNE001307123]: 
 (zu Gebühren-Nummer 263.1.1)
 
 ## Anhang Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO
