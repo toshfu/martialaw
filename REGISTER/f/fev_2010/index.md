@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 12.5.2026 I Nr. 142
 
+Änderung durch
+:   Art. 2 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Nr. 41) ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -84,22 +90,82 @@ Kennzeichen im Straßenverkehr nicht verwenden.
 ### § 3 Einschränkung und Entziehung der Zulassung
 
 (1) Erweist sich jemand als ungeeignet oder nur noch bedingt geeignet
-zum Führen von Fahrzeugen oder Tieren, hat die Fahrerlaubnisbehörde
-ihm das Führen zu untersagen, zu beschränken oder die erforderlichen
-Auflagen anzuordnen. Nach der Untersagung, auf öffentlichen Straßen
-ein Mofa nach § 4 Absatz 1 Satz 2 Nummer 1 oder ein Kraftfahrzeug nach
-§ 4 Absatz 1 Satz 2 Nummer 1b zu führen, ist die Prüfbescheinigung
-nach § 5 Absatz 4 Satz 1 unverzüglich der entscheidenden Behörde
-abzuliefern oder bei Beschränkungen oder Auflagen zur Eintragung
-vorzulegen. Die Verpflichtung zur Ablieferung oder Vorlage der
-Prüfbescheinigung besteht auch, wenn die Entscheidung angefochten
-worden ist, die zuständige Behörde jedoch die sofortige Vollziehung
-ihrer Verfügung angeordnet hat.
+zum Führen eines fahrerlaubnisfreien Fahrzeugs oder eines Tieres, hat
+die Fahrerlaubnisbehörde ihm das Führen zu untersagen, zu beschränken
+oder die erforderlichen Auflagen anzuordnen. Nach der Untersagung, auf
+öffentlichen Straßen ein Mofa nach § 4 Absatz 1 Satz 2 Nummer 1 oder
+ein Kraftfahrzeug nach § 4 Absatz 1 Satz 2 Nummer 1b zu führen, ist
+die Prüfbescheinigung nach § 5 Absatz 4 Satz 1 unverzüglich der
+entscheidenden Behörde abzuliefern oder bei Beschränkungen oder
+Auflagen zur Eintragung vorzulegen. Die Verpflichtung zur Ablieferung
+oder Vorlage der Prüfbescheinigung besteht auch, wenn die Entscheidung
+angefochten worden ist, die zuständige Behörde jedoch die sofortige
+Vollziehung ihrer Verfügung angeordnet hat.
 
-(2) Rechtfertigen Tatsachen die Annahme, dass der Führer eines
-Fahrzeugs oder Tieres zum Führen ungeeignet oder nur noch bedingt
-geeignet ist, finden die Vorschriften der §§ 11 bis 14 entsprechend
-Anwendung.
+(2) Ungeeignet oder nur noch bedingt geeignet zum Führen eines
+fahrerlaubnisfreien Fahrzeugs oder eines Tieres ist, wer
+
+1.  die körperlichen und geistigen Anforderungen, die für das sichere
+    Führen des jeweiligen fahrerlaubnisfreien Fahrzeugs oder eines Tieres
+    im Straßenverkehr notwendig sind, nicht oder nur noch bedingt erfüllt
+    oder
+
+
+2.  erheblich gegen verkehrsrechtliche Vorschriften oder Strafgesetze beim
+    Führen fahrerlaubnisfreier Fahrzeuge oder Tiere verstoßen hat.
+
+
+
+
+(3) Werden Tatsachen bekannt, die Bedenken gegen die Eignung eines
+Führers eines fahrerlaubnisfreien Fahrzeugs oder eines Tieres zum
+Führen dieses fahrerlaubnisfreien Fahrzeugs oder dieses Tieres
+begründen, so kann die Fahrerlaubnisbehörde zur Vorbereitung einer
+Entscheidung nach Absatz 1 je nach den Umständen des Einzelfalls in
+entsprechender Anwendung der §§ 11 bis 14 anordnen, dass Folgendes
+beizubringen ist:
+
+1.  ein ärztliches Gutachten (§ 11 Absatz 2 Satz 3),
+
+
+2.  ein Gutachten einer amtlich anerkannten Begutachtungsstelle für
+    Fahreignung (§ 11 Absatz 3) oder
+
+
+3.  ein Gutachten eines amtlich anerkannten Sachverständigen oder Prüfers
+    für den Kraftfahrzeugverkehr (§ 11 Absatz 4).
+
+
+
+Satz 1 gilt entsprechend, wenn zu klären ist, ob ein Eignungsmangel
+zum Führen eines fahrerlaubnisfreien Fahrzeugs oder eines Tieres nicht
+mehr besteht.
+
+(4) Bei der Entscheidung über die Anordnung nach Absatz 3 Satz 1 oder
+2 ein Gutachten beizubringen, sowie bei der Entscheidung, Maßnahmen
+nach Absatz 1, einschließlich ihrer Art und ihres Umfangs, zu treffen
+und bei der dabei zu klärenden Frage der Eignung beziehungsweise des
+Vorliegens von Eignungszweifeln ist auch zu berücksichtigen, dass
+fahrerlaubnisfreie Fahrzeuge im Vergleich zu fahrerlaubnispflichtigen
+Fahrzeugen regelmäßig geringere Gefährlichkeit aufweisen. Kriterien
+für die Entscheidung, ob die Anordnung der Beibringung eines
+Gutachtens nach Absatz 3 Satz 1 oder Satz 2 im konkreten Einzelfall
+verhältnismäßig ist, können insbesondere sein:
+
+1.  die Größe und das Gewicht des Fahrzeugs,
+
+
+2.  die Fahreigenschaften,
+
+
+3.  die erreichbare Höchstfahrgeschwindigkeit des Fahrzeugs auf ebener
+    Bahn sowie
+
+
+4.  die Art der Bedienung und Benutzung des Fahrzeugs.
+
+
+
 
 
 ## II. - Führen von Kraftfahrzeugen
@@ -1367,17 +1433,19 @@ Anfertigung von Kursaufgaben verweigert hat.
 (1) Zum Führen von Kraftfahrzeugen sind die in der Anlage 6 genannten
 Anforderungen an das Sehvermögen zu erfüllen.
 
+[^F837099_01_BJNR198000010BJNE001404123]
 (2) Bewerber um eine Fahrerlaubnis der Klassen AM, A1, A2, A, B, BE, L
 oder T haben sich einem Sehtest zu unterziehen. Der Sehtest wird von
 einer amtlich anerkannten Sehteststelle unter Einhaltung der DIN 58220
-Teil 6, Ausgabe September 2013, durchgeführt. Die Sehteststelle hat
-sich vor der Durchführung des Sehtests von der Identität des
-Antragstellers durch Einsicht in den Personalausweis oder Reisepass
-oder in ein sonstiges Ausweisdokument zu überzeugen. Der Sehtest ist
-bestanden, wenn die zentrale Tagessehschärfe mit oder ohne Sehhilfe
-mindestens den in Anlage 6 Nummer 1.1 genannten Wert erreicht. Ergibt
-der Sehtest eine geringere Sehleistung, darf der Antragsteller den
-Sehtest mit Sehhilfen oder mit verbesserten Sehhilfen wiederholen.
+Teil 6, Ausgabe April 2021
+, durchgeführt. Die Sehteststelle hat sich vor der Durchführung des
+Sehtests von der Identität des Antragstellers durch Einsicht in den
+Personalausweis oder Reisepass oder in ein sonstiges Ausweisdokument
+zu überzeugen. Der Sehtest ist bestanden, wenn die zentrale
+Tagessehschärfe mit oder ohne Sehhilfe mindestens den in Anlage 6
+Nummer 1.1 genannten Wert erreicht. Ergibt der Sehtest eine geringere
+Sehleistung, darf der Antragsteller den Sehtest mit Sehhilfen oder mit
+verbesserten Sehhilfen wiederholen.
 
 (3) Die Sehteststelle stellt dem Antragsteller eine
 Sehtestbescheinigung nach Anlage 6 Nummer 1.1 aus. In ihr ist
@@ -1402,7 +1470,9 @@ der Klassen C, C1, CE, C1E, D, D1, DE oder D1E haben sich einer
 Untersuchung des Sehvermögens nach Anlage 6 Nummer 2 zu unterziehen
 und hierüber der Fahrerlaubnisbehörde eine Bescheinigung des Arztes
 nach Anlage 6 Nummer 2.1 oder ein Zeugnis des Augenarztes nach Anlage
-6 Nummer 2.2 einzureichen.
+6 Nummer 2.2 einzureichen. Die Bescheinigung nach Anlage 6 Nummer 2.1
+kann auch durch einen Augenoptikerbetrieb ausgestellt werden, dabei
+ist § 67 Absatz 4 entsprechend anzuwenden.
 
 (7) Sehtestbescheinigung, Zeugnis oder Gutachten dürfen bei
 Antragstellung nicht älter als zwei Jahre sein.
@@ -1421,6 +1491,10 @@ Beurteilung, ob Beeinträchtigungen des Sehvermögens bestehen, die die
 Eignung zum Führen von Kraftfahrzeugen beeinträchtigen, erforderlich
 sind.
 
+    Die DIN 58220 Teil 6, Ausgabe April 2021, ist bei der DIN Media GmbH,
+    Berlin zu beziehen und ist auch bei der Deutschen Nationalbibliothek
+    archivmäßig gesichert.
+[^F837099_01_BJNR198000010BJNE001404123]: 
 
 #### § 13 Klärung von Eignungszweifeln bei Alkoholproblematik
 
@@ -2178,8 +2252,9 @@ oder ein bestimmtes Fahrzeug mit besonderen Einrichtungen erstrecken.
 D1, DE und D1E wird auf Antrag des Inhabers jeweils um die in § 23
 Absatz 1 Satz 2 angegebenen Zeiträume verlängert, wenn
 
-1.  der Inhaber seine Eignung nach Maßgabe der Anlage 5 und die Erfüllung
-    der Anforderungen an das Sehvermögen nach Anlage 6 nachweist und
+1.  der Inhaber seine Eignung nach Maßgabe der Anlage 5 Nummer 1 und 3 und
+    die Erfüllung der Anforderungen an das Sehvermögen nach Anlage 6
+    nachweist und
 
 
 2.  keine Tatsachen vorliegen, die die Annahme rechtfertigen, dass eine
@@ -2193,7 +2268,7 @@ Fahrerlaubnis ist das Datum des Tages, an dem die zu verlängernde
 Fahrerlaubnis endet. Die Verlängerung der Klassen D, D1, DE und D1E
 kann nur dann über die Vollendung des 50. Lebensjahres hinaus
 erfolgen, wenn der Antragsteller zusätzlich seine Eignung nach Maßgabe
-der Anlage 5 Nummer 2 nachweist.
+der Anlage 5 Nummer 2 und 3 nachweist.
 
 (2) Absatz 1 Satz 1 und 3 und § 23 Absatz 1 Satz 3 sind auch bei der
 Erteilung einer Fahrerlaubnis der entsprechenden Klasse anzuwenden,
@@ -2546,10 +2621,8 @@ oder EWR-Fahrerlaubnis,
     Fahrerlaubnis Inhaber einer deutschen Fahrerlaubnis waren,
 
 
-7.  deren Fahrerlaubnis aufgrund einer Fahrerlaubnis eines Drittstaates,
-    der nicht in der Anlage 11 aufgeführt ist, prüfungsfrei umgetauscht
-    worden ist, oder deren Fahrerlaubnis aufgrund eines gefälschten
-    Führerscheins eines Drittstaates erteilt wurde,
+7.  deren Fahrerlaubnis aufgrund eines gefälschten Führerscheins eines
+    Drittstaates erteilt wurde,
 
 
 8.  die zum Zeitpunkt der Erteilung einer Fahrerlaubnis eines
@@ -3693,10 +3766,8 @@ nach dem Personenbeförderungsgesetz erforderlich ist.
     Rettungsdienste,
 
 
-4.  Kraftfahrzeuge, mit Ausnahme von Taxen, Mietwagen und für den
-    gebündelten Bedarfsverkehr im Sinne des § 50 Absatz 1 Satz 1 des
-    Personenbeförderungsgesetzes, wenn der Kraftfahrzeugführer im Besitz
-    der Klasse D oder D1 ist.
+4.  Kraftfahrzeuge, wenn der Kraftfahrzeugführer im Besitz der Klasse D
+    oder D1 ist.
 
 
 
@@ -3777,11 +3848,11 @@ jeweils bis zu fünf Jahren verlängert, wenn
 
 
 
-(6) Die §§ 21, 22 und 24 Absatz 1 Satz 1, Absatz 2 und 3 sind
+(6) Die §§ 21, 22 und 24 Absatz 1 Satz 1 und 2, Absatz 2 und 3 sind
 entsprechend anzuwenden. Die Verlängerung der Fahrerlaubnis zur
 Fahrgastbeförderung kann nur dann über die Vollendung des 60.
 Lebensjahres hinaus erfolgen, wenn der Antragsteller zusätzlich seine
-Eignung nach Maßgabe der Anlage 5 Nummer 2 nachweist.
+Eignung nach Maßgabe der Anlage 5 Nummer 2 und 3 nachweist.
 
 (7) Der Halter eines Fahrzeugs darf die Fahrgastbeförderung nicht
 anordnen oder zulassen, wenn der Führer des Fahrzeugs die
@@ -3909,7 +3980,11 @@ Hinweise geben.
 Die Fahrerlaubnisbehörde hat bei Beantragung der Fahrerlaubnis oder
 bei Beantragung der Eintragung weiterer zur Begleitung vorgesehener
 Personen zu prüfen, ob diese Voraussetzungen vorliegen; sie hat die
-Auskunft nach Nummer 3 beim Fahreignungsregister einzuholen.
+Auskunft nach Nummer 3 beim Fahreignungsregister einzuholen. Bei der
+Beantragung der Eintragung weiterer zur Begleitung vorgesehener
+Personen ist abweichend von Satz 1 Nummer 3 auf den Zeitpunkt der
+Beantragung der Eintragung der weiteren zur Begleitung vorgesehenen
+Personen abzustellen.
 
 (6) Die begleitende Person darf den Inhaber einer
 Prüfungsbescheinigung nach Absatz 3 nicht begleiten, wenn sie
@@ -5345,11 +5420,13 @@ durch die von ihr bestimmte oder nach Landesrecht zuständige Stelle.
     Satzung zur Vertretung berufenen Personen, zuverlässig sind und
 
 
-2.  der Antragsteller nachweist, dass er über die erforderlichen
+2.[^F837099_02_BJNR198000010BJNE007302123]
+  der Antragsteller nachweist, dass er über die erforderlichen
     Fachkräfte und über die notwendigen der DIN 58220 Teil 6, Ausgabe
-    September 2013, entsprechenden Sehtestgeräte verfügt und dass eine
-    regelmäßige ärztliche Aufsicht über die Durchführung des Sehtests
-    gewährleistet ist.
+    April 2021
+    , entsprechenden Sehtestgeräte verfügt und dass eine regelmäßige
+    ärztliche Aufsicht über die Durchführung des Sehtests gewährleistet
+    ist.
 
 
 
@@ -5403,6 +5480,10 @@ Augenoptikerinnung oder deren Landesverbände nach Landesrecht
 
 als amtlich anerkannte Sehteststelle. Absatz 4 ist anzuwenden.
 
+    Die DIN 58220 Teil 6, Ausgabe April 2021, ist bei der DIN Media GmbH,
+    Berlin zu beziehen und ist auch bei der Deutschen Nationalbibliothek
+    archivmäßig gesichert.
+[^F837099_02_BJNR198000010BJNE007302123]: 
 
 ### § 68 Stellen für die Schulung in Erster Hilfe
 
@@ -6567,6 +6648,12 @@ Bestimmungen:
 
 
 
+
+
+### § 76a Besondere Anwendungsbestimmungen
+
+Anlage 7 Nummer 1.3 Satz 4 Buchstabe m und n ist ab dem 1. April 2027
+anzuwenden.
 
 
 ### § 77 Verweis auf technische Regelwerke
@@ -8409,7 +8496,7 @@ IV. Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
     der Antragsteller zuvor mindestens zwei Jahren im Besitz einer
     Fahrerlaubnis der Klasse A (beschränkt) war.
 [^f779446_04_BJNR198000010BJNE008807124]: 
-(zu den §§ 11, 13 und 14)
+(zu den §§ 11, 13, 13a und 14)
 
 ### Anlage 4 Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
 
@@ -8501,12 +8588,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         ärztliche
         Kontrollen.
         Vorherige Bewährung von drei Jahren Fahrpraxis auf Kfz der Klasse B.
-        Bei
-        Vorliegen einer hochgradigen Hörstörung muss – soweit möglich – die
-        Versorgung und das Tragen einer adäquaten Hörhilfe nach dem aktuellen
-        Stand der medizinisch-technisch und
-        audiologisch-technischen Kenntnisse
-        erfolgen.
 
 
 *    *   2.1
@@ -9018,19 +9099,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6.4
 
-    *   Kreislaufabhängige Störungen der Hirntätigkeit
+    *   Hirngefäßerkrankungen
 
     *   ja
-        nach erfolgreicher Therapie und Abklingen des akuten Ereignisses ohne
-        Rückfallgefahr
+        nach erfolgter Therapie und Abklingen
+        des akuten Ereignisses ohne Rückfallgefahr
 
-    *   nein
+    *   ja
+        nach erfolgter Therapie und Abklingen
+        des akuten Ereignisses ohne Rückfallgefahr
 
-    *   Nachuntersuchungen in Abständen
-        von ein, zwei und
-        vier Jahren
+    *   Nachunter-
+        suchungen
 
-    *   –
+    *   (ggf. fach-
+        ärztliche) Nachunter-
+        suchungen
 
 
 *    *   6.5
@@ -9882,8 +9966,8 @@ Fußnote)
 
 Grundlage für die Beurteilung der Eignung zum Führen von
 Kraftfahrzeugen sind die Begutachtungsleitlinien zur Kraftfahreignung
-vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 17. Februar 2021
-(VkBl. S. 198).
+vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 12. Dezember
+2025 (VkBl. S. 86).
 
 
 1.  Die Untersuchung ist unter Beachtung folgender Grundsätze
@@ -10231,8 +10315,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 2.1 Untersuchung durch einen Augenarzt, einen Arzt mit der
     Gebietsbezeichnung „Arbeitsmedizin“, einen Arzt mit der
     Zusatzbezeichnung „Betriebsmedizin“, einen Arzt bei einer
-    Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes
-    oder einen anderen Arzt der öffentlichen Verwaltung.
+    Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes,
+    einen anderen Arzt der öffentlichen Verwaltung oder einen
+    Augenoptikerbetrieb nach § 67 Absatz 4.
 
     Über die Untersuchung ist eine Bescheinigung gemäß dem Muster dieser
     Anlage zu erstellen.
@@ -10240,7 +10325,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 2.1.1 Zentrale Tagessehschärfe
 
-    Feststellung unter Einhaltung der DIN 58220, Ausgabe Januar 1997.
+[^F837099_03_BJNR198000010BJNE009109123]
+    Feststellung unter Einhaltung der DIN 58220 Teil 6, Ausgabe April
+    2021\.
 
     Fehlsichtigkeiten müssen – soweit möglich und verträglich – korrigiert
     werden. Dabei dürfen folgende Sehschärfenwerte nicht unterschritten
@@ -10366,7 +10453,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *            *   Bei Fahrerlaubnisinhabern der
 
-            *[^f785129_03_BJNR198000010BJNE009108123]
+            *[^f785129_03_BJNR198000010BJNE009109123]
    Klassen 1, 1a, 1b, 3, 4, 5
 
             *   Klasse 2
@@ -10381,11 +10468,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             *   0,7/0,2
 
-            *[^f785129_04_BJNR198000010BJNE009108123]
+            *[^f785129_04_BJNR198000010BJNE009109123]
    0,7/0,5
 
 
-        *            *[^f785129_02_BJNR198000010BJNE009108123]
+        *            *[^f785129_02_BJNR198000010BJNE009109123]
    Bei Einäugigkeit
 
             *   0,6
@@ -10416,7 +10503,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 Gesichtsfeld
 
             *   normale Gesichtsfelder beider
-[^f785129_05_BJNR198000010BJNE009108123]
+[^f785129_05_BJNR198000010BJNE009109123]
                 Augen
 
 
@@ -10441,7 +10528,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             *   keine Anforderungen
 
-            *[^f785129_06_BJNR198000010BJNE009108123]
+            *[^f785129_06_BJNR198000010BJNE009109123]
    normales Stereosehen
 
 
@@ -10635,7 +10722,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
    ## Muster
 
-Bescheinigung über die ärztliche Untersuchung
+Bescheinigung über die Untersuchung des Arztes oder eines
+Augenoptikerbetriebs
 ## **(Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
@@ -10647,12 +10735,26 @@ Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
 **Teil 1**              (verbleibt beim Arzt)
 
-**1.** **Angaben über den untersuchenden Arzt**
+**1.** **Angaben über den untersuchenden Arzt oder Augenoptikerbetrieb**
 
     Name, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des
     Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für
     Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung,
     Anschrift
+
+
+**1.1** **Angaben über den untersuchenden Arzt**
+
+    Name, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des
+    Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für
+    Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung,
+    Anschrift oder
+
+
+**1.2** **Angaben über den untersuchenden Augenoptikerbetrieb**
+
+    Name und Anschrift des Augenoptikerbetriebs, Name des die Untersuchung
+    durchführenden Augenoptikers.
 
 
 **2.** **Personalien des Bewerbers**
@@ -10720,55 +10822,74 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
 ## Muster
 
-Bescheinigung über die ärztliche Untersuchung
-## **(Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)**
+Bescheinigung über die Untersuchung des Arztes oder eines
+Augenoptikerbetriebs
+## **(Anlage 6 Nummer 2.1 der Fahrerlaubnisverordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
-der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur
-Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und
-Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
+der Klassen C, C1, CE, C1E, D, D1, DE oder D1E oder der Fahrerlaubnis
+zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4
+und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
 **Teil 2**              (dem Bewerber auszuhändigen)
 
-Name des Arztes, Facharztbezeichnung, ggf. Gebiets- oder
-Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer
-Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der
-öffentlichen Verwaltung, Anschrift
-
-*    *   Familienname, Vornamen des Bewerbers: ..........
+**1.** **Angaben über den untersuchenden Arzt oder Augenoptikerbetrieb**
 
 
-*    *   Tag der Geburt: ..........
+**1.1.** **Angaben über den untersuchenden Arzt**
+
+    Name des Arztes, Facharztbezeichnung, ggf. Gebiets- oder
+    Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer
+    Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der
+    öffentlichen Verwaltung, Anschrift oder
 
 
-*    *   Ort der Geburt: ..........
+**1.2.** **Angaben über den untersuchenden Augenoptikerbetrieb**
+
+    Name und Anschrift des Augenoptikerbetriebs, Name des die Untersuchung
+    durchführenden Augenoptikers
 
 
-*    *   Wohnort: ..........
+**2.** **Personalien des Bewerbers**
+
+    Familienname, Vornamen des Bewerbers:
+
+    Tag der Geburt:
+
+    Ort der Geburt:
+
+    Wohnort:
+
+    Straße/Hausnummer:
+
+    Nummer des Personalausweises:
 
 
-*    *   Straße/Hausnummer: ..........
+**3.**
+    *        *   Untersuchungsbefund vom
+            über
+
+        *
 
 
-*    *   Nummer des Personalausweises: ..........
+   ****
+
+    –   Zentrale Tagessehschärfe nach DIN 58220
 
 
-*    *   Untersuchungsbefund vom .......... über
+    –   Farbensehen
 
 
-*    *   – Zentrale Tagessehschärfe nach DIN 58220
+    –   Kontrast- oder Dämmerungssehen
 
 
-*    *   – Farbensehen
+    –   Gesichtsfeld
 
 
-*    *   – Kontrast- oder Dämmerungssehen
+    –   Stereosehen
 
 
-*    *   – Gesichtsfeld
 
-
-*    *   – Stereosehen
 
 
 
@@ -10777,16 +10898,18 @@ Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in
 Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung geforderten
 Anforderungen
 
-*              erreicht, ohne Sehhilfe
-*              erreicht, mit Sehhilfe
-*              nicht erreicht
+*              erreicht, ohne Sehhilfe
+
+*              erreicht, mit Sehhilfe
+
+*              nicht erreicht
 
 Eine augenärztliche Zusatzuntersuchung nach Anlage 6 Nummer 2.2 der
 Fahrerlaubnis-Verordnung ist erforderlich:
 
-*    *   *                        ja
+*    *   *                        ja
 
-    *   *                        nein
+    *   *                        nein
 
 
 
@@ -10795,13 +10918,23 @@ Das Zeugnis ist zwei Jahre gültig.
 
 Die Identität des Untersuchten wurde geprüft.
 
-
-*    *   .........., den
+*    *   , den
 
     *
-    *   ..........
-        Stempel und Unterschrift des Arztes
+    *   Stempel und Unterschrift des Arztes
         mit den oben stehenden beruflichen Angaben
+
+
+*    *
+    *
+    *   oder
+
+
+*    *
+    *
+    *   Stempel des Augenoptikerbetriebs
+        und Unterschrift des die Untersuchung durchführenden und
+        bescheinigenden Augenoptikers
 
 
 
@@ -10955,17 +11088,20 @@ Die Identität des Untersuchten wurde geprüft.
 
 
 
-    Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
+    Die DIN 58220 Teil 6, Ausgabe April 2021, ist bei der DIN Media GmbH,
+    Berlin zu beziehen und ist auch bei der Deutschen Nationalbibliothek
+    archivmäßig gesichert.
+[^F837099_03_BJNR198000010BJNE009109123]:     Als einäugig gilt auch, wer auf einem Auge eine Sehschärfe von weniger
     als 0,2 besitzt.
-[^f785129_02_BJNR198000010BJNE009108123]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
+[^f785129_02_BJNR198000010BJNE009109123]:     Nachweis ausreichenden Wahrnehmungsvermögens bereits bei Sehschärfe
     unter 0,5 auf dem schlechteren Auge erforderlich.
-[^f785129_03_BJNR198000010BJNE009108123]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
+[^f785129_03_BJNR198000010BJNE009109123]:     Sehschärfe unter 0,5 auf dem schlechteren Auge oder Einäugigkeit nur
     zulässig bei Beschränkung der Fahrerlaubnis zur Fahrgastbeförderung
     auf Taxen und Mietwagen.
-[^f785129_04_BJNR198000010BJNE009108123]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
+[^f785129_04_BJNR198000010BJNE009109123]:     Bei zulässiger Einäugigkeit gelten die Mindestanforderungen für die
     Klassen 1, 1a, 1b, 3, 4, 5.
-[^f785129_05_BJNR198000010BJNE009108123]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
-[^f785129_06_BJNR198000010BJNE009108123]: 
+[^f785129_05_BJNR198000010BJNE009109123]:     Bei zulässiger Einäugigkeit: keine Anforderungen.
+[^f785129_06_BJNR198000010BJNE009109123]: 
 (zu § 16 Absatz 2, § 17 Absatz 2 und 3)
 
 ### Anlage 7 Fahrerlaubnisprüfung
@@ -11074,7 +11210,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   110
 
-        *[^f806403_02_BJNR198000010BJNE009222123]
+        *[^f806403_02_BJNR198000010BJNE009223123]
    10
 
 
@@ -11116,7 +11252,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   128
 
-        *[^f806403_03_BJNR198000010BJNE009222123]
+        *[^f806403_03_BJNR198000010BJNE009223123]
    10
 
 
@@ -11204,7 +11340,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     k)  Türkisch,
 
 
-    l)  Hocharabisch.
+    l)  Hocharabisch,
+
+
+    m)  Kurmandschi oder
+
+
+    n)  Ukrainisch.
 
 
 
@@ -11946,11 +12088,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     sein. Alle vom Fahrzeughersteller lieferbaren Ausstattungen und
     Systeme sind grundsätzlich unter Berücksichtigung der Richtlinie nach
     Nummer 2 zugelassen. Dies gilt auch für den nachträglichen Einbau
-    gleicher oder ähnlicher Produkte. Bei Prüfungsfahrzeugen, die über
-    Systeme verfügen, die die Längs- und Querführung des Fahrzeugs in
-    einem spezifischen Anwendungsfall aktiv und kontinuierlich übernehmen
-    können, entscheidet der amtlich anerkannte Sachverständige oder Prüfer
-    für den Kraftfahrzeugverkehr über den Einsatz dieser Systeme.
+    gleicher oder ähnlicher Produkte. Bei einem Prüfungsfahrzeug, das über
+    Systeme verfügt, die die Längsführung, Querführung oder die Längs- und
+    Querführung des Fahrzeugs in einem spezifischen Anwendungsfall aktiv
+    und kontinuierlich übernehmen können, entscheidet der amtlich
+    anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr
+    über den Einsatz dieser Systeme.
 
 
 2.2.18 Bei Prüfungen der Klasse A, A1, A2 und AM dürfen nur Fahrzeuge
@@ -11970,7 +12113,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 2.3 Prüfungsdauer und Mindestfahrzeit
 
-[^f806403_06_BJNR198000010BJNE009222123]
+[^f806403_06_BJNR198000010BJNE009223123]
     Die Prüfungsdauer und die Fahrzeit
     betragen mindestens
 
@@ -11989,7 +12132,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *        *
-        *[^f806403_07_BJNR198000010BJNE009222123]
+        *[^f806403_07_BJNR198000010BJNE009223123]
    60 Minuten Aufstieg
 
         *   30 Minuten
@@ -12110,7 +12253,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Absatz 4) dienen, verkürzt sich die Dauer der praktischen Prüfung um
     10 Minuten. Bei der Aufhebung einer Beschränkung in den Klassen C1,
     C1E, C, CE, D1, D1E, D oder DE umfasst die Prüfung den Prüfungsstoff
-    nach Nummer 2.1.1, 2.1.4 und 2.1.5.
+    nach den Nummern 2.1.1, 2.1.4, 2.1.5 und 2.1.6.
 
 
 2.4 **Prüfungsstrecke**
@@ -12188,18 +12331,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     Es sei denn, zwei Fragen mit Wertigkeit 5 falsch beantwortet.
-[^f806403_02_BJNR198000010BJNE009222123]:     Es sei denn, zwei Fragen mit Wertigkeit 5 falsch beantwortet.
-[^f806403_03_BJNR198000010BJNE009222123]:     Amtliche Anmerkung: Erfolgt die Zuteilung der Klasse T nur auf Antrag,
+[^f806403_02_BJNR198000010BJNE009223123]:     Es sei denn, zwei Fragen mit Wertigkeit 5 falsch beantwortet.
+[^f806403_03_BJNR198000010BJNE009223123]:     Amtliche Anmerkung: Erfolgt die Zuteilung der Klasse T nur auf Antrag,
     wird diese nur in der Land- oder Forstwirtschaft tätigen Personen
     zugeteilt.
-[^f779446_02_BJNR198000010BJNE009222123]:     Fahrzeit ohne Grundfahraufgaben, ohne
+[^f779446_02_BJNR198000010BJNE009223123]:     Fahrzeit ohne Grundfahraufgaben, ohne
     Sicherheits-/Abfahrtkontrolle/Handfertigkeiten, ohne Verbinden und
     Trennen und ohne Vor- und Nachbereitung (z. B. Bekanntgabe des
     Ergebnisses). Die aufgeführte reine Fahrzeit entspricht EU-Vorgaben.
-[^f806403_06_BJNR198000010BJNE009222123]:     Nur bei Erweiterung von der Klasse A1 auf die Klasse A2 und von der
+[^f806403_06_BJNR198000010BJNE009223123]:     Nur bei Erweiterung von der Klasse A1 auf die Klasse A2 und von der
     Klasse A2 zur Klasse A (stufenweiser Zugang bei jeweils zweijährigem
     Vorbesitz und Erweiterung auf die nächsthöhere Klasse).
-[^f806403_07_BJNR198000010BJNE009222123]: 
+[^f806403_07_BJNR198000010BJNE009223123]: 
 (§ 6a Absatz 3 und 4)
 
 ### Anlage 7a Fahrerschulung ab 17 Jahre
@@ -12808,7 +12951,7 @@ Material: Neobond – 200 g/m
 
 
 
-### Anlage 8a (zu § 22 Absatz 4 Satz 7)
+### Anlage 8a (zu § 22 Absatz 4 Satz 6)
 
    (Fundstelle: BGBl. I 2015, 1679 — 1680)
 
@@ -12886,7 +13029,7 @@ Datenverarbeitung, dies erfordern.
 *    *   Ausstellungsdatum:
 
 
-*    *[^F791268_02_BJNR198000010BJNE011801123]
+*    *[^F791268_02_BJNR198000010BJNE011802123]
    Ausgehändigt durch die Fahrerlaubnisbehörde/den amtlich anerkannten
         Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr
         am: **
@@ -12916,7 +13059,7 @@ Datenverarbeitung, dies erfordern.
 
     *
 
-*    *[^F791268_03_BJNR198000010BJNE011801123]
+*    *[^F791268_03_BJNR198000010BJNE011802123]
    ist berechtigt, Kraftfahrzeuge folgender Klasse/n zu führen
         :
 
@@ -13014,8 +13157,8 @@ Datenverarbeitung, dies erfordern.
 
 
     Nichtzutreffendes ist zu streichen.
-[^F791268_02_BJNR198000010BJNE011801123]:     Nicht erteilte Klassen sind durch einen Strich entwertet.
-[^F791268_03_BJNR198000010BJNE011801123]: 
+[^F791268_02_BJNR198000010BJNE011802123]:     Nicht erteilte Klassen sind durch einen Strich entwertet.
+[^F791268_03_BJNR198000010BJNE011802123]: 
 
 ### Anlage 8b (zu § 48a)
 
@@ -13898,7 +14041,7 @@ I. Schlüsselzahlen der Europäischen Union
 
     *   01.03
 
-    *[^F796542_03_BJNR198000010BJNE013000123]
+    *[^F796542_03_BJNR198000010BJNE013002123]
    Schutzbrille
 
 
@@ -14852,9 +14995,9 @@ I. Schlüsselzahlen der Europäischen Union
 
     *   Kraftfahrerin/Kraftfahrer, die/der Inhaberin/Inhaber eines
         Befähigungsnachweises ist und die Befähigungspflicht nach dem Gesetz
-        über die Grundqualifikation und Weiterbildung der Kraftfahrerinnen und
-        Kraftfahrer bestimmter Kraftfahrzeuge für den Güterkraft- oder
-        Personenverkehr bis zum … erfüllt [zum Beispiel: 95(01.01.14)]
+        über die Grundqualifikation und die Weiterbildung der Fahrer
+        bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr bis
+        zum … erfüllt [zum Beispiel: 95(01.01.14)]
 
 
 *    *   134
@@ -14873,6 +15016,15 @@ I. Schlüsselzahlen der Europäischen Union
 
     *   Berechtigt nicht zum Führen eines Fahrzeugs der Klasse C1, das in den
         Geltungsbereich der Verordnung (EWG) Nr. 3821/85 des Rates fällt
+
+
+*    *   136
+
+    *   99.01
+
+    *   Sonderausfertigung, nur für die Dauer des vorübergehenden Schutzes
+        gültig (Ersatz für verlorenen oder gestohlenen ukrainischen
+        Führerschein)
 
 
 
@@ -15067,7 +15219,7 @@ II. nationale Schlüsselzahlen
 
 *    *   2
 
-    *[^bjnr198000010bjne010011305_01_BJNR198000010BJNE013000123]
+    *[^bjnr198000010bjne010011305_01_BJNR198000010BJNE013002123]
    171
 
     *   Klasse C1, gültig auch für Kraftfahrzeuge der Klasse D mit einer
@@ -15158,7 +15310,7 @@ II. nationale Schlüsselzahlen
 
 *    *   12
 
-    *[^bjnr198000010bjne010011305_02_BJNR198000010BJNE013000123]
+    *[^bjnr198000010bjne010011305_02_BJNR198000010BJNE013002123]
    182
 
     *   Auflagen zu den Klassen D1, D1E, D und DE:
@@ -15447,13 +15599,13 @@ IIa. Entfallene nationale Schlüsselzahlen
     Die Schlüsselzahlen 171 bis 175, 178 und 179 dürfen nur bei der
     Umstellung von Fahrerlaubnissen, die bis zum 31. Dezember 1998 und in
     den Fällen des § 76 Nummer 11c erteilt worden sind, verwendet werden.
-[^bjnr198000010bjne010011305_01_BJNR198000010BJNE013000123]:     Die Schlüsselzahl 182 darf nur bei der Umstellung von
+[^bjnr198000010bjne010011305_01_BJNR198000010BJNE013002123]:     Die Schlüsselzahl 182 darf nur bei der Umstellung von
     Fahrerlaubnissen, die bis zum 18. Januar 2013 und in den Fällen des §
     76 Nummer 11c erteilt worden sind, verwendet werden.
-[^bjnr198000010bjne010011305_02_BJNR198000010BJNE013000123]:     Die Schlüsselzahlen 01.03, 44.05 bis 44.07 und 51 dürfen nur bei der
+[^bjnr198000010bjne010011305_02_BJNR198000010BJNE013002123]:     Die Schlüsselzahlen 01.03, 44.05 bis 44.07 und 51 dürfen nur bei der
     Umstellung von Fahrerlaubnissen, die bis zum 31. Dezember 2016 erteilt
     worden sind, verwendet werden.
-[^F796542_03_BJNR198000010BJNE013000123]: 
+[^F796542_03_BJNR198000010BJNE013002123]: 
 (zu den §§ 26 und 27)
 
 ### Anlage 10 Dienstfahrerlaubnisse der Bundeswehr
@@ -15871,22 +16023,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Prüfung
 
 
-*    *[^bjnr198000010bjne010211124_19_BJNR198000010BJNE010213123]
+*    *[^bjnr198000010bjne010213123_19_BJNR198000010BJNE010214123]
    Albanien
 
-    *[^bjnr198000010bjne010213123_20_BJNR198000010BJNE010213123]
-   A1
-[^bjnr198000010bjne010213123_21_BJNR198000010BJNE010213123]
-        , A2, A, B
-        , BE, C1, C1E, C, CE, D1, D1E, D und DE
+    *   A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D und DE
 
     *   nein
 
     *   nein
 
 
-*    *   Albanien
-
+*    *
     *   AM
 
     *   nein
@@ -15921,7 +16068,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nein
 
 
-*    *[^bjnr198000010bjne010213123_22_BJNR198000010BJNE010213123]
+*    *[^bjnr198000010bjne010213123_22_BJNR198000010BJNE010214123]
    Gibraltar
 
     *   alle
@@ -15951,7 +16098,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Israel
 
-    *   B
+    *   A1, A2, A, B
 
     *   nein
 
@@ -15976,11 +16123,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nein
 
 
-*    *[^bjnr198000010bjne010213123_23_BJNR198000010BJNE010213123]
+*    *[^bjnr198000010bjne010213123_20_BJNR198000010BJNE010214123]
    Kosovo
 
-    *[^bjne198000010bjne010213123_24_BJNR198000010BJNE010213123]
-   AM, A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D und DE
+    *   AM, A1, A2, A,
+        B, BE, C1, C1E,
+        C, CE, D1, D1E,
+        D und DE
 
     *   nein
 
@@ -16020,10 +16169,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nein
 
 
-*    *[^bjnr198000010bjne010211124_16_BJNR198000010BJNE010213123]
+*    *   Montenegro
+
+    *   alle
+
+    *   nein
+
+    *   nein
+
+
+*    *[^bjnr198000010bjne010211124_16_BJNR198000010BJNE010214123]
    Namibia
 
-    *[^bjnr198000010bjne010211124_17_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_17_BJNR198000010BJNE010214123]
    A1, A, B, BE, C1
         , C1E, C
         , CE
@@ -16044,7 +16202,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Neuseeland
 
-    *[^bjnr198000010bjne010211124_10_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_10_BJNR198000010BJNE010214123]
    1, 6
 
     *   nein
@@ -16054,7 +16212,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Republik Korea
 
-    *[^bjnr198000010bjne010211124_01_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_01_BJNR198000010BJNE010214123]
    1, 2
 
     *   nein
@@ -16082,7 +16240,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Serbien
 
-    *[^bjnr198000010bjne010211124_18_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_18_BJNR198000010BJNE010214123]
    alle
 
     *   nein
@@ -16108,12 +16266,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nein
 
 
-*    *[^bjnr198000010bjne010211124_02_BJNR198000010BJNE010213123]
+*    *[^bjnr198000010bjne010211124_02_BJNR198000010BJNE010214123]
    Fahrerlaubnisse, die im tatsächlichen Herrschaftsbereich der Behörden
         in Taiwan
         erteilt wurden
 
     *   B/BE
+
+    *   nein
+
+    *   nein
+
+
+*    *[^bjnr198000010bjne010211124_21_BJNR198000010BJNE010214123]
+   Ukraine
+
+    *   A1, A, B, BE,
+        C1, C1E, C, CE, D1, D1E, D, DE
 
     *   nein
 
@@ -16129,7 +16298,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   nein
 
 
-*    *[^bjnr198000010bjne010211124_11_BJNR198000010BJNE010213123]
+*    *[^bjnr198000010bjne010211124_11_BJNR198000010BJNE010214123]
    Fahrerlaubnisse aus den Australischen Territorien
         **:**
 
@@ -16139,11 +16308,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Australian Capital Territory
 
-    *[^bjnr198000010bjne010211124_12_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_12_BJNR198000010BJNE010214123]
    C
         , R
 
-    *[^bjnr198000010bjne010211124_07_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_07_BJNR198000010BJNE010214123]
    nein
 
     *   nein
@@ -16170,7 +16339,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Queensland
 
-    *[^bjnr198000010bjne010211124_13_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_13_BJNR198000010BJNE010214123]
    C
         , R
 
@@ -16201,7 +16370,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Victoria
 
-    *[^bjnr198000010bjne010211124_14_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_14_BJNR198000010BJNE010214123]
    C
         , CAR, R
 
@@ -16320,8 +16489,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Indiana
 
-    *   Operator License,
-[^bjnr198000010bjne010211124_03_BJNR198000010BJNE010213123]
+    *   Driver´s License,
+[^bjnr198000010bjne010211124_03_BJNR198000010BJNE010214123]
         Chauffeur License
         ,
         Public Passenger Chauffeur License
@@ -16338,7 +16507,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – Iowa
 
     *   C (Noncommercial Operator´s
-[^bjnr198000010bjne010211124_04_BJNR198000010BJNE010213123]
+[^bjnr198000010bjne010211124_04_BJNR198000010BJNE010214123]
         License)
         ,
         A (Commercial
@@ -16543,7 +16712,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Texas
 
-    *[^bjnr198000010bjne010211124_15_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_15_BJNR198000010BJNE010214123]
    C
         , A
         , B
@@ -16564,7 +16733,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Virginia
 
-    *[^bjnr198000010bjne010211124_05_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_05_BJNR198000010BJNE010214123]
    D, M
         , A
         , B
@@ -16577,9 +16746,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Washington State
 
-    *[^bjnr198000010bjne010211124_08_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_08_BJNR198000010BJNE010214123]
    Driver License
-[^bjnr198000010bjne010211124_09_BJNR198000010BJNE010213123]
+[^bjnr198000010bjne010211124_09_BJNR198000010BJNE010214123]
         Intermediate Driver License
 
     *   nein
@@ -16641,7 +16810,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – Manitoba
 
-    *[^bjnr198000010bjne010211124_06_BJNR198000010BJNE010213123]
+    *[^bjnr198000010bjne010211124_06_BJNR198000010BJNE010214123]
    5
         , 4 Stage F
         , 3 Stage F
@@ -16740,45 +16909,45 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Amtliche Anmerkung: Soweit in der Spalte „Klasse(n)“ nicht „alle“,
     sondern nur eine bestimmte Klasse oder bestimmte Klassen genannt sind,
     erfolgt aufgrund dieser Klasse(n) nur die Erteilung der Klasse B.
-[^bjnr198000010bjne010211124_01_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Deutschland unterhält keine diplomatischen
+[^bjnr198000010bjne010211124_01_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Deutschland unterhält keine diplomatischen
     Beziehungen zu Taiwan.
-[^bjnr198000010bjne010211124_02_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Beinhaltet Pkw-Klasse.
-[^bjnr198000010bjne010211124_03_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: In den Fällen, in denen die Klasse C mit
+[^bjnr198000010bjne010211124_02_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Beinhaltet Pkw-Klasse.
+[^bjnr198000010bjne010211124_03_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: In den Fällen, in denen die Klasse C mit
     Beschränkung mit der Schlüsselnummer 2 versehen ist, ist die Erteilung
     einer deutschen Fahrerlaubnis nach § 31 nicht zulässig
     (Lernführerschein).
-[^bjnr198000010bjne010211124_04_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: In den Fällen, in denen die Klasse M mit Code 6
+[^bjnr198000010bjne010211124_04_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: In den Fällen, in denen die Klasse M mit Code 6
     versehen ist, ist eine prüfungsfreie Erteilung einer deutschen
     Fahrerlaubnis nicht möglich (nur Motorradführerschein).
-[^bjnr198000010bjne010211124_05_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: In den Fällen, in denen eine Klasse 5 Stage L oder
+[^bjnr198000010bjne010211124_05_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: In den Fällen, in denen eine Klasse 5 Stage L oder
     Stage A vorliegt, ist die Erteilung einer deutschen Fahrerlaubnis nach
     § 31 nicht zulässig (Lernführerschein).
-[^bjnr198000010bjne010211124_06_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Der Nachweis des Sehvermögens gemäß § 12 ist
+[^bjnr198000010bjne010211124_06_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Der Nachweis des Sehvermögens gemäß § 12 ist
     weiterhin erforderlich.
-[^bjnr198000010bjne010211124_07_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Sofern die „Driver License“ keinen Hinweis auf
+[^bjnr198000010bjne010211124_07_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Sofern die „Driver License“ keinen Hinweis auf
     spezielle Fahrzeuge enthält, handelt es sich um eine Pkw-
     Fahrerlaubnis.
-[^bjnr198000010bjne010211124_08_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Nur für Inhaber, die das 18. Lebensjahr vollendet
+[^bjnr198000010bjne010211124_08_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Nur für Inhaber, die das 18. Lebensjahr vollendet
     haben. Kein Umtausch einer „Instruction Permit“.
-[^bjnr198000010bjne010211124_09_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Die Umschreibung der Klasse 6 erfolgt in eine
+[^bjnr198000010bjne010211124_09_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Die Umschreibung der Klasse 6 erfolgt in eine
     deutsche Fahrerlaubnis der Klasse A2, sofern der Inhaber das 24.
     Lebensjahr noch nicht vollendet hat. Im Übrigen wird die Klasse A
     erteilt.
-[^bjnr198000010bjne010211124_10_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Die australische Klasse C und CAR (Victoria)
+[^bjnr198000010bjne010211124_10_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Die australische Klasse C und CAR (Victoria)
     entspricht der deutschen Klasse B und die australische Klasse R der
     deutschen Klasse A.
-[^bjnr198000010bjne010211124_11_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Auch „Provisional Licence“. Kein Umtausch einer
+[^bjnr198000010bjne010211124_11_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Auch „Provisional Licence“. Kein Umtausch einer
     „Learner Licence“.
-[^bjnr198000010bjne010211124_12_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Auch „Provisional Licence P2“. Kein Umtausch einer
+[^bjnr198000010bjne010211124_12_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Auch „Provisional Licence P2“. Kein Umtausch einer
     „Learner Permit“ bzw. „Learner Licence“.
-[^bjnr198000010bjne010211124_13_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Auch „Probationary Licence P2“. Kein Umtausch
+[^bjnr198000010bjne010211124_13_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Auch „Probationary Licence P2“. Kein Umtausch
     einer „Learner Permit“.
-[^bjnr198000010bjne010211124_14_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Auch „Provisional License“. Kein Umtausch einer
+[^bjnr198000010bjne010211124_14_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Auch „Provisional License“. Kein Umtausch einer
     „Instruction Permit“.
-[^bjnr198000010bjne010211124_15_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Voraussetzung ist, dass das Erteilungsdatum der
+[^bjnr198000010bjne010211124_15_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Voraussetzung ist, dass das Erteilungsdatum der
     namibischen Fahrerlaubnis mindestens zwei Jahre vor Antragstellung
     liegt.
-[^bjnr198000010bjne010211124_16_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Die Fahrerlaubnisklassen C1 und C aus Namibia
+[^bjnr198000010bjne010211124_16_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Die Fahrerlaubnisklassen C1 und C aus Namibia
     berechtigen auch zum Führen von Bussen. Eine Umschreibung dieser
     Fahrerlaubnisklassen in die deutsche Fahrerlaubnisklassen D1 bzw. D
     kann jedoch nicht erfolgen. Die Fahrerlaubnisklasse C1 aus Namibia
@@ -16787,40 +16956,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     jedoch nur eine Fahrerlaubnis der Klasse C1 erteilt, auch wenn diese
     nur zum Führen von Fahrzeugen mit einer zulässigen Masse von nicht
     mehr als 7 500 kg berechtigt.
-[^bjnr198000010bjne010211124_17_BJNR198000010BJNE010213123]:     Keine Fahrerlaubnisse auf Probe.
-[^bjnr198000010bjne010211124_18_BJNR198000010BJNE010213123]:     Amtliche Anmerkungen: Nur Führerscheine, die ab 24. Januar 2017
-    ausgestellt wurden. Für Inhaber albanischer Führerscheine, die vor dem
-    24\. Januar 2017 ausgestellt wurden und deren Inhabern aufgrund ihres
-    ordentlichen Wohnsitzes in der Bundesrepublik Deutschland ab dem 24.
-    Januar 2017 kein albanischer Führerschein ausgestellt werden konnte,
-    ist über das Kraftfahrt-Bundesamt bei der zuständigen albanischen
-    Behörde eine Auskunft über den Besitz und die Gültigkeit der
-    Fahrerlaubnis einzuholen.
-[^bjnr198000010bjne010211124_19_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Die Fahrerlaubnisklasse A1 aus Albanien berechtigt
-    auch zum Führen von Landmaschinen und Komplexen von
-    landwirtschaftlichen Fahrzeugen. Eine Umschreibung dieser
-    Fahrerlaubnisse in die Klasse T kann jedoch nicht erfolgen.
-[^bjnr198000010bjne010213123_20_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Die Fahrerlaubnisklasse B aus Albanien berechtigt
-    auch zum Führen von Landmaschinen und Technologischen Maschinen. Eine
-    Umschreibung dieser Fahrerlaubnisse in die Klasse T kann jedoch nicht
-    erfolgen.
-[^bjnr198000010bjne010213123_21_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Die nach Landesrecht zuständige Behörde kann bei
+[^bjnr198000010bjne010211124_17_BJNR198000010BJNE010214123]:     Keine Fahrerlaubnisse auf Probe.
+[^bjnr198000010bjne010211124_18_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Für Inhaber albanischer Führerscheine, die vor dem
+    24\. Januar 2017 ausgestellt wurden, ist über das Kraftfahrt-Bundesamt
+    bei der zuständigen albanischen Behörde eine Auskunft über den Besitz
+    und die Gültigkeit der Fahrerlaubnis einzuholen.
+[^bjnr198000010bjne010213123_19_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Für Inhaber kosovarischer Führerscheine, die vor
+    dem 1. März 2018 ausgestellt wurden, ist über das Kraftfahrt-Bundesamt
+    bei der zuständigen kosovarischen Behörde eine Auskunft über den
+    Besitz und die Gültigkeit der Fahrerlaubnis einzuholen.
+[^bjnr198000010bjne010213123_20_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Vor Ausstellung eines Führerscheins der Klasse C1,
+    C1E, C, CE, D1, D1E, D oder DE hat der Antragsteller seine Eignung
+    nach Maßgabe der Anlage 5 und die Erfüllung der Anforderungen an das
+    Sehvermögen nach Anlage 6 nachzuweisen. Die ukrainische Klasse A1
+    entspricht der deutschen Klasse AM. Wurden die ukrainischen Klassen C
+    oder D ohne die Klasse B erteilt, ist für die Erteilung der Klasse B
+    die theoretische und praktische Prüfung abzulegen. Eine Erteilung der
+    Klasse C oder D ohne vorherige Erteilung der Klasse B ist nicht
+    vorgesehen.
+[^bjnr198000010bjne010211124_21_BJNR198000010BJNE010214123]:     Amtliche Anmerkung: Die nach Landesrecht zuständige Behörde kann bei
     der Ausstellung des Führerscheins vom Antragsteller verlangen, sich
     einem Sehtest zu unterziehen.
-[^bjnr198000010bjne010213123_22_BJNR198000010BJNE010213123]:     Amtliche Anmerkungen: Nur Führerscheine, die ab 1. März 2018
-    ausgestellt wurden. Für Inhaber kosovarischer Führerscheine, die vor
-    dem 1. März 2018 ausgestellt wurden und deren Inhabern aufgrund ihres
-    ordentlichen Wohnsitzes in der Bundesrepublik Deutschland ab dem 1.
-    März 2018 kein kosovarischer Führerschein ausgestellt werden konnte,
-    ist über das Kraftfahrt-Bundesamt bei der zuständigen kosovarischen
-    Behörde eine Auskunft über den Besitz und die Gültigkeit der
-    Fahrerlaubnis einzuholen.
-[^bjnr198000010bjne010213123_23_BJNR198000010BJNE010213123]:     Amtliche Anmerkung: Alle von der Republik Kosovo erteilten
-    Fahrerlaubnisklassen berechtigen auch zum Führen von Kleintraktoren,
-    Arbeitsfahrzeugen und -maschinen und Traktoren mit Anhänger. Eine
-    Umschreibung dieser Fahrerlaubnisse in die Klasse T kann nicht jedoch
-    erfolgen.
-[^bjne198000010bjne010213123_24_BJNR198000010BJNE010213123]: 
+[^bjnr198000010bjne010213123_22_BJNR198000010BJNE010214123]: 
 (zu § 34)
 
 ### Anlage 12 Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)
