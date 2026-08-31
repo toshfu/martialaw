@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1292
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.1.2025 I Nr. 12
-
-Änderung durch
-:   Art. 8 Abs. 4 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 4 G v. 23.7.2026 I Nr. 226
 
 [^F772203_01_BJNR129200009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
