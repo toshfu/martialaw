@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 1572
 
 Zuletzt geändert durch
-:   Art. 4 G v. 28.10.2025 I Nr. 259
-
-Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.12.2025 I Nr. 371
 
 [^F804365_01_BJNR157200018]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
