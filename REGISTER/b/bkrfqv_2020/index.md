@@ -15,10 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2905
 
-Stand: Ersetzt V 9231-11-1 v. 22.8.2006 I 2108 (BKrFQV)
-Änderung durch
-:   Art. 1 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 V v. 12.8.2026 I Nr. 236
 
+Stand: Ersetzt V 9231-11-1 v. 22.8.2006 I 2108 (BKrFQV)
 Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2018/645 des
 Europäischen Parlaments und des Rates vom 18. April 2018 zur Änderung
 der Richtlinie 2003/59/EG über die Grundqualifikation und
