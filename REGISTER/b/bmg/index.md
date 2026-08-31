@@ -216,9 +216,8 @@ erforderlichen Hinweise im Melderegister:
     und Sperrsumme des Personalausweises und der eID-Karte,
 
 
-17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2
-    Nummer 4 des AZR-Gesetzes, übergangsweise die Seriennummer des
-    Ankunftsnachweises nach § 63a Absatz 1 Nummer 10 des Asylgesetzes,
+17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 1
+    und 2 Nummer 4 des AZR-Gesetzes,
 
 
 18. Auskunfts- und Übermittlungssperren,
