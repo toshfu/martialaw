@@ -675,8 +675,7 @@ Ausübung ihres Gewerbes oder Berufs handeln,
 
 
 12. Wirtschaftsprüfer, vereidigte Buchprüfer, Steuerberater,
-    Steuerbevollmächtigte und die in § 4 Nummer 11 des
-    Steuerberatungsgesetzes genannten Vereine
+    Steuerbevollmächtigte und Lohnsteuerhilfevereine,
 
 
 13. Dienstleister für Gesellschaften und für Treuhandvermögen oder
@@ -5873,8 +5872,8 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
     Steuerberatungsgesetzes),
 
 
-7a. für Vereine nach § 4 Nummer 11 des Steuerberatungsgesetzes die für die
-    Aufsicht nach § 27 des Steuerberatungsgesetzes zuständige Behörde,
+7a. für Lohnsteuerhilfevereine die für die Aufsicht nach § 27 des
+    Steuerberatungsgesetzes zuständige Behörde,
 
 
 8.  für die Veranstalter und Vermittler von Glücksspielen nach § 2 Absatz
