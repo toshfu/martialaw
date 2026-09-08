@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 19.6.2025 I Nr. 147
 
+Neufassung durch
+:   Bek. v. 26.8.2026 I Nr. 242 mWv 26.6.2026 noch nicht berücksichtigt
+
 [^f772147_01_BJNR138900009]:     Diese Verordnung dient der Umsetzung der Delegierten Richtlinie (EU)
     2022/2407 der Kommission vom 20. September 2022 zur Anpassung der
     Anhänge der Richtlinie 2008/68/EG des Europäischen Parlaments und des
