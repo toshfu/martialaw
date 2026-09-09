@@ -17,13 +17,10 @@ Fundstelle
 :   BGBl I: 2020, 1728
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.6.2026 I Nr. 191
+:   Art. 1 G v. 23.7.2026 I Nr. 226
 
 Änderung durch
-:   Art. 1 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 23.7.2026 I Nr. 226 mWv 1.1.2027 noch nicht berücksichtigt
+:   Art. 2 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 3 G v. 23.7.2026 I Nr. 226 mWv 1.1.2028 noch nicht berücksichtigt
