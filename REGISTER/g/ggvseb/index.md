@@ -17,19 +17,13 @@ Fundstelle
 :   BGBl I: 2009, 1389
 
 Neugefasst durch
-:   Bek. v. 18.8.2023 I Nr. 227;
-
-Zuletzt geändert durch
-:   Art. 2 V v. 19.6.2025 I Nr. 147
-
-Neufassung durch
-:   Bek. v. 26.8.2026 I Nr. 242 mWv 26.6.2026 noch nicht berücksichtigt
+:   Bek. v. 26.8.2026 I Nr. 242
 
 [^f772147_01_BJNR138900009]:     Diese Verordnung dient der Umsetzung der Delegierten Richtlinie (EU)
-    2022/2407 der Kommission vom 20. September 2022 zur Anpassung der
+    2025/149 der Kommission vom 15. November 2024 zur Anpassung der
     Anhänge der Richtlinie 2008/68/EG des Europäischen Parlaments und des
-    Rates an den wissenschaftlichen und technischen Fortschritt (ABl. L
-    317 vom 9. Dezember 2022, S. 64).
+    Rates an den wissenschaftlichen und technischen Fortschritt (ABl. L,
+    2025/149, 24.1.2025).
 
 
 ## Inhaltsverzeichnis
@@ -289,6 +283,9 @@ Neufassung durch
 
 
 
+*    *
+    *
+
 *    *   Anlage 1
 
     *   (weggefallen)
@@ -460,8 +457,8 @@ in
 7.  einen MEGC,
 
 
-8.  einen Groß- oder Kleincontainer für die Beförderung in loser
-    Schüttung,
+8.  Groß- oder Kleincontainer                    für die Beförderung in
+    loser Schüttung,
 
 
 9.  einen Schüttgut-Container,
@@ -539,15 +536,16 @@ Versandstücke oder deren Kennzeichnung oder Bezettelung ändert oder
 Verpackungsvorganges, bestehend aus der Verpackung, der Großverpackung
 oder dem IBC und ihrem beziehungsweise seinem Inhalt. Der Begriff
 umfasst die Gefäße für Gase sowie die Gegenstände, die wegen ihrer
-Größe, Masse oder Formgebung unverpackt oder in Schlitten, Verschlägen
-oder Handhabungseinrichtungen befördert werden dürfen. Mit Ausnahme
-der Beförderung radioaktiver Stoffe gilt dieser Begriff weder für
-Güter, die in loser Schüttung, noch für Güter, die in Tanks oder
+Größe, Masse oder Formgebung unverpackt, oder in Schlitten,
+Verschlägen oder Handhabungseinrichtungen befördert werden dürfen. Mit
+Ausnahme der Beförderung radioaktiver Stoffe gilt dieser Begriff weder
+für Güter, die in loser Schüttung, noch für Güter, die in Tanks oder
 Ladetanks befördert werden. An Bord von Schiffen schließt der Begriff
 Versandstück auch die Fahrzeuge, Wagen, Container einschließlich
 Wechselaufbauten, Tankcontainer, ortsbewegliche Tanks,
 Großverpackungen, IBC, Batterie-Fahrzeuge, Batteriewagen,
-Tankfahrzeuge, Kesselwagen und MEGC ein.
+Tankfahrzeuge, Kesselwagen
+MEGC              ein.
 
 (6) Fahrzeuge sind im innerstaatlichen Verkehr und
 innergemeinschaftlichen Verkehr – abweichend von der
@@ -622,7 +620,7 @@ geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
 ## § 3 Zulassung zur Beförderung
 
-Gefährliche Güter dürfen unbeschadet des § 5 nur befördert werden,
+Gefährliche Güter dürfen unbeschadet des § 5 nur befördert werden,
 wenn deren Beförderung nach den Unterabschnitten 2.2.1.2, 2.2.2.2,
 2\.2.3.2, 2.2.41.2, 2.2.42.2, 2.2.43.2, 2.2.51.2, 2.2.52.2, 2.2.61.2,
 2\.2.62.2, 2.2.8.2, 2.2.9.2, Kapitel 3.2 Tabelle A und Kapitel 3.3
@@ -717,7 +715,7 @@ zulässig ist. Diese Ausnahmen schließen für den Bereich der
 Bundeswasserstraßen weitere für das Vorhaben erforderliche
 Entscheidungen nach Teil 7 ADN – ausgenommen Unterabschnitt 7.2.2.6
 und Absätze 7.2.3.7.1 und 7.2.3.7.6 ADN – mit ein; die Entscheidung
-ergeht insoweit im Benehmen mit der nach § 16 Absatz 6 zuständigen
+ergeht insoweit im Benehmen mit der nach § 16 Absatz 6 zuständigen
 Behörde.
 
 (4) Bei Ausnahmen nach den Absätzen 1 bis 3 ist über die
@@ -950,7 +948,7 @@ zuständige Behörde für
 
     c)  Kapitel 4.1 mit Ausnahme von Unterabschnitt 4.1.4.1
         Verpackungsanweisung P 200 ADR/RID und die dem Bundesamt für
-        Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10
+        Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10
         zugewiesenen Zuständigkeiten,
 
 
@@ -1278,7 +1276,7 @@ vorgenannten Behörden und Stellen teilnehmen müssen.
 
 ## § 13 Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
 
-(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung
+(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung
 anerkannten Benannten Stellen sind zuständig für
 
 1.  die Bescheinigung über die Zulassung einer Änderung nach Absatz
@@ -1286,8 +1284,9 @@ anerkannten Benannten Stellen sind zuständig für
 
 
 2.  die Aufgaben nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200
-    mit Ausnahme des Absatzes 9 ADR/RID im Einvernehmen mit dem
-    Bundesministerium für Digitales und Verkehr;
+    mit Ausnahme des Absatzes 9
+    ADR/RID                    im Einvernehmen mit dem Bundesministerium
+    für Digitales und Verkehr;
 
 
 3.  die Festlegung der Prüffristen nach Unterabschnitt 4.1.4.1
@@ -1378,13 +1377,13 @@ Typgenehmigung von Fahrzeugen nach Unterabschnitt 9.1.2.2 Satz 1 ADR.
 
 
 2.  die Umschreibung der Bescheinigung über die Fahrzeugführerschulung
-    nach Abschnitt 8.2.2 ADR nach § 7 Absatz 1 Nummer 1 und Absatz 2
+    nach Abschnitt 8.2.2 ADR nach § 7 Absatz 1 Nummer 1 und Absatz 2
     Nummer 1 in eine Bescheinigung nach § 14 Absatz 3 Satz 1 Nummer 1 und
 
 
 3.  das Führen eines Verzeichnisses nach Unterabschnitt 1.10.1.6 ADR über
     alle gültigen Schulungsbescheinigungen für Fahrzeugführer mit Ausnahme
-    der in § 7 Absatz 1 Nummer 4 und Absatz 2 Nummer 3 genannten
+    der in § 7 Absatz 1 Nummer 4 und Absatz 2 Nummer 3 genannten
     Schulungsbescheinigungen.
 
 
@@ -1672,8 +1671,8 @@ Amtsbezirk im Bereich der Bundeswasserstraßen und die jeweilige nach
 Landesrecht zuständige Stelle im Bereich der übrigen schiffbaren
 Wasserstraßen ist zuständige Behörde für
 
-1.  Aufgaben nach Teil 7 ADN mit Ausnahme von Aufgaben nach Absatz 3 und §
-    11 Nummer 6;
+1.  Aufgaben nach Teil 7 ADN mit Ausnahme von Aufgaben nach
+    Absatz 3 und § 11 Nummer 6;
 
 
 2.  das Genehmigen von Arbeiten an Bord mit elektrischem Strom oder Feuer
@@ -1709,8 +1708,8 @@ Behörde für Kontrollen nach Unterabschnitt 1.8.1.4 ADN.
 
 (8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation ist zuständig nach der IMO Resolution A.749 (18)
-einschließlich deren Anlage “Code über Intaktstabilität aller
-Schiffstypen” in der Fassung der Bekanntmachung vom 18. März 1999
+einschließlich deren Anlage „Code über Intaktstabilität aller
+Schiffstypen“ in der Fassung der Bekanntmachung vom 18. März 1999
 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz
 9\.2.0.94.4 ADN.
 
@@ -1730,8 +1729,8 @@ sowie in der Binnenschifffahrt hat
     5\.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme
     von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe
     g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn
-    Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder §
-    35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung
+    Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder
+    § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung
     schriftlich oder elektronisch hinzuweisen und
 
 
@@ -2033,7 +2032,7 @@ Binnenschifffahrt
     auszurüsten;
 
 
-10. die Prüffristen nach Unterabschnitt 8.1.4.4 ADR in Verbindung mit § 36
+10. die Prüffristen nach Unterabschnitt 8.1.4.4 ADR in Verbindung mit § 36
     oder den zugelassenen nationalen Normen einzuhalten;
 
 
@@ -2582,7 +2581,8 @@ Binnenschifffahrt
 5.  darf Tanks, deren Datum der nächsten Prüfung nicht überschritten ist,
     mit den nach Absatz 4.3.2.1.5 zulässigen gefährlichen Gütern nur
     befüllen, wenn die Beförderung dieser gefährlichen Güter nach Absatz
-    4\.3.2.1.1 ADR/RID in Tanks zulässig ist;
+    4\.3.2.1.1
+    ADR/RID                    in Tanks zulässig ist;
 
 
 6.  hat dafür zu sorgen, dass der zulässige Füllungsgrad, der zulässige
@@ -3747,7 +3747,7 @@ ihrerseits beizutragen.
 
 ## § 35 Verlagerung
 
-(1) Die in § 35b genannten gefährlichen Güter müssen in dem dort
+(1) Die in § 35b genannten gefährlichen Güter müssen in dem dort
 festgelegten Rahmen auf dem Eisenbahn- oder Wasserweg befördert
 werden, sofern
 
@@ -3860,7 +3860,7 @@ zuständigen Personen lesbar gemacht werden kann.
 Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 35a wie folgt:
 
-## Tabelle
+## **Tabelle**
 
 *    *   lfd.
         Nr.
@@ -3871,7 +3871,8 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   Stoff oder Gegenstand
 
-    *   Geltung der §§ 35
+    *   Geltung
+        der §§ 35
         und 35a
 
     *   Beförderung in
@@ -3892,14 +3893,17 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   explosive Stoffe und Gegenstände mit Explosivstoff
 
-    *   § 35 und § 35a
+    *   § 35 und
+        § 35a
 
     *   nicht zulässig
 
     *   1 000 kg
-        Nettoexplosivstoffmasse
+        Nettoexplosiv-
+        stoffmasse
 
-    *   Siehe Ausnahmen nach § 35c Absatz 9
+    *   Siehe Ausnahmen nach
+        § 35c Absatz 9
 
 
 *    *   1.2
@@ -3910,8 +3914,8 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   nicht zulässig
 
-    *   1 000 kg
-        Nettoexplosivstoffmasse
+    *   1 000 kg Nettoexplosiv-
+        stoffmasse
 
     *
 
@@ -3921,23 +3925,25 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   § 35 und § 35a
 
-    *   1 000 kg
-        Nettoexplosivstoffmasse
+    *   1 000 kg Nettoexplosiv-
+        stoffmasse
 
-    *   1 000 kg
-        Nettoexplosivstoffmasse
+    *   1 000 kg Nettoexplosiv-
+        stoffmasse
 
     *   Beförderungen in Tanks sind nur für die
-        UN-Nummern 0331 und 0332 zulässig
-        (Siehe Ausnahmen nach § 35c Absatz 9)
+        UN-Nummern 0331
+        und 0332 zulässig
+        (Siehe Ausnahmen nach
+        § 35c Absatz 9)
 
 
 *    *   2
 
     *   2
 
-    *   entzündbare Gase (Klassifizierungscodes, die nur den Buchstaben F
-        enthalten)
+    *   entzündbare Gase (Klassifizierungscodes,
+        die nur den Buchstaben F enthalten)
 
     *   § 35 und § 35a
 
@@ -3945,8 +3951,9 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks (Siehe Ausnahmen
-        nach § 35c Absatz 1 und 5 bis 8)
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks (Siehe Ausnahmen nach
+        § 35c Absatz 1 und 5 bis 8)
 
 
 *    *   3
@@ -3962,27 +3969,29 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks
 
 
 *    *   4
 
     *   3
 
-    *   entzündbare flüssige Stoffe der Verpackungsgruppen I und II, mit
-        Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921
+    *   entzündbare flüssige
+        Stoffe der Verpackungsgruppen I
+        und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921
 
     *   § 35a
 
-    *   3 000 Liter bei
-        Verpackungsgruppe I
-        6 000 Liter bei
-        Verpackungsgruppe II
+    *   3 000 Liter bei Verpackungs-
+        gruppe I
+        6 000 Liter bei Verpackungs-
+        gruppe II
 
     *   entfällt
 
-    *   § 35a gilt nur für Beförderungen in Tanks (Siehe Ausnahme nach § 35c
-        Absatz 3)
+    *   § 35a gilt nur für Beförderungen in Tanks (Siehe Ausnahme nach
+        § 35c Absatz 3)
 
 
 *    *   5
@@ -3997,15 +4006,16 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks
 
 
 *    *   6
 
     *   4.1
 
-    *   desensibilisierte explosive Stoffe der UN-Nummern 3364, 3365, 3367 und
-        3368
+    *   desensibilisierte explosive Stoffe der UN-Nummern 3364, 3365, 3367
+        und 3368
 
     *   § 35 und § 35a
 
@@ -4027,7 +4037,8 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks
 
 
 *    *   8
@@ -4042,7 +4053,8 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks
 
 
 *    *   9
@@ -4058,7 +4070,8 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks
 
 
 *    *   10
@@ -4073,7 +4086,8 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks
 
 
 *    *   11
@@ -4089,7 +4103,8 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 
     *   entfällt
 
-    *   §§ 35 und 35a gelten nur für Beförderungen in Tanks
+    *   §§ 35 und 35a gelten nur
+        für Beförderungen in Tanks
 
 
 
@@ -4127,12 +4142,12 @@ werden,
 (2) Für die Tanks nach Absatz 1 ist dies in der ADR-
 Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer
 besonderen Bescheinigung des Tankherstellers oder eines
-Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu
+Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu
 bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der
 Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV
 gelten weiter.
 
-(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen
+(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen
 Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen
 in
 
@@ -4142,12 +4157,12 @@ in
     0,4 Mega-Pascal (4 Bar) geprüft sind,
 
 
-2.[^F827039_02_BJNR138900009BJNE005507123]
+2.[^F835509_2_BJNR138900009BJNE005508119]
   Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines
     Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21
     des Forschungsberichts 203 „Sicherheitsniveaus von Transporttanks für
     Gefahrgut“
-[^F827039_03_BJNR138900009BJNE005507123]
+[^F835509_3_BJNR138900009BJNE005508119]
     und Bekanntmachung zur Anwendung des Forschungsberichts 203
     ), wenn die Kenngröße f
     3                    zur Ermittlung der Risikozahl mindestens 0,5
@@ -4170,20 +4185,20 @@ durchgeführt werden.
 (4) Für die Tanks nach Absatz 3 Nummer 1 bis 3 ist dies in der ADR-
 Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer
 besonderen Bescheinigung des Tankherstellers oder eines
-Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu
+Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu
 bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV
 sowie der Ausnahme 14 (S) der GGAV gelten weiter.
 
-(5) § 35 gilt nicht für Beförderungen von entzündbaren Gasgemischen
-der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2), sofern die
+(5) § 35 gilt nicht für Beförderungen von entzündbaren Gasgemischen
+der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2), sofern die
 gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht
 mehr als 300 Kilometer beträgt.
 
 (6) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren
-Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in
+Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in
 Tanks nach Abschnitt 1.2.1 ADR bis 11 000 kg Nettomasse in der
 Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen
-Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der
+Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der
 Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sind und dies in der
 ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt
 ist.
@@ -4198,21 +4213,21 @@ Fahrdynamikregelung (Electronic Stability Control – ESC) ausgerüstet
 sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt
 9\.1.3.1 ADR vermerkt ist.
 
-(8) § 35 Absatz 2 gilt nicht für Beförderungen von entzündbaren Gasen
+(8) § 35 Absatz 2 gilt nicht für Beförderungen von entzündbaren Gasen
 der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312 (§ 35b Tabelle
 laufende Nummer 2).
 
-(9) Die §§ 35 und 35a gelten nicht für Beförderungen zum Ort der
+(9) Die §§ 35 und 35a gelten nicht für Beförderungen zum Ort der
 Verwendung, sofern die gesamte Beförderungsstrecke im Geltungsbereich
 dieser Verordnung nicht mehr als 300 Kilometer beträgt, von explosiven
 Stoffen und Gegenständen mit Explosivstoff (§ 35b Tabelle laufende
 Nummer 1)
 
-1.[^F827039_04_BJNR138900009BJNE005507123]
+1.[^F835509_4_BJNR138900009BJNE005508119]
   der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-
     Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven
     Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach
-    § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe
+    § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe
     und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr
     als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton
     bei Durchführung der Prüfverfahren
@@ -4223,7 +4238,7 @@ Nummer 1)
 
     a)  bis 1 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit,
         sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV)
-        nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung,
+        nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung,
         oder
 
 
@@ -4242,18 +4257,20 @@ Nummer 1)
 
 
 
+_\_\__\_\__\_\__\_\__\_\_\_\_
+
     Der Forschungsbericht 203 ist hinterlegt bei der Bundesanstalt für
     Materialforschung und -prüfung, 12205 Berlin, Unter den Eichen 87.
-[^F827039_02_BJNR138900009BJNE005507123]:     Die Bekanntmachung ist veröffentlicht im Verkehrsblatt 2002 Heft 16 S.
+[^F835509_2_BJNR138900009BJNE005508119]:     Die Bekanntmachung ist veröffentlicht im Verkehrsblatt 2002 Heft 16 S.
     522\.
-[^F827039_03_BJNR138900009BJNE005507123]:     Prüfverfahren nach Anhang Teil A.14 der Verordnung (EG) Nr. 440/2008
+[^F835509_3_BJNR138900009BJNE005508119]:     Prüfverfahren nach Anhang Teil A.14 der Verordnung (EG) Nr. 440/2008
     der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäß
     der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des
     Rates zur Registrierung, Bewertung, Zulassung und Beschränkung
     chemischer Stoffe (REACH) (ABl. L 142 vom 31.5.2008, S. 1) in der
     jeweils jüngsten im Amtsblatt der Europäischen Union veröffentlichten
     Fassung.
-[^F827039_04_BJNR138900009BJNE005507123]: 
+[^F835509_4_BJNR138900009BJNE005508119]: 
 
 ## § 36 Prüffrist für Feuerlöschgeräte
 
@@ -5494,7 +5511,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 ## Anlage 2 Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
-(Fundstelle: BGBl. 2023 I Nr. 227, S. 42 – 46)
+(Fundstelle: BGBl. 2026 I Nr. 242, S. 42 – 46)
 
 
 **1.** (weggefallen)
@@ -5657,29 +5674,25 @@ zum 31. Dezember 2024 geltenden Fassung.
                     in gedeckten und bedeckten Straßenfahrzeugen
 
 
-            *                *   a)
+            *                *
+                    a)  Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,
 
-                *   Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,
+
+                    b)  Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne
+                        Nebengefahr giftig,
+
+
+                    c)  Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne
+                        Nebengefahr giftig und
+
+
+                    d)  Gefahrgüter der Klasse 9, Verpackungsgruppe II und III
+
+
+
 
                 *   Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit
                     Aufsetztanks und Straßenfahrzeugen mit Tankcontainern)
-
-
-            *                *   b)
-
-                *   Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne
-                    Nebengefahr giftig,
-
-
-            *                *   c)
-
-                *   Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne
-                    Nebengefahr giftig und
-
-
-            *                *   d)
-
-                *   Gefahrgüter der Klasse 9, Verpackungsgruppe II und III
 
 
 
@@ -5874,8 +5887,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 **Stoffliste Nummer 1:**
 
-*    *   UN-
-        Nummer
+*    *   UN-Nummer
 
     *   Klasse und
         Klassifizierungscode
@@ -6265,7 +6277,8 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 *    *   UN-Nummer
 
-    *   Klasse und Klassifizierungscode
+    *   Klasse und
+        Klassifizierungscode
 
     *   Verpackungs-
         gruppe
@@ -6425,7 +6438,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 ## Anlage 3 Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
 
-(Fundstelle: BGBl. 2023 I Nr. 227, S. 47 – 53)
+(Fundstelle: BGBl. 2026 I Nr. 242, S. 47 – 49)
 
 
 **1.** **Anwendungsbereich**
@@ -6616,7 +6629,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 **Bild 1**
 
-![bgbl1_2023_j02270_0010.jpg](bgbl1_2023_j02270_0010.jpg)
+![bgbl1_2026_j02420_0010.jpg](bgbl1_2026_j02420_0010.jpg)
 **Bild 2**
 
-![bgbl1_2023_j02270_0020.jpg](bgbl1_2023_j02270_0020.jpg)
+![bgbl1_2026_j02420_0020.jpg](bgbl1_2026_j02420_0020.jpg)
