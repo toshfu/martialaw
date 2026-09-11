@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 3.2.2026 I Nr. 28
 
+Änderung durch
+:   Art. 5 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+
 [^F785641_01_BJNR138310014]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/29/EWG des
     Rates vom 31. März 1992 über Mindestvorschriften für die Sicherheit
     und den Gesundheitsschutz zum Zweck einer besseren medizinischen
