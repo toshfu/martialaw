@@ -8682,8 +8682,7 @@ zu erteilen.
 
 
     e)  ein Verfahren zur Bestimmung des zuständigen Mitgliedstaates gemäß
-        einer unentgeltlichen Rechtsauskunft gemäß Artikel 38 Absatz 1 der
-        Verordnung (EU) 2024/1351 eingeleitet wurde.
+        Artikel 38 Absatz 1 der Verordnung (EU) 2024/1351 eingeleitet wurde.
 
 
 
