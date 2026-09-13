@@ -16,12 +16,8 @@ Fundstelle
 :   BGBl I: 2013, 1324
 
 Neugefasst durch
-:   Bek. v. 21.11.2018 I 1938;
+:   Bek. v. 27.3.2026 I Nr. 93
 
-Zuletzt geändert durch
-:   Art. 1 G v. 4.3.2026 I Nr. 60
-
-Stand: Neufassung gem. Bek. v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeines
 
@@ -53,7 +49,7 @@ Begriffsbestimmungen
 
 
 
-(2) Für in einer Rechtsverordnung nach § 4 näher bestimmte
+(2) Für in einer Rechtsverordnung nach § 4 näher bestimmte
 meldepflichtige Seuchen gelten im Anwendungsbereich dieses Gesetzes
 die Falldefinitionen des Artikels 9 Absatz 1 und 2 der Delegierten
 Verordnung (EU) 2020/689 in der Fassung vom 10. Juli 2023
@@ -126,7 +122,7 @@ erforderlich ist,
 ### § 4 Verordnungsermächtigung zur Meldung von Seuchen bei Tieren
 
 (1) Das Bundesministerium wird ermächtigt, zur Erfüllung der Zwecke
-des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates
+des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates
 Vorschriften über die Meldung von Seuchen bei Tieren und über die
 Mitteilung an das Bundesministerium zu erlassen. In einer
 Rechtsverordnung nach Satz 1 kann das Bundesministerium insbesondere
@@ -197,7 +193,7 @@ nur, soweit eine Absonderung im Einzelfall durchführbar ist. Die
 zuständige Behörde führt eine epidemiologische Untersuchung durch, um
 insbesondere den Zeitpunkt der Einschleppung der Seuche, deren Art,
 Ausbreitung und Ursachen zu ermitteln. Satz 3 gilt für das Auftreten
-einer in einer Rechtsverordnung nach § 4 näher bestimmten
+einer in einer Rechtsverordnung nach § 4 näher bestimmten
 meldepflichtigen Seuche bei wild lebenden Tieren entsprechend. Die
 zuständige Behörde kann für andere als die in Satz 4 genannten
 meldepflichtigen Seuchen und für neu auftretende Seuchen Maßnahmen
@@ -1029,7 +1025,7 @@ und der Europäischen Kommission mitteilen.
 
 ### § 12 Herstellung von In-vitro-Diagnostika; Verordnungsermächtigungen
 
-(1) Wer In-vitro-Diagnostika im Sinne des § 11 Absatz 2 Satz 1 zum
+(1) Wer In-vitro-Diagnostika im Sinne des § 11 Absatz 2 Satz 1 zum
 Zwecke des Inverkehrbringens oder der Anwendung in eigenen
 Tierbeständen gewerbs- oder berufsmäßig herstellen will, bedarf für
 das jeweilige In-vitro-Diagnostikum einer Erlaubnis der zuständigen
@@ -1429,7 +1425,7 @@ Antrag eine Entschädigung in Geld geleistet für
     Anordnung der Tötung verendet sind,
 
 
-2.  Tiere, bei denen nach dem Tode eine in einer Rechtsverordnung nach § 4
+2.  Tiere, bei denen nach dem Tode eine in einer Rechtsverordnung nach § 4
     näher bestimmte meldepflichtige Seuche festgestellt worden ist, soweit
     die Voraussetzungen gegeben waren, unter denen die Tiere auf
     behördliche Anordnung hätten getötet werden müssen,
@@ -1477,54 +1473,69 @@ ermittelt.
 (2) Die Entschädigung darf folgende Höchstsätze je Tier nicht
 überschreiten:
 
-*    *   1.
+1.
+    *        *   Pferde, Esel, Maulesel, Maultiere
 
-    *   Pferde, Esel, Maulesel, Maultiere
-
-    *   6 000 Euro,
-
-
-*    *   2.
-
-    *   Rinder einschließlich Bisons, Wisente und Wasserbüffel
-
-    *   4 000 Euro,
+        *   6 000 Euro,
 
 
-*    *   3.
-
-    *   Schweine
-
-    *   1 500 Euro,
 
 
-*    *   4.
 
-    *   Gehegewild
+2.
+    *        *   Rinder einschließlich Bisons, Wisente und Wasserbüffel
 
-    *   1 000 Euro,
-
-
-*    *   5.
-
-    *   Schafe
-
-    *   800 Euro,
+        *   4 000 Euro,
 
 
-*    *   6.
-
-    *   Ziegen
-
-    *   800 Euro,
 
 
-*    *   7.
 
-    *   Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner,
-        Tauben, Truthühner und Wachteln
+3.
+    *        *   Schweine
 
-    *   110 Euro.
+        *   1 500 Euro,
+
+
+
+
+
+4.
+    *        *   Gehegewild
+
+        *   1 000 Euro,
+
+
+
+
+
+5.
+    *        *   Schafe
+
+        *   800 Euro,
+
+
+
+
+
+6.
+    *        *   Ziegen
+
+        *   800 Euro **,**
+
+
+
+
+
+7.
+    *        *   Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner,
+            Tauben, Truthühner
+            und Wachteln
+
+        *   110 Euro.
+
+
+
 
 
 
@@ -1540,7 +1551,7 @@ Tierart zu wahren.
 (3) Die Entschädigung nach Absatz 1 in Verbindung mit Absatz 2 mindert
 sich
 
-1.  um 50 vom Hundert für Tiere, die, außer in den Fällen des § 15 Nummer
+1.  um 50 vom Hundert für Tiere, die, außer in den Fällen des § 15 Nummer
     3 und 4, vor einer in einer Rechtsverordnung nach § 4 vorgeschriebenen
     Meldung einer dort näher bestimmten meldepflichtigen Seuche
     nachweislich an der Seuche verendet oder wegen der Seuche getötet
@@ -1568,7 +1579,7 @@ Keine Entschädigung wird gewährt für
 1.  Tiere, die dem Bund oder einem Land gehören,
 
 
-2.  Tiere, die entgegen § 13 oder einem der Bekämpfung von oder der
+2.  Tiere, die entgegen § 13 oder einem der Bekämpfung von oder der
     Vorbeugung vor Seuchen dienenden unmittelbar geltenden Rechtsakt der
     Europäischen Gemeinschaft oder der Europäischen Union im
     Anwendungsbereich dieses Gesetzes in die Union verbracht, durchgeführt
@@ -1576,7 +1587,7 @@ Keine Entschädigung wird gewährt für
     sind,
 
 
-3.  Tiere, die entgegen einer Vorschrift einer nach § 14 Absatz 1
+3.  Tiere, die entgegen einer Vorschrift einer nach § 14 Absatz 1
     erlassenen Rechtsverordnung in die Union verbracht, durchgeführt oder
     aus einem anderen Mitgliedstaat in das Inland verbracht worden sind,
 
@@ -1676,7 +1687,7 @@ Fall
 
 
 
-2.  die in einer Rechtsverordnung nach § 4 vorgeschriebene Meldung einer
+2.  die in einer Rechtsverordnung nach § 4 vorgeschriebene Meldung einer
     dort näher bestimmten meldepflichtigen Seuche schuldhaft nicht oder
     nicht unverzüglich vorgenommen hat, es sei denn, dass die Meldung von
     einem anderen zur Meldung einer solchen Seuche Verpflichteten
@@ -1719,7 +1730,7 @@ entsprechend.
 
 ### § 19 Teilweise Entschädigung
 
-Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und
+Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und
 Absatz 3 teilweise gewährt werden, wenn die Schuld gering ist oder die
 Versagung der Entschädigung für den Unternehmer eine unbillige Härte
 bedeuten würde.
@@ -2151,7 +2162,7 @@ wiederholt
 1.  rechtskräftig nach § 31 verurteilt worden ist oder
 
 
-2.  aufgrund rechtskräftig festgestellter Ordnungswidrigkeiten nach § 32
+2.  aufgrund rechtskräftig festgestellter Ordnungswidrigkeiten nach § 32
     Absatz 1 und 2 die erforderliche Zuverlässigkeit nicht besitzt.
 
 
@@ -2263,7 +2274,7 @@ werden durch die zuständige Behörde überwacht. Die zuständige Behörde
 kann die Anordnungen treffen, die erforderlich sind, um an den der
 Überwachung unterliegenden Orten oder in den der Überwachung
 unterliegenden Betrieben und sonstigen Einrichtungen sicherzustellen,
-dass die zur Erfüllung der Zwecke des § 1 Satz 1 notwendigen
+dass die zur Erfüllung der Zwecke des § 1 Satz 1 notwendigen
 Anforderungen eingehalten werden.
 
 (2) Jahr- und Wochenmärkte, auf denen gehaltene Huftiere, in
@@ -2364,7 +2375,7 @@ Gesetz oder auf Grund dieses Gesetzes vorgesehenen Maßnahmen
         oder
 
 
-    c)  die in den § 6 Absatz 1 Nummer 2, 5, 6 und 11 und in § 25 aufgeführten
+    c)  die in den § 6 Absatz 1 Nummer 2, 5, 6 und 11 und in § 25 aufgeführten
         Betriebe, Unternehmen oder Veranstaltungen sowie
 
 
@@ -2530,7 +2541,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 
-(8) Das Friedrich-Loeffler-Institut arbeitet zu den in § 1 genannten
+(8) Das Friedrich-Loeffler-Institut arbeitet zu den in § 1 genannten
 Zwecken mit ausländischen Stellen und supranationalen Organisationen
 sowie mit der Weltorganisation für Tiergesundheit und anderen
 internationalen Organisationen zusammen, um einer möglichen
@@ -2709,7 +2720,7 @@ wird bestraft, wer
     oder
 
 
-2.  entgegen einer Rechtsverordnung nach § 14 Absatz 2 Nummer 1 Buchstabe
+2.  entgegen einer Rechtsverordnung nach § 14 Absatz 2 Nummer 1 Buchstabe
     a oder b oder einer vollziehbaren Anordnung aufgrund einer solchen
     Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
     bestimmten Tatbestand auf diese Strafvorschrift verweist.
@@ -2894,7 +2905,7 @@ Mitgliedstaaten, dem Bundesministerium, dem Friedrich-Loeffler-
 Institut und der Europäischen Kommission mitteilen.
 
 (3a) Die zuständigen Behörden unterrichten die für die Ermittlungen
-nach § 25 Absatz 1 des Infektionsschutzgesetzes zuständigen Behörden
+nach § 25 Absatz 1 des Infektionsschutzgesetzes zuständigen Behörden
 über den Verdacht, den Nachweis oder den Ausbruch einer Seuche, die
 auf den Menschen übertragen werden kann, unter Angabe der Gemeinde, in
 der der Verdacht, der Nachweis oder der Ausbruch festgestellt worden
@@ -2902,7 +2913,7 @@ ist. Personenbezogene Daten dürfen nicht übermittelt werden.
 
 (3b) Hat die nach § 25 Absatz 1 des Infektionsschutzgesetzes
 zuständige Behörde Ermittlungen nach dieser Vorschrift eingeleitet,
-übermittelt die zuständige Behörde auf Ersuchen der nach § 25 Absatz 1
+übermittelt die zuständige Behörde auf Ersuchen der nach § 25 Absatz 1
 des Infektionsschutzgesetzes zuständigen Behörde zum Zwecke der
 Durchführung der Ermittlungen Name und Anschrift des Unternehmers oder
 Heimtierhalters, in dessen Bestand der Verdacht, der Nachweis oder der
@@ -2941,14 +2952,14 @@ aufgestellten Verzeichnis aufgeführt ist. Der Sachverständige hat das
 Gutachten binnen 72 Stunden zu erstatten.
 
 (2) Auf den Schiedsvertrag und das schiedsrichterliche Verfahren
-finden die Vorschriften der §§ 1025 bis 1065 der Zivilprozessordnung
+finden die Vorschriften der §§ 1025 bis 1065 der Zivilprozessordnung
 entsprechende Anwendung. Gericht im Sinne des § 1062 der
 Zivilprozessordnung ist das zuständige Verwaltungsgericht; auf
 Rechtsmittel, die gegen Entscheidungen der zuständigen
-Verwaltungsgerichte erhoben werden, findet § 1065 der
+Verwaltungsgerichte erhoben werden, findet § 1065 der
 Zivilprozessordnung mit der Maßgabe Anwendung, dass das zuständige
 Oberverwaltungsgericht über das Rechtsmittel entscheidet. Abweichend
-von § 1059 Absatz 3 Satz 1 der Zivilprozessordnung muss der
+von § 1059 Absatz 3 Satz 1 der Zivilprozessordnung muss der
 Aufhebungsantrag innerhalb eines Monats bei Gericht eingereicht
 werden.
 
@@ -3215,7 +3226,7 @@ jeweiligen Haushaltsgesetzes gezahlt werden kann.
 ### § 41 Verhältnis zu anderen Vorschriften
 
 Soweit in oder auf Futtermitteln Seuchenerreger einer in einer
-Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche
+Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche
 oder einer mitteilungspflichtigen Seuche vorhanden sind oder sein
 können, gelten, vorbehaltlich des Satzes 2, hinsichtlich der Verbote
 und Beschränkungen für die Teilnahme am Warenverkehr und die
@@ -3231,7 +3242,7 @@ unberührt.
 
 ### § 43 Übergangsvorschriften; Verordnungsermächtigung
 
-(1) Ausnahmegenehmigungen nach § 17c Absatz 4 des Tierseuchengesetzes
+(1) Ausnahmegenehmigungen nach § 17c Absatz 4 des Tierseuchengesetzes
 in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260,
 3588), das zuletzt durch Artikel 2 Absatz 87 des Gesetzes vom 22.
 Dezember 2011 (BGBl. I S. 3044) geändert worden ist, gelten bis zum
@@ -3253,7 +3264,7 @@ des § 12 Absatz 1 fort.
 
 
 2.  gilt § 5 Absatz 1 Satz 1 mit der Maßgabe, dass an die Stelle der
-    Meldung einer in einer Rechtsverordnung nach § 4 näher bestimmten
+    Meldung einer in einer Rechtsverordnung nach § 4 näher bestimmten
     meldepflichtigen Seuche die Anzeige einer Seuche tritt, die in der
     Verordnung über anzeigepflichtige Tierseuchen gelistet ist,
 
@@ -3278,7 +3289,7 @@ des § 12 Absatz 1 fort.
 
 
 6.  gelten § 16 Absatz 3 Nummer 1 und § 18 Absatz 1 Satz 1 Nummer 2 mit
-    der Maßgabe, dass an die Stelle der in einer Rechtsverordnung nach § 4
+    der Maßgabe, dass an die Stelle der in einer Rechtsverordnung nach § 4
     vorgeschriebenen Meldung einer dort näher bestimmten meldepflichtigen
     Seuche die Anzeige nach § 4 in seiner bis zum Ablauf des 9. März 2026
     geltenden Fassung in Verbindung mit Nummer 1 einer solchen Seuche
