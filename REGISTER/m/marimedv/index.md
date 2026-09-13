@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 3.2.2026 I Nr. 28
 
 Änderung durch
-:   Art. 5 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+:   Art. 5 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F785641_01_BJNR138310014]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/29/EWG des
     Rates vom 31. März 1992 über Mindestvorschriften für die Sicherheit
@@ -3382,7 +3382,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
 
-    *        *[^F785641_02_BJNR138310014BJNE002401119]
+    *        *[^F785641_02_BJNR138310014BJNE002402119]
    O00–99
 
         *   **Schwangerschaft**
@@ -3782,13 +3782,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-[^F785641_02_BJNR138310014BJNE002401119]:     Nach dem Mutterschutzgesetz (MuSchG) dürfen Schwangere vor allem dann
+    Nach dem Mutterschutzgesetz (MuSchG) dürfen Schwangere vor allem dann
     nicht beschäftigt werden, wenn eine ärztliche Bescheinigung über ein
-    Beschäftigungsverbot vorliegt (§ 3 Absatz 1 MuSchG) oder bei Arbeiten,
-    bei denen die Schwangere schädlichen Einwirkungen (z. B.
+    Beschäftigungsverbot vorliegt (§ 16 Absatz 1 MuSchG) oder bei
+    Arbeiten, bei denen die Schwangere schädlichen Einwirkungen (z. B.
     gesundheitsgefährdende Stoffe, Erschütterungen, Lärm) ausgesetzt ist
-    (§ 4 MuSchG).
-
+    (§ 11 MuSchG).
+[^F785641_02_BJNR138310014BJNE002402119]: 
 (zu § 4 Absatz 1)
 
 ### Anlage 2 Durchführung der Seediensttauglichkeitsuntersuchungen
