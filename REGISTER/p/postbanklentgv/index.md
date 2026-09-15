@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2938
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.9.2024 I Nr. 280
+:   Art. 1 V v. 4.9.2026 I Nr. 258
 
 
 ## Eingangsformel
@@ -372,5 +372,5 @@ der Postbanksonderzahlungsverordnung vom 15. August 2007 (BGBl. I S.
 
 (3) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
 
-(4) Die Filialzulage wird letztmalig für März 2026 gewährt.
+(4) Die Filialzulage wird letztmalig für August 2028 gewährt.
 
