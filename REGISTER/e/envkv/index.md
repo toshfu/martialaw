@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.2.2021 I 310
 
+V aufgeh. durch
+:   § 9 idF d. Art. 3 Nr. 1 V v. 8.10.2026 I Nr. 292 mWv 1.11.2026
+
 Diese Verordnung dient der Umsetzung der Richtlinie 92/75/EWG des
 Rates vom 22. September 1992 über die Angabe des Verbrauchs an Energie
 und anderen Ressourcen durch Haushaltsgeräte mittels einheitlicher
@@ -536,13 +539,9 @@ fahrlässig
 
 
 
-## § 9 (weggefallen)
+## § 9 Außerkrafttreten
 
-
-
-## § 10
-
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
 
 
 ## Schlußformel
