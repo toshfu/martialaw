@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.6.2017 I 1926;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 14 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 12 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 20.5.2026 I Nr. 152
 
 
 ## § 1
@@ -196,12 +193,12 @@ werden.
 (1) Für die Vollstreckung gelten nach Maßgabe der Absätze 2 bis 4
 folgende Vorschriften sinngemäß:
 
-1.  §§ 735 bis 737, 739 bis 741, 743, 745 bis 748, 753 Absatz 4 und 5, §§
-    755, 757a, 758, 758a, 759, 761, 762, 764, 765a, 766, 771 bis 776, 778,
-    779, 781 bis 784, 786, 788, 789, 792, 793, 802a bis 802i, 802j Absatz
-    1 und 3, §§ 802k bis 827, 828 Absatz 2 und 3, §§ 829 bis 837a, 840
-    Absatz 1, Absatz 2 Satz 2, §§ 841 bis 886, 899 bis 910 der
-    Zivilprozessordnung,
+1.  die §§ 735 bis 737, 739 bis 741, 743, 745 bis 748, 753 Absatz 4 bis 8,
+    die §§ 755, 757a, 758, 758a, 759, 761, 762, 764, 765a, 766, 771 bis
+    776, 778, 779, 781 bis 784, 786, 788, 789, 792, 793, 802a bis 802i,
+    802j Absatz 1 und 3, die §§ 802k bis 827, 828 Absatz 2 und 3, die §§
+    829, 830 bis 837a, 840 Absatz 1, 2 Satz 2, die §§ 841 bis 886, 899 bis
+    910 der Zivilprozessordnung,
 
 
 2.  sonstige Vorschriften des Bundesrechts, die die Zwangsvollstreckung
@@ -224,8 +221,8 @@ Pfändungsbeschluss aufzunehmen.
 (3) An die Stelle des Gerichtsvollziehers tritt der
 Vollziehungsbeamte. Der Vollziehungsbeamte wird zur Annahme der
 Leistung, zur Ausstellung von Empfangsbekenntnissen und zu
-Vollstreckungshandlungen durch einen schriftlichen Auftrag der
-Vollstreckungsbehörde ermächtigt. Aufträge, die mit Hilfe
+Vollstreckungshandlungen durch einen schriftlichen oder elektronischen
+Auftrag der Vollstreckungsbehörde ermächtigt. Aufträge, die mit Hilfe
 automatischer Einrichtungen erstellt werden, werden mit dem
 Dienstsiegel versehen; einer Unterschrift bedarf es nicht. Der
 Vollziehungsbeamte hat im Auftrag der Vollstreckungsbehörde auch die
