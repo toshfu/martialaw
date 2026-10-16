@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2007 I 698;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.7.2026 I Nr. 213
-
-Änderung durch
-:   Art. 9 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 V v. 6.10.2026 I Nr. 289
 
 
 ## Erster Abschnitt - Luftverkehr
@@ -310,8 +307,8 @@ Ausnahmen zulassen, wenn besondere Umstände vorliegen.
 (2) Das Bundesministerium für Verkehr oder eine von ihm bestimmte
 Behörde kann durch Verwaltungsabkommen mit der zuständigen Behörde
 eines ausländischen Staates zur Umsetzung von Artikel 83
-(hoch) bis des Abkommens über die Internationale Zivilluftfahrt vom 7.
-Dezember 1944 (BGBl. 1956 II S. 412, 1997 II S. 1777) die
+bis              des Abkommens über die Internationale Zivilluftfahrt
+vom 7. Dezember 1944 (BGBl. 1956 II S. 412, 1997 II S. 1777) die
 völkerrechtliche Verantwortung und die damit verbundene Zuständigkeit
 für ein nach § 3 eingetragenes Luftfahrzeug auf die zuständige Stelle
 des anderen Staates übertragen.
@@ -3394,6 +3391,11 @@ der Europäischen Union notwendigen Rechtsverordnungen über
 9a. die Voraussetzungen und das Verfahren für die Erteilung und den
     Widerruf der in diesem Gesetz vorgesehenen Genehmigungen, Zulassungen
     und Erlaubnisse sowie Befreiungen hiervon,
+
+
+9b. die Voraussetzungen und das Verfahren zur Einrichtung von Reallaboren
+    zur Erprobung der Integration von Innovationen in bestehende
+    Luftverkehrs- und Luftraumstrukturen,
 
 
 10. die Verpflichtung zur Mitführung von Urkunden (Bordpapiere) in
