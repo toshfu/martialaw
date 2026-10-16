@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 25 G v. 22.12.2025 I Nr. 349
-
-Änderung durch
-:   Art. 11 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 20.5.2026 I Nr. 152
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -483,7 +480,9 @@ Rechtsnachfolger (§ 727, auch in Verbindung mit den §§ 728, 729, 738,
 890 der Zivilprozessordnung soll erst nach Zahlung der Gebühr für das
 Verfahren und der Auslagen für die Zustellung entschieden werden. Dies
 gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen der
-Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung.
+Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung, wenn die
+Dokumente zum Nachweis der Vollstreckungsvoraussetzungen als
+elektronische Dokumente übermittelt werden.
 
 (7) In schiedsrichterlichen Verfahren der in den Nummern 1620 bis 1625
 des Kostenverzeichnisses bezeichneten Art soll vor Zahlung der Gebühr
