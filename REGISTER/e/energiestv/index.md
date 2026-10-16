@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1753
 
 Zuletzt geändert durch
-:   Art. 2 G v. 24.4.2026 I Nr. 116
+:   Art. 12 G v. 25.9.2026 I Nr. 275
 
 
 ## - - Allgemeines
@@ -7196,24 +7196,25 @@ Absatz 1, 2 und 4 bis 11 gelten sinngemäß.
 #### § 109a Zeitlich begrenzte Fassungen einzelner Verordnungsvorschriften
 
 (1) § 109 Absatz 2 Nummer 1 Buchstabe c ist vom 1. Mai 2026 bis zum
-30\. Juni 2026 mit der Maßgabe anzuwenden, dass die Steuer für 1 000 l
-Energieerzeugnisse nach § 2 Absatz 1 Nummer 4 Buchstabe b des
-Energiesteuergesetzes 339,80 Euro beträgt, falls das Gemisch ein
-Benzin nach § 2 Absatz 1 Nummer 1 Buchstabe a des
-Energiesteuergesetzes oder ein entsprechender Kraftstoff nach § 2
-Absatz 4 des Energiesteuergesetzes ist.
+30\. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 mit
+der Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse
+nach § 2 Absatz 1 Nummer 4 Buchstabe b des Energiesteuergesetzes
+339,80 Euro beträgt, falls das Gemisch ein Benzin nach § 2 Absatz 1
+Nummer 1 Buchstabe a des Energiesteuergesetzes oder ein entsprechender
+Kraftstoff nach § 2 Absatz 4 des Energiesteuergesetzes ist.
 
 (2) § 109 Absatz 2 Nummer 2
 
-1.  Buchstabe a ist vom 1. Mai 2026 bis zum 30. Juni 2026 mit der Maßgabe
-    anzuwenden, dass die Steuer für
-    1 000 l                    Energieerzeugnisse nach § 2 Absatz 1 Nummer
-    4 Buchstabe a des Energiesteuergesetzes 28,40 Euro,
+1.  Buchstabe a ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1.
+    Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden,
+    dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1
+    Nummer 4 Buchstabe a des Energiesteuergesetzes 28,40 Euro,
 
 
-2.  Buchstabe c ist vom 1. Mai 2026 bis zum 30. Juni 2026 mit der Maßgabe
-    anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse nach § 2
-    Absatz 1 Nummer 6 des Energiesteuergesetzes 28,40 Euro
+2.  Buchstabe c ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1.
+    Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden,
+    dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1
+    Nummer 6 des Energiesteuergesetzes 28,40 Euro
 
 
 
@@ -7223,16 +7224,16 @@ Kraftstoff nach § 2 Absatz 4 des Energiesteuergesetzes ist.
 
 (3) § 109 Absatz 2 Nummer 3
 
-1.  Buchstabe b ist vom 1. Mai 2026 bis zum 30. Juni 2026 mit der Maßgabe
-    anzuwenden, dass die Steuer für
-    1 000 l                    Energieerzeugnisse nach § 2 Absatz 1 Nummer
-    1 Buchstabe b des Energiesteuergesetzes 206,90 Euro,
+1.  Buchstabe b ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1.
+    Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden,
+    dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1
+    Nummer 1 Buchstabe b des Energiesteuergesetzes 206,90 Euro,
 
 
-2.  Buchstabe e ist vom 1. Mai 2026 bis zum 30. Juni 2026 mit der Maßgabe
-    anzuwenden, dass die Steuer für
-    1 000 l                    Energieerzeugnisse nach § 2 Absatz 1 Nummer
-    4 Buchstabe b des Energiesteuergesetzes 391,00 Euro
+2.  Buchstabe e ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1.
+    Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden,
+    dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1
+    Nummer 4 Buchstabe b des Energiesteuergesetzes 391,00 Euro
 
 
 
