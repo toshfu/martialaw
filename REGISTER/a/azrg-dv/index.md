@@ -16,22 +16,10 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 7 G v 22.7.2026 I Nr. 222
+:   Art. 15 Nr. 1 u. 2 G v 22.7.2026 I Nr. 222
 
 Änderung durch
-:   Art. 8 Nr. 1 bis 4 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 Nr. 5 bis 7 G v 22.7.2026 I Nr. 222 mWv 1.11.2025 bzw. 29.7.2026 bzw. 1.11.2027 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 8 Nr. 8 G v 22.7.2026 I Nr. 222 ist berücksichtigt
-
-Änderung durch
-:   Art. 12 G v 22.7.2026 I Nr. 222 ist berücksichtigt
-
-Änderung durch
-:   Art. 15 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 29.7.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 15 Nr. 3 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 29.7.2026 bzw. 1.11.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 17 G v 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. 1.5.2028 noch nicht berücksichtigt
@@ -2165,6 +2153,10 @@ Abschnitt I
             –   Träger der Deutschen Rentenversicherung zu Spalte A Buchstabe a bis f
 
 
+            –   Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe a
+                bis f
+
+
             –   Registermodernisierungsbehörde zur Aufgabenerfüllung nach § 6a des
                 AZR-Gesetzes zu Spalte A Buchstabe c
 
@@ -2194,7 +2186,7 @@ Abschnitt I
             –   Gerichte zu Spalte A Buchstabe a bis f, h und j
 
 
-            –   Bundesamt für Justiz zu Spalte A Buchstabe a bis d
+            –   Bundesamt für Justiz zu Spalte A Buchstabe a bis f
 
 
             –   Zollkriminalamt zu Spalte A Buchstabe a bis f, h und i
@@ -2222,7 +2214,7 @@ Abschnitt I
             –   die Jugendämter zu Spalte A Buchstabe a bis f, h und i
 
 
-            –   die Unterhaltsvorschussstellen zu Spalte A Buchstabe a bis d und f
+            –   die Unterhaltsvorschussstellen zu Spalte A Buchstabe a bis f und h
 
 
             –   die Familienkassen zu Spalte A Buchstabe a, b, d und f
@@ -2233,8 +2225,8 @@ Abschnitt I
                 a bis i und k
 
 
-            –   Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe
-                c, e und f
+            –   Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe c
+                , e und f
 
 
             –   Statistisches Bundesamt zu Spalte A Buchstabe g, j und l
@@ -2284,10 +2276,11 @@ Abschnitt I
 
     *   frühere
 
-        aa) Namen\*
+        aa)[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003912311]
+ Namen
 
 
-        bb) Geschlechtsangaben\*
+        bb) Geschlechtsangaben
 
 
 
@@ -2442,10 +2435,7 @@ Abschnitt I
 
 *    *
 
-*    *   * Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
-        eine Änderung des Namens bzw. der Geschlechtsangabe gemeldet wird.
-
-
+*    *
 
 
 
@@ -5780,7 +5770,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003905311]
+    *[^F829919_01_BJNR069500995BJNE003912311]
    (1)
 
     *
@@ -16160,11 +16150,10 @@ Abschnitt II
         Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere mit
         der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
         beauftragte Behörden, die deutschen Auslandsvertretungen, das
-        Bundesamt für Auswärtige Angelegenheiten und andere öffentliche
-        Stellen im Visumverfahren, die Träger der Sozialhilfe, die für die
-        Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen und
-        die für die Durchführung der Grundsicherung für Arbeitsuchende
-        zuständigen Stellen übermittelt.
+        Bundesamt für Auswärtige Angelegenheiten, die Träger der Sozialhilfe,
+        die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen
+        Stellen, die für die Durchführung der Grundsicherung für
+        Arbeitsuchende zuständigen Stellen und die Jugendämter übermittelt.
         – Ausländerbehörden
         – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des
         Asylgesetzes
@@ -16203,7 +16192,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003905311]
+    *[^f756180_08_BJNR069500995BJNE003912311]
    (7)
 
     *
@@ -16212,9 +16201,11 @@ Abschnitt II
 
 
 
+    *
 
 *    *   § 29 Absatz 1 Nummer 1a
 
+    *
     *
     *
 
@@ -16229,6 +16220,7 @@ Abschnitt II
 
 
 
+    *
 
 *    *   § 29 Absatz 1 Nummer 2
 
@@ -16264,9 +16256,11 @@ Abschnitt II
 
 
 
+    *
 
 *    *   Visa erteilende Behörde
 
+    *
     *
 
 *    *   a)
@@ -16275,6 +16269,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   b)
 
@@ -16285,15 +16280,18 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   § 29 Absatz 1 Nummer 3
         in Verbindung mit § 3 Absatz 1 Nummer 4
         und 5
 
     *
+    *
 
 *    *   Grundpersonalien
 
+    *
     *
 
 *    *   a)
@@ -16302,6 +16300,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   b)
 
@@ -16309,6 +16308,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   c)
 
@@ -16316,6 +16316,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   d)
 
@@ -16323,6 +16324,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   e)
 
@@ -16330,6 +16332,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   f)
@@ -16339,6 +16342,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   g)
 
@@ -16346,6 +16350,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   h)
@@ -16356,6 +16361,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   i)
 
@@ -16364,9 +16370,11 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 4
 
+    *
     *
     *
 
@@ -16375,9 +16383,11 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 5
 
+    *
     *
     *
 
@@ -16386,15 +16396,18 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 6
 
+    *
     *
     *
 
 *    *   Entscheidung über den Antrag und das
         erteilte Visum
 
+    *
     *
     *
 
@@ -16405,14 +16418,16 @@ Abschnitt II
     *   (2)
 
     *
+    *
 
 *    *   b)
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003905311]
+    *[^f756180_09_BJNR069500995BJNE003912311]
    (2)
 
+    *
     *
 
 *    *   c)
@@ -16423,6 +16438,7 @@ Abschnitt II
     *   (5)
 
     *
+    *
 
 *    *   d)
 
@@ -16430,6 +16446,7 @@ Abschnitt II
 
     *   (5)
 
+    *
     *
 
 *    *   e)
@@ -16439,6 +16456,7 @@ Abschnitt II
     *   (2)
 
     *
+    *
 
 *    *   f)
 
@@ -16446,6 +16464,7 @@ Abschnitt II
 
     *   (2)
 
+    *
     *
 
 *    *   g)
@@ -16455,6 +16474,7 @@ Abschnitt II
     *   (2)
 
     *
+    *
 
 *    *   h)
 
@@ -16463,14 +16483,17 @@ Abschnitt II
     *   (2)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 7
 
     *
     *
+    *
 
 *    *   Weitere Daten
 
+    *
     *
     *
 
@@ -16482,6 +16505,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   b)
 
@@ -16490,14 +16514,17 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 8
 
     *
     *
+    *
 
 *    *   Angaben zum Visum
 
+    *
     *
     *
 
@@ -16508,6 +16535,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   b)
 
@@ -16515,6 +16543,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   c)
@@ -16525,9 +16554,11 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 9
 
+    *
     *
     *
 
@@ -16537,14 +16568,17 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 10
 
     *
     *
+    *
 
 *    *   Verpflichtungserklärung
 
+    *
     *
     *
 
@@ -16556,6 +16590,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   b)
 
@@ -16564,6 +16599,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   c)
@@ -16575,6 +16611,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   d)
 
@@ -16582,6 +16619,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   e)
@@ -16591,6 +16629,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   f)
 
@@ -16598,6 +16637,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *
@@ -16624,6 +16664,7 @@ Abschnitt II
 
     *
     *
+    *
 
 *    *   g)
 
@@ -16631,6 +16672,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *
@@ -16648,15 +16690,18 @@ Abschnitt II
 
     *
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 11
 
+    *
     *
     *
 
 *    *   Ge- oder verfälschte
         Dokumente
 
+    *
     *
     *
 
@@ -16668,6 +16713,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   b)
 
@@ -16675,6 +16721,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   c)
@@ -16685,6 +16732,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   d)
 
@@ -16693,6 +16741,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   e)
@@ -16703,9 +16752,11 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 1 Nummer 12
 
+    *
     *
     *
 
@@ -16714,6 +16765,7 @@ Abschnitt II
         stellung zustimmungsfreier Beschäftigung nach § 39 AufenthG (reguläres
         Verfahren)
 
+    *
     *
     *
 
@@ -16729,6 +16781,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   b)
 
@@ -16742,6 +16795,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   c)
 
@@ -16751,6 +16805,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 *    *   d)
@@ -16762,14 +16817,17 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   § 29 Absatz 2
 
     *
     *
+    *
 
 *    *   Angaben zum Pass
 
+    *
     *
     *
 
@@ -16780,6 +16838,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   b)
 
@@ -16788,6 +16847,7 @@ Abschnitt II
     *   (7)
 
     *
+    *
 
 *    *   c)
 
@@ -16795,6 +16855,7 @@ Abschnitt II
 
     *   (7)
 
+    *
     *
 
 
@@ -17129,7 +17190,9 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003905311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003905311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003912311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003912311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003905311]: 
+[^F829919_01_BJNR069500995BJNE003912311]:     Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
+    eine Änderung des Namens bzw. der Geschlechtsangabe gemeldet wird.
+[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003912311]: 
