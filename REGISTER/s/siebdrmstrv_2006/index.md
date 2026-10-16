@@ -17,7 +17,13 @@ Fundstelle
 :   BGBl I: 2006, 2126
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 58 V v. 18.1.2022 I 39
+:   Art. 5 V v. 8.10.2026 I Nr. 290
+
+V aufgeh. durch
+:   § 10a idF d. Art. 5 V v. 8.10.2026 I Nr. 290 mWv 1.11.2026
+
+Ersetzt durch
+:   V 7110-3-224 v. 8.10.2026 I Nr. 290 (PrintMedMstrV)
 
 
 
@@ -466,7 +472,12 @@ Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
 bisherigen Vorschriften zu Ende geführt.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
+## § 10a Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
+
+
+## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2006 in Kraft.
 
