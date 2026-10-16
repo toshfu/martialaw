@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 12a G v. 23.4.2026 I Nr. 111
-
-Änderung durch
-:   Art. 9 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 20.5.2026 I Nr. 152
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -4053,6 +4050,12 @@ Vollstreckungsgericht ist das Gericht des ersten Rechtszugs.
 
 (2) Urteile auf Anfechtungs- und Verpflichtungsklagen können nur wegen
 der Kosten für vorläufig vollstreckbar erklärt werden.
+
+(3) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 67 Absatz 2
+Satz 1 genannten Rechtsanwälte und die in § 67 Absatz 2 Satz 2 Nummer
+3 und 3a Genannten treten.
 
 
 #### § 168
