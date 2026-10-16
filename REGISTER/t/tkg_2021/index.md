@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 6 G v. 11.3.2026 I Nr. 66
-
-Änderung durch
-:   Art. 2 G v. 12.5.2026 I Nr. 138 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 V v. 6.10.2026 I Nr. 289
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
@@ -12301,8 +12298,6 @@ des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von mindestens
 Verpflichtungen von Eigentümern und Betreibern öffentlicher
 Versorgungsnetze, die keine Unternehmen sind, entsprechend.
 
-(7) (weggefallen)
-
 
 #### § 203 Auskunftsverlangen und weitere Untersuchungsrechte; Übermittlungspflichten
 
@@ -12620,6 +12615,54 @@ wirtschaftliche Vorteil gering ist.
 
 (4) Die Höhe des wirtschaftlichen Vorteils kann geschätzt werden. Der
 abzuführende Geldbetrag ist zahlenmäßig zu bestimmen.
+
+
+#### § 208a Erprobung neuer Technologien und Verfahren
+
+(1) Zur Förderung und Erleichterung von Innovation und technologischem
+Fortschritt in der Telekommunikation kann die Bundesnetzagentur eine
+Abweichung von Verpflichtungen nach Teil 6 dieses Gesetzes oder
+aufgrund des Teils 6 dieses Gesetzes genehmigen, wenn
+
+1.  dies der Erprobung neuer Technologien oder eines neuen Verfahrens beim
+    Betrieb von Telekommunikationsnetzen oder dem Angebot von
+    Telekommunikationsdiensten dient,
+
+
+2.  dies mit den Zielen des § 2 Absatz 2 sowie mit unionsrechtlichen
+    Vorgaben vereinbar ist und
+
+
+3.  keine anderen öffentlichen Interessen entgegenstehen.
+
+
+
+Die Genehmigung der Abweichung soll auf einen Zeitraum von bis zu zwei
+Jahren beschränkt werden.
+
+(2) Die Abweichung von Verpflichtungen nach diesem Gesetz oder
+aufgrund dieses Gesetzes zur Erprobung einer neuen Technologie oder
+eines neuen Verfahrens ist von dem Betreiber des
+Telekommunikationsnetzes oder dem Anbieter des
+Telekommunikationsdienstes bei der Bundesnetzagentur zu beantragen.
+
+(3) Der Betreiber des Telekommunikationsnetzes oder der Anbieter des
+Telekommunikationsdienstes hat der Bundesnetzagentur in regelmäßigen
+Abständen über den Stand und die Erfahrungen sowie über die Erreichung
+der Ziele der Erprobung der neuen Technologie oder des neuen
+Verfahrens zu berichten. Die Bundesnetzagentur berichtet im Rahmen des
+Jahresberichtes nach § 196 über die wesentlichen Ergebnisse der
+Erprobungen neuer Technologien und Verfahren nach Absatz 1,
+insbesondere im Hinblick auf möglichen Anpassungsbedarf dieses
+Gesetzes mit dem Ziel der angemessenen Berücksichtigung und
+Nutzbarmachung neuer Technologien und Verfahren im Bereich der
+Telekommunikation.
+
+(4) Die Erprobung soll innerhalb von zwei Jahren nach Ablauf ihrer
+jeweiligen Befristung im Auftrag des Bundesministeriums für Digitales
+und Staatsmodernisierung evaluiert werden.
+
+(5) Die Vorgaben des Bundeserprobungsgesetzes bleiben unberührt.
 
 
 ### Abschnitt 3 - Verfahren
