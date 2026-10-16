@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 22.12.2025 I Nr. 349
-
-Änderung durch
-:   Art. 10 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197 ist berücksichtigt
+:   Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -3150,6 +3144,11 @@ der Kosten für vorläufig vollstreckbar erklärt werden.
 Ausfertigungen des Urteils ohne Tatbestand und ohne
 Entscheidungsgründe erteilt werden, deren Zustellung in den Wirkungen
 der Zustellung eines vollständigen Urteils gleichsteht.
+
+(5) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 62 Absatz 2
+Satz 1 und 2 Nummer 3 bis 5 Genannten treten.
 
 
 #### § 152
