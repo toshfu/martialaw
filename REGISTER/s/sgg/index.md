@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 1a G v. 9.4.2026 I Nr. 98
-
-Änderung durch
-:   Art. 8 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 20.5.2026 I Nr. 152
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -4292,6 +4289,12 @@ anzuwenden.
 
 (3) An die Stelle der sofortigen Beschwerde tritt die Beschwerde (§§
 172 bis 177).
+
+(4) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 73 Absatz 2
+Satz 1 genannten Rechtsanwälte und die in § 73 Absatz 2 Satz 2 Nummer
+3 und 4 Genannten treten.
 
 
 ##### § 199
