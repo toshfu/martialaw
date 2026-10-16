@@ -3295,41 +3295,66 @@ entsprechende Aufgaben wahrnehmen. Sie kann insbesondere
 #### § 78a Zentrales Vorsorgeregister; Verordnungsermächtigung
 
 (1) Die Bundesnotarkammer führt als Registerbehörde ein
-automatisiertes elektronisches Register über Vorsorgevollmachten,
-Betreuungsverfügungen, Patientenverfügungen und Widersprüche gegen
-eine Vertretung durch den Ehegatten nach § 1358 des Bürgerlichen
-Gesetzbuchs. Das Bundesministerium der Justiz und für
-Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
+automatisiertes elektronisches Register über die folgenden
+Vorsorgeverfügungen:
 
-(2) In das Zentrale Vorsorgeregister dürfen Angaben aufgenommen werden
-über
-
-1.  Vollmachtgeber,
+1.  Vorsorgevollmachten,
 
 
-2.  Bevollmächtigte,
+2.  Betreuungsverfügungen,
 
 
-3.  die Vollmacht und deren Inhalt,
+3.  Patientenverfügungen und
 
 
-4.  Vorschläge zur Auswahl des Betreuers,
-
-
-5.  Wünsche zur Wahrnehmung der Betreuung,
-
-
-6.  den Vorschlagenden,
-
-
-7.  den einer Vertretung durch den Ehegatten nach § 1358 des Bürgerlichen
-    Gesetzbuchs Widersprechenden und
-
-
-8.  den Ersteller einer Patientenverfügung.
+4.  Widersprüche gegen eine Vertretung durch den Ehegatten nach § 1358 des
+    Bürgerlichen Gesetzbuchs.
 
 
 
+Das Bundesministerium der Justiz und für Verbraucherschutz führt die
+Rechtsaufsicht über die Registerbehörde.
+
+(2) In das Zentrale Vorsorgeregister dürfen zum Zweck der
+Registrierung der Vorsorgeverfügungen neben Angaben zu den jeweiligen
+Dokumenten folgende Angaben eingetragen werden:
+
+1.  bei Vorsorgevollmachten Angaben zu
+
+    a)  den Vollmachtgebern,
+
+
+    b)  den Bevollmächtigten und
+
+
+    c)  dem Inhalt der Vollmachten,
+
+
+
+
+
+2.  bei Betreuungsverfügungen Angaben zu
+
+    a)  den Vorschlagenden und
+
+
+    b)  den Vorschlägen zur Auswahl des Betreuers,
+
+
+
+
+
+3.  bei Patientenverfügungen Angaben zu deren Erstellern,
+
+
+4.  bei Widersprüchen gegen eine Vertretung durch den Ehegatten Angaben zu
+    den Widersprechenden.
+
+
+
+Ergänzend zu der Registrierung einer in Absatz 1 Satz 1 Nummer 1 bis 3
+genannten Vorsorgeverfügung darf auch eine elektronische Abschrift der
+Vorsorgeverfügung aufgenommen werden.
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz hat
 durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren
@@ -5456,6 +5481,13 @@ nach § 48b gegenüber Bewerbungen nach Satz 1 in der Regel der Vorzug
 zu geben ist. Erfolgt eine erneute Bestellung nach den Sätzen 1 bis 3,
 endet das Amt mit Ablauf des Monats, in dem der Anwaltsnotar das 76.
 Lebensjahr vollendet.
+
+
+### § 122 Übergangsvorschrift zum Zentralen Vorsorgeregister
+
+Die Befugnis zur Verarbeitung von Angaben, die vor dem 1. Oktober 2026
+in das Zentrale Vorsorgeregister aufgenommen wurden, bestimmt sich
+nach § 78a Absatz 2 in der am 30. September 2026 geltenden Fassung.
 
 (zu § 18d Absatz 1)
 Gebührenverzeichnis
