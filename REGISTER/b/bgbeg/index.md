@@ -7058,9 +7058,38 @@ Verfügung zu stellen:
     des Unternehmers zum Umgang mit Beschwerden,
 
 
-5.  das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren
-    oder die digitalen Produkte sowie gegebenenfalls das Bestehen und die
-    Bedingungen von Kundendienstleistungen und Garantien,
+5.  das Bestehen eines gesetzlichen Gewährleistungsrechts für Waren und
+    seine wichtigsten Elemente, einschließlich seiner Mindestdauer von
+    zwei Jahren, in hervorgehobener Weise unter Verwendung der
+    harmonisierten Mitteilung nach Anhang I der Durchführungsverordnung
+    (EU) 2025/1960 in der Fassung vom 25. September 2025,
+
+
+5a. wenn der Hersteller dem Verbraucher eine gewerbliche
+    Haltbarkeitsgarantie für die gesamte Ware ohne zusätzliche Kosten und
+    mit einer Dauer von mehr als zwei Jahren gewährt und diese
+    Informationen dem Unternehmer zur Verfügung stellt, die Information,
+    dass für diese Ware eine solche Garantie gilt, deren Dauer und einen
+    Hinweis auf das Bestehen des gesetzlichen Gewährleistungsrechts in
+    hervorgehobener Weise unter Verwendung der harmonisierten
+    Kennzeichnung nach Anhang II der Durchführungsverordnung (EU)
+    2025/1960 in der Fassung vom 25. September 2025,
+
+
+5b. das Bestehen des gesetzlichen Gewährleistungsrechts für digitale
+    Inhalte und digitale Dienstleistungen,
+
+
+5c. gegebenenfalls das Bestehen und die Bedingungen von
+    Kundendienstleistungen und gewerblichen Garantien,
+
+
+5d. für Waren mit digitalen Elementen, für digitale Inhalte und für
+    digitale Dienstleistungen die Mindestdauer, ausgedrückt als Zeitraum
+    oder durch Angabe eines Datums, für die der Hersteller oder der
+    Anbieter Softwareaktualisierungen bereitstellt, sofern der Hersteller
+    oder der Anbieter dem Unternehmer diese Informationen zur Verfügung
+    stellt,
 
 
 6.  gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der
@@ -7070,13 +7099,27 @@ Verfügung zu stellen:
 
 7.  gegebenenfalls die Funktionalität der Waren mit digitalen Elementen
     oder der digitalen Produkte, einschließlich anwendbarer technischer
-    Schutzmaßnahmen, und
+    Schutzmaßnahmen,
 
 
 8.  gegebenenfalls, soweit wesentlich, die Kompatibilität und die
     Interoperabilität der Waren mit digitalen Elementen oder der digitalen
     Produkte, soweit diese Informationen dem Unternehmer bekannt sind oder
-    bekannt sein müssen.
+    bekannt sein müssen,
+
+
+9.  gegebenenfalls den auf der Grundlage von auf Unionsebene festgelegten
+    harmonisierten Anforderungen ermittelten Reparierbarkeitswert der
+    Waren und
+
+
+10. wenn Nummer 9 nicht anwendbar ist und sofern der Hersteller dem
+    Unternehmer diese Informationen zur Verfügung stellt, Informationen
+    über die Verfügbarkeit, die geschätzten Kosten und das Verfahren für
+    die Bestellung von Ersatzteilen, die für den Erhalt der
+    Vertragsmäßigkeit der Waren erforderlich sind, über die Verfügbarkeit
+    von Reparatur- und Wartungsanleitungen sowie über
+    Reparatureinschränkungen.
 
 
 
@@ -7177,14 +7220,41 @@ Verfügung zu stellen:
     Fernkommunikationsmittels hinausgehen,
 
 
-10. die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu
-    dem der Unternehmer die Waren liefern oder die Dienstleistung
-    erbringen muss, und gegebenenfalls das Verfahren des Unternehmers zum
-    Umgang mit Beschwerden,
+10. die Zahlungs-, Liefer- und Leistungsbedingungen, einschließlich,
+    sofern verfügbar, umweltfreundlicher Liefermöglichkeiten, den Termin,
+    bis zu dem sich der Unternehmer verpflichtet, die Waren zu liefern
+    oder die Dienstleistung zu erbringen, und gegebenenfalls das Verfahren
+    des Unternehmers zum Umgang mit Beschwerden,
 
 
-11. das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren
-    oder die digitalen Produkte,
+11. das Bestehen eines gesetzlichen Gewährleistungsrechts für Waren und
+    seine wichtigsten Elemente, einschließlich seiner Mindestdauer von
+    zwei Jahren, in hervorgehobener Weise unter Verwendung der
+    harmonisierten Mitteilung nach Anhang I der Durchführungsverordnung
+    (EU) 2025/1960 in der Fassung vom 25. September 2025,
+
+
+11a. wenn der Hersteller dem Verbraucher eine gewerbliche
+    Haltbarkeitsgarantie ohne zusätzliche Kosten für die gesamte Ware und
+    mit einer Dauer von mehr als zwei Jahren gewährt und diese
+    Informationen dem Unternehmer zur Verfügung stellt, die Information,
+    dass für diese Ware eine solche Garantie gilt, deren Dauer und einen
+    Hinweis auf das Bestehen des gesetzlichen Gewährleistungsrechts, in
+    hervorgehobener Weise unter Verwendung der harmonisierten
+    Kennzeichnung nach Anhang II der Durchführungsverordnung (EU)
+    2025/1960 in der Fassung vom 25. September 2025,
+
+
+11b. einen Hinweis auf das Bestehen des gesetzlichen Gewährleistungsrechts
+    für digitale Inhalte und digitale Dienstleistungen,
+
+
+11c. für Waren mit digitalen Elementen, für digitale Inhalte und für
+    digitale Dienstleistungen die Mindestdauer, ausgedrückt als Zeitraum
+    oder durch Angabe eines Datums, für die der Hersteller oder der
+    Anbieter Softwareaktualisierungen bereitstellt, sofern der Hersteller
+    oder der Anbieter dem Unternehmer diese Informationen zur Verfügung
+    stellt,
 
 
 12. gegebenenfalls das Bestehen und die Bedingungen von Kundendienst,
@@ -7226,12 +7296,26 @@ Verfügung zu stellen:
 18. gegebenenfalls, soweit wesentlich, die Kompatibilität und die
     Interoperabilität der Waren mit digitalen Elementen oder der digitalen
     Produkte, soweit diese Informationen dem Unternehmer bekannt sind oder
-    bekannt sein müssen, und
+    bekannt sein müssen,
 
 
 19. gegebenenfalls, dass der Verbraucher ein außergerichtliches
     Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer
-    unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen.
+    unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen,
+
+
+20. Gegebenenfalls den auf der Grundlage von auf Unionsebene festgelegten
+    harmonisierten Anforderungen ermittelten Reparierbarkeitswert der
+    Waren und
+
+
+21. wenn Nummer 20 nicht anwendbar ist und sofern der Hersteller dem
+    Unternehmer diese Informationen zur Verfügung stellt, Informationen
+    über die Verfügbarkeit, die geschätzten Kosten und das Verfahren für
+    die Bestellung von Ersatzteilen, die für den Erhalt der
+    Vertragsmäßigkeit der Waren erforderlich sind, über die Verfügbarkeit
+    von Reparatur- und Wartungsanleitungen sowie über
+    Reparatureinschränkungen.
 
 
 
