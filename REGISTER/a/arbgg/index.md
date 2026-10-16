@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.7.1979 I 853, 1036;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 27.4.2026 I Nr. 119
-
-Änderung durch
-:   Art. 7 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 20.5.2026 I Nr. 152
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -2063,6 +2060,11 @@ Fällen, auch dann, wenn der Antrag zurückzuweisen ist, ohne mündliche
 Verhandlung ergehen. Eine in das Schutzschriftenregister nach § 945a
 Absatz 1 der Zivilprozessordnung eingestellte Schutzschrift gilt auch
 als bei allen Arbeitsgerichten der Länder eingereicht.
+
+(3) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 11 Absatz 2
+Satz 1 und 2 Nummer 3 bis 5 Genannten treten.
 
 
 ##### § 63 Übermittlung von Urteilen in Tarifvertragssachen
