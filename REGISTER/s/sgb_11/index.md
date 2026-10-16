@@ -19,6 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2c G v. 24.7.2026 I Nr. 228
 
+Stand: Bek. v. 16.9.2026 I Nr. 282 ist berücksichtigt
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -10116,7 +10117,8 @@ das Versichertenverzeichnis alle Angaben einzutragen, die zur
 Feststellung der Versicherungspflicht oder -berechtigung und des
 Anspruchs auf Familienversicherung, zur Bemessung und Einziehung der
 Beiträge sowie zur Feststellung des Leistungsanspruchs erforderlich
-sind.
+sind. Darüber hinaus enthält das Versichertenverzeichnis die
+Identifikationsnummer nach dem Identifikationsnummerngesetz.
 
 
 ##### § 100 Nachweispflicht bei Familienversicherung
