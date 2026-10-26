@@ -15141,7 +15141,8 @@ Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Absatz
 Vorhabenträgers nur innerhalb eines Monats nach der Zustellung und im
 Übrigen nur innerhalb eines Monats nach der Bekanntgabe nach § 43b
 Absatz 1 Nummer 3 Satz 2 und 3 des Planfeststellungsbeschlusses oder
-der Plangenehmigung gestellt und begründet werden. § 58 der
+der Plangenehmigung gestellt und begründet werden. Darauf ist in der
+Rechtsbehelfsbelehrung hinzuweisen. § 58 der
 Verwaltungsgerichtsordnung gilt entsprechend.
 
 (2) Treten später Tatsachen ein, die die Anordnung der aufschiebenden
@@ -15152,7 +15153,7 @@ Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat
 stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der
 Beschwerte von den Tatsachen Kenntnis erlangt.
 
-(3)Der Kläger hat innerhalb einer Frist von zehn Wochen ab
+(3) Der Kläger hat innerhalb einer Frist von zehn Wochen ab
 Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und
 Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach
 Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der
