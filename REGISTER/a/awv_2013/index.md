@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 11.3.2026 I Nr. 66
 
+Änderung durch
+:   Art. 1 V v. 14.10.2026 I Nr. 300 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
 ## Eingangsformel
@@ -3913,7 +3916,7 @@ führen, in die folgenden Länder:
 12. (weggefallen)
 
 
-13. Simbabwe,
+13. (weggefallen)
 
 
 14. Somalia,
@@ -4415,31 +4418,43 @@ Durchfuhr nach Venezuela für
 (17) (weggefallen)
 
 
-#### § 76a Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
+#### § 76a Ausnahmen von § 74 Absatz 1 und § 75 sowie von Verboten aus Rechtsakten der Europäischen Union in Einzelfällen
 
-Abweichend von § 74 Absatz 1 und § 75 können genehmigt werden:
+(1) Abweichend von Verboten nach Absatz 3 Nummer 1 oder 3 kann die
+Ausfuhr oder die Durchfuhr von Gütern durch deutsche Behörden zur
+Erledigung dienstlicher Aufgaben genehmigt werden. Eine Abweichung von
+Verboten nach Absatz 3 Nummer 3 ist zum Schutz der nationalen
+Sicherheit im Sinne des Artikels 4 Absatz 2 Satz 3 des Vertrags über
+die Europäische Union zulässig. Die Zulässigkeit weiterer
+Abweichungsmöglichkeiten nach dem Recht der Europäischen Union bleibt
+unberührt.
 
-1.  die Ausfuhr oder die Durchfuhr von Gütern, die von deutschen Behörden
-    zur Erledigung dienstlicher Aufgaben ausgeführt oder durchgeführt
-    werden und die ausschließlich zur eigenen Verwendung der deutschen
-    Behörden bestimmt sind und im eigenen Gewahrsam der deutschen Behörden
-    verbleiben, und
+(2) Abweichend von Verboten nach Absatz 3 Nummer 1 oder 2 kann der
+Verkauf, die Ausfuhr, die Durchfuhr oder Handels- und
+Vermittlungsgeschäfte in Bezug auf Güter genehmigt werden, die
+ausschließlich bestimmt sind zum Eigenschutz von
 
-
-2.  der Verkauf, die Ausfuhr, die Durchfuhr oder Handels- und
-    Vermittlungsgeschäfte in Bezug auf Güter, die ausschließlich bestimmt
-    sind zum Eigenschutz von
-
-    a)  diplomatischen oder berufskonsularischen Vertretungen mit Ausnahme von
-        Vertretungen der in § 74 Absatz 1 genannten Länder oder
-
-
-    b)  Büros internationaler zwischenstaatlicher Organisationen, deren
-        Sonderorganisationen sowie der institutionell mit diesen verbundenen
-        zwischenstaatlichen Einrichtungen.
+1.  diplomatischen oder berufskonsularischen Vertretungen mit Ausnahme von
+    Vertretungen der in § 74 Absatz 1 genannten Länder oder
 
 
+2.  Büros internationaler zwischenstaatlicher Organisationen, deren
+    Sonderorganisationen sowie der institutionell mit diesen verbundenen
+    zwischenstaatlichen Einrichtungen.
 
+
+
+
+(3) Verbote im Sinne der Absätze 1 und 2 sind
+
+1.  Verbote nach § 74 Absatz 1,
+
+
+2.  Verbote nach § 75 und
+
+
+3.  Verbote, die sich aus unmittelbar geltenden Rechtsakten der
+    Europäischen Union ergeben.
 
 
 
@@ -4729,94 +4744,100 @@ Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 (1) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
-entgegen
 
-1.  Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 3541/92 in der Fassung vom
-    7\. Dezember 1992,
-
-
-2.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 3275/93 in der Fassung vom
-    29\. November 1993,
+1.  entgegen Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 3541/92 in der
+    Fassung vom 7. Dezember 1992 einen dort genannten Anspruch erfüllt,
 
 
-3.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1264/94 in der Fassung vom
-    30\. Mai 1994,
+2.  entgegen Artikel 2 Absatz 1 der Verordnung (EG) Nr. 3275/93 in der
+    Fassung vom 29. November 1993 einen dort genannten Anspruch erfüllt,
 
 
-4.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 in der Fassung vom
-    11\. Juli 1994,
+3.  entgegen Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1264/94 in der
+    Fassung vom 30. Mai 1994 einen dort genannten Anspruch erfüllt,
 
 
-5.  Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 in der Fassung
-    vom 17. März 2025,
+4.  entgegen Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 in der
+    Fassung vom 11. Juli 1994 einen dort genannten Anspruch erfüllt,
 
 
-6.  Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 in der Fassung
-    vom 18. Juli 2025,
+5.  entgegen Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 in der
+    Fassung vom 8. Dezember 2025 einer dort genannten Forderung oder einem
+    dort genannten Anspruch stattgibt,
 
 
-7.  Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 in der Fassung vom
-    27\. Mai 2025,
+6.  entgegen Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 in der
+    Fassung vom 23. Juli 2026 einen dort genannten Anspruch erfüllt,
 
 
-8.  Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 in der Fassung
-    vom 10. September 2024,
+7.  entgegen Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 in der
+    Fassung vom 18. Mai 2026 einer dort genannten Forderung oder einem
+    dort genannten Anspruch stattgibt,
 
 
-9.  Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 in der Fassung
-    vom 25. April 2025,
+8.  entgegen Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 in der
+    Fassung vom 30. Juli 2026 einen dort genannten Anspruch erfüllt,
 
 
-10. Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 in der Fassung
-    vom 24. März 2025,
+9.  entgegen Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 in der
+    Fassung vom 27. April 2026 einen dort genannten Anspruch erfüllt,
 
 
-11. Artikel 6 Absatz 1 der Verordnung (EU) Nr. 692/2014 in der Fassung vom
-    24\. Februar 2025,
+10. entgegen Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 in der
+    Fassung vom 24. März 2025 einer dort genannten Forderung oder einem
+    dort genannten Anspruch stattgibt,
 
 
-12. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 747/2014 in der Fassung
-    vom 9. Dezember 2024,
+11. entgegen Artikel 6 Absatz 1 der Verordnung (EU) Nr. 692/2014 in der
+    Fassung vom 24. Februar 2025 einer dort genannten Forderung oder einem
+    dort genannten Anspruch stattgibt,
 
 
-13. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 in der Fassung
-    vom 18. Juli 2025,
+12. entgegen Artikel 12 Absatz 1 der Verordnung (EU) Nr. 747/2014 in der
+    Fassung vom 22. Juni 2026 einer dort genannten Forderung oder einem
+    dort genannten Anspruch stattgibt,
 
 
-14. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 in der Fassung
-    vom 10. September 2024,
+13. entgegen Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 in der
+    Fassung vom 23. Juli 2026 einen dort genannten Anspruch erfüllt,
 
 
-15. Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 in der Fassung vom 8.
-    Juli 2025,
+14. entgegen Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 in der
+    Fassung vom 10. September 2024 einem dort genannten Anspruch
+    stattgibt,
 
 
-16. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 in der Fassung vom
-    16\. Dezember 2024,
+15. entgegen Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 in der
+    Fassung vom 22. Juni 2026 einer dort genannten Forderung oder einem
+    dort genannten Anspruch stattgibt,
 
 
-17. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 in der Fassung vom
-    9\. Januar 2025,
+16. entgegen Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 in der
+    Fassung vom 15. Dezember 2025 einen dort genannten Anspruch erfüllt,
 
 
-18. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 in der Fassung vom
-    24\. Februar 2025,
+17. entgegen Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 in der
+    Fassung vom 15. Dezember 2025 einen dort genannten Anspruch erfüllt,
 
 
-19. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 in der Fassung vom
-    15\. Juli 2025 oder
+18. entgegen Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 in der
+    Fassung vom 24. Februar 2025 einer dort genannten Forderung oder einem
+    dort genannten Anspruch stattgibt,
 
 
-20. Artikel 11 Absatz 1 der Verordnung (EU) 2023/1529 in der Fassung vom
-    25\. Juli 2025
+19. entgegen Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 in der
+    Fassung vom 15. Dezember 2025 einen dort genannten Anspruch erfüllt
+    oder
+
+
+20. entgegen Artikel 11 Absatz 1 der Verordnung (EU) 2023/1529 in der
+    Fassung vom 30. Juli 2026 einem dort genannten Anspruch stattgibt.
 
 
 
-einen dort genannten Anspruch erfüllt oder einer dort genannten
-Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in
-Satz 1 Nummer 8 genannte Vorschrift auf die Anhänge VIII, IX, XIII und
-XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in
-der jeweils geltenden Fassung Anwendung.
+Soweit die in Satz 1 Nummer 8 genannte Vorschrift auf die Anhänge VIII
+und IX der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge
+in der jeweils geltenden Fassung Anwendung.
 
 (2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -4828,57 +4849,142 @@ findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
 (3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
-entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2022 in der
+entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 in der
 Fassung vom 23. Mai 2025 ein Behältnis oder ein dazu gehöriges
 Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur
 Prüfung vorlegt.
 
-(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
+765/2006 in der Fassung vom 23. Juli 2026 verstößt, indem er
+vorsätzlich oder fahrlässig
+
+1.  entgegen Artikel 1u Absatz 3 nach dem 16. Oktober 2026 ein dort
+    genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung
+    eines dort genannten Postens gestattet,
+
+
+2.  entgegen Artikel 1zb Absatz 1, Artikel 1zd Absatz 1 oder Artikel 1zf
+    Absatz 1 eine dort genannte Transaktion tätigt,
+
+
+3.  entgegen Artikel 1zc Absatz 1b Unterabsatz 2 eine dort genannte
+    Änderung vornimmt oder
+
+
+4.  entgegen Artikel 1ze sich an einer dort genannten Transaktion
+    beteiligt oder eine dort genannte Entwicklung unterstützt.
+
+
+
+
+(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 17 Absatz 4 der Verordnung (EU) 267/2012 in der
+Fassung vom 30. Juli 2026 eine dort genannte Zusammenarbeit aufnimmt.
+
+(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 in der
 Fassung vom 23. November 2022 eine Ware nicht oder nicht rechtzeitig
 gestellt.
 
-(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
-833/2014 in der Fassung vom 18. Juli 2025 verstößt, indem er
+833/2014 in der Fassung vom 23. Juli 2026 verstößt, indem er
 vorsätzlich oder fahrlässig
 
-1.  entgegen Artikel 5a Absatz 8 Buchstabe a oder b nach dem 22. Juli 2024
-    einen dort genannten Barbestand oder eine dort genannte Einnahme nicht
-    richtig verbucht,
+1.  entgegen Artikel 3ea Absatz 1 nach dem 16. Oktober 2026 mit einem dort
+    genannten Schiff in einen Hafen oder in eine Schleuse einläuft,
 
 
-2.  entgegen Artikel 5a Absatz 8 Buchstabe c Satzteil vor Satz 2 nach dem
-    22\. Juli 2024 einen dort genannten Nettogewinn veräußert,
+2.  entgegen Artikel 3l Absatz 1b Unterabsatz 2 eine dort genannte
+    Änderung vornimmt,
 
 
-3.  entgegen Artikel 5aa Absatz 1a oder 1b Unterabsatz 1 einen dort
+3.  entgegen Artikel 3rb Unterabsatz 2 einen dort genannten Vertrag
+    aufrechterhält,
+
+
+4.  entgegen Artikel 3s Absatz 1 Buchstabe a mit einem dort genannten
+    Schiff einen Hafen, eine Ankerzone oder eine Schleuse im Gebiet der
+    Union anläuft,
+
+
+5.  entgegen Artikel 3s Absatz 1 Buchstabe d ein dort genanntes Schiff
+    betreibt oder mit einer Besatzung ausstattet,
+
+
+6.  entgegen Artikel 5aa Absatz 1a oder 1b Unterabsatz 1 einen dort
     genannten Posten bekleidet,
 
 
-4.  entgegen Artikel 5ac Absatz 1 sich nach dem 1. November 2025 mit einem
-    dort genannten System oder Nachrichtenübermittlungsdienst verbindet,
+7.  entgegen Artikel 5ab Absatz 1, Artikel 5ad Absatz 1, Artikel 5ae
+    Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 2a Satz 1, Artikel 5af
+    Absatz 1, Artikel 5ai Absatz 1, Artikel 5aj Absatz 1, Artikel 5bb
+    Absatz 1, Artikel 5bc Absatz 1, Artikel 5h Absatz 1 oder Artikel 5sa
+    Absatz 1 eine dort genannte Transaktion tätigt oder vornimmt,
 
 
-5.  entgegen Artikel 5b Absatz 2a nach dem 22. Juli 2024 ein dort
-    genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung
-    eines dort genannten Postens gestattet oder
+8.  entgegen Artikel 5ac Absatz 1 sich mit einem dort genannten System
+    oder Nachrichtenübermittlungsdienst verbindet,
 
 
-6.  entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht,
-    einen dort genannten Posten zu bekleiden.
+9.  entgegen Artikel 5ac Absatz 2 Unterabsatz 1 oder Artikel 5ba sich an
+    einer dort genannten Transaktion beteiligt,
+
+
+10. entgegen Artikel 5ah Absatz 1 Buchstabe c einen dort genannten Vertrag
+    oder eine dort genannte Vereinbarung schließt,
+
+
+11. entgegen Artikel 5ah Absatz 2 Buchstabe a nach dem 16. Oktober 2026
+    eine dort genannte Beteiligung beibehält,
+
+
+12. entgegen Artikel 5ah Absatz 2 Buchstabe b nach dem 16. Oktober 2026
+    ein bestehendes Gemeinschaftsunternehmen, eine bestehende
+    Zweigniederlassung oder eine bestehende Repräsentanz weiterführt,
+
+
+13. entgegen Artikel 5ah Absatz 2 Buchstabe c nach dem 16. Oktober 2026
+    einen dort genannten Vertrag oder eine dort genannte Vereinbarung
+    beibehält,
+
+
+14. entgegen Artikel 5b Absatz 2a Satz 1, auch in Verbindung mit Satz 2,
+    nach dem 16. Oktober 2026 ein dort genanntes Eigentum, eine dort
+    genannte Kontrolle oder die Bekleidung eines dort genannten Postens
+    gestattet,
+
+
+15. entgegen Artikel 5ba eine dort genannte Entwicklung unterstützt,
+
+
+16. entgegen Artikel 5l Absatz 1 einen dort genannten Akteur unterstützt,
+
+
+17. entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht,
+    einen dort genannten Posten zu bekleiden,
+
+
+18. entgegen Artikel 5t Absatz 1 eine Zuwendung, einen wirtschaftlichen
+    Vorteil oder eine wirtschaftliche Unterstützung entgegennimmt oder
+
+
+19. entgegen Artikel 5u einen dort genannten Vertrag oder eine dort
+    genannte Vereinbarung unterzeichnet oder anderweitig eingeht.
 
 
 
 
-(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne
 Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU)
 2015/936 in der Fassung vom 29. November 2017 eine dort genannte
 Einfuhr in den freien Verkehr der Union überführt.
 
-(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+(9) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
 Außenwirtschaftsgesetzes handelt, wer gegen die
 Durchführungsverordnung (EU) 2015/2447 in der Fassung vom 28. April
 2025 verstößt, indem er vorsätzlich oder fahrlässig
@@ -4917,7 +5023,31 @@ Durchführungsverordnung (EU) 2015/2447 in der Fassung vom 28. April
 
 
 
-(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+(10) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU)
+2017/1509 in der Fassung vom 15. Dezember 2025 verstößt, indem er
+vorsätzlich oder fahrlässig
+
+1.  entgegen Artikel 17 Absatz 2 Buchstabe a ein dort genanntes
+    Gemeinschaftsunternehmen oder eine dort genannte Kooperativeinrichtung
+    unterhält oder betreibt,
+
+
+2.  entgegen Artikel 20 Absatz 1 Buchstabe c erster Halbsatz sich mit
+    einer dort genannten Tätigkeit befasst,
+
+
+3.  entgegen Artikel 30 Buchstabe b eine dort genannte Vereinbarung
+    schließt oder
+
+
+4.  entgegen Artikel 30 Buchstabe e eine dort genannte Repräsentanz,
+    Zweigniederlassung oder Tochtergesellschaft betreibt.
+
+
+
+
+(11) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU)
 2021/821 in der Fassung vom 5. September 2024 verstößt, indem er
 vorsätzlich oder fahrlässig
@@ -4990,7 +5120,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 ### Anlage 1 Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BGBl. 2025 I Nr. 261, S. 5 - 46)
+(Fundstelle: BGBl. 2026 I Nr. 300, S. 7 - 45)
 
 ## **Inhaltsübersicht**
 
@@ -5004,7 +5134,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 *    *   **Teil I:**
 
-    *   Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79
+    *   Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79
         der Außenwirtschaftsverordnung (AWV) angeordneten Beschränkungen
         beziehen
 
@@ -5023,7 +5153,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     *   Liste national erfasster Güter
 
-    *   1A901 – 9E1999
+    *   1E901 – 9E992
 
 
 *    *
@@ -5039,7 +5169,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 *    *   **Teil II:**
 
-    *   Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen
+    *   Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen
         beziehen
 
     *
@@ -5052,11 +5182,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     *
 
 
-
    Ausfuhrliste
 ## Anwendung der Ausfuhrliste
 
-## **Teil I**
+## Teil I
 
 
 1.  Teil I der Ausfuhrliste nennt in den Abschnitten A und B die Güter,
@@ -5068,12 +5197,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     Abschnitt B enthält zusätzliche national erfasste Güter.
 
-    Abschnitt B ist nach einem fünf- bzw. sechsstelligen
-    Nummerierungssystem untergliedert, das sich an dem Nummerierungssystem
-    der Gemeinsamen Liste der Europäischen Union für Güter mit doppeltem
-    Verwendungszweck (Anhang I der Verordnung (EU) 2021/821) anlehnt und
-    die Differenzierung in Artikel 9 Abs. 1 der Verordnung (EU) 2021/821
-    widerspiegelt.
+    Abschnitt B ist nach einem fünfstelligen Nummerierungssystem
+    untergliedert, das sich an dem Nummerierungssystem der Gemeinsamen
+    Liste der Europäischen Union für Güter mit doppeltem Verwendungszweck
+    (Anhang I der Verordnung (EU) 2021/821) anlehnt.
 
     Im Einzelnen ist die Unterteilung wie folgt, wobei nicht alle
     Kategorien und Gattungen belegt sind:
@@ -5163,8 +5290,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    c)  Kennungen: 901-1999
-
+    c)  Kennungen: 901-999
 
 
 
@@ -5214,8 +5340,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         **ALLGEMEINE TECHNOLOGIE-ANMERKUNG (ATA)**
 
-        (gültig im Zusammenhang mit Nummer 1E901, 3E1901, 3E1902, 3E1905,
-        4E1901b3, 5E902, 9E904, 9E991 oder 9E992 des Teils I Abschnitt B)
+        (gültig im Zusammenhang mit Nummer 1E901, 2E905, 5E902, 9E904, 9E991
+        oder 9E992 des Teils I Abschnitt B)
 
         Die Kontrolle der Ausfuhr von „Technologie“, die für die
         „Entwicklung“, „Herstellung“ oder „Verwendung“ der von Teil I
@@ -5252,8 +5378,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         **ALLGEMEINE SOFTWARE-ANMERKUNG (ASA)**
 
-        (gültig im Zusammenhang mit Nummer 3D1902, 3D1907, 4D1901b3, 5D902,
-        5D911, 6D908 oder 9D904 des Teils I Abschnitt B)
+        (gültig im Zusammenhang mit Nummer 2D905, 5D902, 5D911, 6D908 oder
+        9D904 des Teils I Abschnitt B)
 
         Teil I Abschnitt B erfasst keine „Software“, die entweder
 
@@ -5271,12 +5397,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 c)  Verkauf über elektronische Medien oder
 
 
-                d)  Telefonverkauf
+                d)  Telefonverkauf und
 
 
 
-
-                und
 
 
             2.  dazu entwickelt ist, vom Benutzer ohne umfangreiche Unterstützung
@@ -5301,17 +5425,17 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 8.  Bei der Prüfung der Ausfuhrgenehmigungspflicht nach der AWV und der
     Ausfuhrliste ist zu beachten, dass die in Teil I Abschnitte A und B
-    genannten Güter Ausfuhrverboten nach den §§ 17, 18 oder einer
+    genannten Güter Ausfuhrverboten nach den §§ 17, 18 oder einer
     Ausfuhrgenehmigungspflicht nach § 3 Absatz 3 des Gesetzes über die
     Kontrolle von Kriegswaffen unterliegen können.
 
 
 
 
-## **Teil II**
+## Teil II
 
 
-1.  Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV
+1.  Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV
     angeordneten Beschränkungen beziehen. Die Waren sind in Spalte 1 mit
     den Warennummern und in Spalte 2 mit den Warenbenennungen des
     Warenverzeichnisses für die Außenhandelsstatistik bezeichnet.
@@ -5349,17 +5473,17 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         c)  Waffen für Randfeuer-Hülsenpatronen, die keine Vollautomaten sind,
 
 
-        d)  ‚deaktivierte Feuerwaffen im Sinne der Anlage 1 Abschnitt 1,
-            Unterabschnitt 1 Nummer 1.4 WaffGʻ.
+        d)  ‚deaktivierte Feuerwaffen‘ im Sinne der Anlage 1 Abschnitt 1,
+            Unterabschnitt 1 Nummer 1.4 WaffG.
 
             *Technische Anmerkung:*
 
             Im Sinne von Nummer 0001 Anmerkung d ist eine ‚Feuerwaffe
-            deaktiviertʻ, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist
+            deaktiviert‘, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist
             dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie
             nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und
             die Gegenstände nicht so geändert werden können, dass aus ihnen
-            Geschosse, Patronen- oder pyrotechnische Munition verschossen werden
+            Geschosse, Patronen oder „pyrotechnische“ Munition verschossen werden
             können. Der Nachweis für die Deaktivierung ist nach § 8a des
             Beschussgesetzes zu erbringen; die Beschussämter sind überprüfende
             Behörde und erteilen eine Deaktivierungsbescheinigung.
@@ -5389,7 +5513,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             d)  Lang- oder Kurzwaffen, besonders konstruiert, um ein inertes Geschoss
                 mit Druckluft oder Kohlendioxid (CO
-                2                                     ) zu verschießen,
+                2
+                ) zu verschießen,
 
 
             e)  Handfeuerwaffen, besonders konstruiert für einen der folgenden Zwecke:
@@ -5527,6 +5652,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         militärische Flammenwerfer, Gewehre, rückstoßfreie Waffen und Waffen
         mit glattem Lauf;
 
+
         *Anmerkung 1:* Unternummer 0002a schließt Injektoren, Messgeräte, Speichertanks und
             besonders konstruierte Bestandteile für den Einsatz von flüssigen
             Treibladungen für einen der von Unternummer 0002a erfassten
@@ -5569,13 +5695,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 5.  Entschärfung von unkonventionellen Spreng- und Brandvorrichtungen
                     (USBV),
 
+                    *Ergänzende Anmerkung:*
+
+                    Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I
+                    der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 
 
-                *Ergänzende Anmerkung:*
-
-                Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhang I der
-                Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 
             f)  Handgehaltene Abschussgeräte, besonders konstruiert, um gefesselte
@@ -5598,7 +5724,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         2.  Gaswerfer;
 
 
-        3.  Pyrotechnische Werfer;
+        3.  Werfer für „pyrotechnische“ Munition oder Patronen;
 
 
 
@@ -5807,8 +5933,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             a)  mit folgenden Flugkörperwarnsensoren:
 
-                1.  passive Sensoren mit einer Spitzenempfindlichkeit zwischen 100–400 nm
-                    *oder*
+                1.  passive Sensoren mit einer Spitzenempfindlichkeit zwischen
+                    100 – 400 nm *oder*
 
 
                 2.  aktive Flugkörperwarnsensoren mit gepulstem Doppler-Radar;
@@ -5885,7 +6011,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             Zielüberwachungs- oder Zielverfolgungssysteme;
 
 
-        2.  Ortungs-, Erkennungs- oder Identifizierungs-Vorrichtungen:
+        2.  Ortungs-, Erkennungs- oder Identifizierungs-Vorrichtungen;
 
 
         3.  Datenverknüpfungs-Ausrüstung (data fusion equipment) oder Ausrüstung
@@ -6002,8 +6128,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 *und*
 
 
-            b)  einen ballistischen Schutz größer/gleich der Widerstandsklasse FB 6 /
-                BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“
+            b)  einen ballistischen Schutz größer/gleich der Widerstandsklasse FB
+                6/BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“
                 bewirken.
 
 
@@ -6017,7 +6143,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     *Ergänzende Anmerkung:*
 
-    Siehe auch Unternummer 0013a und Teil I B, Nummer 9A991.
+    Siehe auch Unternummer 0013a und Teil I Abschnitt B, Nummer 9A991.
 
     *Anmerkung 1:* Nummer 0006 erfasst nicht die folgenden Fahrzeuge mit Schutzpanzerung:
 
@@ -6099,10 +6225,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 n                                      = C
                 1                                      bis C
                 10                                     ), wie:
-
                 Sarin (GB): Methylphosphonsäure-isopropylesterfluorid (CAS-Nr.
                 107-44-8) *und*
-
                 Soman (GD): Methylphosphonsäurepinakolylesterfluorid (CAS-Nr.
                 96-64-0),
 
@@ -6112,13 +6236,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 2                                     )amid-cyanid-alkyl (R
                 3                                     )ester (R
                 1                                     , R
-                2                                      = Methyl-, Ethyl-, n‑Propyl-
+                2                                      = Methyl-, Ethyl-, n-Propyl-
                 oder Isopropyl-) (R
                 3                                      = Alkyl- oder Cycloalkyl-, C
                 n                                      = C
                 1                                      bis C
                 10                                     ), wie:
-
                 Tabun (GA): Phosphorsäuredimethylamid-cyanid-ethylester (CAS-Nr.
                 77-81-6),
 
@@ -6139,7 +6262,6 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 4                                      = Methyl-, Ethyl-, n-Propyl-
                 oder Isopropyl-) oder entsprechend alkylierte bzw. protonierte Salze,
                 wie:
-
                 VX: Methylthiolphosphonsäure-S-(2-diisopropylaminoethyl)-ethylester
                 (CAS-Nr. 50782-69-9);
 
@@ -6214,7 +6336,6 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         3.  Psychokampfstoffe, wie:
 
-
             a)  BZ: 3-Chinuclidinylbenzilat (CAS-Nr. 6581-06-2),
 
 
@@ -6253,7 +6374,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             1                               , R
             3                               , R
             4                                = Methyl-, Ethyl-,
-            n-Propyl-, Isopropyl-)                                (R
+            n-Propyl-,                                Isopropyl-) (R
             2                                = H-, Alkyl- oder Cycloalkyl-, C
             n                                = C
             1                                bis C
@@ -6275,34 +6396,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    d)  „Reizstoffe“, chemisch wirksame Komponenten und Kombinationen davon
-        einschließlich:
+    d)  „Reizstoffe“, chemisch wirksame Komponenten und Kombinationen davon;
 
-        1.  α-Bromphenylacetonitril (Brombenzylcyanid) (CA) (CAS-Nr. 5798-79-8);
-
-
-        2.  [(2-Chlorphenyl)methylen]propandinitril (o-Chlorbenzyliden-
-            malonsäuredinitril) (CS)
-            (CAS-Nr. 2698-41-1);
+        *Anmerkung 1:* Unternummer 0007d erfasst nicht „Reizstoffe“, einzeln abgepackt für
+            persönliche Selbstverteidigungszwecke.
 
 
-        3.  2-Chlor-1-phenylethanon, Phenylacylchlorid (ω-Chloracetophenon) (CN)
-            (CAS-Nr. 532-27-4);
-
-
-        4.  Dibenz-(b,f)-1,4-oxazepin (CR) (CAS-Nr. 257-07-8);
-
-
-        5.  10-Chlor-5,10-dihydrophenarsazin (Phenarsazinchlorid) (Adamsit), (DM)
-            (CAS-Nr. 578-94-9);
-
-
-        6.  N-Nonanoylmorpholin (MPA) (CAS-Nr. 5299-64-9);
-
-
-
-
-        *Anmerkung:* Unternummer 0007d erfasst nicht chemisch wirksame Komponenten und
+        *Anmerkung 2:* Unternummer 0007d erfasst nicht chemisch wirksame Komponenten und
             Kombinationen davon, gekennzeichnet und abgepackt für die Herstellung
             von Nahrungsmitteln oder für medizinische Zwecke.
 
@@ -6447,14 +6547,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             c)  Zellkulturen.
 
+                *Technische Anmerkung:*
+
+                Im Sinne von Unternummer 0007i2a sind ‚Expressions-Vektorenʻ Träger
+                (z. B. Plasmide oder Viren), die zum Einbringen genetischen Materials
+                in Gastzellen eingesetzt werden.
 
 
 
-            *Technische Anmerkungen:*
-
-            Im Sinne von Unternummer 0007i2a sind ‚Expressions-Vektorenʻ Träger
-            (z. B. Plasmide oder Viren), die zum Einbringen genetischen Materials
-            in Gastzellen eingesetzt werden.
 
 
 
@@ -6523,20 +6623,16 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         werden nicht erfasst.
 
 
-    *Anmerkung 3:* Nummer 0007d erfasst nicht „Reizstoffe“, einzeln abgepackt für
-        persönliche Selbstverteidigungszwecke.
-
-
-    *Anmerkung 4:* Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in
+    *Anmerkung 3:* Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in
         der jeweils geltenden Fassung.
 
 
-    *Anmerkung 5:* Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer
+    *Anmerkung 4:* Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer
         1C350 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
         geltenden Fassung.
 
 
-    *Anmerkung 6:* Biologische Wirkstoffe siehe auch Nummern 1C351 bis 1C354 des Anhangs
+    *Anmerkung 5:* Biologische Wirkstoffe siehe auch Nummern 1C351 bis 1C354 des Anhangs
         I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
         Biologische Wirkstoffe werden nur dann von Unternummer 0007a erfasst,
@@ -6546,9 +6642,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Menschen und Tieren, der Funktionsbeeinträchtigung von Ausrüstung, der
         Vernichtung von Ernten oder zur Schädigung der Umwelt.
 
-        Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach
-        § 17 oder 18 des Gesetzes über die Kontrolle von Kriegswaffen
-        verboten.
+        Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach §
+        17 oder 18 des Gesetzes über die Kontrolle von Kriegswaffen verboten.
 
 
 
@@ -6567,11 +6662,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden
     Fassung.
 
-
     *Anmerkung:* Jede Substanz, die von einer Unternummer der Nummer 0008 erfasst wird,
         bleibt auch dann erfasst, wenn sie für einen anderen als den in der
-        Überschrift zu dieser Unternummer genannten Zweck verwendet wird (z.
-        B. wird TAGN überwiegend als „Explosivstoff“ eingesetzt, kann aber
+        Überschrift zu dieser Unternummer genannten Zweck verwendet wird
+        (z. B. wird TAGN überwiegend als „Explosivstoff“ eingesetzt, kann aber
         auch als Brennstoff oder Oxidationsmittel verwendet werden).
 
 
@@ -6601,11 +6695,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         2.  BNCP (cis-Bis (5-nitrotetrazolato) tetraminkobalt(III)-perchlorat)
-            (CAS-Nr. 117412‑28‑9),
+            (CAS-Nr. 117412-28-9),
 
 
         3.  CL-14 (5,7-Diamino-4,6-dinitrobenzofurazan-1-oxid (CAS-Nr.
-            117907‑74-1) oder Diaminodinitrobenzofuroxan),
+            117907-74-1) oder Diaminodinitrobenzofuroxan),
 
 
         4.  CL-20 (HNIW oder Hexanitrohexaazaisowurtzitan) (CAS-Nr. 135285-90-4),
@@ -6707,8 +6801,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             a)  RDX (Hexogen, Cyclotrimethylentrinitramin) (CAS-Nr. 121-82-4),
 
 
-            b)  Keto-RDX (2,4,6-Trinitro-2,4,6-triazacyclohexanon oder K-6)
-                (CAS-Nr. 115029-35-1),
+            b)  Keto-RDX (2,4,6-Trinitro-2,4,6-triazacyclohexanon oder K-6) (CAS-Nr.
+                115029-35-1),
 
 
 
@@ -6771,8 +6865,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             a)  5-Azido-2-nitrotriazol,
 
 
-            b)  ADHTDN (4-Amino-3,5-dihydrazino-1,2,4-triazol-dinitramid)
-                (CAS-Nr. 1614-08-0),
+            b)  ADHTDN (4-Amino-3,5-dihydrazino-1,2,4-triazol-dinitramid) (CAS-Nr.
+                1614-08-0),
 
 
             c)  ADNT (1-Amino-3,5-dinitro-1,2,4-triazol),
@@ -6781,7 +6875,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             d)  BDNTA ((Bis-dinitrotriazol)-amin),
 
 
-            e)  DBT (3,3‘-Dinitro-5,5-bis-1,2,4-triazol) (CAS-Nr. 30003-46-4),
+            e)  DBT (3,3'-Dinitro-5,5-bis-1,2,4-triazol) (CAS-Nr. 30003-46-4),
 
 
             f)  DNBT (Dinitrobistriazol) (CAS-Nr. 70890-46-9),
@@ -6839,11 +6933,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         39. ionische energetische Materialien mit einem Schmelzpunkt zwischen 343
-            K (70
-            o                               C) und 373 K (100
-            o                               C) und einer
-            Detonationsgeschwindigkeit größer als 6 800 m/s oder einem
-            Detonationsdruck größer als 18 GPa (180 kbar),
+            K (70 °C) und 373 K (100 °C) und einer Detonationsgeschwindigkeit
+            größer als 6 800 m/s oder einem Detonationsdruck größer als 18 GPa
+            (180 kbar),
 
 
         40. BTNEN (Bis(2,2,2-trinitroethyl)-nitramin) (CAS-Nr. 19836-28-3),
@@ -6869,7 +6961,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         *Technische Anmerkung:*
 
         Im Sinne von Unternummer 0008a Anmerkung ist ‚Explosivstoff-Co-
-        Kristall (explosive co-crystal)ʻ ein Feststoff, der aus einer
+        Kristall (explosive co-crystal)ʻ ist ein Feststoff, der aus einer
         geordneten dreidimensionalen Anordnung von zwei oder mehr
         Explosivstoffmolekülen besteht, von denen mindestens eines in
         Unternummer 0008a angegeben ist.
@@ -6949,13 +7041,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             b)  Boranhomologe wie folgt:
 
-                1.  Decaboran (14) (CAS-Nr. 17702-41-9),
+                1.  Decaboran(14) (CAS-Nr. 17702-41-9),
 
 
-                2.  Pentaboran (9) (CAS-Nr. 19624-22-7),
+                2.  Pentaboran(9) (CAS-Nr. 19624-22-7),
 
 
-                3.  Pentaboran (11) (CAS-Nr. 18433-84-6),
+                3.  Pentaboran(11) (CAS-Nr. 18433-84-6),
 
 
 
@@ -7058,7 +7150,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         9.  Titansubhydrid (TiH
             n                               ) mit einer stöchiometrischen
-            Zusammensetzung n = 0,65‑1,68,
+            Zusammensetzung n = 0,65 – 1,68,
 
 
         10. flüssige Brennstoffe hoher Energiedichte, nicht von Unternummer 0008c1
@@ -7093,7 +7185,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 des Infrarot(IR)-Spektrums zu erhöhen oder zu steuern,
 
 
-            b)  Mischungen von Magnesium, Polyetrafluorethylen (PTFE) und einem
+            b)  Mischungen von Magnesium, Polytetrafluorethylen (PTFE) und einem
                 Vinylidendifluorid-Hexafluorpropylen-Copolymer (z. B. MTV),
 
 
@@ -7148,7 +7240,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     d)  Oxidationsmittel wie folgt und ‚Mischungenʻ daraus:
 
-        1.  ADN (Ammoniumdinitramid oder SR12) (CAS-Nr.140456-78-6),
+        1.  ADN (Ammoniumdinitramid oder SR12) (CAS-Nr. 140456-78-6),
 
 
         2.  AP (Ammoniumperchlorat) (CAS-Nr. 7790-98-9),
@@ -7294,12 +7386,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         14. NENAs (Nitratoethylnitramin-Verbindungen) (CAS-Nrn. 17096-47-8,
-            85068-73-1, 82486-83-7,
-            82486-82-6                                und 85954-06-9),
+            85068-73-1, 82486-83-7, 82486-82-6 und 85954-06-9),
 
 
         15. PGN (Poly-GLYN, Polyglycidylnitrat oder Poly(nitratomethyloxiran))
-            (CAS‑Nr. 27814-48-8),
+            (CAS-Nr. 27814-48-8),
 
 
         16. Poly-NIMMO (Poly(nitratomethylmethyloxetan), Poly-NMMO oder
@@ -7347,7 +7438,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             a)  Butacen (CAS-Nr. 125856-62-4),
 
 
-            b)  Catocen (CAS-Nr. 37206-42-1)(2,2-Bis-ethylferrocenylpropan),
+            b)  Catocen (CAS-Nr. 37206-42-1) (2,2-Bis-ethylferrocenylpropan),
 
 
             c)  Ferrocencarbonsäuren und Ferrocencarbonsäureester,
@@ -7388,14 +7479,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
             o)  Acetylferrocen (CAS-Nr. 1271-55-2)/1,1'-Diacetylferrocen (CAS-Nr.
-                1273‑94‑5),
+                1273-94-5),
 
 
 
 
 
         5.  Blei-ß-resorcylat (CAS-Nr. 20936-32-7) oder Kupfer-ß-resorcylat (CAS-
-            Nr. 70983‑44‑7),
+            Nr. 70983-44-7),
 
 
         6.  Bleicitrat (CAS-Nr. 14450-60-3),
@@ -7464,14 +7555,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
                 *Anmerkung:* Unternummer 0008f17b umfasst:
 
-                    a)  1,1H-Isophthaloyl bis(2-methylaziridin) (HX-752) (CAS‑Nr. 7652-64-4),
+                    a)  1,1H-Isophthaloyl bis(2-methylaziridin) (HX-752) (CAS-Nr. 7652-64-4),
 
 
                     b)  2,4,6-Tris(2-ethylaziridin-1-yl)-1,3,5-triazin (HX-874) (CAS-Nr.
                         18924-91-9),
 
 
-                    c)  1,1'-Trimethyladipoyl-bis(2-ethylaziridin) (HX-877) (CAS‑Nr.
+                    c)  1,1'-Trimethyladipoyl-bis(2-ethylaziridin) (HX-877) (CAS-Nr.
                         71463-62-2);
 
 
@@ -7492,7 +7583,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             3                               ) (CAS-Nr. 1317-60-8) mit einer
             spezifischen Oberfläche größer als 250 m
             2                               /g und einer durchschnittlichen
-            Partikelgröße kleiner/gleich 3,0 nm (CAS-Nr. 1309-37‑1),
+            Partikelgröße kleiner/gleich 3,0 nm (CAS-Nr. 1309-37-1),
 
 
         20. TEPAN (Tetraethylenpentaminacrylnitril) (CAS-Nr. 68412-45-3),
@@ -7630,11 +7721,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-
     *Anmerkung 1:* Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn
         sie als Verbindungen oder Mischungen mit in Unternummer 0008a
         genannten „energetischen Materialien“ oder den in Unternummer 0008c
-        genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst,
+        genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst,
         wenn sie in reiner Form oder als Mischungen untereinander vorliegen:
 
         a)  Ammoniumpikrat (CAS-Nr. 131-74-8),
@@ -7647,13 +7737,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         d)  Difluoramin (HNF
-            2                               ) (CAS-Nr. 10405-27-3),
+            2                                 ) (CAS-Nr. 10405-27-3),
 
 
         e)  Nitrostärke (CAS-Nr. 9056-38-6),
 
 
-        f)  Kaliumnitrat (CAS-Nr.7757-79-1),
+        f)  Kaliumnitrat (CAS-Nr. 7757-79-1),
 
 
         g)  Tetranitronaphthalin,
@@ -7678,63 +7768,63 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         n)  Triethylaluminium (TEA) (CAS-Nr. 97-93-8), Trimethylaluminium (TMA)
-            (CAS‑Nr. 75-24-1)                                und sonstige
-            pyrophore Metallalkyle der Elemente Lithium, Natrium, Magnesium, Zink
-            und Bor sowie Metallaryle derselben Elemente,
+            (CAS-Nr. 75-24-1) und sonstige pyrophore Metallalkyle der Elemente
+            Lithium, Natrium, Magnesium, Zink und Bor sowie Metallaryle derselben
+            Elemente,
 
 
-        o)  Nitrozellulose (CAS‑Nr. 9004-70-0),
+        o)  Nitrozellulose (CAS-Nr. 9004-70-0),
 
 
-        p)  Nitroglycerin (oder Glycerinnitrat) (CAS‑Nr. 55-63-0),
+        p)  Nitroglycerin (oder Glycerinnitrat) (CAS-Nr. 55-63-0),
 
 
-        q)  2,4,6-Trinitrotoluol (CAS‑Nr. 118-96-7),
+        q)  2,4,6-Trinitrotoluol (CAS-Nr. 118-96-7),
 
 
-        r)  Ethylendiamindinitrat (CAS‑Nr. 20829-66-7),
+        r)  Ethylendiamindinitrat (CAS-Nr. 20829-66-7),
 
 
-        s)  Pentaerythrittetranitrat (CAS‑Nr. 78-11-5),
+        s)  Pentaerythrittetranitrat (CAS-Nr. 78-11-5),
 
 
-        t)  Bleiazid (CAS‑Nr. 13424-46-9), normales Bleistyphnat (CAS‑Nr.
-            15245-44-0), basisches Bleistyphnat (CAS‑Nr. 12403-82-6) und sonstige
+        t)  Bleiazid (CAS-Nr. 13424-46-9), normales Bleistyphnat (CAS-Nr.
+            15245-44-0), basisches Bleistyphnat (CAS-Nr. 12403-82-6) und sonstige
             Anzünder oder Anzündermischungen, die Azide oder komplexe Azide
             enthalten,
 
 
-        u)  Triethylenglykoldinitrat (TEGDN) (CAS‑Nr. 111-22-8),
+        u)  Triethylenglykoldinitrat (TEGDN) (CAS-Nr. 111-22-8),
 
 
-        v)  2,4,6-Trinitroresorcin (Styphninsäure) (CAS‑Nr. 82-71-3),
+        v)  2,4,6-Trinitroresorcin (Styphninsäure) (CAS-Nr. 82-71-3),
 
 
-        w)  Diethyldiphenylharnstoff (CAS‑Nr. 85-98-3), Dimethyldiphenylharnstoff
-            (CAS‑Nr. 611-92-7), Methylethyldiphenylharnstoff (Centralite),
+        w)  Diethyldiphenylharnstoff (CAS-Nr. 85-98-3), Dimethyldiphenylharnstoff
+            (CAS-Nr. 611-92-7), Methylethyldiphenylharnstoff (Centralite),
 
 
-        x)  N,N-Diphenylharnstoff (unsymmetrischer Diphenylharnstoff) (CAS‑Nr.
-            603‑54‑3),
+        x)  N,N-Diphenylharnstoff (unsymmetrischer Diphenylharnstoff) (CAS-Nr.
+            603-54-3),
 
 
         y)  Methyl-N,N-diphenylharnstoff (unsymmetrischer Methyldiphenylharnstoff)
-            (CAS‑Nr. 13114-72-2),
+            (CAS-Nr. 13114-72-2),
 
 
         z)  Ethyl-N,N-diphenylharnstoff (unsymmetrischer Ethyldiphenylharnstoff)
-            (CAS‑Nr. 64544-71-4),
+            (CAS-Nr. 64544-71-4),
 
 
 
 
-        aa) 2-Nitrodiphenylamin (2-NDPA) (CAS‑Nr. 119-75-5),
+        aa) 2-Nitrodiphenylamin (2-NDPA) (CAS-Nr. 119-75-5),
 
 
-        bb) 4-Nitrodiphenylamin (4-NDPA) (CAS‑Nr. 836-30-6),
+        bb) 4-Nitrodiphenylamin (4-NDPA) (CAS-Nr. 836-30-6),
 
 
-        cc) 2,2-Dinitropropanol (CAS‑Nr. 918-52-5),
+        cc) 2,2-Dinitropropanol (CAS-Nr. 918-52-5),
 
 
         dd) zur Erfassung von Nitroguanidin (NQ) (CAS-Nr. 556-88-7) siehe
@@ -7806,7 +7896,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             Ausrüstungen:
 
             a)  automatische Waffen, erfasst von Nummer 0001, oder Waffen, die von
-                Nummer 0002, 0004, 0012 oder 0019 erfasst werden, oder ‚Montagenʻ oder
+                Nummer 0002, 0004, 0012 oder 0019 erfasst werden, oder ‚Montagen‘ oder
                 Befestigungspunkte (hard points) für Waffen mit einem Kaliber von
                 größer/gleich 12,7 mm;
 
@@ -7849,7 +7939,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                     Radarrückstreuquerschnitt zu reduzieren,
 
 
-                3.  Einrichtungen zur Reduzierung der thermischen Signatur (z. B. ein
+                3.  Einrichtungen zur Reduzierung der thermischen Signatur (z. B. ein
                     Abgaskühlsystem), ausgenommen solche, die für die Erhöhung des
                     Gesamtwirkungsgrades oder die Verringerung der Umweltbelastung
                     besonders konstruiert sind, *oder*
@@ -7928,7 +8018,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             *Technische Anmerkung:*
 
             Ein ‚außenluftunabhängiger Antriebʻ (‚AIPʻ) im Sinne von Unternummer
-            0009b4 gestattet es getauchten U‑Booten, das Antriebssystem ohne
+            0009b4 gestattet es getauchten U-Booten, das Antriebssystem ohne
             Zugang zu atmosphärischem Sauerstoff für einen längeren Zeitraum zu
             betreiben, als es sonst mit Batterien möglich wäre.
 
@@ -8023,6 +8113,52 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     a)  bemannte „Luftfahrzeuge“ und „Luftfahrtgeräte nach dem Prinzip
         leichter-als-Luft“ sowie besonders konstruierte Bestandteile hierfür;
 
+        *Anmerkung 1:* Unternummer 0010a erfasst nicht „Luftfahrzeuge“ und „Luftfahrtgeräte
+            nach dem Prinzip leichter-als-Luft“, oder Varianten dieser
+            „Luftfahrzeuge“, besonders konstruiert für militärische Zwecke und mit
+            allen folgenden Eigenschaften:
+
+            a)  kein Kampfflugzeug oder -hubschrauber,
+
+
+            b)  nicht konfiguriert für militärische Verwendung und nicht mit
+                technischen Ausrüstungen oder Zusatzeinrichtungen versehen, die für
+                militärische Zwecke besonders konstruiert oder geändert sind, *und*
+
+
+            c)  von den Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten
+                oder Teilnehmerstaaten des Wassenaar-Arrangements für zivile
+                Verwendung zugelassen.
+
+
+
+
+
+        *Anmerkung 2:* Unternummer 0010a erfasst nicht „Luftfahrzeuge“ oder „Luftfahrtgeräte
+            nach dem Prinzip leichter-als-Luft“, mit allen folgenden
+            Eigenschaften:
+
+            a)  erstmalig vor 1946 hergestellt,
+
+
+            b)  nicht ausgerüstet mit Gütern, die von der Liste für Waffen, Munition
+                und Rüstungsmaterial (Teil I A) erfasst sind, es sei denn, die Güter
+                sind erforderlich, um die Sicherheits- oder Lufttüchtigkeitsstandards
+                der Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten oder
+                Teilnehmerstaaten des Wassenaar-Arrangements zu erfüllen, *und*
+
+
+            c)  nicht ausgerüstet mit Waffen, die von der Liste für Waffen, Munition
+                und Rüstungsmaterial (Teil I A) erfasst sind, es sei denn, die Waffen
+                sind unbrauchbar und können nicht wieder in einen gebrauchsfähigen
+                Zustand versetzt werden.
+
+
+
+
+
+
+
 
     b)  nicht belegt;
 
@@ -8046,6 +8182,31 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
     d)  Triebwerke und besonders konstruierte Bestandteile hierfür;
+
+        *Anmerkung:* Unternummer 0010d erfasst nicht:
+
+            a)  Triebwerke, konstruiert oder geändert für militärische Zwecke, die von
+                den Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten oder
+                Teilnehmerstaaten des Wassenaar Arrangements für die Verwendung in
+                „zivilen Luftfahrzeugen“ zugelassen sind, sowie deren besonders
+                konstruierte Bestandteile,
+
+
+            b)  Hubkolbentriebwerke oder deren besonders konstruierte Bestandteile,
+                mit Ausnahme solcher, die für „UAV“ besonders konstruiert sind,
+
+
+            c)  erstmalig vor 1946 hergestellte Triebwerke.
+
+
+
+
+            *Ergänzende Anmerkung:*
+
+            Siehe jedoch Teil I Abschnitt B Nummer 9A994.
+
+
+
 
 
     e)  Einrichtungen für die Luftbetankung besonders konstruiert oder
@@ -8110,26 +8271,35 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Für Helme siehe auch Nummer 0013c.
 
 
-    h)  Fallschirme, Para-Gleiter und zugehörige Ausrüstung, wie folgt und
+    h)  Fallschirme, Paragleiter und zugehörige Ausrüstung, wie folgt und
         besonders konstruierte Bestandteile hierfür:
 
-        1.  Fallschirme soweit nicht anderweitig von der Liste für Waffen,
-            Munition und Rüstungsmaterial (Teil I A) erfasst,
+        1.  Lastenfallschirme oder Truppenfallschirme,
+
+            *Ergänzende Anmerkung:*
+
+            Für andere militärische Fallschirme: siehe entsprechenden Eintrag der
+            Liste für Waffen, Munition und Rüstungsmaterial (Teil I A)
 
 
-        2.  Para-Gleiter,
+        2.  Paragleiter,
 
 
         3.  Ausrüstung, besonders konstruiert für Fallschirmspringer, die aus
-            großer Höhe abspringen (z. B. Anzüge, Spezialhelme, Atemgeräte,
-            Navigationsausrüstung);
+            großer Höhe abspringen;
+
+            *Anmerkung:* Unternummer 0010h3 schließt Anzüge, Helme, Atemgeräte und
+                Navigationsausrüstung ein.
+
+
+
 
 
 
 
 
     i)  Geräte für das gesteuerte Entfalten oder automatische Lenksysteme
-        konstruiert für Fallschirmlasten.
+        konstruiert für Fallschirmlasten;
 
 
     j)  „suborbitale Fahrzeuge“ sowie zugehörige Ausrüstung wie folgt und
@@ -8150,48 +8320,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    *Anmerkung 1:* Unternummer 0010a erfasst nicht „Luftfahrzeuge“ und „Luftfahrtgeräte
-        nach dem Prinzip leichter-als-Luft“, oder Varianten dieser
-        „Luftfahrzeuge“, besonders konstruiert für militärische Zwecke und mit
-        allen folgenden Eigenschaften:
-
-        a)  kein Kampfflugzeug oder -hubschrauber,
-
-
-        b)  nicht konfiguriert für militärische Verwendung und nicht mit
-            technischen Ausrüstungen oder Zusatzeinrichtungen versehen, die für
-            militärische Zwecke besonders konstruiert oder geändert sind, *und*
-
-
-        c)  von den Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten
-            oder Teilnehmerstaaten des Wassenaar-Arrangements für zivile
-            Verwendung zugelassen.
-
-
-
-
-
-    *Anmerkung 2:* Unternummer 0010d erfasst nicht:
-
-        a)  Triebwerke, konstruiert oder geändert für militärische Zwecke, die von
-            den Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten oder
-            Teilnehmerstaaten des Wassenaar-Arrangements für die Verwendung in
-            „zivilen Luftfahrzeugen“ zugelassen sind, sowie deren besonders
-            konstruierte Bestandteile,
-
-
-        b)  Hubkolbentriebwerke oder deren besonders konstruierte Bestandteile,
-            mit Ausnahme solcher, die für „UAV“ besonders konstruiert sind.
-
-
-
-
-        *Ergänzende Anmerkung:*
-
-        Siehe jedoch Teil I B Nummer 9A994.
-
-
-    *Anmerkung 3:* Im Sinne von Unternummern 0010a, 0010d und 0010j erstreckt sich die
+    *Anmerkung 1:* Im Sinne von Unternummern 0010a, 0010d und 0010j erstreckt sich die
         Erfassung von besonders konstruierten Bestandteilen und zugehöriger
         Ausrüstung für nichtmilitärische „Luftfahrzeuge“, Triebwerke oder
         „suborbitale Fahrzeuge“, die für militärische Zwecke geändert sind,
@@ -8199,38 +8328,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Ausrüstung, die für die Änderung für militärische Zwecke nötig sind.
 
 
-    *Anmerkung 4:* Im Sinne von Unternummern 0010a und 0010j schließen militärische
+    *Anmerkung 2:* Im Sinne von Unternummern 0010a und 0010j schließen militärische
         Zwecke Folgendes ein: Kampfhandlungen, militärische Aufklärung,
         militärischer Angriff, militärische Ausbildung, logistische
         Unterstützung sowie Beförderung und Luftlandung von Truppen oder
         militärischer Ausrüstung.
-
-
-    *Anmerkung 5:* Unternummer 0010a erfasst nicht „Luftfahrzeuge“ oder „Luftfahrtgeräte
-        nach dem Prinzip leichter-als-Luft“, mit allen folgenden
-        Eigenschaften:
-
-        a)  erstmalig vor 1946 hergestellt,
-
-
-        b)  nicht ausgerüstet mit Gütern, die von der Liste für Waffen, Munition
-            und Rüstungsmaterial (Teil I A) erfasst sind, es sei denn, die Güter
-            sind erforderlich, um die Sicherheits- oder Lufttüchtigkeitsstandards
-            der Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten oder
-            Teilnehmerstaaten des Wassenaar-Arrangements zu erfüllen, *und*
-
-
-        c)  nicht ausgerüstet mit Waffen, die von der Liste für Waffen, Munition
-            und Rüstungsmaterial (Teil I A) erfasst sind, es sei denn, die Waffen
-            sind unbrauchbar und können nicht wieder in einen gebrauchsfähigen
-            Zustand versetzt werden.
-
-
-
-
-
-    *Anmerkung 6:* Unternummer 0010d erfasst nicht Triebwerke, die erstmalig vor 1946
-        hergestellt wurden.
 
 
 
@@ -8247,7 +8349,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             a)  Ausrüstung für elektronische Gegenmaßnahmen (ECM) und elektronische
                 Schutzmaßnahmen (ECCM), einschließlich elektronischer Ausrüstung zum
-                Stören und Gegenstören, d.h. Geräte, konstruiert, um in Radar- oder
+                Stören und Gegenstören, d. h. Geräte, konstruiert, um in Radar- oder
                 Funkgeräten Störsignale oder verfälschende Signale zu erzeugen oder
                 auf andere Weise den Empfang, den Betrieb oder die Wirksamkeit
                 gegnerischer Empfänger einschließlich der Geräte für Gegenmaßnahmen zu
@@ -8370,9 +8472,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             (electric armour), Energiespeicherung (z. B. Hochenergie-
             Speicherkondensatoren), Kontrolle des Wärmehaushalts und
             Klimatisierung, Schaltvorrichtungen und Ausrüstung für die Handhabung
-            von „Treibstoffen“, elektrische Schnittstellen zwischen
-            Stromversorgung, Geschütz und anderen elektrischen Richtfunktionen des
-            Turms,
+            von Treibstoffen, elektrische Schnittstellen zwischen Stromversorgung,
+            Geschütz und anderen elektrischen Richtfunktionen des Turms,
 
             *Ergänzende Anmerkung:*
 
@@ -8579,7 +8680,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Training im Umgang mit Jagd- und Sportwaffen.
 
 
-    *Anmerkung 3:* ,Spezialisierte Ausrüstung für die militärische Ausbildungʻ schließt
+    *Anmerkung 3:* ‚Spezialisierte Ausrüstung für die militärische Ausbildungʻ schließt
         militärische Ausführungen von folgender Ausrüstung ein:
 
         a)  Angriffssimulatoren,
@@ -8762,7 +8863,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             ‚EMPʻ im Sinne von Unternummer 0017e3 bezieht sich nicht auf eine
             unbeabsichtigte Störbeeinflussung, die durch elektromagnetische
-            Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen,
+            Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen,
             Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
 
 
@@ -8811,17 +8912,18 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         für militärische Zwecke;
 
 
-    l)  intermodale ISO-Container oder abnehmbare Fahrzeugkörper (d. h.
+    l)  intermodale ISO-Container oder abnehmbare Fahrzeugkörper (d. h.
         Wechselaufbauten), besonders konstruiert oder ‚geändertʻ für
         militärische Zwecke;
 
         *Technische Anmerkung:*
 
-        ,Besonders konstruiert für militärische Zwecke´ im Sinne von
+        ,Besonders konstruiert für militärische Zweckeʻ im Sinne von
         Unternummer 0017l ist die Ausstattung mit einer der folgenden
         militärspezifischen Eigenschaften:
 
-        a)  Schutz gegen EMP (EMP = elektromagnetischer Impuls),
+        a)  Schutz gegen EMP (EMP = elektromagnetischer Impuls)
+            , ****
 
 
         b)  ABC-Schutz,
@@ -8872,7 +8974,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-0018 ‚Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie
+0018 ,Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie
     folgt:
 
     a)  Ausrüstung, besonders konstruiert oder geändert für die ‚Herstellungʻ
@@ -8882,7 +8984,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     b)  Umweltprüfeinrichtungen, besonders konstruiert für die Zulassungs- und
         Eignungsprüfung der von der Liste für Waffen, Munition und
-        Rüstungsmaterial (Teil I A) erfassten Güter und nicht anderweitig
+        Rüstungsmaterial (Teil I A) erfassten Güter und nicht anderweitig in
+        der
+        Liste für Waffen, Munition und Rüstungsmaterial (Teil I A)
         erfasste besonders konstruierte Ausrüstung hierfür.
 
 
@@ -8917,8 +9021,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
     f)  „Laser“-Systeme, besonders konstruiert, um eine dauerhafte Erblindung
-        bei einer Beobachtung ohne vergrößernde Optik zu verursachen, d.h. bei
-        einer Beobachtung mit bloßem Auge oder mit korrigierender Sehhilfe.
+        bei einer Beobachtung ohne vergrößernde Optik zu verursachen, d. h.
+        bei einer Beobachtung mit bloßem Auge oder mit korrigierender
+        Sehhilfe.
 
 
 
@@ -9090,7 +9195,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Systemen,
                 Ausrüstung oder „Software“ entwickelt wurde, sowie entsprechende
                 „Software“ für Cyberaufklärung (cyber reconnaissance) und für Cyber-
-                Führungs- und ‑Leitsysteme (cyber command and control) hierfür.
+                Führungs- und -Leitsysteme (cyber command and control) hierfür.
 
 
             *Anmerkung 2:* Unternummer 0021b5 findet keine Anwendung auf „Offenlegung von
@@ -9207,6 +9312,32 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     (EU) 2021/821 aufgeführten Gebiete liegt.
 
 
+2B905 Magnetron-Sputteranlagen, die nicht von Nummer 2B005 des Anhangs I der
+    Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst
+    werden, mit allen folgenden Eigenschaften, wenn das Bestimmungsland
+    außerhalb des Zollgebiets der Europäischen Union und außerhalb der in
+    Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten
+    Gebiete liegt:
+
+    a)  konstruiert für die mehrlagige Beschichtung optischer Substrate,
+
+
+    b)  konstruiert für die Rotation von Substraten mit einem Durchmesser
+        größer 300 mm,
+
+
+    c)  mit einem Basis-Druck von weniger als 1 × 10
+        –5                          Pa *und*
+
+
+    d)  mit einer Abweichung des Schichtdickenverlaufs vom Sollverlauf
+        innerhalb des Durchmessers von 300 mm kleiner als 0,2 % im Sinne einer
+        quadratischen mittleren Abweichung.
+
+
+
+
+
 2B952 Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von
     Nummer 2B352 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
     geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland
@@ -9249,497 +9380,39 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-3A1901a15 Integrierte Tieftemperatur-CMOS (Complementary Metal Oxide
-    Semiconductor) Schaltkreise, die nicht von Nummer 3A001a2 des Anhangs
-    I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung
-    erfasst werden, konstruiert für einen Betrieb bei
-    Umgebungstemperaturen kleiner/gleich 4,5 K (–268,65 °C), wenn das
-    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
-    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt.
-
-    *Technische Anmerkung:*
-
-    Integrierte Tieftemperatur-CMOS Schaltkreise werden auch als Cryo-CMOS
-    bezeichnet.
-
-
-3A1901b13 Parametrische Signalverstärker mit allen folgenden Eigenschaften, wenn
-    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
-    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt:
-
-    a)  konstruiert für eine Betriebstemperatur unter 1 K (–272,15 °C);
-
-
-    b)  konstruiert für eine Betriebsfrequenz größer als 2 GHz bis
-        einschließlich 15 GHz; und
-
-
-    c)  mit einer Rauschzahl kleiner (besser) als 0,015 dB bei jeder Frequenz
-        größer als 2 GHz bis einschließlich 15 GHz bei einer Temperatur von 1
-        K (–272,15 °C).
-
-
-
-
-    *Anmerkung:* Nummer 3A1901b13 schließt Parametrische Wanderfeld-Verstärker
-        (Travelling Wave Parametric Amplifiers (TWPAs)) ein.
-
-
-
-
-    *Technische Anmerkung:*
-
-    Im Sinne der Nummer 3A1901b13 werden Parametrische Signalverstärker
-    auch als quantenlimitierte Verstärker (Quantum Limited Amplifiers
-    (QLAs)) bezeichnet.
-
-
-3A1904 Kryogene Kühlsysteme und Bestandteile wie folgt, wenn das
-    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
-    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt:
-
-    a)  Systeme ausgelegt, eine Kühlleistung größer/gleich 600 µW bei einer
-        Temperatur kleiner/gleich 0,1 K (–273,05 °C) für einen Zeitraum größer
-        als 48 h zu erreichen;
-
-
-    b)  zweistufige kryogene Pulsrohrkühler (Two-Stage Pulse Tube Cryocooler)
-        ausgelegt, um eine Temperatur von kleiner/gleich 4 K (–269,15 °C) zu
-        gewährleisten und eine Kühlleistung größer/gleich 1,5 W bei einer
-        Temperatur kleiner gleich 4,2 K (–268,95 °C) zu erreichen.
-
-
-
-
-
-3B1901k Ausrüstung, konstruiert für das Trockenätzen (Dry Etching), mit einer
-    der folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des
-    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
-    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
-    liegt:
-
-    a)  Ausrüstung konstruiert oder geändert für das isotropische Trockenätzen
-        mit einer maximalen ‚Siliziumgermanium-zu-Silizium-Selektivität
-        (SiGe:Si)ʻ beim Ätzprozess größer/gleich 100:1; oder
-
-
-    b)  Ausrüstung konstruiert oder geändert für das anisotropische
-        Trockenätzen mit allen folgenden Eigenschaften:
-
-        1.  Hochfrequenzstromquelle(n) mit mindestens einem gepulsten
-            Hochfrequenzausgang;
-
-
-        2.  Ein oder mehrere schnellschaltende Gasventile mit Schaltzeiten kleiner
-            300 ms; und
-
-
-        3.  Elektrostatische Aufnahmevorrichtung (electrostatic chuck) mit 20 oder
-            mehr einzeln regelbaren Temperaturelementen.
-
-
-
-
-
-
-
-    *Anmerkung 1:* Nummer 3B1901k schließt Ätzen durch ‚Radikaleʻ, Ionen, sequenzielle
-        oder nicht-sequenzielle Reaktionen ein.
-
-
-    *Anmerkung 2:* Nummer 3B1901k schließt folgende Plasmaätzverfahren ein:
-
-        a)  Verwendung von Plasma, das durch Hochfrequenzpulse angeregt wird (RF
-            Pulse Excited Plasma),
-
-
-        b)  Verwendung von pulsangeregtem Plasma mit Austastlücke (Pulsed Duty
-            Cycle Excited Plasma),
-
-
-        c)  Verwendung von pulsangeregtem Plasma, das durch Spannungsanlegen an
-            die Elektroden modifiziert wird (Pulsed Voltage on Electrodes Modified
-            Plasma),
-
-
-        d)  Plasmaätzverfahren mit zyklischem Einleiten und Ausspülen von Gasen
-            (Cyclic Injection and Purging of Gases Combinded with a Plasma),
-
-
-        e)  Atomic-Layer-Plasmaätzen (Plasma Atomic Layer Etching) oder
-
-
-        f)  Quasi-Atomic-Layer-Plasmaätzen (Plasma Quasi-Atomic Layer Etching).
-
-
-
-
-
-
-
-    *Technische Anmerkung:*
-
-    1.  Im Sinne der Nummer 3B1901k wird die ‚Silizumgermanium-zu-Silizium-
-        Selektivität (SiGe:Si)ʻ bei einer Germanium-Konzentration
-        größer/gleich 30 % (Si 0,70 Ge 0,30) gemessen.
-
-
-    2.  Im Sinne der Nummer 3B1901k wird ein ‚Radikalʻ als ein Atom, Molekül
-        oder Ion mit einem ungepaarten Elektron in einer offenen
-        Elektronenschale definiert.
-
-
-
-
-
-3B1903 Rasterelektronenmikroskope (Scanning Electron Microscopes),
-    konstruiert für die bildgebende Untersuchung von
-    Halbleiterbauelementen oder Integrierten Schaltkreisen, mit allen
-    folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des
-    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
-    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
-    liegt:
-
-    a)  Ausrichtung des Probentischs mit einer Genauigkeit kleiner (besser)
-        als 30 nm,
-
-
-    b)  Probentischpositionierung mittels Laserinterferometrie,
-
-
-    c)  Positionskalibrierung im Sichtfeld (Field-of-View, FOV) mittels
-        interferometrischer Längenmessung;
-
-
-    d)  Bildaufnahme und -speicherung mit mehr als 200 000 000 Pixel;
-
-
-    e)  Sichtfeld (FOV) Überlappung weniger als 5 % in vertikaler und
-        horizontaler Richtung,
-
-
-    f)  Überlappung des Sichtfeldes beim Stitching (Stitching Overlap of FOV)
-        kleiner als 50 nm, und
-
-
-    g)  Beschleunigungsspannung größer als 21 kV.
-
-
-
-
-    *Anmerkung:* Nummer 3B1903 schließt Rasterelektronenmikroskope ein, konstruiert für
-        das Redesign von Integrierten Schaltungen (Chip Design Recovery).
-
-
-
-
-
-3B1904 Kryogene Wafer-Prüfausrüstung mit allen folgenden Eigenschaften, wenn
-    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
-    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt:
-
-    a)  konstruiert zum Testen von Bauelementen bei einer Temperatur
-        kleiner/gleich 4,5 K (–268,65 °C); und
-
-
-    b)  konstruiert für die Aufnahme von Wafer mit einem Durchmesser
-        größer/gleich 100 mm.
-
-
-
-
-
-3D1902 „Software“, besonders entwickelt für die „Verwendung“ von Ausrüstung,
-    die von Nummer 3B1901k erfasst wird, wenn das Bestimmungsziel
-    außerhalb des Zollgebiets der Europäischen Union und außerhalb der in
-    Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten
-    Gebiete liegt.
-
-
-3D1907 „Software“, entwickelt um „GDSII“ oder vergleichbare standardisierte
-    Layoutdaten zu gewinnen und eine Justierung der einzelnen Schichten
-    aufeinander (Layer-to-Layer Alignment) von Rasterelektronenmikroskop-
-    Aufnahmen vorzunehmen und „GDSII“-Daten für mehrere Ebenen oder die
-    Netzliste des Schaltkreises (Circuit Netlist) zu gewinnen, wenn das
-    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
-    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt.
-
-
-3E1901 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für
-    die „Entwicklung“ oder „Herstellung“ von Ausrüstung, die von Nummer
-    3A1901b13, 3A1904, 3B1901k, 3B1903 oder 3B1904 erfasst werden, wenn
-    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
-    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt.
-
-
-3E1902 „Technologie“, die nicht von Nummer 3E001 des Anhangs I der Verordnung
-    (EU) 2021/821 in der jeweils gültigen Fassung erfasst wird,
-    entsprechend der Allgemeinen Technologie-Anmerkung für die
-    „Entwicklung“ oder „Herstellung“ von Ausrüstung, die von Nummer
-    3A1901a15 erfasst wird, wenn das Bestimmungsziel außerhalb des
-    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
-    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
-    liegt.
-
-    *Anmerkung 1:* Nummer 3E1902 beinhaltet ‚Prozessbeschreibungenʻ (‚Process Recipesʻ).
-
-
-    *Anmerkung 2:* Nummer 3E1902 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie
-        enthalten Bibliotheken, welche Funktionen oder Technologien für von
-        Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
-        geltenden Fassung erfasste Güter implementieren.
-
-
-
-
-    *Technische Anmerkung 1:*
-
-    Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine
-    Zusammenstellung von Prozessbedingungen und -parametern für einen
-    bestimmten Prozessschritt.
-
-    *Technische Anmerkung 2:*
-
-    Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt
-    von einem Halbleiterhersteller, um die Einhaltung der
-    Entwurfsverfahren und -regeln sicherzustellen, die für die
-    erfolgreiche Herstellung eines spezifischen Entwurfs einer
-    integrierten Schaltung in einem spezifischen Halbleiterprozess unter
-    technologischen und herstellungsbezogenen Bedingungen erforderlich ist
-    (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
-
-
-3E1905 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für
-    die „Entwicklung“ oder „Herstellung“ integrierter Schaltungen oder
-    Bauelementen mit „Gate-All-Around-Feldeffekttransistor“
-    („GAAFET“)-Strukturen, wenn das Bestimmungsziel außerhalb des
-    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
-    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
-    liegt.
-
-    *Anmerkung 1:* Nummer 3E1905 beinhaltet ‚Prozessbeschreibungenʻ (‚Process Recipesʻ).
-
-
-    *Anmerkung 2:* Nummer 3E1905 ist nicht anwendbar für Werkzeugqualifikationen oder
-        Instandhaltung
-
-
-    *Anmerkung 3:* Nummer 3E1905 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie
-        enthalten Bibliotheken, welche Funktionen oder Technologien für von
-        Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
-        geltenden Fassung erfasste Güter implementieren.
-
-
-
-
-    *Technische Anmerkung 1:*
-
-    Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine
-    Zusammenstellung von Prozessbedingungen und -parametern für einen
-    bestimmten Prozessschritt.
-
-    *Technische Anmerkung 2:*
-
-    Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt
-    von einem Halbleiterhersteller, um die Einhaltung der
-    Entwurfsverfahren und -regeln sicherzustellen, die für die
-    erfolgreiche Herstellung eines spezifischen Entwurfs einer
-    integrierten Schaltung in einem spezifischen Halbleiterprozess unter
-    technologischen und herstellungsbezogenen Bedingungen erforderlich ist
-    (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
-
-
-4A1906 Quantencomputer und zugehörige „elektronische Baugruppen“ und
-    Bestandteile hierfür, wenn das Bestimmungsziel außerhalb des
-    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
-    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
-    liegt:
-
-    a)  Quantencomputer wie folgt:
-
-        1.  ausgelegt für den Betrieb von 34 oder mehr, jedoch weniger als 100,
-            ‚vollständig kontrolliertenʻ, ‚verbundenen‘ und ‚funktionierenden‘
-            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
-            10
-            -4                                haben;
-
-
-        2.  ausgelegt für den Betrieb von 100 oder mehr, jedoch weniger als 200,
-            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
-            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
-            10
-            -3                                haben;
-
-
-        3.  ausgelegt für den Betrieb von 200 oder mehr, jedoch weniger als 350,
-            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
-            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
-            2 x 10
-            -3                                haben;
-
-
-        4.  ausgelegt für den Betrieb von 350 oder mehr, jedoch weniger als 500,
-            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
-            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
-            3 x 10
-            -3                                haben;
-
-
-        5.  ausgelegt für den Betrieb von 500 oder mehr, jedoch weniger als 700,
-            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
-            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
-            4 x 10
-            -3                                haben;
-
-
-        6.  ausgelegt für den Betrieb von 700 oder mehr, jedoch weniger als 1 100,
-            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
-            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
-            5 x 10
-            -3                                haben;
-
-
-        7.  ausgelegt für den Betrieb von 1 100 oder mehr, jedoch weniger als
-            2 000, ‚vollständig kontrollierten‘, ‚verbundenen‘ und
-            ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘
-            von kleiner/gleich 6 x 10
-            -3                                haben;
-
-
-        8.  ausgelegt für den Betrieb von 2 000 oder mehr ‚vollständig
-            kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen
-            Qubits‘;
-
-
-
-
-
-    b)  Qubit-Bauteile und Qubit-Schaltkreise, die für den Betrieb von
-        Anordnungen von ‚physikalischen Qubits‘ ausgelegt sind oder diese
-        enthalten und besonders konstruiert sind für Güter, die von
-        Unternummer 4A1906a erfasst sind;
-
-
-    c)  Quanten-Kontroll-Anordnungen und Quanten-Mess-Einrichtungen, besonders
-        konstruiert für Güter, die von Unternummer 4A1906a erfasst sind;
-
-
-
-
-
-    *Anmerkung 1:* Nummer 4A1906 gilt für Quantencomputer basierenden auf dem
-        Schaltungsmodell (gatterbasiert) sowie für one-way Quantencomputer
-        (messungsbasiert). 4A1906 gilt nicht für adiabatische (annealing)
-        Quantencomputer.
-
-
-    *Anmerkung 2:* Nummer 4A1906 erfasst auch Güter, bei denen Qubits nicht
-        notwendigerweise dauerhaft physikalisch vorhanden sind. Beispielsweise
-        enthalten Quantencomputer auf photonischer Basis nicht dauerhaft ein
-        physikalisches Objekt, das als Qubit definiert werden kann.
-        Photonische Qubits entstehen während des Betriebs des Quantencomputers
-        und lösen sich danach wieder auf.
-
-
-    *Anmerkung 3:* Unternummer 4A1906b erfasst halbleitende, supraleitende und
-        photonische Qubit-Chips oder Chip-Anordnungen; Ionenfallenanordungen;
-        andere Qubit-Einschlusstechnologien; oder kohärente Verbindungen
-        solcher Güter.
-
-
-    *Anmerkung 4:* Unternummer 4A1906c erfasst Güter, die zum Kalibrieren,
-        Initialisieren, Manipulieren oder Messen der Qubits eines
-        Quantencomputers bestimmt sind.
-
-
-
-
-    *Technische Anmerkungen:*
-
-    Im Sinne von Nummer 4A1906 gilt:
-
-    1.  Ein ‚physikalisches Qubit‘ ist ein Quanten-Zweizustandsystem, mit dem
-        die elementare Einheit der Quantenlogik durch nicht fehlerkorrigierte
-        Manipulationen und Messungen dargestellt wird. ‚Physikalische Qubitsʻ
-        unterscheiden sich von logischen Qubits dadurch, dass logische Qubits
-        fehlerkorrigierte Qubits sind, welche aus mehreren ‚physikalischen
-        Qubitsʻ bestehen.
-
-
-    2.  ‚Vollständig kontrolliertʻ bedeutet, dass das ‚physikalische Qubitʻ
-        nach Bedarf kalibriert, initialisiert, ausgelesen und durch Gatter
-        manipuliert werden kann.
-
-
-    3.  ‚Verbundenʻ bedeutet, dass Zwei-Qubit-Gatter-Operationen zwischen
-        jedem beliebigen Paar der verfügbaren ‚funktionierendenʻ
-        ‚physikalischen Qubits‘ durchgeführt werden können. Dies bedeutet
-        nicht unbedingt eine all-to-all-Konnektivität.
-
-
-    4.  ‚funktionierend‘ bedeutet, dass das ‚physikalische Qubit‘ universelle
-        Quantencomputeroperationen gemäß den Systemspezifikationen für die
-        Güte (fidelity) der Qubitoperationen ausführt.
-
-
-    5.  ausgelegt auf den Betrieb von 34 oder mehr ‚vollständig
-        kontrollierte‘, ‚verbundene‘ und ‚funktionierende‘ ‚physikalische
-        Qubits‘, bezieht sich auf die Fähigkeit eines Quantencomputers, die in
-        34 oder mehr ‚physikalischen Qubits‘ verkörperten Quanteninformationen
-        einzuschließen, zu steuern, zu messen und zu verarbeiten, auch wenn
-        diese Anzahl ‚physikalischer Qubits‘ nicht dauerhaft im
-        Quantencomputer vorhanden ist.
-
-
-    6.  ‚CNOT-Fehler‘ ist der durchschnittliche physikalische Gatter-Fehler
-        für Controlled-NOT-Gatter (CNOT-Gatter) zwischen zwei benachbarten
-        ‚physikalischen Qubits‘.
-
-
-
-
-
-4D1901b3 „Software”, die nicht von Nummer 4D001 des Anhangs I der Verordnung
-    (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, besonders
-    entwickelt oder geändert für die „Entwicklung“ oder „Herstellung“ der
-    von den Unternummern 4A1906b oder 4A1906c erfassten Ausrüstungen, wenn
-    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
-    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt.
-
-
-4E1901b3 „Technologie“, die nicht von Nummer 4E001 des Anhangs I der Verordnung
-    (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird,
-    entsprechend der Allgemeinen Technologie-Anmerkung, für die
-    „Entwicklung“ oder „Herstellung“ der von den Unternummern 4A1906b oder
-    4A1906c erfassten Ausrüstungen, wenn das Bestimmungsziel außerhalb des
-    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
-    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
-    liegt.
+2D905 „Software“, besonders entwickelt für die „Entwicklung“, „Herstellung“
+    oder „Verwendung“ von Ausrüstung, die von Nummer 2B905 erfasst wird,
+    wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen
+    Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung
+    (EU) 2021/821 aufgeführten Gebiete liegt.
+
+
+2E905 „Technologie“, die nicht von den Nummern 2E001, 2E002 oder 2E503 des
+    Anhangs I der Verordnung (EU) 2021/821 in der jeweils gültigen Fassung
+    erfasst wird, entsprechend der Allgemeinen Technologie-Anmerkung für
+    die „Entwicklung“ oder „Herstellung“ oder „Verwendung“ von Ausrüstung,
+    die von Nummer 2B905 erfasst wird, oder „Software“, die von Nummer
+    2D905 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets
+    der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil
+    2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 
 5A902 Überwachungssysteme, Geräte und Bestandteile für IuK (Informations-
-    und Kommunikationstechnik) für öffentliche Netze, die nicht von Nummer
-    5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
-    geltenden Fassung erfasst werden, wie folgt, wenn das Bestimmungsziel
-    außerhalb des Zollgebiets der Europäischen Union und außerhalb der in
-    Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten
-    Gebiete liegt:
+    und Kommunikationstechnik) für öffentliche Netze, die nicht von
+    Unternummer 5D001e des Anhangs I der Verordnung (EU) 2021/821 in der
+    jeweils geltenden Fassung erfasst werden, wie folgt, wenn das
+    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
+    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt:
 
     a)  Überwachungszentren (Law Enforcement Monitoring Facilities) für Lawful
-        Interception Systeme (LI, z. B. gemäß ETSI ES 201 158, ETSI ES 201 671
+        Interception Systeme (LI, z. B. gemäß ETSI ES 201 158, ETSI ES 201 671
         oder vergleichbare Normen, Spezifikationen oder Standards) und
         besonders konstruierte Bestandteile hierfür;
 
 
     b)  Vorratsdatenspeicherungssysteme oder -geräte für Ereignisdaten
-        (Intercept Related Information IRI, z. B. gemäß ETSI TS 102 656 oder
+        (Intercept Related Information IRI, z. B. gemäß ETSI TS 102 656 oder
         vergleichbare Normen, Spezifikationen oder Standards) und besonders
         konstruierte Bestandteile hierfür.
 
@@ -9752,23 +9425,23 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    *Anmerkung:* 5A902 erfasst keine Systeme oder Geräte, die besonders konstruiert
-        sind für einen der folgenden Zwecke:
+    *Anmerkung:* Nummer 5A902 erfasst keine Systeme oder Geräte, die besonders
+        konstruiert sind für einen der folgenden Zwecke:
 
-        a)  Gebührenabrechnung,
-
-
-        b)  Datensammlungsfunktionen innerhalb von Netzelementen (z. B.
-            Vermittlungsstelle oder HLR),
+        a)  Gebührenabrechnung
 
 
-        c)  Dienstgüte des Netzwerks (Quality of Service – QoS),
+        b)  Datensammlungsfunktionen innerhalb von Netzelementen (z. B.
+            Vermittlungsstelle oder HLR)
 
 
-        d)  Nutzerzufriedenheit (Quality of Experience – QoE) *oder*
+        c)  Dienstgüte des Netzwerks (Quality of Service – QoS) *oder*
 
 
-        e)  des Betriebs bei Telekommunikationsunternehmen (Service Provider).
+        d)  Nutzerzufriedenheit (Quality of Experience – QoE)
+
+
+        e)  Des Betriebs bei Telekommunikationsunternehmen (Service Provider).
 
 
 
@@ -9784,15 +9457,15 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     ‚Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen
     Teilnehmern, denen Frequenzbündel zur Kommunikation zugewiesen werden.
-    Digitaler ‚Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio)
+    Digitaler ‚Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio)
     verwendet digitale Modulationsverfahren.
 
 
-5D902 „Software“, die nicht von Nummer 5D001e des Anhangs I der Verordnung
-    (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, wie
-    folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der
-    Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2
-    der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
+5D902 „Software“, die nicht von Unternummer 5D001e des Anhangs I der
+    Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst
+    wird, wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets
+    der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil
+    2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
 
     a)  „Software“, besonders entwickelt oder geändert für die „Entwicklung“,
         „Herstellung“ oder „Verwendung“ von in Nummer 5A902 erfassten
@@ -9812,15 +9485,15 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     Bestimmungsland Sudan oder Südsudan ist.
 
 
-5E902 „Technologie“, die nicht von Nummer 5E001a des Anhangs I der
+5E902 „Technologie“, die nicht von Unternummer 5E001a des Anhangs I der
     Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst
     wird, entsprechend der Allgemeinen Technologie-Anmerkung für die
     „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen,
     Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst
     werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das
     Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
-    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt.
+    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung
+    (EU) 2021/821                    aufgeführten Gebiete liegt.
 
 
 6A908 Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs-
@@ -9840,7 +9513,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     a)  Antennen, konstruiert für die Verwendung im Zusammenhang mit
         „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets
         der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil
-        2 der Verordnung (EG) 2021/821 aufgeführten Gebiete liegt;
+        2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt;
 
 
     b)  „Laser“kommunikationsterminals (LCTs,
@@ -9856,8 +9529,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     *Technische Anmerkung:*
 
-    Nummer 9A904b schließt Güter ein, die in folgenden Zusammenhängen mit
-    „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf
+    Unternummer 9A904b schließt Güter ein, die in folgenden Zusammenhängen
+    mit „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf
     „Raumfahrzeugen“:
 
     1.  Einsatz als Nutzlast für Up- oder Downlink,
@@ -9970,14 +9643,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 9E904 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die
-    nicht von den Unternummern 5E001b2, 9E001 und 9E002 des Anhangs I der
-    Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst
-    wird, für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von
-    Gütern, die von Nummer 9A904 erfasst werden, oder „Software“, die von
-    Nummer 9D904 erfasst wird, wenn das Bestimmungsziel außerhalb des
-    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
-    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
-    liegt.
+    nicht von der Unternummer 5E001b2 und den Nummern 9E001 sowie 9E002
+    des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden
+    Fassung erfasst wird, für die „Entwicklung“, „Herstellung“ oder
+    „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, oder
+    „Software“, die von Nummer 9D904 erfasst wird, wenn das
+    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
+    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt.
 
 
 9E991 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für
@@ -9987,73 +9660,62 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 9E992 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die
-    nicht von Nummer 9E101b des Anhangs I der Verordnung (EU) 2021/821 in
-    der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der
-    von Nummer 9A012 des Anhangs I der Verordnung (EU) 2021/821 in der
-    jeweils geltenden Fassung erfassten „unbemannten Luftfahrzeuge“
-    („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der
-    Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2
-    der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
+    nicht von Unternummer 9E101b des Anhangs I der Verordnung (EU)
+    2021/821 in der jeweils geltenden Fassung erfasst wird, für die
+    „Herstellung“ der von Nummer 9A012 des Anhangs I der Verordnung (EU)
+    2021/821 in der jeweils geltenden Fassung erfassten „unbemannten
+    Luftfahrzeuge“ („UAV“), wenn das Bestimmungsziel außerhalb des
+    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
+    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
+    liegt.
 
 
 
 
-## **Verzeichnis der verwendeten Abkürzungen**
+**Verzeichnis der verwendeten Abkürzungen**
 
 **Abkürzungen, für die eine Definition vorliegt, siehe
 Begriffsbestimmungen**
 
-*    *   AIP
-
-    *   Außenluftunabhängige Antriebsysteme (Air Independent Propulsion)
-
-
-*    *   C
-        3                       I
-
-    *   Führung, Information und Aufklärung (command, communications, control
-        & intelligence)
+AIP Außenluftunabhängige Antriebsysteme
+    (Air Independent Propulsion)
 
 
-*    *   C
-        4                       I
-
-    *   Führung, Information und Aufklärung (command, communications, control,
-        computer & intelligence)
+    C
+3I  Führung, Information und Aufklärung
+    (command, communications, control & intelligence)
 
 
-*    *   CAS
-
-    *   Chemical Abstracts Service
-
-
-*    *   CVD
-
-    *   Chemische Beschichtung aus der Gasphase (chemical vapour deposition)
+    C
+4I  Führung, Information und Aufklärung
+    (command, communications, control, computer & intelligence)
 
 
-*    *   EB-PVD
-
-    *   Physikalische Beschichtung aus der Gasphase durch thermisches
-        Verdampfen (electron beam physical vapour deposition)
+CAS Chemical Abstracts Service
 
 
-*    *   ICAO
-
-    *   Internationale Zivilluftfahrt-Organisation (International Civil
-        Aviation Organization)
+CVD Chemische Beschichtung aus der Gasphase
+    (chemical vapour deposition)
 
 
-*    *   RPV
+EB-PVD Physikalische Beschichtung aus der Gasphase durch thermisches
+    Verdampfen
+    (electron beam physical vapour deposition)
 
-    *   Ferngesteuerte Flugobjekte (remotely piloted air vehicles)
+
+ICAO Internationale Zivilluftfahrt-Organisation
+    (International Civil Aviation Organization)
+
+
+RPV Ferngesteuerte Flugobjekte
+    (remotely piloted air vehicles)
 
 
 
 
-## **Begriffsbestimmungen**
+**Begriffsbestimmungen**
 
-Begriffe in ‚einfachen Anführungszeichen‚ werden in einer Anmerkung zu
+Begriffe in ‚einfachen Anführungszeichen‘ werden in einer Anmerkung zu
 dem entsprechenden Eintrag erläutert.
 
 Begriffe in „doppelten Anführungszeichen“ werden in folgenden
@@ -10097,18 +9759,18 @@ fiberoptische oder gläserne Ein- und Ausgangsfenster oder Multi-
 Alkali-Fotokathoden (S-20 oder S-25) verwenden, jedoch keine
 Mikrokanalplatten-Verstärker.
 
-„Biokatalysatoren“ (0007 0022) (biocatalysts): ‚Enzymeʻ oder andere
-biologische Verbindungen, die spezifische chemische Kampfstoffe binden
-und deren Abbau beschleunigen.
+„Biokatalysatoren“ (DEF 0007 0022) (biocatalysts): ‚Enzyme‘ oder
+andere biologische Verbindungen, die spezifische chemische Kampfstoffe
+binden und deren Abbau beschleunigen.
 
-*Anmerkung:* ‚Enzymeʻ (enzymes): „Biokatalysatoren“ für spezifische chemische oder
+*Anmerkung:* ‚Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder
     biochemische Reaktionen.
 
 
 
 
 „Biologische Agenzien“ (0007) (biological agents): Pathogene oder
-Toxine, ausgewählt oder geändert (z. B. Änderung der Reinheit,
+Toxine, ausgewählt oder geändert (z. B. Änderung der Reinheit,
 Lagerbeständigkeit, Virulenz, Verbreitungsmerkmale oder
 Widerstandsfähigkeit gegen UV-Strahlung) für die Außergefechtsetzung
 von Menschen oder Tieren, die Funktionsbeeinträchtigung von
@@ -10126,7 +9788,7 @@ a)  Daten aufnehmen,
 
 
 b)  Daten oder Befehle in einem festen oder veränderbaren (beschreibbaren)
-    Speicher speichern,
+    Speicher speichern;
 
 
 c)  Daten durch eine gespeicherte und veränderbare Befehlsfolge
@@ -10145,30 +9807,11 @@ d)  Daten ausgeben.
 
 
 
-„Elektronische Baugruppe“ (4A1906) (electronic assembly): eine Anzahl
-elektronischer Bauelemente (d. h. ‚Schaltungselementeʻ, diskrete
-Bauelementeʻ, integrierte Schaltungen u. ä.), die miteinander
-verbunden sind, um eine bestimmte Funktion oder mehrere bestimmte
-Funktionen zu erfüllen. Die „elektronische Baugruppe“ ist als Ganzes
-austauschbar und normalerweise demontierbar.
-
-*Anmerkung 1:* ‚Schaltungselementʻ (circuit element): eine einzelne aktive oder
-    passive Funktionseinheit einer elektronischen Schaltung, z. B. eine
-    Diode, ein Transistor, ein Widerstand, ein Kondensator.
-
-
-*Anmerkung 2:* ‚Diskretes Bauelementʻ (discrete component): ein in einem eigenen
-    Gehäuse befindliches ‚Schaltungselementʻ mit eigenen äußeren
-    Anschlüssen.
-
-
-
-
 „Endeffektoren“ (0017) (end-effectors): umfassen Greifer, ‚aktive
-Werkzeugeinheitenʻ und alle anderen Werkzeuge, die am Anschlussflansch
+Werkzeugeinheiten‘ und alle anderen Werkzeuge, die am Anschlussflansch
 am Ende des „Roboter“-Greifarms bzw. der -Greifarme angebaut sind.
 
-*Anmerkung:* ‚Aktive Werkzeugeinheitʻ (active tooling unit): eine Einrichtung, die
+*Anmerkung:* ‚Aktive Werkzeugeinheit‘ (active tooling unit): eine Einrichtung, die
     dem Werkzeug Bewegungskraft, Prozessenergie oder Sensorsignale
     zuführt.
 
@@ -10181,15 +9824,14 @@ welche für die beabsichtigte Verwendung benötigt wird.
 „Explosivstoffe“, „Pyrotechnika“ und „Treibstoffe“ sind Untergruppen
 von energetischen Materialien.
 
-„Entwicklung“ (ATA 0017 0021 0022 1E901 3E1901 3E1902 3E1905 4D1901b3
-4E1901b3 5D902 5E902 6D908 9D904 9E904 9E991) (development): schließt
-alle Stufen vor der Serienfertigung ein, z. B. Konstruktion,
-Forschung, Analyse, Konzepte, Zusammenbau und Test von Prototypen,
-Pilotserienpläne, Konstruktionsdaten, Verfahren zur Umsetzung der
-Konstruktionsdaten ins Produkt, Konfigurationsplanung,
-Integrationsplanung, Layout.
+„Entwicklung“ (ATA DEF 0017 0021 0022 1E901 2D905 2E905 5D902 5E902
+6D908 9D904 9E904 9E991) (development): schließt alle Stufen vor der
+Serienfertigung ein, z. B. Konstruktion, Forschung, Analyse, Konzepte,
+Zusammenbau und Test von Prototypen, Pilotserienpläne,
+Konstruktionsdaten, Verfahren zur Umsetzung der Konstruktionsdaten ins
+Produkt, Konfigurationsplanung, Integrationsplanung, Layout.
 
-„Explosivstoffe“ (0008 0018) (explosives): feste, flüssige oder
+„Explosivstoffe“ (DEF 0008) (explosives): feste, flüssige oder
 gasförmige Stoffe oder Stoffgemische, die erforderlich sind, um bei
 ihrer Verwendung als Primärladungen, Verstärker- oder Hauptladungen in
 Gefechtsköpfen, Geschossen und anderen Einsatzarten Detonationen
@@ -10220,27 +9862,16 @@ f)  Pulpe aus aromatischen Polyamiden.
 
 
 
-„Gate-All-Around-Feldeffekttransistor“ (3E1905) (Gate-All-Around
-Field-Effect Transistor, „GAAFET“): ein Bauelement mit einem oder
-mehreren Halbleiter-Leitungskanalelementen und einer gemeinsamen Gate-
-Struktur, die alle Halbleiter-Leitungskanalelemente umgibt und den
-Strom in ihnen steuert.
-
-„GDSII“ („Graphic Design System II“) (3D1907): GDSII ist ein
-Datenformat zum Austausch von Layoutdaten oder anderer Daten
-Integrierter Schaltungen.
-
 „Gleichwertige Standards“ (0006 0013) (equivalent standards):
 Vergleichbare nationale oder internationale Standards, die von einem
 oder mehreren EU-Mitgliedstaaten oder Teilnehmerstaaten des Wassenaar-
 Arrangements anerkannt werden und auf den betreffenden Eintrag
 anwendbar sind.
 
-„Herstellung“ (ATA 0021 0022 1E901 3E1901 3E1902 3E1905 4D1901b3
-4E1901b3 5D902 5E902 6D908 9D904 9E904 9E991) (production): schließt
-alle Fabrikationsstufen ein, z. B. Fertigungsvorbereitung, Fertigung,
-Integration, Zusammenbau, Kontrolle, Prüfung (Test),
-Qualitätssicherung.
+„Herstellung“ (ATA DEF 0021 0022 2D905 2E905 5D902 5E902 6D908 9D904
+9E904 9E991) (production): schließt alle Fabrikationsstufen ein, z. B.
+Fertigungsvorbereitung, Fertigung, Integration, Zusammenbau,
+Kontrolle, Prüfung (Test), Qualitätssicherung.
 
 „Isolierte lebende Kulturen“ (DEF) (isolated live cultures): schließen
 lebende Kulturen in gefrorener Form und als Trockenpräparat ein.
@@ -10281,7 +9912,7 @@ Tragflächen, mit Kipprotoren oder Kippflügeln.
 Luftfahrzeug, dessen Auftrieb durch ein Traggas aufrechterhalten wird,
 das leichter als Luft ist (in der Regel Helium, früher Wasserstoff).
 
-„Mikroorganismen“ (2B952) (microorganisms): Bakterien, Viren,
+„Mikroorganismen“ (DEF 2B952) (microorganisms): Bakterien, Viren,
 Mycoplasma, Rickettsiae, Chlamydiae oder Pilze in natürlicher,
 adaptierter oder modifizierter Form entweder in Form „isolierter
 lebender Kulturen“ oder als Material, das gezielt mit solchen Kulturen
@@ -10303,9 +9934,10 @@ der Sicherheitslücke zuständig sind.
 eines Prozesses in einer Form oder umsetzbar in eine Form, die von
 einem elektronischen Rechner ausführbar ist.
 
-„pyrotechnisch“ (0004 0008) (pyrotechnic): siehe „Pyrotechnika“.
+„pyrotechnisch“ (0001 0002 0004 0008) (pyrotechnic): siehe
+„Pyrotechnika“.
 
-„Pyrotechnika“ (0008) (pyrotechnics): Mischungen aus festen oder
+„Pyrotechnika“ (DEF 0008) (pyrotechnics): Mischungen aus festen oder
 flüssigen „Treibstoffen“ mit Sauerstoffträgern, die nach dem Anzünden
 eine energetische chemische Reaktion durchlaufen, um spezifische
 Zeitverzögerungen oder Wärmemengen, Lärm, Rauch, Nebel, Licht oder
@@ -10345,14 +9977,43 @@ Cybersicherheitsvorfall mit Einzelpersonen oder Organisationen, die
 für die Durchführung oder Koordinierung von Maßnahmen zur Bewältigung
 des Cybersicherheitsvorfalls zuständig sind.
 
-„Reizstoffe“ (0007) (riot control agents): Stoffe, die, unter den zu
-erwartenden Bedingungen bei einem Einsatz zur Bekämpfung von Unruhen,
-beim Menschen spontan Reizungen der Sinnesorgane oder
+„Reizstoffe“ (0007) (riot control agents (RCAs)): Stoffe, die, unter
+den zu erwartenden Bedingungen bei einem Einsatz zur Bekämpfung von
+Unruhen, beim Menschen spontan Reizungen der Sinnesorgane oder
 Handlungsunfähigkeit verursachende Wirkung hervorrufen, welche
 innerhalb kurzer Zeit nach Beendigung der Exposition verschwinden.
 (Tränengase sind eine Untermenge von „Reizstoffen“).
 
-„Roboter“ (0017) (robot): ein Handhabungssystem, das bahn- oder
+*Anmerkung:* „Reizstoffe“ schließen Folgendes ein:
+
+    1.  α-Bromphenylacetonitril (Brombenzylcyanid) (CA) (CAS-Nr. 5798-79-8);
+
+
+    2.  [(2-Chlorphenyl)methylen]propandinitril
+        (o-Chlorbenzylidenmalonsäuredinitril) (CS)
+        (CAS-Nr. 2698-41-1);
+
+
+    3.  2-Chlor-1-phenylethanon, Phenylacylchlorid (ω-Chloracetophenon) (CN)
+        (CAS-Nr. 532-27-4);
+
+
+    4.  Dibenz-(b,f)-1,4-oxazepin (CR) (CAS-Nr. 257-07-8);
+
+
+    5.  10-Chlor-5,10-dihydrophenarsazin (Phenarsazinchlorid) (Adamsit), (DM)
+        (CAS-Nr. 578-94-9);
+
+
+    6.  N-Nonanoylmorpholin (MPA) (CAS-Nr. 5299-64-9).
+
+
+
+
+
+
+
+„Roboter“ (DEF 0017) (robot): ein Handhabungssystem, das bahn- oder
 punktgesteuert sein kann, Sensoren benutzen kann und alle folgenden
 Eigenschaften aufweist:
 
@@ -10371,7 +10032,7 @@ c)  mit drei oder mehr Regel- oder Stellantrieben, die Schrittmotoren
 d)  mit „anwenderzugänglicher Programmierbarkeit“ durch
     Eingabe-/Wiedergabe-Verfahren (teach/playback) oder durch einen
     Elektronenrechner, der auch eine speicherprogrammierbare Steuerung
-    sein kann, d.h. ohne mechanischen Eingriff.
+    sein kann, d. h. ohne mechanischen Eingriff.
 
 
 
@@ -10394,9 +10055,9 @@ d)  mit „anwenderzugänglicher Programmierbarkeit“ durch
         Das Programm wird durch feste, aber verstellbare Anschläge wie Stifte
         und Nocken mechanisch begrenzt. Der Bewegungsablauf und die Wahl der
         Bahnen oder Winkel sind innerhalb des festgelegten Programmablaufs
-        veränderbar. Veränderungen oder Modifikationen des Programmablaufs (z.
-        B. durch Wechsel von Stiften oder Austausch von Nocken) in einer oder
-        mehreren Bewegungsachsen werden nur durch mechanische Vorgänge
+        veränderbar. Veränderungen oder Modifikationen des Programmablaufs
+        (z. B. durch Wechsel von Stiften oder Austausch von Nocken) in einer
+        oder mehreren Bewegungsachsen werden nur durch mechanische Vorgänge
         ausgeführt,
 
 
@@ -10425,26 +10086,26 @@ einen anderen Himmelskörper betrieben zu werden. „Satelliten“ umfassen
 auch Orbitalstationen.
 
 „Satelliten-Navigationssystem“ (0011) (satellite navigation system):
-ein System, das aus Bodenstationen, einer Konstellation von
-„Satelliten“ und Empfangsgeräten besteht und die Berechnung der
-Standorte von Empfangsgeräten auf der Grundlage der von den
-„Satelliten“ empfangenen Signale ermöglicht. Der Begriff schließt
-weltweite Satelliten-Navigationssysteme (GNSS) und regionale
-Satelliten-Navigationssysteme (RNSS) ein.
+ein System, das aus Bodenstationen, einer Konstellation von Satelliten
+und Empfangsgeräten besteht und die Berechnung der Standorte von
+Empfangsgeräten auf der Grundlage der von den Satelliten empfangenen
+Signale ermöglicht. Der Begriff schließt weltweite Satelliten-
+Navigationssysteme (GNSS) und regionale Satelliten-Navigationssysteme
+(RNSS) ein.
 
-„Software“ (ASA 0004 0011 0021 3D1902 3D1907 4D1901b3 5D902 5D911
-6D908 9D904) (software): eine Sammlung eines oder mehrerer „Programme“
-oder „Mikroprogramme“, die auf einem beliebigen greifbaren
+„Software“ (ASA DEF 0004 0011 0021 2D905 2E905 5D902 5D911 6D908
+9D904) (software): eine Sammlung eines oder mehrerer „Programme“ oder
+„Mikroprogramme“, die auf einem beliebigen greifbaren
 (Ausdrucks-)Medium fixiert sind.
 
-„Suborbitale Fahrzeuge“ (0010) (sub-orbital craft): ein Fahrzeug mit
+„Suborbitale Fahrzeuge“ (0010) (sub-orbital craft): Ein Fahrzeug mit
 einer Hülle für die Beförderung von Personen oder Fracht, das dazu
 konstruiert ist,
 
 a)  oberhalb der Stratosphäre betrieben zu werden,
 
 
-b)  ausschließlich nichtorbitale Flugbahnen auszuführen und
+b)  ausschließlich nichtorbitale Flugbahnen auszuführen, und
 
 
 c)  wieder auf der Erde zu landen, wobei die Insassen unversehrt bzw. die
@@ -10453,11 +10114,11 @@ c)  wieder auf der Erde zu landen, wobei die Insassen unversehrt bzw. die
 
 
 
-„Supraleitend“ (0020) (superconductive): Materialien (d.h. Metalle,
+„Supraleitend“ (0020) (superconductive): Materialien (d. h. Metalle,
 Legierungen oder Verbindungen), die ihren elektrischen Widerstand
-vollständig verlieren können, d.h., sie können unbegrenzte elektrische
-Leitfähigkeit erreichen und sehr große elektrische Ströme ohne
-Joulesche Erwärmung übertragen.
+vollständig verlieren können, d. h., sie können unbegrenzte
+elektrische Leitfähigkeit erreichen und sehr große elektrische Ströme
+ohne Joulesche Erwärmung übertragen.
 
 *Anmerkung:* Der „supraleitende“ Zustand eines Materials ist jeweils gekennzeichnet
     durch eine „kritische Temperatur“, ein kritisches Magnetfeld, das eine
@@ -10467,23 +10128,23 @@ Joulesche Erwärmung übertragen.
 
 
 
-„Technologie“ (ATA 0022 1E901 3E1901 3E1902 3E1905 4E1901b3 5E902
-9E904 9E991 9E992) (technology): spezifisches technisches Wissen, das
-für die „Entwicklung“, „Herstellung“ oder „Verwendung“ eines Produkts
-nötig ist. Das technische Wissen wird in der Form von ‚technischen
-Unterlagenʻ oder ‚technischer Unterstützungʻ verkörpert.
+„Technologie“ (ATA DEF 0022 1E901 2E905 5E902 9E904 9E991 9E992)
+(technology): spezifisches technisches Wissen, das für die
+„Entwicklung“, „Herstellung“ oder „Verwendung“ eines Produkts nötig
+ist. Das technische Wissen wird in der Form von ‚technischen
+Unterlagen‘ oder ‚technischer Unterstützung‘ verkörpert.
 
-*Anmerkung 1:* ‚Technische Unterlagenʻ (technical data): können verschiedenartig
+*Anmerkung 1:* ‚Technische Unterlagen‘ (technical data): können verschiedenartig
     sein, z. B. Blaupausen, Pläne, Diagramme, Modelle, Formeln,
     Algorithmen, Tabellen, Konstruktionspläne und -spezifikationen,
     Beschreibungen und Anweisungen in Schriftform oder auf anderen Medien
     aufgezeichnet, wie Magnetplatten, Bänder oder Lesespeicher.
 
 
-*Anmerkung 2:* ‚Technische Unterstützungʻ (technical assistance): kann
+*Anmerkung 2:* ‚Technische Unterstützung‘ (technical assistance): kann
     verschiedenartig sein, z. B. Unterweisung, Vermittlung von
     Fertigkeiten, Schulung, Arbeitshilfe, Beratungsdienste, und kann auch
-    die Weitergabe von ‚technischen Unterlagenʻ einbeziehen.
+    die Weitergabe von ‚technischen Unterlagen‘ einbeziehen.
 
 
 
@@ -10494,10 +10155,10 @@ mit Ausnahme von Toxinen als Kontaminanten anderer Materialien wie
 pathologische Präparate, Kulturpflanzen, Lebensmittel oder
 Mutterkulturen von „Mikroorganismen“.
 
-„Treibstoffe“ (0008 0012 0018) (propellants): Substanzen oder
-Mischungen, die durch eine chemische Reaktion mit kontrollierter
-Abbrandrate große Volumina heißer Gase produzieren, um damit
-mechanische Arbeit zu verrichten.
+„Treibstoffe“ (DEF 0008) (propellants): Substanzen oder Mischungen,
+die durch eine chemische Reaktion mit kontrollierter Abbrandrate große
+Volumina heißer Gase produzieren, um damit mechanische Arbeit zu
+verrichten.
 
 „Unbemanntes Luftfahrzeug“ („UAV“) (0010) (unmanned aerial vehicle
 [UAV]): Luftfahrzeug, das in der Lage ist, ohne Anwesenheit einer
@@ -10511,9 +10172,9 @@ erfassten Leistungsmerkmale, Charakteristiken oder Funktionen erreicht
 oder überschritten werden. Diese „unverzichtbare“ „Technologie“ kann
 auch für verschiedenartige Produkte einsetzbar sein.
 
-„Verwendung“ (ATA 3D1902 5D902 5D911 5E902 6D908 9D904 9E904) (use):
-Betrieb, Aufbau (einschließlich Vor-Ort-Aufbau), Wartung (Test),
-Reparatur, Überholung, Wiederaufarbeitung.
+„Verwendung“ (ATA DEF 2D905 2E905 5D902 5D911 5E902 6D908 9D904 9E904)
+(use): Betrieb, Aufbau (einschließlich Vor-Ort-Aufbau), Wartung
+(Test), Reparatur, Überholung, Wiederaufarbeitung.
 
 „Vorprodukte“ (0008) (precursors): spezielle Chemikalien, die für die
 Herstellung von Sprengstoffen verwendet werden.
@@ -10537,7 +10198,7 @@ Phänomenen oder Tatsachen, die nicht in erster Linie auf ein
 spezifisches praktisches Ziel oder einen spezifischen praktischen
 Zweck gerichtet sind.
 
-„Zivile Luftfahrzeuge“ (0004 0010) (civil aircraft): sind solche
+„Zivile Luftfahrzeuge“ (DEF 0004 0010) (civil aircraft): sind solche
 „Luftfahrzeuge“, die mit genauer Bezeichnung in veröffentlichten
 Zulassungsverzeichnissen der zivilen Luftfahrtbehörden eines oder
 mehrerer EU-Mitgliedstaaten oder Teilnehmerstaaten des Wassenaar-
@@ -10552,8 +10213,7 @@ sind.
 
 ## **TEIL II**
 
-## **Waren pflanzlichen Ursprungs**
-
+**Waren pflanzlichen Ursprungs**
 
 *    *   Nr. des
         Warenverz.
@@ -10645,9 +10305,9 @@ sind.
 *    *   ex 0709
 
     *   Anderes Gemüse, frisch oder gekühlt,
-        ausgenommen Gemüse der Unterpositionen 0709 52 00, 0709 53 00,
-        0709 55 00,                      0709 56 00, 0709 60 91, 0709 60 95,
-        0709 60 99, 0709 92 10, 0709 92 90, 0709 99 40 und 0709 99 60
+        ausgenommen Gemüse der Unterpositionen 0709 52 00, 0709 53 00, 0709 55
+        00, 0709 56 00, 0709 60 91, 0709 60 95, 0709 60 99, 0709 92 10, 0709
+        92 90, 0709 99 40 und 0709 99 60
 
     *   G
 
@@ -10765,8 +10425,8 @@ sind.
 
 *    *
     *   **Kapitel 12**
-        Ölsamen und ölhaltige Früchte, verschiedene Samen und Früchte,
-        **Pflanzen zum Gewerbe- oder Heilgebrauch, Stroh und Futter**
+        **Ölsamen und ölhaltige Früchte, verschiedene Samen und Früchte,
+        Pflanzen zum Gewerbe- oder Heilgebrauch, Stroh und Futter**
 
     *
 
@@ -10777,6 +10437,7 @@ sind.
         weder gemahlen noch sonst zerkleinert
 
     *   G
+
 
 
 
