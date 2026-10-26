@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 801
 
+Geändert durch
+:   Art. 1 V v. 13.10.2026 I Nr. 306
+
 
 ## Eingangsformel
 
