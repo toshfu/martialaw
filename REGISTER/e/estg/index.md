@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.2009 I 3366, 3862;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 29.6.2026 I Nr. 197
+:   Art. 1 G v. 15.10.2026 I Nr. 307
 
 
 ## I. - Steuerpflicht
