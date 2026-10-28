@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 G v. 9.1.2026 I Nr. 7
 
+Änderung durch
+:   Art. 9 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+
 Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
 Parlaments und des Rates vom 9. September 2015 über ein
 Informationsverfahren auf dem Gebiet der technischen Vorschriften und
