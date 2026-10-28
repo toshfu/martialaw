@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 153 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 1 G v. 22.10.2026 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Zweck des Gesetzes
 
@@ -31,7 +34,8 @@ Durchführung von Baumaßnahmen.
 
 ## § 2 Geltungsbereich
 
-Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
+(1) Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen
+anzuwenden:
 
 1.  Deutsche Forschungsgemeinschaft e. V.,
 
@@ -66,10 +70,27 @@ Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 10. Alexander von Humboldt-Stiftung,
 
 
-11. Deutscher Akademischer Austauschdienst e. V.
+11. Deutscher Akademischer Austauschdienst e. V.,
+
+
+12. CTC gGmbH – Center for the Transformation of Chemistry,
+
+
+13. Deutsches Zentrum für Astrophysik gGmbH,
+
+
+14. Berlin Institute of Health at Charité,
+
+
+15. Deutsches Zentrum für Hochschul- und Wissenschaftsforschung.
 
 
 
+
+(2) § 4 ist auch auf Forschungseinrichtungen anzuwenden, die aufgrund
+der Förderung von Wissenschaft und Forschung als gemeinnützig im Sinne
+von § 52 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung anerkannt sind
+und nicht institutionell vom Bund gefördert werden.
 
 
 ## § 3 Globalhaushalt
@@ -90,10 +111,6 @@ Gebrauch gemacht werden, Ausgaben gemäß § 15 Absatz 2 der
 Bundeshaushaltsordnung zur Selbstbewirtschaftung zu veranschlagen. Auf
 die Ausweisung von Stellenplänen kann verzichtet werden.
 
-(3) Das jeweils zuständige Bundesministerium legt im Einvernehmen mit
-dem Bundesministerium der Finanzen geeignete Informations- und
-Steuerungsinstrumente fest.
-
 
 ## § 4 Einschränkung des Besserstellungsverbots
 
@@ -102,8 +119,9 @@ bewilligt werden, wenn die Wissenschaftseinrichtung die bei ihr
 beschäftigten Wissenschaftlerinnen und Wissenschaftler durch die
 Zahlung von Gehältern oder Gehaltsbestandteilen aus Mitteln, die weder
 unmittelbar noch mittelbar von der deutschen öffentlichen Hand
-finanziert werden, besserstellt als vergleichbare Arbeitnehmerinnen
-und Arbeitnehmer des Bundes. Satz 1 ist auch auf sonstige im
+finanziert werden mit Ausnahme von Fördermitteln der Europäischen
+Union, besserstellt als vergleichbare Arbeitnehmerinnen und
+Arbeitnehmer des Bundes. Satz 1 ist auch auf sonstige im
 wissenschaftsrelevanten Bereich Beschäftigte anzuwenden, wenn sie im
 Rahmen der Planung, Vorbereitung, Durchführung, Auswertung oder
 Bewertung von Forschungsvorhaben einen wesentlichen Beitrag leisten.
