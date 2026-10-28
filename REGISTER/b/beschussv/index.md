@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.10.2021 I 4622
 
+Änderung durch
+:   Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
 Informationsverfahren auf dem Gebiet der Normen und technischen
@@ -4791,15 +4794,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 *    *        ![bgbl1_2006_j1474-1_0280.jpg](bgbl1_2006_j1474-1_0280.jpg)
     *   Erstbeschuss
-        bei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1
-        des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen
+        bei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz
+        1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen
         wurden
 
 
 *    *        ![bgbl1_2006_j1474-1_0290.jpg](bgbl1_2006_j1474-1_0290.jpg)
     *   Instandsetzungsbeschuss
-        bei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1
-        des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut
+        bei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz
+        1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut
         beschossen wurden
 
 
